@@ -1,0 +1,1150 @@
+player,team,number,position,height,weight,last_attended,country,height_in,weight_lbs,player_id
+"Precious Achiuwa",NYK,5.0,F,,,Memphis,Nigeria,80,243.0,achiupr01
+"Steven
+Adams",HOU,12.0,C,,,Pittsburgh,New Zealand,83,265.0,adamsst01
+"Bam
+Adebayo",MIA,13.0,C,,,Kentucky,USA,81,255.0,adebaba01
+"Ochai
+Agbaji",TOR,30.0,G,,,Kansas,USA,77,215.0,agbajoc01
+"Santi
+Aldama",MEM,7.0,F,,,Loyola-Maryland,Spain,84,215.0,aldamsa01
+"Trey
+Alexander",DEN,23.0,G,,,Creighton,USA,76,185.0,alexatr01
+"Nickeil
+Alexander-Walker",MIN,9.0,G,,,Virginia Tech,Canada,77,205.0,alexani01
+"Grayson
+Allen",PHX,8.0,G,,,Duke,USA,76,198.0,allengr01
+"Jarrett
+Allen",CLE,31.0,C,,,Texas,USA,81,243.0,allenja01
+"Jose
+Alvarado",NOP,15.0,G,,,Georgia Tech,USA,72,179.0,alvarjo01
+"Kyle
+Anderson",MIA,20.0,F,,,UCLA,USA,81,230.0,anderky01
+"Giannis
+Antetokounmpo",MIL,34.0,F,,,Filathlitikos,Greece,83,243.0,antetgi01
+"Cole
+Anthony",ORL,50.0,G,,,North Carolina,USA,74,185.0,anthoco01
+"OG
+Anunoby",NYK,8.0,F,,,Indiana,United Kingdom,79,240.0,anunoog01
+"Taran
+Armstrong",GSW,1.0,G,,,"Cairns, Australia",Australia,77,190.0,armstta01
+"Deni
+Avdija",POR,8.0,F,,,Maccabi Tel Aviv,Israel,81,240.0,avdijde01
+"Deandre
+Ayton",POR,2.0,C,,,Arizona,Bahamas,84,252.0,aytonde01
+"Marcus
+Bagley",FA,FA,F,,,Arizona State,USA,78,217.0,baglema01
+"Marvin
+Bagley III",MEM,35.0,F,,,Duke,USA,82,235.0,iiima0100
+"Patrick
+Baldwin Jr.",LAC,23.0,F,,,Wisconsin-Milwaukee,USA,81,220.0,jr.pa0100
+"LaMelo
+Ball",CHA,1.0,G,,,Illawarra,USA,79,180.0,ballla010
+"Lonzo
+Ball",CHI,2.0,G,,,UCLA,USA,78,190.0,balllo010
+"Mo
+Bamba",FA,FA,C,,,Texas,USA,84,231.0,bambamo01
+"Paolo
+Banchero",ORL,5.0,F,,,Duke,USA,82,250.0,banchpa01
+"Desmond
+Bane",MEM,22.0,G,,,TCU,USA,77,215.0,banede010
+"Dalano
+Banton",POR,5.0,F,,,Nebraska,Canada,80,203.0,bantoda01
+"Dominick
+Barlow",ATL,26.0,F,,,Overtime Elite,USA,80,215.0,barlodo01
+"Harrison
+Barnes",SAS,40.0,F,,,North Carolina,USA,80,225.0,barneha01
+"Scottie
+Barnes",TOR,4.0,F,,,Florida State,USA,79,237.0,barnesc01
+"RJ
+Barrett",TOR,9.0,F,,,Duke,Canada,78,214.0,barrerj01
+"Charles
+Bassey",SAS,28.0,C,,,Western Kentucky,Nigeria,82,230.0,bassech01
+"Emoni
+Bates",CLE,21.0,F,,,Eastern Michigan,USA,80,202.0,batesem01
+"Jamison
+Battle",TOR,77.0,F,,,Ohio State,USA,79,220.0,battlja01
+"Nicolas
+Batum",LAC,33.0,G,,,Le Mans,France,80,230.0,batumni01
+"Damion
+Baugh",CHA,7.0,G,,,TCU,USA,76,194.0,baughda01
+"Bradley
+Beal",PHX,3.0,G,,,Florida,USA,76,207.0,bealbr010
+"Malik
+Beasley",DET,5.0,G,,,Florida State,USA,76,187.0,beaslma01
+"MarJon
+Beauchamp",NYK,0.0,F,,,NBA G League Ignite,USA,79,199.0,beaucma01
+"Reece
+Beekman",BKN,4.0,G,,,Virginia,USA,75,190.0,beekmre01
+"Saddiq
+Bey",WAS,14.0,G,,,Villanova,USA,79,215.0,beysa0100
+"Goga
+Bitadze",ORL,35.0,C,,,Mega Basket,Georgia,82,250.0,bitadgo01
+"Bismack
+Biyombo",SAS,15.0,C,,,Baloncesto Fuenlabrada,DRC,80,255.0,biyombi01
+"Anthony
+Black",ORL,0.0,G,,,Arkansas,USA,79,200.0,blackan01
+"Bogdan
+Bogdanović",LAC,10.0,G,,,Fenerbahce,Serbia,77,225.0,bogdabo01
+"Bol
+Bol",PHX,11.0,C,,,Oregon,Sudan,87,220.0,bolbo0100
+"Adem
+Bona",PHI,30.0,F,,,UCLA,Nigeria,82,235.0,bonaad010
+"Devin
+Booker",PHX,1.0,G,,,Kentucky,USA,78,206.0,bookede01
+"Brandon
+Boston",NOP,11.0,G,,,Kentucky,USA,78,188.0,bostobr01
+"Chris
+Boucher",TOR,25.0,F,,,Oregon,Saint Lucia,81,200.0,bouchch01
+"Jamaree
+Bouyea",MIL,15.0,G,,,San Francisco,USA,74,180.0,bouyeja01
+"Tony
+Bradley",IND,13.0,C,,,North Carolina,USA,83,248.0,bradlto01
+"Malaki
+Branham",SAS,22.0,F,,,Ohio State,USA,76,180.0,branhma01
+"Christian
+Braun",DEN,0.0,G,,,Kansas,USA,78,220.0,braunch01
+"Jalen
+Bridges",PHX,15.0,F,,,Baylor,USA,80,225.0,bridgja01
+"Mikal
+Bridges",NYK,25.0,G,,,Villanova,USA,78,209.0,bridgmi01
+"Miles
+Bridges",CHA,0.0,F,,,Michigan State,USA,79,225.0,bridgmi01
+"Oshae
+Brissett",FA,FA,F,,,Syracuse,Canada,79,210.0,brissos01
+"Malcolm
+Brogdon",WAS,15.0,G,,,Virginia,USA,76,229.0,brogdma01
+"Dillon
+Brooks",HOU,9.0,G,,,Oregon,Canada,78,225.0,brookdi01
+"Keion
+Brooks Jr.",NOP,FA,F,,,Washington,USA,79,210.0,jr.ke0100
+"Bruce
+Brown",NOP,0.0,G,,,Miami,USA,76,202.0,brownbr01
+"Jaylen
+Brown",BOS,7.0,G,,,California,USA,78,223.0,brownja01
+"Kobe
+Brown",LAC,21.0,F,,,Missouri,USA,79,250.0,brownko01
+"Moses
+Brown",FA,FA,C,,,UCLA,USA,86,258.0,brownmo01
+"Jalen
+Brunson",NYK,11.0,G,,,Villanova,USA,74,190.0,brunsja01
+"Thomas
+Bryant",IND,3.0,C,,,Indiana,USA,82,248.0,bryanth01
+"Kobe
+Bufkin",ATL,4.0,G,,,Michigan,USA,76,195.0,bufkiko01
+"Alec
+Burks",MIA,18.0,G,,,Colorado,USA,77,214.0,burksal01
+"Jared
+Butler",PHI,12.0,G,,,Baylor,USA,75,193.0,butleja01
+"Jimmy
+Butler III",GSW,10.0,F,,,Marquette,USA,79,230.0,iiiji0100
+"Matas
+Buzelis",CHI,14.0,F,,,NBA G League Ignite,USA,82,209.0,buzelma01
+"Jamal
+Cain",NOP,8.0,F,,,Oakland,USA,78,191.0,cainja010
+"Kentavious
+Caldwell-Pope",ORL,3.0,G,,,Georgia,USA,77,204.0,caldwke01
+"Toumani
+Camara",POR,33.0,F,,,Dayton,Belgium,79,229.0,camarto01
+"Vlatko
+Čančar",DEN,31.0,F,,,San Pablo Burgos,Slovenia,80,236.0,čančavl01
+"Clint
+Capela",ATL,15.0,C,,,Elan Chalon,Switzerland,82,256.0,capelcl01
+"Branden
+Carlson",OKC,15.0,C,,,Utah,USA,84,220.0,carlsbr01
+"Bub
+Carrington",WAS,8.0,G,,,Pittsburgh,USA,76,190.0,carribu01
+"Devin
+Carter",SAC,22.0,G,,,Providence,USA,74,195.0,cartede01
+"Jevon
+Carter",CHI,5.0,G,,,West Virginia,USA,73,200.0,carteje01
+"Wendell
+Carter Jr.",ORL,34.0,C,,,Duke,USA,82,270.0,jr.we0100
+"D.J.
+Carton",FA,FA,G,,,Marquette,USA,75,200.0,cartod.01
+"Alex
+Caruso",OKC,9.0,G,,,Texas A&M,USA,77,186.0,carusal01
+"Stephon
+Castle",SAS,5.0,G,,,Connecticut,USA,78,215.0,castlst01
+"Colin
+Castleton",TOR,11.0,C,,,Florida,USA,82,250.0,castlco01
+"Julian
+Champagnie",SAS,30.0,F,,,St. John's,USA,79,217.0,champju01
+"Justin
+Champagnie",WAS,9.0,G,,,Pittsburgh,USA,78,206.0,champju01
+"Ulrich
+Chomche",TOR,22.0,C,,,NBA Global Academy,Cameroon,83,235.0,chomcul01
+"Cam
+Christie",LAC,12.0,G,,,Minnesota,USA,78,190.0,chrisca01
+"Max
+Christie",DAL,0.0,G,,,Michigan State,USA,77,190.0,chrisma01
+"Josh
+Christopher",MIA,8.0,G,,,Arizona State,USA,76,215.0,chrisjo01
+"Sidy
+Cissoko",POR,25.0,G,,,NBA G League Ignite,France,78,200.0,cissosi01
+"Jaylen
+Clark",MIN,22.0,G,,,UCLA,USA,76,205.0,clarkja01
+"Brandon
+Clarke",MEM,15.0,F,,,Gonzaga,Canada,80,215.0,clarkbr01
+"Jordan
+Clarkson",UTA,0.0,G,,,Missouri,USA,75,194.0,clarkjo01
+"Nic
+Claxton",BKN,33.0,C,,,Georgia,USA,83,215.0,claxtni01
+"Donovan
+Clingan",POR,23.0,C,,,Connecticut,USA,86,280.0,clingdo01
+"Noah
+Clowney",BKN,21.0,F,,,Alabama,USA,81,210.0,clownno01
+"Amir
+Coffey",LAC,7.0,G,,,Minnesota,USA,79,210.0,coffeam01
+"Isaiah
+Collier",UTA,13.0,G,,,Southern California,USA,75,210.0,colliis01
+"John
+Collins",UTA,20.0,F,,,Wake Forest,USA,81,226.0,collijo01
+"Yuri
+Collins",FA,FA,G,,,St. Louis,USA,72,190.0,colliyu01
+"Zach
+Collins",CHI,12.0,F,,,Gonzaga,USA,83,250.0,colliza01
+"Mike
+Conley",MIN,10.0,G,,,Ohio State,USA,72,175.0,conlemi01
+"Pat
+Connaughton",MIL,24.0,G,,,Notre Dame,USA,77,209.0,connapa01
+"Bilal
+Coulibaly",WAS,0.0,G,,,Metropolitans 92,France,80,195.0,coulibi01
+"Ricky
+Council IV",PHI,14.0,G,,,Arkansas,USA,78,207.0,ivri01000
+"Torrey
+Craig",BOS,12.0,F,,,South Carolina Upstate,USA,77,221.0,craigto01
+"Isaiah
+Crawford",SAC,24.0,F,,,Louisiana Tech,USA,78,220.0,crawfis01
+"Jae
+Crowder",SAC,99.0,F,,,Marquette,USA,78,235.0,crowdja01
+"Cade
+Cunningham",DET,2.0,G,,,Oklahoma State,USA,78,220.0,cunnica01
+"Seth
+Curry",CHA,30.0,G,,,Duke,USA,73,185.0,curryse01
+"Stephen
+Curry",GSW,30.0,G,,,Davidson,USA,74,185.0,curryst01
+"Tristan
+da Silva",ORL,23.0,F,,,Colorado,Germany,80,217.0,silvatr01
+"Pacôme
+Dadiet",NYK,4.0,F,,,Ratiopharm Ulm,France,80,210.0,dadiepa01
+"Dyson
+Daniels",ATL,5.0,G,,,NBA G League Ignite,Australia,79,199.0,daniedy01
+"N'Faly
+Dante",HOU,3.0,C,,,Oregon,Mali,83,230.0,danten'01
+"Anthony
+Davis",DAL,3.0,F,,,Kentucky,USA,82,253.0,davisan01
+"Johnny
+Davis",FA,FA,G,,,Wisconsin,USA,76,195.0,davisjo01
+"Terence
+Davis",SAC,3.0,G,,,Mississippi,USA,76,201.0,daviste01
+"JD
+Davison",BOS,20.0,G,,,Alabama,USA,73,195.0,davisjd01
+"RayJ
+Dennis",IND,10.0,G,,,Baylor,USA,74,180.0,dennira01
+"DeMar
+DeRozan",SAC,10.0,G,,,Southern California,USA,78,220.0,derozde01
+"Moussa
+Diabaté",CHA,14.0,F,,,Michigan,France,81,210.0,diabamo01
+"Gradey
+Dick",TOR,1.0,G,,,Kansas,USA,78,200.0,dickgr010
+"Ousmane
+Dieng",OKC,13.0,F,,,New Zealand Breakers,France,81,185.0,diengou01
+"Rob
+Dillingham",MIN,4.0,G,,,Kentucky,USA,75,175.0,dilliro01
+"Spencer
+Dinwiddie",DAL,26.0,G,,,Colorado,USA,77,215.0,dinwisp01
+"Donte
+DiVincenzo",MIN,0.0,G,,,Villanova,USA,76,203.0,divindo01
+"Luka
+Dončić",LAL,77.0,F,,,Real Madrid,Slovenia,78,230.0,dončilu01
+"Luguentz
+Dort",OKC,5.0,G,,,Arizona State,Canada,76,220.0,dortlu010
+"Ayo
+Dosunmu",CHI,11.0,G,,,Illinois,USA,77,200.0,dosunay01
+"Jeff
+Dowtin Jr.",PHI,11.0,G,,,Rhode Island,USA,75,177.0,jr.je0100
+"PJ
+Dozier",FA,FA,G,,,South Carolina,USA,78,205.0,doziepj01
+"Andre
+Drummond",PHI,1.0,C,,,Connecticut,USA,83,279.0,drumman01
+"Chris
+Duarte",FA,FA,G,,,Oregon,Dominican Republic,77,190.0,duartch01
+"Alex
+Ducas",OKC,88.0,G,,,St.Mary's College of California,Australia,79,220.0,ducasal01
+"David
+Duke Jr.",SAS,7.0,G,,,Providence,USA,76,204.0,jr.da0100
+"Kris
+Dunn",LAC,8.0,G,,,Providence,USA,75,205.0,dunnkr010
+"Ryan
+Dunn",PHX,0.0,F,,,Virginia,USA,80,216.0,dunnry010
+"Kevin
+Durant",PHX,35.0,F,,,Texas,USA,83,240.0,duranke01
+"Jalen
+Duren",DET,0.0,C,,,Memphis,USA,82,250.0,durenja01
+"Tari
+Eason",HOU,17.0,F,,,Louisiana State,USA,80,215.0,easonta01
+"Zach
+Edey",MEM,14.0,C,,,Purdue,Canada,88,305.0,edeyza010
+"Anthony
+Edwards",MIN,5.0,G,,,Georgia,USA,76,225.0,edwaran01
+"Jesse
+Edwards",MIN,14.0,C,,,West Virginia,Netherlands,84,236.0,edwarje01
+"Justin
+Edwards",PHI,19.0,F,,,Kentucky,USA,79,203.0,edwarju01
+"Kessler
+Edwards",DAL,20.0,F,,,Pepperdine,USA,79,203.0,edwarke01
+"Keon
+Ellis",SAC,23.0,G,,,Alabama,USA,76,175.0,elliske01
+"Joel
+Embiid",PHI,21.0,C,,,Kansas,Cameroon,84,280.0,embiijo01
+"Tyson
+Etienne",BKN,10.0,G,,,Wichita State,USA,74,200.0,etienty01
+"Drew
+Eubanks",LAC,15.0,F,,,Oregon State,USA,82,245.0,eubandr01
+"Tosan
+Evbuomwan",BKN,12.0,F,,,Princeton,United Kingdom,79,217.0,evbuoto01
+"Danté
+Exum",DAL,0.0,G,,,Australian Institute of Sport,Australia,77,214.0,exumda010
+"Bruno
+Fernando",FA,FA,F,,,Maryland,Angola,81,240.0,fernabr01
+"Kyle
+Filipowski",UTA,22.0,C,,,Duke,USA,83,250.0,filipky01
+"Dorian
+Finney-Smith",LAL,17.0,F,,,Florida,USA,79,220.0,finnedo01
+"Adam
+Flagler",OKC,14.0,G,,,Baylor,USA,75,180.0,flaglad01
+"Trentyn
+Flowers",LAC,9.0,F,,,Adelaide,USA,81,185.0,flowetr01
+"Malachi
+Flynn",FA,FA,G,,,San Diego State,USA,73,185.0,flynnma01
+"Simone
+Fontecchio",DET,19.0,F,,,Baskonia,Italy,79,209.0,fontesi01
+"De'Aaron
+Fox",SAS,4.0,G,,,Kentucky,USA,75,185.0,foxde0100
+"Enrique
+Freeman",IND,8.0,F,,,Akron,USA,79,220.0,freemen01
+"Markelle
+Fultz",SAC,20.0,G,,,Washington,USA,76,209.0,fultzma01
+"Johnny
+Furphy",IND,12.0,G,,,Kansas,Australia,81,200.0,furphjo01
+"Daniel
+Gafford",DAL,21.0,F,,,Arkansas,USA,82,265.0,gaffoda01
+"Darius
+Garland",CLE,10.0,G,,,Vanderbilt,USA,73,192.0,garlada01
+"Marcus
+Garrett",FA,FA,G,,,Kansas,USA,77,205.0,garrema01
+"Luka
+Garza",MIN,55.0,C,,,Iowa,USA,82,243.0,garzalu01
+"Keyonte
+George",UTA,3.0,G,,,Baylor,USA,76,185.0,georgke01
+"Kyshawn
+George",WAS,18.0,F,,,Miami,Switzerland,80,200.0,georgky01
+"Paul
+George",PHI,8.0,F,,,Fresno State,USA,80,220.0,georgpa01
+"Taj
+Gibson",CHA,67.0,F,,,Southern California,USA,81,232.0,gibsota01
+"Josh
+Giddey",CHI,3.0,G,,,NBA Global Academy,Australia,80,216.0,giddejo01
+"Shai
+Gilgeous-Alexander",OKC,2.0,G,,,Kentucky,Canada,78,195.0,gilgesh01
+"Anthony
+Gill",WAS,16.0,F,,,Virginia,USA,80,230.0,gillan010
+"Collin
+Gillespie",PHX,12.0,G,,,Villanova,USA,73,195.0,gilleco01
+"Rudy
+Gobert",MIN,27.0,C,,,Cholet,France,85,258.0,goberru01
+"Jordan
+Goodwin",LAL,30.0,G,,,St. Louis,USA,77,215.0,goodwjo01
+"Aaron
+Gordon",DEN,32.0,F,,,Arizona,USA,80,235.0,gordoaa01
+"Eric
+Gordon",PHI,23.0,G,,,Indiana,USA,75,215.0,gordoer01
+"Jazian
+Gortman",FA,FA,G,,,Overtime Elite,USA,74,184.0,gortmja01
+"Jerami
+Grant",POR,9.0,F,,,Syracuse,USA,79,210.0,grantje01
+"AJ
+Green",MIL,20.0,G,,,Northern Iowa,USA,76,190.0,greenaj01
+"Draymond
+Green",GSW,23.0,F,,,Michigan State,USA,78,230.0,greendr01
+"Jalen
+Green",HOU,4.0,G,,,NBA G League Ignite,USA,76,186.0,greenja01
+"Javonte
+Green",CLE,8.0,G,,,Radford,USA,77,205.0,greenja01
+"Jeff
+Green",HOU,32.0,F,,,Georgetown,USA,80,235.0,greenje01
+"Josh
+Green",CHA,10.0,G,,,Arizona,Australia,77,200.0,greenjo01
+"Quentin
+Grimes",PHI,5.0,G,,,Houston,USA,76,210.0,grimequ01
+"Mouhamed
+Gueye",ATL,18.0,F,,,Washington State,Senegal,82,210.0,gueyemo01
+"Rui
+Hachimura",LAL,28.0,F,,,Gonzaga,Japan,80,230.0,hachiru01
+"Tyrese
+Haliburton",IND,0.0,G,,,Iowa State,USA,77,185.0,halibty01
+"PJ
+Hall",DEN,13.0,C,,,Clemson,USA,82,245.0,hallpj010
+"Tim
+Hardaway Jr.",DET,8.0,G,,,Michigan,USA,77,205.0,jr.ti0100
+"James
+Harden",LAC,1.0,G,,,Arizona State,USA,77,220.0,hardeja01
+"Jaden
+Hardy",DAL,1.0,G,,,NBA G League Ignite,USA,75,198.0,hardyja01
+"Elijah
+Harkless",UTA,16.0,G,,,UNLV,USA,75,195.0,harklel01
+"Ron
+Harper Jr.",DET,13.0,G,,,Rutgers,USA,76,233.0,jr.ro0100
+"Gary
+Harris",ORL,14.0,G,,,Michigan State,USA,76,210.0,harriga01
+"Tobias
+Harris",DET,12.0,F,,,Tennessee,USA,80,226.0,harrito01
+"Josh
+Hart",NYK,3.0,G,,,Villanova,USA,76,215.0,hartjo010
+"Isaiah
+Hartenstein",OKC,55.0,C,,,Zalgiris,Germany,84,250.0,harteis01
+"Sam
+Hauser",BOS,30.0,F,,,Virginia,USA,79,217.0,hausesa01
+"Jordan
+Hawkins",NOP,24.0,G,,,Connecticut,USA,77,190.0,hawkijo01
+"Jaxson
+Hayes",LAL,11.0,C,,,Texas,USA,84,220.0,hayesja01
+"Killian
+Hayes",FA,FA,G,,,Ratiopharm Ulm,France,77,195.0,hayeski01
+"Scoot
+Henderson",POR,0.0,G,,,NBA G League Ignite,USA,75,206.0,hendesc01
+"Taylor
+Hendricks",UTA,0.0,F,,,Central Florida,USA,81,215.0,hendrta01
+"Tyler
+Herro",MIA,14.0,G,,,Kentucky,USA,77,195.0,herroty01
+"Buddy
+Hield",GSW,7.0,G,,,Oklahoma,Bahamas,76,220.0,hieldbu01
+"Haywood
+Highsmith",MIA,24.0,F,,,Wheeling Jesuit,USA,77,220.0,highsha01
+"Aaron
+Holiday",HOU,0.0,G,,,UCLA,USA,72,185.0,holidaa01
+"Jrue
+Holiday",BOS,4.0,G,,,UCLA,USA,76,205.0,holidjr01
+"Ronald
+Holland II",DET,0.0,F,,,NBA G League Ignite,USA,80,206.0,iiro01000
+"Richaun
+Holmes",WAS,22.0,F,,,Bowling Green,USA,81,235.0,holmeri01
+"DaRon
+Holmes II",DEN,14.0,F,,,Dayton,USA,82,225.0,iida01000
+"Chet
+Holmgren",OKC,7.0,C,,,Gonzaga,USA,85,208.0,holmgch01
+"Jalen
+Hood-Schifino",PHI,17.0,G,,,Indiana,USA,77,210.0,hood-ja01
+"Al
+Horford",BOS,42.0,C,,,Florida,Dominican Republic,81,240.0,horfoal01
+"Talen
+Horton-Tucker",CHI,22.0,G,,,Iowa State,USA,76,234.0,hortota01
+"Caleb
+Houstan",ORL,2.0,G,,,Michigan,Canada,80,205.0,houstca01
+"Jett
+Howard",ORL,13.0,G,,,Michigan,USA,78,215.0,howarje01
+"Kevin
+Huerter",CHI,13.0,G,,,Maryland,USA,79,198.0,huertke01
+"Jay
+Huff",MEM,30.0,C,,,Virginia,USA,85,240.0,huffja010
+"Ariel
+Hukporti",NYK,55.0,C,,,MHP Riesen,Germany,83,246.0,hukpoar01
+"De'Andre
+Hunter",CLE,12.0,F,,,Virginia,USA,80,221.0,huntede01
+"Bones
+Hyland",MIN,77.0,G,,,Virginia Commonwealth,USA,74,169.0,hylanbo01
+"Oso
+Ighodaro",PHX,4.0,F,,,Marquette,USA,84,235.0,ighodos01
+"Joe
+Ingles",MIN,7.0,F,,,Maccabi Tel Aviv,Australia,80,220.0,inglejo01
+"Brandon
+Ingram",TOR,3.0,F,,,Duke,USA,80,190.0,ingrabr01
+"Harrison
+Ingram",SAS,55.0,F,,,North Carolina,USA,77,230.0,ingraha01
+"Kyrie
+Irving",DAL,11.0,G,,,Duke,Australia,74,195.0,irvinky01
+"Jonathan
+Isaac",ORL,1.0,F,,,Florida State,USA,82,230.0,isaacjo01
+"Jaden
+Ivey",DET,23.0,G,,,Purdue,USA,76,195.0,iveyja010
+"GG
+Jackson",MEM,45.0,F,,,South Carolina,USA,81,210.0,jacksgg01
+"Isaiah
+Jackson",IND,22.0,F,,,Kentucky,USA,81,205.0,jacksis01
+"Quenton
+Jackson",IND,29.0,G,,,Texas A&M,USA,77,173.0,jacksqu01
+"Reggie
+Jackson",FA,FA,G,,,Boston College,USA,74,208.0,jacksre01
+"Andre
+Jackson Jr.",MIL,44.0,G,,,Connecticut,USA,78,209.0,jr.an0100
+"Jaren
+Jackson Jr.",MEM,13.0,F,,,Michigan State,USA,82,242.0,jr.ja0100
+"Trayce
+Jackson-Davis",GSW,32.0,F,,,Indiana,USA,81,245.0,jackstr01
+"Bronny
+James",LAL,9.0,G,,,Southern California,USA,75,210.0,jamesbr01
+"LeBron
+James",LAL,23.0,F,,,St. Vincent-St. Mary HS (OH),USA,81,250.0,jamesle01
+"Jaime
+Jaquez Jr.",MIA,11.0,G,,,UCLA,USA,78,225.0,jr.ja0100
+"DaQuan
+Jeffries",CHA,3.0,G,,,Tulsa,USA,77,222.0,jeffrda01
+"Trey
+Jemison III",LAL,55.0,C,,,Alabama-Birmingham,USA,83,270.0,iiitr0100
+"Daniss
+Jenkins",DET,24.0,G,,,St. John's,USA,75,165.0,jenkida01
+"Ty
+Jerome",CLE,2.0,G,,,Virginia,USA,77,195.0,jeromty01
+"Isaiah
+Joe",OKC,11.0,G,,,Arkansas,USA,75,165.0,joeis0100
+"AJ
+Johnson",WAS,5.0,G,,,Illawarra,USA,77,160.0,johnsaj01
+"Cameron
+Johnson",BKN,2.0,F,,,North Carolina,USA,80,210.0,johnsca01
+"Jalen
+Johnson",ATL,1.0,F,,,Duke,USA,80,219.0,johnsja01
+"James
+Johnson",IND,16.0,F,,,Wake Forest,USA,79,240.0,johnsja01
+"Keldon
+Johnson",SAS,0.0,F,,,Kentucky,USA,77,220.0,johnske01
+"Keon
+Johnson",BKN,45.0,G,,,Tennessee,USA,77,185.0,johnske01
+"Keshad
+Johnson",MIA,16.0,F,,,Arizona,USA,79,225.0,johnske01
+"Nikola
+Jokić",DEN,15.0,C,,,Mega Basket,Serbia,83,284.0,jokićni01
+"Colby
+Jones",WAS,1.0,G,,,Xavier,USA,78,207.0,jonesco01
+"Dillon
+Jones",OKC,3.0,F,,,Weber State,USA,77,235.0,jonesdi01
+"Herbert
+Jones",NOP,2.0,F,,,Alabama,USA,79,206.0,joneshe01
+"Isaac
+Jones",SAC,3.0,F,,,Washington State,USA,81,245.0,jonesis01
+"Kai
+Jones",DAL,23.0,C,,,Texas,Bahamas,83,221.0,joneska01
+"Mason
+Jones",SAC,15.0,G,,,Arkansas,USA,76,200.0,jonesma01
+"Spencer
+Jones",DEN,21.0,F,,,Stanford,USA,79,225.0,jonessp01
+"Tre
+Jones",CHI,30.0,G,,,Duke,USA,73,185.0,jonestr01
+"Tyus
+Jones",PHX,21.0,G,,,Duke,USA,73,196.0,jonesty01
+"Derrick
+Jones Jr.",LAC,55.0,F,,,UNLV,USA,78,210.0,jr.de0100
+"DeAndre
+Jordan",DEN,6.0,C,,,Texas A&M,USA,83,265.0,jordade01
+"Cory
+Joseph",ORL,10.0,G,,,Texas,Canada,74,200.0,josepco01
+"Nikola
+Jović",MIA,5.0,F,,,Mega Basket,Serbia,82,205.0,jovićni01
+"Johnny
+Juzang",UTA,33.0,G,,,UCLA,USA,77,226.0,juzanjo01
+"Yuki
+Kawamura",MEM,17.0,G,,,-,Japan,68,159.0,kawamyu01
+"Kylor
+Kelley",FA,FA,C,,,Oregon State,USA,84,230.0,kelleky01
+"Luke
+Kennard",MEM,10.0,G,,,Duke,USA,77,206.0,kennalu01
+"Walker
+Kessler",UTA,24.0,C,,,Auburn,USA,84,245.0,kesslwa01
+"Braxton
+Key",GSW,12.0,F,,,Virginia,USA,80,225.0,keybr0100
+"Corey
+Kispert",WAS,24.0,F,,,Gonzaga,USA,78,224.0,kispeco01
+"Maxi
+Kleber",LAL,14.0,F,,,Bayern Munich,Germany,82,240.0,klebema01
+"Bobi
+Klintman",DET,34.0,F,,,Cairns,Sweden,81,225.0,klintbo01
+"Dalton
+Knecht",LAL,4.0,F,,,Tennessee,USA,78,215.0,knechda01
+"Kevin
+Knox II",GSW,31.0,F,,,Kentucky,USA,80,215.0,iike01000
+"Tyler
+Kolek",NYK,13.0,G,,,Marquette,USA,75,195.0,kolekty01
+"Christian
+Koloko",LAL,10.0,C,,,Arizona,Cameroon,84,225.0,kolokch01
+"John
+Konchar",MEM,46.0,G,,,Indiana-Purdue Fort Wayne,USA,77,210.0,konchjo01
+"Luke
+Kornet",BOS,40.0,C,,,Vanderbilt,USA,85,250.0,kornelu01
+"Vít
+Krejčí",ATL,27.0,G,,,Zaragoza,Czech Republic,80,195.0,krejčví01
+"Jonathan
+Kuminga",GSW,0.0,F,,,NBA G League Ignite,DRC,79,225.0,kuminjo01
+"Kyle
+Kuzma",MIL,18.0,F,,,Utah,USA,81,221.0,kuzmaky01
+"Skal
+Labissiere",FA,FA,F,,,Kentucky,Haiti,82,235.0,labissk01
+"Jock
+Landale",HOU,2.0,C,,,St. Mary's,Australia,83,255.0,landajo01
+"Jake
+LaRavia",SAC,33.0,F,,,Wake Forest,USA,79,235.0,laravja01
+"Pelle
+Larsson",MIA,9.0,G,,,Arizona,Sweden,77,215.0,larsspe01
+"Zach
+LaVine",SAC,8.0,G,,,UCLA,USA,77,200.0,lavinza01
+"A.J.
+Lawson",TOR,0.0,G,,,South Carolina,Canada,78,179.0,lawsoa.01
+"Damion
+Lee",PHX,10.0,G,,,Drexel,USA,78,210.0,leeda0100
+"Alex
+Len",LAL,27.0,C,,,Maryland,Ukraine,84,250.0,lenal0100
+"Kawhi
+Leonard",LAC,2.0,F,,,San Diego State,USA,79,225.0,leonaka01
+"Malevy
+Leons",FA,FA,F,,,Bradley,Netherlands,81,210.0,leonsma01
+"Caris
+LeVert",ATL,3.0,G,,,Michigan,USA,78,205.0,leverca01
+"Maxwell
+Lewis",BKN,27.0,F,,,Pepperdine,USA,79,215.0,lewisma01
+"E.J.
+Liddell",CHI,32.0,F,,,Ohio State,USA,78,240.0,liddee.01
+"Damian
+Lillard",MIL,0.0,G,,,Weber State,USA,74,195.0,lillada01
+"Dereck
+Lively II",DAL,2.0,C,,,Duke,USA,85,230.0,iide01000
+"Chris
+Livingston",MIL,7.0,F,,,Kentucky,USA,78,220.0,livinch01
+"Kevon
+Looney",GSW,5.0,F,,,UCLA,USA,81,222.0,looneke01
+"Brook
+Lopez",MIL,11.0,C,,,Stanford,USA,85,282.0,lopezbr01
+"Kevin
+Love",MIA,42.0,F,,,UCLA,USA,80,251.0,loveke010
+"Kyle
+Lowry",PHI,7.0,G,,,Villanova,USA,72,196.0,lowryky01
+"Seth
+Lundy",LAC,5.0,G,,,Penn State,USA,76,220.0,lundyse01
+"Trey
+Lyles",SAC,41.0,F,,,Kentucky,Canada,81,234.0,lylestr01
+"Sandro
+Mamukelashvili",SAS,54.0,F,,,Seton Hall,Georgia,81,240.0,mamuksa01
+"Terance
+Mann",ATL,14.0,G,,,Florida State,USA,77,215.0,mannte010
+"Tre
+Mann",CHA,23.0,G,,,Florida,USA,75,178.0,manntr010
+"Lauri
+Markkanen",UTA,23.0,F,,,Arizona,Finland,84,240.0,markkla01
+"Naji
+Marshall",DAL,13.0,F,,,Xavier,USA,78,220.0,marshna01
+"Caleb
+Martin",DAL,16.0,F,,,Nevada,USA,77,205.0,martica01
+"Cody
+Martin",PHX,17.0,F,,,Nevada,USA,78,205.0,martico01
+"Jaylen
+Martin",WAS,4.0,G,,,Overtime Elite,USA,78,216.0,martija01
+"KJ
+Martin",UTA,99.0,F,,,IMG Academy (FL),USA,78,215.0,martikj01
+"Tyrese
+Martin",BKN,13.0,F,,,Connecticut,USA,78,215.0,martity01
+"Garrison
+Mathews",ATL,24.0,G,,,Lipscomb,USA,78,215.0,mathega01
+"Bennedict
+Mathurin",IND,0.0,G,,,Arizona,Canada,77,210.0,mathube01
+"Karlo
+Matković",NOP,17.0,F,,,Mega Basket,Bosnia and Herzegovina,82,231.0,matkoka01
+"Tyrese
+Maxey",PHI,0.0,G,,,Kentucky,USA,74,200.0,maxeyty01
+"Miles
+McBride",NYK,2.0,G,,,West Virginia,USA,73,195.0,mcbrimi01
+"Jared
+McCain",PHI,20.0,G,,,Duke,USA,75,195.0,mccaija01
+"Mac
+McClung",ORL,8.0,G,,,Texas Tech,USA,74,185.0,mccluma01
+"CJ
+McCollum",NOP,3.0,G,,,Lehigh,USA,75,190.0,mccolcj01
+"T.J.
+McConnell",IND,9.0,G,,,Arizona,USA,73,190.0,mccont.01
+"Kevin
+McCullar Jr.",NYK,9.0,G,,,Kansas,USA,78,210.0,jr.ke0100
+"Jaden
+McDaniels",MIN,3.0,F,,,Washington,USA,81,185.0,mcdanja01
+"Jalen
+McDaniels",FA,FA,F,,,San Diego State,USA,81,190.0,mcdanja01
+"Doug
+McDermott",SAC,7.0,F,,,Creighton,USA,78,225.0,mcderdo01
+"Bryce
+McGowens",POR,11.0,G,,,Nebraska,USA,78,190.0,mcgowbr01
+"Jordan
+McLaughlin",SAS,11.0,G,,,Southern California,USA,72,185.0,mclaujo01
+"Jack
+McVeigh",HOU,58.0,G,,,Nebraska-Lincoln,Australia,80,215.0,mcveija01
+"De'Anthony
+Melton",BKN,14.0,G,,,Southern California,USA,75,200.0,meltode01
+"Sam
+Merrill",CLE,5.0,G,,,Utah State,USA,76,205.0,merrisa01
+"Vasilije
+Micić",PHX,18.0,G,,,Serbia,Serbia,75,188.0,micićva01
+"Khris
+Middleton",WAS,32.0,F,,,Texas A&M,USA,79,222.0,middlkh01
+"Brandon
+Miller",CHA,24.0,F,,,Alabama,USA,79,200.0,millebr01
+"Emanuel
+Miller",CHI,20.0,F,,,TCU,Canada,79,215.0,milleem01
+"Jordan
+Miller",LAC,11.0,G,,,Miami,USA,77,194.0,millejo01
+"Leonard
+Miller",MIN,33.0,F,,,NBA G League Ignite,Canada,82,220.0,millele01
+"Patty
+Mills",LAC,88.0,G,,,St. Mary's,Australia,74,180.0,millspa01
+"Shake
+Milton",LAL,20.0,G,,,Southern Methodist,USA,77,205.0,miltosh01
+"Justin
+Minaya",POR,10.0,F,,,Providence,USA,77,205.0,minayju01
+"Riley
+Minix",SAS,27.0,F,,,Morehead State,USA,79,230.0,minixri01
+"Josh
+Minott",MIN,8.0,F,,,Memphis,USA,80,205.0,minotjo01
+"Yves
+Missi",NOP,21.0,C,,,Baylor,Cameroon,83,235.0,missiyv01
+"Ajay
+Mitchell",OKC,25.0,G,,,California-Santa Barbara,Belgium,77,190.0,mitchaj01
+"Davion
+Mitchell",MIA,45.0,G,,,Baylor,USA,72,202.0,mitchda01
+"Donovan
+Mitchell",CLE,45.0,G,,,Louisville,USA,75,215.0,mitchdo01
+"Evan
+Mobley",CLE,4.0,C,,,Southern California,USA,83,215.0,mobleev01
+"Isaiah
+Mobley",FA,FA,F,,,USC,USA,80,238.0,mobleis01
+"Jonathan
+Mogbo",TOR,2.0,F,,,San Francisco,USA,81,225.0,mogbojo01
+"Malik
+Monk",SAC,0.0,G,,,Kentucky,USA,75,200.0,monkma010
+"Moses
+Moody",GSW,4.0,G,,,Arkansas,USA,77,211.0,moodymo01
+"Tazé
+Moore",FA,FA,G,,,Houston,USA,77,195.0,mooreta01
+"Wendell
+Moore Jr.",CHA,9.0,G,,,Duke,USA,77,215.0,jr.we0100
+"Ja
+Morant",MEM,12.0,G,,,Murray State,USA,74,174.0,moranja01
+"Markieff
+Morris",LAL,88.0,F,,,Kansas,USA,81,245.0,morrima01
+"Monté
+Morris",PHX,23.0,G,,,Iowa State,USA,74,183.0,morrimo01
+"Trey
+Murphy III",NOP,25.0,F,,,Virginia,USA,80,206.0,iiitr0100
+"Dejounte
+Murray",NOP,5.0,G,,,Washington,USA,76,180.0,murrade01
+"Jamal
+Murray",DEN,27.0,G,,,Kentucky,Canada,76,215.0,murraja01
+"Keegan
+Murray",SAC,13.0,F,,,Iowa,USA,80,225.0,murrake01
+"Kris
+Murray",POR,24.0,F,,,Iowa,USA,80,216.0,murrakr01
+"Svi
+Mykhailiuk",UTA,19.0,G,,,Kansas,Ukraine,79,205.0,mykhasv01
+"Pete
+Nance",MIL,35.0,F,,,North Carolina,USA,82,225.0,nancepe01
+"Larry
+Nance Jr.",ATL,22.0,F,,,Wyoming,USA,80,245.0,jr.la0100
+"Andrew
+Nembhard",IND,2.0,G,,,Gonzaga,Canada,76,191.0,nembhan01
+"Aaron
+Nesmith",IND,23.0,G,,,Vanderbilt,USA,78,215.0,nesmiaa01
+"Tristen
+Newton",MIN,13.0,G,,,Connecticut,USA,77,190.0,newtotr01
+"Georges
+Niang",ATL,20.0,F,,,Iowa State,USA,79,230.0,niangge01
+"Daishen
+Nix",FA,FA,G,,,NBA G League Ignite,USA,76,238.0,nixda0100
+"Zeke
+Nnaji",DEN,22.0,F,,,Arizona,USA,81,240.0,nnajize01
+"Miles
+Norris",BOS,0.0,F,,,California-Santa Barbara,USA,79,220.0,norrimi01
+"Jaylen
+Nowell",FA,FA,G,,,Washington,USA,76,201.0,nowelja01
+"Jusuf
+Nurkić",CHA,11.0,C,,,Cedevita,Bosnia and Herzegovina,84,290.0,nurkiju01
+"Jahlil
+Okafor",FA,FA,C,,,Duke,USA,82,270.0,okafoja01
+"Chuma
+Okeke",CLE,18.0,F,,,Auburn,USA,79,229.0,okekech01
+"Josh
+Okogie",CHA,12.0,G,,,Georgia Tech,Nigeria,76,213.0,okogijo01
+"Onyeka
+Okongwu",ATL,17.0,F,,,Southern California,USA,82,240.0,okongon01
+"Isaac
+Okoro",CLE,35.0,F,,,Auburn,USA,77,225.0,okorois01
+"Quincy
+Olivari",FA,FA,G,,,Xavier,USA,75,200.0,olivaqu01
+"Kelly
+Olynyk",NOP,13.0,F,,,Gonzaga,Canada,83,240.0,olynyke01
+"Royce
+O'Neale",PHX,0.0,F,,,Baylor,USA,78,226.0,o'nearo01
+"Kelly
+Oubre Jr.",PHI,9.0,F,,,Kansas,USA,80,203.0,jr.ke0100
+"Chris
+Paul",SAS,3.0,G,,,Wake Forest,USA,72,175.0,paulch010
+"Cameron
+Payne",NYK,1.0,G,,,Murray State,USA,75,183.0,payneca01
+"Elfrid
+Payton",NOP,4.0,G,,,Louisana-Lafayette,USA,75,195.0,paytoel01
+"Gary
+Payton II",GSW,0.0,G,,,Oregon State,USA,74,195.0,iiga01000
+"Drew
+Peterson",BOS,13.0,F,,,Southern California,USA,81,205.0,peterdr01
+"Julian
+Phillips",CHI,15.0,F,,,Tennessee,USA,80,198.0,phillju01
+"Jalen
+Pickett",DEN,24.0,G,,,Penn State,USA,74,202.0,pickeja01
+"Scotty
+Pippen Jr.",MEM,1.0,G,,,Vanderbilt,USA,73,170.0,jr.sc0100
+"Daeqwon
+Plowden",ATL,29.0,G,,,Bowling Green,USA,78,216.0,plowdda01
+"Mason
+Plumlee",PHX,22.0,F,,,Duke,USA,82,254.0,plumlma01
+"Brandin
+Podziemski",GSW,2.0,G,,,Santa Clara,USA,76,205.0,podzibr01
+"Jakob
+Poeltl",TOR,19.0,C,,,Utah,Austria,84,260.0,poeltja01
+"Jordan
+Poole",WAS,13.0,G,,,Michigan,USA,76,194.0,poolejo01
+"Craig
+Porter Jr.",CLE,9.0,G,,,Wichita State,USA,73,180.0,jr.cr0100
+"Kevin
+Porter Jr.",MIL,3.0,G,,,Southern California,USA,76,203.0,jr.ke0100
+"Michael
+Porter Jr.",DEN,1.0,F,,,Missouri,USA,82,218.0,jr.mi0100
+"Bobby
+Portis",MIL,9.0,F,,,Arkansas,USA,82,250.0,portibo01
+"Kristaps
+Porziņģis",BOS,8.0,F,,,Cajasol Sevilla,Latvia,86,240.0,porzikr01
+"Quinten
+Post",GSW,21.0,C,,,Boston College,Netherlands,84,238.0,postqu010
+"Micah
+Potter",UTA,25.0,C,,,Wisconsin,USA,81,248.0,pottemi01
+"Dwight
+Powell",DAL,7.0,F,,,Stanford,Canada,82,240.0,poweldw01
+"Norman
+Powell",LAC,24.0,G,,,UCLA,USA,76,215.0,powelno01
+"Taurean
+Prince",MIL,12.0,F,,,Baylor,USA,78,218.0,princta01
+"Payton
+Pritchard",BOS,11.0,G,,,Oregon,USA,73,195.0,pritcpa01
+"Olivier-Maxence
+Prosper",DAL,8.0,F,,,Marquette,Canada,79,230.0,prospol01
+"Zyon
+Pullin",MEM,FA,G,,,Florida,USA,76,206.0,pullizy01
+"Trevelin
+Queen",ORL,12.0,G,,,New Mexico State,USA,77,190.0,queentr01
+"Neemias
+Queta",BOS,88.0,C,,,Utah State,Portugal,84,248.0,quetane01
+"Immanuel
+Quickley",TOR,5.0,G,,,Kentucky,USA,74,190.0,quickim01
+"Lester
+Quinones",NOP,22.0,G,,,Memphis,USA,76,208.0,quinole01
+"Julius
+Randle",MIN,30.0,F,,,Kentucky,USA,81,250.0,randlju01
+"Duop
+Reath",POR,26.0,C,,,Louisiana State,South Sudan,81,245.0,reathdu01
+"Austin
+Reaves",LAL,15.0,G,,,Oklahoma,USA,77,197.0,reaveau01
+"Cam
+Reddish",FA,FA,F,,,Duke,USA,79,217.0,reddica01
+"Paul
+Reed",DET,7.0,F,,,DePaul,USA,81,210.0,reedpa010
+"Alex
+Reese",PHI,65.0,F,,,Alabama,USA,81,245.0,reeseal01
+"Antonio
+Reeves",NOP,12.0,G,,,Kentucky,USA,77,205.0,reevean01
+"Naz
+Reid",MIN,11.0,C,,,Louisiana State,USA,81,264.0,reidna010
+"Jared
+Rhoden",TOR,8.0,G,,,Seton Hall,USA,77,210.0,rhodeja01
+"Nick
+Richards",PHX,2.0,C,,,Kentucky,Jamaica,84,245.0,richani01
+"Josh
+Richardson",FA,FA,G,,,Tennessee,USA,77,200.0,richajo01
+"Zaccharie
+Risacher",ATL,10.0,F,,,JL Bourg-en-Bresse,France,80,200.0,risacza01
+"Liam
+Robbins",FA,FA,C,,,Vanderbilt,USA,84,250.0,robbili01
+"Duncan
+Robinson",MIA,55.0,F,,,Michigan,USA,79,215.0,robindu01
+"Mitchell
+Robinson",NYK,23.0,C,,,Western Kentucky,USA,84,240.0,robinmi01
+"Orlando
+Robinson",FA,FA,C,,,Fresno State,USA,82,235.0,robinor01
+"Jeremiah
+Robinson-Earl",NOP,50.0,F,,,Villanova,USA,80,240.0,robinje01
+"David
+Roddy",HOU,45.0,F,,,Colorado State,USA,76,255.0,roddyda01
+"Ryan
+Rollins",MIL,13.0,G,,,Toledo,USA,75,180.0,rolliry01
+"Jackson
+Rowe",GSW,44.0,F,,,California State-Fullerton,Canada,79,210.0,roweja010
+"Terry
+Rozier",MIA,2.0,G,,,Louisville,USA,73,190.0,roziete01
+"Rayan
+Rupert",POR,21.0,G,,,New Zealand Breakers,France,78,195.0,ruperra01
+"D'Angelo
+Russell",BKN,1.0,G,,,Ohio State,USA,75,193.0,russed'01
+"Matt
+Ryan",FA,FA,F,,,Tennessee-Chattanooga,USA,78,215.0,ryanma010
+"Domantas
+Sabonis",SAC,11.0,F,,,Gonzaga,Lithuania,82,240.0,sabondo01
+"Tidjane
+Salaün",CHA,31.0,F,,,Cholet,France,80,207.0,salaüti01
+"Adama
+Sanogo",FA,FA,F,,,Connecticut,Mali,81,245.0,sanogad01
+"Gui
+Santos",GSW,15.0,F,,,Minas,Brazil,78,185.0,santogu01
+"Dario
+Šarić",DEN,9.0,F,,,Anadolu Efes,Croatia,82,225.0,šarićda01
+"Alex
+Sarr",WAS,20.0,C,,,Perth,France,84,205.0,sarral010
+"Marcus
+Sasser",DET,25.0,G,,,Houston,USA,74,195.0,sassema01
+"Baylor
+Scheierman",BOS,55.0,G,,,Creighton,USA,78,205.0,scheiba01
+"Dennis
+Schröder",DET,17.0,G,,,Braunschweig,Germany,73,175.0,schröde01
+"Alperen
+Sengun",HOU,28.0,C,,,Besiktas,Turkey,83,243.0,sengual01
+"Brice
+Sensabaugh",UTA,28.0,F,,,Ohio State,USA,77,235.0,sensabr01
+"Collin
+Sexton",UTA,2.0,G,,,Alabama,USA,75,190.0,sextoco01
+"Landry
+Shamet",NYK,44.0,G,,,Wichita State,USA,76,190.0,shamela01
+"Terrence
+Shannon Jr.",MIN,0.0,G,,,Illinois,USA,78,215.0,jr.te0100
+"Day'Ron
+Sharpe",BKN,20.0,C,,,North Carolina,USA,81,265.0,sharpda01
+"Shaedon
+Sharpe",POR,17.0,G,,,Kentucky,Canada,77,208.0,sharpsh01
+"Jamal
+Shead",TOR,23.0,G,,,Houston,USA,73,200.0,sheadja01
+"Ben
+Sheppard",IND,26.0,G,,,Belmont,USA,78,190.0,sheppbe01
+"Reed
+Sheppard",HOU,15.0,G,,,Kentucky,USA,74,185.0,sheppre01
+"Pascal
+Siakam",IND,43.0,F,,,New Mexico State,Cameroon,80,245.0,siakapa01
+"Ben
+Simmons",LAC,25.0,G,,,Louisiana State,Australia,82,240.0,simmobe01
+"Anfernee
+Simons",POR,1.0,G,,,Edgewater HS (FL),USA,75,200.0,simonan01
+"KJ
+Simpson",CHA,25.0,G,,,Colorado,USA,72,189.0,simpskj01
+"Jaylen
+Sims",FA,FA,G,,,UNC-Wilmington,USA,78,210.0,simsja010
+"Jericho
+Sims",MIL,0.0,C,,,Texas,USA,82,250.0,simsje010
+"Marcus
+Smart",WAS,36.0,G,,,Oklahoma State,USA,75,220.0,smartma01
+"Dru
+Smith",MIA,12.0,G,,,Missouri,USA,74,203.0,smithdr01
+"Jalen
+Smith",CHI,7.0,F,,,Maryland,USA,81,215.0,smithja01
+"Tolu
+Smith",DET,35.0,F,,,Mississippi State,USA,83,,smithto01
+"Tyler
+Smith",MIL,21.0,F,,,NBA G League Ignite,USA,81,224.0,smithty01
+"Jabari
+Smith Jr.",HOU,10.0,F,,,Auburn,USA,82,220.0,jr.ja0100
+"Nick
+Smith Jr.",CHA,8.0,G,,,Arkansas,USA,74,185.0,jr.ni0100
+"Jeremy
+Sochan",SAS,10.0,F,,,Baylor,Poland,80,230.0,sochaje01
+"Cam
+Spencer",MEM,24.0,G,,,Connecticut,USA,76,205.0,spencca01
+"Pat
+Spencer",GSW,61.0,G,,,Northwestern,USA,75,205.0,spencpa01
+"Jaden
+Springer",UTA,11.0,G,,,Tennessee,USA,76,202.0,sprinja01
+"Isaiah
+Stevens",MIA,FA,G,,,Colorado State,USA,72,185.0,steveis01
+"Lamar
+Stevens",MEM,8.0,F,,,Penn State,USA,79,230.0,stevela01
+"Isaiah
+Stewart",DET,28.0,F,,,Washington,USA,80,250.0,stewais01
+"Julian
+Strawther",DEN,3.0,G,,,Gonzaga,USA,78,205.0,strawju01
+"Max
+Strus",CLE,1.0,G,,,DePaul,USA,77,215.0,strusma01
+"Jalen
+Suggs",ORL,4.0,G,,,Gonzaga,USA,77,205.0,suggsja01
+"Cole
+Swider",FA,FA,F,,,Syracuse,USA,80,220.0,swideco01
+"Jae'Sean
+Tate",HOU,8.0,F,,,Ohio State,USA,76,230.0,tateja010
+"Jayson
+Tatum",BOS,0.0,F,,,Duke,USA,80,210.0,tatumja01
+"Terry
+Taylor",FA,FA,F,,,Austin Peay,USA,76,230.0,taylote01
+"Garrett
+Temple",TOR,17.0,G,,,Louisiana State,USA,77,195.0,templga01
+"Dalen
+Terry",CHI,25.0,F,,,Arizona,USA,79,195.0,terryda01
+"Daniel
+Theis",FA,FA,F,,,Brose Bamberg,Germany,80,245.0,theisda01
+"Cam
+Thomas",BKN,24.0,G,,,Louisiana State,Japan,75,210.0,thomaca01
+"Amen
+Thompson",HOU,1.0,G,,,Overtime Elite,USA,79,200.0,thompam01
+"Ausar
+Thompson",DET,9.0,G,,,Overtime Elite,USA,78,205.0,thompau01
+"Ethan
+Thompson",ORL,55.0,G,,,Oregon State,Puerto Rico,77,195.0,thompet01
+"Klay
+Thompson",DAL,31.0,G,,,Washington State,USA,77,220.0,thompkl01
+"Tristan
+Thompson",CLE,13.0,C,,,Texas-Austin,Canada,81,254.0,thomptr01
+"JT
+Thor",WAS,21.0,F,,,Auburn,USA,81,203.0,thorjt010
+"Matisse
+Thybulle",POR,4.0,G,,,Washington,USA,77,201.0,thybuma01
+"Xavier
+Tillman",BOS,26.0,F,,,Michigan State,USA,79,245.0,tillmxa01
+"Drew
+Timme",BKN,26.0,F,,,Gonzaga,USA,82,235.0,timmedr01
+"Nae'Qwan
+Tomlin",CLE,30.0,F,,,Memphis,USA,82,210.0,tomlina01
+"Nikola
+Topić",OKC,44.0,G,,,Crvena zvezda,Serbia,78,200.0,topićni01
+"Jacob
+Toppin",ATL,0.0,F,,,Kentucky,USA,80,200.0,toppija01
+"Obi
+Toppin",IND,1.0,F,,,Dayton,USA,81,220.0,toppiob01
+"Karl-Anthony
+Towns",NYK,32.0,C,,,Kentucky,USA,84,248.0,townska01
+"Armel
+Traoré",FA,FA,F,,,ADA Blois,France,81,245.0,traorar01
+"Luke
+Travers",CLE,33.0,F,,,Rockingham Flames (Aus.),Australia,79,207.0,travelu01
+"Gary
+Trent Jr.",MIL,5.0,G,,,Duke,USA,77,204.0,jr.ga0100
+"Oscar
+Tshiebwe",UTA,34.0,F,,,Kentucky,DRC,80,255.0,tshieos01
+"P.J.
+Tucker",NYK,FA,F,,,Texas,USA,77,245.0,tuckep.01
+"Myles
+Turner",IND,33.0,C,,,Texas,USA,83,250.0,turnemy01
+"Hunter
+Tyson",DEN,5.0,F,,,Clemson,USA,80,215.0,tysonhu01
+"Jaylon
+Tyson",CLE,24.0,G,,,California,USA,78,215.0,tysonja01
+"Stanley
+Umude",MIL,17.0,G,,,Arkansas,USA,78,210.0,umudest01
+"Jonas
+Valančiūnas",SAC,17.0,C,,,Lietuvos rytas Vilnius,Lithuania,83,265.0,valanjo01
+"Jarred
+Vanderbilt",LAL,2.0,F,,,Kentucky,USA,80,214.0,vandeja01
+"Fred
+VanVleet",HOU,5.0,G,,,Wichita State,USA,72,197.0,vanvlfr01
+"Devin
+Vassell",SAS,24.0,G,,,Florida State,USA,77,200.0,vassede01
+"Gabe
+Vincent",LAL,7.0,G,,,California-Santa Barbara,USA,74,200.0,vincega01
+"Nikola
+Vučević",CHI,9.0,C,,,Southern California,Montenegro,82,260.0,vučevni01
+"Tristan
+Vukcevic",WAS,0.0,F,,,Real Madrid,Italy,84,220.0,vukcetr01
+"Dean
+Wade",CLE,32.0,F,,,Kansas State,USA,81,228.0,wadede010
+"Franz
+Wagner",ORL,22.0,F,,,Michigan,Germany,82,220.0,wagnefr01
+"Moritz
+Wagner",ORL,21.0,F,,,Michigan,Germany,83,245.0,wagnemo01
+"Jabari
+Walker",POR,34.0,F,,,Colorado,USA,79,237.0,walkeja01
+"Jarace
+Walker",IND,5.0,F,,,Houston,USA,79,235.0,walkeja01
+"Lonnie
+Walker IV",PHI,16.0,G,,,Miami,USA,76,204.0,ivlo01000
+"Cason
+Wallace",OKC,22.0,G,,,Kentucky,USA,75,195.0,wallaca01
+"Keaton
+Wallace",ATL,2.0,G,,,Texas-San Antonio,USA,75,185.0,wallake01
+"Jordan
+Walsh",BOS,27.0,G,,,Arkansas,USA,78,205.0,walshjo01
+"Ja'Kobe
+Walter",TOR,14.0,G,,,Baylor,USA,77,180.0,walteja01
+"Kel'el
+Ware",MIA,7.0,C,,,Indiana,USA,84,230.0,wareke010
+"P.J.
+Washington",DAL,25.0,F,,,Kentucky,USA,78,230.0,waship.01
+"TyTy
+Washington Jr.",PHX,14.0,G,,,Kentucky,USA,75,195.0,jr.ty0100
+"Lindy
+Waters III",DET,43.0,F,,,Oklahoma State,USA,78,210.0,iiili0100
+"Trendon
+Watford",BKN,9.0,G,,,Louisiana State,USA,80,237.0,watfotr01
+"Anton
+Watson",NYK,28.0,F,,,Gonzaga,USA,80,225.0,watsoan01
+"Peyton
+Watson",DEN,8.0,G,,,UCLA,USA,79,200.0,watsope01
+"Jaylen
+Wells",MEM,0.0,F,,,Washington State,USA,80,,wellsja01
+"Victor
+Wembanyama",SAS,1.0,F,,,Metropolitans 92,France,87,235.0,wembavi01
+"Blake
+Wesley",SAS,14.0,G,,,Notre Dame,USA,75,185.0,weslebl01
+"Russell
+Westbrook",DEN,4.0,G,,,UCLA,USA,76,200.0,westbru01
+"Phillip
+Wheeler",FA,FA,F,,,,USA,80,185.0,wheelph01
+"Coby
+White",CHI,0.0,G,,,North Carolina,USA,77,195.0,whiteco01
+"Derrick
+White",BOS,9.0,G,,,Colorado,USA,76,190.0,whitede01
+"Dariq
+Whitehead",BKN,0.0,G,,,Duke,USA,78,220.0,whiteda01
+"Cam
+Whitmore",HOU,7.0,F,,,Villanova,USA,79,230.0,whitmca01
+"Aaron
+Wiggins",OKC,21.0,G,,,Maryland,USA,77,190.0,wiggiaa01
+"Andrew
+Wiggins",MIA,22.0,F,,,Kansas,Canada,79,197.0,wiggian01
+"Alondes
+Williams",FA,FA,G,,,Wake Forest,USA,76,210.0,willial01
+"Brandon
+Williams",DAL,10.0,G,,,Arizona,USA,73,190.0,willibr01
+"Cody
+Williams",UTA,5.0,F,,,Colorado,USA,79,190.0,willico01
+"Grant
+Williams",CHA,2.0,F,,,Tennessee,USA,78,236.0,willigr01
+"Jalen
+Williams",OKC,8.0,G,,,Santa Clara,USA,77,211.0,willija01
+"Jaylin
+Williams",OKC,6.0,F,,,Arkansas,USA,81,240.0,willija01
+"Kenrich
+Williams",OKC,34.0,G,,,TCU,USA,78,210.0,willike01
+"Mark
+Williams",CHA,5.0,C,,,Duke,USA,84,240.0,willima01
+"Nate
+Williams",HOU,19.0,G,,,Buffalo,USA,77,205.0,willina01
+"Patrick
+Williams",CHI,44.0,F,,,Florida State,USA,79,215.0,willipa01
+"Ziaire
+Williams",BKN,8.0,F,,,Stanford,USA,81,185.0,willizi01
+"Robert
+Williams III",POR,35.0,C,,,Texas A&M,USA,81,249.0,iiiro0100
+"Vince
+Williams Jr.",MEM,5.0,G,,,Virginia Commonwealth,USA,76,205.0,jr.vi0100
+"Zion
+Williamson",NOP,1.0,F,,,Duke,USA,78,284.0,willizi01
+"Jalen
+Wilson",BKN,22.0,F,,,Kansas,USA,78,220.0,wilsoja01
+"James
+Wiseman",FA,FA,C,,,Memphis,USA,83,240.0,wisemja01
+"Isaiah
+Wong",FA,FA,G,,,Miami,USA,75,185.0,wongis010
+"Delon
+Wright",NYK,0.0,G,,,Utah,USA,77,185.0,wrighde01
+"Guerschon
+Yabusele",PHI,28.0,F,,,"Rouen, France",France,80,265.0,yabusgu01
+"Cui
+Yongxi",FA,FA,F,,,Guangzhou Loong Lions,China,77,190.0,yongxcu01
+"Jahmir
+Young",CHI,11.0,G,,,Maryland,USA,73,185.0,youngja01
+"Trae
+Young",ATL,11.0,G,,,Oklahoma,USA,73,164.0,youngtr01
+"Ivica
+Zubac",LAC,40.0,C,,,Mega Basket,Croatia,84,240.0,zubaciv01

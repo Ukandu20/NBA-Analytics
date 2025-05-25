@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait, Select
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
+import csv
 
 def scrape_nba_players():
     url = "https://www.nba.com/players"
@@ -71,7 +72,10 @@ def scrape_nba_players():
 
     if data and headers:
         df = pd.DataFrame(data)
-        df.to_csv("data/raw/players_raw.csv", index=False)
+
+        df = df.replace({r'\n': ' ', r'\r': ' '}, regex=True)
+
+        df.to_csv("data/raw/players_raw.csv", index=False, quoting=csv.QUOTE_NONNUMERIC)
         print("✅ Player data scraped and saved to data/raw/players_raw.csv")
     else:
         print("❌ No data scraped.")
