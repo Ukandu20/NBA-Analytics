@@ -71,8 +71,8 @@ def scrape_basic():
         rec = {
             "player":        p["DISPLAY_FIRST_LAST"],
             "team":          p["TEAM_ABBREVIATION"] or "",
-            "number":        "",          # not in endpoint
-            "position":      "",          # not in endpoint
+            "number":        "",          
+            "position":      "",          
             "height":        "",
             "weight":        "",
             "last_attended": "",
