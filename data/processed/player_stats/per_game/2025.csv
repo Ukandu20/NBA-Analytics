@@ -1,4 +1,4 @@
-player,age,team,pos,g,gs,mp,fg,fga,fgpct,3p,3pa,3ppct,2p,2pa,2ppct,efgpct,ft,fta,ftpct,orb,drb,trb,ast,stl,blk,tov,pf,pts,player_id
+player,age,team,pos,g,gs,mp,fg,fga,fg_pct,3p,3pa,3p_pct,2p,2pa,2p_pct,efg_pct,ft,fta,ft_pct,orb,drb,trb,ast,stl,blk,tov,pf,pts,player_id
 Shai Gilgeous-Alexander,26.0,OKC,PG,76.0,76.0,34.2,11.3,21.8,0.519,2.1,5.7,0.375,9.2,16.1,0.571,0.569,7.9,8.8,0.898,0.9,4.1,5.0,6.4,1.7,1.0,2.4,2.2,32.7,gilgesh01
 Giannis Antetokounmpo,30.0,MIL,PF,67.0,67.0,34.2,11.8,19.7,0.601,0.2,0.9,0.222,11.6,18.7,0.62,0.607,6.5,10.6,0.617,2.2,9.7,11.9,6.5,0.9,1.2,3.1,2.3,30.4,antetgi01
 Nikola Jokić,29.0,DEN,C,70.0,70.0,36.7,11.2,19.5,0.576,2.0,4.7,0.417,9.3,14.8,0.627,0.627,5.2,6.4,0.8,2.9,9.9,12.7,10.2,1.8,0.6,3.3,2.3,29.6,jokicni01

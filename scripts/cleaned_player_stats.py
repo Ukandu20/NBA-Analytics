@@ -1,6 +1,8 @@
-# scripts/clean_player_stats_all.py
-
 import pandas as pd
+import pathlib, sys
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+sys.path.append(str(ROOT))
+from utils.clean_helpers import normalise_cols
 import os
 
 file_paths = [
@@ -19,18 +21,14 @@ def clean_player_stats_csv(input_path, output_path):
         df = pd.read_csv(input_path)
 
         # Normalize column names
-        df.columns = (
-            df.columns
-            .str.strip()
-            .str.lower()
-            .str.replace(" ", "_")
-            .str.replace("%", "pct")
-            .str.replace("/", "_")
-            .str.replace("tm", "team")
-        )
+        df.columns = normalise_cols(df.columns)
 
         # Rename last column to player_id
         df.columns = list(df.columns[:-1]) + ['player_id']
+
+            #rename the 'tm' column to 'team'
+        if 'tm' in df.columns:
+            df.rename(columns={'tm': 'team'}, inplace=True)
 
         # Clean text fields
         df['player'] = df['player'].astype(str).str.strip()

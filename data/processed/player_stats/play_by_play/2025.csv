@@ -1,4 +1,4 @@
-player,age,team,pos,g,gs,mp,pgpct,sgpct,sfpct,pfpct,cpct,oncourt,on-off,badpass,lostball,shoot,off.,shoot.1,off..1,pga,and1,blkd,player_id
+player,age,team,pos,g,gs,mp,pg_pct,sg_pct,sf_pct,pf_pct,c_pct,oncourt,on-off,badpass,lostball,shoot,off.,shoot.1,off..1,pga,and1,blkd,player_id
 Mikal Bridges,28,NYK,SF,82,82,3036,0,2,83,16,0,5.6,5.9,79,42,51,6,52,11,745,14,24,bridgmi01
 Josh Hart,29,NYK,SG,77,77,2897,0,66,31,3,0,3.6,-2.1,99,35,109,4,102,12,1095,28,59,hartjo01
 Anthony Edwards,23,MIN,SG,79,79,2871,1,63,34,2,0,4.7,-1.3,124,94,61,12,233,2,888,58,55,edwaran01

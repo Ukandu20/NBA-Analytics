@@ -1,4 +1,4 @@
-player,age,team,pos,g,gs,mp,per,tspct,3par,ftr,orbpct,drbpct,trbpct,astpct,stlpct,blkpct,tovpct,usgpct,ows,dws,ws,ws_48,obpm,dbpm,bpm,vorp,player_id
+player,age,team,pos,g,gs,mp,per,ts_pct,3par,ftr,orb_pct,drb_pct,trb_pct,ast_pct,stl_pct,blk_pct,tov_pct,usg_pct,ows,dws,ws,ws_48,obpm,dbpm,bpm,vorp,player_id
 Mikal Bridges,28.0,NYK,SF,82.0,82.0,3036.0,14.0,0.585,0.391,0.1,2.7,7.0,4.9,14.4,1.2,1.3,9.7,19.6,3.7,2.0,5.7,0.09,0.4,-0.9,-0.5,1.2,bridgmi01
 Josh Hart,29.0,NYK,SG,77.0,77.0,2897.0,16.5,0.611,0.327,0.266,6.4,22.6,14.6,20.7,2.0,0.9,15.5,15.3,5.4,3.8,9.2,0.153,1.1,1.8,2.8,3.6,hartjo01
 Anthony Edwards,23.0,MIN,SG,79.0,79.0,2871.0,20.1,0.595,0.503,0.308,2.4,14.8,8.7,20.9,1.6,1.7,12.0,31.4,4.6,3.8,8.4,0.14,4.4,0.0,4.3,4.6,edwaran01
