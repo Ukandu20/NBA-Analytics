@@ -1,32 +1,3 @@
-#!/usr/bin/env python
-"""
-Unified NBA Player Scraper
-==========================
-
-Phase 1  (always)
------------------
-Pull *every* player ever to appear in an NBA season from the public
-`commonallplayers` Stats-API and save → data/raw/players_basic.csv
-
-Fields:
-    player • team • profile_url • flags  is_active • is_free_agent • is_retired
-    + number • position • height • weight • last_attended • country
-
-Phase 2  (--detailed)
----------------------
-Visit each profile URL, fetch (if present)
-    headshot_url • birthdate • experience • draft
-and save → data/raw/players_detailed.csv
-
-Legacy “HISTADD” pages have no modern profile; they are skipped but still kept
-in the CSV (headshot_url = None, legacy = True).
-
-Run examples
-------------
-    py scripts\scrape_all_players.py             # basic CSV only
-    py scripts\scrape_all_players.py --detailed  # + profile enrichment
-"""
-# ---------------------------------------------------------------------------
 import os, csv, time, json, argparse, random, requests
 from urllib.parse import urlparse
 
