@@ -1,0 +1,389 @@
+A,A,A,A,A
+Coach,From,To,Birth Date,College
+David Adelman,2025,2025,May 15 1981,
+Rick Adelman*,1989,2014,June 16 1946,Loyola Marymount
+Richie Adubato,1980,1997,November 23 1937,William Paterson University
+Danny Ainge,1997,2000,March 17 1959,BYU
+Stan Albeck,1971,1986,May 17 1931,Bradley
+LaDell Andersen,1972,1973,October 25 1929,Utah State University
+Jack Ankerson,1976,1976,March 1 1942,Ripon College
+Curly Armstrong,1949,1949,November 1 1918,Indiana
+Kenny Atkinson,2017,2025,June 2 1967,Richmond
+Al Attles*,1970,1983,November 7 1936,North Carolina A&T
+Red Auerbach*,1947,1966,September 20 1917,George Washington
+Randy Ayers,2004,2004,April 16 1956,Miami University
+Johnny Bach,1980,1986,July 10 1924,Fordham
+Ed Badger,1977,1978,November 5 1932,Iowa
+Cliff Barker,1950,1951,January 15 1921,Kentucky
+Tony Barone,2007,2007,July 20 1946,Duke
+Tom Barrise,2010,2010,February 3 1954,
+Bob Bass,1968,1992,January 28 1929,Oklahoma Baptist University
+Elgin Baylor*,1975,1979,September 16 1934,Seattle University
+Butch Beard,1995,1996,May 4 1947,Louisville
+Zelmo Beaty*,1976,1976,October 25 1939,Prairie View A&M University
+Clair Bee*,1953,1954,March 3 1896,Waynesburg College
+John Beilein,2020,2020,February 5 1953,Niagara University
+Joe Belmont,1970,1971,July 12 1934,Duke
+Carl Bennett,1949,1949,December 7 1915,
+Bill Berry,2002,2002,,Michigan State
+Bill Bertka,1994,1999,August 8 1927,Kent State University
+Al Bianchi,1968,1976,March 26 1932,Bowling Green
+Bernie Bickerstaff,1986,2013,February 11 1944,University of San Diego
+J.B. Bickerstaff,2016,2025,March 10 1979,Minnesota
+Chauncey Billups*,2022,2025,September 25 1976,
+Mark Binstein,1972,1972,March 31 1934,United States Military Academy
+Paul Birch,1947,1954,January 10 1910,Duquesne
+Larry Bird*,1998,2000,December 7 1956,Indiana State University
+Nate Bjorkgren,2021,2021,June 20 1975,
+Bill Blair,1983,1996,March 17 1942,Virginia Military Institute
+Bill Blakeley,1971,1971,June 13 1934,Abilene Christian University
+David Blatt,2015,2016,May 22 1959,Princeton
+Harold Blitman,1970,1971,February 12 1930,West Chester (PA)
+James Borrego,2015,2022,November 12 1977,University of San Diego
+Vince Boryla,1956,1958,March 11 1927,Denver
+Jeff Bower,2010,2010,April 26 1961,Saint Francis University
+Jim Boylan,2008,2013,April 28 1955,Marquette
+Jim Boylen,2019,2020,April 18 1965,University of Maine
+Carl Braun*,1960,1961,September 25 1927,Colgate
+Al Brightman,1968,1968,September 22 1923,University of Charleston
+Allan Bristow,1992,1996,August 23 1951,Virginia Tech
+Scott Brooks,2009,2021,July 31 1965,University of California Irvine
+Jim Brovelli,1999,1999,April 15 1942,San Francisco
+Brett Brown,2014,2020,February 16 1961,Boston University
+Dave Brown,1973,1973,February 22 1933,Wisconsin
+Herb Brown,1976,1978,March 14 1936,University of Vermont
+Hubie Brown*,1975,2005,September 25 1933,Niagara University
+Larry Brown*,1973,2011,September 14 1940,UNC
+Mike Brown,2006,2025,March 5 1970,University of San Diego
+Tony Brown,2016,2016,July 29 1960,Arkansas
+Philip Brownstein,1949,1950,May 17 1906,Illinois
+Quinn Buckner,1994,1994,August 20 1954,Indiana
+Bucky Buckwalter,1973,1975,November 22 1933,Utah
+Mike Budenholzer,2014,2025,August 6 1969,Pomona College
+Walt Budko,1951,1951,July 30 1925,Columbia University
+Donnie Butcher,1967,1969,February 8 1936,Pikeville College
+Jeff Bzdelik,2003,2005,December 1 1952,University of Illinois at Chicago
+John Calipari*,1997,1999,February 10 1959,Clarion University of Pennsylvania
+Mack Calvin,1976,1992,July 27 1947,USC
+Kaleb Canales,2012,2012,July 7 1978,UT Arlington
+P.J. Carlesimo,1995,2013,May 30 1949,Fordham
+Rick Carlisle,2002,2025,October 27 1959,Virginia
+Lou Carnesecca*,1971,1973,January 5 1925,St. John's
+M.L. Carr,1996,1997,January 9 1951,Guilford College
+John Carroll,2004,2004,November 8 1955,
+Butch Carter,1998,2000,June 11 1958,Indiana
+Fred Carter,1993,1994,February 14 1945,Mount St. Mary's University
+Bill Cartwright,2002,2004,July 30 1957,San Francisco
+Don Casey,1989,2000,June 17 1937,
+Dwane Casey,2006,2023,April 17 1957,Kentucky
+John Castellani,1960,1960,August 23 1926,Notre Dame
+Vince Cazzetta,1968,1968,September 24 1925,University of Bridgeport
+Al Cervi*,1950,1959,February 12 1917,
+Wilt Chamberlain*,1974,1974,August 21 1936,Kansas
+Don Chaney,1985,2004,March 22 1946,Houston
+Maurice Cheeks*,2002,2014,September 8 1956,West Texas A&M University
+Doug Christie,2025,2025,May 9 1970,
+John Clark,1970,1970,August 26 1937,Franciscan University of Steubenville
+Jim Cleamons,1997,1998,September 13 1949,Ohio State
+Roy Clifford,1947,1947,June 14 1900,
+Steve Clifford,2014,2024,September 17 1961,University of Maine at Farmington
+Neil Cohalan,1947,1947,July 31 1906,
+Jerry Colangelo*,1970,1973,November 20 1939,Illinois
+Doug Collins*,1987,2013,July 28 1951,Illinois State
+Michael Cooper*,2005,2005,April 15 1956,New Mexico
+Tyrone Corbin,2011,2015,December 31 1962,DePaul
+Larry Costello*,1969,1979,July 2 1931,Niagara University
+Bob Cousy*,1970,1974,August 9 1928,Holy Cross
+Dave Cowens*,1979,2002,October 25 1948,Florida State
+Billy Cunningham*,1978,1985,June 3 1943,UNC
+Michael Curry,2009,2009,August 22 1968,Georgia Southern University
+Glenn Curtis,1947,1947,March 4 1894,Indiana State University
+Mike D'Antoni,1999,2020,May 8 1951,Marshall
+Mark Daigneault,2021,2025,February 23 1985,
+Chuck Daly*,1982,1999,July 20 1930,Bloomsburg University of Pennsylvania
+Mel Daniels*,1989,1989,July 20 1944,New Mexico
+Jimmy Darden,1950,1950,June 19 1922,Denver
+Johnny Davis,1997,2009,October 21 1955,Dayton
+Dave DeBusschere*,1965,1967,October 16 1940,Detroit Mercy
+Dutch Dehnert*,1947,1947,April 5 1898,
+Vinny Del Negro,2009,2013,August 9 1966,NC State
+Don Delaney,1981,1982,January 3 1936,Kent State University
+Tony DiLeo,2009,2009,August 8 1955,La Salle
+Harry Dinnel,1968,1968,October 9 1940,Pepperdine
+Terry Dischinger,1972,1972,November 21 1940,Purdue
+Billy Donovan*,2016,2025,May 30 1965,Providence
+Eddie Donovan,1962,1965,June 2 1922,
+Larry Drew,2011,2019,April 2 1958,Missouri
+Ike Duffey,1950,1950,May 31 1906,
+Mike Dunlap,2013,2013,May 27 1957,Loyola Marymount
+Mike Dunleavy,1991,2010,March 21 1954,South Carolina
+Charles Eckman,1955,1958,September 10 1921,
+Johnny Egan,1973,1976,January 31 1939,Providence
+Mike Evans,2002,2002,April 19 1955,Kansas State
+Mike Farmer,1967,1967,September 26 1936,San Francisco
+Bob Feerick,1950,1963,January 2 1920,Santa Clara
+Jordi Fernández Torres,2025,2025,December 27 1982,
+Chris Finch,2021,2025,November 6 1969,
+Derek Fisher,2015,2016,August 9 1974,Little Rock
+Bill Fitch*,1971,1998,May 19 1932,Coe College
+Dick Fitzgerald,1947,1947,November 18 1920,Fordham
+Cotton Fitzsimmons*,1971,1997,October 7 1931,Midwestern State University
+David Fizdale,2017,2020,June 16 1974,University of San Diego
+Tim Floyd,1999,2004,February 25 1954,
+Chris Ford,1991,2004,January 11 1949,Villanova
+Lawrence Frank,2004,2013,August 23 1970,Indiana
+Mike Fratello,1981,2007,February 24 1947,Montclair State College
+Burl Friddle,1949,1949,May 27 1900,Franklin College
+Harry Gallatin*,1963,1966,April 26 1927,Truman State University
+Alvin Gentry,1995,2022,November 5 1954,Appalachian State University
+John Givens,1968,1968,May 12 1926,Western Kentucky
+Eddie Gottlieb*,1947,1955,September 15 1898,Temple
+Willie Green,2022,2025,July 28 1981,
+Ed Gregory,1988,1988,October 28 1931,Pepperdine
+Adrian Griffin,2024,2024,July 4 1974,Seton Hall
+Alex Groza,1971,1975,October 7 1926,Kentucky
+Richie Guerin*,1965,1972,May 29 1932,Iona College
+Matt Guokas,1986,1993,February 25 1944,Saint Joseph's
+Cliff Hagan*,1968,1970,December 9 1931,Kentucky
+Bruce Hale,1949,1968,August 30 1918,Santa Clara
+Darvin Ham,2023,2024,July 23 1973,Texas Tech
+Frank Hamblen,1992,2005,April 16 1947,Syracuse
+Leonard Hamilton,2001,2001,August 4 1948,
+Alex Hannum*,1957,1974,July 19 1923,USC
+Bill Hanzlik,1998,1998,December 6 1957,Notre Dame
+Jim Harding,1969,1969,February 24 1924,Iowa
+Will Hardy,2023,2025,January 21 1988,
+Del Harris*,1980,1999,June 18 1937,Milligan College
+Les Harrison*,1949,1955,August 20 1904,
+Dick Harter,1989,1990,October 14 1930,Penn
+Lew Hayman,1947,1947,September 30 1908,Syracuse
+Gar Heard,1993,2000,May 3 1948,Oklahoma
+Tom Heinsohn*,1970,1978,August 26 1934,Holy Cross
+Nat Hickey,1948,1948,January 30 1902,
+Bob Hill,1987,2007,November 24 1948,Bowling Green
+Brian Hill,1994,2007,September 19 1947,Kennedy College
+Fred Hoiberg,2016,2019,October 15 1972,Iowa State
+Lionel Hollins,2000,2016,October 19 1953,Arizona State
+Red Holzman*,1954,1982,August 10 1920,City College of New York
+Bob Hopkins,1978,1978,November 3 1934,Grambling State University
+Jeff Hornacek,2014,2018,May 3 1963,Iowa State
+Kim Hughes,2010,2010,June 4 1952,Wisconsin
+Rex Hughes,1992,1993,September 24 1938,Pepperdine
+Melvin Hunt,2015,2015,December 15 1969,Baylor
+Lindsey Hunter,2013,2013,December 3 1970,Jackson State University
+Marc Iavaroni,2008,2009,September 15 1956,Virginia
+Tuomas Iisalo,2025,2025,July 29 1982,
+Stu Inman,1972,1972,August 2 1926,San Jose State
+George Irvine,1985,2001,February 1 1948,Washington
+Dan Issel*,1993,2002,October 25 1948,Kentucky
+Mark Jackson,2012,2014,April 1 1965,St. John's
+Phil Jackson*,1990,2011,September 17 1945,University of North Dakota
+Stu Jackson,1990,1997,December 11 1955,Oregon
+Buddy Jeannette*,1948,1970,September 15 1917,Washington & Jefferson College
+Taylor Jenkins,2020,2025,September 12 1984,Penn
+Chris Jent,2005,2005,January 11 1970,Ohio State
+Dave Joerger,2014,2019,February 21 1974,Minnesota State University Moorhead
+Avery Johnson,2005,2013,March 25 1965,Southern University and A&M College
+Dennis Johnson*,2003,2003,September 18 1954,Pepperdine
+Frank Johnson,2002,2004,November 23 1958,Wake Forest
+Magic Johnson*,1994,1994,August 14 1959,Michigan State
+Phil Johnson,1974,1987,September 6 1941,
+Neil Johnston*,1960,1961,February 4 1929,Ohio State
+K.C. Jones*,1973,1992,May 25 1932,San Francisco
+Wah Wah Jones,1951,1951,July 14 1926,
+Eddie Jordan,1997,2010,January 29 1955,Rutgers University
+Ed Jucker,1968,1969,July 8 1916,
+Alvin Julian*,1949,1950,April 5 1901,Bucknell
+George Karl*,1985,2016,May 12 1951,UNC
+Bob Kauffman,1978,1978,July 13 1946,Guilford College
+Brian Keefe,2024,2025,April 7 1976,
+Red Kerr,1967,1970,July 17 1932,Illinois
+Steve Kerr,2015,2025,September 27 1965,Arizona
+Jason Kidd*,2014,2025,March 23 1973,California
+Bob Kloppenburg,1982,1992,July 28 1927,Fresno State
+Igor Kokoskov,2019,2019,December 17 1971,
+Lon Kruger,2001,2003,August 19 1952,Kansas State
+Larry Krystkowiak,2007,2008,September 23 1964,Montana
+John Kuester,2010,2011,February 6 1955,UNC
+John Kundla*,1949,1959,July 3 1916,Minnesota
+Bob Lanier*,1995,1995,September 10 1948,St. Bonaventure
+Joe Lapchick*,1948,1956,April 12 1900,St. John's
+York Larese,1970,1970,July 18 1938,UNC
+Frank Layden,1982,1989,January 5 1932,Niagara University
+Charles Lee,2025,2025,November 11 1984,
+George Lee,1969,1970,November 23 1936,Michigan
+Slick Leonard*,1963,1980,July 17 1932,Indiana
+Andrew Levane,1953,1962,April 11 1920,St. John's
+Grady Lewis,1949,1950,March 25 1917,Oklahoma
+Gene Littles,1986,1995,June 29 1943,High Point University
+Earl Lloyd*,1972,1973,April 3 1928,West Virginia State University
+Tates Locke,1977,1977,February 25 1937,
+Ken Loeffler*,1947,1949,April 14 1902,Penn State
+John Logan,1951,1951,January 1 1921,Indiana
+Kevin Loughery,1973,1995,March 28 1940,St. John's
+Sidney Lowe,1993,2003,January 21 1960,NC State
+John Loyer,2014,2014,December 29 1964,University of Akron
+John Lucas,1993,2003,October 31 1953,Maryland
+Tyronn Lue,2016,2025,May 3 1977,Nebraska
+Jim Lynam,1984,1997,September 15 1941,Saint Joseph's
+Ed Macauley*,1959,1960,March 22 1928,Saint Louis
+Bob MacKinnon,1975,1988,December 5 1927,Canisius
+John MacLeod,1974,1991,October 3 1937,Bellarmine University
+Brendan Malone,1996,2005,April 21 1935,Iona College
+Michael Malone,2014,2025,September 15 1971,Loyola (MD)
+Tom Marshall,1959,1960,January 6 1931,Western Kentucky
+Slater Martin*,1957,1969,October 22 1925,Texas
+Joe Mazzulla,2023,2025,June 30 1988,
+Babe McCarthy,1968,1974,October 1 1923,Mississippi State
+Johnny McCarthy,1972,1972,April 25 1934,Canisius
+Jack McCloskey,1973,1974,September 19 1925,Penn
+Dick McGuire*,1960,1968,January 25 1926,St. John's
+Frank McGuire*,1962,1962,November 8 1913,St. John's
+Kevin McHale*,2005,2016,December 19 1957,Minnesota
+Morris McHone,1984,1984,June 17 1943,
+Bones McKinney,1951,1971,January 1 1919,UNC
+Jack McKinney,1980,1985,July 13 1935,Saint Joseph's
+John McLendon*,1970,1970,April 5 1915,Kansas
+Jack McMahon,1963,1972,December 3 1928,St. John's
+Dave McMillan,1951,1951,December 24 1886,Idaho
+Nate McMillan,2001,2023,August 3 1964,NC State
+Murray Mendenhall,1950,1951,March 5 1898,DePauw University
+Tom Meschery,1972,1972,October 26 1938,Saint Mary's
+George Mikan*,1958,1958,June 18 1924,DePaul
+Vern Mikkelsen*,1969,1969,October 21 1928,Hamline University
+Mike Miller,2020,2020,August 14 1964,
+Sam Mitchell,2005,2016,September 2 1963,Mercer University
+Doug Moe,1977,1993,September 21 1938,UNC
+Mike Montgomery,2005,2006,February 27 1947,Cal State Long Beach
+Doxie Moore,1950,1952,February 13 1911,Purdue
+Robert Morris,1947,1947,November 3 1902,East Stroudsburg University
+Jamahl Mosley,2022,2025,October 6 1978,
+Dick Motta,1969,1997,September 3 1931,Utah State University
+Joe Mullaney,1970,1977,November 17 1924,Holy Cross
+Bill Musselman,1976,1991,September 13 1940,
+Eric Musselman,2003,2007,November 19 1964,University of San Diego
+Pete Myers,2004,2008,September 15 1963,Little Rock
+Steve Nash*,2021,2023,February 7 1974,
+Kenny Natt,2009,2009,October 5 1958,Louisiana-Monroe
+Don Nelson*,1977,2010,May 15 1940,Iowa
+Tom Nissalke,1972,1984,July 7 1932,Florida State
+Nick Nurse,2019,2025,July 24 1967,University of Northern Iowa
+Jim O'Brien,2001,2011,February 11 1952,Saint Joseph's
+Kevin O'Neill,2004,2004,January 24 1957,McGill University
+Kevin Ollie,2024,2024,December 27 1972,
+Harold Olsen*,1947,1949,May 12 1895,Wisconsin
+Bob Pettit*,1962,1962,December 12 1932,LSU
+Randy Pfund,1993,1994,December 29 1951,Wheaton College
+Andy Phillip*,1959,1959,March 7 1922,Illinois
+Lloyd Pierce,2019,2021,May 11 1976,Santa Clara
+Rick Pitino*,1988,2001,September 18 1952,UMass
+Jim Pollard*,1960,1970,July 9 1922,Stanford
+Gregg Popovich*,1997,2025,January 28 1949,Air Force
+Terry Porter,2004,2009,April 8 1963,University of Wisconsin-Stevens Point
+Roger Potter,1950,1950,October 5 1907,
+Kevin Pritchard,2005,2005,July 17 1967,Kansas
+Joe Prunty,2018,2024,February 12 1969,Cal Poly
+Darko Rajakovic,2024,2025,February 22 1979,
+Kurt Rambis,1999,2016,February 25 1958,Santa Clara
+Jack Ramsay*,1969,1989,February 21 1925,Saint Joseph's
+Frank Ramsey*,1971,1971,July 13 1931,Kentucky
+JJ Redick,2025,2025,June 24 1984,
+Willis Reed*,1978,1989,June 25 1942,Grambling State University
+Chick Reiser,1952,1953,December 17 1914,NYU
+Jerry Reynolds,1987,1990,January 29 1944,Vincennes University
+Gene Rhodes,1968,1971,September 2 1927,Western Kentucky
+Pat Riley*,1982,2008,March 20 1945,Kentucky
+Doc Rivers,2000,2025,October 13 1961,Marquette
+Scotty Robertson,1975,1983,February 1 1930,
+Red Rocha,1958,1960,September 18 1923,Oregon State
+Jimmy Rodgers,1989,1993,March 12 1943,Iowa
+Robert Rolfe,1947,1947,October 17 1908,Dartmouth College
+Ron Rothstein,1989,1993,December 27 1942,
+Roy Rubin,1973,1973,December 9 1925,Louisville
+Bill Russell*,1967,1988,February 12 1934,San Francisco
+John Russell*,1947,1948,May 31 1902,
+Philip Sachs,1947,1947,April 1 1902,
+Ed Sadowski,1947,1947,July 11 1915,Seton Hall
+Tom Sanders*,1978,1979,November 8 1938,NYU
+Flip Saunders,1996,2015,February 23 1955,Minnesota
+Ryan Saunders,2019,2021,April 28 1986,Minnesota
+Herm Schaefer,1952,1953,December 20 1918,Indiana
+Fred Schaus,1961,1967,June 30 1925,West Virginia
+Dolph Schayes*,1964,1972,May 19 1928,NYU
+Mike Schuler,1987,1992,September 22 1940,Ohio University
+Howie Schultz,1950,1950,July 3 1922,
+Fred Scolari,1952,1952,March 1 1922,San Francisco
+Byron Scott,2001,2016,March 28 1961,Arizona State
+Ray Scott,1973,1976,July 12 1938,University of Portland
+George Senesky,1956,1958,April 4 1922,Saint Joseph's
+Paul Seymour,1957,1969,January 30 1928,Toledo
+Bill Sharman*,1967,1976,May 25 1926,USC
+Brian Shaw,2014,2015,March 22 1966,UC Santa Barbara
+Beryl Shipley,1975,1975,August 10 1926,
+Charley Shipp,1950,1950,December 3 1913,Catholic University of America
+Gene Shue,1967,1989,December 18 1931,Maryland
+Paul Silas,1981,2012,July 12 1943,Creighton
+Stephen Silas,2021,2023,August 6 1973,
+Scott Skiles,2000,2016,March 5 1964,Michigan State
+Jerry Sloan*,1980,2011,March 28 1942,University of Evansville
+Keith Smart,2003,2013,September 21 1964,Indiana
+Jack Smiley,1950,1950,December 22 1922,Illinois
+Quin Snyder,2015,2025,October 30 1966,Duke
+Albert Soar,1948,1948,August 17 1914,Providence
+Erik Spoelstra,2009,2025,November 1 1970,University of Portland
+Garry St. Jean,1993,2000,February 10 1950,
+Bob Staak,1997,1997,December 22 1947,UConn
+Larry Staverman,1968,1978,October 11 1936,Thomas More College
+Jerry Steele,1971,1971,March 10 1939,Wake Forest
+Brad Stevens,2014,2021,October 22 1976,DePauw University
+Terry Stotts,2003,2021,November 25 1957,Oklahoma
+Ken Suesens,1950,1950,October 23 1916,Iowa
+Ed Tapscott,2009,2009,June 11 1953,Tufts University
+Jerry Tarkanian*,1993,1993,August 8 1930,Fresno State
+Reggie Theus,2008,2009,October 13 1957,UNLV
+Tom Thibodeau,2011,2025,January 17 1958,Salem State University
+Isiah Thomas*,2001,2008,April 30 1961,Indiana
+Rod Thorn*,1976,1982,May 23 1941,West Virginia
+Jim Todd,2000,2000,,Fitchburg State University
+Rolland Todd,1971,1972,April 26 1934,Fresno State
+Mike Todorovich,1951,1951,June 11 1923,Wyoming
+Rudy Tomjanovich*,1992,2005,November 24 1948,Michigan
+Gene Tormohlen,1976,1976,May 12 1937,Tennessee
+Jay Triano,2009,2018,September 21 1958,
+Ime Udoka,2022,2025,August 9 1977,Portland State
+Wes Unseld*,1988,1994,March 14 1946,Louisville
+Wes Unseld,2022,2024,September 20 1975,
+Dick Van Arsdale,1987,1987,February 22 1943,Indiana
+Butch van Breda Kolff,1968,1977,October 28 1922,NYU
+Jeff Van Gundy,1996,2007,January 19 1962,Nazareth College
+Stan Van Gundy,2004,2021,September 21 1959,State University of New York at Brockport
+Kiki Vandeweghe,2010,2010,August 1 1958,UCLA
+Jacque Vaughn,2013,2024,February 11 1975,Kansas
+Dick Versace,1989,1991,April 16 1940,
+Sam Vincent,2008,2008,May 18 1963,Michigan State
+Dick Vitale*,1979,1980,June 9 1939,Seton Hall
+Frank Vogel,2011,2024,June 21 1973,Kentucky
+Darrell Walker,1997,2000,March 9 1961,Arkansas
+Donnie Walsh,1979,1981,March 1 1941,UNC
+Luke Walton,2017,2022,March 28 1980,Arizona
+Bobby Wanzer*,1956,1959,June 4 1921,Seton Hall
+Earl Watson,2016,2018,June 12 1979,UCLA
+Jim Weaver,1969,1969,,
+Bob Weiss,1987,2006,May 7 1942,Penn State
+Jerry West*,1977,1979,May 28 1938,West Virginia
+Paul Westhead,1980,1992,February 21 1939,Saint Joseph's
+Paul Westphal*,1993,2012,November 30 1950,USC
+John Wetzel,1988,1988,October 22 1944,Virginia Tech
+Lenny Wilkens*,1970,2005,October 28 1937,Providence
+Herb Williams,2004,2005,February 16 1958,Ohio State
+Max Williams,1970,1971,February 28 1938,SMU
+Monty Williams,2011,2024,October 8 1971,Notre Dame
+Tex Winter*,1972,1973,February 25 1922,
+Brian Winters,1996,2002,March 1 1952,South Carolina
+Randy Wittman,2000,2016,October 28 1959,Indiana
+Dave Wohl,1986,1988,November 2 1949,Penn
+Charles Wolf,1961,1965,May 7 1926,Notre Dame
+Mike Woodson,2005,2014,March 24 1958,Indiana
+Draff Young,1974,1974,April 9 1942,
+Verl Young,1969,1969,February 20 1910,
+Max Zaslofsky,1968,1969,December 7 1925,St. John's

@@ -1,0 +1,6 @@
+,,,,,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,-additional
+Season,Lg,Player,Age,Tm,Games,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,-9999
+2024-25,NBA,Pascal Siakam,30,IND,6,36.0,24.8,5.0,3.5,1.3,0.7,.524,.500,.674,siakapa01
+2023-24,NBA,Jaylen Brown,27,BOS,4,41.0,29.8,5.0,3.0,2.0,0.8,.517,.370,.655,brownja02
+2022-23,NBA,Jimmy Butler,33,MIA,7,39.6,24.7,7.6,6.1,2.6,0.4,.420,.348,.833,butleji01
+2021-22,NBA,Jayson Tatum,23,BOS,7,40.7,25.0,8.3,5.6,1.1,0.9,.462,.353,.860,tatumja01

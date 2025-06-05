@@ -7,13 +7,14 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import settings
 # ---------------------------------------------------------------------------
 BASE_URL = "https://www.nba.com"
-STATS_URL = (
-    "https://stats.nba.com/stats/commonallplayers?"
-    "IsOnlyCurrentSeason=0&LeagueID=00&Season=2024-25"
+STATS_URL = settings.API_ENDPOINTS["common_all_players"].format(
+    season="2024-25"
 )
-PLAYER_INFO_URL = "https://stats.nba.com/stats/commonplayerinfo?PlayerID={pid}"
+PLAYER_INFO_URL = settings.API_ENDPOINTS["common_player_info"]  # accepts {player_id}
+
 
 # head-shot CDN pattern (1040 × 760)
 HEADSHOT_CDN = (
@@ -21,20 +22,10 @@ HEADSHOT_CDN = (
 )
 CHECK_CDN = True  # HEAD-request to verify the file really exists
 
-RAW_DIR       = "data/raw"
-BASIC_OUT     = os.path.join(RAW_DIR, "players_basic.csv")
-DETAILED_OUT  = os.path.join(RAW_DIR, "players_detailed.csv")
+BASIC_OUT     = settings.RAW_PLAYERS_BASIC
+DETAILED_OUT  = settings.RAW_PLAYERS_DETAILED
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    ),
-    "Origin":  "https://www.nba.com",
-    "Referer": "https://www.nba.com/",
-    "x-nba-stats-origin": "stats",
-    "x-nba-stats-token":  "true",
-}
+HEADERS = settings.API_HEADERS
 # ---------------------------------------------------------------------------
 def bio_fields(pid: int) -> dict:
     """

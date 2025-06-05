@@ -1,0 +1,7 @@
+,,,,,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,-additional
+Season,Lg,Player,Age,Tm,Games,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,-9999
+2024-25,NBA,Shai Gilgeous-Alexander,26,OKC,5,36.2,31.4,5.2,8.2,1.8,0.2,.457,.318,.863,gilgesh01
+2024-25,NBA,Shai Gilgeous-Alexander,26,OKC,5,36.2,31.4,5.2,8.2,1.8,0.2,.457,.318,.863,gilgesh01
+2023-24,NBA,Luka Dončić,24,DAL,5,40.2,32.4,9.6,8.2,2.2,0.4,.473,.434,.846,doncilu01
+2022-23,NBA,Nikola Jokić,27,DEN,4,42.0,27.8,14.5,11.8,1.3,1.3,.506,.471,.778,jokicni01
+2021-22,NBA,Stephen Curry,33,GSW,5,34.8,23.8,6.6,7.4,1.0,0.4,.444,.439,.840,curryst01

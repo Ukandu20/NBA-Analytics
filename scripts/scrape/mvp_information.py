@@ -5,7 +5,7 @@ from io import StringIO
 import os
 
 def save_mvp_csv():
-    input_txt_path = "data/raw/mvp.txt"  # Adjust path if file is elsewhere
+    input_txt_path = "data/raw/awards/mvp.txt"  # Adjust path if file is elsewhere
 
     # Read text content from file
     with open(input_txt_path, 'r', encoding='utf-8') as file:

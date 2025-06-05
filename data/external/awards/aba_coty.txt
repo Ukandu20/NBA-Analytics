@@ -1,0 +1,12 @@
+Season,Lg,Coach,Voting,Tm,G,W,L,W/L%
+1975-76,ABA,Larry Brown,,DNA,84,60,24,.714
+1974-75,ABA,Larry Brown,,DNA,84,65,19,.774
+1973-74,ABA,Joe Mullaney (Tie),,UTS,84,51,33,.607
+1973-74,ABA,Babe McCarthy (Tie),,KEN,84,53,31,.631
+1972-73,ABA,Larry Brown,,CAR,84,57,27,.679
+1971-72,ABA,Tom Nissalke,,DLC,84,42,42,.500
+1970-71,ABA,Al Bianchi,,VIR,84,55,29,.655
+1969-70,ABA,Bill Sharman (Tie),,LAS,84,43,41,.512
+1969-70,ABA,Joe Belmont (Tie),,DNR,56,42,14,.750
+1968-69,ABA,Alex Hannum,,OAK,78,60,18,.769
+1967-68,ABA,Vince Cazzetta,,PTP,78,54,24,.692
