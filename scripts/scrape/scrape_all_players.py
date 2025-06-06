@@ -10,11 +10,11 @@ from selenium.webdriver.support import expected_conditions as EC
 import settings
 # ---------------------------------------------------------------------------
 BASE_URL = "https://www.nba.com"
-STATS_URL = settings.API_ENDPOINTS["common_all_players"].format(
-    season="2024-25"
+STATS_URL = (
+    "https://stats.nba.com/stats/commonallplayers?"
+    "IsOnlyCurrentSeason=0&LeagueID=00&Season=2024-25"
 )
-PLAYER_INFO_URL = settings.API_ENDPOINTS["common_player_info"]  # accepts {player_id}
-
+PLAYER_INFO_URL = "https://stats.nba.com/stats/commonplayerinfo?PlayerID={pid}"
 
 # head-shot CDN pattern (1040 × 760)
 HEADSHOT_CDN = (
@@ -22,8 +22,9 @@ HEADSHOT_CDN = (
 )
 CHECK_CDN = True  # HEAD-request to verify the file really exists
 
-BASIC_OUT     = settings.RAW_PLAYERS_BASIC
-DETAILED_OUT  = settings.RAW_PLAYERS_DETAILED
+RAW_DIR       = "data/raw"
+BASIC_OUT     = os.path.join(RAW_DIR, "players_basic.csv")
+DETAILED_OUT  = os.path.join(RAW_DIR, "players_detailed.csv")
 
 HEADERS = settings.API_HEADERS
 # ---------------------------------------------------------------------------

@@ -29,7 +29,9 @@ ERA_LABELS = [
 def load_data():
     mvp = pd.read_csv(MVP_CSV)
     if "season_start" not in mvp.columns:
-        mvp["season_start"] = mvp["season_start"] + 1
+        mvp["season_start"] = mvp["season"].str[:4].astype(int)
+    if "season_end" not in mvp.columns:
+        mvp["season_end"] = mvp["season_start"] + 1
 
     players = pd.read_csv(PLAYERS_CSV, parse_dates=["birthdate"])
     players["position_primary"] = players["position"].str.split("-").str[0]
