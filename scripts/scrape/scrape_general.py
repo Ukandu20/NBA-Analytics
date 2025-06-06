@@ -27,7 +27,7 @@ HEADERS = {
     "x-nba-stats-token":  "true",
 }
 ENDPOINT   = "https://stats.nba.com/stats/leaguedashteamstats"
-DATA_ROOT  = pathlib.Path("data/raw/player_stats/general")
+DATA_ROOT  = pathlib.Path("data/raw/team_stats/general")
 
 MEASURE_MAP = {
     "traditional": "Base",

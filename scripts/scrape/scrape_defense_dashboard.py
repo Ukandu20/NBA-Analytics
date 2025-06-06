@@ -32,7 +32,7 @@ HEADERS = {
     "x-nba-stats-token":  "true",
 }
 ENDPOINT   = "https://stats.nba.com/stats/leaguedashptteamdefend"
-DATA_ROOT  = pathlib.Path("data/raw/player_stats/defense_dashboard")
+DATA_ROOT  = pathlib.Path("data/raw/team_stats/defense_dashboard")
 
 DEF_CAT = {
     "overall":        "Overall",

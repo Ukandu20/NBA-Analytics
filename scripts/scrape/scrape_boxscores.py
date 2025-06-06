@@ -28,7 +28,7 @@ API_HEADERS = {
 }
 
 # ── Where to store the CSV files ────────────────────────────────────────────
-DATA_ROOT = pathlib.Path("data/raw/player_stats/box_scores")
+DATA_ROOT = pathlib.Path("data/raw/team_stats/box_scores")
 
 TEAM_GAMELOGS = "https://stats.nba.com/stats/teamgamelogs"
 
