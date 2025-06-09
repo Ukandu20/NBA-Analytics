@@ -12,7 +12,7 @@ import io
 # ────────────────────────────────────
 DATA_DIR = Path(__file__).resolve().parents[1] / "data" / "processed"
 MVP_CSV = DATA_DIR / "mvp_cleaned.csv"
-PLAYERS_CSV = DATA_DIR / "all_players_cleaned.csv"
+PLAYERS_CSV = DATA_DIR / "players_bios_cleaned.csv"
 ERA_BINS = [0, 1979, 1989, 1999, 2009, 3000]
 ERA_LABELS = [
     "Early Years (≤1979)",

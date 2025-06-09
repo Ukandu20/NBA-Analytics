@@ -196,8 +196,8 @@ def main():
 
         # ───────────────── data/processed ─────────────────
         "data/processed",
-        "data/processed/all_players_cleaned.csv",  # (placeholder path)
-        "data/processed/all_teams_cleaned.csv",    # (optional)
+        "data/processed/players_bios_cleaned.csv",  # (placeholder path)
+        "data/processed/team_bios_cleaned.csv",    # (optional)
         "data/processed/per_team",                 # top‐level “per_team” parent
         "data/processed/per_team_stats",           # top‐level “per_team_stats” parent
         "data/processed/feature_store",

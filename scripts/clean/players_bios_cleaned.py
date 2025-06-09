@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Clean NBA player roster → data/processed/all_players_cleaned.csv
+Clean NBA player roster → data/processed/players_bios_cleaned.csv
 ================================================================
 2025-06-02
   • NEW  : `pid` column (numeric Player-ID)
@@ -22,8 +22,8 @@ import pandas as pd
 import requests
 
 
-RAW_DIR   = "data/raw"
-OUT_FPATH = "data/processed/all_players_cleaned.csv"
+RAW_DIR   = "data/raw/players"
+OUT_FPATH = "data/processed/player_bios_cleaned.csv"
 
 SILHOUETTE_URL = "https://cdn.nba.com/headshots/nba/latest/1040x760/fallback.png"
 HEADSHOT_CDN   = "https://cdn.nba.com/headshots/nba/latest/1040x760/{pid}.png"

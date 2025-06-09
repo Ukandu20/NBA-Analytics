@@ -287,6 +287,6 @@ defaults:
 # ──────────────────────────────────────────────
 
 files:
-  all_players_cleaned: "all_players_cleaned.csv"
-  all_teams_cleaned:   "all_teams_cleaned.csv"
+  players_bios_cleaned: "players_bios_cleaned.csv"
+  team_bios_cleaned:   "team_bios_cleaned.csv"
   mvp_cleaned:         "mvp_cleaned.csv"

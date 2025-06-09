@@ -22,7 +22,7 @@ import os
 import argparse
 import pandas as pd
 
-INFILE  = "data/processed/all_players_cleaned.csv"
+INFILE  = "data/processed/players_bios_cleaned.csv"
 OUTROOT = "data/teams"
 
 

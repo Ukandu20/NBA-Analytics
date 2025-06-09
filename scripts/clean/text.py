@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-all_players_cleaned.py  –  NO settings.py / config.yaml required
+players_bios_cleaned.py  –  NO settings.py / config.yaml required
 ===============================================================
 
 • Reads `data/raw/players_basic.csv`
         (and optionally `players_detailed.csv` → --merge)
 • Cleans, normalises, fixes headshots, splits draft info, etc.
 • Optional --api-fill grabs missing height/weight/experience.
-• Writes `data/processed/all_players_cleaned.csv`.
+• Writes `data/processed/players_bios_cleaned.csv`.
 
 Utility imports (normalise_cols & coerce_all_numeric) come from utils/.
 Everything else is hard-coded below – tweak the constants block if
@@ -44,7 +44,7 @@ PROCESSED_DIR  = Path("data/processed")
 
 RAW_PLAYERS_BASIC    = RAW_DIR / "players_basic.csv"
 RAW_PLAYERS_DETAILED = RAW_DIR / "players_detailed.csv"   # optional
-OUT_PATH             = PROCESSED_DIR / "all_players_cleaned.csv"
+OUT_PATH             = PROCESSED_DIR / "players_bios_cleaned.csv"
 
 SILHOUETTE_URL = "https://cdn.nba.com/headshots/nba/latest/1040x760/fallback.png"
 HEADSHOT_CDN   = "https://cdn.nba.com/headshots/nba/latest/1040x760/{pid}.png"
