@@ -1,0 +1,11 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away
+2023-24,1610612738,BOS,Boston Celtics,42300405,2024-06-17,BOS vs. DAL,W,48.0,17.0,11.0,16.0,42.0,6.0,6.0,9.0,42.0,0,0,0,0,7,53,86,26,90,8,14,43,61,1,2023,2024,True,BOS,DAL
+2023-24,1610612742,DAL,Dallas Mavericks,42300405,2024-06-17,DAL @ BOS,L,48.0,6.0,6.0,9.0,42.0,17.0,11.0,16.0,42.0,0,0,0,0,7,153,141,117,90,100,63,128,61,1,2023,2024,False,BOS,DAL
+2023-24,1610612742,DAL,Dallas Mavericks,42300404,2024-06-14,DAL vs. BOS,W,48.0,17.0,16.0,11.0,60.0,9.0,2.0,6.0,26.0,0,0,0,0,7,53,28,91,12,28,3,14,2,1,2023,2024,True,DAL,BOS
+2023-24,1610612738,BOS,Boston Celtics,42300404,2024-06-14,BOS @ DAL,L,48.0,9.0,2.0,6.0,26.0,17.0,16.0,11.0,60.0,0,0,0,0,7,130,161,144,162,100,124,62,148,1,2023,2024,False,DAL,BOS
+2023-24,1610612742,DAL,Dallas Mavericks,42300403,2024-06-12,DAL vs. BOS,L,48.0,12.0,14.0,12.0,52.0,13.0,6.0,12.0,36.0,0,0,0,0,7,96,53,77,33,70,14,75,20,1,2023,2024,True,DAL,BOS
+2023-24,1610612738,BOS,Boston Celtics,42300403,2024-06-12,BOS @ DAL,W,48.0,13.0,6.0,12.0,36.0,12.0,14.0,12.0,52.0,0,0,0,0,7,87,141,77,133,55,105,75,120,1,2023,2024,False,DAL,BOS
+2023-24,1610612742,DAL,Dallas Mavericks,42300402,2024-06-09,DAL @ BOS,L,48.0,12.0,13.0,7.0,54.0,21.0,10.0,15.0,46.0,0,0,0,0,7,96,61,135,25,139,56,116,85,1,2023,2024,False,BOS,DAL
+2023-24,1610612738,BOS,Boston Celtics,42300402,2024-06-09,BOS vs. DAL,W,48.0,21.0,10.0,15.0,46.0,12.0,13.0,7.0,54.0,0,0,0,0,7,20,103,38,63,55,93,22,133,1,2023,2024,True,BOS,DAL
+2023-24,1610612738,BOS,Boston Celtics,42300401,2024-06-06,BOS vs. DAL,W,48.0,18.0,10.0,10.0,38.0,13.0,16.0,6.0,46.0,0,0,0,0,7,40,103,104,120,70,124,14,85,1,2023,2024,True,BOS,DAL
+2023-24,1610612742,DAL,Dallas Mavericks,42300401,2024-06-06,DAL @ BOS,L,48.0,13.0,16.0,6.0,46.0,18.0,10.0,10.0,38.0,0,0,0,0,7,87,28,144,63,113,56,49,33,1,2023,2024,False,BOS,DAL

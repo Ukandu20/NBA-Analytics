@@ -1,0 +1,6 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,efg_pct,fta_rate,tm_tov_pct,oreb_pct,opp_efg_pct,opp_fta_rate,opp_tov_pct,opp_oreb_pct,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,efg_pct_rank,fta_rate_rank,tm_tov_pct_rank,oreb_pct_rank,opp_efg_pct_rank,opp_fta_rate_rank,opp_tov_pct_rank,opp_oreb_pct_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2018-19,1610612760,OKC,Oklahoma City Thunder,41800165,2019-04-23,OKC @ POR,L,48.0,0.616,0.174,0.152,0.209,0.536,0.24,0.1,0.377,0,0,0,0,9,6,147,111,136,104,46,138,150,1,2018,2019,False,POR,OKC,APR
+2018-19,1610612760,OKC,Oklahoma City Thunder,41800164,2019-04-21,OKC vs. POR,L,48.0,0.46,0.25,0.136,0.179,0.494,0.256,0.125,0.226,0,0,0,0,9,123,111,84,155,73,57,101,46,1,2018,2019,True,OKC,POR,APR
+2018-19,1610612760,OKC,Oklahoma City Thunder,41800163,2019-04-19,OKC vs. POR,W,48.0,0.578,0.506,0.152,0.279,0.542,0.289,0.184,0.326,0,0,0,0,9,28,3,111,71,112,87,17,128,1,2018,2019,True,OKC,POR,APR
+2018-19,1610612760,OKC,Oklahoma City Thunder,41800162,2019-04-16,OKC @ POR,L,48.0,0.436,0.326,0.158,0.278,0.539,0.233,0.118,0.22,0,0,0,0,9,140,51,119,72,107,39,113,38,1,2018,2019,False,POR,OKC,APR
+2018-19,1610612760,OKC,Oklahoma City Thunder,41800161,2019-04-14,OKC @ POR,L,48.0,0.425,0.247,0.157,0.362,0.483,0.314,0.188,0.346,0,0,0,0,9,149,115,116,20,62,106,12,138,1,2018,2019,False,POR,OKC,APR

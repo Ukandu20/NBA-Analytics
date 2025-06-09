@@ -1,0 +1,8 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2020-21,1610612742,DAL,Dallas Mavericks,42000177,2021-06-06,DAL @ LAC,L,48.0,9.0,23.0,8.0,62.0,17.0,12.0,4.0,32.0,0,0,0,0,7,134,7,113,8,115,79,13,17,1,2020,2021,False,LAC,DAL,JUN
+2020-21,1610612742,DAL,Dallas Mavericks,42000176,2021-06-04,DAL vs. LAC,L,48.0,15.0,5.0,11.0,46.0,9.0,8.0,11.0,28.0,0,0,0,0,7,70,153,77,60,28,35,84,4,1,2020,2021,True,DAL,LAC,JUN
+2020-21,1610612742,DAL,Dallas Mavericks,42000175,2021-06-02,DAL @ LAC,W,48.0,11.0,11.0,6.0,36.0,9.0,7.0,8.0,38.0,0,0,0,0,7,116,93,134,125,28,25,49,47,1,2020,2021,False,LAC,DAL,JUN
+2020-21,1610612742,DAL,Dallas Mavericks,42000174,2021-05-30,DAL vs. LAC,L,48.0,11.0,14.0,4.0,42.0,5.0,10.0,17.0,44.0,0,0,0,0,7,116,61,148,82,8,52,145,90,1,2020,2021,True,DAL,LAC,MAY
+2020-21,1610612742,DAL,Dallas Mavericks,42000173,2021-05-28,DAL vs. LAC,L,48.0,10.0,17.0,4.0,24.0,13.0,6.0,12.0,46.0,0,0,0,0,7,125,39,148,169,72,19,95,105,1,2020,2021,True,DAL,LAC,MAY
+2020-21,1610612742,DAL,Dallas Mavericks,42000172,2021-05-25,DAL @ LAC,W,48.0,18.0,13.0,5.0,48.0,15.0,6.0,13.0,60.0,0,0,0,0,7,34,72,144,50,87,19,114,157,1,2020,2021,False,LAC,DAL,MAY
+2020-21,1610612742,DAL,Dallas Mavericks,42000171,2021-05-22,DAL @ LAC,W,48.0,5.0,19.0,0.0,32.0,17.0,10.0,4.0,38.0,0,0,0,0,7,158,25,167,143,115,52,13,47,1,2020,2021,False,LAC,DAL,MAY

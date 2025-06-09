@@ -1,0 +1,5 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,efg_pct,fta_rate,tm_tov_pct,oreb_pct,opp_efg_pct,opp_fta_rate,opp_tov_pct,opp_oreb_pct,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,efg_pct_rank,fta_rate_rank,tm_tov_pct_rank,oreb_pct_rank,opp_efg_pct_rank,opp_fta_rate_rank,opp_tov_pct_rank,opp_oreb_pct_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2024-25,1610612748,MIA,Miami Heat,42400104,2025-04-28,MIA vs. CLE,L,48.0,0.416,0.169,0.194,0.295,0.674,0.291,0.124,0.286,0,0,0,0,11,151,137,136,86,153,95,106,57,1,2024,2025,True,MIA,CLE,APR
+2024-25,1610612748,MIA,Miami Heat,42400103,2025-04-26,MIA vs. CLE,L,48.0,0.526,0.132,0.185,0.174,0.622,0.233,0.121,0.405,0,0,0,0,11,77,149,133,150,144,57,111,146,1,2024,2025,True,MIA,CLE,APR
+2024-25,1610612748,MIA,Miami Heat,42400102,2025-04-23,MIA @ CLE,L,48.0,0.617,0.198,0.147,0.268,0.61,0.28,0.096,0.182,0,0,0,0,11,15,120,88,111,140,90,141,9,1,2024,2025,False,CLE,MIA,APR
+2024-25,1610612748,MIA,Miami Heat,42400101,2025-04-20,MIA @ CLE,L,48.0,0.569,0.15,0.161,0.326,0.614,0.182,0.091,0.391,0,0,0,0,11,47,144,113,55,141,27,142,141,1,2024,2025,False,CLE,MIA,APR

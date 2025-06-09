@@ -1,0 +1,8 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2018-19,1610612759,SAS,San Antonio Spurs,41800157,2019-04-27,SAS @ DEN,L,48.0,4.0,8.0,6.0,44.0,1.0,17.0,6.0,56.0,0,0,0,0,9,159,131,151,60,1,122,9,144,1,2018,2019,False,DEN,SAS,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800156,2019-04-25,SAS vs. DEN,W,48.0,4.0,13.0,12.0,36.0,12.0,28.0,12.0,72.0,0,0,0,0,9,159,74,103,119,43,164,52,164,1,2018,2019,True,SAS,DEN,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800155,2019-04-23,SAS @ DEN,L,48.0,11.0,17.0,8.0,40.0,9.0,8.0,17.0,38.0,0,0,0,0,9,123,36,138,96,21,22,113,47,1,2018,2019,False,DEN,SAS,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800154,2019-04-20,SAS vs. DEN,L,48.0,11.0,7.0,12.0,60.0,12.0,16.0,15.0,40.0,0,0,0,0,9,123,144,103,12,43,114,95,61,1,2018,2019,True,SAS,DEN,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800153,2019-04-18,SAS vs. DEN,W,48.0,22.0,18.0,21.0,62.0,7.0,10.0,19.0,42.0,0,0,0,0,9,22,27,16,6,11,38,131,70,1,2018,2019,True,SAS,DEN,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800152,2019-04-16,SAS @ DEN,L,48.0,6.0,8.0,6.0,48.0,15.0,8.0,21.0,46.0,0,0,0,0,9,155,131,151,43,74,22,143,106,1,2018,2019,False,DEN,SAS,APR
+2018-19,1610612759,SAS,San Antonio Spurs,41800151,2019-04-13,SAS @ DEN,W,48.0,8.0,7.0,2.0,32.0,8.0,17.0,0.0,48.0,0,0,0,0,9,145,144,161,145,15,122,1,115,1,2018,2019,False,DEN,SAS,APR

@@ -1,0 +1,6 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,efg_pct,fta_rate,tm_tov_pct,oreb_pct,opp_efg_pct,opp_fta_rate,opp_tov_pct,opp_oreb_pct,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,efg_pct_rank,fta_rate_rank,tm_tov_pct_rank,oreb_pct_rank,opp_efg_pct_rank,opp_fta_rate_rank,opp_tov_pct_rank,opp_oreb_pct_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2020-21,1610612738,BOS,Boston Celtics,42000115,2021-06-01,BOS @ BKN,L,48.0,0.495,0.25,0.115,0.37,0.601,0.298,0.095,0.238,0,0,0,0,7,118,78,68,14,135,114,139,59,1,2020,2021,False,BKN,BOS,JUN
+2020-21,1610612738,BOS,Boston Celtics,42000114,2021-05-30,BOS vs. BKN,L,48.0,0.524,0.5,0.113,0.36,0.675,0.361,0.102,0.306,0,0,0,0,7,96,3,65,19,166,147,124,121,1,2020,2021,True,BOS,BKN,MAY
+2020-21,1610612738,BOS,Boston Celtics,42000113,2021-05-28,BOS vs. BKN,W,48.0,0.596,0.258,0.146,0.4,0.548,0.369,0.105,0.277,0,0,0,0,7,41,76,121,5,100,151,120,90,1,2020,2021,True,BOS,BKN,MAY
+2020-21,1610612738,BOS,Boston Celtics,42000112,2021-05-25,BOS @ BKN,L,48.0,0.489,0.25,0.167,0.364,0.619,0.25,0.168,0.326,0,0,0,0,7,126,78,151,16,153,89,19,132,1,2020,2021,False,BKN,BOS,MAY
+2020-21,1610612738,BOS,Boston Celtics,42000111,2021-05-22,BOS @ BKN,L,48.0,0.435,0.31,0.129,0.291,0.464,0.345,0.118,0.353,0,0,0,0,7,159,49,95,68,22,141,94,146,1,2020,2021,False,BKN,BOS,MAY

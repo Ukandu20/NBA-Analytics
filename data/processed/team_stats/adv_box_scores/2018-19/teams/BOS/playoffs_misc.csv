@@ -1,0 +1,10 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2018-19,1610612738,BOS,Boston Celtics,41800205,2019-05-08,BOS @ MIL,L,48.0,19.0,6.0,19.0,36.0,15.0,12.0,15.0,44.0,0,0,0,0,9,42,151,28,119,74,61,95,93,2,2018,2019,False,MIL,BOS,MAY
+2018-19,1610612738,BOS,Boston Celtics,41800204,2019-05-06,BOS vs. MIL,L,48.0,4.0,6.0,13.0,44.0,12.0,13.0,22.0,66.0,0,0,0,0,9,159,151,80,60,43,75,150,160,1,2018,2019,True,BOS,MIL,MAY
+2018-19,1610612738,BOS,Boston Celtics,41800203,2019-05-03,BOS vs. MIL,L,48.0,12.0,7.0,17.0,24.0,28.0,8.0,21.0,52.0,0,0,0,0,9,114,144,44,159,159,22,143,129,1,2018,2019,True,BOS,MIL,MAY
+2018-19,1610612738,BOS,Boston Celtics,41800202,2019-04-30,BOS @ MIL,L,48.0,15.0,12.0,11.0,36.0,17.0,19.0,23.0,34.0,0,0,0,0,9,75,91,114,119,99,139,154,21,1,2018,2019,False,MIL,BOS,APR
+2018-19,1610612738,BOS,Boston Celtics,41800201,2019-04-28,BOS @ MIL,W,48.0,9.0,3.0,13.0,38.0,9.0,14.0,25.0,26.0,0,0,0,0,9,135,159,80,105,21,92,157,7,1,2018,2019,False,MIL,BOS,APR
+2018-19,1610612738,BOS,Boston Celtics,41800134,2019-04-21,BOS @ IND,W,48.0,16.0,8.0,18.0,34.0,15.0,13.0,22.0,42.0,0,0,0,0,9,67,131,35,138,74,75,150,70,1,2018,2019,False,IND,BOS,APR
+2018-19,1610612738,BOS,Boston Celtics,41800133,2019-04-19,BOS @ IND,W,48.0,10.0,13.0,10.0,22.0,20.0,6.0,13.0,34.0,0,0,0,0,9,129,74,126,162,124,10,63,21,1,2018,2019,False,IND,BOS,APR
+2018-19,1610612738,BOS,Boston Celtics,41800132,2019-04-17,BOS vs. IND,W,48.0,23.0,10.0,16.0,48.0,20.0,5.0,14.0,36.0,0,0,0,0,9,17,113,53,43,124,9,86,28,1,2018,2019,True,BOS,IND,APR
+2018-19,1610612738,BOS,Boston Celtics,41800131,2019-04-14,BOS vs. IND,W,48.0,9.0,14.0,24.0,24.0,13.0,14.0,14.0,36.0,0,0,0,0,9,135,59,9,159,52,92,86,28,1,2018,2019,True,BOS,IND,APR

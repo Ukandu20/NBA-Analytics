@@ -1,0 +1,6 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2022-23,1610612739,CLE,Cleveland Cavaliers,42200135,2023-04-26,CLE vs. NYK,L,48.0,13.0,3.0,8.0,34.0,12.0,20.0,20.0,44.0,0,0,0,0,9,102,166,137,155,45,148,149,60,1,2022,2023,True,CLE,NYK,APR
+2022-23,1610612739,CLE,Cleveland Cavaliers,42200134,2023-04-23,CLE @ NYK,L,48.0,13.0,12.0,7.0,52.0,16.0,21.0,10.0,50.0,0,0,0,0,9,102,89,143,38,92,152,44,105,1,2022,2023,False,NYK,CLE,APR
+2022-23,1610612739,CLE,Cleveland Cavaliers,42200133,2023-04-21,CLE @ NYK,L,48.0,8.0,11.0,7.0,48.0,28.0,14.0,15.0,56.0,0,0,0,0,9,146,107,143,65,162,92,99,142,1,2022,2023,False,NYK,CLE,APR
+2022-23,1610612739,CLE,Cleveland Cavaliers,42200132,2023-04-18,CLE vs. NYK,W,48.0,32.0,17.0,18.0,42.0,29.0,13.0,16.0,38.0,0,0,0,0,9,1,39,28,110,163,81,113,23,1,2022,2023,True,CLE,NYK,APR
+2022-23,1610612739,CLE,Cleveland Cavaliers,42200131,2023-04-15,CLE vs. NYK,L,48.0,10.0,12.0,15.0,40.0,26.0,23.0,17.0,44.0,0,0,0,0,9,132,89,57,123,156,161,121,60,1,2022,2023,True,CLE,NYK,APR

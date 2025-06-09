@@ -1,0 +1,6 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,efg_pct,fta_rate,tm_tov_pct,oreb_pct,opp_efg_pct,opp_fta_rate,opp_tov_pct,opp_oreb_pct,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,efg_pct_rank,fta_rate_rank,tm_tov_pct_rank,oreb_pct_rank,opp_efg_pct_rank,opp_fta_rate_rank,opp_tov_pct_rank,opp_oreb_pct_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2021-22,1610612743,DEN,Denver Nuggets,42100165,2022-04-27,DEN @ GSW,L,48.0,0.481,0.358,0.16,0.333,0.53,0.256,0.105,0.191,0,0,0,0,3,131,38,117,37,88,84,143,33,1,2021,2022,False,GSW,DEN,APR
+2021-22,1610612743,DEN,Denver Nuggets,42100164,2022-04-24,DEN vs. GSW,W,48.0,0.664,0.493,0.196,0.243,0.57,0.372,0.168,0.326,0,0,0,0,3,6,6,163,106,129,142,47,127,1,2021,2022,True,DEN,GSW,APR
+2021-22,1610612743,DEN,Denver Nuggets,42100163,2022-04-21,DEN vs. GSW,L,48.0,0.569,0.338,0.182,0.333,0.676,0.378,0.162,0.128,0,0,0,0,3,48,43,149,37,170,146,53,8,1,2021,2022,True,DEN,GSW,APR
+2021-22,1610612743,DEN,Denver Nuggets,42100162,2022-04-18,DEN @ GSW,L,48.0,0.5,0.241,0.191,0.423,0.649,0.286,0.095,0.233,0,0,0,0,3,115,102,158,5,165,110,154,59,1,2021,2022,False,GSW,DEN,APR
+2021-22,1610612743,DEN,Denver Nuggets,42100161,2022-04-16,DEN @ GSW,L,48.0,0.522,0.14,0.117,0.333,0.622,0.354,0.138,0.341,0,0,0,0,3,98,166,49,37,155,135,95,142,1,2021,2022,False,GSW,DEN,APR

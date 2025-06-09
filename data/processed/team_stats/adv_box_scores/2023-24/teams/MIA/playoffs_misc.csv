@@ -1,0 +1,6 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2023-24,1610612748,MIA,Miami Heat,42300105,2024-05-01,MIA @ BOS,L,48.0,15.0,0.0,3.0,58.0,10.0,11.0,5.0,52.0,0,0,0,0,7,66,163,162,18,36,63,8,120,1,2023,2024,False,BOS,MIA,MAY
+2023-24,1610612748,MIA,Miami Heat,42300104,2024-04-29,MIA vs. BOS,L,48.0,10.0,10.0,8.0,46.0,20.0,12.0,16.0,40.0,0,0,0,0,7,120,103,123,63,133,80,128,46,1,2023,2024,True,MIA,BOS,APR
+2023-24,1610612748,MIA,Miami Heat,42300103,2024-04-27,MIA vs. BOS,L,48.0,4.0,11.0,6.0,34.0,24.0,17.0,2.0,42.0,0,0,0,0,7,159,86,144,146,155,138,2,61,1,2023,2024,True,MIA,BOS,APR
+2023-24,1610612748,MIA,Miami Heat,42300102,2024-04-24,MIA @ BOS,W,48.0,20.0,0.0,7.0,26.0,9.0,8.0,15.0,46.0,0,0,0,0,7,27,163,135,162,28,29,116,85,1,2023,2024,False,BOS,MIA,APR
+2023-24,1610612748,MIA,Miami Heat,42300101,2024-04-21,MIA @ BOS,L,48.0,17.0,5.0,13.0,44.0,18.0,11.0,6.0,24.0,0,0,0,0,7,53,152,66,81,113,63,14,1,1,2023,2024,False,BOS,MIA,APR

@@ -1,0 +1,7 @@
+season,team_id,team,team_name,game_id,game_date,matchup,wl,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,available_flag,season_start,season_end,is_home,home,away,MON
+2021-22,1610612762,UTA,Utah Jazz,42100176,2022-04-28,UTA vs. DAL,L,48.0,13.0,14.0,9.0,54.0,18.0,3.0,6.0,36.0,0,0,0,0,3,109,63,108,19,106,3,23,43,1,2021,2022,True,UTA,DAL,APR
+2021-22,1610612762,UTA,Utah Jazz,42100175,2022-04-25,UTA @ DAL,L,48.0,7.0,8.0,7.0,44.0,21.0,14.0,8.0,46.0,0,0,0,0,3,159,129,132,72,129,102,44,104,1,2021,2022,False,DAL,UTA,APR
+2021-22,1610612762,UTA,Utah Jazz,42100174,2022-04-23,UTA vs. DAL,W,48.0,11.0,22.0,3.0,38.0,6.0,12.0,6.0,30.0,0,0,0,0,3,126,13,168,107,4,82,23,15,1,2021,2022,True,UTA,DAL,APR
+2021-22,1610612762,UTA,Utah Jazz,42100173,2022-04-21,UTA vs. DAL,L,48.0,6.0,5.0,9.0,56.0,13.0,14.0,3.0,42.0,0,0,0,0,3,167,161,108,11,58,102,3,80,1,2021,2022,True,UTA,DAL,APR
+2021-22,1610612762,UTA,Utah Jazz,42100172,2022-04-18,UTA @ DAL,L,48.0,4.0,18.0,3.0,50.0,12.0,4.0,16.0,28.0,0,0,0,0,3,172,31,168,33,50,6,136,10,1,2021,2022,False,DAL,UTA,APR
+2021-22,1610612762,UTA,Utah Jazz,42100171,2022-04-16,UTA @ DAL,W,48.0,10.0,20.0,8.0,50.0,14.0,7.0,10.0,36.0,0,0,0,0,3,138,20,119,33,67,22,68,43,1,2021,2022,False,DAL,UTA,APR
