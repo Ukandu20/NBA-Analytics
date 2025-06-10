@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.817,56,0.009,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.538,13,14,7,13,6,OKC
+22021,1629676,Isaiah Roby,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.142,45,0.026,0.727,0.444,0.0,0.182,0.0,0.0,0.364,0.444,11,8,4,9,5,OKC
+22021,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.006,49,0.036,0.286,0.154,0.071,0.0,0.071,0.0,0.143,0.154,14,4,2,13,11,OKC

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.0,6,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,NOP
+42021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.0,6,0.27,0.833,0.5,0.0,0.33,0.0,0.0,0.33,0.62,6,5,2,4,2,NOP
+42021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.0,6,0.47,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,9,15,6,9,3,NOP
+42021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.25,6,0.48,1.067,0.55,0.07,0.2,0.07,0.0,0.47,0.64,15,16,6,11,5,NOP
+42021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.506,6,0.46,0.895,0.43,0.11,0.16,0.05,0.0,0.42,0.46,19,17,6,14,8,NOP
+42021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.325,6,0.5,1.0,0.47,0.0,0.06,0.0,0.0,0.44,0.53,18,18,8,17,9,NOP
+42021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.325,6,0.24,1.0,0.53,0.0,0.06,0.0,0.0,0.5,0.53,18,18,9,17,8,NOP
+42021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.059,6,0.29,1.333,0.67,0.13,0.07,0.07,0.0,0.67,0.67,15,20,8,12,4,NOP
+42021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.494,6,0.5,0.897,0.41,0.1,0.08,0.03,0.0,0.44,0.42,39,35,13,32,19,NOP

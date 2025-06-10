@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,6,0.007,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.3,0.2,0.2,0.0,MIN
+42021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,6,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.3,0.2,0.2,0.0,MIN
+42021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,6,0.023,0.667,0.0,0.333,0.0,0.0,0.0,0.333,0.0,0.5,0.3,0.0,0.3,0.3,MIN
+42021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,6,0.014,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.2,0.2,0.0,0.0,0.0,MIN
+42021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,6,0.031,0.333,0.0,0.333,0.0,0.333,0.0,0.333,0.0,0.5,0.2,0.0,0.3,0.3,MIN

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.96,45,0.028,0.571,0.333,0.07,0.29,0.07,0.0,0.29,0.333,14,8,3,9,6,SAC
+22021,202684,Tristan Thompson,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.414,30,0.045,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,SAC
+22021,203200,Justin Holiday,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.587,25,0.058,0.917,0.429,0.33,0.08,0.33,0.0,0.58,0.429,12,11,3,7,4,SAC
+22021,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.725,47,0.039,0.846,0.444,0.23,0.15,0.23,0.08,0.38,0.444,13,11,4,9,5,SAC
+22021,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.414,51,0.024,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,12,12,6,12,6,SAC
+22021,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.908,30,0.071,0.684,0.308,0.16,0.16,0.11,0.0,0.37,0.308,19,13,4,13,9,SAC
+22021,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.021,24,0.064,1.455,0.727,0.0,0.0,0.0,0.0,0.73,0.727,11,16,8,11,3,SAC
+22021,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.519,15,0.069,0.947,0.474,0.0,0.0,0.0,0.0,0.47,0.474,19,18,9,19,10,SAC
+22021,203458,Alex Len,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.699,39,0.054,0.857,0.571,0.1,0.29,0.05,0.05,0.43,0.571,21,18,8,14,6,SAC
+22021,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.503,56,0.047,0.958,0.45,0.17,0.08,0.17,0.08,0.46,0.45,24,23,9,20,11,SAC
+22021,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.771,59,0.035,0.821,0.6,0.11,0.39,0.11,0.04,0.39,0.6,28,23,9,15,6,SAC
+22021,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.079,55,0.04,1.286,0.611,0.19,0.0,0.19,0.05,0.67,0.611,21,27,11,18,7,SAC
+22021,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.176,61,0.052,1.16,0.65,0.12,0.12,0.08,0.04,0.6,0.65,25,29,13,20,7,SAC
+22021,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.542,75,0.042,0.939,0.56,0.09,0.21,0.09,0.06,0.45,0.56,33,31,14,25,11,SAC
+22021,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.338,77,0.049,1.053,0.517,0.16,0.11,0.13,0.03,0.53,0.517,38,40,15,29,14,SAC

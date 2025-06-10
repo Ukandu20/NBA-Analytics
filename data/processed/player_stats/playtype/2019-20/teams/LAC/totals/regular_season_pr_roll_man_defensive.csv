@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202335,Patrick Patterson,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.919,59,0.049,0.643,0.4,0.0,0.286,0.0,0.0,0.29,0.45,14,9,4,10,6,LAC
+22019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.394,53,0.019,1.091,0.5,0.0,0.091,0.0,0.0,0.45,0.6,11,12,5,10,5,LAC
+22019,202331,Paul George,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.432,48,0.032,1.067,0.38,0.13,0.067,0.07,0.07,0.4,0.5,15,16,5,13,8,LAC
+22019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.201,51,0.027,1.214,0.6,0.21,0.143,0.21,0.07,0.57,0.65,14,17,6,10,4,LAC
+22019,203210,JaMychal Green,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.224,63,0.033,1.2,0.55,0.27,0.067,0.27,0.07,0.53,0.64,15,18,6,11,5,LAC
+22019,101150,Lou Williams,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.563,65,0.048,0.963,0.43,0.07,0.148,0.07,0.0,0.41,0.55,27,26,9,21,12,LAC
+22019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.155,57,0.037,1.273,0.55,0.05,0.091,0.05,0.05,0.5,0.68,22,28,11,20,9,LAC
+22019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.458,63,0.05,1.039,0.43,0.04,0.059,0.04,0.0,0.43,0.55,51,53,20,46,26,LAC
+22019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.259,72,0.07,1.19,0.53,0.12,0.103,0.1,0.07,0.5,0.63,58,69,26,49,23,LAC

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.931,48,0.032,0.6,0.25,0.1,0.1,0.0,0.0,0.3,0.25,0.2,0.1,0.0,0.2,0.1,DET
+22018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.953,80,0.025,0.533,0.3,0.07,0.27,0.07,0.0,0.27,0.35,0.2,0.1,0.0,0.1,0.1,DET
+22018,202397,Ish Smith,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.764,56,0.025,0.818,0.444,0.09,0.09,0.09,0.0,0.45,0.444,0.2,0.2,0.1,0.2,0.1,DET
+22018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.796,74,0.03,0.789,0.313,0.11,0.16,0.11,0.11,0.26,0.406,0.3,0.2,0.1,0.2,0.1,DET
+22018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.413,82,0.033,1.042,0.409,0.08,0.0,0.0,0.0,0.46,0.477,0.3,0.3,0.1,0.3,0.2,DET
+22018,2585,Zaza Pachulia,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.156,68,0.063,1.267,0.586,0.07,0.0,0.03,0.03,0.57,0.638,0.4,0.6,0.3,0.4,0.2,DET
+22018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.671,75,0.06,0.88,0.333,0.02,0.02,0.02,0.0,0.34,0.448,0.7,0.6,0.2,0.6,0.4,DET
+22018,203083,Andre Drummond,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.585,79,0.08,0.937,0.432,0.08,0.08,0.08,0.02,0.42,0.479,1.4,1.3,0.5,1.2,0.7,DET

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,1,0.227,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,CHA
+42020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,1,0.111,1.5,1.0,0.5,0.5,0.5,0.5,0.5,1.0,2,3,1,1,0,CHA
+42020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.015,1,0.524,0.273,0.125,0.091,0.182,0.091,0.0,0.182,0.125,11,3,1,8,7,CHA
+42020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,1,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,CHA
+42020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,1,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,CHA

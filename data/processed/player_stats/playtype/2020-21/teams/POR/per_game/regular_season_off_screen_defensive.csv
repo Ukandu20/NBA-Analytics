@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.909,72,0.012,0.667,0.3,0.08,0.083,0.08,0.0,0.33,0.3,0.2,0.0,0.0,0.1,0.1,POR
+22020,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.607,48,0.057,0.917,0.5,0.08,0.083,0.08,0.0,0.42,0.55,0.3,0.0,0.1,0.2,0.1,POR
+22020,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.104,38,0.064,1.286,0.5,0.0,0.0,0.0,0.0,0.5,0.64,0.4,0.0,0.2,0.4,0.2,POR
+22020,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.097,64,0.048,1.294,0.56,0.0,0.059,0.0,0.0,0.53,0.69,0.3,0.0,0.1,0.3,0.1,POR
+22020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.767,69,0.057,0.828,0.33,0.03,0.034,0.03,0.0,0.34,0.41,0.4,0.0,0.1,0.4,0.3,POR
+22020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.893,70,0.046,0.684,0.26,0.03,0.079,0.03,0.0,0.26,0.35,0.5,0.0,0.1,0.5,0.4,POR
+22020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.699,27,0.116,0.861,0.4,0.03,0.139,0.03,0.0,0.36,0.48,1.3,1.0,0.4,1.1,0.7,POR
+22020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.201,67,0.05,1.184,0.46,0.08,0.026,0.08,0.03,0.47,0.57,0.6,1.0,0.2,0.5,0.3,POR
+22020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.379,58,0.076,1.07,0.46,0.12,0.116,0.09,0.05,0.44,0.56,0.7,1.0,0.3,0.6,0.3,POR
+22020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.162,47,0.068,1.231,0.48,0.1,0.051,0.1,0.0,0.51,0.62,0.8,1.0,0.3,0.7,0.4,POR
+22020,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.058,41,0.097,1.361,0.55,0.03,0.056,0.03,0.0,0.53,0.73,0.9,1.0,0.4,0.8,0.4,POR

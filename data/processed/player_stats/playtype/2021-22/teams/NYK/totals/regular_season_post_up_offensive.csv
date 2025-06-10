@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203944,Julius Randle,1610612752,NYK,New York Knicks,Postup,Offensive,0.136,72,0.129,0.721,0.39,0.144,0.205,0.126,0.028,0.367,0.39,215,155,57,146,89,NYK
+22021,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Postup,Offensive,0.58,70,0.029,0.955,0.467,0.25,0.114,0.227,0.045,0.5,0.467,44,42,14,30,16,NYK
+22021,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Postup,Offensive,0.828,72,0.06,1.086,0.565,0.257,0.143,0.2,0.057,0.571,0.565,35,38,13,23,10,NYK
+22021,201959,Taj Gibson,1610612752,NYK,New York Knicks,Postup,Offensive,0.923,52,0.05,1.182,0.667,0.273,0.182,0.273,0.0,0.636,0.667,11,13,4,6,2,NYK
+22021,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Postup,Offensive,0.178,72,0.035,0.765,0.625,0.294,0.294,0.235,0.059,0.412,0.625,17,13,5,8,3,NYK
+22021,202692,Alec Burks,1610612752,NYK,New York Knicks,Postup,Offensive,0.149,81,0.016,0.733,0.364,0.133,0.133,0.133,0.0,0.4,0.364,15,11,4,11,7,NYK

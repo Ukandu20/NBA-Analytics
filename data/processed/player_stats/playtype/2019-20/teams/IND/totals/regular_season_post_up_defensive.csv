@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203087,Jeremy Lamb,1610612754,IND,Indiana Pacers,Postup,Defensive,0.721,46,0.031,0.8,0.417,0.07,0.13,0.07,0.0,0.4,0.417,15,12,5,12,7,IND
+22019,203960,JaKarr Sampson,1610612754,IND,Indiana Pacers,Postup,Defensive,0.682,34,0.121,0.826,0.429,0.22,0.17,0.17,0.0,0.48,0.429,23,19,6,14,8,IND
+22019,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Postup,Defensive,0.076,69,0.043,1.278,0.714,0.11,0.17,0.11,0.06,0.61,0.714,18,23,10,14,4,IND
+22019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Postup,Defensive,0.749,66,0.047,0.774,0.348,0.16,0.13,0.13,0.03,0.39,0.348,31,24,8,23,15,IND
+22019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Postup,Defensive,0.737,54,0.051,0.788,0.407,0.09,0.09,0.09,0.0,0.39,0.407,33,26,11,27,16,IND
+22019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,Postup,Defensive,0.114,68,0.044,1.207,0.619,0.24,0.14,0.21,0.1,0.55,0.619,29,35,13,21,8,IND
+22019,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Postup,Defensive,0.752,62,0.056,0.772,0.349,0.14,0.11,0.11,0.0,0.4,0.349,57,44,15,43,28,IND
+22019,203200,Justin Holiday,1610612754,IND,Indiana Pacers,Postup,Defensive,0.805,73,0.08,0.733,0.356,0.13,0.15,0.13,0.03,0.37,0.356,60,44,16,45,29,IND
+22019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Defensive,0.603,62,0.075,0.877,0.467,0.14,0.17,0.12,0.0,0.45,0.467,65,57,21,45,24,IND

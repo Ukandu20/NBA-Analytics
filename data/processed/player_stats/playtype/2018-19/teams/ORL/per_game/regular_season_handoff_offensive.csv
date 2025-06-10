@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.572,81,0.121,0.949,0.449,0.058,0.096,0.058,0.026,0.423,0.504,1.9,1.8,0.8,1.7,0.9,ORL
+22018,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.385,81,0.112,0.862,0.376,0.038,0.069,0.038,0.008,0.369,0.427,1.6,1.4,0.5,1.4,0.9,ORL
+22018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.71,78,0.069,1.011,0.456,0.133,0.144,0.111,0.033,0.444,0.544,1.2,1.2,0.4,0.9,0.5,ORL
+22018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.612,75,0.037,0.964,0.409,0.143,0.107,0.107,0.036,0.429,0.5,0.4,0.4,0.1,0.3,0.2,ORL
+22018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.509,81,0.028,0.92,0.368,0.16,0.08,0.12,0.0,0.44,0.395,0.3,0.3,0.1,0.2,0.1,ORL
+22018,1626170,Jerian Grant,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.782,60,0.063,1.056,0.571,0.167,0.111,0.167,0.056,0.5,0.607,0.3,0.3,0.1,0.2,0.1,ORL
+22018,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.081,41,0.086,0.563,0.292,0.031,0.25,0.031,0.031,0.219,0.354,0.8,0.4,0.2,0.6,0.4,ORL
+22018,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.112,68,0.06,0.591,0.2,0.182,0.136,0.182,0.0,0.318,0.233,0.3,0.2,0.0,0.2,0.2,ORL

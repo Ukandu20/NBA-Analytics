@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.59,72,0.068,0.989,0.419,0.086,0.065,0.086,0.075,0.398,0.488,93,92,36,86,50,PHI
+22019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.761,72,0.092,1.082,0.418,0.066,0.049,0.049,0.016,0.426,0.545,61,66,23,55,32,PHI
+22019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.851,55,0.069,1.143,0.48,0.071,0.054,0.054,0.018,0.464,0.59,56,64,24,50,26,PHI
+22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.459,51,0.021,0.917,0.524,0.0,0.083,0.042,0.0,0.458,0.524,24,22,11,21,10,PHI
+22019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.973,68,0.036,1.429,0.583,0.071,0.071,0.071,0.0,0.571,0.75,14,20,7,12,5,PHI
+22019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.306,65,0.057,0.842,0.333,0.0,0.053,0.0,0.0,0.316,0.444,19,16,6,18,12,PHI
+22019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.379,67,0.021,0.882,0.375,0.0,0.059,0.0,0.0,0.353,0.469,17,15,6,16,10,PHI
+22019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.379,40,0.048,0.882,0.357,0.059,0.118,0.059,0.0,0.353,0.464,17,15,5,14,9,PHI

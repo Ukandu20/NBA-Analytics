@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.126,30,0.139,1.2,0.55,0.2,0.067,0.2,0.0,0.6,0.59,0.5,0.6,0.2,0.4,0.2,UTA
+22020,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.144,71,0.012,1.176,0.47,0.059,0.0,0.059,0.06,0.471,0.56,0.2,0.3,0.1,0.2,0.1,UTA
+22020,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.379,72,0.067,1.0,0.41,0.08,0.04,0.08,0.0,0.44,0.48,0.3,0.3,0.1,0.3,0.2,UTA
+22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.566,72,0.068,0.907,0.41,0.0,0.047,0.0,0.0,0.395,0.48,0.6,0.5,0.2,0.6,0.3,UTA
+22020,201144,Mike Conley,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.526,51,0.096,0.926,0.4,0.056,0.074,0.056,0.02,0.389,0.48,1.1,1.0,0.4,0.9,0.6,UTA
+22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.772,68,0.127,0.765,0.34,0.044,0.088,0.044,0.0,0.338,0.39,1.0,0.8,0.3,0.9,0.6,UTA
+22020,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.731,67,0.124,0.795,0.37,0.068,0.123,0.068,0.01,0.356,0.42,1.1,0.9,0.3,0.9,0.6,UTA
+22020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.32,53,0.12,1.047,0.47,0.078,0.063,0.078,0.03,0.469,0.52,1.2,1.3,0.5,1.1,0.6,UTA
+22020,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.207,71,0.122,1.118,0.51,0.087,0.079,0.079,0.01,0.512,0.57,1.8,2.0,0.8,1.5,0.7,UTA

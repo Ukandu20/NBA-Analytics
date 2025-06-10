@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.765,74,0.073,1.149,0.548,0.082,0.067,0.06,0.007,0.545,0.587,134,154,63,115,52,PHX
+22023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.335,67,0.051,0.893,0.459,0.036,0.095,0.036,0.012,0.429,0.48,84,75,34,74,40,PHX
+22023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.33,53,0.04,0.892,0.469,0.0,0.135,0.0,0.0,0.405,0.516,37,33,15,32,17,PHX
+22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.655,74,0.024,1.1,0.471,0.1,0.1,0.05,0.05,0.45,0.559,20,22,8,17,9,PHX
+22023,201569,Eric Gordon,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.09,67,0.017,0.667,0.3,0.083,0.083,0.083,0.0,0.333,0.35,12,8,3,10,7,PHX

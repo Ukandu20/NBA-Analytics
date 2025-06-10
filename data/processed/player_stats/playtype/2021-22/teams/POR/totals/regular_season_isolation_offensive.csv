@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.783,29,0.181,1.008,0.414,0.163,0.085,0.093,0.016,0.465,0.465,129,130,41,99,58,POR
+22021,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.28,57,0.154,0.755,0.344,0.068,0.116,0.054,0.014,0.34,0.393,147,111,42,122,80,POR
+22021,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.283,36,0.135,0.757,0.364,0.078,0.078,0.068,0.01,0.369,0.386,103,78,32,88,56,POR
+22021,1630314,Brandon Williams,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.759,24,0.128,1.0,0.514,0.143,0.122,0.122,0.02,0.51,0.541,49,49,19,37,18,POR
+22021,1628372,Dennis Smith Jr.,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.295,37,0.144,0.763,0.355,0.132,0.105,0.132,0.053,0.368,0.371,38,29,11,31,20,POR
+22021,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.759,40,0.03,1.0,0.5,0.19,0.143,0.19,0.0,0.524,0.536,21,21,7,14,7,POR
+22021,1630553,Keon Johnson,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.26,22,0.099,0.741,0.348,0.037,0.111,0.0,0.0,0.333,0.391,27,20,8,23,15,POR
+22021,1628404,Josh Hart,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.965,13,0.064,1.2,0.417,0.2,0.067,0.2,0.067,0.467,0.542,15,18,5,12,7,POR
+22021,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.937,48,0.042,1.133,0.667,0.267,0.133,0.2,0.0,0.6,0.667,15,17,6,9,3,POR
+22021,1627739,Kris Dunn,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.905,14,0.07,1.1,0.375,0.3,0.0,0.3,0.1,0.5,0.375,10,11,3,8,5,POR
+22021,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.153,42,0.038,0.667,0.273,0.133,0.133,0.067,0.0,0.333,0.318,15,10,3,11,8,POR

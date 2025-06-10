@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.359,72,0.15,1.217,0.632,0.171,0.08,0.171,0.029,0.629,0.632,175,213,86,136,50,POR
+22018,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.214,77,0.202,1.122,0.554,0.168,0.075,0.159,0.019,0.579,0.554,107,120,46,83,37,POR
+22018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.809,60,0.169,1.436,0.75,0.115,0.064,0.115,0.051,0.718,0.75,78,112,51,68,17,POR
+22018,1627774,Jake Layman,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.737,71,0.159,1.392,0.75,0.101,0.076,0.101,0.038,0.709,0.75,79,110,51,68,17,POR
+22018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.314,81,0.103,1.184,0.648,0.145,0.145,0.132,0.0,0.605,0.648,76,90,35,54,19,POR
+22018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.882,80,0.031,1.483,0.75,0.15,0.05,0.15,0.0,0.75,0.75,60,89,36,48,12,POR
+22018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.815,70,0.041,1.441,0.706,0.153,0.034,0.153,0.051,0.712,0.706,59,85,36,51,15,POR
+22018,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.525,61,0.212,1.292,0.694,0.169,0.123,0.169,0.046,0.631,0.694,65,84,34,49,15,POR
+22018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.472,73,0.068,1.268,0.697,0.171,0.122,0.171,0.098,0.61,0.697,41,52,23,33,10,POR
+22018,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.271,23,0.16,1.156,0.618,0.133,0.133,0.133,0.022,0.578,0.618,45,52,21,34,13,POR
+22018,203917,Nik Stauskas,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.08,44,0.06,1.0,0.5,0.176,0.118,0.176,0.0,0.529,0.5,17,17,6,12,6,POR

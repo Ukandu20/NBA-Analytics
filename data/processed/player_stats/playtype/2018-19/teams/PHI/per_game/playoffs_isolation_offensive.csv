@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.568,12,0.075,0.941,0.308,0.235,0.0,0.176,0.0,0.471,0.308,1.0,1.3,0.3,1.1,0.8,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.132,12,0.071,0.714,0.333,0.071,0.071,0.071,0.0,0.357,0.333,1.0,0.8,0.3,1.0,0.7,PHI
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,12,0.036,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.5,0.3,0.5,0.3,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.026,11,0.054,0.462,0.273,0.0,0.154,0.0,0.0,0.231,0.273,1.0,0.5,0.3,1.0,0.7,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,11,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.4,0.2,0.2,0.0,PHI
+42018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,9,0.036,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.2,0.1,0.1,0.0,PHI
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,10,0.021,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.2,0.1,0.1,0.0,PHI
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,11,0.016,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,7,0.053,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,PHI

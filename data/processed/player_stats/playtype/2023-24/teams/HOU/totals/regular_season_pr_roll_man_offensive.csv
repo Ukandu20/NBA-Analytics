@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.506,63,0.262,1.135,0.559,0.14,0.07,0.135,0.032,0.558,0.578,342,388,157,281,124,HOU
+22023,1629111,Jock Landale,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.522,56,0.37,1.143,0.542,0.122,0.051,0.102,0.02,0.551,0.584,98,112,45,83,38,HOU
+22023,201145,Jeff Green,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.498,78,0.182,1.126,0.446,0.172,0.034,0.172,0.057,0.494,0.514,87,98,33,74,41,HOU
+22023,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.717,76,0.062,1.274,0.491,0.081,0.032,0.081,0.0,0.516,0.627,62,79,27,55,28,HOU
+22023,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.51,62,0.062,1.135,0.519,0.27,0.054,0.27,0.054,0.595,0.519,37,42,14,27,13,HOU
+22023,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.853,72,0.014,1.385,0.538,0.077,0.0,0.077,0.077,0.538,0.654,13,18,7,13,6,HOU
+22023,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.211,73,0.011,0.923,0.308,0.0,0.0,0.0,0.0,0.308,0.462,13,12,4,13,9,HOU

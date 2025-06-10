@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203500,Steven Adams,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.44,58,0.014,0.909,0.5,0.09,0.273,0.09,0.09,0.364,0.563,0.2,0.2,0.1,0.1,0.1,NOP
+22020,200755,JJ Redick,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.918,31,0.185,0.682,0.353,0.05,0.227,0.05,0.05,0.273,0.412,0.7,0.5,0.2,0.5,0.4,NOP
+22020,1629117,Wenyen Gabriel,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.491,21,0.176,0.895,0.5,0.05,0.211,0.05,0.0,0.421,0.571,0.9,0.8,0.3,0.7,0.3,NOP
+22020,1628411,Wes Iwundu,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.273,18,0.337,0.964,0.458,0.11,0.071,0.11,0.04,0.464,0.5,1.6,1.5,0.6,1.3,0.7,NOP
+22020,201949,James Johnson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.772,22,0.193,0.778,0.333,0.17,0.083,0.14,0.0,0.389,0.37,1.6,1.3,0.4,1.2,0.8,NOP
+22020,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.252,61,0.055,0.976,0.455,0.1,0.146,0.07,0.05,0.39,0.545,0.7,0.7,0.2,0.5,0.3,NOP
+22020,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.951,61,0.214,0.644,0.319,0.07,0.169,0.07,0.01,0.305,0.335,1.9,1.2,0.5,1.5,1.0,NOP
+22020,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.639,33,0.367,0.845,0.412,0.1,0.126,0.1,0.05,0.388,0.447,3.1,2.6,1.1,2.6,1.5,NOP
+22020,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.674,46,0.333,0.829,0.4,0.11,0.188,0.09,0.03,0.368,0.453,2.5,2.1,0.7,1.8,1.1,NOP
+22020,1630184,Kira Lewis Jr.,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.168,54,0.454,1.015,0.495,0.12,0.139,0.12,0.01,0.482,0.544,2.5,2.6,0.9,1.9,1.0,NOP
+22020,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.177,47,0.266,1.007,0.453,0.15,0.174,0.14,0.04,0.436,0.524,3.2,3.2,1.0,2.3,1.2,NOP
+22020,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.352,55,0.421,0.934,0.439,0.12,0.166,0.11,0.02,0.411,0.513,5.5,5.1,1.8,4.1,2.3,NOP
+22020,202339,Eric Bledsoe,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.576,71,0.397,0.869,0.438,0.09,0.159,0.08,0.01,0.405,0.486,4.6,4.0,1.5,3.5,2.0,NOP

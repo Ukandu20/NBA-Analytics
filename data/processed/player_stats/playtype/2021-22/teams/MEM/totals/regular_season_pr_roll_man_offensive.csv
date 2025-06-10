@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.914,64,0.191,1.412,0.724,0.186,0.02,0.176,0.069,0.725,0.724,102,144,63,87,24,MEM
+22021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.272,78,0.085,0.964,0.395,0.152,0.089,0.143,0.009,0.429,0.477,112,108,34,86,52,MEM
+22021,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.584,76,0.117,1.145,0.596,0.188,0.058,0.188,0.087,0.565,0.596,69,79,34,57,23,MEM
+22021,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.531,53,0.185,1.115,0.565,0.115,0.038,0.115,0.038,0.558,0.565,52,58,26,46,20,MEM
+22021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.047,69,0.027,0.688,0.3,0.25,0.125,0.25,0.0,0.375,0.3,16,11,3,10,7,MEM

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.8,69,0.177,1.158,0.434,0.024,0.028,0.024,0.008,0.431,0.587,253,293,105,242,137,GSW
+22022,1628978,Donte DiVincenzo,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.916,72,0.313,1.251,0.457,0.005,0.07,0.005,0.0,0.428,0.671,215,269,91,199,108,GSW
+22022,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.542,82,0.141,1.033,0.398,0.062,0.091,0.058,0.008,0.394,0.541,241,249,82,206,124,GSW
+22022,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.963,56,0.114,1.335,0.474,0.043,0.031,0.043,0.019,0.472,0.668,161,215,72,152,80,GSW
+22022,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.599,67,0.306,1.055,0.441,0.04,0.085,0.04,0.005,0.423,0.565,201,212,78,177,99,GSW
+22022,1630237,Anthony Lamb,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.519,62,0.472,1.022,0.387,0.059,0.081,0.054,0.016,0.382,0.534,186,190,63,163,100,GSW
+22022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.395,37,0.273,0.97,0.362,0.03,0.06,0.024,0.006,0.349,0.507,166,161,55,152,97,GSW
+22022,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.417,73,0.204,0.98,0.386,0.034,0.081,0.027,0.007,0.372,0.53,148,145,51,132,81,GSW
+22022,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.544,63,0.418,1.034,0.406,0.077,0.077,0.077,0.017,0.41,0.545,117,121,41,101,60,GSW
+22022,203210,JaMychal Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.945,57,0.25,1.301,0.463,0.0,0.036,0.0,0.0,0.446,0.675,83,108,37,80,43,GSW
+22022,1629660,Ty Jerome,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.463,45,0.293,1.0,0.385,0.047,0.059,0.047,0.024,0.376,0.5,85,85,30,78,48,GSW
+22022,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.1,82,0.024,0.75,0.333,0.083,0.0,0.083,0.083,0.333,0.333,12,9,4,12,8,GSW
+22022,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.002,8,0.4,0.3,0.125,0.0,0.2,0.0,0.0,0.1,0.188,10,3,1,8,7,GSW

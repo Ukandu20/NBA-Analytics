@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.328,3,0.603,0.816,0.382,0.053,0.053,0.053,0.0,0.395,0.412,38,31,13,34,21,MEM
+42024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.259,4,0.329,0.741,0.316,0.111,0.185,0.074,0.0,0.333,0.368,27,20,6,19,13,MEM
+42024,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.034,4,0.282,0.458,0.313,0.0,0.333,0.0,0.0,0.208,0.344,24,11,5,16,11,MEM

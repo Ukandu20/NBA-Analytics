@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.475,64,0.082,0.933,0.44,0.119,0.037,0.112,0.022,0.478,0.44,134,125,51,116,65,BOS
+22020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.669,54,0.132,1.017,0.571,0.155,0.172,0.103,0.052,0.5,0.571,58,59,24,42,18,BOS
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.544,58,0.036,0.959,0.476,0.143,0.082,0.122,0.082,0.469,0.476,49,47,20,42,22,BOS
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Postup,Offensive,0.381,63,0.087,0.893,0.55,0.107,0.214,0.071,0.036,0.429,0.55,28,25,11,20,9,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.346,49,0.037,0.88,0.412,0.24,0.12,0.2,0.04,0.48,0.412,25,22,7,17,10,BOS
+22020,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Postup,Offensive,0.463,52,0.041,0.929,0.455,0.143,0.071,0.143,0.0,0.5,0.455,14,13,5,11,6,BOS

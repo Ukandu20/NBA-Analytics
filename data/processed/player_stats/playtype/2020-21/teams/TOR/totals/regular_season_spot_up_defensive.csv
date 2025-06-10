@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630223,Jalen Harris,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.873,13,0.608,0.839,0.333,0.0,0.13,0.0,0.0,0.29,0.481,31,26,9,27,18,TOR
+22020,203918,Rodney Hood,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.037,17,0.389,1.381,0.5,0.1,0.05,0.1,0.0,0.52,0.667,21,29,9,18,9,TOR
+22020,1628778,Paul Watson,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.894,27,0.398,0.811,0.3,0.08,0.14,0.08,0.03,0.3,0.417,37,30,9,30,21,TOR
+22020,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.181,17,0.321,1.178,0.442,0.0,0.04,0.0,0.0,0.42,0.616,45,53,19,43,24,TOR
+22020,203920,Khem Birch,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.319,19,0.231,1.109,0.415,0.02,0.04,0.02,0.02,0.4,0.566,55,61,22,53,31,TOR
+22020,1630273,Freddie Gillespie,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.204,20,0.355,1.167,0.438,0.04,0.07,0.04,0.0,0.43,0.604,54,63,21,48,27,TOR
+22020,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.013,35,0.427,1.469,0.534,0.06,0.03,0.05,0.0,0.55,0.741,64,94,31,58,27,TOR
+22020,1627761,DeAndre' Bembry,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.552,51,0.326,1.01,0.382,0.05,0.07,0.05,0.02,0.37,0.517,99,100,34,89,55,TOR
+22020,203382,Aron Baynes,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.14,53,0.207,1.214,0.458,0.07,0.08,0.06,0.0,0.45,0.651,98,119,38,83,45,TOR
+22020,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.756,48,0.439,0.916,0.369,0.01,0.08,0.01,0.01,0.34,0.488,143,131,48,130,82,TOR
+22020,1629139,Yuta Watanabe,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.198,50,0.452,1.169,0.452,0.06,0.07,0.05,0.01,0.45,0.615,118,138,47,104,57,TOR
+22020,1626169,Stanley Johnson,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.462,61,0.376,1.044,0.447,0.08,0.1,0.07,0.01,0.42,0.57,137,143,51,114,63,TOR
+22020,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.451,44,0.35,1.048,0.387,0.05,0.06,0.05,0.01,0.39,0.53,168,176,58,150,92,TOR
+22020,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.431,42,0.485,1.057,0.389,0.06,0.06,0.05,0.02,0.39,0.535,174,184,61,157,96,TOR
+22020,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.371,46,0.456,1.085,0.394,0.06,0.05,0.05,0.01,0.4,0.544,213,231,76,193,117,TOR
+22020,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.827,60,0.395,0.875,0.313,0.08,0.07,0.08,0.0,0.34,0.434,264,231,71,227,156,TOR
+22020,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.571,52,0.377,1.004,0.37,0.03,0.06,0.02,0.0,0.36,0.525,261,262,88,238,150,TOR
+22020,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.532,56,0.504,1.022,0.387,0.04,0.07,0.04,0.0,0.39,0.535,360,368,123,318,195,TOR

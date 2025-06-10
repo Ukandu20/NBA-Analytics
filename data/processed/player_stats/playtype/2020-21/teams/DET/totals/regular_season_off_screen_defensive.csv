@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202709,Cory Joseph,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.811,19,0.043,0.8,0.33,0.0,0.1,0.0,0.0,0.3,0.44,10,8,3,9,6,DET
+22020,1629635,Sekou Doumbouya,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.883,56,0.051,0.692,0.27,0.0,0.154,0.0,0.0,0.23,0.41,13,9,3,11,8,DET
+22020,201565,Derrick Rose,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.068,15,0.109,1.333,0.6,0.08,0.083,0.0,0.0,0.58,0.75,12,16,6,10,4,DET
+22020,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.068,26,0.048,1.333,0.5,0.08,0.083,0.08,0.0,0.5,0.75,12,16,5,10,5,DET
+22020,1626153,Delon Wright,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.175,36,0.04,1.214,0.67,0.21,0.143,0.14,0.0,0.64,0.67,14,17,6,9,3,DET
+22020,201933,Blake Griffin,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.404,20,0.074,1.063,0.46,0.12,0.125,0.12,0.06,0.44,0.54,16,17,6,13,7,DET
+22020,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.532,20,0.13,0.952,0.44,0.14,0.143,0.14,0.05,0.38,0.5,21,20,7,16,9,DET
+22020,1628402,Frank Jackson,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.793,40,0.121,0.808,0.36,0.04,0.115,0.04,0.0,0.31,0.48,26,21,8,22,14,DET
+22020,1630240,Saben Lee,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.016,48,0.047,1.667,0.64,0.07,0.0,0.07,0.0,0.67,0.86,15,25,9,14,5,DET
+22020,201961,Wayne Ellington,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.194,46,0.109,1.188,0.54,0.06,0.063,0.06,0.0,0.53,0.61,32,38,15,28,13,DET
+22020,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.311,70,0.076,1.105,0.39,0.13,0.079,0.11,0.03,0.42,0.52,38,42,12,31,19,DET
+22020,203924,Jerami Grant,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.557,54,0.1,0.941,0.37,0.04,0.059,0.04,0.0,0.37,0.48,51,48,17,46,29,DET
+22020,1628367,Josh Jackson,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.702,62,0.093,0.86,0.37,0.02,0.088,0.02,0.0,0.35,0.47,57,49,19,51,32,DET

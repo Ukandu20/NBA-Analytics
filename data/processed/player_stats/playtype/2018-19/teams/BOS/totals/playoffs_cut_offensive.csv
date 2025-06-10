@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201143,Al Horford,1610612738,BOS,Boston Celtics,Cut,Offensive,0.842,9,0.073,1.5,0.778,0.1,0.1,0.1,0.1,0.7,0.778,10,15,7,9,2,BOS
+42018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.06,1.571,0.8,0.286,0.0,0.286,0.0,0.857,0.8,7,11,4,5,1,BOS
+42018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.02,2.667,1.0,0.667,0.0,0.667,0.667,1.0,1.0,3,8,3,3,0,BOS
+42018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.054,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,5,8,3,4,1,BOS
+42018,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.143,1.667,1.0,0.333,0.0,0.333,0.0,1.0,1.0,3,5,2,2,0,BOS
+42018,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,7,0.313,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,BOS
+42018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.027,0.667,0.25,0.167,0.167,0.167,0.0,0.333,0.25,6,4,1,4,3,BOS
+42018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,2,0.059,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,BOS
+42018,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,6,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BOS
+42018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Cut,Offensive,0.0,9,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BOS

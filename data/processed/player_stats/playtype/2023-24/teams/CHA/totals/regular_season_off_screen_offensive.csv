@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.56,74,0.083,1.047,0.408,0.037,0.009,0.037,0.009,0.421,0.519,107,112,42,103,61,CHA
+22023,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.87,69,0.043,1.262,0.518,0.082,0.033,0.082,0.033,0.525,0.616,61,77,29,56,27,CHA
+22023,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.61,30,0.087,1.086,0.46,0.052,0.086,0.052,0.0,0.448,0.56,58,63,23,50,27,CHA
+22023,202722,Dāvis Bertāns,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.755,28,0.209,1.146,0.413,0.021,0.042,0.021,0.021,0.396,0.587,48,55,19,46,27,CHA
+22023,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.25,25,0.089,0.853,0.393,0.118,0.088,0.118,0.029,0.412,0.411,34,29,11,28,17,CHA
+22023,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.985,44,0.029,1.556,0.714,0.222,0.056,0.167,0.056,0.722,0.821,18,28,10,14,4,CHA
+22023,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.365,22,0.042,0.913,0.421,0.0,0.174,0.0,0.0,0.348,0.553,23,21,8,19,11,CHA
+22023,1631121,Bryce McGowens,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.041,59,0.034,0.6,0.222,0.0,0.1,0.0,0.0,0.2,0.333,10,6,2,9,7,CHA

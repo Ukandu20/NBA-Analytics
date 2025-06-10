@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.393,74,0.297,1.062,0.541,0.158,0.11,0.144,0.027,0.524,0.574,292,310,120,222,102,BOS
+22018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Transition,Offensive,0.529,67,0.171,1.128,0.532,0.109,0.143,0.089,0.039,0.488,0.616,258,291,108,203,95,BOS
+22018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Transition,Offensive,0.591,79,0.193,1.152,0.549,0.128,0.099,0.115,0.025,0.539,0.596,243,280,106,193,87,BOS
+22018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Transition,Offensive,0.919,72,0.173,1.385,0.67,0.168,0.098,0.14,0.049,0.643,0.741,143,198,75,112,37,BOS
+22018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.417,79,0.193,1.074,0.496,0.087,0.134,0.081,0.007,0.47,0.59,149,160,58,117,59,BOS
+22018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Transition,Offensive,0.329,75,0.13,1.031,0.409,0.092,0.084,0.092,0.015,0.42,0.523,131,135,45,110,65,BOS
+22018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.37,80,0.166,1.048,0.48,0.048,0.161,0.048,0.0,0.427,0.607,124,130,47,98,51,BOS
+22018,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.269,68,0.085,1.0,0.554,0.055,0.205,0.055,0.027,0.452,0.598,73,73,31,56,25,BOS
+22018,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Transition,Offensive,0.313,56,0.23,1.022,0.545,0.133,0.156,0.133,0.022,0.489,0.621,45,46,18,33,15,BOS
+22018,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Transition,Offensive,0.862,66,0.057,1.316,0.611,0.0,0.053,0.0,0.0,0.579,0.694,19,25,11,18,7,BOS
+22018,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Transition,Offensive,0.549,51,0.051,1.133,0.533,0.067,0.0,0.067,0.067,0.533,0.533,15,17,8,15,7,BOS

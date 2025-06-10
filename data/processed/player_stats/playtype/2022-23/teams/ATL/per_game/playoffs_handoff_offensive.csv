@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.0,6,0.153,1.0,0.429,0.111,0.111,0.111,0.0,0.444,0.429,1.5,1.5,0.5,1.2,0.7,ATL
+42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.087,6,0.058,0.636,0.286,0.091,0.273,0.091,0.0,0.273,0.357,1.8,1.2,0.3,1.2,0.8,ATL
+42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.0,6,0.087,1.5,0.667,0.25,0.0,0.25,0.0,0.75,0.667,0.7,1.0,0.3,0.5,0.2,ATL
+42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.0,5,0.043,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,1.0,0.6,0.2,1.0,0.8,ATL
+42022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.0,6,0.014,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,ATL

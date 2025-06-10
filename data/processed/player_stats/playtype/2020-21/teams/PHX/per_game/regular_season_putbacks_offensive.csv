@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.821,69,0.153,1.305,0.667,0.115,0.053,0.115,0.038,0.656,0.667,1.9,2.5,1.1,1.7,0.6,PHX
+22020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.997,72,0.033,1.615,0.826,0.115,0.0,0.115,0.0,0.846,0.826,0.4,0.6,0.3,0.3,0.1,PHX
+22020,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.612,32,0.145,1.161,0.667,0.065,0.161,0.032,0.0,0.581,0.667,1.0,1.1,0.5,0.8,0.3,PHX
+22020,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.394,50,0.054,1.042,0.474,0.208,0.042,0.208,0.042,0.542,0.474,0.5,0.5,0.2,0.4,0.2,PHX
+22020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.976,67,0.009,1.533,0.667,0.0,0.0,0.0,0.0,0.667,0.767,0.2,0.3,0.1,0.2,0.1,PHX
+22020,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.993,60,0.021,1.583,0.8,0.0,0.167,0.0,0.0,0.667,0.95,0.2,0.3,0.1,0.2,0.0,PHX
+22020,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.423,47,0.052,1.063,0.5,0.063,0.0,0.063,0.063,0.5,0.5,0.3,0.4,0.2,0.3,0.2,PHX
+22020,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.453,60,0.024,1.077,0.636,0.0,0.154,0.0,0.0,0.538,0.636,0.2,0.2,0.1,0.2,0.1,PHX

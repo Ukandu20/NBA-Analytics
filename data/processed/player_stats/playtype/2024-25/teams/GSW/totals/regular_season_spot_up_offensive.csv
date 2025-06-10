@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.816,74,0.379,1.178,0.43,0.085,0.047,0.081,0.016,0.45,0.586,258,304,98,228,130,GSW
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.964,70,0.125,1.325,0.456,0.056,0.036,0.046,0.005,0.467,0.661,197,261,82,180,98,GSW
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.604,82,0.272,1.07,0.393,0.012,0.033,0.012,0.004,0.385,0.547,244,261,92,234,142,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.801,64,0.283,1.17,0.446,0.028,0.024,0.028,0.005,0.443,0.594,212,248,90,202,112,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.282,69,0.33,0.931,0.336,0.036,0.044,0.036,0.004,0.335,0.478,248,231,77,229,152,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.694,43,0.217,1.121,0.393,0.07,0.032,0.07,0.025,0.408,0.552,157,176,57,145,88,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.337,47,0.198,0.96,0.359,0.074,0.047,0.067,0.0,0.389,0.481,149,143,47,131,84,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.65,42,0.379,1.091,0.378,0.0,0.017,0.0,0.0,0.372,0.555,121,132,45,119,74,GSW
+22024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.508,62,0.273,1.031,0.359,0.031,0.01,0.021,0.0,0.375,0.511,96,99,33,92,59,GSW
+22024,1630322,Lindy Waters III,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.541,38,0.418,1.043,0.378,0.011,0.032,0.011,0.0,0.372,0.533,94,98,34,90,56,GSW
+22024,1630611,Gui Santos,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.238,56,0.347,0.916,0.342,0.012,0.072,0.0,0.0,0.325,0.487,83,76,26,76,50,GSW
+22024,203937,Kyle Anderson,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.399,36,0.337,0.985,0.406,0.015,0.045,0.015,0.015,0.388,0.516,67,66,26,64,38,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.223,24,0.23,0.904,0.354,0.041,0.068,0.027,0.0,0.342,0.477,73,66,23,65,42,GSW
+22024,1629001,De'Anthony Melton,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.992,6,0.25,1.529,0.563,0.0,0.059,0.0,0.0,0.529,0.813,17,26,9,16,7,GSW
+22024,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.083,76,0.05,0.778,0.353,0.0,0.056,0.0,0.0,0.333,0.412,18,14,6,17,11,GSW

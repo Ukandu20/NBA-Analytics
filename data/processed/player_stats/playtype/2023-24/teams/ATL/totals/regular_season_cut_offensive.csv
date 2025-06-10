@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.349,73,0.257,1.244,0.663,0.149,0.06,0.149,0.035,0.637,0.663,201,250,110,166,56,ATL
+22023,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.808,55,0.241,1.468,0.697,0.18,0.009,0.18,0.081,0.712,0.697,111,163,69,99,30,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.705,56,0.073,1.413,0.709,0.127,0.032,0.127,0.032,0.698,0.709,63,89,39,55,16,ATL
+22023,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.131,45,0.255,1.071,0.556,0.214,0.057,0.214,0.043,0.571,0.556,70,75,30,54,24,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.983,57,0.05,1.683,0.75,0.317,0.0,0.293,0.098,0.805,0.75,41,69,24,32,8,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.605,63,0.045,1.368,0.667,0.237,0.079,0.237,0.105,0.658,0.667,38,52,20,30,10,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.068,79,0.024,0.968,0.481,0.129,0.032,0.129,0.032,0.516,0.481,31,30,13,27,14,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.081,78,0.014,1.0,0.5,0.042,0.042,0.042,0.0,0.5,0.5,24,24,11,22,11,ATL
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.081,54,0.008,1.0,0.556,0.091,0.091,0.091,0.0,0.545,0.556,11,11,5,9,4,ATL

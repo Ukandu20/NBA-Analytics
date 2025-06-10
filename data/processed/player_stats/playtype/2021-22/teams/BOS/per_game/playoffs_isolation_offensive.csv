@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.195,24,0.177,0.754,0.371,0.053,0.167,0.061,0.009,0.325,0.438,4.8,3.6,1.4,3.7,2.3,BOS
+42021,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.683,24,0.117,1.031,0.52,0.109,0.109,0.109,0.0,0.5,0.57,2.7,2.8,1.1,2.1,1.0,BOS
+42021,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.268,21,0.08,0.828,0.417,0.069,0.103,0.069,0.0,0.414,0.438,1.4,1.1,0.5,1.1,0.7,BOS
+42021,1628401,Derrick White,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.625,23,0.044,1.0,0.5,0.3,0.1,0.3,0.0,0.6,0.5,0.4,0.4,0.1,0.3,0.1,BOS
+42021,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.0,24,0.043,1.4,0.75,0.0,0.2,0.0,0.0,0.6,0.875,0.2,0.3,0.1,0.2,0.0,BOS
+42021,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.0,15,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,BOS
+42021,203917,Nik Stauskas,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.0,13,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,BOS

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.962,10,0.12,0.4,0.125,0.1,0.1,0.1,0.0,0.2,0.125,10,4,1,8,7,BOS
+42024,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.925,10,0.116,0.455,0.222,0.091,0.091,0.091,0.0,0.273,0.222,11,5,2,9,7,BOS
+42024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.588,11,0.077,0.833,0.417,0.0,0.0,0.0,0.0,0.417,0.417,12,10,5,12,7,BOS
+42024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.038,11,0.118,1.286,0.636,0.143,0.071,0.143,0.0,0.643,0.636,14,18,7,11,4,BOS
+42024,201143,Al Horford,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.623,11,0.176,0.821,0.391,0.107,0.107,0.107,0.036,0.357,0.435,28,23,9,23,14,BOS

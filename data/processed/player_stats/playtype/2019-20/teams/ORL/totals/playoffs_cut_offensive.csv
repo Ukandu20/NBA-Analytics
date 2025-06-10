@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203920,Khem Birch,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.32,1.5,0.6,0.5,0.0,0.5,0.125,0.75,0.6,8,12,3,5,2,ORL
+42019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.086,0.545,0.3,0.0,0.091,0.0,0.0,0.273,0.3,11,6,3,10,7,ORL
+42019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.026,1.5,0.5,0.5,0.0,0.5,0.5,0.5,0.5,2,3,1,2,1,ORL
+42019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.013,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,ORL
+42019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.014,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,ORL
+42019,203516,James Ennis III,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.089,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,ORL
+42019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Cut,Offensive,0.0,5,0.077,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,ORL

@@ -1,0 +1,21 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.934,17,0.119,0.667,0.333,0.08,0.167,0.08,0.0,0.333,0.389,12,8,3,9,6,ORL
+22020,1628412,Frank Mason III,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.472,4,0.37,0.9,0.333,0.1,0.0,0.0,0.0,0.4,0.389,10,9,3,9,6,ORL
+22020,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.44,11,0.102,0.909,0.364,0.0,0.0,0.0,0.0,0.364,0.455,11,10,4,11,7,ORL
+22020,1629649,Ignas Brazdeikis,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.189,8,0.143,1.0,0.4,0.09,0.0,0.09,0.0,0.455,0.45,11,11,4,10,6,ORL
+22020,203920,Khem Birch,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.335,48,0.04,0.938,0.4,0.0,0.063,0.0,0.0,0.375,0.5,16,15,6,15,9,ORL
+22020,1628414,Sindarius Thornwell,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.816,7,0.389,0.762,0.316,0.05,0.048,0.05,0.0,0.333,0.368,21,16,6,19,13,ORL
+22020,1629109,Gary Clark,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.8,35,0.123,0.769,0.429,0.04,0.154,0.04,0.0,0.385,0.429,26,20,9,21,12,ORL
+22020,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.133,8,0.356,1.038,0.55,0.08,0.154,0.08,0.0,0.5,0.6,26,27,11,20,9,ORL
+22020,1629648,Jordan Bone,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.112,14,0.569,1.069,0.478,0.1,0.103,0.03,0.0,0.483,0.543,29,31,11,23,12,ORL
+22020,203914,Gary Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.834,20,0.381,0.75,0.4,0.04,0.179,0.04,0.02,0.339,0.433,56,42,18,45,27,ORL
+22020,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.559,45,0.167,0.873,0.5,0.05,0.222,0.03,0.0,0.413,0.533,63,55,23,46,23,ORL
+22020,1630181,R.J. Hampton,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.494,26,0.368,0.894,0.443,0.06,0.141,0.06,0.02,0.4,0.493,85,76,31,70,39,ORL
+22020,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.552,25,0.328,0.876,0.426,0.1,0.157,0.08,0.02,0.404,0.478,89,78,29,68,39,ORL
+22020,203082,Terrence Ross,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.725,46,0.232,0.804,0.386,0.05,0.113,0.04,0.02,0.351,0.44,97,78,32,83,51,ORL
+22020,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.291,26,0.285,0.955,0.493,0.08,0.146,0.07,0.0,0.461,0.522,89,85,34,69,35,ORL
+22020,203516,James Ennis III,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.483,41,0.28,0.898,0.436,0.09,0.133,0.09,0.02,0.418,0.474,98,88,34,78,44,ORL
+22020,1626184,Chasson Randle,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.396,41,0.387,0.921,0.475,0.07,0.143,0.06,0.02,0.437,0.51,126,116,48,101,53,ORL
+22020,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.538,31,0.416,0.882,0.429,0.1,0.146,0.08,0.02,0.41,0.469,144,127,48,112,64,ORL
+22020,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.154,47,0.377,1.021,0.497,0.11,0.136,0.09,0.02,0.476,0.544,191,195,73,147,74,ORL
+22020,1628407,Dwayne Bacon,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.345,72,0.311,0.935,0.443,0.09,0.121,0.09,0.04,0.421,0.486,214,200,78,176,98,ORL

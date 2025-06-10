@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Postup,Offensive,0.554,70,0.051,1.0,0.544,0.098,0.11,0.098,0.037,0.512,0.544,1.2,1.2,0.5,1.0,0.4,WAS
+22023,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Postup,Offensive,0.159,75,0.035,0.811,0.481,0.135,0.189,0.135,0.054,0.432,0.481,0.5,0.4,0.2,0.4,0.2,WAS
+22023,201568,Danilo Gallinari,1610612764,WAS,Washington Wizards,Postup,Offensive,0.874,26,0.097,1.188,0.545,0.313,0.063,0.313,0.063,0.625,0.545,0.6,0.7,0.2,0.4,0.2,WAS
+22023,1628963,Marvin Bagley III,1610612764,WAS,Washington Wizards,Postup,Offensive,0.795,24,0.057,1.125,0.5,0.313,0.188,0.25,0.125,0.5,0.5,0.7,0.8,0.2,0.4,0.2,WAS
+22023,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Postup,Offensive,0.554,45,0.043,1.0,0.538,0.176,0.118,0.176,0.059,0.529,0.538,0.4,0.4,0.2,0.3,0.1,WAS

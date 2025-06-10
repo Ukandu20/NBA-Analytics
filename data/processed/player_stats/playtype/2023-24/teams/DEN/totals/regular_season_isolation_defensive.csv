@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,201599,DeAndre Jordan,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.57,29,0.06,0.909,0.286,0.455,0.0,0.364,0.091,0.545,0.286,11,10,2,7,5,DEN
+22023,1631124,Julian Strawther,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.153,41,0.088,1.133,0.583,0.067,0.133,0.067,0.0,0.533,0.625,15,17,7,12,5,DEN
+22023,203200,Justin Holiday,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.442,53,0.099,0.964,0.455,0.107,0.107,0.107,0.0,0.464,0.5,28,27,10,22,12,DEN
+22023,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.595,80,0.086,0.894,0.371,0.17,0.106,0.17,0.021,0.426,0.414,47,42,13,35,22,DEN
+22023,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.548,76,0.067,0.917,0.436,0.083,0.125,0.063,0.021,0.417,0.487,48,44,17,39,22,DEN
+22023,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.821,80,0.097,0.762,0.346,0.159,0.063,0.127,0.048,0.365,0.346,63,48,18,52,34,DEN
+22023,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.554,73,0.089,0.914,0.397,0.186,0.043,0.186,0.057,0.443,0.414,70,64,23,58,35,DEN
+22023,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.598,59,0.101,0.892,0.385,0.149,0.027,0.149,0.054,0.432,0.408,74,66,25,65,40,DEN
+22023,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.609,81,0.122,0.888,0.403,0.138,0.1,0.125,0.013,0.438,0.427,80,71,25,62,37,DEN

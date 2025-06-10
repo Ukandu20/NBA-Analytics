@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203967,Dario Šarić,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.171,20,0.178,1.19,0.53,0.1,0.095,0.1,0.0,0.524,0.65,21,25,9,17,8,OKC
+22022,1630647,Eugene Omoruyi,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.612,24,0.341,1.0,0.3,0.19,0.097,0.19,0.03,0.387,0.41,31,31,7,23,16,OKC
+22022,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.933,34,0.24,0.822,0.33,0.04,0.055,0.04,0.0,0.329,0.42,73,60,22,66,44,OKC
+22022,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.25,43,0.178,1.136,0.43,0.08,0.068,0.08,0.02,0.441,0.59,59,67,22,51,29,OKC
+22022,1630322,Lindy Waters III,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.823,42,0.474,0.923,0.33,0.08,0.022,0.08,0.02,0.352,0.45,91,84,28,84,56,OKC
+22022,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.144,50,0.154,1.208,0.48,0.08,0.056,0.07,0.01,0.486,0.63,72,87,30,63,33,OKC
+22022,1631172,Ousmane Dieng,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.31,39,0.465,1.114,0.44,0.08,0.063,0.08,0.05,0.43,0.56,79,88,32,72,40,OKC
+22022,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.676,36,0.341,0.978,0.37,0.03,0.043,0.03,0.01,0.37,0.5,92,90,32,86,54,OKC
+22022,1630526,Jeremiah Robinson-Earl,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.202,43,0.236,1.167,0.42,0.07,0.067,0.07,0.02,0.422,0.59,90,105,34,80,46,OKC
+22022,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.295,53,0.25,1.118,0.42,0.09,0.088,0.09,0.02,0.422,0.57,102,114,36,86,50,OKC
+22022,1630544,Tre Mann,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.733,67,0.446,0.959,0.38,0.08,0.076,0.07,0.01,0.374,0.5,171,164,56,146,90,OKC
+22022,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.524,73,0.421,1.032,0.42,0.04,0.116,0.04,0.01,0.392,0.57,189,195,67,160,93,OKC
+22022,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.408,75,0.288,1.073,0.41,0.1,0.059,0.09,0.03,0.424,0.53,205,220,74,179,105,OKC
+22022,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.104,70,0.321,1.249,0.48,0.06,0.051,0.05,0.02,0.475,0.64,177,221,77,161,84,OKC
+22022,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.483,74,0.284,1.049,0.4,0.03,0.052,0.03,0.01,0.385,0.54,288,302,106,267,161,OKC
+22022,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.571,76,0.502,1.014,0.4,0.04,0.08,0.03,0.01,0.382,0.54,348,353,123,310,187,OKC
+22022,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.773,68,0.447,0.94,0.36,0.05,0.07,0.04,0.01,0.353,0.49,385,362,123,344,221,OKC

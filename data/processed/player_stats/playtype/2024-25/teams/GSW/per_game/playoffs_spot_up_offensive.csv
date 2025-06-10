@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.667,12,0.292,1.119,0.385,0.024,0.048,0.024,0.0,0.381,0.577,3.5,3.9,1.3,3.3,2.0,GSW
+42024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.645,11,0.18,1.111,0.375,0.139,0.0,0.139,0.028,0.444,0.469,3.3,3.6,1.1,2.9,1.8,GSW
+42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.288,12,0.284,0.87,0.357,0.065,0.043,0.065,0.022,0.37,0.452,3.8,3.3,1.3,3.5,2.3,GSW
+42024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.162,12,0.36,0.741,0.269,0.019,0.019,0.019,0.0,0.278,0.375,4.5,3.3,1.2,4.3,3.2,GSW
+42024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.882,8,0.198,1.375,0.522,0.042,0.0,0.042,0.0,0.542,0.674,3.0,4.1,1.5,2.9,1.4,GSW
+42024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.243,11,0.472,0.84,0.28,0.0,0.0,0.0,0.0,0.28,0.42,2.3,1.9,0.6,2.3,1.6,GSW
+42024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.045,12,0.413,0.553,0.189,0.026,0.0,0.026,0.0,0.211,0.257,3.2,1.8,0.6,3.1,2.5,GSW
+42024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.108,12,0.456,0.692,0.24,0.038,0.0,0.038,0.0,0.269,0.34,2.2,1.5,0.5,2.1,1.6,GSW
+42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.486,8,0.09,1.0,0.429,0.0,0.067,0.0,0.0,0.4,0.536,1.9,1.9,0.8,1.8,1.0,GSW

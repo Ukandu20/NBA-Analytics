@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.5,11,0.214,0.979,0.5,0.146,0.104,0.125,0.042,0.5,0.5,48,47,19,38,19,TOR
+42019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.625,11,0.163,1.0,0.667,0.048,0.238,0.095,0.048,0.48,0.667,21,21,10,15,5,TOR
+42019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,11,0.015,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,6,3,3,0,TOR
+42019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.036,11,0.141,0.5,0.429,0.083,0.417,0.083,0.083,0.25,0.429,12,6,3,7,4,TOR
+42019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,11,0.051,0.833,0.667,0.167,0.333,0.167,0.0,0.5,0.667,6,5,2,3,1,TOR
+42019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,11,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,TOR
+42019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,5,0.067,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,TOR

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.738,18,0.133,0.769,0.3,0.154,0.08,0.154,0.0,0.385,0.35,0.7,0.6,0.2,0.6,0.4,BOS
+22020,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.958,52,0.053,0.519,0.17,0.111,0.04,0.111,0.0,0.222,0.2,0.5,0.3,0.1,0.4,0.4,BOS
+22020,201952,Jeff Teague,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.55,34,0.07,0.889,0.5,0.056,0.17,0.056,0.0,0.444,0.5,0.5,0.5,0.2,0.4,0.2,BOS
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.237,46,0.076,1.059,0.38,0.294,0.06,0.294,0.12,0.471,0.42,0.4,0.4,0.1,0.3,0.2,BOS
+22020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.635,16,0.146,0.826,0.47,0.174,0.17,0.174,0.0,0.435,0.5,1.4,1.2,0.4,0.9,0.5,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.851,49,0.053,0.7,0.31,0.033,0.1,0.033,0.0,0.3,0.35,0.6,0.4,0.2,0.5,0.4,BOS
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.557,66,0.066,0.88,0.39,0.16,0.12,0.16,0.0,0.44,0.44,0.4,0.3,0.1,0.3,0.2,BOS
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.84,58,0.054,0.703,0.31,0.081,0.05,0.054,0.0,0.351,0.34,0.6,0.4,0.2,0.6,0.4,BOS
+22020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.645,43,0.064,0.818,0.48,0.061,0.3,0.061,0.0,0.364,0.55,0.8,0.6,0.2,0.5,0.3,BOS
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.887,64,0.072,0.659,0.26,0.114,0.09,0.091,0.0,0.318,0.3,0.7,0.5,0.1,0.5,0.4,BOS
+22020,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.044,18,0.17,1.269,0.62,0.115,0.12,0.115,0.04,0.577,0.69,1.4,1.8,0.7,1.2,0.4,BOS
+22020,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.433,42,0.077,0.947,0.45,0.105,0.13,0.105,0.0,0.447,0.53,0.9,0.9,0.3,0.7,0.4,BOS
+22020,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.575,56,0.139,0.87,0.41,0.152,0.13,0.152,0.02,0.413,0.44,0.8,0.7,0.3,0.6,0.4,BOS
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.589,63,0.139,0.857,0.4,0.095,0.1,0.079,0.02,0.413,0.44,1.0,0.9,0.3,0.8,0.5,BOS
+22020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.3,54,0.09,1.018,0.43,0.175,0.04,0.158,0.04,0.474,0.49,1.1,1.1,0.4,0.9,0.5,BOS

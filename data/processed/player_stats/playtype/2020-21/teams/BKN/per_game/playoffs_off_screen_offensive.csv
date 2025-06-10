@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.611,12,0.049,1.167,0.54,0.17,0.11,0.11,0.0,0.56,0.615,1.5,1.8,0.6,1.1,0.5,BKN
+42020,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,9,0.032,1.333,0.6,0.0,0.17,0.0,0.0,0.5,0.8,0.7,0.9,0.3,0.6,0.2,BKN
+42020,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.471,12,0.074,0.8,0.3,0.0,0.0,0.0,0.0,0.3,0.4,0.8,0.7,0.3,0.8,0.6,BKN
+42020,201933,Blake Griffin,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,12,0.011,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.1,0.3,0.1,0.1,0.0,BKN
+42020,1629013,Landry Shamet,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,12,0.102,0.6,0.25,0.0,0.2,0.0,0.0,0.2,0.375,0.4,0.3,0.1,0.3,0.3,BKN
+42020,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,7,0.091,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.3,0.1,0.1,0.0,BKN

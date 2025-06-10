@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.759,58,0.133,1.24,0.613,0.198,0.125,0.167,0.036,0.594,0.661,192,238,84,137,53,CHI
+22020,1629632,Coby White,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.328,69,0.149,1.036,0.462,0.102,0.12,0.084,0.012,0.455,0.542,167,173,61,132,71,CHI
+22020,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.499,71,0.15,1.127,0.566,0.167,0.127,0.147,0.039,0.549,0.605,102,115,43,76,33,CHI
+22020,202066,Garrett Temple,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.444,56,0.213,1.103,0.494,0.103,0.113,0.103,0.052,0.464,0.574,97,107,40,81,41,CHI
+22020,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.551,51,0.116,1.143,0.492,0.1,0.071,0.1,0.043,0.486,0.59,70,80,30,61,31,CHI
+22020,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.304,58,0.143,1.015,0.5,0.169,0.2,0.154,0.046,0.462,0.545,65,66,22,44,22,CHI
+22020,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.175,62,0.144,0.925,0.429,0.045,0.134,0.03,0.015,0.388,0.518,67,62,24,56,32,CHI
+22020,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.998,26,0.064,1.743,0.657,0.0,0.0,0.0,0.0,0.657,0.871,35,61,23,35,12,CHI
+22020,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.326,25,0.121,1.034,0.458,0.034,0.138,0.034,0.0,0.414,0.604,29,30,11,24,13,CHI
+22020,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.754,33,0.059,1.238,0.571,0.238,0.143,0.238,0.048,0.571,0.643,21,26,8,14,6,CHI
+22020,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.962,44,0.104,1.5,0.583,0.143,0.071,0.071,0.071,0.571,0.75,14,21,7,12,5,CHI
+22020,1628972,Troy Brown Jr.,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.782,13,0.262,1.25,0.533,0.125,0.063,0.125,0.125,0.5,0.6,16,20,8,15,7,CHI
+22020,1628464,Daniel Theis,1610612741,CHI,Chicago Bulls,Transition,Offensive,0.078,23,0.071,0.813,0.4,0.0,0.063,0.0,0.0,0.375,0.433,16,13,6,15,9,CHI

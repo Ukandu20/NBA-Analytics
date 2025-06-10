@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.741,10,0.281,1.279,0.636,0.116,0.14,0.116,0.023,0.581,0.712,43,55,21,33,12,OKC

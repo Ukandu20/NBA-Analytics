@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.63,3,0.542,0.846,0.364,0.0,0.154,0.0,0.0,0.308,0.5,4.3,3.7,1.3,3.7,2.3,CLE
+42023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.263,4,0.5,1.0,0.583,0.067,0.133,0.0,0.0,0.533,0.583,3.8,3.8,1.8,3.0,1.3,CLE
+42023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.118,8,0.255,1.154,0.6,0.077,0.154,0.077,0.0,0.538,0.7,1.6,1.9,0.8,1.3,0.5,CLE
+42023,202694,Marcus Morris Sr.,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.546,7,0.45,0.889,0.615,0.056,0.278,0.056,0.056,0.444,0.615,2.6,2.3,1.1,1.9,0.7,CLE
+42023,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.263,4,0.531,1.0,0.467,0.059,0.059,0.059,0.0,0.471,0.533,4.3,4.3,1.8,3.8,2.0,CLE
+42023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.849,11,0.402,0.718,0.417,0.103,0.282,0.077,0.0,0.359,0.458,3.5,2.5,0.9,2.2,1.3,CLE
+42023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.227,10,0.449,1.021,0.5,0.208,0.229,0.167,0.021,0.458,0.625,4.8,4.9,1.4,2.8,1.4,CLE
+42023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.185,11,0.461,1.064,0.5,0.17,0.149,0.128,0.0,0.511,0.578,4.3,4.5,1.5,2.9,1.5,CLE
+42023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.874,12,0.434,0.694,0.339,0.082,0.188,0.082,0.0,0.318,0.387,7.1,4.9,1.8,5.2,3.4,CLE
+42023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.176,12,0.465,1.068,0.517,0.068,0.123,0.041,0.014,0.479,0.608,6.1,6.5,2.6,5.0,2.4,CLE
+42023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.403,12,0.429,0.943,0.444,0.126,0.161,0.126,0.011,0.414,0.516,7.3,6.8,2.3,5.3,2.9,CLE

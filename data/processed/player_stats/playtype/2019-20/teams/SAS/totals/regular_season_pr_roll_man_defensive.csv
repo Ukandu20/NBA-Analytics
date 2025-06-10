@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.975,68,0.019,0.5,0.18,0.12,0.188,0.12,0.0,0.25,0.18,16,8,2,11,9,SAS
+22019,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.224,63,0.018,1.2,0.44,0.1,0.0,0.1,0.0,0.5,0.56,10,12,4,9,5,SAS
+22019,1629234,Drew Eubanks,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.394,22,0.08,1.091,0.44,0.27,0.0,0.18,0.09,0.55,0.5,11,12,4,9,5,SAS
+22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.606,66,0.024,0.941,0.35,0.0,0.0,0.0,0.0,0.35,0.47,17,16,6,17,11,SAS
+22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.739,63,0.053,0.833,0.35,0.08,0.0,0.08,0.04,0.38,0.39,24,20,8,23,15,SAS
+22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.094,67,0.035,1.421,0.65,0.0,0.105,0.0,0.0,0.58,0.79,19,27,11,17,6,SAS
+22019,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.472,66,0.053,1.027,0.45,0.03,0.081,0.03,0.0,0.43,0.55,37,38,15,33,18,SAS
+22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.559,53,0.042,0.975,0.41,0.02,0.05,0.02,0.0,0.4,0.5,40,39,15,37,22,SAS

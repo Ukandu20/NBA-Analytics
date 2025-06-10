@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.381,43,0.105,0.882,0.476,0.118,0.118,0.118,0.059,0.451,0.476,51,45,20,42,22,CHI
+22019,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.103,50,0.038,0.679,0.389,0.107,0.25,0.036,0.0,0.357,0.389,28,19,7,18,11,CHI
+22019,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.032,60,0.007,0.545,0.125,0.182,0.091,0.182,0.0,0.273,0.125,11,6,1,8,7,CHI

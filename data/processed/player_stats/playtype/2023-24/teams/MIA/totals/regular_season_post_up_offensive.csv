@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.503,71,0.217,0.986,0.48,0.167,0.075,0.15,0.007,0.52,0.48,294,290,108,225,117,MIA
+22023,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.179,60,0.107,0.845,0.382,0.181,0.103,0.172,0.052,0.422,0.382,116,98,34,89,55,MIA
+22023,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Postup,Offensive,0.662,75,0.072,1.047,0.5,0.156,0.078,0.109,0.047,0.516,0.5,64,67,26,52,26,MIA
+22023,201567,Kevin Love,1610612748,MIA,Miami Heat,Postup,Offensive,0.947,55,0.07,1.281,0.619,0.344,0.031,0.219,0.031,0.688,0.619,32,41,13,21,8,MIA
+22023,1628418,Thomas Bryant,1610612748,MIA,Miami Heat,Postup,Offensive,0.755,38,0.12,1.087,0.588,0.13,0.13,0.13,0.0,0.565,0.588,23,25,10,17,7,MIA

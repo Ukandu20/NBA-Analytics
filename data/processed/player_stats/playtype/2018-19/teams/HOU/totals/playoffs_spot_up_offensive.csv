@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.843,11,0.364,1.235,0.466,0.074,0.074,0.059,0.0,0.471,0.664,68,84,27,58,31,HOU
+42018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.935,11,0.458,1.388,0.5,0.02,0.082,0.02,0.0,0.469,0.75,49,68,22,44,22,HOU
+42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.713,7,0.467,1.095,0.4,0.0,0.048,0.0,0.0,0.381,0.575,21,23,8,20,12,HOU
+42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.766,8,0.6,1.167,0.467,0.056,0.111,0.056,0.0,0.444,0.667,18,21,7,15,8,HOU
+42018,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.87,11,0.042,1.267,0.429,0.133,0.0,0.133,0.067,0.467,0.571,15,19,6,14,8,HOU
+42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.111,10,0.417,0.633,0.28,0.0,0.167,0.0,0.0,0.233,0.38,30,19,7,25,18,HOU
+42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.38,11,0.087,0.889,0.412,0.056,0.0,0.056,0.0,0.444,0.441,18,16,7,17,10,HOU
+42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.046,11,0.356,0.375,0.133,0.0,0.063,0.0,0.0,0.125,0.2,16,6,2,15,13,HOU
+42018,2403,Nene,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.0,7,0.059,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,HOU

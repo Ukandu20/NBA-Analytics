@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.406,75,0.096,0.826,0.337,0.096,0.043,0.087,0.017,0.374,0.381,115,95,34,101,67,SAS
+22021,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.907,51,0.146,1.182,0.507,0.052,0.091,0.052,0.039,0.468,0.623,77,91,35,69,34,SAS
+22021,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.633,71,0.101,0.966,0.452,0.069,0.103,0.057,0.011,0.437,0.521,87,84,33,73,40,SAS
+22021,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.889,68,0.044,1.149,0.5,0.09,0.075,0.09,0.0,0.507,0.58,67,77,28,56,28,SAS
+22021,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.498,49,0.102,0.878,0.359,0.135,0.014,0.135,0.014,0.432,0.391,74,65,23,64,41,SAS
+22021,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.183,70,0.089,0.675,0.324,0.05,0.075,0.05,0.013,0.325,0.345,80,54,23,71,48,SAS
+22021,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.415,40,0.141,0.837,0.372,0.041,0.102,0.041,0.02,0.347,0.442,49,41,16,43,27,SAS
+22021,1630563,Joshua Primo,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.291,50,0.088,0.774,0.364,0.129,0.194,0.129,0.032,0.355,0.409,31,24,8,22,14,SAS
+22021,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.798,69,0.043,1.056,0.538,0.111,0.111,0.056,0.0,0.5,0.577,18,19,7,13,6,SAS
+22021,1626196,Josh Richardson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.066,21,0.087,0.45,0.235,0.0,0.15,0.0,0.0,0.2,0.265,20,9,4,17,13,SAS

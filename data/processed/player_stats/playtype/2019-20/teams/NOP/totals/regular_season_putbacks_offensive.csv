@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202324,Derrick Favors,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.56,51,0.226,1.116,0.568,0.084,0.021,0.074,0.032,0.568,0.568,95,106,50,88,38,NOP
+22019,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.29,64,0.176,0.971,0.517,0.114,0.071,0.1,0.043,0.514,0.517,70,68,31,60,29,NOP
+22019,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.645,24,0.11,1.164,0.614,0.2,0.073,0.2,0.073,0.582,0.614,55,64,27,44,17,NOP
+22019,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.925,63,0.03,1.37,0.696,0.111,0.074,0.111,0.037,0.667,0.739,27,37,16,23,7,NOP
+22019,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.666,61,0.023,1.172,0.64,0.103,0.103,0.103,0.069,0.552,0.66,29,34,16,25,9,NOP
+22019,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.894,30,0.101,1.348,0.684,0.13,0.043,0.13,0.0,0.696,0.684,23,31,13,19,6,NOP
+22019,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.788,62,0.017,1.25,0.55,0.167,0.042,0.083,0.042,0.583,0.575,24,30,11,20,9,NOP
+22019,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.712,65,0.023,1.2,0.75,0.267,0.267,0.133,0.067,0.6,0.813,15,18,6,8,2,NOP
+22019,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.586,56,0.032,1.125,0.571,0.188,0.0,0.188,0.063,0.563,0.571,16,18,8,14,6,NOP
+22019,1629740,Nicolo Melli,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.33,60,0.042,1.0,0.615,0.059,0.176,0.059,0.0,0.529,0.615,17,17,8,13,5,NOP
+22019,1629026,Kenrich Williams,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.216,39,0.067,0.917,0.5,0.25,0.083,0.25,0.167,0.5,0.5,12,11,5,10,5,NOP
+22019,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.014,59,0.027,0.455,0.143,0.182,0.182,0.182,0.0,0.273,0.143,11,5,1,7,6,NOP

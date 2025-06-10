@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.206,38,0.222,0.784,0.425,0.065,0.131,0.059,0.026,0.386,0.425,4.0,3.2,1.4,3.3,1.9,PHX
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.568,71,0.05,0.943,0.472,0.205,0.205,0.148,0.011,0.477,0.472,1.2,1.2,0.4,0.7,0.4,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.832,66,0.097,1.045,0.542,0.197,0.121,0.136,0.045,0.545,0.542,1.0,1.0,0.4,0.7,0.3,PHX
+22019,203382,Aron Baynes,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.961,42,0.09,1.167,0.647,0.119,0.143,0.119,0.071,0.571,0.647,1.0,1.2,0.5,0.8,0.3,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.458,39,0.086,0.909,0.455,0.242,0.152,0.212,0.061,0.455,0.455,0.8,0.8,0.3,0.6,0.3,PHX
+22019,1627767,Cheick Diallo,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.764,47,0.078,1.0,0.625,0.2,0.267,0.2,0.0,0.533,0.625,0.3,0.3,0.1,0.2,0.1,PHX

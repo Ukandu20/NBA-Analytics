@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.253,75,0.159,0.938,0.461,0.146,0.076,0.139,0.021,0.486,0.461,144,135,53,115,62,PHX
+22023,1629234,Drew Eubanks,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.352,74,0.126,1.023,0.563,0.136,0.159,0.136,0.023,0.523,0.563,44,45,18,32,14,PHX
+22023,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.355,59,0.15,1.023,0.536,0.256,0.14,0.256,0.047,0.512,0.554,43,44,15,28,13,PHX
+22023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.527,53,0.024,1.136,0.625,0.136,0.136,0.136,0.0,0.591,0.625,22,25,10,16,6,PHX
+22023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.38,67,0.013,1.045,0.563,0.136,0.136,0.091,0.0,0.545,0.563,22,23,9,16,7,PHX
+22023,1629626,Bol Bol,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.387,42,0.119,1.048,0.563,0.143,0.143,0.143,0.048,0.524,0.563,21,22,9,16,7,PHX
+22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,1.0,74,0.015,1.75,0.6,0.167,0.0,0.083,0.0,0.667,0.8,12,21,6,10,4,PHX
+22023,1630692,Jordan Goodwin,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.396,39,0.084,1.053,0.563,0.053,0.105,0.053,0.0,0.526,0.563,19,20,9,16,7,PHX
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.178,74,0.011,0.85,0.471,0.05,0.15,0.05,0.05,0.4,0.471,20,17,8,17,9,PHX

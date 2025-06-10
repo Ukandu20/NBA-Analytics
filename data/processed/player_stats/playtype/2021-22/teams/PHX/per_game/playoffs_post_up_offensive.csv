@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.4,13,0.194,0.921,0.5,0.08,0.13,0.05,0.0,0.47,0.5,2.9,2.7,1.2,2.3,1.2,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.92,12,0.154,1.3,0.714,0.2,0.1,0.1,0.0,0.7,0.714,0.8,1.1,0.4,0.6,0.2,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,13,0.037,1.0,0.4,0.17,0.0,0.0,0.0,0.5,0.4,0.5,0.5,0.2,0.4,0.2,PHX
+42021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,9,0.074,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,10,0.03,0.429,0.333,0.14,0.43,0.14,0.0,0.29,0.333,0.7,0.3,0.1,0.3,0.2,PHX
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,13,0.024,0.667,0.333,0.0,0.0,0.0,0.0,0.33,0.333,0.2,0.2,0.1,0.2,0.2,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,12,0.017,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.0,13,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,PHX

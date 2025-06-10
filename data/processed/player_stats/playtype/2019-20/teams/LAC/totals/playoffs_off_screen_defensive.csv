@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,12,0.017,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAC
+42019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.021,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,3,2,1,2,1,LAC
+42019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,8,0.082,0.75,0.5,0.25,0.25,0.25,0.0,0.5,0.5,4,3,1,2,1,LAC
+42019,101150,Lou Williams,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.034,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.62,4,5,2,4,2,LAC
+42019,203210,JaMychal Green,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.06,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,5,6,2,5,3,LAC
+42019,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.047,0.75,0.29,0.0,0.12,0.0,0.0,0.25,0.43,8,6,2,7,5,LAC
+42019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.041,2.333,1.0,0.0,0.0,0.0,0.0,1.0,1.17,3,7,3,3,0,LAC
+42019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.03,1.6,0.6,0.0,0.0,0.0,0.0,0.6,0.8,5,8,3,5,2,LAC
+42019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,13,0.034,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,8,8,4,8,4,LAC

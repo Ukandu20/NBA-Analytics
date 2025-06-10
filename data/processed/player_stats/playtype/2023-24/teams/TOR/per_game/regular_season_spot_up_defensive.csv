@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1642013,Malik Williams,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.381,5,0.289,1.091,0.364,0.0,0.0,0.0,0.0,0.364,0.545,2.2,2.4,0.8,2.2,1.4,TOR
+22023,201152,Thaddeus Young,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.969,17,0.175,0.625,0.261,0.042,0.042,0.042,0.042,0.25,0.326,1.4,0.9,0.4,1.4,1.0,TOR
+22023,1631338,Mouhamadou Gueye,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.05,9,0.234,1.333,0.533,0.222,0.0,0.222,0.056,0.611,0.667,2.0,2.7,0.9,1.7,0.8,TOR
+22023,1630186,Jahmi'us Ramsey,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.013,7,0.354,1.529,0.533,0.059,0.059,0.059,0.0,0.529,0.767,2.4,3.7,1.1,2.1,1.0,TOR
+22023,202066,Garrett Temple,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.9,21,0.448,0.83,0.31,0.043,0.064,0.043,0.0,0.319,0.429,2.2,1.9,0.6,2.0,1.4,TOR
+22023,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.814,27,0.312,0.907,0.373,0.037,0.056,0.037,0.037,0.352,0.471,2.0,1.8,0.7,1.9,1.2,TOR
+22023,1629670,Jordan Nwora,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.801,31,0.372,0.918,0.357,0.066,0.049,0.066,0.033,0.361,0.455,2.0,1.8,0.6,1.8,1.2,TOR
+22023,1631241,Javon Freeman-Liberty,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.039,21,0.35,1.357,0.5,0.0,0.048,0.0,0.0,0.476,0.713,2.0,2.7,1.0,1.9,1.0,TOR
+22023,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.795,47,0.169,0.921,0.356,0.053,0.061,0.053,0.0,0.368,0.475,2.4,2.2,0.8,2.1,1.4,TOR
+22023,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.188,27,0.272,1.181,0.433,0.053,0.0,0.053,0.011,0.447,0.583,3.5,4.1,1.4,3.3,1.9,TOR
+22023,1629667,Jalen McDaniels,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.121,42,0.444,1.231,0.466,0.055,0.011,0.055,0.033,0.473,0.608,2.2,2.7,1.0,2.1,1.1,TOR
+22023,1628971,Bruce Brown,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.696,34,0.441,0.969,0.344,0.038,0.023,0.038,0.0,0.362,0.48,3.8,3.7,1.2,3.6,2.4,TOR
+22023,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.266,69,0.341,1.128,0.463,0.051,0.096,0.051,0.006,0.442,0.612,2.3,2.6,0.9,1.9,1.0,TOR
+22023,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.06,32,0.35,1.324,0.504,0.094,0.029,0.094,0.022,0.511,0.688,4.3,5.8,2.0,3.9,1.9,TOR
+22023,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.34,38,0.446,1.101,0.417,0.03,0.053,0.03,0.006,0.402,0.577,4.4,4.9,1.7,4.1,2.4,TOR
+22023,203471,Dennis Schröder,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.068,50,0.281,1.302,0.49,0.049,0.043,0.037,0.012,0.488,0.664,3.2,4.2,1.5,3.0,1.5,TOR
+22023,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.209,39,0.473,1.159,0.447,0.034,0.053,0.024,0.005,0.44,0.611,5.3,6.2,2.2,4.9,2.7,TOR
+22023,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Spotup,Defensive,0.545,60,0.341,1.025,0.403,0.043,0.068,0.043,0.011,0.395,0.532,4.7,4.8,1.7,4.2,2.5,TOR

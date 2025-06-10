@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.611,10,0.142,1.025,0.412,0.2,0.025,0.175,0.075,0.45,0.456,40,41,14,34,20,CLE
+42023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.111,11,0.176,0.591,0.294,0.136,0.136,0.091,0.045,0.318,0.294,22,13,5,17,12,CLE
+42023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.028,12,0.112,0.391,0.19,0.0,0.087,0.0,0.0,0.174,0.214,23,9,4,21,17,CLE

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.45,81,0.097,0.816,0.355,0.143,0.054,0.14,0.041,0.388,0.375,1.8,1.5,0.5,1.5,1.0,SAC
+22018,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.706,82,0.058,0.956,0.446,0.055,0.055,0.04,0.022,0.429,0.494,1.1,1.1,0.5,1.0,0.6,SAC
+22018,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.533,62,0.101,0.862,0.411,0.138,0.096,0.14,0.011,0.436,0.425,1.5,1.3,0.5,1.2,0.7,SAC
+22018,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.567,70,0.074,0.896,0.413,0.091,0.117,0.06,0.026,0.403,0.468,1.1,1.0,0.4,0.9,0.5,SAC
+22018,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.087,81,0.069,0.563,0.275,0.125,0.125,0.12,0.047,0.297,0.275,0.8,0.4,0.2,0.6,0.5,SAC
+22018,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.862,28,0.088,1.061,0.414,0.152,0.0,0.12,0.03,0.455,0.483,1.2,1.3,0.4,1.0,0.6,SAC
+22018,202697,Iman Shumpert,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.893,42,0.067,1.074,0.435,0.111,0.037,0.11,0.0,0.481,0.522,0.6,0.7,0.2,0.5,0.3,SAC
+22018,1628385,Harry Giles III,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.176,58,0.1,0.63,0.314,0.109,0.13,0.11,0.0,0.326,0.314,0.8,0.5,0.2,0.6,0.4,SAC
+22018,1627812,Yogi Ferrell,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.972,71,0.053,1.227,0.55,0.227,0.0,0.23,0.136,0.591,0.55,0.3,0.4,0.2,0.3,0.1,SAC
+22018,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.28,77,0.031,0.727,0.286,0.227,0.182,0.18,0.045,0.364,0.321,0.3,0.2,0.1,0.2,0.1,SAC
+22018,1628412,Frank Mason III,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.31,38,0.069,0.75,0.364,0.188,0.188,0.12,0.063,0.313,0.409,0.4,0.3,0.1,0.3,0.2,SAC

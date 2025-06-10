@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,201935,James Harden,1610612746,LAC,LA Clippers,Transition,Offensive,0.773,6,0.148,1.353,0.615,0.176,0.059,0.118,0.0,0.647,0.692,17,23,8,13,5,LAC
+42023,1626181,Norman Powell,1610612746,LAC,LA Clippers,Transition,Offensive,0.404,6,0.2,1.067,0.5,0.067,0.133,0.067,0.0,0.467,0.625,15,16,6,12,6,LAC
+42023,202331,Paul George,1610612746,LAC,LA Clippers,Transition,Offensive,0.416,6,0.117,1.071,0.5,0.143,0.214,0.143,0.071,0.429,0.65,14,15,5,10,5,LAC
+42023,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Transition,Offensive,0.067,6,0.242,0.75,0.3,0.25,0.188,0.25,0.063,0.375,0.3,16,12,3,10,7,LAC
+42023,1629611,Terance Mann,1610612746,LAC,LA Clippers,Transition,Offensive,0.112,6,0.2,0.818,0.3,0.091,0.0,0.091,0.0,0.364,0.35,11,9,3,10,7,LAC

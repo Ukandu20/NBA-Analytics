@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203471,Dennis Schröder,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.969,15,0.221,0.667,0.304,0.0,0.15,0.0,0.0,0.26,0.391,27,18,7,23,16,HOU
+22021,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.824,17,0.313,0.885,0.32,0.0,0.04,0.0,0.0,0.31,0.46,26,23,8,25,17,HOU
+22021,1630227,Daishen Nix,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.315,24,0.313,1.077,0.45,0.12,0.15,0.12,0.04,0.42,0.6,26,28,9,20,11,HOU
+22021,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.887,34,0.378,0.831,0.385,0.03,0.1,0.03,0.02,0.36,0.452,59,49,20,52,32,HOU
+22021,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.873,42,0.371,0.842,0.339,0.08,0.11,0.07,0.0,0.36,0.444,76,64,21,62,41,HOU
+22021,1628464,Daniel Theis,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.24,26,0.231,1.119,0.433,0.06,0.04,0.04,0.0,0.43,0.592,67,75,26,60,34,HOU
+22021,1628021,David Nwaba,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.557,46,0.348,1.0,0.392,0.01,0.08,0.01,0.01,0.36,0.544,86,86,31,79,48,HOU
+22021,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.557,57,0.251,1.0,0.375,0.04,0.07,0.04,0.0,0.37,0.51,107,107,36,96,60,HOU
+22021,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.178,72,0.151,1.158,0.466,0.07,0.05,0.07,0.03,0.46,0.587,114,132,48,103,55,HOU
+22021,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.626,79,0.36,0.968,0.338,0.06,0.05,0.06,0.01,0.36,0.471,154,149,47,139,92,HOU
+22021,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.136,74,0.286,1.199,0.446,0.08,0.05,0.07,0.02,0.46,0.603,136,163,54,121,67,HOU
+22021,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.456,61,0.279,1.031,0.401,0.03,0.06,0.03,0.02,0.38,0.542,191,197,71,177,106,HOU
+22021,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.218,67,0.301,1.125,0.421,0.06,0.02,0.05,0.01,0.43,0.567,176,198,69,164,95,HOU
+22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.853,78,0.318,0.857,0.32,0.04,0.05,0.03,0.01,0.32,0.432,238,204,70,219,149,HOU
+22021,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.486,65,0.392,1.024,0.406,0.06,0.05,0.07,0.01,0.41,0.524,209,214,76,187,111,HOU
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.299,68,0.241,1.084,0.404,0.02,0.05,0.01,0.01,0.39,0.561,226,245,86,213,127,HOU

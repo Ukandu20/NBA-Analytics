@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1627739,Kris Dunn,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,5,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ATL
+42020,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,6,0.33,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,ATL
+42020,1630219,Skylar Mays,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,8,0.33,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.1,0.3,0.1,ATL
+42020,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.922,18,0.14,0.636,0.22,0.09,0.09,0.09,0.0,0.27,0.28,0.6,0.0,0.1,0.5,0.4,ATL
+42020,203503,Tony Snell,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.856,9,0.52,0.769,0.31,0.0,0.0,0.0,0.0,0.31,0.38,1.4,1.0,0.4,1.4,1.0,ATL
+42020,203524,Solomon Hill,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,14,0.2,1.222,0.44,0.0,0.0,0.0,0.0,0.44,0.61,0.6,1.0,0.3,0.6,0.4,ATL
+42020,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.254,4,0.27,1.231,0.54,0.0,0.0,0.0,0.0,0.54,0.62,3.3,4.0,1.8,3.3,1.5,ATL
+42020,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.831,18,0.1,0.806,0.35,0.13,0.03,0.1,0.0,0.39,0.4,1.7,1.0,0.5,1.4,0.9,ATL
+42020,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.669,18,0.34,0.931,0.38,0.03,0.07,0.03,0.0,0.38,0.48,1.6,2.0,0.6,1.4,0.9,ATL
+42020,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.025,5,0.24,1.75,0.67,0.12,0.0,0.12,0.06,0.69,0.87,3.2,6.0,2.0,3.0,1.0,ATL
+42020,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.542,16,0.3,1.053,0.41,0.08,0.08,0.08,0.0,0.42,0.53,2.4,2.0,0.8,2.0,1.2,ATL
+42020,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.551,18,0.26,1.05,0.4,0.08,0.05,0.05,0.0,0.42,0.54,2.2,2.0,0.8,1.9,1.2,ATL
+42020,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.653,18,0.33,0.956,0.36,0.06,0.04,0.04,0.0,0.38,0.48,3.8,4.0,1.2,3.4,2.2,ATL
+42020,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.305,18,0.26,1.175,0.41,0.11,0.02,0.09,0.02,0.46,0.56,3.2,4.0,1.2,2.8,1.7,ATL
+42020,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.449,18,0.29,1.087,0.42,0.0,0.03,0.0,0.0,0.41,0.56,3.8,4.0,1.6,3.7,2.2,ATL

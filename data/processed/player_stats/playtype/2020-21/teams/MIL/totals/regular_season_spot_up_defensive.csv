@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629603,Mamadi Diakite,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.968,14,0.292,0.632,0.188,0.11,0.05,0.11,0.0,0.26,0.281,19,12,3,16,13,MIL
+22020,1628470,Torrey Craig,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.015,18,0.282,1.458,0.526,0.21,0.0,0.21,0.0,0.62,0.711,24,35,10,19,9,MIL
+22020,201952,Jeff Teague,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.646,21,0.311,0.973,0.371,0.0,0.05,0.0,0.0,0.35,0.514,37,36,13,35,22,MIL
+22020,200782,P.J. Tucker,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.331,20,0.27,1.1,0.389,0.1,0.0,0.1,0.0,0.42,0.528,40,44,14,36,22,MIL
+22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.229,37,0.241,1.158,0.426,0.02,0.04,0.02,0.0,0.42,0.583,57,66,23,54,31,MIL
+22020,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.795,51,0.398,0.897,0.34,0.038,0.051,0.038,0.0,0.35,0.45,78,70,24,71,47,MIL
+22020,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.41,66,0.147,1.065,0.394,0.06,0.03,0.06,0.01,0.41,0.53,107,114,39,99,60,MIL
+22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.521,66,0.234,1.026,0.367,0.03,0.03,0.03,0.02,0.37,0.51,153,157,54,147,93,MIL
+22020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.058,70,0.326,1.318,0.476,0.05,0.04,0.05,0.03,0.47,0.661,132,174,59,124,65,MIL
+22020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.362,69,0.331,1.09,0.409,0.02,0.08,0.02,0.0,0.39,0.58,201,219,74,181,107,MIL
+22020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.622,70,0.186,0.982,0.38,0.03,0.03,0.02,0.01,0.38,0.502,226,222,82,216,134,MIL
+22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.269,62,0.321,1.131,0.426,0.03,0.06,0.03,0.0,0.42,0.592,213,241,83,195,112,MIL
+22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.071,59,0.216,1.296,0.486,0.05,0.06,0.05,0.01,0.47,0.684,196,254,86,177,91,MIL
+22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.093,68,0.264,1.268,0.482,0.03,0.04,0.02,0.0,0.47,0.658,209,265,93,193,100,MIL

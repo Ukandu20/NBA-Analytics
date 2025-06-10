@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,101150,Lou Williams,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.942,75,0.026,0.571,0.364,0.0,0.21,0.0,0.0,0.29,0.364,14,8,4,11,7,LAC
+22018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.469,82,0.017,1.0,0.357,0.0,0.0,0.0,0.0,0.36,0.5,14,14,5,14,9,LAC
+22018,202699,Tobias Harris,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.101,55,0.022,1.308,0.455,0.15,0.0,0.15,0.0,0.54,0.591,13,17,5,11,6,LAC
+22018,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.383,26,0.052,1.063,0.5,0.06,0.06,0.06,0.0,0.5,0.571,16,17,7,14,7,LAC
+22018,1626246,Boban Marjanović,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.413,36,0.089,1.042,0.435,0.08,0.0,0.08,0.04,0.46,0.478,24,25,10,23,13,LAC
+22018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.181,78,0.026,1.227,0.5,0.05,0.05,0.05,0.0,0.5,0.625,22,27,10,20,10,LAC
+22018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.335,68,0.047,1.091,0.5,0.03,0.06,0.03,0.0,0.48,0.567,33,36,15,30,15,LAC
+22018,101162,Marcin Gortat,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.393,47,0.083,1.059,0.452,0.09,0.03,0.09,0.03,0.47,0.516,34,36,14,31,17,LAC
+22018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRRollMan,Defensive,0.704,82,0.053,0.866,0.362,0.09,0.06,0.09,0.01,0.37,0.431,67,58,21,58,37,LAC

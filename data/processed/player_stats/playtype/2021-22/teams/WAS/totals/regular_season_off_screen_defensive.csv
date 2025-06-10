@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628988,Aaron Holiday,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.994,41,0.08,0.238,0.1,0.0,0.05,0.0,0.0,0.1,0.125,21,5,2,20,18,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.04,42,0.047,1.429,0.462,0.14,0.0,0.14,0.07,0.5,0.654,14,20,6,13,7,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.859,66,0.05,0.714,0.3,0.03,0.11,0.03,0.0,0.29,0.383,35,25,9,30,21,WAS
+22021,203526,Raul Neto,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.443,70,0.053,0.964,0.385,0.0,0.07,0.0,0.0,0.36,0.519,28,27,10,26,16,WAS
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.565,41,0.078,0.909,0.429,0.0,0.15,0.0,0.0,0.36,0.536,33,30,12,28,16,WAS
+22021,203915,Spencer Dinwiddie,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.091,44,0.063,1.296,0.48,0.07,0.04,0.07,0.04,0.48,0.64,27,35,12,25,13,WAS
+22021,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.418,77,0.097,0.98,0.404,0.04,0.04,0.02,0.02,0.4,0.489,50,49,19,47,28,WAS
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.415,77,0.071,0.981,0.42,0.04,0.04,0.04,0.0,0.43,0.5,54,53,21,50,29,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.515,82,0.085,0.932,0.388,0.07,0.04,0.07,0.03,0.4,0.47,73,68,26,67,41,WAS

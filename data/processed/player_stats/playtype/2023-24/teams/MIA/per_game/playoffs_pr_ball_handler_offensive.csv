@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.472,5,0.406,0.923,0.438,0.051,0.154,0.051,0.026,0.385,0.516,7.8,7.2,2.8,6.4,3.6,MIA
+42023,1628997,Caleb Martin,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.68,5,0.24,1.0,0.417,0.0,0.0,0.0,0.0,0.417,0.5,2.4,2.4,1.0,2.4,1.4,MIA
+42023,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.075,4,0.274,0.529,0.231,0.118,0.118,0.118,0.0,0.294,0.231,4.3,2.3,0.8,3.3,2.5,MIA
+42023,1631107,Nikola Jović,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.057,5,0.222,0.5,0.286,0.1,0.2,0.0,0.0,0.3,0.286,2.0,1.0,0.4,1.4,1.0,MIA

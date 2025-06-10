@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203083,Andre Drummond,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.456,79,0.258,1.052,0.534,0.131,0.038,0.123,0.025,0.541,0.534,4.6,4.9,2.1,4.0,1.8,DET
+22018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.166,75,0.038,0.829,0.407,0.1,0.071,0.1,0.014,0.414,0.407,0.9,0.8,0.3,0.8,0.5,DET
+22018,2585,Zaza Pachulia,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.138,68,0.21,0.785,0.365,0.123,0.077,0.077,0.0,0.415,0.365,1.0,0.8,0.3,0.8,0.5,DET
+22018,202720,Jon Leuer,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.974,38,0.09,1.538,0.833,0.154,0.077,0.154,0.154,0.769,0.833,0.3,0.5,0.3,0.3,0.1,DET
+22018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.605,82,0.012,1.133,0.538,0.067,0.067,0.067,0.0,0.533,0.615,0.2,0.2,0.1,0.2,0.1,DET
+22018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.034,74,0.049,0.632,0.278,0.053,0.0,0.053,0.0,0.316,0.278,0.3,0.2,0.1,0.2,0.2,DET
+22018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.186,80,0.02,0.846,0.4,0.077,0.154,0.0,0.0,0.385,0.45,0.2,0.1,0.1,0.1,0.1,DET
+22018,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.111,48,0.031,0.769,0.417,0.0,0.077,0.0,0.0,0.385,0.417,0.3,0.2,0.1,0.3,0.1,DET

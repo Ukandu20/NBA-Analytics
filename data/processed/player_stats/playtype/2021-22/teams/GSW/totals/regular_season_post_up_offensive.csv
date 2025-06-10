@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.435,73,0.068,0.905,0.441,0.119,0.083,0.107,0.012,0.464,0.441,84,76,30,68,38,GSW
+22021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.846,71,0.083,1.115,0.667,0.25,0.212,0.231,0.038,0.577,0.667,52,58,20,30,10,GSW
+22021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.201,71,0.069,0.781,0.4,0.094,0.125,0.063,0.0,0.406,0.4,32,25,10,25,15,GSW
+22021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.387,32,0.042,0.889,0.391,0.111,0.037,0.111,0.0,0.444,0.391,27,24,9,23,14,GSW
+22021,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.095,46,0.05,0.636,0.545,0.136,0.364,0.091,0.0,0.318,0.545,22,14,6,11,5,GSW
+22021,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.229,82,0.03,0.8,0.429,0.267,0.333,0.2,0.067,0.4,0.429,15,12,3,7,4,GSW
+22021,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.03,73,0.036,0.417,0.5,0.167,0.5,0.083,0.0,0.25,0.5,12,5,2,4,2,GSW

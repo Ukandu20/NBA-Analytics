@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.778,70,0.089,1.1,0.472,0.086,0.164,0.057,0.021,0.429,0.611,2.0,2.2,0.7,1.5,0.8,GSW
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.384,82,0.083,0.865,0.311,0.068,0.122,0.068,0.014,0.311,0.434,0.9,0.8,0.2,0.7,0.5,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.698,43,0.069,1.04,0.432,0.1,0.06,0.1,0.04,0.42,0.523,1.2,1.2,0.4,1.0,0.6,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.19,64,0.079,0.729,0.358,0.068,0.051,0.068,0.017,0.373,0.368,0.9,0.7,0.3,0.8,0.5,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.563,47,0.044,0.97,0.44,0.121,0.121,0.121,0.0,0.424,0.52,0.7,0.7,0.2,0.5,0.3,GSW
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.344,74,0.047,0.844,0.391,0.125,0.156,0.094,0.0,0.375,0.5,0.4,0.4,0.1,0.3,0.2,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.307,24,0.069,0.818,0.316,0.045,0.091,0.045,0.0,0.318,0.421,0.9,0.8,0.3,0.8,0.5,GSW
+22024,1630322,Lindy Waters III,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.111,38,0.084,0.632,0.278,0.053,0.053,0.053,0.053,0.263,0.333,0.5,0.3,0.1,0.5,0.3,GSW

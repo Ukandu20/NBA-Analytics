@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.803,70,0.229,1.259,0.674,0.167,0.056,0.167,0.019,0.667,0.674,108,136,58,86,28,ORL
+22024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.443,68,0.139,1.044,0.53,0.178,0.133,0.156,0.044,0.522,0.53,90,94,35,66,31,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.596,46,0.029,1.143,0.692,0.114,0.143,0.114,0.0,0.6,0.692,35,40,18,26,8,ORL
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.364,60,0.02,1.0,0.52,0.034,0.103,0.034,0.0,0.483,0.54,29,29,13,25,12,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.557,74,0.044,1.12,0.522,0.16,0.0,0.16,0.08,0.56,0.522,25,28,12,23,11,ORL
+22024,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.897,30,0.058,1.35,0.706,0.1,0.05,0.1,0.0,0.7,0.706,20,27,12,17,5,ORL
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.69,67,0.023,1.188,0.636,0.125,0.188,0.125,0.0,0.563,0.727,16,19,7,11,4,ORL
+22024,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.624,35,0.021,1.154,0.636,0.077,0.077,0.0,0.0,0.615,0.636,13,15,7,11,4,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.047,78,0.026,0.682,0.368,0.091,0.091,0.091,0.045,0.364,0.368,22,15,7,19,12,ORL
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.207,31,0.067,0.917,0.4,0.167,0.083,0.167,0.083,0.417,0.4,12,11,4,10,6,ORL

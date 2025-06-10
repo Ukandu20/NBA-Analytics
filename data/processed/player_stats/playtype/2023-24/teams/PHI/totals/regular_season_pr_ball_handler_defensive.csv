@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630288,Jeff Dowtin Jr.,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.919,9,0.373,0.737,0.538,0.0,0.316,0.0,0.0,0.368,0.538,19,14,7,13,6,PHI
+22023,200768,Kyle Lowry,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.831,23,0.255,0.8,0.381,0.04,0.14,0.04,0.02,0.34,0.452,50,40,16,42,26,PHI
+22023,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.718,22,0.4,0.845,0.404,0.086,0.121,0.069,0.017,0.397,0.468,58,49,19,47,28,PHI
+22023,202694,Marcus Morris Sr.,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.496,33,0.316,0.917,0.45,0.15,0.183,0.15,0.0,0.45,0.5,60,55,18,40,22,PHI
+22023,1627741,Buddy Hield,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.975,30,0.325,0.589,0.274,0.105,0.137,0.084,0.011,0.284,0.301,95,56,20,73,53,PHI
+22023,1626166,Cameron Payne,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.272,26,0.393,0.97,0.46,0.106,0.152,0.106,0.015,0.439,0.53,66,64,23,50,27,PHI
+22023,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.327,32,0.335,0.956,0.481,0.074,0.147,0.074,0.015,0.441,0.528,68,65,26,54,28,PHI
+22023,1630531,Jaden Springer,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.109,23,0.434,1.045,0.49,0.152,0.136,0.136,0.03,0.455,0.561,66,69,24,49,25,PHI
+22023,201976,Patrick Beverley,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.944,45,0.426,0.71,0.349,0.09,0.186,0.069,0.007,0.338,0.382,145,103,37,106,69,PHI
+22023,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.541,37,0.394,0.905,0.445,0.101,0.162,0.068,0.007,0.426,0.491,148,134,49,110,61,PHI
+22023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.774,68,0.379,0.828,0.415,0.111,0.18,0.092,0.031,0.387,0.438,261,216,80,193,113,PHI
+22023,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.66,68,0.371,0.869,0.442,0.113,0.182,0.096,0.034,0.399,0.484,291,253,95,215,120,PHI
+22023,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.789,79,0.615,0.819,0.418,0.083,0.181,0.074,0.022,0.375,0.459,448,367,142,340,198,PHI
+22023,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.609,39,0.658,0.885,0.424,0.079,0.112,0.069,0.014,0.411,0.462,418,370,146,344,198,PHI

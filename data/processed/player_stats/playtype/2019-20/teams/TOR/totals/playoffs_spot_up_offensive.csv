@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.763,11,0.202,1.267,0.488,0.022,0.067,0.022,0.0,0.467,0.671,45,57,20,41,21,TOR
+42019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.887,11,0.307,1.41,0.486,0.051,0.0,0.051,0.0,0.513,0.676,39,55,18,37,19,TOR
+42019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.539,11,0.385,1.111,0.425,0.067,0.044,0.067,0.0,0.444,0.575,45,50,17,40,23,TOR
+42019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.878,11,0.217,1.393,0.5,0.0,0.0,0.0,0.0,0.5,0.696,28,39,14,28,14,TOR
+42019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.509,11,0.116,1.087,0.409,0.087,0.043,0.087,0.087,0.391,0.523,23,25,9,22,13,TOR
+42019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.991,6,0.342,1.769,0.615,0.0,0.0,0.0,0.0,0.615,0.885,13,23,8,13,5,TOR
+42019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.052,11,0.152,0.647,0.25,0.029,0.059,0.029,0.029,0.235,0.328,34,22,8,32,24,TOR
+42019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.009,11,0.235,0.5,0.2,0.0,0.0,0.0,0.0,0.2,0.25,20,10,4,20,16,TOR
+42019,1629744,Matt Thomas,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,10,0.273,0.833,0.4,0.0,0.167,0.0,0.0,0.333,0.5,6,5,2,5,3,TOR
+42019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,5,0.267,1.0,0.333,0.25,0.0,0.0,0.0,0.5,0.333,4,4,1,3,2,TOR
+42019,1626259,Malcolm Miller,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,1,0.667,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,TOR
+42019,1626169,Stanley Johnson,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,3,0.25,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,3,3,1,3,2,TOR
+42019,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,7,0.308,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,TOR
+42019,1628778,Paul Watson,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,TOR

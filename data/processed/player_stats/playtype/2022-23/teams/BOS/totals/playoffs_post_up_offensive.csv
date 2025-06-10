@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.88,20,0.038,1.35,0.615,0.3,0.05,0.3,0.0,0.7,0.615,20,27,8,13,5,BOS
+42022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.92,20,0.044,1.385,0.727,0.154,0.077,0.154,0.077,0.692,0.727,13,18,8,11,3,BOS
+42022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.44,20,0.032,0.933,0.538,0.067,0.067,0.067,0.0,0.467,0.538,15,14,7,13,6,BOS
+42022,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,20,0.036,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,4,6,3,4,1,BOS
+42022,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,20,0.041,0.667,0.4,0.0,0.167,0.0,0.0,0.333,0.4,6,4,2,5,3,BOS
+42022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,15,0.032,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,BOS

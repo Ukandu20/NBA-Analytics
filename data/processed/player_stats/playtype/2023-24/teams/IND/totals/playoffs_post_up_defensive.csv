@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Postup,Defensive,0.8,17,0.098,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,10,8,4,10,6,IND
+42023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Postup,Defensive,0.731,17,0.067,0.882,0.357,0.176,0.0,0.118,0.0,0.471,0.357,17,15,5,14,9,IND
+42023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Postup,Defensive,0.115,17,0.086,1.235,0.588,0.059,0.0,0.059,0.059,0.588,0.588,17,21,10,17,7,IND
+42023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Postup,Defensive,0.038,17,0.079,1.294,0.571,0.235,0.0,0.176,0.059,0.647,0.571,17,22,8,14,6,IND

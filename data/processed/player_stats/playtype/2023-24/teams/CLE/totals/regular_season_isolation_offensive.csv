@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.519,55,0.098,0.933,0.38,0.089,0.037,0.089,0.022,0.407,0.442,135,126,46,121,75,CLE
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.488,57,0.104,0.92,0.427,0.115,0.177,0.106,0.018,0.407,0.5,113,104,35,82,47,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.291,68,0.106,0.798,0.322,0.156,0.055,0.156,0.009,0.394,0.356,109,87,28,87,59,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.372,50,0.049,0.857,0.462,0.171,0.114,0.171,0.029,0.457,0.462,35,30,12,26,14,CLE
+22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.77,77,0.019,1.048,0.529,0.143,0.095,0.095,0.048,0.524,0.529,21,22,9,17,8,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.824,82,0.016,1.083,0.455,0.167,0.0,0.167,0.083,0.5,0.455,12,13,5,11,6,CLE
+22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.299,69,0.017,0.8,0.429,0.2,0.1,0.2,0.0,0.5,0.429,10,8,3,7,4,CLE
+22023,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.029,51,0.034,0.4,0.222,0.0,0.1,0.0,0.0,0.2,0.222,10,4,2,9,7,CLE

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203504,Trey Burke,1610612752,NYK,New York Knicks,Postup,Defensive,0.556,33,0.052,0.917,0.5,0.17,0.17,0.17,0.0,0.5,0.5,0.4,0.3,0.1,0.2,0.1,NYK
+22018,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Postup,Defensive,0.219,43,0.04,1.077,0.625,0.23,0.15,0.23,0.0,0.62,0.625,0.3,0.3,0.1,0.2,0.1,NYK
+22018,201599,DeAndre Jordan,1610612752,NYK,New York Knicks,Postup,Defensive,0.519,19,0.068,0.933,0.455,0.13,0.13,0.13,0.0,0.47,0.455,0.8,0.7,0.3,0.6,0.3,NYK
+22018,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Postup,Defensive,0.546,21,0.103,0.92,0.529,0.12,0.2,0.12,0.0,0.48,0.529,1.2,1.1,0.4,0.8,0.4,NYK
+22018,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Postup,Defensive,0.788,73,0.066,0.78,0.345,0.2,0.12,0.15,0.02,0.41,0.345,0.6,0.4,0.1,0.4,0.3,NYK
+22018,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,Postup,Defensive,0.357,64,0.072,1.0,0.565,0.12,0.21,0.12,0.0,0.5,0.565,0.5,0.5,0.2,0.4,0.2,NYK
+22018,202498,Lance Thomas,1610612752,NYK,New York Knicks,Postup,Defensive,0.55,46,0.134,0.919,0.5,0.22,0.11,0.14,0.03,0.49,0.5,0.8,0.7,0.3,0.6,0.3,NYK
+22018,1628436,Luke Kornet,1610612752,NYK,New York Knicks,Postup,Defensive,0.873,46,0.121,0.708,0.417,0.08,0.17,0.08,0.0,0.4,0.417,1.0,0.7,0.3,0.8,0.5,NYK
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Postup,Defensive,0.707,59,0.076,0.833,0.429,0.19,0.19,0.19,0.05,0.43,0.429,0.7,0.6,0.2,0.5,0.3,NYK
+22018,202683,Enes Freedom,1610612752,NYK,New York Knicks,Postup,Defensive,0.738,44,0.08,0.814,0.424,0.12,0.12,0.05,0.0,0.44,0.424,1.0,0.8,0.3,0.8,0.4,NYK
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Postup,Defensive,0.93,66,0.08,0.614,0.244,0.18,0.05,0.14,0.02,0.33,0.244,0.9,0.5,0.2,0.7,0.5,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Postup,Defensive,0.254,46,0.071,1.057,0.667,0.11,0.2,0.06,0.0,0.57,0.667,0.8,0.8,0.3,0.5,0.2,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Postup,Defensive,0.075,75,0.077,1.25,0.656,0.23,0.11,0.18,0.07,0.61,0.656,0.6,0.7,0.3,0.4,0.1,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,Postup,Defensive,0.232,58,0.128,1.074,0.514,0.22,0.11,0.17,0.02,0.56,0.514,0.9,1.0,0.3,0.6,0.3,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,Postup,Defensive,0.226,68,0.122,1.075,0.538,0.18,0.05,0.11,0.04,0.55,0.538,1.2,1.3,0.5,1.0,0.4,NYK

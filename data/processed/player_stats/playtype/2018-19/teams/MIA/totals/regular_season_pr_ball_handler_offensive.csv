@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.422,72,0.348,0.79,0.41,0.096,0.159,0.084,0.016,0.385,0.433,429,339,134,327,193,MIA
+22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.477,73,0.318,0.807,0.372,0.084,0.117,0.064,0.008,0.377,0.405,393,317,118,317,199,MIA
+22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.143,66,0.304,0.638,0.399,0.041,0.228,0.038,0.003,0.321,0.404,290,185,85,213,128,MIA
+22018,201609,Goran Dragic,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.322,36,0.336,0.749,0.39,0.093,0.18,0.06,0.016,0.366,0.415,183,137,53,136,83,MIA
+22018,203079,Dion Waiters,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.584,44,0.201,0.858,0.466,0.062,0.186,0.044,0.027,0.381,0.517,113,97,41,88,47,MIA
+22018,203585,Rodney McGruder,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.167,66,0.201,0.661,0.363,0.036,0.161,0.036,0.009,0.313,0.385,112,74,33,91,58,MIA
+22018,204020,Tyler Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.146,44,0.194,0.639,0.367,0.144,0.268,0.144,0.031,0.33,0.367,97,62,22,60,38,MIA
+22018,201949,James Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.374,55,0.146,0.775,0.404,0.07,0.155,0.07,0.028,0.366,0.43,71,55,23,57,34,MIA
+22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.898,79,0.023,1.0,0.455,0.176,0.235,0.118,0.059,0.412,0.591,17,17,5,11,6,MIA

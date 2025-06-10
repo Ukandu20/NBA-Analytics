@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203083,Andre Drummond,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.433,49,0.192,1.054,0.552,0.124,0.075,0.113,0.027,0.543,0.552,186,196,85,154,69,DET
+22019,1626174,Christian Wood,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.887,62,0.102,1.338,0.667,0.225,0.042,0.197,0.07,0.662,0.667,71,95,38,57,19,DET
+22019,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.532,58,0.065,1.103,0.571,0.051,0.051,0.026,0.0,0.564,0.571,39,43,20,35,15,DET
+22019,203089,John Henson,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.997,11,0.139,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,10,16,8,10,2,DET
+22019,201565,Derrick Rose,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.507,50,0.012,1.091,0.6,0.0,0.091,0.0,0.0,0.545,0.6,11,12,6,10,4,DET
+22019,1629635,Sekou Doumbouya,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.203,38,0.038,0.909,0.4,0.091,0.0,0.091,0.0,0.455,0.4,11,10,4,10,6,DET
+22019,201933,Blake Griffin,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.038,18,0.039,0.615,0.273,0.077,0.077,0.077,0.0,0.308,0.273,13,8,3,11,8,DET
+22019,202693,Markieff Morris,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.017,44,0.034,0.471,0.25,0.0,0.059,0.0,0.0,0.235,0.25,17,8,4,16,12,DET
+22019,204038,Langston Galloway,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.007,66,0.02,0.417,0.25,0.083,0.25,0.0,0.0,0.25,0.25,12,5,2,8,6,DET

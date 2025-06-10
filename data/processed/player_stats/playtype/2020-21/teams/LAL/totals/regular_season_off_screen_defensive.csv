@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.671,36,0.04,0.882,0.38,0.06,0.059,0.06,0.06,0.35,0.44,17,15,6,16,10,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.737,61,0.05,0.842,0.4,0.05,0.158,0.05,0.0,0.37,0.47,19,16,6,15,9,LAL
+22020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.723,58,0.05,0.85,0.39,0.05,0.05,0.05,0.0,0.4,0.42,20,17,7,18,11,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.528,45,0.061,0.955,0.42,0.0,0.136,0.0,0.0,0.36,0.55,22,21,8,19,11,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.66,58,0.056,0.889,0.41,0.07,0.111,0.07,0.0,0.41,0.45,27,24,9,22,13,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.758,65,0.082,0.833,0.38,0.0,0.119,0.0,0.0,0.33,0.47,42,35,14,37,23,LAL
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.708,61,0.055,0.857,0.38,0.02,0.095,0.05,0.02,0.33,0.47,42,36,14,37,23,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.34,68,0.073,1.093,0.45,0.09,0.047,0.09,0.02,0.47,0.54,43,47,17,38,21,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.78,67,0.097,0.817,0.36,0.1,0.133,0.1,0.02,0.37,0.4,60,49,17,47,30,LAL

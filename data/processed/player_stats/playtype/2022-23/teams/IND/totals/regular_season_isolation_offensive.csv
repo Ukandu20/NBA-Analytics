@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.441,78,0.09,0.871,0.337,0.164,0.112,0.147,0.026,0.388,0.413,116,101,29,86,57,IND
+22022,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.547,56,0.1,0.914,0.372,0.143,0.086,0.133,0.048,0.4,0.424,105,96,32,86,54,IND
+22022,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.123,80,0.048,0.655,0.321,0.0,0.086,0.0,0.0,0.293,0.358,58,38,17,53,36,IND
+22022,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.563,75,0.035,0.929,0.423,0.071,0.0,0.036,0.0,0.464,0.423,28,26,11,26,15,IND
+22022,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.611,62,0.024,0.957,0.526,0.043,0.13,0.043,0.0,0.478,0.553,23,22,10,19,9,IND
+22022,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.988,73,0.021,1.4,0.643,0.133,0.0,0.133,0.067,0.667,0.679,15,21,9,14,5,IND
+22022,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.285,46,0.06,0.792,0.286,0.083,0.042,0.083,0.0,0.333,0.333,24,19,6,21,15,IND
+22022,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.783,75,0.025,1.059,0.533,0.059,0.118,0.059,0.059,0.471,0.567,17,18,8,15,7,IND

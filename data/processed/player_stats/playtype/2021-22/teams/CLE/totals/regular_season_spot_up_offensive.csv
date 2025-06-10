@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.804,74,0.292,1.127,0.39,0.051,0.044,0.047,0.007,0.396,0.564,275,310,98,251,153,CLE
+22021,1628374,Lauri Markkanen,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.537,61,0.37,1.0,0.352,0.042,0.039,0.036,0.01,0.359,0.504,306,306,100,284,184,CLE
+22021,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.492,67,0.368,0.981,0.381,0.068,0.083,0.058,0.005,0.388,0.514,206,202,67,176,109,CLE
+22021,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.502,68,0.118,0.983,0.372,0.022,0.056,0.022,0.0,0.365,0.509,178,175,61,164,103,CLE
+22021,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.607,51,0.5,1.025,0.371,0.033,0.017,0.033,0.008,0.38,0.513,121,124,43,116,73,CLE
+22021,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.24,63,0.345,0.844,0.382,0.022,0.081,0.022,0.015,0.356,0.451,135,114,47,123,76,CLE
+22021,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.072,69,0.15,0.646,0.281,0.062,0.093,0.062,0.019,0.286,0.327,161,104,39,139,100,CLE
+22021,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.341,34,0.204,0.91,0.353,0.018,0.072,0.009,0.009,0.333,0.485,111,101,36,102,66,CLE
+22021,1629685,Dylan Windler,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.846,30,0.518,1.159,0.432,0.045,0.114,0.023,0.0,0.409,0.635,44,51,16,37,21,CLE
+22021,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.537,19,0.213,1.0,0.431,0.049,0.115,0.049,0.0,0.393,0.569,61,61,22,51,29,CLE
+22021,1629164,Brandon Goodwin,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.903,36,0.208,1.19,0.474,0.024,0.071,0.024,0.0,0.452,0.618,42,50,18,38,20,CLE
+22021,200765,Rajon Rondo,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.61,21,0.262,1.026,0.371,0.026,0.077,0.026,0.0,0.359,0.543,39,40,13,35,22,CLE
+22021,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.115,11,0.199,0.718,0.294,0.051,0.103,0.026,0.026,0.282,0.382,39,28,10,34,24,CLE
+22021,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.367,56,0.039,0.931,0.458,0.138,0.138,0.138,0.103,0.414,0.479,29,27,11,24,13,CLE

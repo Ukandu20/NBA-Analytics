@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.74,82,0.337,1.12,0.392,0.162,0.034,0.162,0.017,0.464,0.519,358,401,115,293,178,SAC
+22022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.857,80,0.355,1.199,0.439,0.013,0.048,0.013,0.006,0.421,0.624,311,373,129,294,165,SAC
+22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.716,75,0.225,1.115,0.427,0.026,0.044,0.026,0.009,0.414,0.577,227,253,91,213,122,SAC
+22022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.632,74,0.444,1.073,0.413,0.095,0.086,0.086,0.026,0.409,0.559,232,249,81,196,115,SAC
+22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.661,77,0.223,1.083,0.401,0.083,0.083,0.07,0.009,0.412,0.555,228,247,77,192,115,SAC
+22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.393,73,0.137,0.97,0.369,0.052,0.039,0.052,0.013,0.379,0.486,232,225,79,214,135,SAC
+22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.738,64,0.345,1.12,0.427,0.04,0.087,0.033,0.0,0.413,0.599,150,168,56,131,75,SAC
+22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.859,79,0.092,1.2,0.527,0.088,0.064,0.088,0.032,0.512,0.623,125,150,58,110,52,SAC
+22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.346,80,0.332,0.949,0.381,0.013,0.064,0.013,0.013,0.357,0.503,157,149,56,147,91,SAC
+22022,1630556,Kessler Edwards,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.709,22,0.429,1.111,0.4,0.0,0.028,0.0,0.0,0.389,0.571,36,40,14,35,21,SAC
+22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.463,66,0.091,1.0,0.429,0.115,0.115,0.077,0.038,0.423,0.524,26,26,9,21,12,SAC

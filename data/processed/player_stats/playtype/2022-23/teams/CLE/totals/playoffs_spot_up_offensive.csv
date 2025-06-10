@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.768,5,0.392,1.276,0.462,0.069,0.034,0.069,0.0,0.483,0.654,29,37,12,26,14,CLE
+42022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.96,5,0.183,1.5,0.55,0.1,0.0,0.1,0.1,0.55,0.725,20,30,11,20,9,CLE
+42022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.832,5,0.529,1.333,0.467,0.167,0.0,0.167,0.0,0.556,0.667,18,24,7,15,8,CLE
+42022,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.368,5,0.567,0.941,0.353,0.0,0.0,0.0,0.0,0.353,0.471,17,16,6,17,11,CLE
+42022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.76,5,0.084,1.273,0.455,0.091,0.0,0.091,0.091,0.455,0.591,11,14,5,11,6,CLE
+42022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,5,0.078,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,CLE
+42022,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,2,0.667,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,CLE
+42022,203526,Raul Neto,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,CLE
+42022,201980,Danny Green,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,4,0.286,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,CLE
+42022,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,3,0.333,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,CLE

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.915,5,0.3,0.667,0.273,0.0,0.083,0.0,0.0,0.25,0.364,2.4,1.6,0.6,2.2,1.6,MIL
+42024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.104,4,0.344,1.364,0.5,0.091,0.0,0.0,0.0,0.545,0.65,2.8,3.8,1.3,2.5,1.3,MIL
+42024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.486,5,0.25,1.0,0.357,0.125,0.0,0.125,0.0,0.438,0.464,3.2,3.2,1.0,2.8,1.8,MIL
+42024,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.034,5,0.268,1.545,0.545,0.091,0.0,0.091,0.091,0.545,0.727,2.2,3.4,1.2,2.2,1.0,MIL
+42024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.161,5,0.25,1.313,0.5,0.0,0.0,0.0,0.0,0.5,0.656,3.2,4.2,1.6,3.2,1.6,MIL
+42024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.059,5,0.328,1.45,0.5,0.0,0.0,0.0,0.0,0.5,0.725,4.0,5.8,2.0,4.0,2.0,MIL
+42024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Defensive,0.299,5,0.415,1.148,0.455,0.074,0.111,0.074,0.0,0.444,0.636,5.4,6.2,2.0,4.4,2.4,MIL

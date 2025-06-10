@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.703,73,0.183,1.049,0.368,0.007,0.042,0.007,0.0,0.357,0.544,143,150,50,136,86,MIA
+22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.842,55,0.103,1.128,0.485,0.064,0.103,0.064,0.013,0.462,0.598,78,88,32,66,34,MIA
+22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.757,67,0.072,1.078,0.446,0.013,0.026,0.0,0.0,0.442,0.547,77,83,33,74,41,MIA
+22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.698,58,0.021,1.043,0.471,0.304,0.13,0.304,0.174,0.478,0.471,23,24,8,17,9,MIA
+22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.516,59,0.018,0.944,0.385,0.111,0.167,0.056,0.0,0.389,0.538,18,17,5,13,8,MIA
+22019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.869,67,0.025,1.154,0.385,0.0,0.0,0.0,0.0,0.385,0.577,13,15,5,13,8,MIA

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,Postup,Offensive,0.898,65,0.166,1.177,0.58,0.232,0.095,0.209,0.064,0.6,0.58,220,259,94,162,68,WAS
+22022,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Postup,Offensive,0.096,64,0.042,0.733,0.422,0.083,0.2,0.083,0.033,0.37,0.422,60,44,19,45,26,WAS
+22022,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Postup,Offensive,0.611,78,0.068,1.0,0.467,0.237,0.105,0.211,0.132,0.47,0.467,38,38,14,30,16,WAS
+22022,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Postup,Offensive,0.383,30,0.084,0.906,0.542,0.063,0.188,0.063,0.031,0.44,0.542,32,29,13,24,11,WAS
+22022,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Postup,Offensive,0.367,50,0.027,0.9,0.48,0.067,0.133,0.067,0.033,0.43,0.48,30,27,12,25,13,WAS
+22022,201959,Taj Gibson,1610612764,WAS,Washington Wizards,Postup,Offensive,0.313,39,0.093,0.846,0.455,0.154,0.0,0.154,0.0,0.462,0.455,13,11,5,11,6,WAS

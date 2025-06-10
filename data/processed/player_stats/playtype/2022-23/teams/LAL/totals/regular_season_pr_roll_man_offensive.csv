@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.779,56,0.189,1.281,0.627,0.145,0.05,0.145,0.02,0.632,0.639,242,310,126,201,75,LAL
+22022,1628418,Thomas Bryant,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.87,41,0.258,1.351,0.659,0.165,0.041,0.165,0.05,0.649,0.677,97,131,54,82,28,LAL
+22022,1629117,Wenyen Gabriel,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.897,68,0.194,1.364,0.69,0.136,0.061,0.121,0.08,0.667,0.698,66,90,40,58,18,LAL
+22022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.717,55,0.045,1.246,0.587,0.087,0.043,0.072,0.04,0.58,0.643,69,86,37,63,26,LAL
+22022,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.953,33,0.052,1.5,0.733,0.063,0.0,0.0,0.0,0.75,0.733,16,24,11,15,4,LAL
+22022,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.982,64,0.017,1.667,0.727,0.083,0.0,0.083,0.0,0.75,0.818,12,20,8,11,3,LAL
+22022,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.96,26,0.059,1.545,0.875,0.182,0.091,0.182,0.0,0.818,0.875,11,17,7,8,1,LAL
+22022,201976,Patrick Beverley,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.41,45,0.049,1.067,0.385,0.067,0.067,0.067,0.0,0.4,0.538,15,16,5,13,8,LAL
+22022,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.647,66,0.011,1.2,0.444,0.1,0.0,0.1,0.0,0.5,0.611,10,12,4,9,5,LAL
+22022,1628972,Troy Brown Jr.,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.302,76,0.023,1.0,0.417,0.0,0.0,0.0,0.0,0.417,0.5,12,12,5,12,7,LAL
+22022,1627736,Malik Beasley,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.136,26,0.036,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.409,11,9,4,11,7,LAL

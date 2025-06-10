@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Isolation,Offensive,0.307,75,0.143,0.766,0.335,0.072,0.077,0.072,0.005,0.349,0.372,209,160,60,179,119,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Isolation,Offensive,0.717,54,0.189,0.981,0.423,0.123,0.039,0.097,0.006,0.468,0.45,154,151,55,130,75,LAC
+22021,202331,Paul George,1610612746,LAC,LA Clippers,Isolation,Offensive,0.386,31,0.169,0.827,0.372,0.058,0.086,0.058,0.014,0.367,0.438,139,115,45,121,76,LAC
+22021,202339,Eric Bledsoe,1610612746,LAC,LA Clippers,Isolation,Offensive,0.508,54,0.1,0.889,0.423,0.159,0.063,0.143,0.048,0.444,0.442,63,56,22,52,30,LAC
+22021,1630527,Brandon Boston,1610612746,LAC,LA Clippers,Isolation,Offensive,0.409,51,0.08,0.839,0.321,0.097,0.032,0.097,0.032,0.355,0.393,31,26,9,28,19,LAC
+22021,1629611,Terance Mann,1610612746,LAC,LA Clippers,Isolation,Offensive,0.083,81,0.048,0.585,0.267,0.146,0.146,0.122,0.024,0.317,0.283,41,24,8,30,22,LAC
+22021,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Isolation,Offensive,0.382,69,0.041,0.826,0.294,0.174,0.087,0.174,0.0,0.391,0.324,23,19,5,17,12,LAC
+22021,1628392,Isaiah Hartenstein,1610612746,LAC,LA Clippers,Isolation,Offensive,0.291,68,0.042,0.762,0.417,0.238,0.238,0.238,0.048,0.381,0.458,21,16,5,12,7,LAC

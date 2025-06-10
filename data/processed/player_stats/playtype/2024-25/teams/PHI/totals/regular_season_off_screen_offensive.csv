@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.895,52,0.053,1.239,0.484,0.07,0.042,0.07,0.014,0.493,0.609,71,88,31,64,33,PHI
+22024,202331,Paul George,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.245,41,0.094,0.791,0.317,0.045,0.06,0.045,0.0,0.328,0.408,67,53,19,60,41,PHI
+22024,1629656,Quentin Grimes,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.194,28,0.044,0.769,0.429,0.0,0.192,0.0,0.0,0.346,0.476,26,20,9,21,12,PHI
+22024,1629022,Lonnie Walker IV,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.786,20,0.06,1.133,0.429,0.0,0.067,0.0,0.0,0.4,0.607,15,17,6,14,8,PHI
+22024,1641741,Ricky Council IV,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.35,73,0.026,0.867,0.357,0.067,0.0,0.067,0.0,0.4,0.393,15,13,5,14,9,PHI
+22024,1642272,Jared McCain,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.183,23,0.051,0.765,0.357,0.0,0.176,0.0,0.0,0.294,0.464,17,13,5,14,9,PHI
+22024,201569,Eric Gordon,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.194,39,0.051,0.769,0.2,0.154,0.077,0.154,0.0,0.308,0.3,13,10,2,10,8,PHI
+22024,1642348,Justin Edwards,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.077,44,0.027,0.667,0.364,0.0,0.083,0.0,0.0,0.333,0.364,12,8,4,11,7,PHI
+22024,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.005,60,0.012,0.182,0.143,0.0,0.364,0.0,0.0,0.091,0.143,11,2,1,7,6,PHI

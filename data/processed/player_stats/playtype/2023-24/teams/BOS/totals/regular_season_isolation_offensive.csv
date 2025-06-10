@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.754,73,0.259,1.041,0.431,0.121,0.075,0.11,0.026,0.45,0.51,464,483,166,385,219,BOS
+22023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.598,69,0.107,0.969,0.468,0.111,0.136,0.105,0.025,0.444,0.54,162,157,59,126,67,BOS
+22023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.967,81,0.052,1.297,0.606,0.054,0.054,0.054,0.0,0.595,0.667,37,48,20,33,13,BOS
+22023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.361,68,0.063,0.849,0.419,0.113,0.113,0.113,0.038,0.396,0.453,53,45,18,43,25,BOS
+22023,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.385,57,0.052,0.863,0.314,0.235,0.078,0.216,0.0,0.451,0.314,51,44,11,35,24,BOS
+22023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.943,72,0.018,1.222,0.5,0.056,0.056,0.056,0.0,0.5,0.625,18,22,8,16,8,BOS

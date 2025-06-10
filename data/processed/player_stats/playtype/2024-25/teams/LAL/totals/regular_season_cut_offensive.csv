@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629637,Jaxson Hayes,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.752,56,0.362,1.414,0.733,0.189,0.036,0.189,0.036,0.739,0.733,111,157,66,90,24,LAL
+22024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.931,59,0.129,1.598,0.824,0.138,0.023,0.138,0.011,0.816,0.824,87,139,61,74,13,LAL
+22024,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.472,42,0.1,1.283,0.619,0.182,0.03,0.162,0.061,0.636,0.619,99,127,52,84,32,LAL
+22024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.921,70,0.036,1.583,0.827,0.15,0.05,0.15,0.067,0.8,0.827,60,95,43,52,9,LAL
+22024,1642261,Dalton Knecht,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.903,78,0.067,1.548,0.778,0.167,0.0,0.167,0.024,0.786,0.778,42,65,28,36,8,LAL
+22024,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.918,46,0.085,1.581,0.818,0.355,0.065,0.355,0.129,0.806,0.818,31,49,18,22,4,LAL
+22024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.528,73,0.017,1.304,0.65,0.087,0.043,0.043,0.0,0.652,0.65,23,30,13,20,7,LAL
+22024,1629216,Gabe Vincent,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.878,72,0.025,1.5,0.818,0.083,0.0,0.083,0.0,0.75,0.818,12,18,9,11,2,LAL
+22024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.302,43,0.046,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,15,18,9,15,6,LAL
+22024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.937,28,0.013,1.6,0.778,0.1,0.0,0.1,0.0,0.8,0.778,10,16,7,9,2,LAL
+22024,1641998,Trey Jemison III,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.025,22,0.323,0.75,0.462,0.15,0.2,0.15,0.0,0.45,0.462,20,15,6,13,7,LAL
+22024,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.302,29,0.026,1.2,0.6,0.1,0.0,0.1,0.1,0.6,0.6,10,12,6,10,4,LAL
+22024,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.013,33,0.128,0.667,0.385,0.0,0.133,0.0,0.0,0.333,0.385,15,10,5,13,8,LAL

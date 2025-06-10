@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.521,69,0.015,0.909,0.364,0.091,0.0,0.091,0.091,0.364,0.409,0.2,0.1,0.1,0.2,0.1,ORL
+22024,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.885,51,0.074,0.688,0.308,0.063,0.125,0.0,0.0,0.313,0.385,0.3,0.2,0.1,0.3,0.2,ORL
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.242,23,0.062,1.091,0.5,0.091,0.091,0.091,0.091,0.455,0.55,0.5,0.5,0.2,0.4,0.2,ORL
+22024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.475,68,0.018,0.929,0.357,0.071,0.0,0.071,0.071,0.357,0.429,0.2,0.2,0.1,0.2,0.1,ORL
+22024,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.337,65,0.04,1.0,0.417,0.2,0.067,0.2,0.067,0.4,0.5,0.2,0.2,0.1,0.2,0.1,ORL
+22024,1641724,Jett Howard,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.784,45,0.099,0.762,0.333,0.048,0.095,0.0,0.0,0.333,0.417,0.5,0.4,0.1,0.4,0.3,ORL
+22024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.337,40,0.082,1.0,0.5,0.059,0.118,0.0,0.0,0.471,0.571,0.4,0.4,0.2,0.4,0.2,ORL
+22024,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.719,35,0.08,0.815,0.368,0.074,0.222,0.0,0.0,0.333,0.474,0.8,0.6,0.2,0.5,0.3,ORL
+22024,203914,Gary Harris,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.593,43,0.095,0.88,0.391,0.0,0.08,0.0,0.0,0.36,0.478,0.6,0.5,0.2,0.5,0.3,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.505,73,0.077,0.919,0.429,0.108,0.162,0.081,0.027,0.405,0.518,0.5,0.5,0.2,0.4,0.2,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.618,78,0.082,0.869,0.444,0.098,0.18,0.082,0.016,0.41,0.5,0.8,0.7,0.3,0.6,0.3,ORL
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.389,75,0.117,0.974,0.444,0.09,0.115,0.077,0.013,0.436,0.508,1.0,1.0,0.4,0.8,0.5,ORL

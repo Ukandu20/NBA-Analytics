@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,9,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,14,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,1626188,Quinn Cook,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,4,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.024,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3,LAL
+42019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.006,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAL
+42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,16,0.019,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,LAL
+42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.03,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3,LAL
+42019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,17,0.029,1.25,0.5,0.25,0.0,0.25,0.25,0.5,0.5,4,5,2,4,2,LAL
+42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.028,1.0,0.4,0.17,0.0,0.17,0.0,0.5,0.4,6,6,2,5,3,LAL
+42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.011,2.333,1.0,0.33,0.0,0.33,0.0,1.0,1.25,3,7,2,2,0,LAL
+42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.235,21,0.056,1.083,0.4,0.08,0.08,0.08,0.0,0.42,0.6,12,13,4,10,6,LAL
+42019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,21,0.035,1.75,0.57,0.12,0.0,0.12,0.0,0.62,0.86,8,14,4,7,3,LAL

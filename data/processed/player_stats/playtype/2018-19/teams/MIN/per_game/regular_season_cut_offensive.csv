@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.26,71,0.207,1.154,0.568,0.119,0.049,0.105,0.042,0.573,0.568,2.0,2.3,1.0,1.8,0.8,MIN
+22018,203967,Dario Šarić,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.612,68,0.118,1.333,0.652,0.198,0.037,0.198,0.086,0.642,0.652,1.2,1.6,0.7,1.0,0.4,MIN
+22018,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.885,77,0.041,1.486,0.741,0.194,0.056,0.194,0.056,0.736,0.741,0.9,1.4,0.6,0.8,0.2,MIN
+22018,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.627,73,0.054,1.337,0.647,0.188,0.025,0.175,0.063,0.675,0.647,1.1,1.5,0.6,0.9,0.3,MIN
+22018,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.405,77,0.114,1.236,0.675,0.145,0.145,0.145,0.018,0.618,0.675,0.7,0.9,0.4,0.5,0.2,MIN
+22018,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.531,74,0.068,1.295,0.656,0.25,0.068,0.227,0.045,0.682,0.656,0.6,0.8,0.3,0.4,0.1,MIN
+22018,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.382,51,0.039,1.229,0.567,0.171,0.0,0.171,0.029,0.629,0.567,0.7,0.8,0.3,0.6,0.3,MIN
+22018,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.965,30,0.124,1.619,0.941,0.19,0.095,0.19,0.095,0.857,0.941,0.7,1.1,0.5,0.6,0.0,MIN
+22018,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.954,22,0.071,1.571,0.789,0.095,0.048,0.095,0.048,0.762,0.789,1.0,1.5,0.7,0.9,0.2,MIN
+22018,2736,Luol Deng,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.911,22,0.117,1.529,0.8,0.118,0.059,0.118,0.059,0.765,0.8,0.8,1.2,0.5,0.7,0.1,MIN
+22018,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.989,10,0.06,1.75,0.9,0.25,0.0,0.25,0.083,0.917,0.9,1.2,2.1,0.9,1.0,0.1,MIN
+22018,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.971,68,0.023,1.667,0.818,0.083,0.0,0.083,0.0,0.833,0.818,0.2,0.3,0.1,0.2,0.0,MIN
+22018,201229,Anthony Tolliver,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.027,65,0.041,0.846,0.333,0.308,0.0,0.308,0.0,0.462,0.333,0.2,0.2,0.0,0.1,0.1,MIN

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201599,DeAndre Jordan,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.988,56,0.03,0.417,0.222,0.04,0.21,0.04,0.0,0.21,0.222,0.4,0.2,0.1,0.3,0.3,BKN
+22019,201163,Wilson Chandler,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.363,35,0.045,1.0,0.455,0.08,0.0,0.0,0.0,0.5,0.455,0.3,0.3,0.1,0.3,0.2,BKN
+22019,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.507,20,0.059,0.923,0.5,0.08,0.15,0.08,0.0,0.46,0.5,0.7,0.6,0.3,0.5,0.3,BKN
+22019,1628021,David Nwaba,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.635,20,0.116,0.857,0.4,0.14,0.14,0.14,0.0,0.43,0.4,0.7,0.6,0.2,0.5,0.3,BKN
+22019,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.124,47,0.057,1.2,0.727,0.13,0.2,0.07,0.07,0.6,0.727,0.3,0.4,0.2,0.2,0.1,BKN
+22019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.228,45,0.041,1.111,0.583,0.22,0.11,0.22,0.0,0.61,0.583,0.4,0.4,0.2,0.3,0.1,BKN
+22019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.009,47,0.046,1.5,0.75,0.25,0.12,0.19,0.12,0.69,0.75,0.3,0.5,0.2,0.3,0.1,BKN
+22019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.02,62,0.026,1.444,0.786,0.22,0.11,0.22,0.11,0.72,0.786,0.3,0.4,0.2,0.2,0.0,BKN
+22019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.617,69,0.05,0.867,0.455,0.13,0.13,0.1,0.0,0.47,0.455,0.4,0.4,0.1,0.3,0.2,BKN
+22019,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.426,70,0.05,0.965,0.542,0.05,0.12,0.04,0.02,0.47,0.542,0.8,0.8,0.4,0.7,0.3,BKN
+22019,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.219,64,0.069,1.118,0.579,0.16,0.14,0.12,0.04,0.55,0.579,0.8,0.9,0.3,0.6,0.3,BKN
+22019,1627752,Taurean Prince,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.163,64,0.086,1.173,0.6,0.19,0.08,0.15,0.04,0.6,0.6,0.8,1.0,0.4,0.6,0.3,BKN

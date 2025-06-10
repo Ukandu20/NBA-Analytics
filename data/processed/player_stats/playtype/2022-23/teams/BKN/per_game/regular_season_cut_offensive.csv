@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.519,76,0.307,1.31,0.694,0.136,0.054,0.136,0.041,0.669,0.694,3.2,4.2,1.9,2.7,0.8,BKN
+22022,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.229,42,0.245,1.161,0.608,0.08,0.034,0.08,0.023,0.575,0.608,2.1,2.4,1.1,1.9,0.7,BKN
+22022,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.193,49,0.224,1.113,0.634,0.113,0.113,0.113,0.0,0.566,0.634,1.1,1.2,0.5,0.8,0.3,BKN
+22022,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.512,39,0.04,1.308,0.667,0.154,0.077,0.154,0.077,0.641,0.667,1.0,1.3,0.6,0.8,0.3,BKN
+22022,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.698,40,0.029,1.393,0.739,0.143,0.071,0.143,0.036,0.714,0.739,0.7,1.0,0.4,0.6,0.2,BKN
+22022,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.188,74,0.059,1.103,0.615,0.0,0.103,0.0,0.0,0.552,0.615,0.4,0.4,0.2,0.4,0.1,BKN
+22022,1628410,Edmond Sumner,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.472,53,0.058,1.286,0.647,0.19,0.095,0.19,0.095,0.619,0.647,0.4,0.5,0.2,0.3,0.1,BKN
+22022,203933,T.J. Warren,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.623,27,0.082,1.368,0.706,0.105,0.053,0.105,0.053,0.684,0.706,0.7,1.0,0.4,0.6,0.2,BKN
+22022,1629139,Yuta Watanabe,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.368,58,0.061,1.235,0.6,0.118,0.059,0.118,0.059,0.588,0.6,0.3,0.4,0.2,0.3,0.1,BKN
+22022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.563,57,0.02,1.333,0.7,0.083,0.083,0.083,0.0,0.667,0.7,0.2,0.3,0.1,0.2,0.1,BKN
+22022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.237,27,0.019,1.167,0.583,0.0,0.0,0.0,0.0,0.583,0.583,0.4,0.5,0.3,0.4,0.2,BKN
+22022,202693,Markieff Morris,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.173,27,0.11,1.091,0.5,0.091,0.0,0.091,0.0,0.545,0.5,0.4,0.4,0.2,0.4,0.2,BKN
+22022,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,76,0.015,0.545,0.375,0.091,0.182,0.091,0.0,0.273,0.375,0.1,0.1,0.0,0.1,0.1,BKN

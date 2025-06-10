@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.836,22,0.042,0.727,0.273,0.0,0.0,0.0,0.0,0.27,0.364,11,8,3,11,8,HOU
+22019,200757,Thabo Sefolosha,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.28,42,0.061,1.1,0.5,0.1,0.1,0.0,0.0,0.5,0.563,10,11,4,8,4,HOU
+22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.158,36,0.052,1.2,0.583,0.07,0.13,0.07,0.0,0.53,0.667,15,18,7,12,5,HOU
+22019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.093,68,0.04,1.304,0.545,0.0,0.04,0.0,0.0,0.52,0.682,23,30,12,22,10,HOU
+22019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.441,71,0.066,1.0,0.4,0.12,0.03,0.12,0.03,0.44,0.467,34,34,12,30,18,HOU
+22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.441,57,0.066,1.0,0.469,0.05,0.15,0.05,0.03,0.41,0.563,39,39,15,32,17,HOU
+22019,201935,James Harden,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.484,68,0.044,0.976,0.385,0.0,0.05,0.0,0.0,0.37,0.513,41,40,15,39,24,HOU
+22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.283,72,0.042,1.098,0.459,0.05,0.07,0.05,0.02,0.44,0.568,41,45,17,37,20,HOU
+22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.318,63,0.069,1.085,0.419,0.06,0.04,0.04,0.02,0.43,0.535,47,51,18,43,25,HOU

@@ -1,0 +1,20 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.577,59,0.173,1.168,0.602,0.221,0.119,0.18,0.061,0.586,0.616,244,285,106,176,70,SAC
+22021,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.669,77,0.156,1.211,0.553,0.234,0.109,0.234,0.051,0.56,0.622,175,212,68,123,55,SAC
+22021,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.359,55,0.213,1.052,0.424,0.046,0.092,0.029,0.012,0.405,0.56,173,182,64,151,87,SAC
+22021,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.136,75,0.148,0.884,0.458,0.075,0.122,0.048,0.014,0.429,0.496,147,130,55,120,65,SAC
+22021,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.635,51,0.145,1.196,0.593,0.084,0.187,0.065,0.028,0.505,0.716,107,128,48,81,33,SAC
+22021,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.459,61,0.145,1.1,0.545,0.088,0.113,0.088,0.025,0.513,0.606,80,88,36,66,30,SAC
+22021,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.529,30,0.241,1.145,0.586,0.145,0.145,0.118,0.053,0.539,0.629,76,87,34,58,24,SAC
+22021,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.92,45,0.094,1.432,0.769,0.243,0.108,0.243,0.054,0.73,0.769,37,53,20,26,6,SAC
+22021,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.908,15,0.127,1.389,0.778,0.167,0.139,0.139,0.056,0.667,0.796,36,50,21,27,6,SAC
+22021,1628978,Donte DiVincenzo,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.214,25,0.158,0.956,0.361,0.111,0.089,0.089,0.0,0.4,0.472,45,43,13,36,23,SAC
+22021,203200,Justin Holiday,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.234,25,0.167,0.974,0.394,0.051,0.103,0.051,0.0,0.385,0.515,39,38,13,33,20,SAC
+22021,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.128,47,0.187,0.881,0.483,0.095,0.19,0.095,0.0,0.429,0.534,42,37,14,29,15,SAC
+22021,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.518,24,0.129,1.138,0.565,0.069,0.172,0.069,0.034,0.483,0.674,29,33,13,23,10,SAC
+22021,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.102,30,0.112,0.844,0.409,0.188,0.188,0.188,0.063,0.406,0.432,32,27,9,22,13,SAC
+22021,203458,Alex Len,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.349,39,0.085,1.048,0.533,0.238,0.095,0.238,0.048,0.571,0.533,21,22,8,15,7,SAC
+22021,1628367,Josh Jackson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.208,12,0.313,0.952,0.462,0.286,0.19,0.286,0.095,0.476,0.462,21,20,6,13,7,SAC
+22021,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.495,56,0.045,1.118,0.462,0.294,0.059,0.294,0.118,0.529,0.462,17,19,6,13,7,SAC
+22021,203087,Jeremy Lamb,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.196,17,0.129,0.944,0.333,0.222,0.0,0.111,0.056,0.444,0.367,18,17,5,15,10,SAC
+22021,202684,Tristan Thompson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.555,30,0.063,1.154,0.833,0.308,0.231,0.308,0.0,0.692,0.833,13,15,5,6,1,SAC

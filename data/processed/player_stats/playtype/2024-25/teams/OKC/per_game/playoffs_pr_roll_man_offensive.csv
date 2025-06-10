@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.5,17,0.167,1.119,0.529,0.119,0.095,0.095,0.024,0.5,0.603,2.5,2.8,1.1,2.0,0.9,OKC
+42024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.346,17,0.245,1.057,0.581,0.057,0.086,0.057,0.029,0.543,0.581,2.1,2.2,1.1,1.8,0.8,OKC
+42024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.2,17,0.071,0.9,0.375,0.1,0.1,0.1,0.0,0.4,0.5,0.6,0.5,0.2,0.5,0.3,OKC

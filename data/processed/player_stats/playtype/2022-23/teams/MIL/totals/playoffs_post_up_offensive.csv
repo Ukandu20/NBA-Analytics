@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.2,3,0.215,0.706,0.455,0.176,0.176,0.176,0.0,0.353,0.455,17,12,5,11,6,MIL
+42022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,5,0.152,1.571,0.714,0.143,0.0,0.143,0.143,0.714,0.714,7,11,5,7,2,MIL
+42022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,5,0.072,1.333,0.8,0.167,0.167,0.167,0.167,0.667,0.8,6,8,4,5,1,MIL
+42022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,5,0.06,1.0,1.0,0.286,0.571,0.143,0.143,0.429,1.0,7,7,2,2,0,MIL
+42022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,5,0.058,0.333,0.25,0.0,0.333,0.0,0.0,0.167,0.25,6,2,1,4,3,MIL

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629216,Gabe Vincent,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.754,5,0.286,0.8,0.3,0.0,0.0,0.0,0.0,0.3,0.4,10,8,3,10,7,LAL
+42023,1627752,Taurean Prince,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.923,5,0.533,0.625,0.214,0.063,0.063,0.063,0.0,0.25,0.25,16,10,3,14,11,LAL
+42023,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.957,5,0.487,0.579,0.167,0.053,0.0,0.053,0.0,0.211,0.25,19,11,3,18,15,LAL
+42023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.509,5,0.25,1.0,0.357,0.0,0.0,0.0,0.0,0.357,0.5,14,14,5,14,9,LAL
+42023,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.043,5,0.187,1.571,0.571,0.0,0.0,0.0,0.0,0.571,0.786,14,22,8,14,6,LAL
+42023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.342,5,0.229,1.125,0.375,-0.042,0.042,0.0,0.0,0.375,0.563,24,27,9,24,15,LAL

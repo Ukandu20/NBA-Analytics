@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.855,62,0.023,0.727,0.375,0.09,0.182,0.09,0.0,0.364,0.375,11,8,3,8,5,NYK
+22019,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.343,61,0.017,0.923,0.333,0.31,0.077,0.31,0.08,0.462,0.389,13,12,3,9,6,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.912,66,0.046,0.692,0.389,0.08,0.231,0.08,0.0,0.346,0.444,26,18,7,18,11,NYK
+22019,1628443,Kadeem Allen,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.489,10,0.5,0.875,0.563,0.0,0.292,0.04,0.0,0.375,0.656,24,21,9,16,7,NYK
+22019,203090,Maurice Harkless,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.836,12,0.297,0.733,0.348,0.13,0.167,0.13,0.07,0.3,0.413,30,22,8,23,15,NYK
+22019,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.23,24,0.406,0.977,0.424,0.12,0.116,0.07,0.0,0.442,0.53,43,42,14,33,19,NYK
+22019,201961,Wayne Ellington,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.418,36,0.299,0.898,0.516,0.1,0.265,0.06,0.0,0.429,0.548,49,44,16,31,15,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.254,64,0.084,0.965,0.392,0.05,0.07,0.05,0.02,0.386,0.48,57,55,20,51,31,NYK
+22019,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.736,48,0.286,0.792,0.35,0.09,0.13,0.06,0.0,0.351,0.425,77,61,21,60,39,NYK
+22019,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.591,34,0.374,0.849,0.439,0.05,0.178,0.04,0.01,0.384,0.5,73,62,25,57,32,NYK
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.665,65,0.225,0.821,0.358,0.1,0.119,0.1,0.01,0.369,0.418,84,69,24,67,43,NYK
+22019,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.247,29,0.396,0.966,0.394,0.13,0.067,0.13,0.01,0.438,0.458,89,86,28,71,43,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.242,43,0.247,0.968,0.474,0.05,0.128,0.05,0.01,0.426,0.551,94,91,37,78,41,NYK
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.647,56,0.29,0.831,0.395,0.08,0.118,0.08,0.02,0.382,0.442,178,148,58,147,89,NYK
+22019,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.65,57,0.455,0.83,0.401,0.11,0.17,0.09,0.02,0.388,0.451,206,171,61,152,91,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.597,45,0.45,0.848,0.372,0.12,0.092,0.09,0.01,0.404,0.407,250,212,74,199,125,NYK

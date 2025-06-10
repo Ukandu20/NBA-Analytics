@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.661,9,0.416,0.907,0.452,0.187,0.15,0.15,0.028,0.449,0.493,107,97,33,73,40,MEM
+42021,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.375,12,0.345,0.756,0.343,0.049,0.098,0.049,0.0,0.341,0.386,41,31,12,35,23,MEM
+42021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.036,11,0.158,0.375,0.148,0.031,0.125,0.031,0.0,0.156,0.204,32,12,4,27,23,MEM
+42021,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.571,12,0.068,0.846,0.4,0.077,0.231,0.077,0.077,0.308,0.5,13,11,4,10,6,MEM
+42021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,12,0.03,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.833,6,10,4,6,2,MEM
+42021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,12,0.116,0.5,0.4,0.0,0.375,0.0,0.0,0.25,0.4,8,4,2,5,3,MEM
+42021,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,10,0.136,0.273,0.111,0.091,0.182,0.091,0.091,0.091,0.111,11,3,1,9,8,MEM
+42021,1629633,Jarrett Culver,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,3,0.154,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,MEM
+42021,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,8,0.077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MEM

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.956,61,0.152,1.195,0.547,0.211,0.059,0.2,0.07,0.578,0.551,185,221,81,148,67,SAS
+22020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.306,67,0.078,0.767,0.413,0.067,0.122,0.067,0.022,0.389,0.413,90,69,31,75,44,SAS
+22020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.468,63,0.061,0.844,0.375,0.089,0.022,0.089,0.0,0.422,0.4,45,38,15,40,25,SAS
+22020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.753,68,0.028,1.0,0.316,0.15,0.0,0.15,0.1,0.35,0.421,20,20,6,19,13,SAS
+22020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.28,69,0.025,0.727,0.368,0.045,0.091,0.045,0.0,0.364,0.368,22,16,7,19,12,SAS
+22020,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.883,36,0.02,1.091,0.556,0.182,0.091,0.091,0.091,0.455,0.611,11,12,5,9,4,SAS
+22020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.343,60,0.02,0.786,0.444,0.071,0.286,0.071,0.0,0.357,0.5,14,11,4,9,5,SAS

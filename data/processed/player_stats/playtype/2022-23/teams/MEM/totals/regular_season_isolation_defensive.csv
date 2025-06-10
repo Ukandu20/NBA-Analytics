@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.943,80,0.028,0.643,0.364,0.0,0.21,0.0,0.0,0.29,0.409,14,9,4,11,7,MEM
+22022,1631222,Jake LaRavia,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.637,36,0.11,0.882,0.364,0.18,0.18,0.18,0.0,0.41,0.409,17,15,4,11,7,MEM
+22022,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.353,24,0.084,1.0,0.417,0.19,0.06,0.19,0.0,0.5,0.458,16,16,5,12,7,MEM
+22022,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.979,42,0.066,0.5,0.214,0.11,0.14,0.08,0.03,0.25,0.232,36,18,6,28,22,MEM
+22022,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.695,56,0.07,0.857,0.3,0.18,0.14,0.14,0.04,0.36,0.375,28,24,6,20,14,MEM
+22022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.834,61,0.054,0.758,0.36,0.12,0.12,0.09,0.0,0.39,0.4,33,25,9,25,16,MEM
+22022,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.924,70,0.092,0.682,0.265,0.09,0.14,0.09,0.0,0.3,0.324,44,30,9,34,25,MEM
+22022,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.782,72,0.073,0.791,0.382,0.09,0.16,0.09,0.05,0.35,0.412,43,34,13,34,21,MEM
+22022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.213,58,0.06,1.086,0.536,0.09,0.14,0.09,0.03,0.49,0.607,35,38,15,28,13,MEM
+22022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.77,73,0.064,0.81,0.341,0.14,0.1,0.12,0.0,0.4,0.386,58,47,15,44,29,MEM
+22022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.716,63,0.095,0.843,0.381,0.19,0.23,0.17,0.01,0.4,0.417,70,59,16,42,26,MEM
+22022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.327,61,0.111,1.016,0.431,0.13,0.08,0.11,0.03,0.45,0.471,62,63,22,51,29,MEM
+22022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.576,77,0.122,0.911,0.453,0.09,0.13,0.09,0.03,0.43,0.477,79,72,29,64,35,MEM

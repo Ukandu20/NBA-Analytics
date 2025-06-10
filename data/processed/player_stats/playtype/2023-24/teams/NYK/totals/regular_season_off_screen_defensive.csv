@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628384,OG Anunoby,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.993,23,0.041,0.333,0.1,0.083,0.083,0.083,0.0,0.167,0.1,12,4,1,10,9,NYK
+22023,1629628,RJ Barrett,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.754,25,0.069,0.833,0.313,0.056,0.056,0.056,0.0,0.333,0.375,18,15,5,16,11,NYK
+22023,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.597,76,0.031,0.955,0.35,0.091,0.045,0.091,0.045,0.364,0.45,22,21,7,20,13,NYK
+22023,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.441,43,0.068,1.091,0.429,0.136,0.0,0.136,0.091,0.455,0.476,22,24,9,21,12,NYK
+22023,1630540,Miles McBride,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.465,60,0.056,1.069,0.4,0.103,0.069,0.103,0.034,0.414,0.52,29,31,10,25,15,NYK
+22023,203944,Julius Randle,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.396,45,0.07,1.128,0.5,0.077,0.051,0.077,0.0,0.487,0.618,39,44,17,34,17,NYK
+22023,1628978,Donte DiVincenzo,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.425,80,0.068,1.096,0.477,0.058,0.096,0.058,0.0,0.462,0.591,52,57,21,44,23,NYK
+22023,1628404,Josh Hart,1610612752,NYK,New York Knicks,OffScreen,Defensive,0.579,80,0.071,0.985,0.386,0.045,0.104,0.045,0.0,0.373,0.535,67,66,22,57,35,NYK

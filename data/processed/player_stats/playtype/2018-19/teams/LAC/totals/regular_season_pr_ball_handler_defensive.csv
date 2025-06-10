@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201163,Wilson Chandler,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.038,15,0.15,1.182,0.455,0.0,0.0,0.0,0.0,0.455,0.591,11,13,5,11,6,LAC
+22018,203210,JaMychal Green,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.005,24,0.1,1.444,0.571,0.33,0.06,0.33,0.17,0.611,0.643,18,26,8,14,6,LAC
+22018,203118,Mike Scott,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.09,52,0.12,1.08,0.5,0.08,0.12,0.08,0.0,0.48,0.575,25,27,10,20,10,LAC
+22018,267634,Milos Teodosic,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.123,15,0.46,1.037,0.522,0.07,0.11,0.07,0.04,0.481,0.565,27,28,12,23,11,LAC
+22018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.017,82,0.02,1.318,0.524,0.18,0.0,0.18,0.14,0.545,0.643,22,29,11,21,10,LAC
+22018,1629013,Landry Shamet,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.806,25,0.35,0.785,0.375,0.09,0.11,0.08,0.01,0.38,0.398,79,62,24,64,40,LAC
+22018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.535,68,0.11,0.859,0.369,0.1,0.09,0.06,0.03,0.385,0.431,78,67,24,65,41,LAC
+22018,202066,Garrett Temple,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.033,26,0.43,1.21,0.603,0.19,0.15,0.15,0.05,0.543,0.698,81,98,35,58,23,LAC
+22018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.311,62,0.46,0.935,0.425,0.13,0.15,0.1,0.02,0.426,0.475,108,101,34,80,46,LAC
+22018,101150,Lou Williams,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.455,75,0.26,0.889,0.424,0.05,0.08,0.04,0.01,0.4,0.479,135,120,50,118,68,LAC
+22018,202699,Tobias Harris,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.285,55,0.26,0.948,0.449,0.06,0.06,0.06,0.03,0.442,0.486,154,146,62,138,76,LAC
+22018,202340,Avery Bradley,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.453,49,0.43,0.889,0.409,0.11,0.14,0.08,0.02,0.4,0.467,235,209,74,181,107,LAC
+22018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.408,78,0.4,0.907,0.43,0.14,0.14,0.11,0.02,0.435,0.459,345,313,111,258,147,LAC
+22018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.441,82,0.49,0.894,0.444,0.07,0.12,0.06,0.01,0.429,0.47,406,363,148,333,185,LAC

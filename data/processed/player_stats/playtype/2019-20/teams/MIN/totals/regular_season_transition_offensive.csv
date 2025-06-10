@@ -1,0 +1,20 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.629,48,0.212,1.171,0.549,0.101,0.14,0.101,0.031,0.504,0.647,129,151,56,102,46,MIN
+22019,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.238,62,0.239,0.985,0.517,0.176,0.184,0.125,0.015,0.493,0.556,136,134,46,89,43,MIN
+22019,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.493,42,0.093,1.109,0.521,0.163,0.13,0.163,0.065,0.489,0.592,92,102,37,71,34,MIN
+22019,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.077,63,0.161,0.814,0.411,0.088,0.088,0.08,0.018,0.407,0.442,113,92,39,95,56,MIN
+22019,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.394,35,0.09,1.068,0.468,0.081,0.122,0.081,0.041,0.432,0.573,74,79,29,62,33,MIN
+22019,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.867,14,0.21,1.321,0.565,0.161,0.071,0.143,0.054,0.571,0.674,56,74,26,46,20,MIN
+22019,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.376,34,0.148,1.059,0.51,0.162,0.118,0.147,0.015,0.515,0.561,68,72,25,49,24,MIN
+22019,203894,Shabazz Napier,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.386,36,0.152,1.067,0.525,0.15,0.217,0.133,0.033,0.467,0.6,60,64,21,40,19,MIN
+22019,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.321,37,0.22,1.037,0.463,0.204,0.093,0.204,0.056,0.463,0.537,54,56,19,41,22,MIN
+22019,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.937,30,0.161,1.417,0.581,0.111,0.056,0.083,0.028,0.583,0.726,36,51,18,31,13,MIN
+22019,1629103,Kelan Martin,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.333,31,0.23,1.041,0.417,0.184,0.122,0.163,0.041,0.449,0.5,49,51,15,36,21,MIN
+22019,1627774,Jake Layman,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.299,23,0.214,1.022,0.513,0.087,0.109,0.087,0.043,0.478,0.551,46,47,20,39,19,MIN
+22019,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.42,46,0.103,1.083,0.438,0.056,0.056,0.056,0.0,0.444,0.563,36,39,14,32,18,MIN
+22019,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.618,12,0.107,1.167,0.524,0.1,0.233,0.067,0.033,0.433,0.714,30,35,11,21,10,MIN
+22019,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.803,14,0.159,1.259,0.667,0.074,0.185,0.074,0.037,0.556,0.762,27,34,14,21,7,MIN
+22019,1626203,Treveon Graham,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.314,33,0.156,1.03,0.433,0.091,0.0,0.091,0.0,0.485,0.483,33,34,13,30,17,MIN
+22019,201949,James Johnson,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.66,14,0.153,1.185,0.632,0.222,0.148,0.222,0.074,0.556,0.684,27,32,12,19,7,MIN
+22019,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.834,30,0.074,1.286,0.625,0.238,0.095,0.238,0.095,0.571,0.719,21,27,10,16,6,MIN
+22019,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.618,15,0.19,1.167,0.455,0.167,0.0,0.167,0.083,0.5,0.5,12,14,5,11,6,MIN

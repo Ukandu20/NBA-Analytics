@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.808,69,0.237,1.16,0.429,0.047,0.041,0.047,0.013,0.431,0.587,318,369,126,294,168,CHA
+22020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.966,55,0.294,1.326,0.455,0.058,0.021,0.05,0.004,0.475,0.658,242,321,102,224,122,CHA
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.462,66,0.372,0.983,0.388,0.055,0.08,0.055,0.017,0.381,0.512,289,284,99,255,156,CHA
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.379,64,0.282,0.948,0.373,0.024,0.092,0.024,0.0,0.353,0.516,249,236,82,220,138,CHA
+22020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.597,51,0.196,1.046,0.418,0.052,0.08,0.052,0.011,0.402,0.562,174,182,64,153,89,CHA
+22020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.78,42,0.306,1.142,0.462,0.054,0.074,0.054,0.02,0.439,0.606,148,169,61,132,71,CHA
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.815,44,0.171,1.163,0.464,0.085,0.057,0.078,0.028,0.461,0.596,141,164,58,125,67,CHA
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.196,47,0.459,0.811,0.343,0.067,0.098,0.061,0.018,0.335,0.432,164,133,48,140,92,CHA
+22020,1628997,Caleb Martin,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.137,53,0.389,0.74,0.288,0.033,0.065,0.033,0.0,0.293,0.369,123,91,32,111,79,CHA
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.306,48,0.15,0.906,0.386,0.125,0.016,0.125,0.031,0.438,0.412,64,58,22,57,35,CHA
+22020,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.063,52,0.348,0.612,0.264,0.071,0.082,0.071,0.0,0.259,0.34,85,52,19,72,53,CHA
+22020,202954,Brad Wanamaker,1610612766,CHA,Charlotte Hornets,Spotup,Offensive,0.402,22,0.264,0.957,0.472,0.149,0.17,0.149,0.085,0.426,0.5,47,45,17,36,19,CHA

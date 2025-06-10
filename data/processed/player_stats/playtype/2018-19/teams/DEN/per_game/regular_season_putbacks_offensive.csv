@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.794,80,0.097,1.232,0.627,0.123,0.071,0.116,0.058,0.6,0.627,1.9,2.4,1.1,1.7,0.6,DEN
+22018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.297,70,0.084,0.945,0.5,0.137,0.082,0.123,0.014,0.493,0.5,1.0,1.0,0.4,0.8,0.4,DEN
+22018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.291,82,0.105,0.942,0.509,0.116,0.072,0.116,0.029,0.493,0.509,0.8,0.8,0.4,0.7,0.3,DEN
+22018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.775,75,0.083,1.222,0.633,0.083,0.083,0.083,0.0,0.611,0.65,0.5,0.6,0.3,0.4,0.1,DEN
+22018,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.375,70,0.109,1.0,0.515,0.167,0.095,0.167,0.048,0.524,0.515,0.6,0.6,0.2,0.5,0.2,DEN
+22018,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.478,64,0.053,1.061,0.536,0.121,0.03,0.121,0.0,0.545,0.554,0.5,0.5,0.2,0.4,0.2,DEN
+22018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.044,75,0.022,0.645,0.333,0.032,0.097,0.032,0.0,0.323,0.352,0.4,0.3,0.1,0.4,0.2,DEN
+22018,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.15,43,0.038,0.81,0.368,0.095,0.048,0.095,0.048,0.381,0.368,0.5,0.4,0.2,0.4,0.3,DEN
+22018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.707,82,0.014,1.182,0.545,0.0,0.0,0.0,0.0,0.545,0.591,0.1,0.2,0.1,0.1,0.1,DEN
+22018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.094,81,0.02,0.75,0.5,0.0,0.25,0.0,0.0,0.375,0.5,0.2,0.1,0.1,0.1,0.1,DEN
+22018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.233,57,0.013,0.9,0.429,0.2,0.1,0.1,0.0,0.5,0.429,0.2,0.2,0.1,0.1,0.1,DEN

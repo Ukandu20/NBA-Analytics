@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.534,82,0.475,1.041,0.358,0.038,0.046,0.038,0.008,0.361,0.516,366,381,121,338,217,SAS
+22024,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.609,64,0.305,1.074,0.403,0.035,0.038,0.035,0.013,0.401,0.541,312,335,118,293,175,SAS
+22024,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.236,77,0.309,0.909,0.362,0.066,0.07,0.066,0.021,0.362,0.469,287,261,92,254,162,SAS
+22024,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.526,46,0.152,1.036,0.389,0.079,0.061,0.079,0.012,0.406,0.521,165,171,56,144,88,SAS
+22024,101108,Chris Paul,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.764,82,0.195,1.152,0.396,0.021,0.021,0.007,0.0,0.4,0.579,145,167,55,139,84,SAS
+22024,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.834,61,0.348,1.19,0.423,0.034,0.009,0.034,0.0,0.44,0.599,116,138,47,111,64,SAS
+22024,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.135,54,0.197,0.842,0.318,0.042,0.058,0.033,0.017,0.308,0.436,120,101,35,110,75,SAS
+22024,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.098,58,0.279,0.8,0.338,0.013,0.12,0.013,0.0,0.307,0.446,75,60,22,65,43,SAS
+22024,1628368,De'Aaron Fox,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.226,17,0.182,0.906,0.39,0.0,0.078,0.0,0.0,0.359,0.492,64,58,23,59,36,SAS
+22024,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.674,36,0.213,1.111,0.429,0.0,0.028,0.0,0.0,0.417,0.571,36,40,15,35,20,SAS
+22024,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.187,28,0.262,0.879,0.36,0.091,0.152,0.091,0.0,0.364,0.48,33,29,9,25,16,SAS

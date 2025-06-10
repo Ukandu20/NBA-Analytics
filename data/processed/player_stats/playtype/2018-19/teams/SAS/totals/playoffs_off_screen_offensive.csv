@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.079,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,5,6,2,5,3,SAS
+42018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.048,7,0.072,0.545,0.3,0.0,0.091,0.0,0.0,0.273,0.3,11,6,3,10,7,SAS
+42018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.1,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,5,3,1,5,4,SAS
+42018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,SAS
+42018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.048,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,SAS
+42018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
+42018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,SAS
+42018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,7,0.02,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,SAS

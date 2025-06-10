@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Postup,Defensive,0.907,65,0.032,0.667,0.333,0.08,0.17,0.0,0.0,0.33,0.333,0.2,0.1,0.0,0.1,0.1,NYK
+22019,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Postup,Defensive,0.76,48,0.048,0.769,0.455,0.08,0.08,0.08,0.0,0.38,0.455,0.3,0.2,0.1,0.2,0.1,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,Postup,Defensive,0.818,43,0.058,0.727,0.4,0.14,0.18,0.09,0.0,0.41,0.4,0.5,0.4,0.1,0.3,0.2,NYK
+22019,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Postup,Defensive,0.363,57,0.044,1.0,0.5,0.3,0.15,0.2,0.05,0.55,0.5,0.4,0.4,0.1,0.2,0.1,NYK
+22019,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Postup,Defensive,0.032,34,0.077,1.4,0.75,0.13,0.13,0.13,0.07,0.67,0.75,0.4,0.6,0.3,0.4,0.1,NYK
+22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,Postup,Defensive,0.7,62,0.068,0.813,0.417,0.12,0.16,0.12,0.03,0.41,0.417,0.5,0.4,0.2,0.4,0.2,NYK
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Postup,Defensive,0.184,56,0.044,1.148,0.6,0.22,0.11,0.19,0.07,0.59,0.6,0.5,0.6,0.2,0.4,0.1,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,Postup,Defensive,0.685,66,0.068,0.821,0.452,0.08,0.13,0.08,0.0,0.41,0.452,0.6,0.5,0.2,0.5,0.3,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Postup,Defensive,0.322,45,0.058,1.031,0.545,0.19,0.16,0.16,0.03,0.53,0.545,0.7,0.7,0.3,0.5,0.2,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,Postup,Defensive,0.766,64,0.075,0.765,0.395,0.14,0.14,0.12,0.02,0.39,0.395,0.8,0.6,0.2,0.6,0.4,NYK
+22019,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Postup,Defensive,0.299,61,0.061,1.042,0.441,0.35,0.04,0.27,0.1,0.56,0.441,0.8,0.8,0.2,0.6,0.3,NYK

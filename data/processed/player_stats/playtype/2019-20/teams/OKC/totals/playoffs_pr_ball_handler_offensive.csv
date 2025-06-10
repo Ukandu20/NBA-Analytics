@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.721,7,0.24,1.029,0.593,0.057,0.2,0.057,0.029,0.486,0.65,35,36,16,27,11,OKC
+42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.738,7,0.206,1.036,0.5,0.071,0.071,0.071,0.0,0.5,0.52,28,29,12,24,12,OKC
+42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.967,7,0.086,1.4,0.6,0.3,0.2,0.3,0.0,0.6,0.8,10,14,3,5,2,OKC
+42019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,3,0.188,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,3,2,1,2,1,OKC
+42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,6,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,OKC
+42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,7,0.037,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,4,0,0,1,1,OKC

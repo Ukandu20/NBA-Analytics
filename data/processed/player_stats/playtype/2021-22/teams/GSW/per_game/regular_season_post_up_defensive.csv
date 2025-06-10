@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.997,31,0.06,0.25,0.0,0.17,0.42,0.17,0.0,0.17,0.0,0.4,0.1,0.0,0.2,0.2,GSW
+22021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.955,32,0.072,0.619,0.235,0.14,0.05,0.1,0.0,0.33,0.235,0.7,0.4,0.1,0.5,0.4,GSW
+22021,203490,Otto Porter Jr.,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.334,63,0.047,1.056,0.563,0.11,0.11,0.11,0.11,0.5,0.563,0.3,0.3,0.1,0.3,0.1,GSW
+22021,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.813,71,0.052,0.792,0.421,0.08,0.12,0.04,0.0,0.42,0.421,0.3,0.3,0.1,0.3,0.2,GSW
+22021,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.928,46,0.063,0.667,0.4,0.1,0.23,0.1,0.0,0.33,0.4,0.7,0.4,0.2,0.4,0.3,GSW
+22021,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.928,73,0.107,0.667,0.393,0.1,0.23,0.1,0.05,0.33,0.393,0.5,0.4,0.2,0.4,0.2,GSW
+22021,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.714,64,0.055,0.848,0.435,0.18,0.15,0.18,0.03,0.45,0.435,0.5,0.4,0.2,0.4,0.2,GSW
+22021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.714,73,0.035,0.848,0.407,0.18,0.06,0.18,0.06,0.45,0.407,0.5,0.4,0.2,0.4,0.2,GSW
+22021,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.414,63,0.068,1.0,0.529,0.21,0.21,0.21,0.0,0.52,0.529,0.5,0.5,0.1,0.3,0.1,GSW
+22021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.524,71,0.077,0.944,0.419,0.22,0.03,0.22,0.11,0.47,0.419,0.5,0.5,0.2,0.4,0.3,GSW
+22021,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.09,76,0.044,1.276,0.647,0.38,0.1,0.21,0.07,0.69,0.647,0.4,0.5,0.1,0.2,0.1,GSW
+22021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.839,71,0.084,0.764,0.436,0.13,0.2,0.11,0.04,0.4,0.436,0.8,0.6,0.2,0.5,0.3,GSW
+22021,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.263,82,0.086,1.086,0.559,0.19,0.12,0.15,0.04,0.54,0.559,1.0,1.1,0.4,0.7,0.3,GSW

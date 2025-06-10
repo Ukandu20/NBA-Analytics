@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,202685,Jonas Valančiūnas,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.749,42,0.022,0.8,0.333,0.1,0.0,0.1,0.0,0.4,0.389,10,8,3,9,6,WAS
+22024,1642259,Alex Sarr,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.684,64,0.019,0.824,0.375,0.0,0.059,0.0,0.0,0.353,0.438,17,14,6,16,10,WAS
+22024,1627763,Malcolm Brogdon,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.354,22,0.073,1.077,0.333,0.154,0.154,0.154,0.0,0.385,0.5,13,14,3,9,6,WAS
+22024,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.474,32,0.059,1.0,0.538,0.063,0.125,0.063,0.0,0.5,0.577,16,16,7,13,6,WAS
+22024,1642273,Kyshawn George,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.873,68,0.049,0.649,0.257,0.027,0.027,0.027,0.0,0.27,0.314,37,24,9,35,26,WAS
+22024,1630551,Justin Champagnie,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.838,55,0.069,0.694,0.303,0.028,0.056,0.028,0.0,0.306,0.348,36,25,10,33,23,WAS
+22024,1641731,Bilal Coulibaly,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.887,59,0.077,0.642,0.304,0.019,0.132,0.019,0.019,0.264,0.359,53,34,14,46,32,WAS
+22024,1629673,Jordan Poole,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.068,68,0.048,1.346,0.5,0.077,0.077,0.077,0.0,0.5,0.682,26,35,11,22,11,WAS
+22024,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.336,61,0.073,1.088,0.406,0.029,0.029,0.0,0.0,0.412,0.547,34,37,13,32,19,WAS
+22024,1642267,Bub Carrington,1610612764,WAS,Washington Wizards,OffScreen,Defensive,0.474,82,0.073,1.0,0.385,0.083,0.067,0.067,0.017,0.383,0.51,60,60,20,52,32,WAS

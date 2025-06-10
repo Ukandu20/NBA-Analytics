@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.83,4,0.316,1.067,0.444,0.267,0.133,0.133,0.0,0.533,0.5,7.5,8.0,2.0,4.5,2.5,PHX
+42023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.887,4,0.17,1.125,0.6,0.188,0.188,0.125,0.0,0.563,0.6,4.0,4.5,1.5,2.5,1.0,PHX
+42023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.547,4,0.257,0.947,0.471,0.0,0.105,0.0,0.0,0.421,0.529,4.8,4.5,2.0,4.3,2.3,PHX

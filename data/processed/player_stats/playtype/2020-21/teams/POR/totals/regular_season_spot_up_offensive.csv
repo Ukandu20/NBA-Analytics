@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.533,70,0.512,1.013,0.371,0.016,0.055,0.016,0.0,0.36,0.53,308,312,106,286,180,POR
+22020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.575,69,0.235,1.038,0.38,0.033,0.033,0.033,0.009,0.38,0.523,213,221,76,200,124,POR
+22020,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.667,41,0.329,1.083,0.4,0.016,0.021,0.016,0.005,0.396,0.554,192,208,74,185,111,POR
+22020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.982,47,0.15,1.38,0.503,0.033,0.02,0.033,0.007,0.507,0.703,150,207,72,143,71,POR
+22020,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.994,64,0.28,1.489,0.516,0.023,0.031,0.023,0.0,0.511,0.762,131,195,64,124,60,POR
+22020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.433,58,0.355,0.97,0.341,0.03,0.037,0.03,0.007,0.343,0.492,134,130,43,126,83,POR
+22020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.984,67,0.052,1.385,0.494,0.033,0.044,0.022,0.011,0.484,0.706,91,126,42,85,43,POR
+22020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.837,27,0.23,1.176,0.433,0.069,0.049,0.059,0.0,0.451,0.594,102,120,39,90,51,POR
+22020,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.466,48,0.315,0.984,0.393,0.063,0.078,0.047,0.016,0.375,0.536,64,63,22,56,34,POR
+22020,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.077,38,0.274,0.631,0.237,0.031,0.062,0.031,0.0,0.246,0.322,65,41,14,59,45,POR
+22020,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.504,37,0.057,1.0,0.435,0.0,0.115,0.0,0.0,0.385,0.565,26,26,10,23,13,POR
+22020,1628385,Harry Giles III,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.772,32,0.134,1.133,0.429,0.0,0.067,0.0,0.0,0.4,0.607,15,17,6,14,8,POR

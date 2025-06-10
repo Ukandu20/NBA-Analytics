@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627741,Buddy Hield,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.953,30,0.038,0.636,0.375,0.0,0.273,0.0,0.0,0.273,0.438,11,7,3,8,5,PHI
+22023,201976,Patrick Beverley,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.855,45,0.029,0.8,0.4,0.1,0.0,0.1,0.1,0.4,0.4,10,8,4,10,6,PHI
+22023,201587,Nicolas Batum,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.654,56,0.026,1.0,0.333,0.25,0.0,0.25,0.0,0.5,0.389,12,12,3,9,6,PHI
+22023,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.791,70,0.027,0.857,0.353,0.143,0.095,0.095,0.048,0.333,0.471,21,18,6,17,11,PHI
+22023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.323,68,0.028,1.211,0.563,0.053,0.158,0.053,0.053,0.474,0.688,19,23,9,16,7,PHI
+22023,1628964,Mo Bamba,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.463,49,0.069,1.12,0.5,0.0,0.04,0.0,0.0,0.48,0.583,25,28,12,24,12,PHI
+22023,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.189,68,0.033,1.308,0.522,0.115,0.038,0.115,0.038,0.538,0.652,26,34,12,23,11,PHI
+22023,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.43,39,0.061,1.154,0.429,0.103,0.026,0.103,0.026,0.462,0.543,39,45,15,35,20,PHI

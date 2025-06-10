@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203991,Clint Capela,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.521,39,0.17,1.095,0.631,0.143,0.119,0.143,0.036,0.571,0.631,2.2,2.4,1.1,1.7,0.6,HOU
+22019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.287,71,0.08,0.96,0.425,0.12,0.12,0.12,0.04,0.42,0.5,0.7,0.7,0.2,0.6,0.3,HOU
+22019,201145,Jeff Green,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.908,18,0.176,1.419,0.655,0.097,0.0,0.065,0.032,0.677,0.69,1.7,2.4,1.1,1.6,0.6,HOU
+22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.168,63,0.067,0.857,0.394,0.048,0.167,0.048,0.0,0.357,0.485,0.7,0.6,0.2,0.5,0.3,HOU
+22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.157,72,0.075,0.846,0.406,0.051,0.128,0.051,0.0,0.385,0.453,0.5,0.5,0.2,0.4,0.3,HOU
+22019,1628392,Isaiah Hartenstein,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.931,23,0.234,1.455,0.737,0.227,0.045,0.227,0.136,0.727,0.737,1.0,1.4,0.6,0.8,0.2,HOU
+22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.438,22,0.078,1.048,0.526,0.048,0.095,0.048,0.048,0.476,0.579,1.0,1.0,0.5,0.9,0.4,HOU
+22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.322,36,0.026,1.0,0.385,0.0,0.071,0.0,0.0,0.357,0.538,0.4,0.4,0.1,0.4,0.2,HOU
+22019,200757,Thabo Sefolosha,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.322,42,0.091,1.0,0.444,0.1,0.0,0.1,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1,HOU

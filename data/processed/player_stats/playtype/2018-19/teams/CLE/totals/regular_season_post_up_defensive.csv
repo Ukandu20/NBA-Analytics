@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628417,Jaron Blossomgame,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.357,28,0.079,1.0,0.625,0.1,0.2,0.1,0.1,0.5,0.625,10,10,5,8,3,CLE
+22018,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.357,13,0.128,1.0,0.667,0.07,0.29,0.07,0.0,0.5,0.667,14,14,6,9,3,CLE
+22018,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.101,36,0.055,1.2,0.583,0.2,0.07,0.2,0.07,0.6,0.583,15,18,7,12,5,CLE
+22018,1627737,Marquese Chriss,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.005,27,0.07,1.462,0.75,0.46,0.08,0.46,0.15,0.77,0.75,13,19,6,8,2,CLE
+22018,202692,Alec Burks,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.075,34,0.047,1.25,0.615,0.25,0.0,0.19,0.06,0.62,0.615,16,20,8,13,5,CLE
+22018,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.133,24,0.09,1.158,0.556,0.05,0.0,0.05,0.0,0.58,0.556,19,22,10,18,8,CLE
+22018,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.273,45,0.062,1.048,0.5,0.14,0.1,0.1,0.0,0.52,0.5,21,22,8,16,8,CLE
+22018,202688,Brandon Knight,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.147,27,0.101,1.15,0.563,0.15,0.05,0.1,0.0,0.6,0.563,20,23,9,16,7,CLE
+22018,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.519,81,0.043,0.933,0.462,0.07,0.07,0.03,0.0,0.47,0.462,30,28,12,26,14,CLE
+22018,1628021,David Nwaba,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.796,51,0.098,0.775,0.345,0.22,0.1,0.18,0.05,0.4,0.345,40,31,10,29,19,CLE
+22018,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.685,43,0.081,0.844,0.436,0.07,0.07,0.04,0.0,0.44,0.436,45,38,17,39,22,CLE
+22018,1627790,Ante Zizic,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.808,59,0.094,0.759,0.385,0.06,0.02,0.04,0.04,0.37,0.385,54,41,20,52,32,CLE
+22018,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.565,82,0.051,0.913,0.576,0.09,0.22,0.07,0.02,0.46,0.576,46,42,19,33,14,CLE
+22018,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.409,67,0.084,0.984,0.545,0.18,0.2,0.13,0.1,0.46,0.545,61,60,24,44,20,CLE

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.982,54,0.018,0.4,0.22,0.1,0.1,0.1,0.1,0.2,0.22,0.2,0.0,0.0,0.2,0.1,MIN
+22022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.84,69,0.022,0.786,0.31,0.0,0.07,0.0,0.0,0.29,0.42,0.2,0.0,0.1,0.2,0.1,MIN
+22022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.787,29,0.049,0.833,0.36,0.17,0.11,0.17,0.06,0.39,0.43,0.6,1.0,0.2,0.5,0.3,MIN
+22022,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.592,68,0.058,0.971,0.37,0.14,0.06,0.11,0.06,0.4,0.45,0.5,0.0,0.2,0.4,0.3,MIN
+22022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.235,80,0.035,1.219,0.5,0.09,0.06,0.06,0.03,0.5,0.62,0.4,0.0,0.2,0.4,0.2,MIN
+22022,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.063,79,0.026,1.464,0.56,0.07,0.04,0.07,0.0,0.57,0.78,0.4,1.0,0.2,0.3,0.1,MIN
+22022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.596,71,0.056,0.971,0.42,0.04,0.1,0.04,0.0,0.41,0.53,1.0,1.0,0.4,0.8,0.5,MIN

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626181,Norman Powell,1610612746,LAC,LA Clippers,Handoff,Offensive,0.781,60,0.1,1.103,0.442,0.145,0.051,0.145,0.009,0.496,0.516,117,129,42,95,53,LAC
+22024,201935,James Harden,1610612746,LAC,LA Clippers,Handoff,Offensive,0.652,79,0.052,1.021,0.442,0.093,0.124,0.082,0.01,0.433,0.545,97,99,34,77,43,LAC
+22024,203992,Bogdan Bogdanović,1610612746,LAC,LA Clippers,Handoff,Offensive,0.871,30,0.087,1.179,0.5,0.071,0.071,0.071,0.0,0.5,0.604,28,33,12,24,12,LAC
+22024,1629645,Kevin Porter Jr.,1610612746,LAC,LA Clippers,Handoff,Offensive,0.477,45,0.055,0.931,0.522,0.103,0.103,0.103,0.0,0.517,0.522,29,27,12,23,11,LAC
+22024,1641757,Jordan Miller,1610612746,LAC,LA Clippers,Handoff,Offensive,0.394,37,0.175,0.871,0.5,0.129,0.226,0.129,0.0,0.452,0.5,31,27,10,20,10,LAC
+22024,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Handoff,Offensive,0.221,72,0.052,0.75,0.346,0.094,0.125,0.094,0.031,0.344,0.365,32,24,9,26,17,LAC
+22024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.903,37,0.02,1.2,0.5,0.133,0.0,0.133,0.067,0.533,0.536,15,18,7,14,7,LAC
+22024,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Handoff,Offensive,0.156,20,0.067,0.7,0.25,0.1,0.1,0.1,0.0,0.3,0.313,10,7,2,8,6,LAC

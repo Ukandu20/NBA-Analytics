@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,3,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
+42019,1629729,Josh Reaves,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
+42019,203077,Michael Kidd-Gilchrist,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.086,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0,DAL
+42019,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.075,1.0,0.67,0.0,0.25,0.0,0.0,0.5,0.67,4,4,2,3,1,DAL
+42019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.049,1.5,1.0,0.0,0.25,0.0,0.0,0.75,1.0,4,6,3,3,0,DAL
+42019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.051,1.0,0.4,0.17,0.0,0.17,0.0,0.5,0.4,6,6,2,5,3,DAL
+42019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.123,1.125,0.67,0.12,0.25,0.12,0.12,0.5,0.67,8,9,4,6,2,DAL
+42019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.099,1.25,0.57,0.12,0.0,0.12,0.0,0.62,0.57,8,10,4,7,3,DAL
+42019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.141,1.556,0.78,0.0,0.0,0.0,0.0,0.78,0.78,9,14,7,9,2,DAL

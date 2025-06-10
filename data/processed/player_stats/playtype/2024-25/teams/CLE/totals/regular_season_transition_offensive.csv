@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.672,71,0.189,1.199,0.51,0.124,0.095,0.121,0.026,0.503,0.63,306,367,126,247,121,CLE
+22024,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.611,75,0.161,1.169,0.524,0.106,0.127,0.097,0.034,0.492,0.638,236,276,99,189,90,CLE
+22024,1629660,Ty Jerome,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.684,70,0.172,1.205,0.518,0.098,0.083,0.076,0.015,0.515,0.627,132,159,57,110,53,CLE
+22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.985,82,0.111,1.583,0.833,0.208,0.052,0.208,0.073,0.802,0.833,96,152,65,78,13,CLE
+22024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.807,71,0.197,1.28,0.477,0.011,0.043,0.011,0.0,0.462,0.665,93,119,42,88,46,CLE
+22024,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.593,38,0.24,1.161,0.544,0.161,0.161,0.151,0.054,0.505,0.647,93,108,37,68,31,CLE
+22024,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.361,59,0.171,1.058,0.392,0.038,0.019,0.038,0.038,0.385,0.529,52,55,20,51,31,CLE

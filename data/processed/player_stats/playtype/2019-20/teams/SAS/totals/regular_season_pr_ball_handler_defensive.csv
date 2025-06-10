@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.995,53,0.013,0.333,0.182,0.0,0.083,0.0,0.0,0.167,0.182,12,4,2,11,9,SAS
+22019,201960,DeMarre Carroll,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.365,13,0.208,0.9,0.571,0.0,0.3,0.0,0.0,0.4,0.643,10,9,4,7,3,SAS
+22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.97,67,0.093,0.51,0.237,0.08,0.176,0.08,0.0,0.255,0.263,51,26,9,38,29,SAS
+22019,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.257,17,0.267,0.964,0.524,0.07,0.214,0.07,0.04,0.429,0.595,28,27,11,21,10,SAS
+22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.678,63,0.097,0.818,0.375,0.11,0.182,0.09,0.02,0.364,0.469,44,36,12,32,20,SAS
+22019,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.171,57,0.258,1.017,0.462,0.07,0.1,0.07,0.03,0.433,0.538,60,61,24,52,28,SAS
+22019,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.161,61,0.303,1.021,0.478,0.16,0.167,0.14,0.04,0.448,0.536,96,98,33,69,36,SAS
+22019,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.619,68,0.295,0.842,0.413,0.09,0.109,0.07,0.02,0.399,0.447,183,154,62,150,88,SAS
+22019,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.288,63,0.327,0.95,0.43,0.11,0.083,0.09,0.02,0.439,0.466,180,171,64,149,85,SAS
+22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.657,66,0.412,0.824,0.371,0.09,0.118,0.05,0.01,0.371,0.424,221,182,66,178,112,SAS
+22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.431,66,0.456,0.893,0.458,0.07,0.16,0.07,0.02,0.415,0.506,318,284,114,249,135,SAS
+22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.353,68,0.445,0.919,0.424,0.11,0.113,0.09,0.01,0.432,0.464,382,351,128,302,174,SAS

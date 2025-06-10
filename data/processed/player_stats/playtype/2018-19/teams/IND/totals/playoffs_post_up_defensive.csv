@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.018,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,IND
+42018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.041,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0,IND
+42018,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,3,0.286,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,IND
+42018,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.115,0.333,0.0,0.33,0.0,0.33,0.0,0.33,0.0,3,1,0,2,2,IND
+42018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.048,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,IND
+42018,201954,Darren Collison,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.091,0.667,1.0,0.0,0.67,0.0,0.0,0.33,1.0,3,2,1,1,0,IND
+42018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Postup,Defensive,0.0,4,0.067,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,3,4,2,3,1,IND

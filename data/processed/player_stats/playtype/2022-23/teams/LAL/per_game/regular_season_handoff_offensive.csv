@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.989,64,0.04,1.536,0.667,0.286,0.107,0.286,0.143,0.643,0.738,0.4,0.7,0.2,0.3,0.1,LAL
+22022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.218,55,0.034,0.765,0.326,0.039,0.078,0.039,0.02,0.314,0.402,0.9,0.7,0.3,0.8,0.6,LAL
+22022,1629022,Lonnie Walker IV,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.882,56,0.037,1.217,0.563,0.217,0.13,0.217,0.043,0.565,0.625,0.4,0.5,0.2,0.3,0.1,LAL
+22022,1627736,Malik Beasley,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.789,26,0.082,1.12,0.417,0.04,0.04,0.04,0.04,0.4,0.583,1.0,1.1,0.4,0.9,0.5,LAL
+22022,1629134,Kendrick Nunn,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.864,39,0.073,1.19,0.429,0.0,0.0,0.0,0.0,0.429,0.595,0.5,0.6,0.2,0.5,0.3,LAL
+22022,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.089,66,0.042,0.649,0.31,0.081,0.162,0.081,0.027,0.297,0.345,0.6,0.4,0.1,0.4,0.3,LAL
+22022,201566,Russell Westbrook,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.514,52,0.017,0.941,0.333,0.294,0.176,0.294,0.0,0.471,0.444,0.3,0.3,0.1,0.2,0.1,LAL
+22022,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.192,17,0.071,0.75,0.375,0.1,0.15,0.1,0.05,0.35,0.406,1.2,0.9,0.4,0.9,0.6,LAL
+22022,1630346,Matt Ryan,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.758,12,0.185,1.1,0.429,0.1,0.2,0.1,0.0,0.4,0.643,0.8,0.9,0.3,0.6,0.3,LAL
+22022,1628972,Troy Brown Jr.,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.337,76,0.024,0.846,0.273,0.077,0.077,0.077,0.0,0.308,0.409,0.2,0.1,0.0,0.1,0.1,LAL

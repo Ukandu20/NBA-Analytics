@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.643,5,0.571,1.375,0.727,0.083,0.0,0.083,0.0,0.708,0.727,4.8,6.6,3.4,4.4,1.0,CLE
+42022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.1,5,0.281,1.0,0.692,0.0,0.278,0.0,0.0,0.5,0.692,3.6,3.6,1.6,2.6,1.0,CLE
+42022,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.0,5,0.167,1.6,1.0,0.2,0.2,0.2,0.0,0.8,1.0,1.0,1.6,0.6,0.6,0.0,CLE
+42022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.0,5,0.037,1.5,1.0,0.0,0.25,0.0,0.0,0.75,1.0,0.8,1.2,0.6,0.6,0.0,CLE
+42022,201577,Robin Lopez,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.0,2,0.4,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.0,1.0,2.0,0.5,0.5,0.0,CLE
+42022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.0,5,0.014,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,CLE
+42022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.0,5,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,CLE

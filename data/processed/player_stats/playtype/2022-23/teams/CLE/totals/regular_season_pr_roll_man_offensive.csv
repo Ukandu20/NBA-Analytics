@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.453,79,0.213,1.092,0.578,0.176,0.107,0.168,0.04,0.55,0.593,262,286,115,199,84,CLE
+22022,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.553,68,0.245,1.149,0.611,0.109,0.109,0.1,0.02,0.577,0.614,201,231,99,162,63,CLE
+22022,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.398,42,0.134,1.063,0.386,0.063,0.042,0.042,0.02,0.396,0.534,48,51,17,44,27,CLE
+22022,201577,Robin Lopez,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.217,17,0.259,0.929,0.545,0.071,0.214,0.071,0.071,0.429,0.545,14,13,6,11,5,CLE
+22022,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.897,62,0.032,1.364,0.6,0.0,0.091,0.0,0.0,0.545,0.75,11,15,6,10,4,CLE
+22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.204,68,0.01,0.882,0.313,0.059,0.0,0.059,0.0,0.353,0.406,17,15,5,16,11,CLE
+22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.116,77,0.03,0.789,0.25,0.105,0.053,0.053,0.0,0.316,0.344,19,15,4,16,12,CLE
+22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.178,75,0.015,0.857,0.333,0.143,0.071,0.143,0.07,0.357,0.417,14,12,4,12,8,CLE
+22022,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.033,44,0.093,0.526,0.222,0.0,0.053,0.0,0.0,0.211,0.278,19,10,4,18,14,CLE
+22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.062,69,0.008,0.667,0.3,0.0,0.167,0.0,0.0,0.25,0.4,12,8,3,10,7,CLE

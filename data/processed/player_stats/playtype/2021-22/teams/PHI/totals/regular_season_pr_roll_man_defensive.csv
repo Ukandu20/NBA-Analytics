@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,1.0,55,0.032,0.231,0.077,0.0,0.0,0.0,0.0,0.08,0.115,13,3,1,13,12,PHI
+22021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.799,67,0.033,0.786,0.333,0.0,0.14,0.0,0.0,0.29,0.458,14,11,4,12,8,PHI
+22021,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.597,45,0.037,0.941,0.429,0.0,0.18,0.0,0.0,0.35,0.571,17,16,6,14,8,PHI
+22021,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.428,66,0.025,1.056,0.471,0.06,0.0,0.06,0.0,0.5,0.529,18,19,8,17,9,PHI
+22021,203083,Andre Drummond,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.465,49,0.05,1.04,0.474,0.08,0.16,0.08,0.0,0.44,0.605,25,26,9,19,10,PHI
+22021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.743,76,0.058,0.829,0.32,0.14,0.2,0.11,0.06,0.31,0.42,35,29,8,25,17,PHI
+22021,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.017,62,0.038,1.667,0.65,0.0,0.05,0.0,0.0,0.62,0.875,21,35,13,20,7,PHI
+22021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.484,73,0.046,1.029,0.438,0.03,0.03,0.03,0.0,0.41,0.547,34,35,14,32,18,PHI
+22021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.227,75,0.038,1.229,0.552,0.14,0.06,0.14,0.03,0.57,0.621,35,43,16,29,13,PHI
+22021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.842,68,0.072,0.741,0.329,0.02,0.09,0.02,0.01,0.31,0.401,85,63,25,76,51,PHI

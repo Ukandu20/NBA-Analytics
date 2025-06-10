@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.194,15,0.317,1.196,0.629,0.235,0.098,0.235,0.02,0.627,0.629,51,61,22,35,13,MIN
+42023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.583,16,0.081,1.357,0.8,0.214,0.214,0.214,0.143,0.643,0.8,14,19,8,10,2,MIN
+42023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.229,15,0.137,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,10,12,6,9,3,MIN
+42023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.139,16,0.035,1.1,0.556,0.1,0.0,0.1,0.0,0.6,0.556,10,11,5,9,4,MIN

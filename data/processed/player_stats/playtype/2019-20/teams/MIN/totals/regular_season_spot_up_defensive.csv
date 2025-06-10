@@ -1,0 +1,21 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203943,Noah Vonleh,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.408,29,0.096,1.048,0.4,0.05,0.048,0.05,0.05,0.381,0.525,21,22,8,20,12,MIN
+22019,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.547,14,0.202,1.0,0.455,0.08,0.154,0.08,0.08,0.385,0.568,26,26,10,22,12,MIN
+22019,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.878,30,0.165,0.818,0.333,0.06,0.061,0.06,0.03,0.333,0.4,33,27,10,30,20,MIN
+22019,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.969,31,0.131,0.683,0.263,0.02,0.049,0.02,0.0,0.268,0.342,41,28,10,38,28,MIN
+22019,1628395,Jordan Bell,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.803,20,0.333,0.833,0.39,0.03,0.067,0.03,0.03,0.367,0.45,30,25,11,28,17,MIN
+22019,1629103,Kelan Martin,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.886,31,0.224,0.811,0.333,0.08,0.135,0.08,0.03,0.324,0.417,37,30,10,30,20,MIN
+22019,1626203,Treveon Graham,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.641,33,0.115,0.97,0.407,0.06,0.121,0.03,0.0,0.364,0.537,33,32,11,27,16,MIN
+22019,1627774,Jake Layman,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.748,23,0.225,0.921,0.394,0.05,0.079,0.05,0.0,0.395,0.47,38,35,13,33,20,MIN
+22019,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.92,46,0.106,0.774,0.32,0.0,0.057,0.0,0.0,0.302,0.41,53,41,16,50,34,MIN
+22019,201949,James Johnson,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.753,14,0.286,0.92,0.362,0.02,0.04,0.02,0.0,0.36,0.479,50,46,17,47,30,MIN
+22019,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.069,37,0.226,1.295,0.5,0.02,0.114,0.02,0.0,0.455,0.724,44,57,19,38,19,MIN
+22019,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.078,14,0.317,1.283,0.488,0.04,0.043,0.02,0.02,0.478,0.651,46,59,21,43,22,MIN
+22019,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.408,12,0.417,1.048,0.411,0.03,0.079,0.03,0.0,0.397,0.563,63,66,23,56,33,MIN
+22019,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.202,34,0.222,1.145,0.397,0.03,0.013,0.03,0.0,0.408,0.568,76,87,29,73,44,MIN
+22019,203894,Shabazz Napier,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.12,36,0.218,1.219,0.438,0.07,0.055,0.05,0.0,0.452,0.617,73,89,28,64,36,MIN
+22019,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.178,35,0.105,1.173,0.465,0.06,0.062,0.04,0.0,0.469,0.62,81,95,33,71,38,MIN
+22019,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.504,63,0.219,1.009,0.352,0.1,0.066,0.09,0.0,0.387,0.494,106,107,31,88,57,MIN
+22019,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.845,48,0.331,0.861,0.313,0.05,0.019,0.05,0.0,0.342,0.412,158,136,46,147,101,MIN
+22019,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.345,62,0.193,1.07,0.411,0.08,0.055,0.07,0.01,0.43,0.549,128,137,46,112,66,MIN
+22019,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.141,42,0.257,1.206,0.444,0.05,0.04,0.05,0.02,0.444,0.607,126,152,52,117,65,MIN

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,101150,Lou Williams,1610612746,LAC,LA Clippers,Handoff,Offensive,0.552,75,0.068,0.942,0.457,0.106,0.135,0.087,0.019,0.433,0.494,104,98,37,81,44,LAC
+22018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Handoff,Offensive,0.495,68,0.051,0.915,0.364,0.169,0.119,0.119,0.034,0.407,0.42,59,54,16,44,28,LAC
+22018,202699,Tobias Harris,1610612746,LAC,LA Clippers,Handoff,Offensive,0.225,55,0.054,0.737,0.354,0.07,0.088,0.053,0.0,0.368,0.375,57,42,17,48,31,LAC
+22018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,Handoff,Offensive,0.259,82,0.05,0.766,0.368,0.106,0.149,0.064,0.064,0.34,0.408,47,36,14,38,24,LAC
+22018,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Handoff,Offensive,0.409,25,0.128,0.871,0.407,0.032,0.097,0.0,0.0,0.387,0.481,31,27,11,27,16,LAC
+22018,202340,Avery Bradley,1610612746,LAC,LA Clippers,Handoff,Offensive,0.038,49,0.11,0.463,0.244,0.019,0.148,0.019,0.0,0.222,0.267,54,25,11,45,34,LAC
+22018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Handoff,Offensive,0.604,78,0.037,0.957,0.429,0.0,0.087,0.0,0.0,0.391,0.524,23,22,9,21,12,LAC
+22018,202066,Garrett Temple,1610612746,LAC,LA Clippers,Handoff,Offensive,0.066,26,0.097,0.538,0.25,0.0,0.077,0.0,0.0,0.231,0.292,13,7,3,12,9,LAC
+22018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Handoff,Offensive,0.049,62,0.043,0.5,0.273,0.0,0.083,0.0,0.0,0.25,0.273,12,6,3,11,8,LAC

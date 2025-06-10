@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.656,67,0.312,1.082,0.416,0.032,0.071,0.032,0.009,0.4,0.57,340,368,128,308,180,TOR
+22022,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.775,66,0.288,1.146,0.425,0.042,0.029,0.039,0.016,0.427,0.572,309,354,124,292,168,TOR
+22022,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.444,77,0.189,0.992,0.394,0.033,0.037,0.033,0.008,0.394,0.502,241,239,89,226,137,TOR
+22022,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.219,71,0.157,0.883,0.336,0.083,0.068,0.083,0.023,0.353,0.44,266,235,78,232,154,TOR
+22022,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.564,69,0.159,1.041,0.38,0.014,0.041,0.014,0.0,0.369,0.544,217,226,78,205,127,TOR
+22022,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.491,76,0.291,1.011,0.357,0.059,0.037,0.048,0.005,0.378,0.5,188,190,61,171,110,TOR
+22022,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.282,55,0.258,0.917,0.368,0.053,0.068,0.053,0.0,0.376,0.47,133,122,43,117,74,TOR
+22022,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.155,53,0.379,0.832,0.304,0.037,0.019,0.028,0.009,0.318,0.417,107,89,31,102,71,TOR
+22022,1630625,Dalano Banton,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.472,23,0.206,1.0,0.346,0.0,0.0,0.0,0.0,0.346,0.5,26,26,9,26,17,TOR
+22022,1627823,Juancho Hernangomez,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.184,42,0.353,0.854,0.298,0.0,0.021,0.0,0.0,0.292,0.436,48,41,14,47,33,TOR
+22022,201152,Thaddeus Young,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.129,54,0.171,0.814,0.333,0.047,0.047,0.047,0.0,0.349,0.41,43,35,13,39,26,TOR
+22022,203115,Will Barton,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.108,16,0.373,0.774,0.29,0.0,0.0,0.0,0.0,0.29,0.387,31,24,9,31,22,TOR

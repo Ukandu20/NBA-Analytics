@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.718,35,0.227,0.983,0.432,0.126,0.097,0.12,0.023,0.446,0.478,5.0,4.9,1.7,4.0,2.3,OKC
+22020,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.31,55,0.102,0.769,0.328,0.154,0.132,0.143,0.022,0.374,0.381,1.7,1.3,0.4,1.2,0.8,OKC
+22020,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.976,66,0.054,1.286,0.708,0.0,0.143,0.0,0.0,0.607,0.75,0.4,0.5,0.3,0.4,0.1,OKC
+22020,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.488,32,0.081,0.848,0.393,0.182,0.03,0.182,0.061,0.455,0.393,1.0,0.9,0.3,0.9,0.5,OKC
+22020,201143,Al Horford,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.544,28,0.063,0.88,0.5,0.0,0.2,0.0,0.0,0.4,0.55,0.9,0.8,0.4,0.7,0.4,OKC
+22020,1630177,Theo Maledon,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.19,65,0.043,0.629,0.25,0.2,0.171,0.2,0.057,0.286,0.271,0.5,0.3,0.1,0.4,0.3,OKC
+22020,1629676,Isaiah Roby,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.121,61,0.064,0.553,0.296,0.079,0.211,0.079,0.0,0.289,0.296,0.6,0.3,0.1,0.4,0.3,OKC
+22020,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.181,45,0.053,0.607,0.318,0.071,0.179,0.036,0.036,0.286,0.341,0.6,0.4,0.2,0.5,0.3,OKC
+22020,201588,George Hill,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.923,14,0.099,1.143,0.571,0.0,0.0,0.0,0.0,0.571,0.571,1.0,1.1,0.6,1.0,0.4,OKC
+22020,1629660,Ty Jerome,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.117,33,0.083,0.552,0.25,0.069,0.103,0.069,0.0,0.276,0.25,0.9,0.5,0.2,0.7,0.5,OKC
+22020,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.044,52,0.05,0.41,0.2,0.077,0.154,0.077,0.0,0.205,0.233,0.8,0.3,0.1,0.6,0.5,OKC

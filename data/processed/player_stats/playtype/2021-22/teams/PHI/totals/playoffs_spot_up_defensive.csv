@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.0,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
+42021,200794,Paul Millsap,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.0,1,0.667,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,PHI
+42021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.0,9,0.429,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,6,9,3,6,3,PHI
+42021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.789,12,0.275,0.857,0.33,0.07,0.07,0.07,0.0,0.36,0.42,14,12,4,12,8,PHI
+42021,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.436,12,0.182,1.083,0.36,0.08,0.0,0.08,0.0,0.42,0.5,12,13,4,11,7,PHI
+42021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.916,12,0.4,0.7,0.26,0.05,0.05,0.05,0.05,0.25,0.34,20,14,5,19,14,PHI
+42021,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.955,9,0.475,0.552,0.22,0.0,0.07,0.0,0.0,0.21,0.3,29,16,6,27,21,PHI
+42021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.241,10,0.162,1.188,0.43,0.12,0.0,0.12,0.06,0.47,0.53,32,38,13,30,17,PHI
+42021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.684,12,0.25,0.927,0.32,0.05,0.02,0.05,0.05,0.32,0.45,41,38,13,40,27,PHI
+42021,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.842,12,0.438,0.837,0.32,0.06,0.1,0.08,0.02,0.31,0.44,49,41,13,41,28,PHI
+42021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.584,12,0.249,1.0,0.38,0.0,0.07,0.0,0.0,0.36,0.54,42,42,15,39,24,PHI
+42021,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.333,12,0.381,1.125,0.43,0.0,0.02,0.0,0.0,0.42,0.57,48,54,20,47,27,PHI

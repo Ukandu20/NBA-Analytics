@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629626,Bol Bol,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,4,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,DEN
+42019,1628966,Keita Bates-Diop,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,5,0.222,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.4,1.0,0.4,0.4,0.0,DEN
+42019,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,12,0.133,0.667,0.4,0.0,0.17,0.0,0.0,0.33,0.4,0.5,0.0,0.2,0.4,0.3,DEN
+42019,203584,Troy Daniels,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,6,0.167,2.5,1.0,0.0,0.0,0.0,0.0,1.0,1.25,0.3,1.0,0.3,0.3,0.0,DEN
+42019,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,19,0.064,1.143,0.5,0.0,0.14,0.0,0.0,0.43,0.67,0.4,0.0,0.2,0.3,0.2,DEN
+42019,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.678,14,0.137,0.75,0.27,0.19,0.12,0.19,0.0,0.38,0.27,1.1,1.0,0.2,0.8,0.6,DEN
+42019,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.492,19,0.09,0.929,0.38,0.07,0.0,0.07,0.0,0.43,0.42,0.7,1.0,0.3,0.7,0.4,DEN
+42019,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.966,19,0.178,0.481,0.2,0.11,0.15,0.11,0.0,0.26,0.22,1.4,1.0,0.2,1.1,0.8,DEN
+42019,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.864,19,0.102,0.64,0.37,0.04,0.2,0.04,0.0,0.32,0.39,1.3,1.0,0.4,1.0,0.6,DEN
+42019,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.644,19,0.098,0.821,0.37,0.04,0.0,0.04,0.0,0.39,0.39,1.5,1.0,0.5,1.4,0.9,DEN
+42019,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.017,19,0.195,1.529,0.64,0.29,0.18,0.29,0.12,0.59,0.73,0.9,1.0,0.4,0.6,0.2,DEN
+42019,203924,Jerami Grant,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.365,19,0.094,1.0,0.42,0.14,0.11,0.14,0.11,0.39,0.48,1.5,1.0,0.5,1.3,0.7,DEN
+42019,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.153,19,0.178,1.154,0.63,0.08,0.15,0.12,0.0,0.54,0.71,1.4,2.0,0.6,1.0,0.4,DEN

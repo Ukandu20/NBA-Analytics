@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.757,66,0.158,0.996,0.408,0.079,0.067,0.083,0.013,0.417,0.507,240,239,84,206,122,BOS
+22019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.838,56,0.067,1.041,0.421,0.176,0.081,0.162,0.027,0.473,0.491,74,77,24,57,33,BOS
+22019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.429,57,0.074,0.819,0.375,0.108,0.06,0.072,0.036,0.386,0.403,83,68,27,72,45,BOS
+22019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.943,52,0.063,1.148,0.535,0.111,0.093,0.111,0.0,0.537,0.581,54,62,23,43,20,BOS
+22019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.409,60,0.062,0.811,0.333,0.17,0.113,0.132,0.019,0.377,0.372,53,43,13,39,26,BOS
+22019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.045,71,0.032,0.5,0.091,0.188,0.125,0.188,0.0,0.25,0.091,16,8,1,11,10,BOS

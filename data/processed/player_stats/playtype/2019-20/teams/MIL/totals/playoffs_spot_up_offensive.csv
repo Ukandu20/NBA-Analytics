@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.678,10,0.331,1.205,0.45,0.023,0.068,0.023,0.0,0.432,0.638,44,53,18,40,22,MIL
+42019,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.896,10,0.493,1.412,0.533,0.059,0.059,0.029,0.0,0.529,0.767,34,48,16,30,14,MIL
+42019,101107,Marvin Williams,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.835,10,0.451,1.348,0.478,0.0,0.0,0.0,0.0,0.478,0.674,23,31,11,23,12,MIL
+42019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.157,10,0.169,0.795,0.297,0.026,0.026,0.026,0.0,0.308,0.392,39,31,11,37,26,MIL
+42019,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.737,10,0.253,1.25,0.5,0.042,0.0,0.042,0.042,0.5,0.625,24,30,12,24,12,MIL
+42019,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.737,9,0.183,1.25,0.5,0.125,0.0,0.125,0.042,0.542,0.568,24,30,11,22,11,MIL
+42019,2594,Kyle Korver,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.965,10,0.278,1.733,0.727,0.133,0.2,0.133,0.067,0.6,1.0,15,26,8,11,3,MIL
+42019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.313,9,0.1,0.957,0.45,0.0,0.13,0.0,0.0,0.391,0.55,23,22,9,20,11,MIL
+42019,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.816,10,0.229,1.313,0.571,0.063,0.063,0.063,0.0,0.563,0.714,16,21,8,14,6,MIL
+42019,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.763,10,0.366,1.267,0.467,0.0,0.0,0.0,0.0,0.467,0.633,15,19,7,15,8,MIL
+42019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.0,3,0.364,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,MIL
+42019,201577,Robin Lopez,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.0,3,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIL
+42019,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL

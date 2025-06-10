@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,2403,Nene,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.0,7,0.09,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,HOU
+42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.974,11,0.23,0.419,0.18,0.06,0.03,0.06,0.0,0.23,0.2,31,13,5,28,23,HOU
+42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.018,8,0.37,1.5,0.56,0.1,0.0,0.1,0.0,0.6,0.72,10,15,5,9,4,HOU
+42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.078,11,0.35,1.455,0.5,0.09,0.0,0.09,0.0,0.55,0.7,11,16,5,10,5,HOU
+42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.675,10,0.2,0.889,0.38,0.0,0.11,0.0,0.0,0.33,0.5,18,16,6,16,10,HOU
+42018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.845,11,0.16,0.696,0.29,0.04,0.04,0.04,0.0,0.26,0.38,23,16,6,21,15,HOU
+42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.872,11,0.33,0.657,0.24,0.06,0.0,0.03,0.0,0.29,0.3,35,23,8,33,25,HOU
+42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.735,7,0.58,0.794,0.28,0.15,0.12,0.15,0.0,0.35,0.36,34,27,7,25,18,HOU
+42018,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.496,11,0.32,0.981,0.38,0.0,0.04,0.0,0.0,0.37,0.51,52,51,19,50,31,HOU
+42018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.479,11,0.42,0.985,0.38,0.03,0.05,0.03,0.0,0.38,0.5,66,65,23,61,38,HOU

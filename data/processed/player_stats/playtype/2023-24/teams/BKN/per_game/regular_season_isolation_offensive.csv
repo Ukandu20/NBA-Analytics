@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.545,66,0.145,0.953,0.38,0.123,0.047,0.118,0.019,0.427,0.422,3.2,3.0,1.0,2.7,1.7,BKN
+22023,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.677,48,0.169,1.0,0.4,0.179,0.085,0.179,0.019,0.462,0.469,2.2,2.2,0.7,1.7,1.0,BKN
+22023,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.234,82,0.075,0.723,0.358,0.059,0.151,0.05,0.008,0.336,0.389,1.5,1.0,0.4,1.2,0.7,BKN
+22023,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.422,29,0.142,0.879,0.472,0.076,0.121,0.076,0.0,0.455,0.481,2.3,2.0,0.9,1.8,1.0,BKN
+22023,1629022,Lonnie Walker IV,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.475,58,0.061,0.914,0.31,0.143,0.029,0.143,0.0,0.4,0.414,0.6,0.6,0.2,0.5,0.3,BKN
+22023,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.906,58,0.035,1.16,0.556,0.16,0.16,0.16,0.04,0.52,0.611,0.4,0.5,0.2,0.3,0.1,BKN
+22023,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.963,63,0.051,1.286,0.733,0.143,0.143,0.143,0.0,0.667,0.733,0.3,0.4,0.2,0.2,0.1,BKN
+22023,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.41,71,0.041,0.871,0.455,0.226,0.097,0.226,0.032,0.452,0.455,0.4,0.4,0.1,0.3,0.2,BKN
+22023,1628372,Dennis Smith Jr.,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.09,56,0.102,0.568,0.229,0.114,0.091,0.045,0.0,0.295,0.229,0.8,0.4,0.1,0.6,0.5,BKN
+22023,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.128,15,0.102,0.636,0.333,0.182,0.091,0.182,0.091,0.364,0.333,0.7,0.5,0.2,0.6,0.4,BKN

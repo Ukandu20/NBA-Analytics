@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,201935,James Harden,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.471,79,0.27,0.843,0.391,0.111,0.221,0.101,0.024,0.358,0.466,503,424,136,348,212,LAC
+22024,1626181,Norman Powell,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.9,60,0.188,1.05,0.483,0.109,0.109,0.105,0.009,0.477,0.546,220,231,84,174,90,LAC
+22024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.692,37,0.214,0.931,0.449,0.044,0.101,0.044,0.013,0.421,0.496,159,148,62,138,76,LAC
+22024,1629645,Kevin Porter Jr.,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.459,45,0.296,0.84,0.438,0.077,0.154,0.071,0.006,0.397,0.475,156,131,53,121,68,LAC
+22024,203992,Bogdan Bogdanović,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.758,30,0.265,0.965,0.5,0.035,0.165,0.035,0.0,0.435,0.566,85,82,34,68,34,LAC
+22024,1630538,Bones Hyland,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.858,20,0.309,1.022,0.378,0.065,0.13,0.043,0.0,0.37,0.554,46,47,14,37,23,LAC
+22024,1629599,Amir Coffey,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.429,72,0.057,0.829,0.414,0.057,0.114,0.057,0.0,0.4,0.431,35,29,12,29,17,LAC
+22024,1627739,Kris Dunn,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.224,74,0.056,0.724,0.455,0.0,0.241,0.0,0.0,0.345,0.477,29,21,10,22,12,LAC
+22024,1641757,Jordan Miller,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.719,37,0.113,0.95,0.389,0.15,0.0,0.1,0.05,0.45,0.389,20,19,7,18,11,LAC
+22024,1629611,Terance Mann,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.505,37,0.089,0.857,0.412,0.095,0.095,0.095,0.0,0.381,0.471,21,18,7,17,10,LAC
+22024,1627884,Derrick Jones Jr.,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.206,77,0.02,0.714,0.308,0.143,0.0,0.143,0.071,0.357,0.308,14,10,4,13,9,LAC

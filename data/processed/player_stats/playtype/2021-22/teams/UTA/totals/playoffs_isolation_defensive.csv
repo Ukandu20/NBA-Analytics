@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,6,0.04,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,UTA
+42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,6,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,0,0,4,4,UTA
+42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,6,0.1,0.5,0.17,0.12,0.12,0.12,0.0,0.25,0.17,8,4,1,6,5,UTA
+42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Isolation,Defensive,1.0,6,0.32,0.222,0.07,0.06,0.17,0.06,0.0,0.11,0.07,18,4,1,14,13,UTA
+42021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,6,0.15,0.833,0.4,0.0,0.17,0.0,0.0,0.33,0.5,6,5,2,5,3,UTA
+42021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,4,0.25,2.0,1.0,0.67,0.0,0.67,0.0,1.0,1.0,3,6,1,1,0,UTA
+42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.507,6,0.22,0.909,0.4,0.09,0.0,0.09,0.0,0.45,0.4,11,10,4,10,6,UTA
+42021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.132,6,0.19,1.25,0.6,0.17,0.0,0.17,0.0,0.67,0.6,12,15,6,10,4,UTA
+42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.426,6,0.26,0.957,0.37,0.17,0.09,0.17,0.09,0.39,0.45,23,22,7,19,12,UTA
+42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.0,6,0.14,1.923,0.75,0.15,0.0,0.15,0.08,0.77,0.92,13,25,9,12,3,UTA

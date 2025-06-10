@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Transition,Offensive,0.798,17,0.159,1.328,0.667,0.234,0.078,0.203,0.109,0.641,0.686,64,85,34,51,17,MIA
+42021,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Transition,Offensive,0.774,18,0.15,1.297,0.769,0.162,0.162,0.162,0.027,0.676,0.769,37,48,20,26,6,MIA
+42021,1629622,Max Strus,1610612748,MIA,Miami Heat,Transition,Offensive,0.881,18,0.152,1.438,0.581,0.063,0.0,0.063,0.031,0.594,0.71,32,46,18,31,13,MIA
+42021,203506,Victor Oladipo,1610612748,MIA,Miami Heat,Transition,Offensive,0.762,15,0.155,1.276,0.591,0.172,0.069,0.172,0.0,0.621,0.659,29,37,13,22,9,MIA
+42021,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Transition,Offensive,0.702,15,0.097,1.238,0.5,0.143,0.095,0.143,0.0,0.524,0.594,21,26,8,16,8,MIA
+42021,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Transition,Offensive,0.157,17,0.22,0.85,0.444,0.0,0.1,0.0,0.0,0.4,0.472,20,17,8,18,10,MIA
+42021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Transition,Offensive,0.071,10,0.159,0.722,0.455,0.056,0.333,0.0,0.0,0.333,0.5,18,13,5,11,6,MIA
+42021,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Transition,Offensive,0.048,18,0.093,0.667,0.273,0.067,0.2,0.067,0.0,0.267,0.364,15,10,3,11,8,MIA
+42021,200782,P.J. Tucker,1610612748,MIA,Miami Heat,Transition,Offensive,0.036,18,0.108,0.643,0.273,0.071,0.143,0.0,0.0,0.286,0.318,14,9,3,11,8,MIA
+42021,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,13,0.115,1.0,0.5,0.143,0.0,0.143,0.0,0.571,0.5,7,7,3,6,3,MIA
+42021,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,9,0.05,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIA
+42021,202693,Markieff Morris,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42021,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,7,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42021,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,14,0.035,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,MIA

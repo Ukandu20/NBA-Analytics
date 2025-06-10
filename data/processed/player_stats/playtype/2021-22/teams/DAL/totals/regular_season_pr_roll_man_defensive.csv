@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.914,79,0.024,0.647,0.308,0.06,0.18,0.06,0.0,0.29,0.346,17,11,4,13,9,DAL
+22021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.754,68,0.028,0.824,0.313,0.06,0.0,0.06,0.0,0.35,0.375,17,14,5,16,11,DAL
+22021,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.525,67,0.04,1.0,0.455,0.07,0.2,0.07,0.0,0.4,0.591,15,15,5,11,6,DAL
+22021,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.195,42,0.043,1.25,0.533,0.06,0.06,0.06,0.06,0.5,0.633,16,20,8,15,7,DAL
+22021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.579,65,0.029,0.955,0.45,0.0,0.09,0.0,0.0,0.41,0.525,22,21,9,20,11,DAL
+22021,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.457,59,0.043,1.043,0.435,0.04,0.0,0.04,0.04,0.43,0.5,23,24,10,23,13,DAL
+22021,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.421,35,0.082,1.063,0.438,0.03,0.0,0.03,0.03,0.44,0.516,32,34,14,32,18,DAL
+22021,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.793,82,0.058,0.787,0.333,0.06,0.04,0.06,0.0,0.36,0.393,47,37,14,42,28,DAL
+22021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.359,80,0.034,1.108,0.429,0.05,0.03,0.05,0.03,0.43,0.543,37,41,15,35,20,DAL

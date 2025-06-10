@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.79,42,0.051,0.727,0.33,0.182,0.0,0.182,0.0,0.364,0.33,0.3,0.2,0.1,0.2,0.1,CHA
+22020,202954,Brad Wanamaker,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.604,22,0.083,0.846,0.56,0.0,0.31,0.0,0.0,0.385,0.61,0.6,0.5,0.2,0.4,0.2,CHA
+22020,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.926,52,0.082,0.583,0.18,0.25,0.12,0.208,0.08,0.292,0.18,0.5,0.3,0.1,0.3,0.3,CHA
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.686,44,0.067,0.8,0.41,0.04,0.12,0.04,0.04,0.36,0.43,0.6,0.5,0.2,0.5,0.3,CHA
+22020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.633,55,0.06,0.828,0.42,0.069,0.1,0.069,0.0,0.414,0.42,0.5,0.4,0.2,0.4,0.3,CHA
+22020,1628997,Caleb Martin,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.112,53,0.084,1.167,0.44,0.292,0.08,0.167,0.04,0.542,0.5,0.5,0.5,0.1,0.3,0.2,CHA
+22020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.225,51,0.072,1.067,0.48,0.133,0.1,0.1,0.0,0.5,0.54,0.6,0.6,0.2,0.5,0.2,CHA
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.591,69,0.05,0.854,0.47,0.122,0.17,0.098,0.02,0.439,0.47,0.6,0.5,0.2,0.4,0.2,CHA
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.505,47,0.141,0.911,0.52,0.111,0.2,0.089,0.0,0.422,0.58,1.0,0.9,0.3,0.7,0.3,CHA
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.496,48,0.113,0.915,0.43,0.021,0.11,0.021,0.02,0.383,0.5,1.0,0.9,0.4,0.9,0.5,CHA
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.493,66,0.09,0.915,0.41,0.119,0.1,0.119,0.05,0.407,0.47,0.9,0.8,0.3,0.7,0.4,CHA
+22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.485,66,0.152,0.918,0.44,0.071,0.09,0.071,0.0,0.424,0.5,1.3,1.2,0.5,1.1,0.6,CHA
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.237,64,0.14,1.059,0.51,0.167,0.09,0.167,0.02,0.529,0.54,1.6,1.7,0.6,1.2,0.6,CHA

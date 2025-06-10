@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.637,79,0.284,1.085,0.399,0.039,0.03,0.039,0.014,0.402,0.545,363,394,137,343,206,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.795,78,0.174,1.152,0.433,0.039,0.039,0.032,0.019,0.427,0.581,309,356,126,291,165,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.304,63,0.344,0.938,0.336,0.069,0.048,0.069,0.014,0.356,0.463,289,271,87,259,172,ATL
+22023,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.688,55,0.169,1.103,0.429,0.026,0.077,0.026,0.0,0.41,0.586,78,86,30,70,40,ATL
+22023,1630249,Vít Krejčí,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.997,22,0.378,1.5,0.543,0.042,0.021,0.042,0.021,0.542,0.739,48,72,25,46,21,ATL
+22023,202083,Wesley Matthews,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.685,36,0.509,1.102,0.4,0.034,0.034,0.034,0.0,0.407,0.555,59,65,22,55,33,ATL
+22023,201988,Patty Mills,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.899,19,0.441,1.192,0.423,0.0,0.0,0.0,0.0,0.423,0.596,26,31,11,26,15,ATL
+22023,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.71,45,0.065,1.111,0.5,0.222,0.056,0.167,0.056,0.556,0.5,18,20,7,14,7,ATL
+22023,1641723,Kobe Bufkin,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.051,17,0.286,0.633,0.286,0.033,0.067,0.033,0.033,0.267,0.339,30,19,8,28,20,ATL
+22023,1630235,Trent Forrest,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.236,38,0.167,0.9,0.421,0.0,0.05,0.0,0.0,0.4,0.474,20,18,8,19,11,ATL
+22023,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.217,73,0.023,0.889,0.385,0.222,0.056,0.222,0.0,0.5,0.385,18,16,5,13,8,ATL
+22023,1629685,Dylan Windler,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.8,6,0.619,1.154,0.417,0.0,0.077,0.0,0.0,0.385,0.625,13,15,5,12,7,ATL

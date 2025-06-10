@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.068,1.75,0.75,0.25,0.0,0.25,0.25,0.75,0.75,0.8,1.4,0.6,0.8,0.2,CHI
+42021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.089,0.667,0.25,0.222,0.0,0.222,0.111,0.333,0.25,1.8,1.2,0.4,1.6,1.2,CHI
+42021,1627884,Derrick Jones Jr.,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.048,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,CHI
+42021,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.008,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.2,0.4,0.0,0.0,0.0,CHI
+42021,202684,Tristan Thompson,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.2,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,CHI
+42021,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.069,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,CHI
+42021,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,5,0.318,0.286,0.14,0.0,0.0,0.0,0.0,0.143,0.14,1.4,0.4,0.2,1.4,1.2,CHI

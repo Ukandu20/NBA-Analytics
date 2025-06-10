@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.849,5,0.188,1.409,0.733,0.227,0.182,0.227,0.091,0.636,0.8,22,31,11,15,4,LAL
+42024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.524,5,0.144,1.154,0.5,0.077,0.154,0.077,0.0,0.462,0.65,13,15,5,10,5,LAL
+42024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.57,5,0.185,1.167,0.625,0.083,0.25,0.083,0.0,0.5,0.75,12,14,5,8,3,LAL
+42024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.116,5,0.103,0.8,0.3,0.2,0.133,0.133,0.0,0.4,0.4,15,12,3,10,7,LAL
+42024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.012,5,0.324,0.636,0.333,0.0,0.182,0.0,0.0,0.273,0.389,11,7,3,9,6,LAL

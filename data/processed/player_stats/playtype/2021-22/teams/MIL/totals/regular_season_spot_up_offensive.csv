@@ -1,0 +1,22 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.942,66,0.382,1.249,0.452,0.033,0.029,0.033,0.0,0.457,0.633,245,306,104,230,126,MIL
+22021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.855,65,0.438,1.161,0.412,0.008,0.033,0.008,0.004,0.401,0.597,242,281,96,233,137,MIL
+22021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.649,72,0.255,1.05,0.399,0.004,0.035,0.004,0.0,0.388,0.542,258,271,99,248,149,MIL
+22021,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.953,66,0.147,1.268,0.473,0.046,0.031,0.046,0.015,0.474,0.635,194,246,86,182,96,MIL
+22021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.453,62,0.319,0.965,0.389,0.012,0.07,0.012,0.0,0.363,0.519,171,165,61,157,96,MIL
+22021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.614,67,0.082,1.027,0.48,0.095,0.088,0.101,0.02,0.466,0.561,148,152,59,123,64,MIL
+22021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.667,67,0.116,1.064,0.433,0.057,0.092,0.05,0.0,0.426,0.571,141,150,52,120,68,MIL
+22021,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.428,49,0.484,0.959,0.351,0.049,0.057,0.041,0.016,0.352,0.486,122,117,39,111,72,MIL
+22021,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.279,54,0.331,0.876,0.333,0.009,0.088,0.009,0.0,0.31,0.48,113,99,34,102,68,MIL
+22021,1630572,Sandro Mamukelashvili,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.476,29,0.258,0.96,0.333,0.04,0.0,0.04,0.0,0.36,0.479,25,24,8,24,16,MIL
+22021,203918,Rodney Hood,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.12,39,0.486,0.729,0.262,0.029,0.043,0.029,0.0,0.271,0.362,70,51,17,65,48,MIL
+22021,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.994,20,0.264,1.542,0.542,0.0,0.0,0.0,0.0,0.542,0.771,24,37,13,24,11,MIL
+22021,202326,DeMarcus Cousins,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.401,17,0.265,0.949,0.351,0.077,0.026,0.077,0.051,0.359,0.446,39,37,13,37,24,MIL
+22021,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.173,17,0.289,0.783,0.282,0.065,0.087,0.022,0.0,0.304,0.397,46,36,11,39,28,MIL
+22021,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.537,13,0.222,1.0,0.344,0.029,0.029,0.029,0.0,0.353,0.5,34,34,11,32,21,MIL
+22021,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.75,19,0.254,1.1,0.444,0.033,0.067,0.033,0.0,0.433,0.574,30,33,12,27,15,MIL
+22021,1629623,Lindell Wigginton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.537,19,0.318,1.0,0.435,0.107,0.107,0.107,0.036,0.429,0.565,28,28,10,23,13,MIL
+22021,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.02,35,0.094,0.455,0.222,0.0,0.182,0.0,0.0,0.182,0.278,11,5,2,9,7,MIL
+22021,1628400,Semi Ojeleye,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.157,20,0.358,0.759,0.296,0.0,0.069,0.0,0.0,0.276,0.407,29,22,8,27,19,MIL
+22021,1629620,Justin Robinson,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.15,17,0.353,0.75,0.273,0.0,0.083,0.0,0.0,0.25,0.409,24,18,6,22,16,MIL
+22021,1630606,Javonte Smart,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.033,13,0.309,0.529,0.188,0.0,0.059,0.0,0.0,0.176,0.281,17,9,3,16,13,MIL

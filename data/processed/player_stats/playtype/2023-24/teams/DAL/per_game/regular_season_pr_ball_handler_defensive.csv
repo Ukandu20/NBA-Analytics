@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1626158,Richaun Holmes,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.193,16,0.646,1.0,0.508,0.073,0.146,0.073,0.012,0.463,0.569,5.1,5.1,2.1,4.1,2.0,DAL
+22023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.435,29,0.311,0.93,0.418,0.12,0.12,0.11,0.03,0.42,0.462,3.4,3.2,1.1,2.7,1.6,DAL
+22023,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.959,43,0.464,0.659,0.31,0.067,0.14,0.056,0.017,0.302,0.345,4.2,2.7,1.0,3.4,2.3,DAL
+22023,1629684,Grant Williams,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.746,44,0.355,0.834,0.391,0.11,0.135,0.092,0.031,0.387,0.441,3.7,3.1,1.1,2.9,1.8,DAL
+22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.878,58,0.349,0.774,0.385,0.046,0.133,0.041,0.005,0.359,0.429,3.4,2.6,1.1,2.8,1.7,DAL
+22023,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.246,54,0.438,0.982,0.5,0.072,0.168,0.06,0.018,0.443,0.573,3.1,3.0,1.2,2.4,1.2,DAL
+22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.784,78,0.315,0.824,0.42,0.078,0.191,0.059,0.005,0.382,0.473,2.6,2.2,0.8,1.9,1.1,DAL
+22023,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.234,27,0.552,0.989,0.493,0.086,0.138,0.08,0.017,0.454,0.551,6.4,6.4,2.5,5.1,2.6,DAL
+22023,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.264,53,0.603,0.972,0.447,0.098,0.118,0.081,0.024,0.435,0.51,4.6,4.5,1.7,3.8,2.1,DAL
+22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.31,57,0.441,0.961,0.458,0.078,0.113,0.078,0.016,0.44,0.505,4.5,4.3,1.7,3.7,2.0,DAL
+22023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.5,75,0.408,0.915,0.408,0.12,0.095,0.102,0.021,0.424,0.454,3.8,3.5,1.2,3.0,1.8,DAL
+22023,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,PRBallHandler,Defensive,0.632,55,0.54,0.878,0.449,0.084,0.162,0.075,0.014,0.412,0.491,6.3,5.5,2.2,4.8,2.7,DAL

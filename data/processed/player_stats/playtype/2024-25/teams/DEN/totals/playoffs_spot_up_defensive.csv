@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.932,13,0.485,0.606,0.219,0.03,0.0,0.03,0.0,0.242,0.281,33,20,7,32,25,DEN
+42024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.559,14,0.441,0.956,0.375,0.022,0.089,0.022,0.0,0.333,0.538,45,43,15,40,25,DEN
+42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.729,14,0.356,0.849,0.347,0.019,0.075,0.019,0.019,0.321,0.459,53,45,17,49,32,DEN
+42024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.104,14,0.388,1.364,0.56,0.091,0.152,0.091,0.0,0.515,0.78,33,45,14,25,11,DEN
+42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.322,14,0.291,1.135,0.438,0.058,0.038,0.058,0.019,0.442,0.573,52,59,21,48,27,DEN
+42024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.534,14,0.357,0.962,0.343,0.089,0.038,0.089,0.013,0.38,0.464,79,76,24,70,46,DEN
+42024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.568,14,0.437,0.943,0.364,0.023,0.092,0.011,0.0,0.345,0.506,87,82,28,77,49,DEN

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.904,14,0.25,1.478,0.649,0.196,0.022,0.17,0.02,0.67,0.743,46,68,24,37,13,DEN
+42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.157,14,0.096,0.897,0.409,0.138,0.103,0.14,0.0,0.41,0.5,29,26,9,22,13,DEN
+42018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.573,14,0.188,1.143,0.429,0.333,0.048,0.29,0.05,0.52,0.536,21,24,6,14,8,DEN
+42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.723,14,0.09,1.278,0.538,0.222,0.056,0.17,0.0,0.61,0.654,18,23,7,13,6,DEN
+42018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.94,14,0.039,1.538,0.7,0.077,0.154,0.08,0.0,0.62,0.9,13,20,7,10,3,DEN
+42018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.855,14,0.124,1.417,0.636,0.167,0.0,0.17,0.08,0.67,0.636,12,17,7,11,4,DEN
+42018,203115,Will Barton,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,14,0.205,0.515,0.214,0.061,0.091,0.06,0.0,0.24,0.25,33,17,6,28,22,DEN
+42018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.841,14,0.149,1.4,0.714,0.4,0.1,0.3,0.2,0.7,0.714,10,14,5,7,2,DEN
+42018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.145,14,0.171,0.857,0.364,0.143,0.071,0.14,0.0,0.43,0.455,14,12,4,11,7,DEN
+42018,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,3,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DEN

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.478,57,0.185,1.107,0.531,0.067,0.081,0.067,0.01,0.51,0.59,149,165,68,128,60,ORL
+22022,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.467,57,0.183,1.101,0.493,0.202,0.091,0.202,0.05,0.525,0.54,99,109,37,75,38,ORL
+22022,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.783,40,0.233,1.283,0.531,0.167,0.083,0.167,0.07,0.517,0.653,60,77,26,49,23,ORL
+22022,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.217,72,0.036,0.893,0.35,0.196,0.089,0.196,0.0,0.446,0.388,56,50,14,40,26,ORL
+22022,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.674,80,0.022,1.226,0.5,0.226,0.032,0.194,0.1,0.548,0.538,31,38,13,26,13,ORL
+22022,1629626,Bol Bol,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.464,70,0.047,1.1,0.56,0.1,0.1,0.1,0.03,0.533,0.58,30,33,14,25,11,ORL
+22022,1629678,Admiral Schofield,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.742,38,0.129,1.263,0.588,0.053,0.053,0.053,0.0,0.579,0.676,19,24,10,17,7,ORL
+22022,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.41,17,0.165,1.067,0.533,0.0,0.0,0.0,0.0,0.533,0.533,15,16,8,15,7,ORL

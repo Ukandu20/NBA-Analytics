@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.678,73,0.122,0.945,0.471,0.158,0.12,0.16,0.044,0.464,0.486,183,173,66,140,74,NOP
+22018,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.401,67,0.115,0.806,0.375,0.082,0.088,0.08,0.018,0.376,0.413,170,137,54,144,90,NOP
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.754,56,0.077,0.98,0.453,0.157,0.069,0.15,0.069,0.471,0.453,102,100,39,86,47,NOP
+22018,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.657,59,0.098,0.932,0.5,0.091,0.091,0.09,0.0,0.477,0.5,44,41,18,36,18,NOP
+22018,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.17,42,0.049,0.63,0.261,0.111,0.074,0.07,0.037,0.296,0.261,27,17,6,23,17,NOP
+22018,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.885,69,0.027,1.067,0.462,0.067,0.067,0.07,0.0,0.467,0.577,15,16,6,13,7,NOP
+22018,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.663,32,0.031,0.933,0.429,0.0,0.067,0.0,0.0,0.4,0.5,15,14,6,14,8,NOP
+22018,1626174,Christian Wood,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.91,8,0.097,1.083,0.556,0.167,0.083,0.17,0.0,0.583,0.556,12,13,5,9,4,NOP
+22018,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.156,53,0.034,0.619,0.25,0.0,0.048,0.0,0.0,0.238,0.325,21,13,5,20,15,NOP
+22018,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.104,61,0.036,0.579,0.263,0.0,0.0,0.0,0.0,0.263,0.289,19,11,5,19,14,NOP
+22018,1626169,Stanley Johnson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.801,18,0.083,1.0,0.5,0.1,0.1,0.0,0.0,0.5,0.5,10,10,4,8,4,NOP
+22018,204025,Tim Frazier,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.26,47,0.051,0.714,0.417,0.0,0.143,0.0,0.0,0.357,0.417,14,10,5,12,7,NOP

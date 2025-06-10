@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,202692,Alec Burks,1610612752,NYK,New York Knicks,Spotup,Defensive,0.01,20,0.354,1.536,0.519,0.036,0.0,0.036,0.0,0.536,0.759,28,43,14,27,13,NYK
+22023,202711,Bojan Bogdanović,1610612752,NYK,New York Knicks,Spotup,Defensive,0.474,28,0.371,1.058,0.386,0.077,0.077,0.077,0.0,0.404,0.534,52,55,17,44,27,NYK
+22023,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Spotup,Defensive,0.864,25,0.328,0.86,0.329,0.058,0.058,0.058,0.0,0.337,0.441,86,74,25,76,51,NYK
+22023,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Spotup,Defensive,0.586,23,0.264,1.013,0.328,0.128,0.051,0.128,0.0,0.397,0.445,78,79,21,64,43,NYK
+22023,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Spotup,Defensive,0.935,29,0.43,0.79,0.292,0.048,0.048,0.038,0.01,0.305,0.396,105,83,28,96,68,NYK
+22023,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,Spotup,Defensive,0.121,43,0.241,1.231,0.473,0.026,0.038,0.026,0.013,0.462,0.635,78,96,35,74,39,NYK
+22023,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Spotup,Defensive,0.529,46,0.23,1.033,0.404,0.058,0.05,0.058,0.008,0.413,0.528,121,125,44,109,65,NYK
+22023,1630540,Miles McBride,1610612752,NYK,New York Knicks,Spotup,Defensive,0.625,60,0.292,1.0,0.383,0.059,0.02,0.053,0.007,0.401,0.496,152,152,54,141,87,NYK
+22023,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Spotup,Defensive,0.165,69,0.17,1.193,0.467,0.055,0.014,0.048,0.014,0.483,0.591,145,173,64,137,73,NYK
+22023,1628978,Donte DiVincenzo,1610612752,NYK,New York Knicks,Spotup,Defensive,0.571,80,0.348,1.019,0.396,0.049,0.067,0.049,0.011,0.388,0.527,268,273,95,240,145,NYK
+22023,1628404,Josh Hart,1610612752,NYK,New York Knicks,Spotup,Defensive,0.827,80,0.374,0.898,0.35,0.023,0.065,0.02,0.006,0.338,0.474,352,316,113,323,210,NYK

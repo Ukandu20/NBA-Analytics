@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203506,Victor Oladipo,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.863,42,0.029,0.75,0.4,0.0,0.17,0.0,0.0,0.33,0.45,12,9,4,10,6,MIA
+22022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.678,64,0.018,0.917,0.42,0.0,0.0,0.0,0.0,0.42,0.46,12,11,5,12,7,MIA
+22022,201567,Kevin Love,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.667,21,0.095,0.923,0.62,0.15,0.31,0.15,0.08,0.46,0.62,13,12,5,8,3,MIA
+22022,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.907,67,0.029,0.7,0.35,0.0,0.15,0.0,0.0,0.3,0.41,20,14,6,17,11,MIA
+22022,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.787,68,0.028,0.833,0.31,0.11,0.06,0.11,0.06,0.33,0.38,18,15,5,16,11,MIA
+22022,1629622,Max Strus,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.092,80,0.017,1.417,0.7,0.0,0.17,0.0,0.0,0.58,0.85,12,17,7,10,3,MIA
+22022,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.557,54,0.043,1.0,0.45,0.18,0.18,0.18,0.0,0.47,0.55,17,17,5,11,6,MIA
+22022,1628997,Caleb Martin,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.697,71,0.026,0.905,0.47,0.05,0.19,0.05,0.05,0.38,0.53,21,19,8,17,9,MIA
+22022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.557,75,0.044,1.0,0.47,0.05,0.08,0.08,0.03,0.44,0.53,39,39,16,34,18,MIA

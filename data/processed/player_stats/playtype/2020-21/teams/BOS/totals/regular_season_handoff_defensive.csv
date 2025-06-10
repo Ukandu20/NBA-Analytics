@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629750,Javonte Green,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.949,25,0.103,0.538,0.22,0.231,0.154,0.231,0.08,0.231,0.22,13,7,2,9,7,BOS
+22020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.763,16,0.083,0.769,0.25,0.077,0.0,0.077,0.0,0.308,0.33,13,10,3,12,9,BOS
+22020,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.081,56,0.036,1.25,0.58,0.0,0.0,0.0,0.0,0.583,0.62,12,15,7,12,5,BOS
+22020,201952,Jeff Teague,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.379,34,0.066,1.0,0.47,0.118,0.059,0.118,0.06,0.471,0.5,17,17,7,15,8,BOS
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.659,46,0.121,0.852,0.36,0.037,0.037,0.0,0.0,0.37,0.42,27,23,9,25,16,BOS
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.326,63,0.051,1.043,0.45,0.087,0.043,0.087,0.0,0.435,0.55,23,24,9,20,11,BOS
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.045,66,0.053,1.35,0.56,0.1,0.1,0.05,0.0,0.55,0.69,20,27,9,16,7,BOS
+22020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.757,43,0.068,0.771,0.37,0.0,0.143,0.0,0.0,0.314,0.45,35,27,11,30,19,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.237,49,0.078,1.091,0.42,0.045,0.068,0.045,0.02,0.409,0.56,44,48,17,40,23,BOS
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.311,58,0.087,1.051,0.45,0.051,0.085,0.051,0.0,0.441,0.56,59,62,23,51,28,BOS
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.069,64,0.118,1.292,0.57,0.069,0.097,0.069,0.01,0.542,0.7,72,93,35,61,26,BOS

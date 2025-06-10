@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629633,Jarrett Culver,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.609,21,0.267,0.95,0.333,0.1,0.05,0.1,0.05,0.35,0.472,20,19,6,18,12,MEM
+22021,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.905,32,0.246,0.813,0.32,0.12,0.09,0.12,0.0,0.38,0.42,32,26,8,25,17,MEM
+22021,1629681,Killian Tillie,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.773,37,0.339,0.914,0.345,0.05,0.03,0.05,0.03,0.34,0.455,58,53,19,55,36,MEM
+22021,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.454,53,0.283,1.033,0.438,0.08,0.09,0.08,0.03,0.41,0.563,92,95,35,80,45,MEM
+22021,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.775,73,0.308,0.912,0.344,0.03,0.07,0.02,0.0,0.34,0.475,136,124,42,122,80,MEM
+22021,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.47,64,0.313,1.028,0.391,0.04,0.06,0.04,0.03,0.37,0.53,142,146,52,133,81,MEM
+22021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.274,33,0.32,1.097,0.412,0.06,0.07,0.06,0.01,0.41,0.559,134,147,49,119,70,MEM
+22021,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.791,72,0.383,0.899,0.349,0.05,0.05,0.05,0.01,0.35,0.464,168,151,53,152,99,MEM
+22021,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.768,76,0.163,0.915,0.344,0.04,0.03,0.04,0.0,0.36,0.454,176,161,56,163,107,MEM
+22021,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.457,62,0.319,1.031,0.405,0.04,0.06,0.04,0.01,0.4,0.537,162,167,60,148,88,MEM
+22021,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.279,73,0.262,1.094,0.414,0.06,0.08,0.06,0.01,0.41,0.561,160,175,58,140,82,MEM
+22021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.201,69,0.343,1.135,0.467,0.04,0.08,0.03,0.01,0.44,0.602,171,194,71,152,81,MEM
+22021,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.263,57,0.337,1.104,0.409,0.05,0.03,0.05,0.01,0.42,0.551,202,223,76,186,110,MEM
+22021,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.575,76,0.282,0.996,0.371,0.05,0.07,0.05,0.02,0.36,0.517,232,231,78,210,132,MEM
+22021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.655,78,0.309,0.957,0.36,0.05,0.04,0.05,0.02,0.36,0.481,254,243,85,236,151,MEM

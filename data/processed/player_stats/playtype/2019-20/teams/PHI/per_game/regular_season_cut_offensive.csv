@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.616,57,0.139,1.343,0.74,0.168,0.102,0.168,0.036,0.686,0.74,2.4,3.2,1.4,1.8,0.5,PHI
+22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.849,72,0.052,1.493,0.721,0.211,0.028,0.211,0.099,0.732,0.721,1.0,1.5,0.6,0.8,0.2,PHI
+22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.465,51,0.057,1.258,0.618,0.197,0.091,0.197,0.121,0.591,0.618,1.3,1.6,0.7,1.1,0.4,PHI
+22019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.566,67,0.053,1.318,0.684,0.114,0.023,0.114,0.0,0.705,0.684,0.7,0.9,0.4,0.6,0.2,PHI
+22019,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.834,49,0.126,1.472,0.731,0.25,0.083,0.222,0.056,0.722,0.731,0.7,1.1,0.4,0.5,0.1,PHI
+22019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.178,68,0.099,1.077,0.559,0.051,0.077,0.051,0.0,0.538,0.559,0.6,0.6,0.3,0.5,0.2,PHI
+22019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.738,72,0.041,1.407,0.727,0.148,0.074,0.148,0.037,0.704,0.727,0.4,0.5,0.2,0.3,0.1,PHI
+22019,203124,Kyle O'Quinn,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.416,29,0.193,1.227,0.667,0.091,0.091,0.091,0.0,0.636,0.667,0.8,0.9,0.4,0.6,0.2,PHI
+22019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.252,55,0.029,1.125,0.619,0.042,0.083,0.042,0.0,0.583,0.619,0.4,0.5,0.2,0.4,0.1,PHI
+22019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.904,65,0.051,1.529,0.75,0.059,0.0,0.059,0.0,0.765,0.75,0.3,0.4,0.2,0.2,0.1,PHI
+22019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.913,40,0.037,1.538,0.875,0.308,0.154,0.308,0.077,0.769,0.875,0.3,0.5,0.2,0.2,0.0,PHI
+22019,203922,Glenn Robinson III,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.698,14,0.137,1.385,0.727,0.077,0.077,0.077,0.0,0.692,0.727,0.9,1.3,0.6,0.8,0.2,PHI
+22019,203658,Norvel Pelle,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.052,17,0.216,0.909,0.429,0.273,0.091,0.273,0.0,0.545,0.429,0.6,0.6,0.2,0.4,0.2,PHI

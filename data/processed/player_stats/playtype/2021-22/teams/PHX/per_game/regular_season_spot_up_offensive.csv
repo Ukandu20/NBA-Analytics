@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.69,82,0.377,1.075,0.43,0.043,0.053,0.04,0.016,0.422,0.552,4.6,4.9,1.8,4.2,2.4,PHX
+22021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.936,66,0.453,1.246,0.438,0.05,0.028,0.044,0.016,0.442,0.628,4.8,6.0,2.0,4.5,2.5,PHX
+22021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.694,67,0.48,1.079,0.398,0.052,0.03,0.049,0.013,0.407,0.54,4.6,4.9,1.7,4.2,2.6,PHX
+22021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.862,69,0.408,1.167,0.41,0.053,0.035,0.053,0.013,0.419,0.581,3.3,3.8,1.2,3.0,1.8,PHX
+22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.835,68,0.126,1.147,0.453,0.055,0.032,0.05,0.018,0.459,0.576,3.2,3.7,1.4,3.0,1.6,PHX
+22021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.585,58,0.183,1.015,0.402,0.023,0.068,0.023,0.008,0.383,0.537,2.3,2.3,0.8,2.1,1.3,PHX
+22021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.419,65,0.091,0.955,0.392,0.056,0.067,0.056,0.011,0.393,0.487,1.4,1.3,0.5,1.2,0.7,PHX
+22021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.256,27,0.436,0.859,0.338,0.012,0.082,0.012,0.0,0.318,0.468,3.1,2.7,1.0,2.9,1.9,PHX
+22021,1628988,Aaron Holiday,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.663,22,0.199,1.061,0.452,0.03,0.03,0.03,0.0,0.455,0.532,1.5,1.6,0.6,1.4,0.8,PHX
+22021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.622,74,0.049,1.033,0.483,0.067,0.033,0.067,0.067,0.467,0.517,0.4,0.4,0.2,0.4,0.2,PHX
+22021,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.016,51,0.208,0.449,0.237,0.041,0.204,0.041,0.02,0.184,0.276,1.0,0.4,0.2,0.7,0.6,PHX
+22021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.381,58,0.02,0.941,0.412,0.0,0.0,0.0,0.0,0.412,0.471,0.3,0.3,0.1,0.3,0.2,PHX
+22021,1630188,Jalen Smith,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.031,29,0.17,0.516,0.207,0.032,0.032,0.032,0.0,0.226,0.259,1.1,0.6,0.2,1.0,0.8,PHX
+22021,1627846,Abdel Nader,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.37,14,0.294,0.933,0.5,0.0,0.333,0.0,0.0,0.333,0.7,1.1,1.0,0.4,0.7,0.4,PHX

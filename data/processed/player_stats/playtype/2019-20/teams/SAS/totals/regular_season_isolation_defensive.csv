@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.555,57,0.069,0.875,0.36,0.12,0.06,0.12,0.06,0.38,0.39,16,14,5,14,9,SAS
+22019,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.582,61,0.091,0.862,0.36,0.1,0.07,0.1,0.03,0.38,0.42,29,25,9,25,16,SAS
+22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.461,66,0.052,0.929,0.45,0.11,0.11,0.04,0.0,0.43,0.52,28,26,10,22,12,SAS
+22019,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.094,63,0.047,1.231,0.5,0.19,0.04,0.19,0.0,0.58,0.58,26,32,10,20,10,SAS
+22019,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.747,66,0.061,0.762,0.38,0.1,0.14,0.1,0.0,0.38,0.42,42,32,12,32,20,SAS
+22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.769,66,0.069,0.75,0.3,0.15,0.1,0.15,0.02,0.35,0.34,48,36,11,37,26,SAS
+22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.59,63,0.095,0.86,0.31,0.19,0.02,0.16,0.02,0.4,0.37,43,37,11,35,24,SAS
+22019,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.147,68,0.06,1.162,0.47,0.24,0.05,0.19,0.11,0.51,0.52,37,43,14,30,16,SAS
+22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.613,68,0.075,0.844,0.39,0.11,0.12,0.09,0.03,0.39,0.43,64,54,20,51,31,SAS
+22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.694,53,0.071,0.794,0.36,0.12,0.1,0.12,0.03,0.35,0.43,68,54,20,55,35,SAS
+22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.544,67,0.124,0.882,0.37,0.09,0.06,0.09,0.03,0.38,0.43,68,60,22,60,38,SAS

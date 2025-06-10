@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,ORL
+42018,203920,Khem Birch,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,ORL
+42018,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,ORL
+42018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.025,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,ORL
+42018,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.081,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,3,4,2,3,1,ORL
+42018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.075,1.333,0.5,0.33,0.0,0.33,0.0,0.67,0.5,3,4,1,2,1,ORL
+42018,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.182,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,4,4,1,2,1,ORL
+42018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.091,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,ORL
+42018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.109,1.2,0.75,0.0,0.2,0.0,0.0,0.6,0.75,5,6,3,4,1,ORL

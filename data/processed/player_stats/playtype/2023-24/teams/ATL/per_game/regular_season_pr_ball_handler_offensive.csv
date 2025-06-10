@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.811,54,0.456,0.977,0.435,0.141,0.178,0.104,0.023,0.424,0.53,12.0,11.7,3.7,8.4,4.8,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.515,78,0.329,0.858,0.415,0.058,0.122,0.05,0.009,0.392,0.463,7.5,6.4,2.6,6.2,3.6,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.941,79,0.141,1.083,0.533,0.072,0.178,0.061,0.011,0.467,0.613,2.3,2.5,0.9,1.7,0.8,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.984,57,0.081,1.224,0.544,0.104,0.09,0.09,0.045,0.522,0.632,1.2,1.4,0.5,1.0,0.5,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.329,56,0.063,0.782,0.415,0.109,0.164,0.109,0.018,0.364,0.451,1.0,0.8,0.3,0.7,0.4,ATL
+22023,1641723,Kobe Bufkin,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.866,17,0.381,1.0,0.472,0.075,0.05,0.05,0.025,0.475,0.528,2.4,2.4,1.0,2.1,1.1,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.798,63,0.044,0.973,0.406,0.108,0.081,0.108,0.054,0.405,0.469,0.6,0.6,0.2,0.5,0.3,ATL
+22023,1630235,Trent Forrest,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.098,38,0.475,0.579,0.268,0.123,0.175,0.088,0.018,0.298,0.268,1.5,0.9,0.3,1.1,0.8,ATL
+22023,1630249,Vít Krejčí,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.479,22,0.15,0.842,0.583,0.0,0.368,0.0,0.0,0.368,0.667,0.9,0.7,0.3,0.5,0.2,ATL

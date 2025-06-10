@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.363,75,0.194,1.261,0.655,0.188,0.068,0.182,0.045,0.648,0.655,176,222,91,139,48,PHX
+22023,1629234,Drew Eubanks,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.661,74,0.325,1.389,0.713,0.133,0.062,0.133,0.027,0.699,0.713,113,157,67,94,27,PHX
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.867,74,0.044,1.5,0.769,0.213,0.013,0.213,0.038,0.775,0.769,80,120,50,65,15,PHX
+22023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.36,53,0.051,1.255,0.6,0.149,0.021,0.149,0.021,0.638,0.6,47,59,24,40,16,PHX
+22023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.935,67,0.019,1.581,0.778,0.161,0.032,0.129,0.065,0.774,0.778,31,49,21,27,6,PHX
+22023,1629002,Chimezie Metu,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.647,37,0.174,1.387,0.818,0.129,0.161,0.129,0.0,0.71,0.818,31,43,18,22,4,PHX
+22023,1629626,Bol Bol,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.91,42,0.124,1.545,0.833,0.091,0.091,0.091,0.0,0.773,0.833,22,34,15,18,3,PHX
+22023,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.829,59,0.08,1.478,0.857,0.391,0.087,0.391,0.087,0.783,0.857,23,34,12,14,2,PHX
+22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.675,74,0.024,1.4,0.765,0.05,0.1,0.05,0.0,0.7,0.765,20,28,13,17,4,PHX
+22023,1628966,Keita Bates-Diop,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.572,38,0.081,1.357,0.615,0.143,0.0,0.071,0.071,0.643,0.615,14,19,8,13,5,PHX
+22023,1630692,Jordan Goodwin,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.588,39,0.048,1.364,0.778,0.091,0.182,0.091,0.091,0.636,0.778,11,15,7,9,2,PHX

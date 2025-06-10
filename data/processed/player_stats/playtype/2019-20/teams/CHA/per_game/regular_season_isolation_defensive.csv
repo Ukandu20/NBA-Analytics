@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.648,23,0.092,0.813,0.38,0.06,0.12,0.06,0.0,0.38,0.42,0.7,0.6,0.2,0.6,0.3,CHA
+22019,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.724,55,0.069,0.773,0.41,0.14,0.14,0.14,0.05,0.41,0.41,0.4,0.3,0.1,0.3,0.2,CHA
+22019,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.112,31,0.089,1.2,0.64,0.13,0.13,0.13,0.0,0.6,0.64,0.5,0.6,0.2,0.4,0.1,CHA
+22019,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.944,63,0.072,0.574,0.26,0.09,0.09,0.09,0.0,0.3,0.26,0.7,0.4,0.2,0.6,0.5,CHA
+22019,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.149,41,0.117,1.161,0.5,0.1,0.0,0.1,0.0,0.52,0.57,0.8,0.9,0.3,0.7,0.3,CHA
+22019,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.881,58,0.095,0.679,0.33,0.12,0.12,0.14,0.04,0.34,0.33,1.0,0.7,0.2,0.7,0.5,CHA
+22019,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.567,63,0.064,0.867,0.44,0.11,0.18,0.11,0.0,0.42,0.47,0.7,0.6,0.2,0.5,0.3,CHA
+22019,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.347,53,0.099,1.0,0.43,0.09,0.02,0.09,0.07,0.43,0.47,0.9,0.9,0.4,0.8,0.5,CHA
+22019,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.271,48,0.121,1.068,0.42,0.3,0.07,0.27,0.07,0.52,0.45,0.9,1.0,0.3,0.6,0.4,CHA
+22019,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.906,65,0.119,0.654,0.29,0.07,0.09,0.07,0.01,0.31,0.33,1.2,0.8,0.3,1.1,0.8,CHA
+22019,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.099,58,0.084,1.222,0.63,0.09,0.16,0.09,0.02,0.56,0.71,0.8,0.9,0.4,0.6,0.2,CHA

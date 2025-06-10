@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.557,71,0.172,0.973,0.512,0.088,0.101,0.088,0.02,0.49,0.512,148,144,63,123,60,ATL
+22022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.916,80,0.062,1.195,0.533,0.244,0.073,0.122,0.049,0.59,0.533,41,49,16,30,14,ATL
+22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.611,67,0.043,1.0,0.467,0.256,0.07,0.256,0.023,0.56,0.467,43,43,14,30,16,ATL
+22022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.313,65,0.037,0.875,0.429,0.125,0.0,0.125,0.0,0.46,0.429,24,21,9,21,12,ATL
+22022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.762,25,0.042,1.091,0.6,0.0,0.091,0.0,0.0,0.55,0.6,11,12,6,10,4,ATL
+22022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.394,70,0.028,0.909,0.444,0.182,0.0,0.182,0.0,0.55,0.444,11,10,4,9,5,ATL

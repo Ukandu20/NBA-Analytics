@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.0,1,0.067,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,SAS

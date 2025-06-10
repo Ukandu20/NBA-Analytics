@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,Cut,Offensive,0.71,71,0.138,1.39,0.721,0.1,0.06,0.1,0.02,0.69,0.721,100,139,62,86,24,ORL
+22021,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.935,79,0.071,1.548,0.756,0.095,0.012,0.095,0.036,0.762,0.756,84,130,59,78,19,ORL
+22021,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Cut,Offensive,0.383,62,0.119,1.217,0.667,0.198,0.066,0.198,0.028,0.651,0.667,106,129,54,81,27,ORL
+22021,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.917,63,0.163,1.53,0.708,0.289,0.036,0.289,0.108,0.723,0.708,83,127,46,65,19,ORL
+22021,201577,Robin Lopez,1610612753,ORL,Orlando Magic,Cut,Offensive,0.531,37,0.15,1.3,0.622,0.15,0.0,0.15,0.075,0.625,0.622,40,52,23,37,14,ORL
+22021,203914,Gary Harris,1610612753,ORL,Orlando Magic,Cut,Offensive,0.604,61,0.057,1.324,0.714,0.162,0.108,0.162,0.027,0.676,0.714,37,49,20,28,8,ORL
+22021,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,Cut,Offensive,0.644,70,0.051,1.353,0.724,0.059,0.088,0.059,0.0,0.676,0.724,34,46,21,29,8,ORL
+22021,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Cut,Offensive,0.855,48,0.025,1.474,0.813,0.105,0.053,0.105,0.0,0.789,0.813,19,28,13,16,3,ORL
+22021,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Cut,Offensive,0.573,66,0.016,1.316,0.611,0.158,0.0,0.158,0.105,0.632,0.611,19,25,11,18,7,ORL
+22021,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Cut,Offensive,0.896,63,0.018,1.5,0.818,0.0,0.083,0.0,0.0,0.75,0.818,12,18,9,11,2,ORL
+22021,1629678,Admiral Schofield,1610612753,ORL,Orlando Magic,Cut,Offensive,0.932,38,0.072,1.545,0.727,0.182,0.0,0.182,0.182,0.727,0.727,11,17,8,11,3,ORL
+22021,1630181,R.J. Hampton,1610612753,ORL,Orlando Magic,Cut,Offensive,0.271,64,0.022,1.154,0.5,0.308,0.077,0.308,0.0,0.615,0.5,13,15,4,8,4,ORL
+22021,1629649,Ignas Brazdeikis,1610612753,ORL,Orlando Magic,Cut,Offensive,0.531,42,0.045,1.3,0.75,0.2,0.0,0.2,0.0,0.7,0.75,10,13,6,8,2,ORL

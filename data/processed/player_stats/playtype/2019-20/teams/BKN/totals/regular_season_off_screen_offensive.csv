@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.662,69,0.242,1.018,0.434,0.036,0.085,0.036,0.009,0.413,0.545,223,227,86,198,112,BKN
+22019,1627752,Taurean Prince,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.311,64,0.095,0.849,0.325,0.012,0.093,0.012,0.0,0.302,0.461,86,73,25,77,52,BKN
+22019,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.982,64,0.027,1.5,0.568,0.053,0.026,0.053,0.053,0.553,0.743,38,57,21,37,16,BKN
+22019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.171,62,0.103,0.743,0.279,0.014,0.029,0.014,0.014,0.271,0.382,70,52,19,68,49,BKN
+22019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.923,48,0.064,1.227,0.421,0.136,0.045,0.136,0.045,0.455,0.579,22,27,8,19,11,BKN
+22019,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.176,20,0.031,0.75,0.333,0.0,0.063,0.0,0.0,0.313,0.4,16,12,5,15,10,BKN
+22019,201163,Wilson Chandler,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.131,35,0.057,0.692,0.364,0.0,0.154,0.0,0.0,0.308,0.409,13,9,4,11,7,BKN
+22019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.099,40,0.055,0.615,0.3,0.077,0.154,0.077,0.0,0.308,0.35,13,8,3,10,7,BKN
+22019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.046,45,0.013,0.5,0.273,0.0,0.083,0.0,0.0,0.25,0.273,12,6,3,11,8,BKN

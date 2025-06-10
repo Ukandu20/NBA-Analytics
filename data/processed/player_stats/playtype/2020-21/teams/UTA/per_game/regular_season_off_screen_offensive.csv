@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.61,72,0.108,1.04,0.452,0.071,0.119,0.071,0.016,0.429,0.558,1.8,1.8,0.7,1.4,0.8,UTA
+22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.495,68,0.078,0.959,0.348,0.052,0.031,0.052,0.031,0.351,0.467,1.4,1.4,0.5,1.4,0.9,UTA
+22020,204060,Joe Ingles,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.919,67,0.045,1.375,0.571,0.063,0.063,0.031,0.0,0.563,0.714,0.5,0.7,0.2,0.4,0.2,UTA
+22020,201144,Mike Conley,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.894,51,0.037,1.3,0.458,0.167,0.067,0.167,0.033,0.5,0.625,0.6,0.8,0.2,0.5,0.3,UTA
+22020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.785,53,0.023,1.161,0.407,0.097,0.032,0.032,0.0,0.452,0.574,0.6,0.7,0.2,0.5,0.3,UTA
+22020,1627777,Georges Niang,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.148,72,0.056,0.731,0.25,0.038,0.038,0.038,0.0,0.269,0.354,0.4,0.3,0.1,0.3,0.3,UTA

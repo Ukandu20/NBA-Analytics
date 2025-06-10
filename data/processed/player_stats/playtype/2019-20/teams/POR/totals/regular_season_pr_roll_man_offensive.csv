@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202355,Hassan Whiteside,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.627,67,0.27,1.157,0.603,0.153,0.069,0.149,0.048,0.589,0.603,248,287,123,204,81,POR
+22019,1627746,Skal Labissiere,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.696,33,0.275,1.208,0.652,0.057,0.075,0.057,0.0,0.623,0.663,53,64,30,46,16,POR
+22019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.143,58,0.083,0.81,0.371,0.076,0.051,0.076,0.013,0.392,0.393,79,64,26,70,44,POR
+22019,201229,Anthony Tolliver,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.714,33,0.19,1.214,0.423,0.036,0.036,0.036,0.0,0.429,0.615,28,34,11,26,15,POR
+22019,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.184,8,0.204,0.862,0.417,0.138,0.103,0.138,0.069,0.414,0.417,29,25,10,24,14,POR
+22019,1628403,Caleb Swanigan,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.512,20,0.134,1.091,0.667,0.0,0.182,0.0,0.0,0.545,0.667,11,12,6,9,3,POR

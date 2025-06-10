@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.128,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,10,6,2,10,8,IND
+42019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.098,0.625,0.333,0.0,0.25,0.0,0.0,0.25,0.417,8,5,2,6,4,IND
+42019,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.313,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,5,2,1,4,3,IND
+42019,203200,Justin Holiday,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.12,0.333,0.0,0.333,0.0,0.333,0.0,0.333,0.0,3,1,0,2,2,IND
+42019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND
+42019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND
+42019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.225,71,0.078,0.912,0.472,0.096,0.088,0.08,0.032,0.464,0.472,125,114,50,106,56,SAS
+22023,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.392,74,0.078,1.052,0.547,0.117,0.091,0.104,0.039,0.519,0.547,77,81,35,64,29,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.853,69,0.054,1.316,0.646,0.211,0.018,0.193,0.07,0.667,0.646,57,75,31,48,17,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.666,77,0.027,1.19,0.647,0.048,0.143,0.048,0.0,0.571,0.676,21,25,11,17,6,SAS
+22023,1631230,Dominick Barlow,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.294,33,0.156,1.0,0.5,0.182,0.0,0.136,0.0,0.545,0.5,22,22,9,18,9,SAS
+22023,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.687,19,0.175,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,10,12,6,9,3,SAS

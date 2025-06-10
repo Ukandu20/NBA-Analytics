@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.725,72,0.246,1.039,0.556,0.14,0.14,0.111,0.031,0.518,0.556,415,431,173,311,138,DEN
+22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.906,56,0.127,1.161,0.592,0.194,0.081,0.145,0.065,0.581,0.592,62,72,29,49,20,DEN
+22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.456,25,0.107,0.926,0.526,0.148,0.185,0.111,0.037,0.444,0.526,27,25,10,19,9,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.125,58,0.084,0.658,0.423,0.053,0.263,0.026,0.0,0.342,0.423,38,25,11,26,15,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.403,48,0.022,0.905,0.444,0.095,0.048,0.095,0.0,0.476,0.444,21,19,8,18,10,DEN
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.031,61,0.022,0.476,0.294,0.0,0.19,0.0,0.0,0.238,0.294,21,10,5,17,12,DEN
+22020,201580,JaVale McGee,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.0,13,0.124,0.091,0.0,0.091,0.364,0.091,0.0,0.091,0.0,11,1,0,6,6,DEN

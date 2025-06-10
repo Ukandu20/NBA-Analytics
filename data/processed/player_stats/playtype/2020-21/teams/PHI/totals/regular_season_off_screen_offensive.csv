@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.862,57,0.048,1.258,0.538,0.065,0.097,0.065,0.0,0.516,0.673,31,39,14,26,12,PHI
+22020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.91,55,0.048,1.333,0.478,0.0,0.042,0.0,0.0,0.458,0.696,24,32,11,23,12,PHI
+22020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.233,63,0.043,0.806,0.452,0.028,0.111,0.028,0.0,0.389,0.468,36,29,14,31,17,PHI
+22020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.133,62,0.034,0.711,0.3,0.105,0.105,0.105,0.0,0.342,0.317,38,27,9,30,21,PHI

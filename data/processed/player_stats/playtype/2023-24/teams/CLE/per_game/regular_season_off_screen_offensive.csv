@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.235,70,0.114,0.84,0.326,0.02,0.1,0.01,0.01,0.3,0.461,1.4,1.2,0.4,1.3,0.9,CLE
+22023,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.382,61,0.175,0.919,0.31,0.014,0.027,0.014,0.0,0.311,0.465,1.2,1.1,0.4,1.2,0.8,CLE
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.34,57,0.043,0.894,0.381,0.043,0.085,0.043,0.021,0.362,0.476,0.8,0.7,0.3,0.7,0.5,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.74,82,0.04,1.138,0.444,0.034,0.034,0.034,0.0,0.448,0.574,0.4,0.4,0.1,0.3,0.2,CLE
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.08,55,0.033,0.644,0.256,0.022,0.022,0.0,0.0,0.267,0.314,0.8,0.5,0.2,0.8,0.6,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.5,68,0.023,1.0,0.455,0.0,0.083,0.0,0.0,0.417,0.545,0.4,0.4,0.1,0.3,0.2,CLE

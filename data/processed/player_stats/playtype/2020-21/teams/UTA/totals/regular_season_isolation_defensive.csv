@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201144,Mike Conley,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.98,51,0.044,0.44,0.22,0.04,0.08,0.04,0.04,0.2,0.24,25,11,5,23,18,UTA
+22020,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.97,67,0.048,0.464,0.2,0.036,0.07,0.0,0.0,0.214,0.24,28,13,5,25,20,UTA
+22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.835,68,0.063,0.706,0.31,0.118,0.15,0.118,0.03,0.324,0.35,34,24,8,26,18,UTA
+22020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.404,53,0.05,0.963,0.53,0.074,0.22,0.074,0.0,0.444,0.58,27,26,10,19,9,UTA
+22020,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.824,72,0.113,0.714,0.33,0.024,0.12,0.024,0.0,0.31,0.39,42,30,12,36,24,UTA
+22020,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.534,68,0.078,0.902,0.38,0.118,0.02,0.118,0.02,0.412,0.44,51,46,17,45,28,UTA
+22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.372,72,0.09,0.982,0.4,0.123,0.04,0.123,0.04,0.439,0.44,57,56,20,50,30,UTA
+22020,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.835,71,0.062,0.706,0.32,0.047,0.06,0.047,0.02,0.306,0.37,85,60,25,78,53,UTA
+22020,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.392,71,0.061,0.968,0.43,0.143,0.05,0.159,0.05,0.444,0.5,63,61,23,53,30,UTA

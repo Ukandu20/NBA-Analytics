@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.351,76,0.063,1.023,0.539,0.07,0.057,0.069,0.0,0.529,0.539,87,89,41,76,35,OKC
+22022,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.8,75,0.052,1.308,0.667,0.13,0.058,0.135,0.058,0.654,0.667,52,68,30,45,15,OKC
+22022,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.149,74,0.064,0.841,0.4,0.17,0.101,0.159,0.0,0.464,0.41,69,58,20,50,30,OKC
+22022,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.786,53,0.094,1.297,0.697,0.08,0.027,0.081,0.0,0.649,0.697,37,48,23,33,10,OKC
+22022,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.465,68,0.016,1.1,0.538,0.07,0.1,0.067,0.033,0.5,0.596,30,33,14,26,12,OKC
+22022,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.242,70,0.076,0.941,0.483,0.06,0.088,0.059,0.0,0.471,0.5,34,32,14,29,15,OKC
+22022,1630526,Jeremiah Robinson-Earl,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.122,43,0.14,0.8,0.333,0.1,0.0,0.1,0.0,0.4,0.333,40,32,12,36,24,OKC
+22022,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.271,34,0.095,0.966,0.5,0.0,0.034,0.0,0.0,0.483,0.5,29,28,14,28,14,OKC
+22022,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.687,73,0.022,1.231,0.6,0.15,0.077,0.154,0.0,0.615,0.6,13,16,6,10,4,OKC
+22022,1630647,Eugene Omoruyi,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.174,23,0.12,0.867,0.417,0.13,0.067,0.133,0.0,0.467,0.417,15,13,5,12,7,OKC
+22022,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.213,43,0.047,0.909,0.571,0.18,0.182,0.182,0.0,0.545,0.571,11,10,4,7,3,OKC
+22022,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.042,50,0.054,0.625,0.308,0.06,0.125,0.063,0.0,0.313,0.308,16,10,4,13,9,OKC
+22022,1630544,Tre Mann,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.085,67,0.021,0.75,0.364,0.0,0.083,0.0,0.0,0.333,0.409,12,9,4,11,7,OKC
+22022,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.003,36,0.057,0.333,0.182,0.0,0.083,0.0,0.0,0.167,0.182,12,4,2,11,9,OKC

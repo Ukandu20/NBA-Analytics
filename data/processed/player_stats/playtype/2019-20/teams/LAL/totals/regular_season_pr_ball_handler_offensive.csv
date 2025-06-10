@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.836,67,0.273,0.987,0.462,0.124,0.126,0.111,0.043,0.441,0.522,469,463,172,372,200,LAL
+22019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.367,48,0.416,0.781,0.416,0.033,0.153,0.022,0.0,0.361,0.456,183,143,62,149,87,LAL
+22019,1626188,Quinn Cook,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.354,44,0.341,0.779,0.387,0.023,0.105,0.023,0.0,0.36,0.42,86,67,29,75,46,LAL
+22019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.347,61,0.104,0.767,0.4,0.058,0.128,0.058,0.0,0.384,0.414,86,66,28,70,42,LAL
+22019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.17,64,0.247,0.635,0.304,0.083,0.188,0.094,0.0,0.302,0.355,96,61,21,69,48,LAL
+22019,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.405,49,0.152,0.806,0.455,0.015,0.164,0.015,0.0,0.388,0.473,67,54,25,55,30,LAL
+22019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.489,69,0.101,0.839,0.404,0.032,0.129,0.032,0.0,0.371,0.471,62,52,21,52,31,LAL
+22019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.518,63,0.031,0.848,0.4,0.196,0.174,0.174,0.022,0.435,0.4,46,39,12,30,18,LAL
+22019,203079,Dion Waiters,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.81,7,0.374,0.971,0.538,0.147,0.176,0.118,0.088,0.471,0.538,34,33,14,26,12,LAL
+22019,203584,Troy Daniels,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.573,41,0.095,0.875,0.462,0.063,0.188,0.063,0.063,0.375,0.538,16,14,6,13,7,LAL
+22019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.338,68,0.031,0.765,0.429,0.059,0.118,0.059,0.0,0.412,0.429,17,13,6,14,8,LAL
+22019,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Offensive,0.248,6,0.263,0.7,0.375,0.1,0.1,0.1,0.0,0.4,0.375,10,7,3,8,5,LAL

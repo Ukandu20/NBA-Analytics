@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1628982,Melvin Frazier Jr.,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,ORL
+42018,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ORL
+42018,1626185,Jarell Martin,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,3,0.167,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,ORL
+42018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.065,1.0,0.33,0.0,0.0,0.0,0.0,0.33,0.5,0.6,1.0,0.2,0.6,0.4,ORL
+42018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.1,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,0.8,1.0,0.2,0.8,0.6,ORL
+42018,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.182,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,0.8,1.0,0.2,0.8,0.6,ORL
+42018,203082,Terrence Ross,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.054,2.5,1.0,0.0,0.0,0.0,0.0,1.0,1.25,0.4,1.0,0.4,0.4,0.0,ORL
+42018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.068,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,0.6,1.0,0.4,0.6,0.2,ORL
+42018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.0,5,0.123,1.8,0.67,0.1,0.0,0.1,0.0,0.7,0.89,2.0,4.0,1.2,1.8,0.6,ORL

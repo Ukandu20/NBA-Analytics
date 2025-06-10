@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.716,60,0.268,0.943,0.459,0.117,0.132,0.117,0.016,0.453,0.492,6.4,6.1,2.3,4.9,2.7,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.601,46,0.241,0.89,0.402,0.134,0.12,0.127,0.038,0.408,0.461,6.3,5.7,2.0,5.0,3.0,ORL
+22024,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.644,35,0.321,0.911,0.443,0.104,0.183,0.079,0.025,0.406,0.5,5.8,5.3,1.9,4.3,2.4,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.157,78,0.311,0.681,0.361,0.148,0.236,0.141,0.027,0.35,0.376,3.4,2.3,0.8,2.2,1.4,ORL
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.248,67,0.326,0.736,0.379,0.088,0.185,0.079,0.018,0.348,0.405,3.4,2.5,1.0,2.5,1.6,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.526,74,0.117,0.864,0.396,0.061,0.136,0.061,0.0,0.379,0.462,0.9,0.8,0.3,0.7,0.4,ORL
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.396,77,0.095,0.817,0.447,0.033,0.183,0.017,0.0,0.383,0.468,0.8,0.6,0.3,0.6,0.3,ORL
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.357,31,0.196,0.8,0.4,0.057,0.229,0.057,0.0,0.343,0.48,1.1,0.9,0.3,0.8,0.5,ORL
+22024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.341,50,0.19,0.794,0.4,0.118,0.176,0.088,0.029,0.382,0.42,0.7,0.5,0.2,0.5,0.3,ORL
+22024,1641724,Jett Howard,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.166,60,0.114,0.686,0.36,0.057,0.229,0.029,0.0,0.314,0.42,0.6,0.4,0.2,0.4,0.3,ORL

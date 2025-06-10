@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.625,77,0.135,1.171,0.597,0.151,0.075,0.137,0.041,0.596,0.597,1.9,2.2,0.9,1.5,0.6,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.867,50,0.086,1.323,0.685,0.097,0.048,0.097,0.016,0.677,0.685,1.2,1.6,0.7,1.1,0.3,CLE
+22023,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.733,49,0.24,1.244,0.658,0.098,0.024,0.073,0.049,0.634,0.658,0.8,1.0,0.5,0.8,0.3,CLE
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,1.0,55,0.02,1.75,0.808,0.107,0.0,0.107,0.036,0.821,0.846,0.5,0.9,0.4,0.5,0.1,CLE
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.652,70,0.032,1.179,0.583,0.107,0.071,0.071,0.036,0.571,0.583,0.4,0.5,0.2,0.3,0.1,CLE
+22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.294,69,0.032,1.0,0.462,0.263,0.105,0.211,0.053,0.526,0.462,0.3,0.3,0.1,0.2,0.1,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.069,82,0.016,0.75,0.4,0.083,0.167,0.083,0.083,0.333,0.4,0.1,0.1,0.0,0.1,0.1,CLE

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.736,57,0.281,1.098,0.451,0.057,0.067,0.048,0.006,0.448,0.578,5.5,6.1,2.2,4.9,2.7,BOS
+22019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.695,66,0.132,1.07,0.441,0.05,0.07,0.045,0.005,0.435,0.556,3.0,3.2,1.2,2.7,1.5,BOS
+22019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.32,60,0.268,0.882,0.311,0.026,0.061,0.022,0.004,0.307,0.455,3.8,3.4,1.1,3.5,2.4,BOS
+22019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.872,52,0.19,1.196,0.462,0.074,0.055,0.061,0.018,0.466,0.607,3.1,3.8,1.3,2.8,1.5,BOS
+22019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.635,71,0.263,1.038,0.413,0.107,0.13,0.084,0.031,0.405,0.543,1.8,1.9,0.6,1.5,0.9,BOS
+22019,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.763,69,0.502,1.114,0.393,0.018,0.018,0.018,0.018,0.386,0.563,1.7,1.8,0.6,1.6,1.0,BOS
+22019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.352,56,0.102,0.902,0.327,0.071,0.063,0.071,0.009,0.348,0.444,2.0,1.8,0.6,1.8,1.2,BOS
+22019,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.424,65,0.145,0.935,0.352,0.026,0.065,0.026,0.013,0.325,0.5,1.2,1.1,0.4,1.1,0.7,BOS
+22019,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.198,69,0.301,0.779,0.291,0.023,0.058,0.023,0.0,0.291,0.399,1.2,1.0,0.3,1.1,0.8,BOS
+22019,1629035,Carsen Edwards,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.143,25,0.245,0.692,0.273,0.038,0.115,0.038,0.0,0.269,0.364,1.0,0.7,0.2,0.9,0.6,BOS
+22019,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.034,32,0.294,0.5,0.185,0.033,0.067,0.0,0.0,0.2,0.241,0.9,0.5,0.2,0.8,0.7,BOS
+22019,202683,Enes Freedom,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.006,58,0.033,0.333,0.167,0.067,0.133,0.067,0.0,0.2,0.167,0.3,0.1,0.0,0.2,0.2,BOS

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.722,62,0.136,1.071,0.573,0.171,0.159,0.153,0.059,0.529,0.573,2.7,2.9,1.1,2.0,0.9,MIN
+22023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.861,76,0.102,1.185,0.644,0.283,0.13,0.217,0.054,0.62,0.644,1.2,1.4,0.5,0.8,0.3,MIN
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.735,79,0.034,1.074,0.531,0.221,0.118,0.206,0.059,0.529,0.531,0.9,0.9,0.3,0.6,0.3,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.079,81,0.094,0.691,0.364,0.072,0.134,0.072,0.0,0.361,0.364,1.2,0.8,0.3,1.0,0.6,MIN
+22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.682,79,0.032,1.053,0.538,0.263,0.211,0.263,0.158,0.474,0.538,0.2,0.3,0.1,0.2,0.1,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.554,72,0.02,1.0,0.636,0.067,0.2,0.0,0.0,0.533,0.636,0.2,0.2,0.1,0.2,0.1,MIN

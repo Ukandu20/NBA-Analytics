@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.837,16,0.138,0.727,0.3,0.0,0.09,0.0,0.0,0.27,0.4,11,8,3,10,7,UTA
+22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.373,58,0.06,1.0,0.462,0.0,0.07,0.0,0.0,0.43,0.538,14,14,6,13,7,UTA
+22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.018,66,0.008,1.5,0.6,0.1,0.0,0.1,0.1,0.6,0.75,10,15,6,10,4,UTA
+22021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.604,25,0.094,0.895,0.333,0.05,0.0,0.0,0.0,0.37,0.444,19,17,6,18,12,UTA
+22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.373,55,0.053,1.0,0.444,0.05,0.05,0.05,0.0,0.45,0.528,20,20,8,18,10,UTA
+22021,204060,Joe Ingles,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.768,45,0.099,0.788,0.276,0.06,0.06,0.03,0.0,0.3,0.379,33,26,8,29,21,UTA
+22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.433,60,0.09,0.967,0.393,0.03,0.03,0.03,0.0,0.4,0.482,30,29,11,28,17,UTA
+22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.649,67,0.062,0.868,0.364,0.05,0.08,0.05,0.0,0.37,0.424,38,33,12,33,21,UTA
+22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.817,79,0.08,0.745,0.271,0.06,0.02,0.06,0.02,0.29,0.354,51,38,13,48,35,UTA
+22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.213,72,0.051,1.132,0.429,0.03,0.05,0.0,0.0,0.42,0.586,38,43,15,35,20,UTA
+22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.12,69,0.059,1.25,0.515,0.08,0.06,0.08,0.06,0.5,0.652,36,45,17,33,16,UTA
+22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,OffScreen,Defensive,0.235,77,0.075,1.122,0.463,0.07,0.04,0.07,0.01,0.47,0.56,74,83,31,67,36,UTA

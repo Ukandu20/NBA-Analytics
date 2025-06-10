@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.661,59,0.044,1.04,0.531,0.18,0.2,0.16,0.02,0.5,0.594,50,52,17,32,15,DET
+22022,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.373,74,0.03,0.857,0.433,0.048,0.238,0.048,0.0,0.357,0.55,42,36,13,30,17,DET
+22022,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.389,52,0.041,0.871,0.385,0.065,0.129,0.065,0.032,0.355,0.462,31,27,10,26,16,DET
+22022,202692,Alec Burks,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.401,51,0.041,0.875,0.278,0.208,0.042,0.208,0.0,0.417,0.333,24,21,5,18,13,DET
+22022,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.609,76,0.018,1.0,0.5,0.0,0.158,0.0,0.0,0.421,0.594,19,19,8,16,8,DET
+22022,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.53,56,0.035,0.944,0.583,0.111,0.222,0.111,0.0,0.5,0.583,18,17,7,12,5,DET
+22022,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.401,52,0.048,0.875,0.333,0.0,0.063,0.0,0.0,0.313,0.467,16,14,5,15,10,DET
+22022,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.075,12,0.067,0.632,0.286,0.158,0.105,0.158,0.0,0.368,0.286,19,12,4,14,10,DET
+22022,202709,Cory Joseph,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.439,62,0.023,0.9,0.5,0.0,0.2,0.0,0.0,0.4,0.563,10,9,4,8,4,DET

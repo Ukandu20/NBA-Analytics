@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.807,61,0.028,0.75,0.273,0.083,0.0,0.083,0.0,0.333,0.318,0.2,0.1,0.0,0.2,0.1,ORL
+22024,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.256,26,0.043,1.273,0.545,0.0,0.0,0.0,0.0,0.545,0.636,0.4,0.5,0.2,0.4,0.2,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.277,73,0.025,1.25,0.625,0.167,0.167,0.167,0.0,0.583,0.75,0.2,0.2,0.1,0.1,0.0,ORL
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.212,75,0.019,1.308,0.556,0.154,0.154,0.077,0.0,0.538,0.722,0.2,0.2,0.1,0.1,0.1,ORL
+22024,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.185,65,0.048,1.333,0.563,0.056,0.056,0.056,0.0,0.556,0.688,0.3,0.4,0.1,0.2,0.1,ORL
+22024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.861,68,0.05,0.684,0.303,0.079,0.053,0.079,0.0,0.289,0.364,0.6,0.4,0.1,0.5,0.3,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.719,78,0.042,0.839,0.345,0.097,0.032,0.065,0.065,0.355,0.414,0.4,0.3,0.1,0.4,0.2,ORL
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.471,60,0.048,1.067,0.407,0.033,0.067,0.033,0.0,0.4,0.556,0.5,0.5,0.2,0.5,0.3,ORL
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.339,69,0.039,1.179,0.519,0.0,0.036,0.0,0.0,0.5,0.611,0.4,0.5,0.2,0.4,0.2,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.389,46,0.061,1.125,0.517,0.094,0.063,0.094,0.063,0.469,0.603,0.7,0.8,0.3,0.6,0.3,ORL

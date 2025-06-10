@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.631,77,0.331,0.908,0.453,0.082,0.185,0.076,0.023,0.4,0.52,563,511,193,426,233,MIA
+22024,1626179,Terry Rozier,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.314,64,0.252,0.775,0.373,0.042,0.115,0.037,0.0,0.351,0.416,191,148,60,161,101,MIA
+22024,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.538,74,0.165,0.866,0.412,0.008,0.228,0.008,0.0,0.323,0.557,127,110,40,97,57,MIA
+22024,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.949,25,0.232,1.107,0.532,0.226,0.083,0.19,0.048,0.56,0.532,84,93,33,62,29,MIA
+22024,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.311,66,0.176,0.771,0.465,0.128,0.248,0.128,0.028,0.394,0.479,109,84,33,71,38,MIA
+22024,203952,Andrew Wiggins,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.634,17,0.269,0.908,0.453,0.149,0.172,0.138,0.057,0.425,0.492,87,79,29,64,35,MIA
+22024,1630558,Davion Mitchell,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.613,30,0.257,0.897,0.5,0.051,0.218,0.051,0.013,0.41,0.569,78,70,29,58,29,MIA
+22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.931,78,0.027,1.077,0.484,0.128,0.103,0.128,0.026,0.487,0.548,39,42,15,31,16,MIA
+22024,202692,Alec Burks,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.761,49,0.125,0.975,0.452,0.1,0.175,0.075,0.05,0.4,0.548,40,39,14,31,17,MIA
+22024,1631107,Nikola Jović,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.335,46,0.091,0.791,0.385,0.163,0.279,0.163,0.047,0.349,0.442,43,34,10,26,16,MIA
+22024,1641796,Pelle Larsson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.445,55,0.071,0.833,0.357,0.167,0.056,0.167,0.0,0.444,0.393,18,15,5,14,9,MIA
+22024,203937,Kyle Anderson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.109,25,0.129,0.636,0.286,0.136,0.227,0.136,0.0,0.318,0.286,22,14,4,14,10,MIA

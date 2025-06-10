@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.445,63,0.219,0.903,0.446,0.174,0.14,0.14,0.019,0.467,0.446,5.1,4.6,1.6,3.6,2.0,LAL
+22019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.652,67,0.101,0.966,0.529,0.121,0.126,0.103,0.029,0.494,0.529,2.6,2.5,1.1,2.0,1.0,LAL
+22019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.764,69,0.114,1.0,0.696,0.346,0.231,0.212,0.019,0.577,0.696,0.8,0.8,0.2,0.3,0.1,LAL
+22019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.51,61,0.045,0.919,0.533,0.027,0.162,0.027,0.0,0.459,0.533,0.6,0.6,0.3,0.5,0.2,LAL
+22019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.065,68,0.073,0.621,0.348,0.069,0.172,0.069,0.034,0.31,0.348,0.4,0.3,0.1,0.3,0.2,LAL
+22019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.013,14,0.123,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.7,0.3,0.1,0.7,0.6,LAL

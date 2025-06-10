@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630249,Vít Krejčí,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.973,22,0.093,0.5,0.286,0.0,0.222,0.0,0.0,0.222,0.321,18,9,4,14,10,ATL
+22023,1629726,Garrison Mathews,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.828,65,0.091,0.733,0.28,0.067,0.1,0.067,0.0,0.3,0.38,30,22,7,25,18,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.659,62,0.063,0.853,0.407,0.088,0.176,0.088,0.059,0.353,0.481,34,29,11,27,16,ATL
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.706,54,0.067,0.833,0.389,0.024,0.119,0.024,0.0,0.357,0.458,42,35,14,36,22,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.7,56,0.071,0.837,0.375,0.14,0.14,0.116,0.023,0.395,0.453,43,36,12,32,20,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.338,56,0.057,1.027,0.516,0.081,0.081,0.081,0.0,0.514,0.548,37,38,16,31,15,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.532,79,0.071,0.919,0.404,0.065,0.177,0.048,0.0,0.371,0.511,62,57,19,47,28,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.639,78,0.098,0.867,0.425,0.022,0.178,0.022,0.011,0.356,0.514,90,78,31,73,42,ATL

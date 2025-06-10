@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.239,53,0.065,1.067,0.545,0.13,0.13,0.13,0.0,0.47,0.636,0.3,0.3,0.1,0.2,0.1,NOP
+22022,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.036,39,0.057,1.357,0.667,0.21,0.14,0.21,0.21,0.57,0.667,0.4,0.5,0.2,0.3,0.1,NOP
+22022,1626196,Josh Richardson,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.56,23,0.135,0.917,0.353,0.21,0.12,0.21,0.04,0.42,0.412,1.0,1.0,0.3,0.7,0.5,NOP
+22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.095,45,0.067,1.185,0.455,0.15,0.04,0.15,0.0,0.52,0.545,0.6,0.7,0.2,0.5,0.3,NOP
+22022,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.474,59,0.079,0.946,0.438,0.05,0.11,0.05,0.03,0.41,0.5,0.6,0.6,0.2,0.5,0.3,NOP
+22022,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.472,61,0.075,0.947,0.345,0.26,0.05,0.24,0.08,0.45,0.345,0.6,0.6,0.2,0.5,0.3,NOP
+22022,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.735,79,0.051,0.826,0.375,0.09,0.04,0.09,0.0,0.41,0.413,0.6,0.5,0.2,0.5,0.3,NOP
+22022,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.507,29,0.137,0.933,0.448,0.18,0.24,0.16,0.07,0.4,0.517,1.6,1.4,0.4,1.0,0.6,NOP
+22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.862,75,0.08,0.739,0.37,0.07,0.14,0.07,0.0,0.36,0.398,0.9,0.7,0.3,0.7,0.5,NOP
+22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.057,47,0.17,1.293,0.548,0.2,0.07,0.2,0.02,0.59,0.629,0.9,1.1,0.4,0.7,0.3,NOP
+22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.436,79,0.08,0.965,0.438,0.09,0.09,0.09,0.02,0.42,0.51,0.7,0.7,0.3,0.6,0.3,NOP
+22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.69,77,0.099,0.859,0.412,0.14,0.09,0.14,0.03,0.41,0.431,0.8,0.7,0.3,0.7,0.4,NOP
+22022,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.732,65,0.142,0.831,0.379,0.12,0.14,0.1,0.01,0.38,0.44,1.2,1.0,0.3,0.9,0.6,NOP
+22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.56,66,0.093,0.917,0.393,0.12,0.04,0.08,0.01,0.44,0.41,1.1,1.0,0.4,0.9,0.6,NOP

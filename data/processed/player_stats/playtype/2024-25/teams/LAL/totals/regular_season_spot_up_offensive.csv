@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.961,73,0.204,1.324,0.474,0.097,0.025,0.09,0.025,0.5,0.643,278,368,119,251,132,LAL
+22024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.819,59,0.353,1.18,0.437,0.017,0.029,0.017,0.004,0.431,0.6,239,282,100,229,129,LAL
+22024,1642261,Dalton Knecht,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.953,78,0.312,1.296,0.455,0.02,0.01,0.02,0.005,0.459,0.644,196,254,87,191,104,LAL
+22024,1629216,Gabe Vincent,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.624,72,0.446,1.081,0.39,0.014,0.033,0.01,0.0,0.386,0.555,210,227,78,200,122,LAL
+22024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.58,70,0.106,1.062,0.401,0.034,0.062,0.034,0.006,0.393,0.559,178,189,65,162,97,LAL
+22024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.596,43,0.498,1.068,0.403,0.012,0.068,0.012,0.0,0.383,0.57,162,173,60,149,89,LAL
+22024,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.702,46,0.397,1.125,0.405,0.069,0.035,0.069,0.014,0.424,0.561,144,162,53,131,78,LAL
+22024,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.813,29,0.22,1.176,0.434,0.0,0.024,0.0,0.0,0.424,0.602,85,100,36,83,47,LAL
+22024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.539,28,0.124,1.042,0.37,0.158,0.032,0.137,0.042,0.421,0.488,95,99,30,81,51,LAL
+22024,1630692,Jordan Goodwin,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.798,29,0.397,1.169,0.443,0.0,0.014,0.0,0.0,0.437,0.593,71,83,31,70,39,LAL
+22024,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.203,42,0.078,0.896,0.385,0.078,0.078,0.065,0.0,0.39,0.462,77,69,25,65,40,LAL
+22024,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.13,33,0.419,0.837,0.295,0.102,0.0,0.102,0.0,0.327,0.409,49,41,13,44,31,LAL
+22024,1629003,Shake Milton,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.434,30,0.289,1.0,0.4,0.027,0.027,0.0,0.0,0.405,0.5,37,37,14,35,21,LAL
+22024,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.06,8,0.481,0.731,0.25,0.077,0.0,0.077,0.0,0.308,0.313,26,19,6,24,18,LAL

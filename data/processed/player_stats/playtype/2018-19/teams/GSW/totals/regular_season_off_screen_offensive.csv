@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.72,78,0.342,1.05,0.438,0.03,0.052,0.03,0.007,0.427,0.544,541,568,219,500,281,GSW
+22018,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.97,69,0.201,1.286,0.467,0.052,0.043,0.049,0.012,0.468,0.641,329,423,141,302,161,GSW
+22018,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.849,78,0.089,1.105,0.518,0.062,0.086,0.062,0.006,0.5,0.579,162,179,72,139,67,GSW
+22018,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.698,74,0.11,1.036,0.46,0.018,0.073,0.018,0.0,0.436,0.55,55,57,23,50,27,GSW
+22018,201973,Jonas Jerebko,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.996,73,0.067,1.414,0.615,0.103,0.034,0.103,0.034,0.621,0.712,29,41,16,26,10,GSW
+22018,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.53,32,0.184,0.963,0.385,0.037,0.0,0.037,0.0,0.407,0.462,27,26,10,26,16,GSW
+22018,202326,DeMarcus Cousins,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.406,32,0.02,0.9,0.5,0.0,0.2,0.0,0.0,0.4,0.563,10,9,4,8,4,GSW

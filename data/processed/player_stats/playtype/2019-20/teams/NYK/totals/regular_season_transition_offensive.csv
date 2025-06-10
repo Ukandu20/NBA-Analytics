@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Transition,Offensive,0.176,56,0.209,0.941,0.47,0.198,0.104,0.188,0.05,0.475,0.493,202,190,71,151,80,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,Transition,Offensive,0.249,64,0.11,0.993,0.539,0.188,0.161,0.148,0.034,0.517,0.559,149,148,55,102,47,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,Transition,Offensive,0.851,43,0.107,1.31,0.507,0.083,0.083,0.071,0.036,0.488,0.685,84,110,37,73,36,NYK
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Transition,Offensive,0.382,65,0.189,1.065,0.515,0.183,0.14,0.183,0.032,0.495,0.614,93,99,34,66,32,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,Transition,Offensive,0.837,66,0.094,1.288,0.636,0.121,0.091,0.106,0.045,0.606,0.7,66,85,35,55,20,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Transition,Offensive,0.086,45,0.152,0.839,0.552,0.092,0.287,0.092,0.046,0.402,0.56,87,73,32,58,26,NYK
+22019,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Transition,Offensive,0.977,61,0.092,1.537,0.778,0.171,0.0,0.146,0.049,0.78,0.778,41,63,28,36,8,NYK
+22019,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Transition,Offensive,0.229,48,0.194,0.984,0.414,0.016,0.048,0.016,0.0,0.403,0.517,62,61,24,58,34,NYK
+22019,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Transition,Offensive,0.084,57,0.145,0.839,0.37,0.145,0.145,0.113,0.032,0.371,0.435,62,52,17,46,29,NYK
+22019,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,Transition,Offensive,0.088,29,0.228,0.842,0.358,0.018,0.07,0.018,0.018,0.333,0.443,57,48,19,53,34,NYK
+22019,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,Transition,Offensive,0.786,24,0.242,1.25,0.591,0.222,0.167,0.194,0.0,0.583,0.705,36,45,13,22,9,NYK
+22019,201961,Wayne Ellington,1610612752,NYK,New York Knicks,Transition,Offensive,0.914,36,0.133,1.385,0.524,0.077,0.115,0.077,0.0,0.5,0.762,26,36,11,21,10,NYK
+22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,Transition,Offensive,0.735,62,0.075,1.222,0.542,0.111,0.0,0.111,0.0,0.593,0.563,27,33,13,24,11,NYK
+22019,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Transition,Offensive,0.029,34,0.168,0.612,0.333,0.163,0.265,0.143,0.041,0.327,0.35,49,30,10,30,20,NYK
+22019,203090,Maurice Harkless,1610612752,NYK,New York Knicks,Transition,Offensive,0.386,12,0.179,1.067,0.545,0.333,0.067,0.333,0.133,0.533,0.545,15,16,6,11,5,NYK

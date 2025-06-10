@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.457,9,0.245,1.018,0.615,0.143,0.161,0.161,0.018,0.5,0.654,56,57,24,39,15,MIL
+42019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.926,10,0.121,1.5,0.64,0.214,0.036,0.179,0.143,0.643,0.76,28,42,16,25,9,MIL
+42019,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.296,9,0.26,0.912,0.478,0.147,0.206,0.147,0.029,0.441,0.522,34,31,11,23,12,MIL
+42019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.408,10,0.105,1.0,0.385,0.071,0.071,0.071,0.071,0.357,0.5,14,14,5,13,8,MIL
+42019,2594,Kyle Korver,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,10,0.148,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,8,12,4,8,4,MIL
+42019,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.247,10,0.188,0.846,0.3,0.077,0.154,0.0,0.0,0.308,0.45,13,11,3,10,7,MIL
+42019,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,10,0.129,0.778,0.375,0.0,0.111,0.0,0.0,0.333,0.438,9,7,3,8,5,MIL
+42019,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,10,0.095,0.556,0.286,0.0,0.222,0.0,0.0,0.222,0.357,9,5,2,7,5,MIL
+42019,101107,Marvin Williams,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,10,0.078,0.75,0.25,0.25,0.0,0.25,0.25,0.25,0.25,4,3,1,4,3,MIL
+42019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,3,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42019,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,10,0.122,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4,MIL

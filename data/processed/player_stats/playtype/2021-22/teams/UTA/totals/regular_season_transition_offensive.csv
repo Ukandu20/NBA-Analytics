@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Transition,Offensive,0.441,69,0.215,1.089,0.477,0.109,0.133,0.081,0.028,0.456,0.587,248,270,93,195,102,UTA
+22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Transition,Offensive,0.246,67,0.145,0.996,0.497,0.126,0.179,0.093,0.033,0.447,0.564,246,245,89,179,90,UTA
+22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.465,79,0.142,1.103,0.461,0.114,0.086,0.092,0.032,0.465,0.562,185,204,71,154,83,UTA
+22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Transition,Offensive,0.784,77,0.244,1.278,0.596,0.075,0.143,0.053,0.038,0.526,0.725,133,170,65,109,44,UTA
+22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.958,66,0.072,1.5,0.868,0.317,0.083,0.317,0.033,0.817,0.868,60,90,33,38,5,UTA
+22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Transition,Offensive,0.238,72,0.084,0.976,0.435,0.037,0.122,0.024,0.0,0.402,0.551,82,80,30,69,39,UTA
+22021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Transition,Offensive,0.648,25,0.29,1.2,0.543,0.156,0.067,0.156,0.0,0.578,0.657,45,54,19,35,16,UTA
+22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Transition,Offensive,0.074,55,0.143,0.803,0.34,0.091,0.121,0.091,0.015,0.348,0.434,66,53,18,53,35,UTA
+22021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Transition,Offensive,0.856,65,0.063,1.345,0.68,0.172,0.069,0.172,0.103,0.655,0.68,29,39,17,25,8,UTA
+22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Transition,Offensive,0.205,58,0.135,0.95,0.4,0.225,0.125,0.225,0.1,0.425,0.433,40,38,12,30,18,UTA
+22021,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.202,45,0.115,0.949,0.353,0.051,0.077,0.0,0.0,0.359,0.5,39,37,12,34,22,UTA
+22021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Transition,Offensive,0.82,16,0.213,1.316,0.692,0.158,0.158,0.158,0.0,0.632,0.808,19,25,9,13,4,UTA
+22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,Transition,Offensive,0.258,60,0.103,1.0,0.625,0.13,0.217,0.13,0.043,0.522,0.625,23,23,10,16,6,UTA
+22021,1629638,Nickeil Alexander-Walker,1610612762,UTA,Utah Jazz,Transition,Offensive,0.024,14,0.2,0.667,0.182,0.25,0.0,0.25,0.167,0.25,0.182,12,8,2,11,9,UTA

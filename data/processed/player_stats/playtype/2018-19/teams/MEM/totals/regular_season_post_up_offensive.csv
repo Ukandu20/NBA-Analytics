@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.319,53,0.245,0.849,0.449,0.138,0.151,0.106,0.014,0.44,0.449,218,185,71,158,87,MEM
+22018,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.515,58,0.248,0.927,0.476,0.145,0.13,0.124,0.041,0.456,0.476,193,179,70,147,77,MEM
+22018,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.897,19,0.293,1.118,0.577,0.191,0.109,0.173,0.009,0.582,0.577,110,123,45,78,33,MEM
+22018,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.227,41,0.137,0.786,0.41,0.125,0.179,0.089,0.0,0.393,0.41,56,44,16,39,23,MEM
+22018,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.841,49,0.129,1.083,0.621,0.056,0.139,0.056,0.0,0.556,0.621,36,39,18,29,11,MEM
+22018,201149,Joakim Noah,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.005,42,0.076,0.417,0.267,0.125,0.25,0.125,0.0,0.25,0.267,24,10,4,15,11,MEM

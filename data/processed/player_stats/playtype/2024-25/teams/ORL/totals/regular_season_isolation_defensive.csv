@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.779,23,0.09,0.75,0.3,0.188,0.188,0.188,0.0,0.375,0.35,16,12,3,10,7,ORL
+22024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.813,40,0.087,0.722,0.357,0.111,0.167,0.111,0.056,0.333,0.357,18,13,5,14,9,ORL
+22024,203914,Gary Harris,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.435,43,0.065,0.941,0.6,0.176,0.294,0.176,0.059,0.412,0.65,17,16,6,10,4,ORL
+22024,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.227,51,0.088,1.053,0.5,0.158,0.211,0.158,0.0,0.474,0.583,19,20,6,12,6,ORL
+22024,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.686,35,0.077,0.808,0.381,0.038,0.154,0.038,0.0,0.346,0.452,26,21,8,21,13,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.944,78,0.066,0.571,0.275,0.082,0.122,0.082,0.02,0.286,0.275,49,28,11,40,29,ORL
+22024,1641724,Jett Howard,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.011,45,0.108,1.435,0.471,0.261,0.0,0.261,0.0,0.609,0.588,23,33,8,17,9,ORL
+22024,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.671,65,0.116,0.818,0.4,0.091,0.136,0.091,0.023,0.386,0.429,44,36,14,35,21,ORL
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.16,61,0.087,1.108,0.433,0.189,0.027,0.162,0.027,0.514,0.517,37,41,13,30,17,ORL
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.537,75,0.078,0.885,0.341,0.173,0.096,0.173,0.058,0.385,0.366,52,46,14,41,27,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.7,46,0.116,0.803,0.347,0.115,0.098,0.115,0.016,0.377,0.388,61,49,17,49,32,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.278,73,0.129,1.016,0.479,0.113,0.129,0.113,0.016,0.468,0.521,62,63,23,48,25,ORL
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.284,60,0.106,1.015,0.48,0.136,0.121,0.136,0.015,0.485,0.53,66,67,24,50,26,ORL
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.551,69,0.148,0.876,0.411,0.086,0.076,0.086,0.019,0.419,0.439,105,92,37,90,53,ORL

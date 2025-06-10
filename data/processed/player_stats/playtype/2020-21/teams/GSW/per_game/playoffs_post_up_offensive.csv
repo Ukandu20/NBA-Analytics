@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,2,0.114,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,2.5,3.0,1.5,2.5,1.0,GSW
+42020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,2,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,GSW
+42020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,2,0.034,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,GSW

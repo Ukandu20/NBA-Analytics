@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.6,6,0.192,0.9,0.389,0.05,0.05,0.05,0.0,0.4,0.444,20,18,7,18,11,MIL

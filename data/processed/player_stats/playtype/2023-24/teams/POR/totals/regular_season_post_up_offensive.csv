@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629028,Deandre Ayton,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.252,56,0.163,0.889,0.477,0.035,0.097,0.035,0.021,0.438,0.477,144,128,61,128,67,POR
+22023,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.554,54,0.069,1.0,0.547,0.184,0.171,0.145,0.053,0.5,0.547,76,76,29,53,24,POR
+22023,1641871,Duop Reath,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.748,68,0.041,1.083,0.5,0.208,0.042,0.208,0.0,0.583,0.5,24,26,9,18,9,POR
+22023,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.046,72,0.022,0.643,0.308,0.071,0.0,0.071,0.0,0.357,0.308,14,9,4,13,9,POR

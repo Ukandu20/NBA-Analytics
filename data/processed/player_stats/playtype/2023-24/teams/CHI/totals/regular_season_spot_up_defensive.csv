@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641931,Onuralp Bitim,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.055,20,0.374,1.325,0.486,0.05,0.025,0.05,0.0,0.5,0.676,40,53,18,37,19,CHI
+22023,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.51,51,0.317,1.039,0.384,0.013,0.052,0.013,0.013,0.364,0.541,77,80,28,73,45,CHI
+22023,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.207,25,0.409,1.163,0.408,0.019,0.038,0.019,0.0,0.404,0.592,104,121,40,98,58,CHI
+22023,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.555,70,0.209,1.022,0.41,0.045,0.082,0.03,0.0,0.403,0.547,134,137,48,117,69,CHI
+22023,1628975,Jevon Carter,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.602,62,0.422,1.007,0.385,0.064,0.085,0.05,0.014,0.383,0.525,141,142,47,122,75,CHI
+22023,1628470,Torrey Craig,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.228,53,0.345,1.145,0.409,0.029,0.014,0.022,0.0,0.413,0.58,138,158,54,132,78,CHI
+22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.251,43,0.37,1.133,0.441,0.056,0.07,0.049,0.014,0.427,0.598,143,162,56,127,71,CHI
+22023,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.584,73,0.179,1.015,0.379,0.06,0.045,0.06,0.015,0.39,0.508,200,203,69,182,113,CHI
+22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.285,75,0.309,1.123,0.418,0.039,0.035,0.039,0.009,0.421,0.577,228,256,89,213,124,CHI
+22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.822,79,0.479,0.9,0.345,0.028,0.058,0.017,0.003,0.342,0.473,360,324,114,330,216,CHI
+22023,1629632,Coby White,1610612741,CHI,Chicago Bulls,Spotup,Defensive,0.385,79,0.432,1.09,0.413,0.038,0.045,0.029,0.013,0.409,0.557,445,485,171,414,243,CHI

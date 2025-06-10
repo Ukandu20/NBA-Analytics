@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Postup,Defensive,0.997,59,0.018,0.5,0.25,0.1,0.1,0.1,0.0,0.3,0.25,10,5,2,8,6,BOS
+22023,1629052,Oshae Brissett,1610612738,BOS,Boston Celtics,Postup,Defensive,0.294,46,0.052,1.091,0.444,0.182,0.0,0.091,0.0,0.545,0.444,11,12,4,9,5,BOS
+22023,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Postup,Defensive,0.778,78,0.047,0.84,0.333,0.28,0.04,0.24,0.04,0.48,0.333,25,21,6,18,12,BOS
+22023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Defensive,0.92,74,0.056,0.718,0.4,0.154,0.231,0.128,0.026,0.385,0.4,39,28,10,25,15,BOS
+22023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Defensive,0.77,69,0.051,0.842,0.538,0.079,0.237,0.079,0.0,0.447,0.538,38,32,14,26,12,BOS
+22023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Postup,Defensive,0.579,79,0.061,0.971,0.483,0.118,0.059,0.118,0.029,0.5,0.483,34,33,14,29,15,BOS
+22023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Postup,Defensive,0.65,72,0.07,0.921,0.444,0.111,0.063,0.111,0.032,0.46,0.444,63,58,24,54,30,BOS
+22023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Postup,Defensive,0.55,68,0.067,0.984,0.52,0.113,0.097,0.113,0.016,0.5,0.52,62,61,26,50,24,BOS
+22023,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Defensive,0.254,64,0.07,1.109,0.565,0.091,0.091,0.091,0.018,0.545,0.565,55,61,26,46,20,BOS

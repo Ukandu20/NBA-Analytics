@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.741,75,0.576,1.142,0.401,0.011,0.035,0.008,0.003,0.391,0.588,373,426,143,357,214,PHX
+22024,1626145,Tyus Jones,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.788,81,0.418,1.164,0.411,0.033,0.036,0.03,0.009,0.411,0.584,336,391,130,316,186,PHX
+22024,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.917,62,0.201,1.258,0.496,0.034,0.054,0.034,0.017,0.478,0.65,295,371,136,274,138,PHX
+22024,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.912,64,0.466,1.252,0.461,0.07,0.049,0.063,0.014,0.469,0.643,286,358,118,256,138,PHX
+22024,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.528,75,0.14,1.039,0.422,0.043,0.074,0.043,0.016,0.407,0.543,258,268,98,232,134,PHX
+22024,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.728,53,0.273,1.132,0.456,0.034,0.051,0.03,0.004,0.444,0.593,234,265,98,215,117,PHX
+22024,1628420,Monté Morris,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.671,45,0.384,1.11,0.41,0.066,0.022,0.055,0.0,0.44,0.542,91,101,34,83,49,PHX
+22024,1629626,Bol Bol,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.386,36,0.465,0.98,0.396,0.03,0.07,0.03,0.01,0.38,0.522,100,98,36,91,55,PHX
+22024,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.574,25,0.458,1.061,0.436,0.121,0.076,0.121,0.03,0.455,0.545,66,70,24,55,31,PHX
+22024,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.771,25,0.154,1.154,0.395,0.0,0.026,0.0,0.0,0.385,0.592,39,45,15,38,23,PHX
+22024,1628998,Cody Martin,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.013,14,0.493,0.486,0.226,0.0,0.114,0.0,0.0,0.2,0.274,35,17,7,31,24,PHX
+22024,1642345,Oso Ighodaro,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.231,61,0.045,0.909,0.556,0.0,0.182,0.0,0.0,0.455,0.556,11,10,5,9,4,PHX

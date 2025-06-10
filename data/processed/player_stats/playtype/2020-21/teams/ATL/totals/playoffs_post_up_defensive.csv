@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,5,0.029,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,ATL
+42020,1630233,Nathan Knight,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,6,0.25,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,ATL
+42020,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,3,0.036,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,ATL
+42020,1627739,Kris Dunn,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,5,0.1,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,ATL
+42020,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,18,0.024,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,ATL
+42020,203524,Solomon Hill,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,14,0.068,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,6,3,3,0,ATL
+42020,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.871,18,0.065,0.6,0.38,0.0,0.2,0.0,0.0,0.3,0.38,10,6,3,8,5,ATL
+42020,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.935,18,0.139,0.545,0.25,0.18,0.18,0.09,0.09,0.27,0.25,11,6,2,8,6,ATL
+42020,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,18,0.043,0.889,0.43,0.11,0.11,0.11,0.0,0.44,0.43,9,8,3,7,4,ATL
+42020,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,16,0.048,1.667,1.0,0.17,0.17,0.17,0.0,0.83,1.0,6,10,4,4,0,ATL
+42020,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.25,18,0.042,1.0,0.56,0.0,0.1,0.0,0.0,0.5,0.56,10,10,5,9,4,ATL
+42020,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.25,18,0.059,1.0,0.6,0.08,0.15,0.08,0.0,0.54,0.6,13,13,6,10,4,ATL
+42020,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.375,18,0.212,0.97,0.48,0.14,0.12,0.14,0.02,0.48,0.48,66,64,24,50,26,ATL

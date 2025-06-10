@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629004,Svi Mykhailiuk,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.862,39,0.069,0.7,0.3,0.0,0.0,0.0,0.0,0.3,0.35,10,7,3,10,7,LAL
+22018,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.84,75,0.011,0.727,0.3,0.09,0.0,0.09,0.0,0.36,0.3,11,8,3,10,7,LAL
+22018,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.885,55,0.052,0.68,0.227,0.04,0.08,0.0,0.0,0.24,0.341,25,17,5,22,17,LAL
+22018,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.382,26,0.082,1.0,0.389,0.0,0.05,0.0,0.0,0.37,0.528,19,19,7,18,11,LAL
+22018,202362,Lance Stephenson,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.806,68,0.083,0.76,0.273,0.08,0.04,0.08,0.0,0.32,0.341,25,19,6,22,16,LAL
+22018,203493,Reggie Bullock Jr.,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.022,19,0.096,1.5,0.563,0.0,0.0,0.0,0.0,0.56,0.75,16,24,9,16,7,LAL
+22018,1628366,Lonzo Ball,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.528,47,0.061,0.914,0.387,0.0,0.11,0.0,0.0,0.34,0.516,35,32,12,31,19,LAL
+22018,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.215,47,0.076,1.121,0.433,0.06,0.03,0.06,0.0,0.45,0.567,33,37,13,30,17,LAL
+22018,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.575,52,0.082,0.898,0.354,0.0,0.02,0.0,0.0,0.35,0.458,49,44,17,48,31,LAL
+22018,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.67,70,0.08,0.852,0.37,0.05,0.08,0.05,0.02,0.36,0.435,61,52,20,54,34,LAL
+22018,1628404,Josh Hart,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.128,67,0.092,1.206,0.473,0.1,0.06,0.1,0.03,0.48,0.591,63,76,26,55,29,LAL
+22018,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.053,82,0.083,1.35,0.509,0.03,0.02,0.02,0.0,0.52,0.675,60,81,29,57,28,LAL

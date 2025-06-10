@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.126,12,0.19,1.273,0.56,0.091,0.091,0.091,0.0,0.545,0.67,11,14,5,9,4,SAC
+22022,1630556,Kessler Edwards,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.21,22,0.374,1.164,0.41,0.24,0.091,0.24,0.07,0.473,0.51,55,64,17,41,24,SAC
+22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.216,66,0.235,1.16,0.46,0.1,0.062,0.09,0.01,0.469,0.62,81,94,32,69,37,SAC
+22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.137,64,0.367,1.214,0.47,0.1,0.079,0.1,0.02,0.468,0.62,126,153,50,107,57,SAC
+22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.542,79,0.133,1.025,0.43,0.06,0.062,0.05,0.01,0.422,0.53,161,165,62,144,82,SAC
+22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.654,80,0.285,0.988,0.38,0.05,0.064,0.05,0.02,0.37,0.51,173,171,59,157,98,SAC
+22022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.373,74,0.421,1.08,0.42,0.06,0.056,0.05,0.01,0.414,0.56,162,175,60,144,84,SAC
+22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.35,77,0.392,1.094,0.42,0.08,0.052,0.08,0.03,0.427,0.55,213,233,80,191,111,SAC
+22022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.244,80,0.366,1.137,0.44,0.06,0.06,0.05,0.01,0.44,0.59,248,282,97,221,124,SAC
+22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.513,82,0.335,1.034,0.39,0.02,0.047,0.02,0.0,0.383,0.54,321,332,119,302,183,SAC
+22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.612,73,0.394,1.0,0.38,0.04,0.049,0.03,0.01,0.376,0.52,364,364,129,336,207,SAC
+22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.271,75,0.449,1.127,0.43,0.06,0.069,0.06,0.02,0.425,0.58,332,374,127,295,168,SAC

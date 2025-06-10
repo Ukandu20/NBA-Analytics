@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.817,52,0.235,1.3,0.705,0.163,0.113,0.15,0.038,0.65,0.705,80,104,43,61,18,BOS
+22020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.179,54,0.255,0.911,0.467,0.125,0.071,0.125,0.018,0.482,0.467,112,102,43,92,49,BOS
+22020,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.783,42,0.102,1.27,0.667,0.189,0.027,0.162,0.027,0.622,0.667,37,47,20,30,10,BOS
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.124,58,0.038,0.846,0.413,0.096,0.058,0.077,0.038,0.423,0.413,52,44,19,46,27,BOS
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.624,64,0.018,1.167,0.6,0.133,0.067,0.1,0.033,0.6,0.6,30,35,15,25,10,BOS
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.394,63,0.074,1.042,0.529,0.292,0.083,0.208,0.083,0.583,0.529,24,25,9,17,8,BOS
+22020,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.993,56,0.047,1.583,0.889,0.167,0.083,0.167,0.0,0.833,0.889,12,19,8,9,1,BOS
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.677,46,0.07,1.2,0.818,0.0,0.267,0.0,0.0,0.6,0.818,15,18,9,11,2,BOS
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.828,66,0.027,1.308,0.636,0.077,0.077,0.0,0.0,0.615,0.682,13,17,7,11,4,BOS
+22020,1629750,Javonte Green,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.958,25,0.103,1.5,0.75,0.3,0.0,0.3,0.1,0.8,0.75,10,15,6,8,2,BOS
+22020,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.601,18,0.163,1.154,0.583,0.077,0.077,0.077,0.077,0.538,0.583,13,15,7,12,5,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.144,49,0.025,0.882,0.4,0.176,0.0,0.176,0.059,0.471,0.4,17,15,6,15,9,BOS

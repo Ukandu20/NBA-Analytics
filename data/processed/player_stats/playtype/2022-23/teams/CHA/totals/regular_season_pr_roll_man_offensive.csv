@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.767,73,0.105,1.279,0.55,0.115,0.025,0.098,0.03,0.574,0.624,122,156,60,109,49,CHA
+22022,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.873,65,0.211,1.351,0.657,0.298,0.074,0.298,0.12,0.67,0.657,94,127,46,70,24,CHA
+22022,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.638,56,0.178,1.189,0.623,0.283,0.075,0.274,0.08,0.613,0.623,106,126,48,77,29,CHA
+22022,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.663,44,0.201,1.209,0.648,0.164,0.075,0.164,0.04,0.612,0.648,67,81,35,54,19,CHA
+22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.775,50,0.034,1.28,0.6,0.2,0.04,0.2,0.04,0.64,0.6,25,32,12,20,8,CHA
+22022,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.607,56,0.028,1.176,0.533,0.118,0.059,0.118,0.06,0.529,0.567,17,20,8,15,7,CHA
+22022,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.136,48,0.023,0.818,0.263,0.227,0.0,0.227,0.09,0.364,0.263,22,18,5,19,14,CHA
+22022,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.398,64,0.011,1.063,0.467,0.0,0.063,0.0,0.0,0.438,0.567,16,17,7,15,8,CHA
+22022,1630539,Kai Jones,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.199,46,0.099,0.875,0.636,0.0,0.313,0.0,0.0,0.438,0.636,16,14,7,11,4,CHA
+22022,1630550,JT Thor,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.018,69,0.036,0.455,0.286,0.091,0.273,0.091,0.0,0.273,0.286,11,5,2,7,5,CHA

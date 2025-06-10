@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.59,49,0.232,1.33,0.64,0.211,0.028,0.211,0.055,0.67,0.64,2.2,3.0,1.2,1.8,0.7,CHA
+22018,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.167,64,0.18,1.077,0.533,0.218,0.051,0.218,0.038,0.59,0.533,1.2,1.3,0.5,0.9,0.4,CHA
+22018,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.131,58,0.179,1.04,0.533,0.16,0.067,0.16,0.027,0.547,0.533,1.3,1.3,0.6,1.0,0.5,CHA
+22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.874,80,0.086,1.471,0.773,0.098,0.039,0.098,0.0,0.765,0.773,0.6,0.9,0.4,0.6,0.1,CHA
+22018,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.786,75,0.07,1.423,0.727,0.135,0.019,0.115,0.0,0.75,0.727,0.7,1.0,0.4,0.6,0.2,CHA
+22018,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.139,54,0.29,1.045,0.556,0.179,0.075,0.179,0.06,0.537,0.556,1.2,1.3,0.6,1.0,0.4,CHA
+22018,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.699,79,0.034,1.375,0.703,0.05,0.025,0.05,0.0,0.7,0.703,0.5,0.7,0.3,0.5,0.1,CHA
+22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.877,75,0.051,1.472,0.727,0.111,0.028,0.111,0.056,0.722,0.727,0.5,0.7,0.3,0.4,0.1,CHA
+22018,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.849,47,0.086,1.455,0.72,0.273,0.03,0.242,0.061,0.727,0.72,0.7,1.0,0.4,0.5,0.1,CHA
+22018,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.989,73,0.022,1.75,0.923,0.125,0.063,0.125,0.0,0.875,0.923,0.2,0.4,0.2,0.2,0.0,CHA
+22018,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.011,82,0.008,0.647,0.417,0.059,0.176,0.118,0.0,0.353,0.417,0.2,0.1,0.1,0.1,0.1,CHA

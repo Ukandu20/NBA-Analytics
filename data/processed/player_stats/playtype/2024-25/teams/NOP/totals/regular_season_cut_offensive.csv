@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1642274,Yves Missi,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.11,73,0.257,1.006,0.526,0.146,0.088,0.146,0.035,0.526,0.526,171,172,72,137,65,NOP
+22024,1631255,Karlo Matković,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.787,42,0.191,1.429,0.7,0.125,0.036,0.125,0.054,0.696,0.7,56,80,35,50,15,NOP
+22024,1630526,Jeremiah Robinson-Earl,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.314,66,0.128,1.204,0.636,0.111,0.093,0.111,0.019,0.611,0.636,54,65,28,44,16,NOP
+22024,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.264,30,0.074,1.173,0.622,0.154,0.038,0.154,0.058,0.596,0.622,52,61,28,45,17,NOP
+22024,1629750,Javonte Green,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.925,50,0.104,1.586,0.731,0.241,0.034,0.241,0.172,0.724,0.731,29,46,19,26,7,NOP
+22024,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.602,53,0.032,1.333,0.708,0.242,0.121,0.242,0.091,0.667,0.708,33,44,17,24,7,NOP
+22024,1628464,Daniel Theis,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.204,38,0.18,1.129,0.556,0.097,0.032,0.097,0.0,0.581,0.556,31,35,15,27,12,NOP
+22024,1628971,Bruce Brown,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.173,23,0.146,1.097,0.556,0.097,0.065,0.097,0.032,0.548,0.556,31,34,15,27,12,NOP
+22024,1630527,Brandon Boston,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.889,42,0.036,1.529,0.733,0.118,0.0,0.118,0.0,0.765,0.733,17,26,11,15,4,NOP
+22024,1641810,Antonio Reeves,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.665,44,0.065,1.368,0.667,0.158,0.053,0.105,0.0,0.684,0.667,19,26,10,15,5,NOP
+22024,203482,Kelly Olynyk,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.158,20,0.108,1.083,0.5,0.208,0.083,0.208,0.042,0.542,0.5,24,26,9,18,9,NOP
+22024,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.698,56,0.015,1.389,0.667,0.167,0.0,0.167,0.0,0.722,0.667,18,25,10,15,5,NOP
+22024,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.691,56,0.021,1.385,0.9,0.0,0.231,0.0,0.0,0.692,0.9,13,18,9,10,1,NOP
+22024,1631232,Keion Brooks Jr.,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.041,14,0.121,0.875,0.467,0.0,0.063,0.0,0.0,0.438,0.467,16,14,7,15,8,NOP
+22024,1641998,Trey Jemison III,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.028,16,0.192,0.8,0.375,0.1,0.1,0.1,0.0,0.4,0.375,10,8,3,8,5,NOP

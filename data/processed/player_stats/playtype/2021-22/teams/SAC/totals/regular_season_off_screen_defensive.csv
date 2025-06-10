@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.79,24,0.076,0.769,0.308,0.0,0.0,0.0,0.0,0.31,0.385,13,10,4,13,9,SAC
+22021,1628978,Donte DiVincenzo,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.915,25,0.077,0.632,0.263,0.05,0.0,0.05,0.05,0.26,0.289,19,12,5,19,14,SAC
+22021,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.088,30,0.049,1.308,0.5,0.08,0.08,0.08,0.08,0.46,0.667,13,17,6,12,6,SAC
+22021,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.049,56,0.03,1.4,0.571,0.0,0.07,0.0,0.0,0.53,0.75,15,21,8,14,6,SAC
+22021,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.625,47,0.075,0.88,0.4,0.04,0.16,0.04,0.0,0.36,0.5,25,22,8,20,12,SAC
+22021,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.217,61,0.048,1.13,0.476,0.04,0.09,0.04,0.04,0.43,0.595,23,26,10,21,11,SAC
+22021,203200,Justin Holiday,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.292,25,0.115,1.083,0.4,0.08,0.08,0.08,0.0,0.42,0.5,24,26,8,20,12,SAC
+22021,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.373,55,0.054,1.0,0.4,0.07,0.04,0.04,0.0,0.43,0.5,28,28,10,25,15,SAC
+22021,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.424,59,0.045,0.972,0.364,0.03,0.06,0.03,0.0,0.36,0.485,36,35,12,33,21,SAC
+22021,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.302,51,0.08,1.075,0.486,0.02,0.05,0.02,0.0,0.48,0.568,40,43,18,37,19,SAC
+22021,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.32,77,0.075,1.052,0.444,0.05,0.03,0.05,0.02,0.45,0.528,58,61,24,54,30,SAC
+22021,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.335,75,0.077,1.033,0.404,0.03,0.05,0.03,0.02,0.39,0.535,61,63,23,57,34,SAC

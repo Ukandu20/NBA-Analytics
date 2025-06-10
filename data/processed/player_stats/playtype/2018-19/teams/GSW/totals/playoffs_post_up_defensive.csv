@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201973,Jonas Jerebko,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,16,0.061,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,GSW
+42018,1628395,Jordan Bell,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,15,0.039,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,GSW
+42018,1628035,Alfonzo McKinnie,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,22,0.059,0.8,0.0,0.6,0.0,0.6,0.0,0.6,0.0,5,4,0,2,2,GSW
+42018,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.88,22,0.039,0.5,0.4,0.1,0.4,0.0,0.0,0.3,0.4,10,5,2,5,3,GSW
+42018,101106,Andrew Bogut,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,19,0.082,0.75,0.43,0.12,0.12,0.12,0.12,0.38,0.43,8,6,3,7,4,GSW
+42018,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,12,0.076,0.667,0.33,0.11,0.22,0.11,0.0,0.33,0.33,9,6,2,6,4,GSW
+42018,202326,DeMarcus Cousins,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,8,0.082,1.167,0.5,0.5,0.17,0.5,0.0,0.67,0.5,6,7,1,2,1,GSW
+42018,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,22,0.075,1.143,0.67,0.29,0.29,0.14,0.0,0.57,0.67,7,8,2,3,1,GSW
+42018,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.76,21,0.052,0.533,0.31,0.07,0.13,0.07,0.07,0.27,0.31,15,8,4,13,9,GSW
+42018,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.88,22,0.062,0.5,0.33,0.12,0.31,0.12,0.0,0.31,0.33,16,8,3,9,6,GSW
+42018,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,21,0.035,1.0,0.5,0.11,0.11,0.11,0.11,0.44,0.5,9,9,4,8,4,GSW
+42018,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,21,0.036,1.111,0.57,0.11,0.11,0.0,0.0,0.56,0.57,9,10,4,7,3,GSW

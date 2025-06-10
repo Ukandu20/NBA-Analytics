@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203471,Dennis Schröder,1610612745,HOU,Houston Rockets,Postup,Defensive,0.9,15,0.131,0.688,0.273,0.19,0.12,0.12,0.0,0.38,0.273,16,11,3,11,8,HOU
+22021,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,Postup,Defensive,0.124,42,0.063,1.231,0.571,0.38,0.15,0.31,0.08,0.62,0.571,13,16,4,7,3,HOU
+22021,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Postup,Defensive,0.167,74,0.038,1.167,0.75,0.17,0.17,0.11,0.0,0.61,0.75,18,21,9,12,3,HOU
+22021,1628021,David Nwaba,1610612745,HOU,Houston Rockets,Postup,Defensive,0.732,46,0.101,0.84,0.429,0.08,0.08,0.04,0.0,0.44,0.429,25,21,9,21,12,HOU
+22021,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Postup,Defensive,0.553,79,0.072,0.935,0.45,0.23,0.16,0.23,0.03,0.45,0.45,31,29,9,20,11,HOU
+22021,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Postup,Defensive,0.932,57,0.103,0.659,0.324,0.09,0.14,0.09,0.02,0.32,0.324,44,29,11,34,23,HOU
+22021,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,Postup,Defensive,0.132,65,0.064,1.206,0.611,0.29,0.21,0.26,0.03,0.59,0.611,34,41,11,18,7,HOU
+22021,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Postup,Defensive,0.563,61,0.064,0.932,0.581,0.14,0.18,0.09,0.02,0.5,0.581,44,41,18,31,13,HOU
+22021,1628464,Daniel Theis,1610612745,HOU,Houston Rockets,Postup,Defensive,0.153,26,0.134,1.179,0.633,0.15,0.13,0.15,0.05,0.59,0.633,39,46,19,30,11,HOU
+22021,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Postup,Defensive,0.206,67,0.07,1.122,0.581,0.2,0.15,0.17,0.1,0.54,0.581,41,46,18,31,13,HOU
+22021,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Postup,Defensive,0.382,72,0.073,1.018,0.537,0.18,0.11,0.15,0.04,0.51,0.537,55,56,22,41,19,HOU
+22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Postup,Defensive,0.718,78,0.106,0.848,0.419,0.14,0.1,0.11,0.03,0.44,0.419,79,67,26,62,36,HOU
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Postup,Defensive,0.35,68,0.077,1.042,0.532,0.11,0.06,0.11,0.03,0.54,0.532,72,75,33,62,29,HOU

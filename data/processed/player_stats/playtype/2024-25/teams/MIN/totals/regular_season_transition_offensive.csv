@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.692,79,0.151,1.208,0.538,0.131,0.096,0.122,0.038,0.526,0.626,312,377,136,253,117,MIN
+22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.489,69,0.141,1.122,0.573,0.21,0.138,0.199,0.033,0.564,0.609,181,203,71,124,53,MIN
+22024,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.7,82,0.178,1.213,0.535,0.118,0.081,0.103,0.037,0.529,0.632,136,165,61,114,53,MIN
+22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.369,80,0.135,1.061,0.538,0.075,0.156,0.068,0.027,0.463,0.628,147,156,63,117,54,MIN
+22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.344,62,0.159,1.053,0.483,0.053,0.167,0.035,0.0,0.421,0.624,114,120,43,89,46,MIN
+22024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.977,72,0.084,1.525,0.75,0.213,0.033,0.197,0.033,0.77,0.75,61,93,36,48,12,MIN
+22024,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.122,71,0.138,0.913,0.385,0.038,0.15,0.038,0.0,0.35,0.508,80,73,25,65,40,MIN
+22024,1630545,Terrence Shannon Jr.,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.545,32,0.304,1.143,0.645,0.119,0.167,0.119,0.024,0.571,0.645,42,48,20,31,11,MIN
+22024,1642265,Rob Dillingham,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.048,49,0.2,0.778,0.476,0.074,0.204,0.074,0.056,0.37,0.488,54,42,20,42,22,MIN
+22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.366,40,0.228,1.061,0.464,0.091,0.061,0.091,0.0,0.485,0.554,33,35,13,28,15,MIN

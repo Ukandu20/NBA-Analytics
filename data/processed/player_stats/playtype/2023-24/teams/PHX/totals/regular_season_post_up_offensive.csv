@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.245,75,0.194,0.886,0.48,0.205,0.119,0.182,0.034,0.489,0.48,176,156,60,125,65,PHX
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.26,74,0.092,0.893,0.472,0.119,0.155,0.107,0.03,0.446,0.472,168,150,60,127,67,PHX
+22023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.775,67,0.032,1.115,0.526,0.212,0.115,0.173,0.058,0.538,0.526,52,58,20,38,18,PHX
+22023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.912,53,0.011,1.2,0.625,0.1,0.1,0.1,0.0,0.6,0.625,10,12,5,8,3,PHX
+22023,1629234,Drew Eubanks,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.146,74,0.04,0.786,0.455,0.071,0.143,0.071,0.0,0.429,0.455,14,11,5,11,6,PHX

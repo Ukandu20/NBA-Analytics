@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.952,66,0.019,0.6,0.22,0.1,0.0,0.1,0.0,0.3,0.22,0.2,0.0,0.0,0.1,0.1,SAS
+22022,1631230,Dominick Barlow,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.557,28,0.052,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,0.4,0.0,0.1,0.4,0.2,SAS
+22022,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.258,35,0.039,1.2,0.6,0.4,0.1,0.4,0.0,0.6,0.7,0.3,0.0,0.1,0.1,0.1,SAS
+22022,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.667,56,0.023,0.923,0.45,0.0,0.15,0.0,0.0,0.38,0.55,0.2,0.0,0.1,0.2,0.1,SAS
+22022,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.045,19,0.056,1.5,0.6,0.0,0.0,0.0,0.0,0.6,0.75,0.5,1.0,0.3,0.5,0.2,SAS
+22022,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.126,63,0.018,1.364,0.6,0.09,0.09,0.09,0.09,0.55,0.75,0.2,0.0,0.1,0.2,0.1,SAS
+22022,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.24,68,0.019,1.214,0.58,0.0,0.14,0.0,0.0,0.5,0.71,0.2,0.0,0.1,0.2,0.1,SAS
+22022,1628966,Keita Bates-Diop,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.059,67,0.038,1.474,0.53,0.0,0.0,0.0,0.0,0.53,0.74,0.3,0.0,0.1,0.3,0.1,SAS
+22022,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.441,46,0.062,1.075,0.5,0.0,0.05,0.0,0.0,0.48,0.57,0.9,1.0,0.4,0.8,0.4,SAS
+22022,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,PRRollMan,Defensive,0.625,63,0.064,0.941,0.44,0.18,0.14,0.18,0.08,0.37,0.53,0.8,1.0,0.3,0.6,0.3,SAS

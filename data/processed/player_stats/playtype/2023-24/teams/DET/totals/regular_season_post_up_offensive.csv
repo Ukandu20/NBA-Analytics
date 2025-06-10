@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,Postup,Offensive,0.325,46,0.125,0.902,0.5,0.23,0.197,0.23,0.016,0.508,0.5,61,55,18,36,18,DET
+22023,1630164,James Wiseman,1610612765,DET,Detroit Pistons,Postup,Offensive,0.821,63,0.114,1.149,0.576,0.213,0.128,0.17,0.043,0.574,0.576,47,54,19,33,14,DET
+22023,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Postup,Offensive,0.238,61,0.068,0.885,0.516,0.173,0.269,0.173,0.038,0.442,0.516,52,46,16,31,15,DET
+22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Postup,Offensive,0.139,62,0.028,0.78,0.433,0.073,0.195,0.073,0.0,0.39,0.433,41,32,13,30,17,DET
+22023,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,Postup,Offensive,0.633,26,0.113,1.037,0.5,0.222,0.111,0.185,0.074,0.519,0.5,27,28,10,20,10,DET
+22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Postup,Offensive,0.22,28,0.032,0.882,0.385,0.176,0.118,0.176,0.059,0.412,0.385,17,15,5,13,8,DET
+22023,1629002,Chimezie Metu,1610612765,DET,Detroit Pistons,Postup,Offensive,0.912,14,0.068,1.2,0.625,0.1,0.1,0.1,0.0,0.6,0.625,10,12,5,8,3,DET

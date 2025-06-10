@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629109,Gary Clark,1610612753,ORL,Orlando Magic,Isolation,Defensive,1.0,24,0.092,0.25,0.1,0.08,0.08,0.08,0.0,0.17,0.1,0.5,0.1,0.0,0.4,0.4,ORL
+22019,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.992,18,0.079,0.364,0.4,0.09,0.55,0.09,0.09,0.18,0.4,0.6,0.2,0.1,0.3,0.2,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.789,57,0.031,0.733,0.36,0.07,0.0,0.07,0.0,0.33,0.39,0.3,0.2,0.1,0.2,0.2,ORL
+22019,203516,James Ennis III,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.013,20,0.061,1.5,0.56,0.2,0.0,0.2,0.1,0.6,0.67,0.5,0.8,0.3,0.5,0.2,ORL
+22019,203920,Khem Birch,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.707,48,0.057,0.783,0.35,0.09,0.17,0.09,0.0,0.35,0.38,0.5,0.4,0.1,0.4,0.2,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.858,34,0.096,0.697,0.3,0.15,0.18,0.15,0.03,0.33,0.33,1.0,0.7,0.2,0.7,0.5,ORL
+22019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.176,52,0.061,1.136,0.47,0.23,0.0,0.18,0.09,0.55,0.47,0.4,0.5,0.2,0.4,0.2,ORL
+22019,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.457,62,0.059,0.933,0.35,0.2,0.07,0.2,0.03,0.4,0.46,0.5,0.5,0.1,0.4,0.2,ORL
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.106,45,0.077,1.214,0.59,0.18,0.11,0.14,0.07,0.57,0.66,0.6,0.8,0.3,0.5,0.2,ORL
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.224,69,0.06,1.097,0.43,0.26,0.06,0.23,0.06,0.52,0.46,0.4,0.5,0.1,0.3,0.2,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.835,62,0.07,0.708,0.34,0.1,0.17,0.08,0.0,0.35,0.37,0.8,0.5,0.2,0.6,0.4,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.254,72,0.045,1.081,0.54,0.16,0.11,0.16,0.03,0.54,0.57,0.5,0.6,0.2,0.4,0.2,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.281,66,0.082,1.063,0.5,0.13,0.1,0.13,0.02,0.49,0.55,1.0,1.0,0.4,0.8,0.4,ORL
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.301,62,0.061,1.046,0.48,0.08,0.03,0.08,0.03,0.49,0.51,1.0,1.1,0.5,1.0,0.5,ORL

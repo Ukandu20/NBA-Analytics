@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.882,74,0.158,1.152,0.492,0.269,0.061,0.261,0.068,0.561,0.497,264,304,96,195,99,CHI
+22022,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.831,77,0.125,1.095,0.486,0.14,0.095,0.14,0.045,0.489,0.55,221,242,87,179,92,CHI
+22022,1629632,Coby White,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.387,74,0.037,0.846,0.391,0.077,0.077,0.077,0.038,0.385,0.435,26,22,9,23,14,CHI
+22022,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.213,82,0.023,0.737,0.353,0.053,0.053,0.053,0.0,0.368,0.382,19,14,6,17,11,CHI
+22022,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.518,82,0.007,0.9,0.444,0.1,0.0,0.1,0.0,0.5,0.444,10,9,4,9,5,CHI

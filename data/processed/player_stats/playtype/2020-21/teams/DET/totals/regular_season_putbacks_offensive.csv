@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.502,68,0.215,1.099,0.57,0.045,0.054,0.045,0.0,0.559,0.57,111,122,57,100,43,DET
+22020,203486,Mason Plumlee,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.751,56,0.107,1.25,0.68,0.083,0.083,0.067,0.0,0.65,0.68,60,75,34,50,16,DET
+22020,1628367,Josh Jackson,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.639,62,0.037,1.171,0.586,0.171,0.057,0.171,0.057,0.571,0.586,35,41,17,29,12,DET
+22020,203924,Jerami Grant,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.874,54,0.02,1.333,0.65,0.167,0.083,0.167,0.083,0.625,0.65,24,32,13,20,7,DET
+22020,1629635,Sekou Doumbouya,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.624,56,0.068,1.167,0.571,0.083,0.042,0.083,0.0,0.583,0.571,24,28,12,21,9,DET
+22020,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.715,70,0.027,1.227,0.5,0.227,0.0,0.273,0.0,0.591,0.563,22,27,8,16,8,DET
+22020,1626143,Jahlil Okafor,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.677,27,0.146,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,20,24,12,18,6,DET
+22020,1629076,Tyler Cook,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.576,28,0.101,1.143,0.571,0.0,0.0,0.0,0.0,0.571,0.571,14,16,8,14,6,DET
+22020,1626153,Delon Wright,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.311,36,0.026,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,DET
+22020,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.017,20,0.065,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,15,10,5,15,10,DET

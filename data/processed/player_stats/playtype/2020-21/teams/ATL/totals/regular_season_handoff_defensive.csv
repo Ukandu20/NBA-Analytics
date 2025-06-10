@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.832,63,0.011,0.7,0.3,0.1,0.0,0.1,0.1,0.3,0.35,10,7,3,10,7,ATL
+22020,200765,Rajon Rondo,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.814,27,0.076,0.727,0.25,0.091,0.182,0.091,0.0,0.273,0.31,11,8,2,8,6,ATL
+22020,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.967,24,0.061,0.471,0.21,0.0,0.176,0.0,0.0,0.176,0.29,17,8,3,14,11,ATL
+22020,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.901,63,0.024,0.625,0.29,0.0,0.125,0.0,0.0,0.25,0.36,16,10,4,14,10,ATL
+22020,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.651,24,0.093,0.857,0.42,0.071,0.071,0.071,0.0,0.429,0.42,14,12,5,12,7,ATL
+22020,1629164,Brandon Goodwin,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.615,47,0.064,0.875,0.31,0.125,0.063,0.125,0.0,0.375,0.38,16,14,4,13,9,ATL
+22020,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.464,51,0.048,0.952,0.41,0.19,0.048,0.19,0.05,0.429,0.47,21,20,7,17,10,ATL
+22020,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.379,27,0.09,1.0,0.48,0.069,0.138,0.069,0.0,0.414,0.59,29,29,11,23,12,ATL
+22020,203524,Solomon Hill,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.479,71,0.069,0.946,0.47,0.081,0.135,0.081,0.03,0.432,0.52,37,35,14,30,16,ATL
+22020,203503,Tony Snell,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.237,47,0.087,1.091,0.54,0.061,0.152,0.061,0.0,0.485,0.63,33,36,14,26,12,ATL
+22020,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.532,44,0.081,0.923,0.4,0.103,0.051,0.103,0.05,0.41,0.46,39,36,14,35,21,ATL
+22020,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.379,64,0.067,1.0,0.39,0.093,0.07,0.093,0.05,0.395,0.5,43,43,15,38,23,ATL
+22020,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.147,69,0.084,1.175,0.48,0.159,0.095,0.095,0.02,0.508,0.57,63,74,23,48,25,ATL

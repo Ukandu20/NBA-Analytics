@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.759,13,0.038,1.077,0.5,0.154,0.077,0.231,0.077,0.462,0.55,13,14,5,10,5,LAC
+42019,101150,Lou Williams,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,13,0.039,0.571,0.4,0.0,0.286,0.0,0.0,0.286,0.4,7,4,2,5,3,LAC
+42019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,13,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAC
+42019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,13,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAC
+42019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,13,0.027,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,LAC
+42019,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Offensive,0.034,13,0.039,0.182,0.0,0.091,0.091,0.091,0.0,0.091,0.0,11,2,0,9,9,LAC
+42019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,5,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAC

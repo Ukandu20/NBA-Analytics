@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.484,58,0.187,1.064,0.53,0.128,0.038,0.141,0.026,0.551,0.53,78,83,35,66,31,CHA
+22018,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.422,49,0.121,1.018,0.49,0.088,0.018,0.088,0.0,0.526,0.49,57,58,25,51,26,CHA
+22018,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.838,64,0.092,1.275,0.643,0.25,0.1,0.25,0.05,0.65,0.643,40,51,18,28,10,CHA
+22018,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.718,54,0.186,1.186,0.559,0.233,0.047,0.209,0.07,0.605,0.559,43,51,19,34,15,CHA
+22018,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.575,79,0.038,1.114,0.579,0.136,0.023,0.136,0.023,0.591,0.579,44,49,22,38,16,CHA
+22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.818,80,0.061,1.25,0.667,0.0,0.083,0.0,0.0,0.611,0.682,36,45,22,33,11,CHA
+22018,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.175,75,0.058,0.837,0.415,0.023,0.047,0.023,0.023,0.395,0.427,43,36,17,41,24,CHA
+22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.331,75,0.044,0.968,0.433,0.129,0.0,0.129,0.097,0.452,0.433,31,30,13,30,17,CHA
+22018,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.549,47,0.052,1.1,0.571,0.25,0.1,0.25,0.05,0.6,0.571,20,22,8,14,6,CHA
+22018,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.818,82,0.008,1.25,0.615,0.063,0.188,0.063,0.063,0.5,0.731,16,20,8,13,5,CHA

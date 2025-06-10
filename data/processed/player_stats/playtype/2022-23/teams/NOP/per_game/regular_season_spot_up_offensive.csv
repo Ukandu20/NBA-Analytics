@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.871,79,0.436,1.204,0.434,0.055,0.027,0.052,0.005,0.45,0.6,5.1,6.1,2.0,4.7,2.7,NOP
+22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.818,75,0.165,1.172,0.462,0.019,0.045,0.019,0.007,0.444,0.611,3.6,4.2,1.6,3.4,1.8,NOP
+22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.528,77,0.382,1.025,0.408,0.089,0.064,0.089,0.021,0.415,0.518,3.7,3.8,1.3,3.2,1.9,NOP
+22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.186,66,0.373,0.858,0.33,0.057,0.069,0.057,0.012,0.337,0.431,3.7,3.2,1.1,3.3,2.2,NOP
+22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.89,45,0.154,1.225,0.511,0.112,0.089,0.095,0.012,0.515,0.639,3.8,4.6,1.6,3.0,1.5,NOP
+22022,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.399,61,0.333,0.97,0.347,0.035,0.02,0.03,0.01,0.351,0.479,3.3,3.2,1.1,3.2,2.1,NOP
+22022,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.787,53,0.35,1.152,0.4,0.051,0.051,0.051,0.01,0.404,0.578,1.9,2.2,0.7,1.7,1.0,NOP
+22022,1626196,Josh Richardson,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.554,23,0.466,1.036,0.385,0.012,0.06,0.012,0.012,0.361,0.545,3.6,3.7,1.3,3.4,2.1,NOP
+22022,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.762,79,0.07,1.133,0.435,0.027,0.053,0.027,0.0,0.427,0.594,0.9,1.1,0.4,0.9,0.5,NOP
+22022,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.232,59,0.309,0.897,0.359,0.011,0.092,0.011,0.0,0.333,0.487,1.5,1.3,0.5,1.3,0.8,NOP
+22022,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.759,29,0.09,1.131,0.543,0.18,0.098,0.18,0.033,0.541,0.598,2.1,2.4,0.9,1.6,0.7,NOP
+22022,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.419,65,0.131,0.98,0.375,0.02,0.04,0.02,0.02,0.36,0.51,0.8,0.8,0.3,0.7,0.5,NOP
+22022,1630184,Kira Lewis Jr.,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.745,22,0.223,1.13,0.455,0.0,0.043,0.0,0.0,0.435,0.591,1.0,1.2,0.5,1.0,0.5,NOP
+22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.012,47,0.202,0.489,0.162,0.133,0.044,0.133,0.0,0.222,0.203,1.0,0.5,0.1,0.8,0.7,NOP
+22022,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.463,39,0.055,1.0,0.5,0.143,0.286,0.143,0.0,0.429,0.625,0.4,0.4,0.1,0.2,0.1,NOP

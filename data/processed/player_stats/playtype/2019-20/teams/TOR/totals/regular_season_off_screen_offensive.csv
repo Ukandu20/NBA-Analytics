@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.392,58,0.088,0.889,0.298,0.101,0.061,0.071,0.01,0.343,0.411,99,88,25,84,59,TOR
+22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.586,52,0.11,0.988,0.431,0.037,0.099,0.037,0.025,0.395,0.535,81,80,31,72,41,TOR
+22019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.901,54,0.064,1.19,0.431,0.048,0.032,0.048,0.0,0.444,0.595,63,75,25,58,33,TOR
+22019,1629744,Matt Thomas,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.91,41,0.276,1.213,0.477,0.0,0.064,0.0,0.0,0.447,0.648,47,57,21,44,23,TOR
+22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.321,72,0.066,0.857,0.323,0.086,0.114,0.086,0.086,0.286,0.435,35,30,10,31,21,TOR
+22019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.991,55,0.018,1.6,0.571,0.0,0.067,0.0,0.0,0.533,0.857,15,24,8,14,6,TOR
+22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.276,69,0.025,0.824,0.333,0.059,0.059,0.059,0.0,0.353,0.433,17,14,5,15,10,TOR
+22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.086,60,0.017,0.609,0.238,0.0,0.087,0.0,0.0,0.217,0.333,23,14,5,21,16,TOR

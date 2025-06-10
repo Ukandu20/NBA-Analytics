@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.868,68,0.05,1.172,0.455,0.052,0.017,0.052,0.017,0.448,0.6,1.0,1.0,0.4,0.8,0.4,HOU
+22021,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.511,65,0.119,0.97,0.361,0.075,0.015,0.06,0.0,0.403,0.467,1.0,1.0,0.3,0.9,0.6,HOU
+22021,1630224,Jalen Green,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.169,67,0.063,0.773,0.333,0.133,0.133,0.12,0.027,0.36,0.386,1.0,0.9,0.3,0.9,0.6,HOU
+22021,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.399,57,0.062,0.911,0.429,0.067,0.2,0.067,0.044,0.356,0.543,1.0,0.7,0.3,0.6,0.4,HOU
+22021,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.283,41,0.133,0.838,0.286,0.027,0.027,0.027,0.0,0.297,0.414,1.0,0.8,0.2,0.9,0.6,HOU
+22021,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,OffScreen,Offensive,1.0,34,0.056,2.182,0.727,0.0,0.0,0.0,0.0,0.727,1.091,0.0,0.7,0.2,0.3,0.1,HOU
+22021,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.583,61,0.017,1.0,0.429,0.056,0.167,0.056,0.0,0.389,0.571,0.0,0.3,0.1,0.2,0.1,HOU

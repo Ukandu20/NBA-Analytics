@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203922,Glenn Robinson III,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.79,48,0.231,1.252,0.576,0.059,0.074,0.044,0.007,0.556,0.661,2.8,3.5,1.4,2.5,1.0,GSW
+22019,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.414,60,0.146,1.083,0.5,0.231,0.091,0.223,0.033,0.545,0.512,2.0,2.2,0.7,1.4,0.7,GSW
+22019,202692,Alec Burks,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.608,48,0.127,1.163,0.466,0.204,0.092,0.163,0.041,0.51,0.548,2.0,2.4,0.7,1.5,0.8,GSW
+22019,1626156,D'Angelo Russell,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.351,33,0.127,1.049,0.475,0.059,0.157,0.049,0.0,0.431,0.625,3.1,3.2,1.2,2.4,1.3,GSW
+22019,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.204,49,0.168,0.962,0.448,0.076,0.114,0.048,0.019,0.41,0.523,2.1,2.1,0.8,1.8,1.0,GSW
+22019,1627737,Marquese Chriss,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.957,59,0.121,1.462,0.769,0.138,0.077,0.138,0.015,0.723,0.788,1.1,1.6,0.7,0.9,0.2,GSW
+22019,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.507,57,0.124,1.118,0.448,0.132,0.118,0.079,0.013,0.461,0.578,1.3,1.5,0.5,1.0,0.6,GSW
+22019,1629065,Ky Bowman,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.386,45,0.147,1.067,0.596,0.117,0.15,0.083,0.05,0.517,0.606,1.3,1.4,0.6,1.0,0.4,GSW
+22019,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.109,43,0.149,0.881,0.622,0.119,0.358,0.09,0.03,0.433,0.635,1.6,1.4,0.5,0.9,0.3,GSW
+22019,1626161,Willie Cauley-Stein,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.993,41,0.085,1.667,0.909,0.148,0.074,0.148,0.037,0.852,0.909,0.7,1.1,0.5,0.5,0.0,GSW
+22019,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.796,12,0.149,1.257,0.556,0.229,0.086,0.229,0.086,0.571,0.63,2.9,3.7,1.3,2.3,1.0,GSW
+22019,1629016,Omari Spellman,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.674,49,0.093,1.194,0.536,0.139,0.111,0.139,0.028,0.528,0.625,0.7,0.9,0.3,0.6,0.3,GSW
+22019,1628980,Jacob Evans,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.111,27,0.163,0.893,0.412,0.179,0.214,0.179,0.0,0.429,0.471,1.0,0.9,0.3,0.6,0.4,GSW
+22019,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.986,7,0.156,1.583,0.556,0.25,0.0,0.167,0.0,0.667,0.778,1.7,2.7,0.7,1.3,0.6,GSW
+22019,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.402,5,0.118,1.077,0.5,0.154,0.231,0.154,0.0,0.462,0.625,2.6,2.8,0.8,1.6,0.8,GSW
+22019,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.032,13,0.148,0.667,0.364,0.0,0.083,0.0,0.0,0.333,0.364,0.9,0.6,0.3,0.8,0.5,GSW

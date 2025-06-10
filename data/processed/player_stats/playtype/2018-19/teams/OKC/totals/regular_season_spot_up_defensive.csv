@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.878,34,0.254,0.839,0.333,0.03,0.03,0.03,0.03,0.32,0.417,31,26,10,30,20,OKC
+22018,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.732,51,0.213,0.925,0.394,0.05,0.18,0.05,0.05,0.32,0.53,40,37,13,33,20,OKC
+22018,202693,Markieff Morris,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.345,23,0.295,1.07,0.395,0.12,0.05,0.09,0.05,0.42,0.539,43,46,15,38,23,OKC
+22018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.908,77,0.153,0.797,0.296,0.08,0.03,0.04,0.0,0.33,0.401,79,63,21,71,50,OKC
+22018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.927,60,0.318,0.774,0.338,0.05,0.12,0.05,0.01,0.31,0.423,84,65,24,71,47,OKC
+22018,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.075,31,0.321,1.23,0.491,0.07,0.03,0.05,0.0,0.49,0.645,61,75,27,55,28,OKC
+22018,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.838,62,0.314,0.863,0.341,0.03,0.09,0.02,0.01,0.32,0.462,102,88,31,91,60,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.64,73,0.237,0.964,0.367,0.04,0.07,0.04,0.01,0.37,0.497,167,161,55,150,95,OKC
+22018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.613,79,0.143,0.974,0.39,0.05,0.05,0.05,0.02,0.39,0.497,192,187,69,177,108,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.817,78,0.271,0.881,0.324,0.04,0.03,0.04,0.0,0.34,0.429,219,193,66,204,138,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.36,79,0.288,1.063,0.422,0.03,0.08,0.03,0.0,0.4,0.564,253,269,95,225,130,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.146,72,0.299,1.164,0.428,0.04,0.04,0.03,0.01,0.43,0.586,238,277,95,222,127,OKC
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.728,76,0.364,0.926,0.358,0.04,0.05,0.03,0.0,0.36,0.473,349,323,114,318,204,OKC

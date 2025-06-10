@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203922,Glenn Robinson III,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.923,23,0.076,0.6,0.33,0.0,0.1,0.0,0.0,0.3,0.33,10,6,3,9,6,SAC
+22020,1626153,Delon Wright,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.956,27,0.068,0.533,0.25,0.133,0.13,0.133,0.07,0.267,0.25,15,8,3,12,9,SAC
+22020,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.131,27,0.076,1.143,0.7,0.143,0.14,0.071,0.0,0.571,0.75,14,16,7,10,3,SAC
+22020,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.225,17,0.086,1.067,0.5,0.2,0.13,0.2,0.0,0.533,0.5,15,16,5,10,5,SAC
+22020,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.923,58,0.066,0.6,0.32,0.0,0.11,0.0,0.0,0.286,0.34,35,21,10,31,21,SAC
+22020,202355,Hassan Whiteside,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.259,36,0.06,1.048,0.42,0.19,0.05,0.19,0.14,0.381,0.5,21,22,8,19,11,SAC
+22020,202709,Cory Joseph,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.322,44,0.058,1.0,0.47,0.087,0.09,0.087,0.0,0.478,0.5,23,23,9,19,10,SAC
+22020,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.532,36,0.136,0.903,0.46,0.032,0.13,0.032,0.0,0.419,0.5,31,28,12,26,14,SAC
+22020,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.522,26,0.199,0.906,0.41,0.125,0.03,0.094,0.0,0.469,0.41,32,29,11,27,16,SAC
+22020,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.804,58,0.087,0.722,0.38,0.13,0.26,0.13,0.02,0.352,0.44,54,39,13,34,21,SAC
+22020,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.0,26,0.08,1.87,0.88,0.304,0.04,0.304,0.09,0.87,1.0,23,43,15,17,2,SAC
+22020,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.456,71,0.071,0.93,0.42,0.053,0.04,0.053,0.02,0.421,0.46,57,53,22,53,31,SAC
+22020,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.281,58,0.074,1.033,0.49,0.15,0.12,0.133,0.02,0.483,0.53,60,62,22,45,23,SAC
+22020,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.776,61,0.11,0.74,0.3,0.11,0.07,0.11,0.02,0.34,0.33,100,74,25,84,59,SAC
+22020,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.025,43,0.143,1.348,0.59,0.159,0.09,0.159,0.03,0.594,0.69,69,93,32,54,22,SAC

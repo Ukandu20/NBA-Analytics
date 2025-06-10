@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.859,71,0.059,1.25,0.425,0.136,0.0,0.136,0.045,0.477,0.55,44,55,17,40,23,IND
+22023,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.27,51,0.09,0.865,0.356,0.019,0.115,0.019,0.0,0.327,0.467,52,45,16,45,29,IND
+22023,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.2,58,0.045,0.816,0.344,0.184,0.053,0.184,0.079,0.395,0.359,38,31,11,32,21,IND
+22023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.92,68,0.015,1.316,0.625,0.053,0.158,0.053,0.053,0.526,0.781,19,25,10,16,6,IND
+22023,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.697,18,0.247,1.111,0.389,0.0,0.0,0.0,0.0,0.389,0.556,18,20,7,18,11,IND
+22023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.14,81,0.025,0.765,0.333,0.0,0.118,0.0,0.0,0.294,0.433,17,13,5,15,10,IND
+22023,1628971,Bruce Brown,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.041,32,0.027,0.6,0.429,0.0,0.3,0.0,0.0,0.3,0.429,10,6,3,7,4,IND

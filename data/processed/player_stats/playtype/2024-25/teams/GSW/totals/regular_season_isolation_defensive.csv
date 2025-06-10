@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203937,Kyle Anderson,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.793,34,0.118,0.737,0.353,0.053,0.053,0.053,0.0,0.368,0.353,19,14,6,17,11,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.207,24,0.076,1.063,0.5,0.25,0.188,0.125,0.063,0.5,0.55,16,17,5,10,5,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.305,30,0.069,1.0,0.444,0.1,0.05,0.1,0.05,0.45,0.472,20,20,8,18,10,GSW
+22024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.177,57,0.067,1.091,0.412,0.182,0.091,0.182,0.045,0.455,0.471,22,24,7,17,10,GSW
+22024,1630322,Lindy Waters III,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.609,34,0.143,0.844,0.478,0.125,0.219,0.125,0.063,0.375,0.522,32,27,11,23,12,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.928,68,0.076,0.582,0.25,0.127,0.109,0.109,0.036,0.291,0.261,55,32,11,44,33,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.622,48,0.125,0.841,0.357,0.25,0.159,0.182,0.045,0.409,0.393,44,37,10,28,18,GSW
+22024,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.493,53,0.109,0.911,0.405,0.133,0.044,0.133,0.0,0.444,0.432,45,41,15,37,22,GSW
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.893,69,0.111,0.652,0.255,0.136,0.091,0.136,0.0,0.333,0.275,66,43,13,51,38,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.138,37,0.125,1.132,0.481,0.237,0.079,0.237,0.026,0.553,0.537,38,43,13,27,14,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.43,63,0.094,0.943,0.488,0.094,0.132,0.094,0.0,0.472,0.5,53,50,20,41,21,GSW
+22024,1630611,Gui Santos,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.198,50,0.173,1.075,0.474,0.208,0.094,0.208,0.019,0.528,0.513,53,57,18,38,20,GSW

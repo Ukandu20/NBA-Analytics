@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.625,81,0.274,1.148,0.595,0.125,0.047,0.121,0.031,0.594,0.595,256,294,131,220,89,SAC
+22018,1628385,Harry Giles III,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.437,58,0.204,1.043,0.551,0.128,0.085,0.096,0.043,0.521,0.551,94,98,43,78,35,SAC
+22018,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.449,62,0.1,1.043,0.507,0.161,0.065,0.14,0.011,0.538,0.548,93,97,37,73,36,SAC
+22018,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.843,77,0.073,1.288,0.565,0.019,0.096,0.019,0.0,0.519,0.707,52,67,26,46,20,SAC
+22018,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.093,42,0.28,0.736,0.38,0.038,0.038,0.038,0.019,0.377,0.38,53,39,19,50,31,SAC
+22018,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.236,28,0.032,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.458,12,11,4,12,8,SAC

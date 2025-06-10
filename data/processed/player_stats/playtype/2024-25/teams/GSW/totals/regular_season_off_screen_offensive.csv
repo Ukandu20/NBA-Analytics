@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.877,70,0.171,1.219,0.462,0.067,0.081,0.059,0.022,0.448,0.631,270,329,109,236,127,GSW
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.577,82,0.189,1.006,0.365,0.024,0.059,0.024,0.006,0.355,0.522,169,170,57,156,99,GSW
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.3,74,0.135,0.837,0.295,0.022,0.022,0.022,0.0,0.304,0.415,92,77,26,88,62,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.826,43,0.05,1.167,0.429,0.139,0.083,0.139,0.0,0.472,0.589,36,42,12,28,16,GSW
+22024,1630322,Lindy Waters III,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.723,38,0.138,1.097,0.414,0.0,0.065,0.0,0.0,0.387,0.586,31,34,12,29,17,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.755,64,0.035,1.115,0.409,0.154,0.038,0.077,0.038,0.462,0.5,26,29,9,22,13,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.706,42,0.034,1.091,0.364,0.0,0.0,0.0,0.0,0.364,0.545,11,12,4,11,7,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.55,24,0.038,1.0,0.364,0.0,0.083,0.0,0.0,0.333,0.545,12,12,4,11,7,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.05,47,0.025,0.579,0.25,0.158,0.053,0.158,0.053,0.316,0.281,19,11,4,16,12,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.161,30,0.025,0.75,0.111,0.25,0.0,0.25,0.0,0.333,0.167,12,9,1,9,8,GSW

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629684,Grant Williams,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,24,0.019,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,0.2,0.0,0.0,0.1,0.1,BOS
+42021,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,24,0.018,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.2,0.0,0.0,0.2,0.2,BOS
+42021,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,17,0.018,1.0,0.33,0.0,0.0,0.0,0.0,0.33,0.5,0.2,0.0,0.1,0.2,0.1,BOS
+42021,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,24,0.05,0.8,0.33,0.2,0.2,0.2,0.0,0.4,0.5,0.2,0.0,0.0,0.1,0.1,BOS
+42021,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,24,0.028,0.75,0.33,0.12,0.12,0.0,0.0,0.38,0.42,0.3,0.0,0.1,0.3,0.2,BOS
+42021,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,21,0.012,2.333,1.0,0.0,0.0,0.0,0.0,1.0,1.17,0.1,0.0,0.1,0.1,0.0,BOS
+42021,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,23,0.027,1.167,0.5,0.33,0.0,0.17,0.0,0.67,0.5,0.3,0.0,0.1,0.2,0.1,BOS
+42021,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.0,16,0.048,2.0,0.75,0.0,0.0,0.0,0.0,0.75,1.0,0.3,0.0,0.2,0.3,0.1,BOS
+42021,201143,Al Horford,1610612738,BOS,Boston Celtics,PRRollMan,Defensive,0.727,23,0.041,0.8,0.36,0.0,0.07,0.0,0.0,0.33,0.43,0.7,1.0,0.2,0.6,0.4,BOS

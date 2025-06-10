@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.266,79,0.329,0.982,0.5,0.134,0.032,0.129,0.014,0.525,0.5,2.7,2.7,1.2,2.3,1.2,CHI
+22023,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.27,76,0.089,0.984,0.496,0.049,0.041,0.049,0.008,0.496,0.496,1.6,1.6,0.7,1.5,0.8,CHI
+22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.932,43,0.047,1.381,0.692,0.286,0.095,0.286,0.0,0.714,0.692,0.5,0.7,0.2,0.3,0.1,CHI
+22023,1628470,Torrey Craig,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.294,53,0.094,1.0,0.478,0.107,0.107,0.107,0.036,0.464,0.5,0.5,0.5,0.2,0.4,0.2,CHI
+22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.661,79,0.009,1.188,0.538,0.25,0.0,0.25,0.063,0.625,0.538,0.2,0.2,0.1,0.2,0.1,CHI
+22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.1,76,0.027,0.783,0.389,0.087,0.13,0.087,0.0,0.391,0.389,0.3,0.2,0.1,0.2,0.1,CHI
+22023,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.879,59,0.057,1.333,0.727,0.0,0.083,0.0,0.0,0.667,0.727,0.2,0.3,0.1,0.2,0.1,CHI
+22023,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.236,71,0.02,0.929,0.6,0.0,0.286,0.0,0.0,0.429,0.65,0.2,0.2,0.1,0.1,0.1,CHI

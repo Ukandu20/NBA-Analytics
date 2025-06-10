@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.913,13,0.426,1.346,0.44,0.077,0.0,0.077,0.038,0.462,0.62,26,35,11,25,14,MIA
+42021,1629622,Max Strus,1610612748,MIA,Miami Heat,Handoff,Offensive,0.261,18,0.21,0.727,0.237,0.068,0.068,0.068,0.0,0.273,0.355,44,32,9,38,29,MIA
+42021,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Handoff,Offensive,0.783,18,0.106,1.294,0.5,0.059,0.059,0.059,0.059,0.471,0.656,17,22,8,16,8,MIA
+42021,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Handoff,Offensive,0.435,15,0.12,0.808,0.476,0.0,0.192,0.0,0.0,0.385,0.5,26,21,10,21,11,MIA
+42021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Handoff,Offensive,0.043,17,0.042,0.529,0.231,0.0,0.235,0.0,0.0,0.176,0.346,17,9,3,13,10,MIA
+42021,203506,Victor Oladipo,1610612748,MIA,Miami Heat,Handoff,Offensive,0.13,15,0.064,0.667,0.222,0.167,0.083,0.083,0.0,0.333,0.222,12,8,2,9,7,MIA
+42021,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,17,0.066,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,6,3,1,6,5,MIA
+42021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,10,0.071,0.375,0.125,0.0,0.0,0.0,0.0,0.125,0.188,8,3,1,8,7,MIA
+42021,200782,P.J. Tucker,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,15,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIA

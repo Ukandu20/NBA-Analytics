@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.449,61,0.075,0.91,0.435,0.09,0.128,0.077,0.013,0.423,0.484,78,71,27,62,35,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.226,67,0.096,0.763,0.326,0.136,0.153,0.119,0.017,0.356,0.36,59,45,14,43,29,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.537,68,0.045,0.951,0.421,0.024,0.073,0.024,0.024,0.39,0.5,41,39,16,38,22,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.248,65,0.069,0.778,0.41,0.044,0.111,0.044,0.022,0.378,0.423,45,35,16,39,23,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.624,45,0.027,1.0,0.379,0.0,0.0,0.0,0.0,0.379,0.5,29,29,11,29,18,LAL
+22020,203463,Ben McLemore,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.689,21,0.167,1.037,0.36,0.074,0.0,0.074,0.0,0.407,0.5,27,28,9,25,16,LAL
+22020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.401,58,0.082,0.875,0.316,0.083,0.125,0.083,0.0,0.333,0.447,24,21,6,19,13,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.032,58,0.034,0.429,0.375,0.0,0.429,0.0,0.0,0.214,0.375,14,6,3,8,5,LAL

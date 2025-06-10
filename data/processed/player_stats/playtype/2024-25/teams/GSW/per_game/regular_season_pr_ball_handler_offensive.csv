@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.502,70,0.254,0.855,0.371,0.07,0.152,0.065,0.015,0.349,0.465,5.7,4.9,1.7,4.5,2.9,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.511,43,0.235,0.859,0.36,0.135,0.082,0.129,0.035,0.388,0.41,4.0,3.4,1.2,3.2,2.1,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.529,64,0.198,0.865,0.387,0.101,0.108,0.088,0.014,0.399,0.45,2.3,2.0,0.7,1.9,1.1,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.344,47,0.194,0.795,0.396,0.158,0.096,0.151,0.014,0.425,0.41,3.1,2.5,0.9,2.4,1.4,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.289,24,0.394,0.76,0.38,0.064,0.136,0.032,0.0,0.36,0.415,5.2,4.0,1.6,4.2,2.6,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.48,30,0.16,0.844,0.34,0.26,0.143,0.247,0.013,0.455,0.34,2.6,2.2,0.5,1.6,1.0,GSW
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.595,82,0.06,0.889,0.378,0.037,0.13,0.019,0.0,0.352,0.489,0.7,0.6,0.2,0.5,0.3,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.284,69,0.049,0.757,0.391,0.162,0.216,0.135,0.0,0.405,0.391,0.5,0.4,0.1,0.3,0.2,GSW
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.271,74,0.029,0.75,0.375,0.1,0.1,0.1,0.0,0.4,0.375,0.3,0.2,0.1,0.2,0.1,GSW
+22024,203937,Kyle Anderson,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.052,36,0.065,0.538,0.273,0.0,0.154,0.0,0.0,0.231,0.318,0.4,0.2,0.1,0.3,0.2,GSW

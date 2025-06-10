@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.974,22,0.052,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,12,6,3,12,9,UTA
+22022,1631117,Walker Kessler,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.884,75,0.012,0.727,0.27,0.0,0.0,0.0,0.0,0.273,0.36,11,8,3,11,8,UTA
+22022,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.089,56,0.038,1.273,0.5,0.18,0.0,0.18,0.09,0.545,0.5,11,14,5,10,5,UTA
+22022,1631323,Simone Fontecchio,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.389,52,0.077,1.0,0.36,0.13,0.133,0.13,0.0,0.4,0.5,15,15,4,11,7,UTA
+22022,201144,Mike Conley,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.471,43,0.063,0.963,0.36,0.22,0.037,0.22,0.07,0.444,0.43,27,26,8,22,14,UTA
+22022,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.536,68,0.036,0.931,0.41,0.03,0.034,0.03,0.0,0.414,0.48,29,27,11,27,16,UTA
+22022,1629638,Nickeil Alexander-Walker,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.226,36,0.107,1.115,0.45,0.19,0.077,0.19,0.04,0.5,0.5,26,29,9,20,11,UTA
+22022,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.865,66,0.052,0.738,0.28,0.07,0.071,0.05,0.0,0.31,0.36,42,31,10,36,26,UTA
+22022,1629020,Jarred Vanderbilt,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.447,52,0.073,0.97,0.42,0.15,0.152,0.12,0.03,0.424,0.5,33,32,10,24,14,UTA
+22022,1630534,Ochai Agbaji,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.562,59,0.083,0.921,0.41,0.08,0.105,0.08,0.03,0.395,0.48,38,35,13,32,19,UTA
+22022,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.221,65,0.075,1.118,0.47,0.06,0.059,0.06,0.0,0.471,0.58,34,38,14,30,16,UTA
+22022,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.181,49,0.109,1.171,0.5,0.2,0.146,0.22,0.05,0.488,0.59,41,48,14,28,14,UTA
+22022,1627736,Malik Beasley,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.086,55,0.117,1.277,0.52,0.04,0.064,0.04,0.0,0.511,0.65,47,60,22,42,20,UTA
+22022,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.312,61,0.119,1.047,0.43,0.09,0.063,0.09,0.0,0.453,0.52,64,67,23,54,31,UTA

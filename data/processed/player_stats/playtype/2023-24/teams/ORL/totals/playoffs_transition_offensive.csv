@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Transition,Offensive,0.584,7,0.197,1.192,0.55,0.269,0.038,0.269,0.077,0.615,0.55,26,31,11,20,9,ORL
+42023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Transition,Offensive,0.517,7,0.193,1.136,0.471,0.182,0.136,0.136,0.091,0.455,0.559,22,25,8,17,9,ORL
+42023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Transition,Offensive,0.216,7,0.118,0.917,0.389,0.208,0.083,0.208,0.042,0.458,0.417,24,22,7,18,11,ORL
+42023,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Transition,Offensive,0.045,7,0.193,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,11,8,3,10,7,ORL

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.311,48,0.173,1.0,0.492,0.108,0.054,0.108,0.014,0.514,0.492,1.5,1.5,0.6,1.3,0.7,CHA
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.801,66,0.041,1.281,0.68,0.094,0.156,0.094,0.031,0.594,0.72,0.5,0.6,0.3,0.4,0.1,CHA
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.086,64,0.058,0.765,0.385,0.137,0.098,0.118,0.0,0.412,0.385,0.8,0.6,0.2,0.6,0.4,CHA
+22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.065,66,0.139,0.745,0.424,0.176,0.176,0.137,0.0,0.431,0.424,0.8,0.6,0.2,0.5,0.3,CHA
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.874,47,0.076,1.333,0.667,0.222,0.037,0.222,0.037,0.667,0.667,0.6,0.8,0.3,0.4,0.1,CHA
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.268,44,0.029,0.958,0.476,0.083,0.083,0.083,0.042,0.458,0.476,0.5,0.5,0.2,0.5,0.3,CHA
+22020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.117,51,0.031,0.821,0.435,0.071,0.107,0.107,0.036,0.393,0.435,0.5,0.5,0.2,0.5,0.3,CHA
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.103,69,0.019,0.808,0.391,0.077,0.077,0.077,0.038,0.385,0.413,0.4,0.3,0.1,0.3,0.2,CHA
+22020,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.311,52,0.057,1.0,0.6,0.143,0.143,0.143,0.0,0.571,0.6,0.3,0.3,0.1,0.2,0.1,CHA
+22020,1628997,Caleb Martin,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.003,53,0.044,0.5,0.182,0.143,0.071,0.143,0.0,0.286,0.182,0.3,0.1,0.0,0.2,0.2,CHA

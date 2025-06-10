@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.927,61,0.254,1.266,0.481,0.033,0.075,0.033,0.004,0.461,0.674,241,305,104,216,112,DEN
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.863,72,0.117,1.203,0.477,0.091,0.041,0.071,0.015,0.497,0.592,197,237,83,174,91,DEN
+22020,203115,Will Barton,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.571,56,0.267,1.035,0.397,0.03,0.055,0.025,0.005,0.39,0.533,200,207,73,184,111,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.986,48,0.115,1.396,0.524,0.027,0.027,0.018,0.0,0.523,0.71,111,155,55,105,50,DEN
+22020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.825,65,0.265,1.168,0.389,0.027,0.027,0.027,0.009,0.389,0.583,113,132,42,108,66,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.603,58,0.27,1.049,0.379,0.0,0.049,0.0,0.0,0.361,0.552,122,128,44,116,72,DEN
+22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.395,56,0.271,0.955,0.361,0.038,0.06,0.038,0.015,0.353,0.492,133,127,44,122,78,DEN
+22020,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.347,50,0.284,0.934,0.36,0.033,0.066,0.033,0.008,0.352,0.486,122,114,40,111,71,DEN
+22020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.645,47,0.204,1.076,0.375,0.033,0.022,0.033,0.011,0.38,0.528,92,99,33,88,55,DEN
+22020,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.921,19,0.339,1.258,0.466,0.016,0.048,0.016,0.0,0.452,0.655,62,78,27,58,31,DEN
+22020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.368,34,0.343,0.943,0.324,0.0,0.029,0.0,0.0,0.314,0.485,35,33,11,34,23,DEN
+22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.302,25,0.198,0.9,0.348,0.02,0.06,0.02,0.0,0.34,0.467,50,45,16,46,30,DEN
+22020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.601,15,0.323,1.048,0.39,0.0,0.024,0.0,0.0,0.381,0.537,42,44,16,41,25,DEN
+22020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,Spotup,Offensive,0.022,17,0.352,0.4,0.136,0.04,0.08,0.04,0.0,0.16,0.182,25,10,3,22,19,DEN

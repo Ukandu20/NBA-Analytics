@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.133,6,0.067,0.583,0.0,0.333,0.417,0.25,0.0,0.333,0.0,2.0,1.2,0.0,0.5,0.5,DET

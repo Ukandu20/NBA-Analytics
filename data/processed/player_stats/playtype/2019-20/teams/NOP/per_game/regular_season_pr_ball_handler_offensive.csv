@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.363,61,0.318,0.781,0.404,0.067,0.169,0.062,0.025,0.361,0.442,6.6,5.1,2.1,5.2,3.1,NOP
+22019,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.65,62,0.233,0.901,0.475,0.144,0.18,0.144,0.039,0.435,0.494,5.4,4.8,1.8,3.8,2.0,NOP
+22019,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.109,63,0.264,0.581,0.32,0.029,0.27,0.025,0.0,0.253,0.385,3.8,2.2,0.9,2.7,1.8,NOP
+22019,200755,JJ Redick,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.942,60,0.129,1.11,0.423,0.12,0.11,0.09,0.01,0.44,0.551,1.7,1.9,0.6,1.3,0.8,NOP
+22019,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.325,59,0.251,0.757,0.364,0.078,0.097,0.078,0.029,0.359,0.381,1.7,1.3,0.5,1.5,0.9,NOP
+22019,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.184,47,0.355,0.647,0.364,0.067,0.202,0.067,0.017,0.303,0.386,2.5,1.6,0.7,1.9,1.2,NOP
+22019,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.293,56,0.148,0.74,0.375,0.055,0.082,0.027,0.014,0.37,0.391,1.3,1.0,0.4,1.1,0.7,NOP
+22019,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.116,65,0.052,0.588,0.267,0.0,0.118,0.0,0.0,0.235,0.333,0.5,0.3,0.1,0.5,0.3,NOP

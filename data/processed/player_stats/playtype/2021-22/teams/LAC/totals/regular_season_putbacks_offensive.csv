@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.41,76,0.202,1.063,0.559,0.11,0.069,0.118,0.007,0.563,0.559,144,153,66,118,52,LAC
+22021,1628392,Isaiah Hartenstein,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.504,68,0.132,1.104,0.574,0.06,0.06,0.045,0.03,0.552,0.574,67,74,35,61,26,LAC
+22021,1629611,Terance Mann,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.294,81,0.061,0.981,0.489,0.08,0.058,0.077,0.0,0.5,0.489,52,51,22,45,23,LAC
+22021,201586,Serge Ibaka,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.376,35,0.096,1.043,0.55,0.13,0.043,0.13,0.043,0.565,0.55,23,24,11,20,9,LAC
+22021,1626159,Justise Winslow,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.388,37,0.101,1.05,0.5,0.15,0.1,0.1,0.05,0.5,0.5,20,21,8,16,8,LAC
+22021,202704,Reggie Jackson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.104,75,0.01,0.8,0.308,0.07,0.067,0.067,0.0,0.333,0.385,15,12,4,13,9,LAC
+22021,1629599,Amir Coffey,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.217,69,0.021,0.917,0.4,0.17,0.0,0.083,0.0,0.5,0.4,12,11,4,10,6,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.197,54,0.012,0.9,0.375,0.2,0.1,0.2,0.1,0.4,0.375,10,9,3,8,5,LAC
+22021,1630527,Brandon Boston,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.045,51,0.034,0.692,0.333,0.08,0.0,0.077,0.0,0.385,0.333,13,9,4,12,8,LAC

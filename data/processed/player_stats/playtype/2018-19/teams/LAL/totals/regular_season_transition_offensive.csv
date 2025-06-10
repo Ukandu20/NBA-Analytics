@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.564,55,0.214,1.14,0.649,0.242,0.178,0.213,0.067,0.576,0.666,314,358,131,202,71,LAL
+22018,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.337,70,0.231,1.033,0.504,0.134,0.131,0.131,0.033,0.475,0.56,305,315,118,234,116,LAL
+22018,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.574,82,0.24,1.148,0.473,0.081,0.071,0.086,0.024,0.467,0.585,210,241,86,182,96,LAL
+22018,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.719,52,0.188,1.222,0.634,0.2,0.135,0.184,0.059,0.6,0.657,185,226,85,134,49,LAL
+22018,1628404,Josh Hart,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.432,67,0.331,1.082,0.5,0.137,0.104,0.131,0.049,0.486,0.568,183,198,74,148,74,LAL
+22018,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.897,75,0.124,1.356,0.783,0.109,0.099,0.119,0.04,0.703,0.783,101,137,65,83,18,LAL
+22018,1628366,Lonzo Ball,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.182,47,0.229,0.939,0.536,0.061,0.22,0.045,0.015,0.424,0.613,132,124,52,97,45,LAL
+22018,202362,Lance Stephenson,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.087,68,0.163,0.833,0.429,0.1,0.211,0.1,0.022,0.367,0.508,90,75,27,63,36,LAL
+22018,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.037,46,0.16,0.714,0.409,0.066,0.231,0.055,0.022,0.341,0.439,91,65,27,66,39,LAL
+22018,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.56,25,0.147,1.139,0.5,0.278,0.083,0.222,0.028,0.583,0.563,36,41,12,24,12,LAL
+22018,1629140,Johnathan Williams,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.99,24,0.162,1.625,0.882,0.25,0.083,0.25,0.042,0.792,0.882,24,39,15,17,2,LAL
+22018,1629004,Svi Mykhailiuk,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.108,39,0.219,0.857,0.357,0.114,0.114,0.086,0.029,0.371,0.464,35,30,10,28,18,LAL
+22018,203488,Mike Muscala,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.818,17,0.239,1.273,0.5,0.045,0.045,0.045,0.0,0.5,0.65,22,28,10,20,10,LAL
+22018,203493,Reggie Bullock Jr.,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.222,19,0.172,0.966,0.4,0.069,0.103,0.069,0.034,0.379,0.52,29,28,10,25,15,LAL
+22018,201563,Michael Beasley,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.583,26,0.103,1.15,0.6,0.25,0.1,0.25,0.1,0.55,0.633,20,23,9,15,6,LAL
+22018,1629021,Moritz Wagner,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.041,43,0.129,0.733,0.45,0.133,0.233,0.133,0.033,0.367,0.475,30,22,9,20,11,LAL
+22018,1627826,Ivica Zubac,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.884,33,0.058,1.333,0.714,0.0,0.067,0.0,0.0,0.667,0.714,15,20,10,14,4,LAL
+22018,2199,Tyson Chandler,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.994,48,0.071,1.636,0.875,0.182,0.091,0.182,0.0,0.818,0.875,11,18,7,8,1,LAL

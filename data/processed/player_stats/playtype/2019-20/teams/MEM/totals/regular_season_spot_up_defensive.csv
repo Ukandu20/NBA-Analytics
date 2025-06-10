@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201229,Anthony Tolliver,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.994,13,0.241,0.429,0.154,0.0,0.071,0.0,0.0,0.143,0.231,14,6,2,13,11,MEM
+22019,203998,Bruno Caboclo,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.989,18,0.158,0.375,0.18,0.0,0.313,0.0,0.0,0.125,0.27,16,6,2,11,9,MEM
+22019,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.05,18,0.393,1.333,0.526,0.12,0.083,0.12,0.0,0.542,0.711,24,32,10,19,9,MEM
+22019,1628367,Josh Jackson,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.768,22,0.259,0.917,0.344,0.08,0.083,0.08,0.06,0.333,0.469,36,33,11,32,21,MEM
+22019,203476,Gorgui Dieng,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.89,17,0.281,0.807,0.308,0.05,0.053,0.05,0.02,0.316,0.413,57,46,16,52,36,MEM
+22019,1629741,Marko Guduric,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.547,44,0.349,1.0,0.37,0.06,0.039,0.06,0.0,0.392,0.489,51,51,17,46,29,MEM
+22019,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.722,38,0.232,0.932,0.389,0.02,0.068,0.02,0.0,0.373,0.491,59,55,21,54,33,MEM
+22019,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.573,65,0.2,0.988,0.372,0.04,0.048,0.04,0.01,0.369,0.5,84,83,29,78,49,MEM
+22019,203524,Solomon Hill,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.2,48,0.29,1.148,0.471,0.06,0.074,0.05,0.0,0.469,0.621,81,93,33,70,37,MEM
+22019,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.235,60,0.228,1.123,0.449,0.07,0.104,0.05,0.01,0.434,0.607,106,119,40,89,49,MEM
+22019,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.918,67,0.341,0.781,0.308,0.05,0.101,0.04,0.0,0.308,0.42,169,132,44,143,99,MEM
+22019,203109,Jae Crowder,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.673,45,0.302,0.957,0.369,0.06,0.065,0.06,0.01,0.381,0.484,139,133,45,122,77,MEM
+22019,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.446,58,0.266,1.03,0.41,0.03,0.098,0.03,0.01,0.383,0.56,133,137,48,117,69,MEM
+22019,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.431,70,0.156,1.036,0.4,0.06,0.03,0.06,0.01,0.417,0.519,168,174,62,155,93,MEM
+22019,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.396,57,0.237,1.051,0.39,0.07,0.028,0.07,0.02,0.404,0.53,178,187,64,164,100,MEM
+22019,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.502,67,0.247,1.011,0.38,0.04,0.048,0.04,0.01,0.385,0.512,187,189,65,171,106,MEM
+22019,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.465,73,0.257,1.023,0.362,0.06,0.041,0.05,0.01,0.376,0.513,218,223,72,199,127,MEM

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.197,61,0.108,0.957,0.456,0.223,0.154,0.181,0.043,0.473,0.48,188,180,57,125,68,DAL
+22019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.391,71,0.159,1.067,0.469,0.14,0.085,0.122,0.018,0.476,0.558,164,175,61,130,69,DAL
+22019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.799,71,0.175,1.259,0.58,0.152,0.098,0.143,0.036,0.563,0.665,112,141,51,88,37,DAL
+22019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.794,64,0.163,1.257,0.532,0.055,0.11,0.046,0.028,0.486,0.686,109,137,50,94,44,DAL
+22019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.554,73,0.22,1.137,0.543,0.137,0.12,0.12,0.043,0.521,0.592,117,133,50,92,42,DAL
+22019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.701,57,0.094,1.206,0.44,0.112,0.037,0.112,0.0,0.486,0.593,107,129,40,91,51,DAL
+22019,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.206,57,0.172,0.964,0.451,0.107,0.095,0.083,0.048,0.429,0.514,84,81,32,71,39,DAL
+22019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.522,65,0.149,1.125,0.49,0.107,0.018,0.107,0.0,0.536,0.551,56,63,24,49,25,DAL
+22019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.726,74,0.075,1.217,0.528,0.109,0.109,0.109,0.0,0.522,0.667,46,56,19,36,17,DAL
+22019,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.952,40,0.063,1.45,0.8,0.2,0.1,0.2,0.05,0.75,0.8,20,29,12,15,3,DAL
+22019,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.875,8,0.158,1.333,0.5,0.133,0.067,0.133,0.0,0.533,0.667,15,20,6,12,6,DAL
+22019,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.02,29,0.098,0.6,0.316,0.04,0.2,0.04,0.0,0.28,0.342,25,15,6,19,13,DAL
+22019,201584,Courtney Lee,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.081,24,0.177,0.824,0.333,0.118,0.059,0.059,0.059,0.353,0.367,17,14,5,15,10,DAL
+22019,1629151,Ryan Broekhoff,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.446,17,0.162,1.091,0.364,0.0,0.0,0.0,0.0,0.364,0.545,11,12,4,11,7,DAL

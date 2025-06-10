@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.7,69,0.183,1.103,0.433,0.021,0.062,0.021,0.0,0.418,0.578,146,161,58,134,76,BKN
+22020,1629013,Landry Shamet,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.867,61,0.118,1.27,0.439,0.063,0.032,0.048,0.0,0.46,0.632,63,80,25,57,32,BKN
+22020,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.595,35,0.091,1.027,0.492,0.08,0.12,0.067,0.013,0.467,0.541,75,77,30,61,31,BKN
+22020,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.488,54,0.034,0.955,0.39,0.023,0.045,0.023,0.0,0.386,0.488,44,42,16,41,25,BKN
+22020,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.1,58,0.067,0.679,0.269,0.0,0.071,0.0,0.0,0.25,0.365,28,19,7,26,19,BKN
+22020,204020,Tyler Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.033,39,0.053,0.455,0.2,0.0,0.091,0.0,0.0,0.182,0.25,11,5,2,10,8,BKN
+22020,201935,James Harden,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.005,36,0.012,0.2,0.111,0.0,0.1,0.0,0.0,0.1,0.111,10,2,1,9,8,BKN

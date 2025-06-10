@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629598,Chris Clemons,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,HOU
+42019,203998,Bruno Caboclo,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,2,0.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,HOU
+42019,1626187,Michael Frazier II,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,4,0.143,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,0.0,0.3,0.3,0.0,HOU
+42019,201145,Jeff Green,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,12,0.033,1.0,0.33,0.25,0.0,0.25,0.0,0.5,0.33,0.3,0.0,0.1,0.3,0.2,HOU
+42019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.988,8,0.143,0.364,0.17,0.09,0.36,0.09,0.0,0.18,0.25,1.4,0.0,0.1,0.8,0.6,HOU
+42019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.833,12,0.07,0.727,0.33,0.09,0.09,0.09,0.0,0.36,0.39,0.9,1.0,0.3,0.8,0.5,HOU
+42019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,11,0.152,1.286,0.33,0.43,0.14,0.43,0.0,0.57,0.5,0.6,1.0,0.1,0.3,0.2,HOU
+42019,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.217,12,0.066,1.1,0.5,0.0,0.0,0.0,0.0,0.5,0.55,0.8,1.0,0.4,0.8,0.4,HOU
+42019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.359,9,0.17,1.0,0.64,0.06,0.25,0.06,0.0,0.5,0.64,1.8,2.0,0.8,1.2,0.4,HOU
+42019,203496,Robert Covington,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.464,12,0.136,0.947,0.46,0.16,0.16,0.16,0.0,0.47,0.5,1.6,2.0,0.5,1.1,0.6,HOU
+42019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.19,12,0.309,1.118,0.54,0.12,0.12,0.12,0.0,0.53,0.58,1.4,2.0,0.6,1.1,0.5,HOU
+42019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.488,12,0.23,0.929,0.58,0.11,0.25,0.11,0.04,0.43,0.63,2.3,2.0,0.9,1.6,0.7,HOU

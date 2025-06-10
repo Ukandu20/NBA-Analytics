@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,3,0.125,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,OKC
+42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,7,0.063,0.667,0.0,0.33,0.33,0.33,0.0,0.33,0.0,3,2,0,1,1,OKC
+42019,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,3,0.5,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,OKC
+42019,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,1,0.75,1.333,0.5,0.33,0.0,0.33,0.0,0.67,0.5,3,4,1,2,1,OKC
+42019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,4,0.286,1.25,0.67,0.0,0.25,0.0,0.0,0.5,0.83,4,5,2,3,1,OKC
+42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,7,0.145,0.778,0.29,0.11,0.11,0.11,0.0,0.33,0.43,9,7,2,7,5,OKC
+42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,7,0.171,1.333,0.5,0.0,0.0,0.0,0.0,0.5,0.67,6,8,3,6,3,OKC
+42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.0,7,0.116,1.0,0.57,0.0,0.12,0.0,0.0,0.5,0.57,8,8,4,7,3,OKC
+42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.365,7,0.158,1.0,0.45,0.0,0.08,0.0,0.0,0.42,0.55,12,12,5,11,6,OKC
+42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.931,6,0.198,0.571,0.13,0.24,0.05,0.19,0.0,0.33,0.13,21,12,2,15,13,OKC
+42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.203,7,0.223,1.13,0.47,0.13,0.13,0.13,0.09,0.43,0.58,23,26,9,19,10,OKC
+42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.068,7,0.209,1.292,0.67,0.04,0.12,0.04,0.04,0.58,0.74,24,31,14,21,7,OKC

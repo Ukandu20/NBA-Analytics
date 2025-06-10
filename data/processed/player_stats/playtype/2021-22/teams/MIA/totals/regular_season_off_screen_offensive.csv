@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.616,79,0.155,1.016,0.383,0.016,0.064,0.016,0.0,0.368,0.539,125,127,44,115,71,MIA
+22021,1629622,Max Strus,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.658,68,0.183,1.034,0.406,0.034,0.111,0.034,0.009,0.376,0.564,117,121,41,101,60,MIA
+22021,1629639,Tyler Herro,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.425,66,0.063,0.92,0.36,0.08,0.069,0.069,0.011,0.379,0.453,87,80,27,75,48,MIA
+22021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.234,63,0.069,0.817,0.327,0.033,0.1,0.033,0.0,0.317,0.442,60,49,17,52,35,MIA
+22021,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.648,68,0.049,1.032,0.444,0.032,0.129,0.032,0.032,0.387,0.574,31,32,12,27,15,MIA
+22021,1629657,Kyle Guy,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.862,18,0.136,1.182,0.455,0.0,0.0,0.0,0.0,0.455,0.591,11,13,5,11,6,MIA
+22021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.763,58,0.009,1.1,0.5,0.1,0.0,0.1,0.1,0.5,0.5,10,11,5,10,5,MIA

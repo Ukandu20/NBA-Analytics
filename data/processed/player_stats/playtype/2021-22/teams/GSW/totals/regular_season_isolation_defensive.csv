@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629185,Chris Chiozza,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.806,34,0.076,0.727,0.333,0.09,0.091,0.09,0.0,0.364,0.333,11,8,3,9,6,GSW
+22021,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.584,31,0.075,0.867,0.385,0.07,0.067,0.07,0.0,0.4,0.423,15,13,5,13,8,GSW
+22021,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.924,71,0.065,0.6,0.318,0.1,0.2,0.07,0.03,0.267,0.364,30,18,7,22,15,GSW
+22021,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.005,52,0.076,1.5,0.538,0.21,0.0,0.21,0.14,0.571,0.654,14,21,7,13,6,GSW
+22021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.276,32,0.068,1.05,0.474,0.05,0.05,0.05,0.05,0.45,0.526,20,21,9,19,10,GSW
+22021,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.876,63,0.087,0.676,0.286,0.14,0.135,0.14,0.03,0.324,0.304,37,25,8,28,20,GSW
+22021,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.207,46,0.053,1.08,0.455,0.04,0.08,0.04,0.0,0.44,0.591,25,27,10,22,12,GSW
+22021,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.667,73,0.096,0.829,0.292,0.2,0.143,0.2,0.03,0.371,0.354,35,29,7,24,17,GSW
+22021,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.129,76,0.058,1.158,0.567,0.18,0.079,0.18,0.05,0.579,0.583,38,44,17,30,13,GSW
+22021,203490,Otto Porter Jr.,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.342,63,0.146,0.982,0.432,0.18,0.054,0.16,0.02,0.5,0.466,56,55,19,44,25,GSW
+22021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.654,73,0.071,0.833,0.333,0.09,0.045,0.09,0.05,0.348,0.4,66,55,20,60,40,GSW
+22021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.264,71,0.118,1.055,0.488,0.2,0.073,0.18,0.05,0.509,0.523,55,58,21,43,22,GSW
+22021,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.064,64,0.085,1.255,0.583,0.24,0.118,0.22,0.06,0.588,0.625,51,64,21,36,15,GSW
+22021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.523,71,0.117,0.895,0.362,0.09,0.039,0.09,0.04,0.382,0.435,76,68,25,69,44,GSW
+22021,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.349,82,0.107,0.98,0.439,0.13,0.089,0.12,0.03,0.455,0.488,101,99,36,82,46,GSW

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.974,57,0.013,0.455,0.25,0.18,0.182,0.18,0.09,0.273,0.25,0.2,0.1,0.0,0.1,0.1,DAL
+22019,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.822,40,0.021,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,0.3,0.2,0.1,0.3,0.2,DAL
+22019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.913,74,0.016,0.615,0.273,0.08,0.154,0.08,0.08,0.231,0.318,0.2,0.1,0.0,0.1,0.1,DAL
+22019,201584,Courtney Lee,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.81,25,0.128,0.733,0.385,0.07,0.133,0.07,0.07,0.333,0.385,0.6,0.4,0.2,0.5,0.3,DAL
+22019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.599,65,0.067,0.864,0.412,0.14,0.136,0.14,0.05,0.409,0.441,0.3,0.3,0.1,0.3,0.2,DAL
+22019,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.339,57,0.108,1.0,0.469,0.06,0.083,0.03,0.03,0.444,0.547,0.6,0.6,0.3,0.6,0.3,DAL
+22019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.5,61,0.073,0.913,0.425,0.04,0.109,0.04,0.02,0.391,0.5,0.8,0.7,0.3,0.7,0.4,DAL
+22019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.469,73,0.093,0.923,0.462,0.08,0.173,0.08,0.0,0.423,0.538,0.7,0.7,0.2,0.5,0.3,DAL
+22019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.278,64,0.101,1.042,0.5,0.06,0.167,0.06,0.02,0.438,0.592,0.8,0.8,0.3,0.6,0.3,DAL
+22019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.532,71,0.089,0.894,0.385,0.11,0.121,0.11,0.02,0.379,0.471,0.9,0.8,0.3,0.7,0.5,DAL
+22019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.244,71,0.081,1.071,0.436,0.13,0.086,0.11,0.0,0.471,0.536,1.0,1.1,0.3,0.8,0.4,DAL

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.687,72,0.383,0.895,0.443,0.145,0.193,0.108,0.027,0.416,0.506,8.7,7.8,2.7,6.0,3.3,DAL
+22018,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.766,38,0.542,0.936,0.468,0.094,0.147,0.068,0.015,0.438,0.52,7.0,6.5,2.5,5.4,2.9,DAL
+22018,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.72,73,0.28,0.914,0.444,0.086,0.096,0.056,0.005,0.442,0.463,2.7,2.5,1.0,2.2,1.2,DAL
+22018,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.34,32,0.333,0.755,0.429,0.098,0.233,0.086,0.018,0.362,0.46,5.1,3.8,1.5,3.5,2.0,DAL
+22018,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.863,25,0.403,0.989,0.45,0.096,0.053,0.074,0.0,0.479,0.488,3.8,3.7,1.4,3.2,1.8,DAL
+22018,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.377,49,0.109,0.777,0.319,0.128,0.117,0.128,0.011,0.362,0.375,1.9,1.5,0.5,1.5,1.0,DAL
+22018,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.327,68,0.192,0.75,0.4,0.114,0.216,0.057,0.011,0.375,0.433,1.3,1.0,0.4,0.9,0.5,DAL
+22018,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.69,19,0.156,0.896,0.385,0.146,0.104,0.125,0.063,0.396,0.436,2.5,2.3,0.8,2.1,1.3,DAL
+22018,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.122,44,0.107,0.597,0.28,0.065,0.129,0.016,0.0,0.29,0.29,1.4,0.8,0.3,1.1,0.8,DAL
+22018,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.082,81,0.065,0.548,0.31,0.024,0.286,0.0,0.0,0.238,0.379,0.5,0.3,0.1,0.4,0.2,DAL
+22018,201584,Courtney Lee,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.663,22,0.189,0.889,0.615,0.0,0.278,0.0,0.0,0.444,0.615,0.8,0.7,0.4,0.6,0.2,DAL
+22018,1629133,Daryl Macon,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.41,8,0.389,0.786,0.364,0.071,0.143,0.071,0.0,0.357,0.455,1.8,1.4,0.5,1.4,0.9,DAL
+22018,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.174,29,0.072,0.667,0.308,0.067,0.067,0.067,0.0,0.333,0.346,0.5,0.3,0.1,0.4,0.3,DAL

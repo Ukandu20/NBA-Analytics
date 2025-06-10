@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.439,68,0.051,0.952,0.375,0.079,0.032,0.079,0.0,0.413,0.473,63,60,21,56,35,SAS
+22023,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.895,46,0.158,1.282,0.457,0.077,0.026,0.077,0.0,0.487,0.643,39,50,16,35,19,SAS
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.372,71,0.022,0.914,0.4,0.086,0.086,0.086,0.029,0.4,0.45,35,32,12,30,18,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.55,75,0.033,1.04,0.5,0.08,0.12,0.08,0.0,0.48,0.55,25,26,10,20,10,SAS
+22023,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.91,74,0.026,1.308,0.462,0.0,0.0,0.0,0.0,0.462,0.654,13,17,6,13,7,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.75,69,0.013,1.143,0.462,0.071,0.0,0.071,0.0,0.5,0.538,14,16,6,13,7,SAS

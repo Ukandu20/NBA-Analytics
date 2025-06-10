@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.935,64,0.065,1.438,0.732,0.233,0.068,0.192,0.068,0.726,0.732,73,105,41,56,15,MIA
+22020,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.567,52,0.051,1.135,0.553,0.096,0.038,0.096,0.038,0.558,0.553,52,59,26,47,21,MIA
+22020,1630173,Precious Achiuwa,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.189,61,0.161,0.923,0.45,0.173,0.077,0.173,0.019,0.481,0.45,52,48,18,40,22,MIA
+22020,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.969,16,0.213,1.526,0.917,0.263,0.211,0.263,0.105,0.737,0.917,19,29,11,12,1,MIA
+22020,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.311,43,0.038,1.0,0.5,0.118,0.059,0.118,0.0,0.529,0.5,17,17,7,14,7,MIA
+22020,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.509,56,0.013,1.1,0.714,0.0,0.3,0.0,0.0,0.5,0.786,10,11,5,7,2,MIA

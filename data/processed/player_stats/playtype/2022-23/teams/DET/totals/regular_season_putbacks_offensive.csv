@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.509,67,0.26,1.13,0.617,0.15,0.096,0.144,0.034,0.596,0.617,146,165,71,115,44,DET
+22022,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.73,42,0.135,1.25,0.607,0.14,0.0,0.141,0.016,0.641,0.607,64,80,34,56,22,DET
+22022,1630164,James Wiseman,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.905,24,0.145,1.422,0.73,0.16,0.044,0.156,0.022,0.733,0.73,45,64,27,37,10,DET
+22022,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.232,50,0.109,0.937,0.462,0.19,0.048,0.175,0.063,0.492,0.462,63,59,24,52,28,DET
+22022,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.719,56,0.08,1.244,0.714,0.2,0.122,0.22,0.024,0.659,0.714,41,51,20,28,8,DET
+22022,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.545,74,0.029,1.15,0.514,0.2,0.0,0.175,0.075,0.55,0.514,40,46,18,35,17,DET
+22022,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.642,52,0.047,1.2,0.536,0.2,0.0,0.2,0.0,0.629,0.536,35,42,15,28,13,DET
+22022,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.262,59,0.019,0.955,0.389,0.14,0.045,0.091,0.0,0.455,0.444,22,21,7,18,11,DET
+22022,1630647,Eugene Omoruyi,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.5,17,0.092,1.125,0.533,0.12,0.0,0.125,0.063,0.563,0.533,16,18,8,15,7,DET
+22022,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.018,76,0.012,0.5,0.273,0.0,0.083,0.0,0.0,0.25,0.273,12,6,3,11,8,DET

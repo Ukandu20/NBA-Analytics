@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.65,82,0.366,0.884,0.451,0.069,0.121,0.058,0.019,0.422,0.471,464,410,173,384,211,DET
+22018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.872,75,0.187,0.994,0.431,0.175,0.14,0.146,0.035,0.444,0.524,342,340,106,246,140,DET
+22018,202397,Ish Smith,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.666,56,0.485,0.89,0.441,0.053,0.089,0.043,0.014,0.423,0.465,281,250,108,245,137,DET
+22018,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.568,63,0.247,0.852,0.409,0.047,0.107,0.04,0.007,0.389,0.449,149,127,52,127,75,DET
+22018,101181,Jose Calderon,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.465,49,0.441,0.803,0.491,0.042,0.225,0.042,0.014,0.394,0.491,71,57,26,53,27,DET
+22018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.337,74,0.158,0.754,0.378,0.131,0.164,0.131,0.033,0.361,0.378,61,46,17,45,28,DET
+22018,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.271,44,0.103,0.717,0.4,0.057,0.208,0.038,0.019,0.34,0.425,53,38,16,40,24,DET
+22018,201961,Wayne Ellington,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.96,28,0.096,1.1,0.4,0.067,0.1,0.0,0.0,0.4,0.58,30,33,10,25,15,DET
+22018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.198,80,0.071,0.674,0.31,0.022,0.065,0.022,0.0,0.304,0.345,46,31,13,42,29,DET
+22018,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.284,48,0.077,0.727,0.385,0.03,0.182,0.03,0.0,0.333,0.423,33,24,10,26,16,DET
+22018,203922,Glenn Robinson III,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.898,47,0.047,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,DET

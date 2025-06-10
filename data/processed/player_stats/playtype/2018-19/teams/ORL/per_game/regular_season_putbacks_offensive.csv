@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.784,80,0.098,1.228,0.615,0.063,0.038,0.057,0.006,0.614,0.615,2.0,2.4,1.1,1.8,0.7,ORL
+22018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.663,78,0.07,1.163,0.58,0.087,0.065,0.087,0.033,0.565,0.593,1.2,1.4,0.6,1.0,0.4,ORL
+22018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.375,75,0.096,1.0,0.492,0.139,0.056,0.139,0.042,0.514,0.492,1.0,1.0,0.4,0.8,0.4,ORL
+22018,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.772,47,0.131,1.22,0.667,0.049,0.098,0.049,0.024,0.61,0.667,0.9,1.1,0.5,0.8,0.3,ORL
+22018,203920,Khem Birch,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.282,50,0.227,0.938,0.447,0.188,0.042,0.188,0.021,0.5,0.447,1.0,0.9,0.3,0.8,0.4,ORL
+22018,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.94,68,0.068,1.4,0.737,0.2,0.12,0.2,0.08,0.68,0.737,0.4,0.5,0.2,0.3,0.1,ORL
+22018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.259,81,0.019,0.92,0.556,0.04,0.24,0.04,0.0,0.44,0.583,0.3,0.3,0.1,0.2,0.1,ORL
+22018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.533,81,0.012,1.091,0.714,0.182,0.182,0.182,0.0,0.545,0.714,0.1,0.1,0.1,0.1,0.0,ORL
+22018,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.549,41,0.027,1.1,0.5,0.2,0.1,0.2,0.1,0.5,0.5,0.2,0.3,0.1,0.2,0.1,ORL

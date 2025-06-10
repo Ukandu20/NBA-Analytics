@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.222,1.25,0.667,0.375,0.125,0.375,0.25,0.625,0.667,8,10,4,6,2,ATL
+42022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.462,6,0.222,1.0,0.5,0.1,0.0,0.2,0.0,0.5,0.5,10,10,4,8,4,ATL
+42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.13,1.167,0.5,0.333,0.0,0.333,0.0,0.667,0.5,6,7,2,4,2,ATL
+42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.016,2.0,1.0,1.0,0.0,0.667,0.333,1.0,1.0,3,6,1,1,0,ATL
+42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.051,1.2,1.0,0.0,0.4,0.0,0.0,0.6,1.0,5,6,3,3,0,ATL
+42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,5,0.026,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,3,4,2,3,1,ATL
+42022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.056,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,ATL
+42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.034,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,ATL
+42022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,ATL

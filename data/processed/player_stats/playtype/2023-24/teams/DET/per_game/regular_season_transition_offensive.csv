@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Transition,Offensive,0.464,77,0.244,1.121,0.515,0.21,0.111,0.203,0.041,0.527,0.588,4.1,4.6,1.5,2.9,1.4,DET
+22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Transition,Offensive,0.22,62,0.136,0.99,0.481,0.084,0.139,0.064,0.005,0.45,0.554,3.3,3.2,1.2,2.5,1.3,DET
+22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Transition,Offensive,0.72,28,0.217,1.241,0.526,0.155,0.043,0.155,0.034,0.56,0.619,4.1,5.1,1.8,3.5,1.6,DET
+22023,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,Transition,Offensive,0.187,71,0.135,0.953,0.417,0.071,0.094,0.059,0.012,0.412,0.493,1.2,1.1,0.4,1.0,0.6,DET
+22023,202692,Alec Burks,1610612765,DET,Detroit Pistons,Transition,Offensive,0.412,43,0.141,1.101,0.407,0.145,0.116,0.116,0.043,0.42,0.556,1.6,1.8,0.5,1.3,0.7,DET
+22023,1630164,James Wiseman,1610612765,DET,Detroit Pistons,Transition,Offensive,0.986,63,0.109,1.6,0.838,0.222,0.089,0.222,0.133,0.778,0.838,0.7,1.1,0.5,0.6,0.1,DET
+22023,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,Transition,Offensive,0.978,16,0.206,1.556,0.711,0.111,0.089,0.089,0.044,0.667,0.842,2.8,4.4,1.7,2.4,0.7,DET
+22023,1628995,Kevin Knox II,1610612765,DET,Detroit Pistons,Transition,Offensive,0.835,31,0.227,1.306,0.651,0.082,0.082,0.082,0.041,0.612,0.686,1.6,2.1,0.9,1.4,0.5,DET
+22023,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,Transition,Offensive,0.338,46,0.115,1.054,0.489,0.107,0.107,0.107,0.018,0.482,0.567,1.2,1.3,0.5,1.0,0.5,DET
+22023,203095,Evan Fournier,1610612765,DET,Detroit Pistons,Transition,Offensive,0.766,29,0.162,1.263,0.529,0.053,0.053,0.026,0.0,0.5,0.691,1.3,1.7,0.6,1.2,0.6,DET
+22023,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,Transition,Offensive,0.071,42,0.156,0.836,0.463,0.091,0.2,0.073,0.036,0.4,0.488,1.3,1.1,0.5,1.0,0.5,DET
+22023,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,Transition,Offensive,0.489,24,0.221,1.129,0.444,0.097,0.032,0.097,0.0,0.484,0.574,1.3,1.5,0.5,1.1,0.6,DET
+22023,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,Transition,Offensive,0.878,26,0.101,1.333,0.684,0.167,0.125,0.167,0.083,0.625,0.684,0.9,1.2,0.5,0.7,0.2,DET
+22023,1630649,Stanley Umude,1610612765,DET,Detroit Pistons,Transition,Offensive,0.584,24,0.218,1.167,0.526,0.083,0.167,0.083,0.042,0.458,0.658,1.0,1.2,0.4,0.8,0.4,DET
+22023,1629002,Chimezie Metu,1610612765,DET,Detroit Pistons,Transition,Offensive,0.127,14,0.15,0.909,0.467,0.136,0.273,0.136,0.091,0.364,0.533,1.6,1.4,0.5,1.1,0.6,DET
+22023,1628972,Troy Brown Jr.,1610612765,DET,Detroit Pistons,Transition,Offensive,0.022,22,0.23,0.69,0.217,0.172,0.069,0.172,0.034,0.31,0.261,1.3,0.9,0.2,1.0,0.8,DET

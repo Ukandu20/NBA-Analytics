@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.515,75,0.121,0.955,0.522,0.101,0.145,0.101,0.006,0.49,0.522,2.4,2.3,0.9,1.8,0.9,MIA
+22022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.464,64,0.103,0.944,0.464,0.19,0.111,0.183,0.071,0.48,0.464,2.0,1.9,0.7,1.5,0.8,MIA
+22022,201567,Kevin Love,1610612748,MIA,Miami Heat,Postup,Offensive,0.97,21,0.08,1.286,0.667,0.071,0.071,0.071,0.0,0.64,0.667,0.7,0.9,0.4,0.6,0.2,MIA
+22022,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,Postup,Offensive,0.024,30,0.084,0.571,0.25,0.071,0.071,0.071,0.0,0.29,0.25,0.5,0.3,0.1,0.4,0.3,MIA

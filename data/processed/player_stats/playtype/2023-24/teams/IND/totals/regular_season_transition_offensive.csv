@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Transition,Offensive,0.467,68,0.176,1.121,0.547,0.099,0.166,0.09,0.036,0.484,0.637,223,250,94,172,78,IND
+22023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Transition,Offensive,0.794,71,0.259,1.275,0.564,0.104,0.078,0.088,0.036,0.539,0.676,193,246,93,165,72,IND
+22023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Transition,Offensive,0.714,81,0.281,1.24,0.641,0.104,0.12,0.089,0.036,0.589,0.683,192,238,100,156,56,IND
+22023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Transition,Offensive,0.662,41,0.205,1.206,0.624,0.175,0.094,0.163,0.05,0.606,0.636,160,193,78,125,47,IND
+22023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Transition,Offensive,0.763,67,0.202,1.262,0.645,0.077,0.138,0.077,0.038,0.569,0.72,130,164,69,107,38,IND
+22023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.495,76,0.127,1.132,0.47,0.174,0.069,0.167,0.042,0.5,0.548,144,163,54,115,61,IND
+22023,1628971,Bruce Brown,1610612754,IND,Indiana Pacers,Transition,Offensive,0.774,32,0.242,1.267,0.611,0.144,0.1,0.144,0.044,0.589,0.681,90,114,44,72,28,IND
+22023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Transition,Offensive,0.096,70,0.164,0.873,0.537,0.076,0.246,0.068,0.017,0.424,0.549,118,103,44,82,38,IND
+22023,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Transition,Offensive,0.885,61,0.128,1.339,0.633,0.177,0.065,0.177,0.032,0.629,0.694,62,83,31,49,18,IND
+22023,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Transition,Offensive,0.962,58,0.129,1.488,0.839,0.122,0.122,0.122,0.0,0.756,0.839,41,61,26,31,5,IND
+22023,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,Transition,Offensive,0.039,18,0.286,0.786,0.435,0.036,0.179,0.036,0.036,0.357,0.457,28,22,10,23,13,IND
+22023,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Transition,Offensive,0.011,33,0.229,0.6,0.304,0.033,0.2,0.033,0.0,0.267,0.348,30,18,7,23,16,IND

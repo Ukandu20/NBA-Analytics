@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.696,18,0.038,1.214,0.615,0.0,0.071,0.0,0.0,0.571,0.654,0.8,0.9,0.4,0.7,0.3,DAL
+42021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.304,15,0.032,0.733,0.3,0.133,0.2,0.133,0.0,0.333,0.4,1.0,0.7,0.2,0.7,0.5,DAL
+42021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,18,0.012,2.0,1.0,0.333,0.0,0.333,0.0,1.0,1.0,0.2,0.3,0.1,0.1,0.0,DAL
+42021,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,18,0.079,1.0,0.25,0.4,0.0,0.4,0.2,0.4,0.375,0.3,0.3,0.1,0.2,0.2,DAL
+42021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,18,0.019,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,0.2,0.2,0.1,0.2,0.1,DAL
+42021,1628425,Sterling Brown,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,9,0.059,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,DAL
+42021,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,18,0.008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,DAL
+42021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,12,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,DAL
+42021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,18,0.011,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,DAL

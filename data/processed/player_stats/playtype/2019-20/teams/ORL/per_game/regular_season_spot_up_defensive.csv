@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629109,Gary Clark,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.349,24,0.331,1.07,0.405,0.07,0.07,0.07,0.0,0.419,0.568,1.8,1.9,1.1,2.0,0.9,ORL
+22019,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.739,18,0.381,0.925,0.326,0.06,0.075,0.06,0.0,0.34,0.467,2.9,2.7,1.3,3.0,1.7,ORL
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.48,45,0.17,1.016,0.426,0.02,0.113,0.02,0.0,0.371,0.583,1.4,1.4,0.3,1.0,0.7,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.959,34,0.297,0.725,0.322,0.02,0.147,0.02,0.02,0.275,0.414,3.0,2.2,1.3,3.0,1.7,ORL
+22019,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.576,62,0.16,0.988,0.397,0.11,0.025,0.1,0.04,0.42,0.479,1.3,1.3,0.3,1.0,0.7,ORL
+22019,203516,James Ennis III,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.018,20,0.354,1.517,0.556,0.12,0.052,0.12,0.1,0.534,0.759,2.9,4.4,1.8,3.0,1.2,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.865,57,0.228,0.847,0.33,0.0,0.072,0.0,0.0,0.306,0.456,1.9,1.6,0.8,2.0,1.2,ORL
+22019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.788,52,0.293,0.906,0.365,0.06,0.066,0.06,0.03,0.358,0.453,2.0,1.8,0.8,2.0,1.2,ORL
+22019,203920,Khem Birch,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.294,48,0.242,1.093,0.43,0.07,0.072,0.07,0.03,0.423,0.564,2.0,2.2,1.0,2.0,1.0,ORL
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.225,62,0.151,1.13,0.452,0.04,0.062,0.04,0.01,0.435,0.599,2.6,2.9,0.7,2.0,1.3,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.645,66,0.253,0.969,0.391,0.03,0.078,0.02,0.01,0.373,0.517,2.9,2.8,1.4,3.0,1.6,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.614,62,0.32,0.977,0.372,0.05,0.06,0.05,0.0,0.376,0.497,3.5,3.4,1.0,3.0,2.0,ORL
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.22,69,0.41,1.131,0.425,0.07,0.066,0.07,0.01,0.432,0.586,3.1,3.5,1.4,3.0,1.6,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.131,72,0.248,1.214,0.481,0.05,0.092,0.05,0.02,0.447,0.655,2.9,3.5,1.7,3.0,1.3,ORL

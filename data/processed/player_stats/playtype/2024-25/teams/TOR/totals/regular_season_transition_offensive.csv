@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.341,58,0.262,1.05,0.526,0.133,0.118,0.133,0.038,0.497,0.57,338,355,140,266,126,TOR
+22024,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.248,65,0.209,1.0,0.495,0.128,0.132,0.118,0.017,0.483,0.546,288,288,108,218,110,TOR
+22024,1630534,Ochai Agbaji,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.753,64,0.292,1.242,0.57,0.079,0.045,0.062,0.011,0.573,0.646,178,221,90,158,68,TOR
+22024,1641711,Gradey Dick,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.224,54,0.238,0.974,0.411,0.1,0.079,0.095,0.011,0.432,0.484,190,185,65,158,93,TOR
+22024,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.464,33,0.255,1.114,0.463,0.15,0.114,0.15,0.036,0.464,0.569,140,156,50,108,58,TOR
+22024,1642347,Jamal Shead,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.102,75,0.218,0.872,0.476,0.071,0.22,0.064,0.021,0.39,0.544,141,123,49,103,54,TOR
+22024,1642367,Jonathan Mogbo,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.232,63,0.242,0.982,0.506,0.161,0.125,0.161,0.027,0.5,0.53,112,110,42,83,41,TOR
+22024,1642266,Ja'Kobe Walter,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.178,52,0.23,0.945,0.407,0.145,0.091,0.136,0.018,0.445,0.453,110,104,35,86,51,TOR
+22024,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.827,57,0.099,1.293,0.678,0.147,0.067,0.147,0.0,0.667,0.678,75,97,40,59,19,TOR
+22024,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.422,50,0.203,1.09,0.506,0.079,0.079,0.067,0.022,0.494,0.571,89,97,39,77,38,TOR
+22024,1642419,Jamison Battle,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.636,59,0.208,1.177,0.465,0.013,0.089,0.013,0.0,0.43,0.648,79,93,33,71,38,TOR
+22024,1630639,A.J. Lawson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.425,26,0.28,1.092,0.48,0.246,0.046,0.231,0.062,0.554,0.53,65,71,24,50,26,TOR
+22024,1631115,Orlando Robinson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.45,35,0.118,1.105,0.5,0.132,0.132,0.105,0.0,0.474,0.625,38,42,14,28,14,TOR
+22024,1628971,Bruce Brown,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.555,18,0.209,1.147,0.6,0.118,0.176,0.118,0.029,0.529,0.68,34,39,15,25,10,TOR
+22024,1631197,Jared Rhoden,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.9,10,0.242,1.333,0.6,0.167,0.0,0.167,0.0,0.667,0.6,24,32,12,20,8,TOR
+22024,203482,Kelly Olynyk,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.743,24,0.121,1.238,0.667,0.048,0.238,0.048,0.0,0.524,0.8,21,26,10,15,5,TOR
+22024,1630658,Colin Castleton,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.248,11,0.202,1.0,0.571,0.158,0.211,0.158,0.105,0.474,0.571,19,19,8,14,6,TOR
+22024,1631306,Cole Swider,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.087,8,0.355,0.864,0.318,0.045,0.0,0.045,0.045,0.318,0.432,22,19,7,22,15,TOR

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.46,45,0.181,0.843,0.387,0.081,0.102,0.081,0.036,0.365,0.452,4.4,3.7,1.4,3.7,2.3,LAL
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.593,61,0.092,0.905,0.418,0.179,0.126,0.179,0.011,0.463,0.433,1.6,1.4,0.5,1.1,0.6,LAL
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.355,36,0.121,0.787,0.364,0.128,0.074,0.106,0.021,0.404,0.364,2.6,2.1,0.8,2.1,1.4,LAL
+22020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.605,69,0.077,0.917,0.404,0.133,0.017,0.133,0.017,0.467,0.404,0.9,0.8,0.3,0.8,0.4,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.512,65,0.079,0.863,0.41,0.118,0.137,0.118,0.02,0.412,0.449,0.8,0.7,0.2,0.6,0.4,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.238,68,0.058,0.679,0.372,0.057,0.151,0.057,0.019,0.34,0.384,0.8,0.5,0.2,0.6,0.4,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.818,61,0.04,1.056,0.643,0.056,0.222,0.056,0.056,0.5,0.643,0.3,0.3,0.1,0.2,0.1,LAL
+22020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.871,21,0.045,1.083,0.5,0.25,0.0,0.25,0.083,0.583,0.5,0.6,0.6,0.2,0.5,0.2,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.048,58,0.042,0.412,0.091,0.176,0.176,0.176,0.0,0.235,0.091,0.3,0.1,0.0,0.2,0.2,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.171,67,0.016,0.6,0.25,0.1,0.1,0.1,0.0,0.3,0.313,0.1,0.1,0.0,0.1,0.1,LAL

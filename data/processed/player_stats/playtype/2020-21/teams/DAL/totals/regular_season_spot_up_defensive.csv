@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629740,Nicolo Melli,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.918,23,0.277,0.786,0.318,0.11,0.14,0.11,0.04,0.32,0.409,28,22,7,22,15,DAL
+22020,200755,JJ Redick,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.0,13,0.275,2.091,0.8,0.0,0.09,0.0,0.0,0.73,1.15,11,23,8,10,2,DAL
+22020,1628411,Wes Iwundu,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.925,23,0.274,0.774,0.333,0.0,0.13,0.0,0.0,0.29,0.444,31,24,9,27,18,DAL
+22020,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.188,39,0.196,1.172,0.458,0.1,0.07,0.1,0.0,0.45,0.625,29,34,11,24,13,DAL
+22020,201949,James Johnson,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.588,29,0.285,1.0,0.381,0.04,0.1,0.04,0.0,0.37,0.536,49,49,16,42,26,DAL
+22020,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.448,62,0.203,1.05,0.375,0.05,0.02,0.03,0.0,0.4,0.509,60,63,21,56,35,DAL
+22020,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.618,53,0.153,0.987,0.386,0.05,0.06,0.05,0.0,0.38,0.507,79,78,27,70,43,DAL
+22020,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.838,58,0.172,0.868,0.313,0.1,0.03,0.1,0.01,0.36,0.406,91,79,25,80,55,DAL
+22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.26,43,0.176,1.139,0.427,0.05,0.02,0.04,0.02,0.44,0.568,108,123,44,103,59,DAL
+22020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.817,50,0.263,0.88,0.333,0.04,0.05,0.04,0.0,0.34,0.444,158,139,48,144,96,DAL
+22020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.443,68,0.286,1.052,0.403,0.05,0.05,0.04,0.0,0.41,0.547,154,162,56,139,83,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.791,60,0.249,0.897,0.339,0.03,0.04,0.03,0.0,0.35,0.458,194,174,61,180,119,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.132,59,0.273,1.22,0.455,0.11,0.05,0.1,0.01,0.47,0.622,168,205,65,143,78,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.528,66,0.336,1.024,0.386,0.06,0.04,0.04,0.0,0.4,0.513,251,257,88,228,140,DAL
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.328,70,0.353,1.101,0.391,0.03,0.03,0.03,0.0,0.4,0.554,248,273,91,233,142,DAL

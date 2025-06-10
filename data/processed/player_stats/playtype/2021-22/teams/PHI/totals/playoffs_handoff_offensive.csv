@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,12,0.074,1.25,0.333,0.25,0.0,0.25,0.0,0.5,0.333,4,5,1,3,2,PHI
+42021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,12,0.031,0.714,0.4,0.0,0.286,0.0,0.0,0.286,0.5,7,5,2,5,3,PHI
+42021,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,12,0.01,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,1,3,1,1,0,PHI
+42021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,9,0.077,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHI
+42021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,12,0.018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
+42021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,10,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
+42021,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.0,12,0.012,0.0,0.0,0.0,0.0,0.333,0.0,0.0,0.0,3,0,0,2,2,PHI

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Transition,Offensive,0.802,12,0.208,1.311,0.605,0.067,0.089,0.044,0.0,0.578,0.697,45,59,23,38,15,HOU
+42019,201935,James Harden,1610612745,HOU,Houston Rockets,Transition,Offensive,0.543,12,0.127,1.098,0.538,0.22,0.195,0.195,0.049,0.512,0.635,41,45,14,26,12,HOU
+42019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Transition,Offensive,0.852,9,0.192,1.368,0.667,0.158,0.053,0.158,0.0,0.684,0.7,19,26,10,15,5,HOU
+42019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,Transition,Offensive,0.05,8,0.196,0.667,0.5,0.167,0.306,0.167,0.083,0.333,0.523,36,24,11,22,11,HOU
+42019,201145,Jeff Green,1610612745,HOU,Houston Rockets,Transition,Offensive,0.827,12,0.112,1.357,0.636,0.214,0.071,0.214,0.071,0.643,0.682,14,19,7,11,4,HOU
+42019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Transition,Offensive,0.975,12,0.11,1.636,0.545,0.0,0.0,0.0,0.0,0.545,0.818,11,18,6,11,5,HOU
+42019,203496,Robert Covington,1610612745,HOU,Houston Rockets,Transition,Offensive,0.225,12,0.173,0.842,0.353,0.053,0.053,0.053,0.0,0.368,0.412,19,16,6,17,11,HOU
+42019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,12,0.133,0.5,0.25,0.1,0.2,0.1,0.1,0.2,0.25,10,5,2,8,6,HOU
+42019,1626187,Michael Frazier II,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,4,0.6,1.0,0.5,0.0,0.333,0.0,0.0,0.333,0.75,3,3,1,2,1,HOU
+42019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,11,0.14,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,6,3,1,6,5,HOU
+42019,1629598,Chris Clemons,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,HOU
+42019,203998,Bruno Caboclo,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,HOU

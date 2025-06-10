@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.423,72,0.044,0.944,0.429,0.11,0.167,0.11,0.06,0.389,0.5,18,17,6,14,8,TOR
+22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.939,52,0.07,0.581,0.273,0.1,0.226,0.1,0.03,0.258,0.318,31,18,6,22,16,TOR
+22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.754,60,0.058,0.769,0.368,0.04,0.231,0.0,0.0,0.308,0.474,26,20,7,19,12,TOR
+22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.852,60,0.041,0.697,0.357,0.03,0.121,0.0,0.0,0.333,0.375,33,23,10,28,18,TOR
+22019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.721,58,0.062,0.789,0.333,0.16,0.132,0.16,0.08,0.342,0.383,38,30,10,30,20,TOR
+22019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.754,54,0.055,0.769,0.364,0.05,0.103,0.05,0.0,0.359,0.394,39,30,12,33,21,TOR
+22019,1627775,Patrick McCaw,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.394,37,0.1,0.969,0.429,0.19,0.219,0.16,0.06,0.406,0.5,32,31,9,21,12,TOR
+22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.087,69,0.063,1.22,0.633,0.07,0.195,0.07,0.0,0.537,0.75,41,50,19,30,11,TOR

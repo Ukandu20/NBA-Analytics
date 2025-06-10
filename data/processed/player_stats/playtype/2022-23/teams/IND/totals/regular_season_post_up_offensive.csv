@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Offensive,0.8,62,0.141,1.111,0.559,0.193,0.096,0.163,0.044,0.57,0.559,135,150,57,102,45,IND
+22022,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Postup,Offensive,0.82,63,0.055,1.125,0.643,0.292,0.167,0.25,0.042,0.62,0.643,24,27,9,14,5,IND
+22022,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Postup,Offensive,0.122,68,0.056,0.75,0.393,0.111,0.139,0.111,0.028,0.39,0.393,36,27,11,28,17,IND
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Postup,Offensive,0.246,78,0.009,0.818,0.375,0.182,0.091,0.182,0.0,0.45,0.375,11,9,3,8,5,IND

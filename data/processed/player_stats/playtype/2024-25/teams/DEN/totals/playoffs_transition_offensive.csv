@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.547,14,0.119,1.158,0.538,0.184,0.158,0.158,0.026,0.526,0.635,38,44,14,26,12,DEN
+42024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.767,14,0.185,1.303,0.6,0.212,0.03,0.212,0.0,0.606,0.68,33,43,15,25,10,DEN
+42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.756,14,0.14,1.3,0.52,0.133,0.1,0.133,0.067,0.5,0.66,30,39,13,25,12,DEN
+42024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.326,14,0.214,1.033,0.462,0.033,0.1,0.033,0.0,0.433,0.558,30,31,12,26,14,DEN
+42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.895,14,0.054,1.45,0.857,0.2,0.15,0.15,0.05,0.75,0.857,20,29,12,14,2,DEN
+42024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.035,13,0.221,0.7,0.3,0.15,0.125,0.15,0.025,0.35,0.333,40,28,9,30,21,DEN
+42024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.419,14,0.293,1.091,0.526,0.091,0.045,0.091,0.0,0.545,0.553,22,24,10,19,9,DEN

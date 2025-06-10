@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203112,Quincy Acy,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.998,10,0.164,0.3,0.143,0.1,0.2,0.1,0.0,0.1,0.214,10,3,1,7,6,PHX
+22018,1629034,Ray Spalding,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.176,13,0.194,1.143,0.385,0.07,0.0,0.07,0.0,0.43,0.538,14,16,5,13,8,PHX
+22018,201583,Ryan Anderson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.253,15,0.269,1.111,0.438,0.11,0.06,0.11,0.06,0.44,0.531,18,20,7,16,9,PHX
+22018,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.873,13,0.192,0.84,0.261,0.08,0.0,0.08,0.0,0.32,0.391,25,21,6,23,17,PHX
+22018,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.919,19,0.194,0.784,0.314,0.0,0.05,0.0,0.0,0.3,0.414,37,29,11,35,24,PHX
+22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.934,70,0.102,0.769,0.352,0.03,0.14,0.03,0.0,0.32,0.435,65,50,19,54,35,PHX
+22018,2772,Trevor Ariza,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.825,26,0.251,0.875,0.35,0.02,0.05,0.02,0.0,0.34,0.458,64,56,21,60,39,PHX
+22018,2037,Jamal Crawford,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.551,64,0.236,1.0,0.357,0.03,0.0,0.03,0.0,0.38,0.5,58,58,20,56,36,PHX
+22018,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.418,53,0.193,1.042,0.41,0.06,0.1,0.04,0.01,0.39,0.549,71,74,25,61,36,PHX
+22018,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.424,51,0.302,1.041,0.406,0.03,0.1,0.03,0.0,0.38,0.563,73,76,26,64,38,PHX
+22018,1629001,De'Anthony Melton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.439,50,0.193,1.038,0.357,0.08,0.04,0.08,0.01,0.38,0.493,78,81,25,70,45,PHX
+22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.322,46,0.219,1.08,0.39,0.06,0.01,0.05,0.01,0.41,0.524,87,94,32,82,50,PHX
+22018,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.38,40,0.313,1.058,0.413,0.07,0.05,0.06,0.02,0.42,0.537,121,128,45,109,64,PHX
+22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.705,71,0.118,0.935,0.359,0.04,0.04,0.04,0.0,0.37,0.469,139,130,46,128,82,PHX
+22018,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.096,43,0.301,1.211,0.463,0.07,0.07,0.06,0.02,0.46,0.632,109,132,44,95,51,PHX
+22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.48,64,0.348,1.024,0.402,0.04,0.08,0.03,0.0,0.39,0.529,212,217,76,189,113,PHX
+22018,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.098,82,0.219,1.211,0.44,0.05,0.04,0.04,0.01,0.44,0.617,190,230,77,175,98,PHX
+22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.243,79,0.301,1.115,0.431,0.08,0.07,0.06,0.01,0.44,0.574,218,243,81,188,107,PHX

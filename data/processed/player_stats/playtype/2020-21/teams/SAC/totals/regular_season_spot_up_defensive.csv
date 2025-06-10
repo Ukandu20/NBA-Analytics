@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629610,DaQuan Jeffries,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.906,18,0.17,0.8,0.25,0.13,0.07,0.13,0.0,0.33,0.333,15,12,3,12,9,SAC
+22020,202355,Hassan Whiteside,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.923,36,0.102,0.778,0.303,0.06,0.03,0.03,0.0,0.33,0.379,36,28,10,33,23,SAC
+22020,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.167,17,0.155,1.185,0.478,0.04,0.15,0.04,0.04,0.41,0.674,27,32,11,23,12,SAC
+22020,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.451,26,0.261,1.048,0.4,0.07,0.02,0.07,0.05,0.4,0.513,42,44,16,40,24,SAC
+22020,1626153,Delon Wright,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.862,27,0.267,0.847,0.34,0.03,0.07,0.03,0.0,0.34,0.425,59,50,18,53,35,SAC
+22020,203922,Glenn Robinson III,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.011,23,0.275,1.5,0.556,0.03,0.0,0.03,0.03,0.56,0.736,36,54,20,36,16,SAC
+22020,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.091,27,0.261,1.271,0.513,0.12,0.06,0.12,0.0,0.52,0.679,48,61,20,39,19,SAC
+22020,202709,Cory Joseph,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.118,44,0.158,1.238,0.492,0.05,0.02,0.06,0.02,0.48,0.636,63,78,29,59,30,SAC
+22020,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.067,36,0.289,1.303,0.474,0.12,0.05,0.09,0.03,0.48,0.649,66,86,27,57,30,SAC
+22020,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.419,61,0.108,1.061,0.398,0.07,0.05,0.07,0.02,0.41,0.54,98,104,35,88,53,SAC
+22020,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.419,26,0.343,1.061,0.39,0.11,0.06,0.11,0.01,0.42,0.537,98,104,32,82,50,SAC
+22020,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.789,43,0.244,0.898,0.345,0.04,0.03,0.04,0.01,0.36,0.441,118,106,38,110,72,SAC
+22020,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.487,58,0.306,1.037,0.403,0.05,0.06,0.05,0.02,0.4,0.527,162,168,60,149,89,SAC
+22020,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.437,58,0.274,1.053,0.403,0.02,0.06,0.02,0.01,0.38,0.553,170,179,64,159,95,SAC
+22020,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.827,71,0.338,0.875,0.343,0.03,0.05,0.03,0.0,0.34,0.448,272,238,86,251,165,SAC
+22020,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.479,58,0.287,1.039,0.393,0.03,0.06,0.03,0.0,0.39,0.54,233,242,83,211,128,SAC

@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Handoff,Defensive,1.0,7,0.109,0.2,0.0,0.1,0.2,0.1,0.0,0.1,0.0,1.4,0.3,0.0,1.0,1.0,ORL
+42023,203914,Gary Harris,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.333,5,0.2,1.0,0.667,0.1,0.3,0.1,0.0,0.5,0.667,2.0,2.0,0.8,1.2,0.4,ORL
+42023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.16,7,0.093,1.3,0.556,0.0,0.1,0.0,0.0,0.5,0.722,1.4,1.9,0.7,1.3,0.6,ORL

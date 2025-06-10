@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.964,16,0.288,0.696,0.273,0.04,0.04,0.04,0.04,0.26,0.341,23,16,6,22,16,UTA
+22021,1628962,Udoka Azubuike,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.973,17,0.252,0.63,0.269,0.0,0.04,0.0,0.0,0.26,0.327,27,17,7,26,19,UTA
+22021,1629638,Nickeil Alexander-Walker,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.133,14,0.328,1.2,0.5,0.05,0.1,0.05,0.05,0.45,0.639,20,24,9,18,9,UTA
+22021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.8,25,0.232,0.894,0.31,0.04,0.06,0.02,0.0,0.32,0.452,47,42,13,42,29,UTA
+22021,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.971,45,0.231,0.649,0.25,0.06,0.01,0.05,0.01,0.26,0.313,77,50,18,72,54,UTA
+22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.849,60,0.196,0.862,0.302,0.03,0.02,0.02,0.02,0.31,0.421,65,56,19,63,44,UTA
+22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.127,58,0.207,1.208,0.447,0.0,0.02,0.0,0.0,0.44,0.617,48,58,21,47,26,UTA
+22021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.521,65,0.112,1.013,0.382,0.06,0.0,0.05,0.03,0.39,0.493,79,80,29,76,47,UTA
+22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.722,55,0.308,0.932,0.358,0.03,0.07,0.03,0.0,0.35,0.491,117,109,38,106,68,UTA
+22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.799,67,0.279,0.894,0.346,0.02,0.05,0.02,0.01,0.34,0.469,170,152,55,159,104,UTA
+22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.788,72,0.231,0.907,0.352,0.02,0.07,0.02,0.01,0.33,0.478,172,156,56,159,103,UTA
+22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.926,66,0.157,0.792,0.319,0.03,0.06,0.03,0.01,0.31,0.407,197,156,58,182,124,UTA
+22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.365,69,0.298,1.061,0.413,0.03,0.03,0.02,0.01,0.41,0.547,181,192,71,172,101,UTA
+22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.4,77,0.191,1.053,0.398,0.06,0.03,0.05,0.02,0.41,0.528,190,200,70,176,106,UTA
+22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.379,79,0.305,1.057,0.387,0.05,0.02,0.04,0.0,0.4,0.528,194,205,70,181,111,UTA

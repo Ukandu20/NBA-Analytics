@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.962,8,0.143,0.4,0.143,0.2,0.1,0.0,0.0,0.3,0.143,10,4,1,7,6,GSW
+42024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.245,10,0.228,1.077,0.444,0.231,0.077,0.231,0.0,0.538,0.5,13,14,4,9,5,GSW
+42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.269,12,0.144,1.0,0.467,0.063,0.063,0.063,0.063,0.438,0.5,16,16,7,15,8,GSW
+42024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.34,12,0.146,0.947,0.538,0.105,0.211,0.105,0.0,0.474,0.538,19,18,7,13,6,GSW

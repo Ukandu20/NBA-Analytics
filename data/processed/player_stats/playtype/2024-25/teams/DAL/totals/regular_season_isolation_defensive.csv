@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628997,Caleb Martin,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.839,14,0.096,0.7,0.333,0.0,0.1,0.0,0.0,0.3,0.389,10,7,3,9,6,DAL
+22024,1630539,Kai Jones,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.645,10,0.113,0.833,0.4,0.083,0.083,0.083,0.0,0.417,0.4,12,10,4,10,6,DAL
+22024,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.305,20,0.087,1.0,0.5,0.2,0.2,0.2,0.0,0.5,0.5,10,10,3,6,3,DAL
+22024,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.878,22,0.124,0.676,0.308,0.147,0.118,0.147,0.029,0.353,0.365,34,23,8,26,18,DAL
+22024,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.68,36,0.129,0.813,0.423,0.125,0.125,0.125,0.063,0.406,0.442,32,26,11,26,15,DAL
+22024,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.793,49,0.077,0.737,0.367,0.079,0.132,0.079,0.0,0.368,0.383,38,28,11,30,19,DAL
+22024,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.044,52,0.082,1.261,0.545,0.391,0.13,0.348,0.0,0.652,0.545,23,29,6,11,5,DAL
+22024,1630314,Brandon Williams,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.061,27,0.131,1.24,0.571,0.2,0.04,0.2,0.08,0.6,0.595,25,31,12,21,9,DAL
+22024,1631108,Max Christie,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.485,32,0.102,0.919,0.429,0.135,0.108,0.108,0.0,0.459,0.446,37,34,12,28,16,DAL
+22024,1630556,Kessler Edwards,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.174,31,0.147,1.097,0.458,0.29,0.0,0.258,0.065,0.581,0.458,31,34,11,24,13,DAL
+22024,1629656,Quentin Grimes,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.622,46,0.107,0.841,0.353,0.182,0.068,0.159,0.023,0.409,0.368,44,37,12,34,22,DAL
+22024,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.262,33,0.134,1.026,0.467,0.158,0.079,0.158,0.026,0.474,0.517,38,39,14,30,16,DAL
+22024,202691,Klay Thompson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.218,71,0.098,1.057,0.521,0.019,0.075,0.019,0.0,0.491,0.563,53,56,25,48,23,DAL
+22024,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.223,34,0.136,1.055,0.465,0.164,0.055,0.164,0.0,0.527,0.5,55,58,20,43,23,DAL
+22024,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.377,78,0.102,0.969,0.417,0.277,0.062,0.231,0.077,0.508,0.427,65,63,20,48,28,DAL
+22024,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.127,55,0.096,1.14,0.49,0.14,0.07,0.123,0.07,0.491,0.541,57,65,24,49,25,DAL
+22024,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.583,56,0.117,0.861,0.417,0.152,0.114,0.152,0.025,0.418,0.425,79,68,25,60,35,DAL
+22024,1630230,Naji Marshall,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.094,69,0.09,1.167,0.531,0.117,0.067,0.1,0.0,0.55,0.571,60,70,26,49,23,DAL

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629109,Gary Clark,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.249,18,0.174,1.083,0.45,0.08,0.0,0.08,0.0,0.5,0.55,12,13,5,11,6,HOU
+22019,200757,Thabo Sefolosha,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.784,42,0.117,0.737,0.38,0.05,0.11,0.0,0.0,0.37,0.38,19,14,6,16,10,HOU
+22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.934,36,0.087,0.6,0.26,0.12,0.12,0.12,0.0,0.32,0.29,25,15,5,19,14,HOU
+22019,1628392,Isaiah Hartenstein,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.518,23,0.118,0.9,0.29,0.25,0.05,0.2,0.0,0.45,0.32,20,18,4,14,10,HOU
+22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.939,57,0.066,0.59,0.25,0.08,0.1,0.08,0.0,0.28,0.28,39,23,8,32,24,HOU
+22019,201145,Jeff Green,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.699,18,0.196,0.788,0.42,0.09,0.18,0.09,0.0,0.39,0.44,33,26,10,24,14,HOU
+22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.104,22,0.087,1.217,0.59,0.17,0.13,0.09,0.04,0.57,0.71,23,28,10,17,7,HOU
+22019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.861,68,0.098,0.696,0.33,0.14,0.14,0.11,0.04,0.36,0.35,56,39,14,42,28,HOU
+22019,203991,Clint Capela,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.818,39,0.108,0.716,0.35,0.09,0.16,0.09,0.03,0.33,0.38,67,48,18,52,34,HOU
+22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.775,63,0.098,0.746,0.33,0.12,0.1,0.12,0.0,0.37,0.36,67,50,17,52,35,HOU
+22019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.23,71,0.101,1.096,0.44,0.21,0.08,0.17,0.04,0.5,0.54,52,57,17,39,22,HOU
+22019,201935,James Harden,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.587,68,0.124,0.861,0.42,0.08,0.1,0.08,0.02,0.41,0.44,115,99,40,96,56,HOU
+22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.547,72,0.129,0.881,0.33,0.13,0.08,0.12,0.02,0.38,0.4,126,111,34,102,68,HOU

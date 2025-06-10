@@ -1,0 +1,20 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.895,55,0.314,1.214,0.407,0.054,0.027,0.045,0.013,0.42,0.593,224,272,85,209,124,WAS
+22019,1628972,Troy Brown Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.719,69,0.239,1.088,0.417,0.044,0.044,0.038,0.011,0.418,0.551,182,198,70,168,98,WAS
+22019,202738,Isaiah Thomas,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.949,40,0.262,1.277,0.492,0.043,0.05,0.035,0.0,0.489,0.664,141,180,63,128,65,WAS
+22019,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.678,57,0.098,1.06,0.407,0.078,0.03,0.066,0.018,0.428,0.523,166,176,61,150,89,WAS
+22019,202397,Ish Smith,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.463,68,0.216,0.949,0.38,0.006,0.034,0.006,0.0,0.371,0.491,178,169,65,171,106,WAS
+22019,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.318,48,0.228,0.881,0.351,0.106,0.04,0.099,0.013,0.397,0.412,151,133,46,131,85,WAS
+22019,1629067,Isaac Bonga,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.473,66,0.305,0.96,0.381,0.08,0.09,0.07,0.01,0.38,0.518,100,96,32,84,52,WAS
+22019,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.851,46,0.15,1.179,0.425,0.064,0.013,0.064,0.013,0.449,0.582,78,92,31,73,42,WAS
+22019,203895,Jordan McRae,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.632,29,0.204,1.038,0.414,0.075,0.075,0.075,0.025,0.413,0.543,80,83,29,70,41,WAS
+22019,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.51,45,0.19,0.986,0.406,0.028,0.083,0.028,0.0,0.389,0.523,72,71,26,64,38,WAS
+22019,1629010,Jerome Robinson,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.699,21,0.263,1.071,0.42,0.054,0.071,0.054,0.018,0.411,0.57,56,60,21,50,29,WAS
+22019,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.772,18,0.447,1.118,0.346,0.206,0.059,0.176,0.029,0.441,0.462,34,38,9,26,17,WAS
+22019,203894,Shabazz Napier,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.675,20,0.134,1.059,0.393,0.088,0.088,0.088,0.0,0.412,0.554,34,36,11,28,17,WAS
+22019,1627780,Gary Payton II,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.16,29,0.338,0.745,0.279,0.0,0.085,0.0,0.0,0.255,0.407,47,35,12,43,31,WAS
+22019,1629678,Admiral Schofield,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.15,33,0.429,0.733,0.262,0.022,0.044,0.0,0.0,0.267,0.381,45,33,11,42,31,WAS
+22019,101139,CJ Miles,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.547,10,0.286,1.0,0.353,0.1,0.05,0.1,0.0,0.4,0.5,20,20,6,17,11,WAS
+22019,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.096,38,0.092,0.679,0.292,0.036,0.107,0.036,0.0,0.286,0.375,28,19,7,24,17,WAS
+22019,1629185,Chris Chiozza,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.994,10,0.256,1.455,0.6,0.0,0.091,0.0,0.0,0.545,0.8,11,16,6,10,4,WAS
+22019,1626170,Jerian Grant,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.094,6,0.364,0.667,0.4,0.083,0.083,0.083,0.0,0.333,0.4,12,8,4,10,6,WAS

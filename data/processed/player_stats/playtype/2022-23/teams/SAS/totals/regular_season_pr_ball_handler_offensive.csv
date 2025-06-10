@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.542,68,0.404,0.89,0.452,0.083,0.102,0.075,0.013,0.444,0.461,374,333,140,310,170,SAS
+22022,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.6,63,0.208,0.913,0.466,0.133,0.14,0.129,0.038,0.448,0.489,286,261,102,219,117,SAS
+22022,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.834,39,0.265,1.016,0.503,0.06,0.098,0.06,0.016,0.475,0.541,183,186,79,157,78,SAS
+22022,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.665,66,0.235,0.935,0.511,0.053,0.136,0.047,0.012,0.456,0.525,169,158,71,139,68,SAS
+22022,1626196,Josh Richardson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.36,43,0.25,0.797,0.406,0.081,0.154,0.049,0.016,0.382,0.438,123,98,39,96,57,SAS
+22022,1628984,Devonte' Graham,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.846,20,0.342,1.023,0.358,0.182,0.08,0.091,0.023,0.432,0.47,88,90,24,67,43,SAS
+22022,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.148,56,0.148,0.66,0.329,0.097,0.175,0.097,0.01,0.32,0.355,103,68,25,76,51,SAS
+22022,1631160,Jordan Hall,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.308,8,0.316,0.75,0.375,0.083,0.25,0.083,0.0,0.333,0.438,12,9,3,8,5,SAS
+22022,1629641,Romeo Langford,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.394,43,0.146,0.826,0.429,0.043,0.043,0.022,0.0,0.413,0.429,46,38,18,42,24,SAS
+22022,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.012,37,0.303,0.411,0.217,0.1,0.256,0.078,0.022,0.2,0.233,90,37,13,60,47,SAS
+22022,1628966,Keita Bates-Diop,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.526,67,0.06,0.886,0.346,0.286,0.057,0.286,0.086,0.429,0.346,35,31,9,26,17,SAS
+22022,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.169,64,0.051,0.677,0.296,0.0,0.129,0.0,0.0,0.258,0.389,31,21,8,27,19,SAS
+22022,1626169,Stanley Johnson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.809,30,0.059,1.0,0.6,0.2,0.4,0.2,0.1,0.4,0.7,10,10,3,5,2,SAS
+22022,1630563,Joshua Primo,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.214,4,0.35,0.714,0.5,0.071,0.357,0.071,0.0,0.357,0.563,14,10,4,8,4,SAS
+22022,1629676,Isaiah Roby,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.059,42,0.054,0.545,0.25,0.0,0.273,0.0,0.0,0.182,0.375,11,6,2,8,6,SAS

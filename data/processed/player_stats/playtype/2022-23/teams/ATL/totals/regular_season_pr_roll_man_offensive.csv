@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.909,65,0.286,1.382,0.714,0.134,0.043,0.134,0.04,0.704,0.714,186,257,115,161,46,ATL
+22022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.757,80,0.203,1.274,0.651,0.17,0.081,0.156,0.06,0.63,0.651,135,172,71,109,38,ATL
+22022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.692,71,0.125,1.231,0.554,0.13,0.046,0.13,0.03,0.574,0.598,108,133,51,92,41,ATL
+22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.522,67,0.037,1.135,0.486,0.054,0.027,0.054,0.03,0.486,0.586,37,42,17,35,18,ATL
+22022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.775,70,0.063,1.28,0.565,0.08,0.04,0.08,0.04,0.56,0.652,25,32,13,23,10,ATL
+22022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.302,54,0.018,1.0,0.417,0.0,0.077,0.0,0.0,0.385,0.542,13,13,5,12,7,ATL

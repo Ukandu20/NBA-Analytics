@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.752,57,0.061,0.769,0.38,0.27,0.15,0.27,0.04,0.38,0.38,0.5,0.4,0.1,0.3,0.2,DEN
+22018,203115,Will Barton,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.227,43,0.081,1.04,0.37,0.24,0.04,0.2,0.04,0.48,0.39,0.6,0.6,0.2,0.4,0.3,DEN
+22018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.377,82,0.056,0.941,0.38,0.12,0.03,0.12,0.0,0.44,0.43,0.4,0.4,0.1,0.4,0.2,DEN
+22018,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.61,70,0.106,0.83,0.33,0.04,0.0,0.02,0.02,0.34,0.4,0.7,0.6,0.2,0.7,0.4,DEN
+22018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.382,81,0.084,0.936,0.44,0.17,0.09,0.15,0.02,0.47,0.47,0.6,0.5,0.2,0.4,0.2,DEN
+22018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.472,75,0.066,0.898,0.36,0.2,0.1,0.2,0.04,0.41,0.4,0.7,0.6,0.2,0.5,0.3,DEN
+22018,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.145,64,0.118,1.125,0.5,0.15,0.1,0.12,0.0,0.52,0.58,0.8,0.8,0.3,0.6,0.3,DEN
+22018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.3,75,0.1,0.984,0.4,0.15,0.02,0.15,0.02,0.47,0.45,0.8,0.8,0.3,0.7,0.4,DEN
+22018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.69,80,0.076,0.8,0.36,0.04,0.06,0.04,0.0,0.36,0.42,1.0,0.8,0.3,0.9,0.6,DEN
+22018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.897,70,0.14,0.653,0.26,0.1,0.03,0.09,0.01,0.32,0.29,1.4,0.9,0.3,1.2,0.9,DEN
+22018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.314,82,0.132,0.98,0.4,0.11,0.08,0.1,0.04,0.41,0.48,1.2,1.2,0.4,1.0,0.6,DEN

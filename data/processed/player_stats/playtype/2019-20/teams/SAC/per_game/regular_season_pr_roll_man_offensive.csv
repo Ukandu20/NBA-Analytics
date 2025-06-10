@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.708,44,0.284,1.209,0.641,0.132,0.093,0.132,0.023,0.612,0.641,2.9,3.5,1.5,2.3,0.8,SAC
+22019,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.77,72,0.104,1.272,0.493,0.025,0.049,0.025,0.0,0.481,0.667,1.1,1.4,0.5,1.0,0.5,SAC
+22019,1628385,Harry Giles III,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.539,46,0.178,1.105,0.583,0.07,0.088,0.07,0.0,0.561,0.583,1.2,1.4,0.6,1.0,0.4,SAC
+22019,203473,Dewayne Dedmon,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.189,34,0.296,0.868,0.429,0.029,0.162,0.029,0.015,0.368,0.5,2.0,1.7,0.7,1.6,0.9,SAC
+22019,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.194,72,0.06,0.883,0.347,0.15,0.067,0.15,0.033,0.4,0.398,0.8,0.7,0.2,0.7,0.4,SAC
+22019,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.581,13,0.191,1.132,0.541,0.026,0.026,0.026,0.026,0.526,0.581,2.9,3.3,1.5,2.8,1.3,SAC
+22019,203458,Alex Len,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.47,15,0.188,1.063,0.583,0.25,0.063,0.25,0.063,0.563,0.583,1.1,1.1,0.5,0.8,0.3,SAC
+22019,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.083,72,0.01,0.714,0.308,0.0,0.071,0.0,0.0,0.286,0.385,0.2,0.1,0.1,0.2,0.1,SAC

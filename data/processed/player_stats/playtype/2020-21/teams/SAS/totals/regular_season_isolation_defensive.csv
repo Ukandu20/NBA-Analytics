@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.968,21,0.061,0.474,0.17,0.105,0.0,0.105,0.05,0.211,0.17,19,9,3,18,15,SAS
+22020,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.512,23,0.22,0.909,0.39,0.182,0.05,0.182,0.05,0.455,0.42,22,20,7,18,11,SAS
+22020,1629677,Luka Samanic,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.193,14,0.266,1.118,0.55,0.18,0.176,0.12,0.0,0.529,0.64,17,19,6,11,5,SAS
+22020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.656,61,0.059,0.815,0.41,0.111,0.07,0.111,0.0,0.444,0.41,27,22,9,22,13,SAS
+22020,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.322,62,0.069,1.0,0.47,0.217,0.17,0.174,0.04,0.478,0.53,23,23,7,15,8,SAS
+22020,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.407,36,0.053,0.96,0.47,0.12,0.12,0.12,0.0,0.48,0.5,25,24,9,19,10,SAS
+22020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.271,68,0.044,1.038,0.47,0.231,0.19,0.077,0.0,0.5,0.5,26,27,7,15,8,SAS
+22020,1629234,Drew Eubanks,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.765,54,0.087,0.75,0.3,0.111,0.06,0.083,0.0,0.333,0.37,36,27,9,30,21,SAS
+22020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.879,67,0.052,0.675,0.36,0.1,0.2,0.05,0.0,0.3,0.41,40,27,10,28,18,SAS
+22020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.052,60,0.052,1.25,0.53,0.321,0.07,0.286,0.07,0.607,0.55,28,35,10,19,9,SAS
+22020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.842,63,0.11,0.702,0.3,0.07,0.11,0.07,0.0,0.316,0.34,57,40,14,47,33,SAS
+22020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.781,69,0.081,0.732,0.34,0.071,0.09,0.071,0.0,0.357,0.36,56,41,16,47,31,SAS
+22020,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.448,69,0.08,0.942,0.45,0.07,0.07,0.058,0.01,0.442,0.49,86,81,33,74,41,SAS

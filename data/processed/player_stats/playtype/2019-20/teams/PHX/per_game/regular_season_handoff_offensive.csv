@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.712,71,0.082,1.014,0.446,0.132,0.111,0.104,0.021,0.451,0.509,2.0,2.1,0.7,1.6,0.9,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.52,56,0.094,0.917,0.392,0.135,0.094,0.125,0.052,0.406,0.43,1.7,1.6,0.6,1.4,0.9,PHX
+22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.459,65,0.071,0.882,0.417,0.162,0.147,0.147,0.015,0.441,0.427,1.0,0.9,0.3,0.7,0.4,PHX
+22019,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.843,31,0.085,1.111,0.429,0.222,0.0,0.222,0.0,0.556,0.536,0.6,0.6,0.2,0.5,0.3,PHX
+22019,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.957,55,0.052,1.308,0.7,0.231,0.0,0.231,0.0,0.615,0.75,0.2,0.3,0.1,0.2,0.1,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.887,66,0.018,1.167,0.545,0.0,0.083,0.0,0.0,0.5,0.636,0.2,0.2,0.1,0.2,0.1,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.324,73,0.026,0.813,0.333,0.063,0.188,0.0,0.0,0.313,0.458,0.2,0.2,0.1,0.2,0.1,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.047,57,0.046,0.524,0.211,0.048,0.095,0.048,0.048,0.19,0.263,0.4,0.2,0.1,0.3,0.3,PHX
+22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.119,58,0.052,0.6,0.308,0.0,0.133,0.0,0.0,0.267,0.346,0.3,0.2,0.1,0.2,0.2,PHX

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,2,0.167,0.667,0.0,0.33,0.33,0.33,0.0,0.33,0.0,3,2,0,1,1,GSW
+42020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,1.0,2,0.556,0.3,0.17,0.1,0.4,0.1,0.1,0.1,0.17,10,3,1,6,5,GSW
+42020,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,2,0.778,0.571,0.33,0.0,0.14,0.0,0.0,0.29,0.33,7,4,2,6,4,GSW
+42020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.989,2,0.303,0.4,0.22,0.0,0.1,0.0,0.0,0.2,0.22,10,4,2,9,7,GSW
+42020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,2,0.269,1.0,0.6,0.0,0.29,0.0,0.0,0.43,0.7,7,7,3,5,2,GSW
+42020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.868,2,0.314,0.727,0.33,0.09,0.09,0.09,0.0,0.36,0.33,11,8,3,9,6,GSW

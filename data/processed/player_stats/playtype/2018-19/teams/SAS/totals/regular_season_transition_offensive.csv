@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.415,77,0.097,1.073,0.565,0.207,0.171,0.207,0.079,0.518,0.565,164,176,65,115,50,SAS
+22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.686,82,0.159,1.196,0.488,0.049,0.077,0.049,0.028,0.462,0.632,143,171,63,129,66,SAS
+22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.781,76,0.181,1.255,0.513,0.053,0.106,0.053,0.011,0.479,0.688,94,118,41,80,39,SAS
+22018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.397,79,0.138,1.063,0.404,0.054,0.063,0.054,0.009,0.405,0.54,111,118,40,99,59,SAS
+22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.31,69,0.11,1.02,0.507,0.119,0.158,0.089,0.0,0.485,0.562,101,103,37,73,36,SAS
+22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.202,82,0.135,0.954,0.407,0.102,0.12,0.074,0.019,0.407,0.488,108,103,35,86,51,SAS
+22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.438,67,0.135,1.085,0.554,0.191,0.128,0.17,0.011,0.553,0.615,94,102,36,65,29,SAS
+22018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.669,81,0.04,1.185,0.589,0.108,0.077,0.108,0.046,0.569,0.598,65,77,33,56,23,SAS
+22018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.768,77,0.053,1.25,0.846,0.2,0.15,0.2,0.0,0.7,0.846,20,25,11,13,2,SAS
+22018,201967,Dante Cunningham,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.269,64,0.08,1.0,0.5,0.0,0.067,0.0,0.0,0.467,0.536,15,15,7,14,7,SAS

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,2229,Mike James,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,9,0.083,0.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,0.2,0.0,0.0,0.1,0.1,BKN
+42020,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,12,0.087,0.333,0.33,0.0,0.5,0.0,0.0,0.17,0.33,0.5,0.0,0.1,0.3,0.2,BKN
+42020,201935,James Harden,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,9,0.059,0.333,0.2,0.0,0.17,0.0,0.0,0.17,0.2,0.7,0.0,0.1,0.6,0.4,BKN
+42020,201933,Blake Griffin,1610612751,BKN,Brooklyn Nets,Postup,Defensive,1.0,12,0.051,0.4,0.29,0.1,0.3,0.1,0.1,0.2,0.29,0.8,0.0,0.2,0.6,0.4,BKN
+42020,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.969,9,0.115,0.455,0.2,0.09,0.0,0.09,0.0,0.27,0.2,1.2,1.0,0.2,1.1,0.9,BKN
+42020,1628971,Bruce Brown,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,12,0.038,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.5,0.4,0.0,0.2,0.3,0.2,BKN
+42020,201145,Jeff Green,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,6,0.098,1.333,0.75,0.33,0.0,0.33,0.0,0.83,0.75,1.0,1.0,0.5,0.7,0.2,BKN
+42020,1629013,Landry Shamet,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.0,12,0.109,1.143,0.5,0.14,0.0,0.14,0.0,0.57,0.5,0.6,1.0,0.3,0.5,0.3,BKN
+42020,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.552,12,0.063,0.8,0.38,0.1,0.1,0.0,0.0,0.4,0.38,0.8,1.0,0.3,0.7,0.4,BKN
+42020,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Postup,Defensive,0.438,12,0.099,0.909,0.56,0.0,0.18,0.0,0.0,0.45,0.56,0.9,1.0,0.4,0.8,0.3,BKN

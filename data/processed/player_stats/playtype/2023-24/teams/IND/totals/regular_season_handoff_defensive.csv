@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.949,74,0.01,0.545,0.286,0.0,0.364,0.0,0.0,0.182,0.429,11,6,2,7,5,IND
+22023,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.128,48,0.088,1.192,0.529,0.192,0.192,0.192,0.038,0.462,0.706,26,31,9,17,8,IND
+22023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.276,80,0.065,1.059,0.429,0.147,0.059,0.118,0.029,0.471,0.518,34,36,12,28,16,IND
+22023,1628971,Bruce Brown,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.347,32,0.107,1.023,0.543,0.07,0.163,0.07,0.047,0.465,0.586,43,44,19,35,16,IND
+22023,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.297,58,0.105,1.043,0.439,0.065,0.065,0.065,0.022,0.435,0.524,46,48,18,41,23,IND
+22023,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.152,50,0.096,1.163,0.513,0.143,0.082,0.143,0.02,0.51,0.603,49,57,20,39,19,IND
+22023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Handoff,Defensive,0.545,64,0.117,0.91,0.406,0.128,0.103,0.128,0.051,0.41,0.445,78,71,26,64,38,IND

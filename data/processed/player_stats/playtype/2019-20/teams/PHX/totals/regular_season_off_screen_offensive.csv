@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.77,71,0.093,1.085,0.519,0.091,0.122,0.073,0.012,0.494,0.576,164,178,68,131,63,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.288,56,0.051,0.827,0.282,0.192,0.077,0.192,0.019,0.385,0.346,52,43,11,39,28,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.577,57,0.093,0.977,0.368,0.093,0.07,0.093,0.047,0.372,0.487,43,42,14,38,24,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.739,66,0.04,1.074,0.5,0.037,0.148,0.037,0.0,0.444,0.636,27,29,11,22,11,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.167,73,0.038,0.739,0.294,0.13,0.13,0.13,0.0,0.348,0.353,23,17,5,17,12,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.932,39,0.034,1.231,0.455,0.154,0.0,0.154,0.0,0.538,0.545,13,16,5,11,6,PHX
+22019,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.176,31,0.057,0.75,0.375,0.083,0.25,0.083,0.0,0.333,0.438,12,9,3,8,5,PHX
+22019,203382,Aron Baynes,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.149,42,0.024,0.727,0.273,0.0,0.0,0.0,0.0,0.273,0.364,11,8,3,11,8,PHX

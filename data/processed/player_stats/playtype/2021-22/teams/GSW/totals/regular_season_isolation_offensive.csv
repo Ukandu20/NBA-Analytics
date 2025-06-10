@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.961,64,0.076,1.197,0.53,0.077,0.068,0.06,0.0,0.53,0.63,117,140,53,100,47,GSW
+22021,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.532,76,0.086,0.897,0.402,0.103,0.121,0.086,0.017,0.405,0.44,116,104,37,92,55,GSW
+22021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.465,73,0.092,0.867,0.393,0.177,0.088,0.168,0.053,0.416,0.433,113,98,35,89,54,GSW
+22021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.642,71,0.058,0.944,0.407,0.25,0.028,0.25,0.028,0.528,0.407,36,34,11,27,16,GSW
+22021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.759,32,0.044,1.0,0.538,0.0,0.071,0.0,0.0,0.5,0.538,28,28,14,26,12,GSW
+22021,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.425,73,0.039,0.846,0.444,0.154,0.154,0.154,0.0,0.462,0.444,13,11,4,9,5,GSW
+22021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.185,71,0.028,0.692,0.429,0.077,0.385,0.077,0.0,0.308,0.5,13,9,3,7,4,GSW

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.496,76,0.206,1.106,0.482,0.121,0.097,0.097,0.029,0.478,0.567,414,458,162,336,174,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.116,72,0.255,0.866,0.502,0.152,0.222,0.136,0.032,0.443,0.526,501,434,165,329,164,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.24,78,0.188,0.98,0.438,0.082,0.106,0.078,0.012,0.427,0.524,255,250,92,210,118,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.736,79,0.185,1.229,0.6,0.145,0.073,0.151,0.034,0.575,0.655,179,220,87,145,58,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.711,73,0.283,1.216,0.529,0.058,0.079,0.058,0.007,0.511,0.653,139,169,64,121,57,OKC
+22018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.69,79,0.104,1.198,0.706,0.162,0.108,0.135,0.036,0.631,0.706,111,133,60,85,25,OKC
+22018,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.645,51,0.303,1.175,0.644,0.206,0.111,0.206,0.032,0.603,0.656,63,74,29,45,16,OKC
+22018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.442,60,0.236,1.086,0.5,0.172,0.138,0.172,0.034,0.5,0.583,58,63,21,42,21,OKC
+22018,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.502,62,0.143,1.111,0.441,0.056,0.028,0.056,0.028,0.444,0.559,36,40,15,34,19,OKC
+22018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.843,77,0.066,1.292,0.667,0.083,0.042,0.083,0.0,0.667,0.667,24,31,14,21,7,OKC
+22018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.506,34,0.168,1.115,0.5,0.0,0.077,0.0,0.0,0.462,0.604,26,29,12,24,12,OKC
+22018,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.048,31,0.175,0.742,0.31,0.0,0.065,0.0,0.0,0.29,0.397,31,23,9,29,20,OKC
+22018,202693,Markieff Morris,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.06,23,0.076,0.769,0.444,0.0,0.308,0.0,0.0,0.308,0.556,13,10,4,9,5,OKC

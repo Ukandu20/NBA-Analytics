@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203995,Vasilije Micić,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.753,35,0.048,0.8,0.3,0.0,0.0,0.0,0.0,0.3,0.4,10,8,3,10,7,CHA
+22024,1631217,Moussa Diabaté,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.826,66,0.028,0.733,0.231,0.067,0.067,0.067,0.0,0.267,0.346,15,11,3,13,10,CHA
+22024,1630544,Tre Mann,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.511,13,0.11,0.917,0.364,0.167,0.0,0.167,0.083,0.417,0.409,12,11,4,11,7,CHA
+22024,1641878,Damion Baugh,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.725,15,0.113,0.813,0.364,0.125,0.188,0.0,0.0,0.375,0.455,16,13,4,11,7,CHA
+22024,1629006,Josh Okogie,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.131,15,0.118,1.182,0.556,0.091,0.091,0.0,0.0,0.545,0.611,11,13,5,9,4,CHA
+22024,1631111,Wendell Moore Jr.,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.164,16,0.151,1.154,0.6,0.154,0.154,0.154,0.077,0.538,0.6,13,15,6,10,4,CHA
+22024,203552,Seth Curry,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.85,57,0.1,0.704,0.286,0.037,0.185,0.037,0.0,0.259,0.405,27,19,6,21,15,CHA
+22024,1642354,KJ Simpson,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.139,34,0.067,1.167,0.538,0.111,0.167,0.111,0.0,0.5,0.654,18,21,7,13,6,CHA
+22024,1629610,DaQuan Jeffries,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.79,46,0.089,0.759,0.296,0.034,0.034,0.034,0.0,0.31,0.37,29,22,8,27,19,CHA
+22024,1642275,Tidjane Salaün,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.27,56,0.073,1.071,0.5,0.107,0.179,0.071,0.0,0.464,0.65,28,30,10,20,10,CHA
+22024,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.223,39,0.087,1.1,0.476,0.2,0.1,0.2,0.0,0.533,0.548,30,33,10,21,11,CHA
+22024,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.304,64,0.061,1.026,0.394,0.079,0.079,0.079,0.026,0.395,0.5,38,39,13,33,20,CHA
+22024,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.105,27,0.111,1.212,0.577,0.03,0.212,0.03,0.03,0.455,0.75,33,40,15,26,11,CHA
+22024,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.258,47,0.088,1.075,0.516,0.075,0.15,0.075,0.0,0.475,0.629,40,43,16,31,15,CHA
+22024,1641733,Nick Smith Jr.,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.139,57,0.122,1.167,0.514,0.083,0.146,0.083,0.0,0.458,0.676,48,56,19,37,18,CHA
+22024,1630182,Josh Green,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.196,68,0.119,1.123,0.515,0.049,0.123,0.049,0.012,0.469,0.618,81,91,35,68,33,CHA

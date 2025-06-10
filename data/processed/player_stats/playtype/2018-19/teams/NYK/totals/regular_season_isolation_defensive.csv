@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628443,Kadeem Allen,1610612752,NYK,New York Knicks,Isolation,Defensive,0.69,19,0.103,0.8,0.42,0.0,0.2,0.0,0.0,0.33,0.5,15,12,5,12,7,NYK
+22018,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Isolation,Defensive,0.073,21,0.062,1.2,0.56,0.27,0.13,0.2,0.0,0.6,0.56,15,18,5,9,4,NYK
+22018,203504,Trey Burke,1610612752,NYK,New York Knicks,Isolation,Defensive,0.732,33,0.099,0.783,0.33,0.09,0.0,0.09,0.0,0.39,0.36,23,18,7,21,14,NYK
+22018,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Isolation,Defensive,0.951,43,0.103,0.559,0.3,0.09,0.12,0.09,0.0,0.29,0.3,34,19,8,27,19,NYK
+22018,202498,Lance Thomas,1610612752,NYK,New York Knicks,Isolation,Defensive,0.557,46,0.097,0.852,0.45,0.07,0.11,0.07,0.0,0.44,0.45,27,23,10,22,12,NYK
+22018,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,Isolation,Defensive,0.723,64,0.07,0.788,0.32,0.15,0.09,0.12,0.09,0.33,0.36,33,26,9,28,19,NYK
+22018,1627740,Henry Ellenson,1610612752,NYK,New York Knicks,Isolation,Defensive,0.005,18,0.194,1.611,0.73,0.22,0.0,0.17,0.06,0.78,0.8,18,29,11,15,4,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Isolation,Defensive,0.705,46,0.08,0.795,0.36,0.1,0.05,0.05,0.0,0.41,0.39,39,31,12,33,21,NYK
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Isolation,Defensive,0.429,59,0.063,0.914,0.43,0.09,0.09,0.09,0.03,0.43,0.47,35,32,13,30,17,NYK
+22018,202683,Enes Freedom,1610612752,NYK,New York Knicks,Isolation,Defensive,0.084,44,0.058,1.194,0.54,0.16,0.06,0.16,0.06,0.52,0.62,31,37,14,26,12,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Isolation,Defensive,0.194,75,0.072,1.073,0.42,0.27,0.05,0.27,0.07,0.49,0.45,41,44,13,31,18,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,Isolation,Defensive,0.129,58,0.097,1.146,0.5,0.12,0.12,0.12,0.02,0.49,0.61,41,47,16,32,16,NYK
+22018,1628436,Luke Kornet,1610612752,NYK,New York Knicks,Isolation,Defensive,0.309,46,0.136,0.981,0.46,0.06,0.02,0.06,0.0,0.48,0.48,54,53,23,50,27,NYK
+22018,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Isolation,Defensive,0.117,73,0.08,1.16,0.56,0.16,0.06,0.14,0.0,0.6,0.59,50,58,22,39,17,NYK
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Isolation,Defensive,0.457,66,0.115,0.902,0.34,0.16,0.04,0.15,0.05,0.4,0.37,82,74,24,70,46,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,Isolation,Defensive,0.571,68,0.165,0.843,0.37,0.06,0.06,0.06,0.02,0.38,0.41,108,91,36,97,61,NYK

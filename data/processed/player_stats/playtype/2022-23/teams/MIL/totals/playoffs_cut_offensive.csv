@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.512,5,0.253,1.286,0.667,0.095,0.048,0.095,0.0,0.667,0.667,21,27,12,18,6,MIL
+42022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,3,0.114,1.222,0.714,0.222,0.111,0.222,0.111,0.667,0.714,9,11,5,7,2,MIL
+42022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,5,0.087,2.0,1.0,0.25,0.0,0.25,0.0,1.0,1.0,4,8,3,3,0,MIL
+42022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,5,0.043,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,MIL
+42022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,5,0.039,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.667,4,4,2,3,1,MIL
+42022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,5,0.017,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,MIL
+42022,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,2,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42022,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,2,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42022,204060,Joe Ingles,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,5,0.034,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIL
+42022,203109,Jae Crowder,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,4,0.067,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42022,203086,Meyers Leonard,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL

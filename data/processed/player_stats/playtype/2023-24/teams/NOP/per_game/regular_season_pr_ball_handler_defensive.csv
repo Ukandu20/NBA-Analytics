@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630346,Matt Ryan,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.995,25,0.271,0.5,0.25,0.056,0.167,0.056,0.0,0.25,0.268,1.4,0.7,0.3,1.1,0.8,NOP
+22023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.967,56,0.265,0.627,0.292,0.087,0.167,0.063,0.016,0.286,0.333,2.3,1.4,0.5,1.7,1.2,NOP
+22023,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.685,50,0.379,0.86,0.378,0.093,0.155,0.085,0.008,0.372,0.464,2.6,2.2,0.7,2.0,1.2,NOP
+22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.86,63,0.271,0.785,0.396,0.087,0.181,0.067,0.013,0.356,0.446,2.4,1.9,0.7,1.8,1.1,NOP
+22023,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.358,65,0.33,0.947,0.453,0.153,0.173,0.147,0.033,0.44,0.519,2.3,2.2,0.7,1.6,0.9,NOP
+22023,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.64,60,0.334,0.877,0.447,0.089,0.187,0.069,0.015,0.399,0.5,3.4,3.0,1.1,2.5,1.4,NOP
+22023,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.645,65,0.297,0.876,0.453,0.11,0.196,0.11,0.014,0.411,0.497,3.2,2.8,1.0,2.3,1.2,NOP
+22023,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.761,57,0.578,0.831,0.391,0.105,0.18,0.098,0.008,0.38,0.461,4.7,3.9,1.3,3.4,2.1,NOP
+22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.297,74,0.346,0.964,0.478,0.084,0.204,0.08,0.018,0.411,0.577,3.7,3.6,1.3,2.7,1.4,NOP

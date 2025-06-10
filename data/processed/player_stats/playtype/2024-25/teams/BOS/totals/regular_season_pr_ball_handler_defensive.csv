@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630531,Jaden Springer,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.246,19,0.447,0.952,0.5,0.048,0.19,0.0,0.0,0.429,0.563,21,20,8,16,8,BOS
+22024,1631248,Baylor Scheierman,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.924,26,0.345,0.725,0.414,0.025,0.275,0.025,0.025,0.3,0.483,40,29,12,29,17,BOS
+22024,1628470,Torrey Craig,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.055,15,0.323,1.1,0.5,0.1,0.167,0.1,0.0,0.467,0.614,30,33,11,22,11,BOS
+22024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.294,65,0.402,0.939,0.474,0.056,0.153,0.046,0.005,0.429,0.535,196,184,74,156,82,BOS
+22024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.37,72,0.426,0.923,0.449,0.085,0.137,0.074,0.011,0.424,0.519,271,250,96,214,118,BOS
+22024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.524,78,0.436,0.886,0.401,0.083,0.111,0.083,0.014,0.398,0.462,289,256,95,237,142,BOS
+22024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.488,63,0.437,0.896,0.416,0.092,0.114,0.089,0.019,0.408,0.469,316,283,107,257,150,BOS
+22024,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.543,76,0.365,0.882,0.428,0.043,0.124,0.04,0.006,0.396,0.483,323,285,116,271,155,BOS
+22024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.239,62,0.429,0.954,0.43,0.079,0.131,0.069,0.01,0.413,0.512,305,291,105,244,139,BOS
+22024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.145,42,0.52,1.003,0.456,0.066,0.102,0.066,0.016,0.436,0.533,305,306,118,259,141,BOS
+22024,201143,Al Horford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.194,59,0.446,0.976,0.459,0.072,0.127,0.063,0.006,0.431,0.541,332,324,123,268,145,BOS
+22024,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.417,69,0.508,0.909,0.414,0.086,0.099,0.083,0.011,0.417,0.472,372,338,127,307,180,BOS

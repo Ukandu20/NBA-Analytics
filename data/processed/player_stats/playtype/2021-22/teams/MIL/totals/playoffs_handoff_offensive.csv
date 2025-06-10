@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.652,12,0.16,1.2,0.5,0.067,0.067,0.067,0.067,0.467,0.607,15,18,7,14,7,MIL
+42021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.364,12,0.071,0.8,0.389,0.0,0.1,0.0,0.0,0.35,0.444,20,16,7,18,11,MIL
+42021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,12,0.082,1.5,0.714,0.0,0.125,0.0,0.0,0.625,0.857,8,12,5,7,2,MIL
+42021,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,12,0.108,0.625,0.286,0.0,0.125,0.0,0.0,0.25,0.357,8,5,2,7,5,MIL
+42021,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,11,0.115,1.333,1.0,0.0,0.333,0.0,0.0,0.667,1.0,3,4,2,2,0,MIL
+42021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,12,0.018,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,7,4,2,7,5,MIL
+42021,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,12,0.008,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,MIL
+42021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,12,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIL
+42021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,8,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42021,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,2,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,MIL

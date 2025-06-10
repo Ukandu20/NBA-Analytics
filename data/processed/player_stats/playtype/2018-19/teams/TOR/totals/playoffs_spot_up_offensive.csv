@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.852,24,0.231,1.247,0.456,0.047,0.035,0.047,0.012,0.459,0.627,85,106,36,79,43,TOR
+42018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.296,24,0.263,0.8,0.318,0.033,0.05,0.033,0.0,0.325,0.409,120,96,35,110,75,TOR
+42018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.889,24,0.368,1.284,0.449,0.054,0.027,0.054,0.014,0.459,0.63,74,95,31,69,38,TOR
+42018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.556,24,0.353,1.013,0.347,0.051,0.0,0.025,0.0,0.38,0.48,79,80,26,75,49,TOR
+42018,201980,Danny Green,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.454,24,0.415,0.938,0.342,0.025,0.063,0.025,0.0,0.338,0.479,80,75,25,73,48,TOR
+42018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.565,24,0.102,1.015,0.407,0.119,0.09,0.119,0.015,0.433,0.519,67,68,22,54,32,TOR
+42018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.648,23,0.377,1.055,0.407,0.0,0.018,0.0,0.0,0.4,0.537,55,58,22,54,32,TOR
+42018,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.176,24,0.235,0.732,0.34,0.018,0.089,0.018,0.0,0.321,0.4,56,41,17,50,33,TOR
+42018,1626259,Malcolm Miller,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,10,0.636,0.571,0.167,0.143,0.0,0.143,0.0,0.286,0.25,7,4,1,6,5,TOR
+42018,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,2,0.4,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,TOR
+42018,1627775,Patrick McCaw,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,11,0.571,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,TOR
+42018,201975,Jodie Meeks,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.028,14,0.303,0.3,0.111,0.0,0.1,0.0,0.0,0.1,0.167,10,3,1,9,8,TOR
+42018,202391,Jeremy Lin,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.0,8,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,TOR

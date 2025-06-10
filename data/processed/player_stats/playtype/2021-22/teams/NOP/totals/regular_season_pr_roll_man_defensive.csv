@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202066,Garrett Temple,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.954,59,0.034,0.533,0.25,0.07,0.2,0.07,0.07,0.2,0.292,15,8,3,12,9,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.047,41,0.018,1.5,0.625,0.1,0.1,0.1,0.0,0.6,0.875,10,15,5,8,3,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.195,50,0.028,1.25,0.455,0.17,0.0,0.17,0.08,0.5,0.545,12,15,5,11,6,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.432,78,0.02,1.053,0.529,0.0,0.11,0.0,0.0,0.47,0.588,19,20,9,17,8,NOP
+22021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.525,76,0.03,1.0,0.421,0.1,0.0,0.1,0.05,0.45,0.5,20,20,8,19,11,NOP
+22021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.773,70,0.057,0.806,0.333,0.06,0.03,0.03,0.0,0.36,0.409,36,29,11,33,22,NOP
+22021,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.276,50,0.083,1.175,0.459,0.05,0.02,0.02,0.0,0.48,0.581,40,47,17,37,20,NOP
+22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.632,74,0.083,0.922,0.414,0.04,0.12,0.03,0.01,0.37,0.517,102,94,36,87,51,NOP

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.897,7,0.395,1.529,0.786,0.118,0.059,0.118,0.0,0.765,0.786,2.4,3.7,1.6,2.0,0.4,SAS
+42018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,7,0.055,1.125,0.5,0.125,0.0,0.125,0.125,0.5,0.5,1.1,1.3,0.6,1.1,0.6,SAS
+42018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,7,0.039,1.333,0.8,0.0,0.167,0.0,0.0,0.667,0.8,0.9,1.1,0.6,0.7,0.1,SAS
+42018,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,6,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.3,0.2,0.2,0.0,SAS
+42018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,7,0.02,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,0.1,0.3,0.1,SAS
+42018,202700,Donatas Motiejunas,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,5,0.273,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,0.6,0.4,0.2,0.6,0.4,SAS
+42018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.0,7,0.024,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,SAS

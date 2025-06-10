@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Transition,Offensive,0.741,76,0.136,1.246,0.601,0.168,0.104,0.153,0.03,0.59,0.643,268,334,122,203,81,BOS
+22021,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.351,66,0.206,1.048,0.544,0.15,0.134,0.137,0.045,0.51,0.565,314,329,130,239,109,BOS
+22021,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.176,71,0.151,0.917,0.527,0.131,0.276,0.124,0.034,0.421,0.588,145,133,48,91,43,BOS
+22021,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Transition,Offensive,0.617,77,0.161,1.186,0.481,0.07,0.023,0.07,0.035,0.488,0.574,86,102,39,81,42,BOS
+22021,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Transition,Offensive,0.721,71,0.161,1.235,0.517,0.059,0.088,0.044,0.0,0.5,0.655,68,84,30,58,28,BOS
+22021,1626196,Josh Richardson,1610612738,BOS,Boston Celtics,Transition,Offensive,0.854,44,0.136,1.339,0.6,0.143,0.071,0.107,0.018,0.607,0.711,56,75,27,45,18,BOS
+22021,203471,Dennis Schröder,1610612738,BOS,Boston Celtics,Transition,Offensive,0.076,49,0.101,0.816,0.418,0.118,0.197,0.118,0.039,0.382,0.436,76,62,23,55,32,BOS
+22021,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.142,69,0.096,0.892,0.411,0.062,0.092,0.046,0.015,0.4,0.464,65,58,23,56,33,BOS
+22021,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Transition,Offensive,0.851,61,0.076,1.333,0.769,0.111,0.167,0.083,0.0,0.667,0.769,36,48,20,26,6,BOS
+22021,1628401,Derrick White,1610612738,BOS,Boston Celtics,Transition,Offensive,0.585,26,0.137,1.175,0.516,0.2,0.075,0.2,0.05,0.55,0.548,40,47,16,31,15,BOS
+22021,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Transition,Offensive,0.319,52,0.167,1.027,0.52,0.243,0.162,0.216,0.081,0.514,0.54,37,38,13,25,12,BOS
+22021,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.133,44,0.158,0.882,0.379,0.118,0.059,0.088,0.029,0.412,0.448,34,30,11,29,18,BOS
+22021,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Transition,Offensive,0.427,21,0.086,1.083,0.545,0.0,0.083,0.0,0.0,0.5,0.591,12,13,6,11,5,BOS

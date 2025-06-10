@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.58,55,0.063,0.938,0.477,0.113,0.088,0.113,0.013,0.475,0.485,80,75,31,65,34,NOP
+22021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.765,26,0.103,1.033,0.473,0.098,0.033,0.098,0.033,0.492,0.527,61,63,26,55,29,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.284,50,0.104,0.772,0.354,0.076,0.114,0.051,0.013,0.354,0.423,79,61,23,65,42,NOP
+22021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.18,76,0.051,0.673,0.289,0.02,0.061,0.02,0.0,0.286,0.356,49,33,13,45,32,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.36,41,0.057,0.806,0.346,0.097,0.097,0.097,0.032,0.355,0.385,31,25,9,26,17,NOP
+22021,1630184,Kira Lewis Jr.,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.879,24,0.085,1.133,0.615,0.0,0.133,0.0,0.0,0.533,0.654,15,17,8,13,5,NOP
+22021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.969,55,0.034,1.333,0.714,0.333,0.083,0.167,0.0,0.75,0.714,12,16,5,7,2,NOP
+22021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.247,54,0.061,0.727,0.471,0.0,0.227,0.0,0.0,0.364,0.471,22,16,8,17,9,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.194,78,0.026,0.684,0.429,0.053,0.263,0.053,0.053,0.316,0.429,19,13,6,14,8,NOP
+22021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.059,62,0.068,0.429,0.133,0.143,0.19,0.143,0.048,0.19,0.167,21,9,2,15,13,NOP
+22021,202066,Garrett Temple,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.024,59,0.059,0.286,0.118,0.143,0.048,0.095,0.0,0.143,0.118,21,6,2,17,15,NOP

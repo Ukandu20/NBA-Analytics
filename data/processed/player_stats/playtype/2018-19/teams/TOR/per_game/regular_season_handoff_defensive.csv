@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.983,49,0.081,0.455,0.19,0.09,0.182,0.09,0.0,0.227,0.19,0.4,0.2,0.1,0.3,0.3,TOR
+22018,202391,Jeremy Lin,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.493,23,0.068,0.923,0.33,0.23,0.077,0.15,0.0,0.462,0.39,0.6,0.5,0.1,0.4,0.3,TOR
+22018,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.064,40,0.11,1.286,0.5,0.14,0.0,0.07,0.0,0.571,0.58,0.4,0.5,0.2,0.3,0.2,TOR
+22018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.87,80,0.033,0.656,0.27,0.09,0.094,0.06,0.0,0.313,0.33,0.4,0.3,0.1,0.3,0.2,TOR
+22018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.942,60,0.085,0.574,0.29,0.02,0.106,0.0,0.0,0.277,0.32,0.8,0.5,0.2,0.7,0.5,TOR
+22018,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.351,67,0.062,1.0,0.43,0.14,0.103,0.1,0.03,0.414,0.52,0.4,0.4,0.1,0.3,0.2,TOR
+22018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.419,60,0.097,0.972,0.4,0.11,0.083,0.08,0.03,0.417,0.47,0.6,0.6,0.2,0.5,0.3,TOR
+22018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.429,64,0.077,0.962,0.48,0.1,0.058,0.08,0.04,0.481,0.5,0.8,0.8,0.3,0.7,0.4,TOR
+22018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.621,65,0.093,0.852,0.39,0.05,0.082,0.05,0.02,0.377,0.44,0.9,0.8,0.3,0.8,0.5,TOR
+22018,201980,Danny Green,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.651,80,0.111,0.837,0.39,0.04,0.102,0.04,0.0,0.357,0.46,1.2,1.0,0.4,1.1,0.6,TOR

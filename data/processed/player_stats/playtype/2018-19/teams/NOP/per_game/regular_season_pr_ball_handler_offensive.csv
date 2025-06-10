@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.626,67,0.359,0.877,0.454,0.085,0.149,0.074,0.019,0.417,0.489,7.9,6.9,2.8,6.2,3.4,NOP
+22018,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.222,42,0.297,0.691,0.42,0.055,0.242,0.055,0.018,0.327,0.445,3.9,2.7,1.2,2.8,1.6,NOP
+22018,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.547,60,0.196,0.843,0.405,0.056,0.112,0.045,0.0,0.393,0.453,1.5,1.3,0.5,1.2,0.7,NOP
+22018,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.59,61,0.152,0.863,0.4,0.063,0.063,0.063,0.0,0.413,0.45,1.3,1.1,0.5,1.1,0.7,NOP
+22018,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.669,69,0.133,0.893,0.472,0.093,0.24,0.093,0.04,0.387,0.557,1.1,1.0,0.4,0.8,0.4,NOP
+22018,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.207,53,0.128,0.684,0.354,0.051,0.139,0.038,0.013,0.329,0.369,1.5,1.0,0.4,1.2,0.8,NOP
+22018,204025,Tim Frazier,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.238,47,0.242,0.697,0.34,0.136,0.182,0.121,0.03,0.348,0.372,1.4,1.0,0.3,1.0,0.7,NOP
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.174,73,0.028,0.667,0.355,0.143,0.143,0.143,0.024,0.381,0.355,0.6,0.4,0.2,0.4,0.3,NOP
+22018,1626169,Stanley Johnson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.174,18,0.198,0.667,0.389,0.0,0.25,0.0,0.0,0.292,0.444,1.3,0.9,0.4,1.0,0.6,NOP
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.534,56,0.014,0.833,0.4,0.111,0.056,0.111,0.0,0.444,0.4,0.3,0.3,0.1,0.3,0.2,NOP
+22018,202325,Wesley Johnson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.954,26,0.117,1.083,0.5,0.0,0.167,0.0,0.0,0.417,0.65,0.5,0.5,0.2,0.4,0.2,NOP
+22018,1629026,Kenrich Williams,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.055,46,0.056,0.5,0.333,0.0,0.333,0.0,0.0,0.222,0.375,0.4,0.2,0.1,0.3,0.2,NOP
+22018,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.043,44,0.049,0.455,0.25,0.091,0.182,0.091,0.0,0.273,0.25,0.3,0.1,0.0,0.2,0.1,NOP

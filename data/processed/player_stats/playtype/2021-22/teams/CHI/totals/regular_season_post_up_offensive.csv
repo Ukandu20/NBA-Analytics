@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.361,73,0.183,0.873,0.487,0.069,0.155,0.061,0.02,0.437,0.487,245,214,95,195,100,CHI
+22021,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.834,76,0.063,1.098,0.5,0.195,0.073,0.195,0.049,0.537,0.5,123,135,48,96,48,CHI
+22021,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.183,67,0.026,0.769,0.4,0.051,0.077,0.051,0.026,0.385,0.4,39,30,14,35,21,CHI
+22021,202684,Tristan Thompson,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.994,23,0.116,1.467,0.778,0.467,0.0,0.4,0.067,0.8,0.778,15,22,7,9,2,CHI

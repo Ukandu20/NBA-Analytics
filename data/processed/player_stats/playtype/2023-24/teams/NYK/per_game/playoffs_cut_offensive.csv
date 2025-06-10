@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Cut,Offensive,0.389,13,0.358,1.289,0.625,0.132,0.026,0.132,0.0,0.658,0.625,2.9,3.8,1.5,2.5,0.9,NYK
+42023,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Cut,Offensive,0.361,9,0.283,1.267,0.643,0.067,0.0,0.067,0.0,0.667,0.643,1.7,2.1,1.0,1.6,0.6,NYK
+42023,1628404,Josh Hart,1610612752,NYK,New York Knicks,Cut,Offensive,0.229,13,0.073,1.2,0.667,0.133,0.133,0.133,0.067,0.6,0.667,1.2,1.4,0.6,0.9,0.3,NYK
+42023,1628978,Donte DiVincenzo,1610612752,NYK,New York Knicks,Cut,Offensive,0.167,13,0.059,1.154,0.583,0.077,0.0,0.077,0.0,0.615,0.583,1.0,1.2,0.5,0.9,0.4,NYK

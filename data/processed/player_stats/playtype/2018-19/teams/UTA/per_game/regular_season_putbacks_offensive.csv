@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.778,81,0.209,1.227,0.624,0.173,0.04,0.16,0.018,0.64,0.624,2.8,3.4,1.4,2.2,0.8,UTA
+22018,202324,Derrick Favors,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.831,76,0.166,1.269,0.661,0.112,0.06,0.104,0.03,0.642,0.661,1.8,2.2,1.0,1.5,0.5,UTA
+22018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.375,77,0.018,1.0,0.5,0.029,0.029,0.029,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,UTA
+22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.194,80,0.034,0.848,0.474,0.242,0.212,0.212,0.03,0.455,0.5,0.4,0.4,0.1,0.2,0.1,UTA
+22018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.375,68,0.011,1.0,0.429,0.182,0.182,0.0,0.0,0.455,0.5,0.2,0.2,0.0,0.1,0.1,UTA
+22018,204060,Joe Ingles,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.159,82,0.01,0.818,0.375,0.182,0.182,0.182,0.091,0.364,0.375,0.1,0.1,0.0,0.1,0.1,UTA

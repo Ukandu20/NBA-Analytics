@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.029,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,BKN
+42018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,3,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,BKN
+42018,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,BKN
+42018,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,3,0.067,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.0,0.0,0.0,BKN
+42018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.067,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.0,0.0,0.0,0.0,BKN
+42018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.044,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.5,0.0,0.0,0.0,0.0,BKN
+42018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.231,0.333,0.12,0.0,0.11,0.0,0.0,0.11,0.19,1.8,1.0,1.0,2.0,1.0,BKN
+42018,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,2,0.429,1.333,0.5,0.33,0.0,0.0,0.0,0.67,0.5,1.5,2.0,1.0,1.0,0.0,BKN
+42018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.163,0.571,0.17,0.14,0.0,0.14,0.0,0.29,0.17,1.4,1.0,0.0,1.0,1.0,BKN
+42018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,5,0.182,1.125,0.57,0.0,0.12,0.0,0.0,0.5,0.64,1.6,2.0,0.0,1.0,1.0,BKN

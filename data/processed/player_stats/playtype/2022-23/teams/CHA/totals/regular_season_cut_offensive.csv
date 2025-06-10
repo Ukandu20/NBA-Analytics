@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.646,56,0.213,1.378,0.753,0.283,0.063,0.276,0.047,0.732,0.753,127,175,67,89,22,CHA
+22022,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.834,65,0.211,1.468,0.736,0.287,0.032,0.277,0.085,0.745,0.736,94,138,53,72,19,CHA
+22022,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.312,44,0.266,1.202,0.662,0.18,0.079,0.18,0.022,0.64,0.662,89,107,45,68,23,CHA
+22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.579,73,0.05,1.345,0.667,0.19,0.052,0.19,0.069,0.655,0.667,58,78,32,48,16,CHA
+22022,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.392,48,0.051,1.245,0.6,0.224,0.061,0.224,0.102,0.612,0.6,49,61,24,40,16,CHA
+22022,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.292,56,0.057,1.2,0.586,0.143,0.057,0.143,0.029,0.6,0.586,35,42,17,29,12,CHA
+22022,1628372,Dennis Smith Jr.,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.649,55,0.05,1.379,0.783,0.069,0.138,0.069,0.0,0.69,0.783,29,40,18,23,5,CHA
+22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.483,50,0.042,1.29,0.654,0.226,0.032,0.226,0.097,0.677,0.654,31,40,17,26,9,CHA
+22022,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.265,64,0.018,1.192,0.545,0.192,0.077,0.192,0.115,0.538,0.545,26,31,12,22,10,CHA
+22022,1630550,JT Thor,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.119,69,0.092,1.036,0.565,0.107,0.071,0.107,0.0,0.536,0.565,28,29,13,23,10,CHA
+22022,1630539,Kai Jones,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.335,46,0.143,1.217,0.65,0.043,0.087,0.043,0.0,0.609,0.65,23,28,13,20,7,CHA
+22022,1631121,Bryce McGowens,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.221,46,0.046,1.154,0.667,0.154,0.077,0.231,0.0,0.615,0.667,13,15,6,9,3,CHA
+22022,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Cut,Offensive,0.257,36,0.012,1.182,0.6,0.091,0.091,0.091,0.091,0.545,0.6,11,13,6,10,4,CHA

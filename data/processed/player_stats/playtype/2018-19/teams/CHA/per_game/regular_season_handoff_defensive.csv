@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2225,Tony Parker,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.892,56,0.085,0.636,0.29,0.09,0.136,0.09,0.0,0.318,0.32,0.4,0.3,0.1,0.3,0.2,CHA
+22018,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.049,47,0.053,1.308,0.5,0.23,0.231,0.15,0.08,0.462,0.69,0.3,0.4,0.1,0.2,0.1,CHA
+22018,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.075,43,0.074,1.278,0.53,0.06,0.056,0.06,0.06,0.5,0.65,0.4,0.5,0.2,0.4,0.2,CHA
+22018,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.351,75,0.039,1.0,0.42,0.11,0.071,0.11,0.04,0.429,0.5,0.4,0.4,0.1,0.3,0.2,CHA
+22018,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.844,73,0.12,0.69,0.31,0.12,0.167,0.12,0.05,0.31,0.36,0.6,0.4,0.1,0.4,0.3,CHA
+22018,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.514,64,0.072,0.912,0.38,0.12,0.059,0.06,0.03,0.412,0.45,0.5,0.5,0.2,0.5,0.3,CHA
+22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.488,80,0.065,0.925,0.44,0.08,0.15,0.05,0.02,0.4,0.52,0.5,0.5,0.2,0.4,0.2,CHA
+22018,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.554,79,0.085,0.882,0.33,0.09,0.059,0.07,0.0,0.368,0.41,0.9,0.8,0.2,0.7,0.5,CHA
+22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.474,75,0.107,0.934,0.39,0.09,0.105,0.09,0.0,0.408,0.48,1.0,0.9,0.3,0.8,0.5,CHA
+22018,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,Handoff,Defensive,0.613,82,0.078,0.855,0.41,0.04,0.145,0.04,0.01,0.361,0.48,1.0,0.9,0.3,0.8,0.5,CHA

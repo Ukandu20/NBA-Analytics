@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626153,Delon Wright,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.919,11,0.417,0.733,0.304,0.133,0.1,0.067,0.0,0.367,0.326,30,22,7,23,16,NYK
+22024,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.931,14,0.725,0.722,0.403,0.074,0.213,0.074,0.0,0.352,0.435,108,78,31,77,46,NYK
+22024,1626166,Cameron Payne,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.438,66,0.397,0.906,0.489,0.102,0.213,0.094,0.008,0.425,0.534,127,115,43,88,45,NYK
+22024,1630579,Jericho Sims,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.543,28,0.66,0.882,0.422,0.103,0.162,0.103,0.015,0.397,0.48,136,120,43,102,59,NYK
+22024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.223,47,0.476,0.959,0.5,0.075,0.144,0.075,0.027,0.445,0.542,146,140,59,118,59,NYK
+22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.701,63,0.429,0.831,0.4,0.1,0.126,0.092,0.011,0.402,0.429,261,217,82,205,123,NYK
+22024,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.445,53,0.542,0.903,0.427,0.089,0.123,0.086,0.022,0.409,0.479,269,243,93,218,125,NYK
+22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.382,64,0.443,0.92,0.438,0.083,0.145,0.076,0.01,0.415,0.504,289,266,99,226,127,NYK
+22024,1628404,Josh Hart,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.182,77,0.345,0.987,0.5,0.078,0.159,0.078,0.013,0.453,0.563,309,305,120,240,120,NYK
+22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.405,74,0.411,0.911,0.408,0.112,0.112,0.107,0.023,0.412,0.471,393,358,128,314,186,NYK
+22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.291,80,0.525,0.939,0.463,0.09,0.166,0.084,0.022,0.421,0.53,592,556,210,454,244,NYK
+22024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.227,69,0.693,0.956,0.458,0.095,0.126,0.089,0.023,0.437,0.511,895,856,329,718,389,NYK

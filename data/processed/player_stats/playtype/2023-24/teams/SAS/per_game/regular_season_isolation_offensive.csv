@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.701,71,0.063,1.01,0.425,0.158,0.089,0.119,0.04,0.446,0.488,1.4,1.4,0.5,1.1,0.6,SAS
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.605,68,0.054,0.97,0.373,0.119,0.0,0.119,0.0,0.433,0.441,1.0,1.0,0.3,0.9,0.5,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.566,69,0.046,0.959,0.436,0.102,0.102,0.082,0.0,0.449,0.487,0.7,0.7,0.2,0.6,0.3,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.393,77,0.048,0.865,0.441,0.027,0.054,0.027,0.0,0.432,0.456,0.5,0.4,0.2,0.4,0.2,SAS
+22023,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.762,69,0.027,1.045,0.529,0.182,0.091,0.182,0.045,0.545,0.529,0.3,0.3,0.1,0.2,0.1,SAS
+22023,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.148,74,0.036,0.657,0.31,0.057,0.143,0.057,0.029,0.286,0.345,0.5,0.3,0.1,0.4,0.3,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.508,75,0.019,0.929,0.429,0.071,0.0,0.071,0.071,0.429,0.429,0.2,0.2,0.1,0.2,0.1,SAS
+22023,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.299,61,0.049,0.8,0.25,0.333,0.133,0.333,0.0,0.467,0.25,0.2,0.2,0.0,0.1,0.1,SAS

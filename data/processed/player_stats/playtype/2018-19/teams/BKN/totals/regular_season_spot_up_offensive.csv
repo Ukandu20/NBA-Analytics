@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.594,67,0.405,1.016,0.375,0.149,0.049,0.133,0.016,0.43,0.49,309,314,95,253,158,BKN
+22018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.804,76,0.296,1.117,0.466,0.033,0.102,0.033,0.004,0.431,0.618,274,306,111,238,127,BKN
+22018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.818,81,0.117,1.126,0.42,0.019,0.037,0.014,0.009,0.409,0.58,215,242,86,205,119,BKN
+22018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.402,63,0.351,0.944,0.378,0.081,0.101,0.071,0.01,0.379,0.494,198,187,62,164,102,BKN
+22018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.745,68,0.146,1.079,0.384,0.067,0.024,0.061,0.012,0.409,0.526,164,177,58,151,93,BKN
+22018,201162,Jared Dudley,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.734,59,0.508,1.071,0.437,0.071,0.078,0.065,0.026,0.416,0.574,154,165,59,135,76,BKN
+22018,1626203,Treveon Graham,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.491,35,0.647,0.979,0.389,0.035,0.071,0.021,0.0,0.383,0.516,141,138,49,126,77,BKN
+22018,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.333,43,0.348,0.908,0.359,0.033,0.125,0.033,0.0,0.336,0.508,152,138,46,128,82,BKN
+22018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.198,59,0.237,0.815,0.352,0.139,0.053,0.139,0.02,0.397,0.384,151,123,44,125,81,BKN
+22018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.808,56,0.162,1.121,0.395,0.077,0.044,0.066,0.011,0.418,0.556,91,102,32,81,49,BKN
+22018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.16,40,0.156,0.787,0.359,0.021,0.149,0.021,0.0,0.319,0.455,94,74,28,78,50,BKN
+22018,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.099,18,0.22,0.727,0.263,0.045,0.091,0.0,0.0,0.273,0.368,22,16,5,19,14,BKN
+22018,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.008,80,0.059,0.319,0.109,0.0,0.021,0.0,0.0,0.106,0.163,47,15,5,46,41,BKN

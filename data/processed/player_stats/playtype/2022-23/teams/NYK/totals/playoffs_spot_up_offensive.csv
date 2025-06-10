@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Spotup,Offensive,0.496,11,0.321,1.029,0.391,0.071,0.029,0.071,0.014,0.414,0.508,70,72,25,64,39,NYK
+42022,203944,Julius Randle,1610612752,NYK,New York Knicks,Spotup,Offensive,0.232,10,0.291,0.8,0.321,0.083,0.05,0.05,0.017,0.35,0.396,60,48,17,53,36,NYK
+42022,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Spotup,Offensive,0.888,11,0.108,1.387,0.5,0.097,0.0,0.097,0.0,0.548,0.643,31,43,14,28,14,NYK
+42022,1628404,Josh Hart,1610612752,NYK,New York Knicks,Spotup,Offensive,0.224,11,0.387,0.792,0.35,0.042,0.146,0.021,0.021,0.313,0.463,48,38,14,40,26,NYK
+42022,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Spotup,Offensive,0.279,11,0.438,0.857,0.323,0.0,0.114,0.0,0.0,0.286,0.484,35,30,10,31,21,NYK
+42022,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Spotup,Offensive,0.152,8,0.36,0.742,0.321,0.065,0.032,0.065,0.0,0.355,0.357,31,23,9,28,19,NYK
+42022,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,Spotup,Offensive,0.144,9,0.443,0.741,0.286,0.037,0.185,0.037,0.0,0.259,0.429,27,20,6,21,15,NYK
+42022,1630540,Miles McBride,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,8,1.0,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,NYK
+42022,201565,Derrick Rose,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,1,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,NYK
+42022,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,11,0.056,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,NYK

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,202692,Alec Burks,1610612752,NYK,New York Knicks,Spotup,Offensive,0.893,5,0.358,1.333,0.545,0.083,0.042,0.083,0.042,0.542,0.682,24,32,12,22,10,NYK
+42020,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Spotup,Offensive,0.205,5,0.446,0.848,0.333,0.0,0.0,0.0,0.0,0.333,0.424,33,28,11,33,22,NYK
+42020,201565,Derrick Rose,1610612752,NYK,New York Knicks,Spotup,Offensive,0.982,5,0.156,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.833,15,25,10,15,5,NYK
+42020,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,Spotup,Offensive,0.625,5,0.489,1.136,0.4,0.045,0.045,0.045,0.0,0.409,0.55,22,25,8,20,12,NYK
+42020,203944,Julius Randle,1610612752,NYK,New York Knicks,Spotup,Offensive,0.188,5,0.221,0.828,0.235,0.276,0.138,0.241,0.0,0.414,0.294,29,24,4,17,13,NYK
+42020,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Spotup,Offensive,0.027,5,0.414,0.583,0.3,0.0,0.167,0.0,0.0,0.25,0.35,12,7,3,10,7,NYK
+42020,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,5,0.262,0.364,0.182,0.0,0.0,0.0,0.0,0.182,0.182,11,4,2,11,9,NYK
+42020,203457,Nerlens Noel,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,5,0.045,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,NYK
+42020,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Spotup,Offensive,0.0,2,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,NYK

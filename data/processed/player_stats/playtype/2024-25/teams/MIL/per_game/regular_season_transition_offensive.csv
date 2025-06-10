@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.761,80,0.225,1.245,0.5,0.043,0.079,0.043,0.014,0.475,0.661,1.7,2.2,0.8,1.6,0.8,MIL
+22024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.499,74,0.197,1.124,0.441,0.09,0.055,0.09,0.021,0.448,0.575,2.0,2.2,0.8,1.7,1.0,MIL
+22024,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.661,80,0.069,1.19,0.441,0.032,0.032,0.032,0.0,0.444,0.602,0.8,0.9,0.3,0.7,0.4,MIL
+22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.234,49,0.111,0.987,0.468,0.066,0.118,0.066,0.0,0.447,0.532,1.6,1.5,0.6,1.3,0.7,MIL
+22024,1641748,Andre Jackson Jr.,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.334,67,0.238,1.048,0.659,0.079,0.222,0.079,0.0,0.508,0.705,0.9,1.0,0.4,0.7,0.2,MIL

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.733,75,0.125,1.422,0.717,0.147,0.044,0.132,0.039,0.716,0.717,204,290,124,173,49,LAL
+22023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.774,67,0.11,1.459,0.727,0.082,0.024,0.082,0.012,0.729,0.727,85,124,56,77,21,LAL
+22023,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.804,70,0.048,1.468,0.82,0.165,0.101,0.165,0.038,0.747,0.82,79,116,50,61,11,LAL
+22023,1629637,Jaxson Hayes,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.832,69,0.255,1.484,0.788,0.234,0.047,0.219,0.094,0.75,0.788,64,95,41,52,11,LAL
+22023,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.63,75,0.034,1.378,0.69,0.067,0.022,0.067,0.022,0.689,0.69,45,62,29,42,13,LAL
+22023,1626174,Christian Wood,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.753,50,0.106,1.447,0.733,0.237,0.026,0.211,0.053,0.737,0.733,38,55,22,30,8,LAL
+22023,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.284,28,0.248,1.211,0.667,0.158,0.105,0.158,0.053,0.632,0.667,38,46,20,30,10,LAL
+22023,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.884,81,0.019,1.522,0.778,0.217,0.13,0.217,0.13,0.696,0.778,23,35,14,18,4,LAL
+22023,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.622,47,0.084,1.375,0.778,0.125,0.125,0.125,0.0,0.708,0.778,24,33,14,18,4,LAL
+22023,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.784,66,0.044,1.462,0.7,0.231,0.0,0.231,0.0,0.769,0.7,13,19,7,10,3,LAL
+22023,1627752,Taurean Prince,1610612747,LAL,Los Angeles Lakers,Cut,Offensive,0.058,77,0.029,0.947,0.533,0.105,0.158,0.105,0.053,0.474,0.533,19,18,8,15,7,LAL

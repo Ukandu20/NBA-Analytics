@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.222,21,0.131,0.795,0.421,0.192,0.103,0.141,0.026,0.436,0.421,78,62,24,57,33,MIL
+42020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.593,23,0.051,0.931,0.458,0.103,0.069,0.069,0.0,0.483,0.458,29,27,11,24,13,MIL
+42020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.111,23,0.11,0.69,0.421,0.069,0.276,0.034,0.0,0.345,0.421,29,20,8,19,11,MIL
+42020,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.185,20,0.135,0.739,0.381,0.043,0.043,0.043,0.0,0.391,0.381,23,17,8,21,13,MIL
+42020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.259,23,0.032,0.8,0.429,0.067,0.0,0.067,0.0,0.4,0.429,15,12,6,14,8,MIL
+42020,1629603,Mamadi Diakite,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,7,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL

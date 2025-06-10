@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.978,76,0.017,0.5,0.182,0.083,0.0,0.0,0.0,0.25,0.227,0.2,0.1,0.0,0.1,0.1,ORL
+22023,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.963,46,0.076,0.529,0.214,0.059,0.118,0.059,0.0,0.235,0.25,0.4,0.2,0.1,0.3,0.2,ORL
+22023,204060,Joe Ingles,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.938,59,0.063,0.6,0.231,0.067,0.067,0.0,0.0,0.267,0.269,0.3,0.2,0.1,0.2,0.2,ORL
+22023,203914,Gary Harris,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.879,54,0.04,0.688,0.267,0.063,0.063,0.063,0.063,0.25,0.333,0.3,0.2,0.1,0.3,0.2,ORL
+22023,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.727,56,0.042,0.857,0.417,0.0,0.143,0.0,0.0,0.357,0.5,0.3,0.2,0.1,0.2,0.1,ORL
+22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.868,57,0.04,0.722,0.313,0.0,0.111,0.0,0.0,0.278,0.406,0.3,0.2,0.1,0.3,0.2,ORL
+22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.79,80,0.034,0.8,0.3,0.0,0.0,0.0,0.0,0.3,0.4,0.4,0.3,0.1,0.4,0.3,ORL
+22023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.795,81,0.049,0.794,0.276,0.118,0.029,0.059,0.0,0.353,0.345,0.4,0.3,0.1,0.4,0.3,ORL
+22023,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.026,42,0.07,1.636,0.579,0.136,0.0,0.136,0.0,0.636,0.789,0.5,0.9,0.3,0.5,0.2,ORL
+22023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.813,73,0.07,0.782,0.304,0.073,0.091,0.055,0.0,0.327,0.38,0.8,0.6,0.2,0.6,0.4,ORL
+22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,OffScreen,Defensive,0.421,72,0.064,1.102,0.442,0.102,0.061,0.041,0.041,0.449,0.547,0.7,0.8,0.3,0.6,0.3,ORL

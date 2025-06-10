@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201599,DeAndre Jordan,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.087,16,0.192,1.263,0.444,0.0,0.05,0.0,0.0,0.42,0.667,19,24,8,18,10,PHI
+22021,203083,Andre Drummond,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.445,49,0.162,1.037,0.408,0.09,0.05,0.07,0.01,0.43,0.528,81,84,29,71,42,PHI
+22021,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.218,55,0.36,1.125,0.411,0.05,0.05,0.05,0.01,0.41,0.562,80,90,30,73,43,PHI
+22021,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.241,21,0.354,1.119,0.407,0.02,0.01,0.02,0.0,0.42,0.568,84,94,33,81,48,PHI
+22021,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.966,66,0.226,0.681,0.279,0.07,0.09,0.06,0.01,0.3,0.339,166,113,39,140,101,PHI
+22021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.633,55,0.294,0.966,0.355,0.04,0.05,0.03,0.02,0.35,0.486,119,115,39,110,71,PHI
+22021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.731,67,0.295,0.929,0.36,0.04,0.06,0.04,0.01,0.36,0.478,126,117,41,114,73,PHI
+22021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.557,68,0.128,1.0,0.383,0.05,0.03,0.04,0.01,0.39,0.5,152,152,54,141,87,PHI
+22021,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.396,45,0.33,1.053,0.386,0.04,0.03,0.03,0.0,0.39,0.539,151,159,54,140,86,PHI
+22021,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.448,62,0.301,1.036,0.399,0.07,0.07,0.07,0.03,0.39,0.527,166,172,59,148,89,PHI
+22021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.421,73,0.26,1.047,0.416,0.06,0.04,0.06,0.02,0.42,0.531,193,202,74,178,104,PHI
+22021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.514,76,0.346,1.014,0.385,0.06,0.06,0.05,0.01,0.39,0.519,208,211,72,187,115,PHI
+22021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Spotup,Defensive,0.376,75,0.242,1.058,0.41,0.03,0.05,0.03,0.01,0.39,0.548,224,237,86,210,124,PHI

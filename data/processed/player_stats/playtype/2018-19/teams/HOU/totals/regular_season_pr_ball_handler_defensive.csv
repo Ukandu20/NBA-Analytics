@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2546,Carmelo Anthony,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.86,10,0.11,0.75,0.3,0.08,0.08,0.08,0.0,0.333,0.35,12,9,3,10,7,HOU
+22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.064,67,0.02,1.125,0.5,0.06,0.06,0.0,0.0,0.5,0.571,16,18,7,14,7,HOU
+22018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.64,39,0.1,0.833,0.45,0.07,0.27,0.03,0.0,0.367,0.525,30,25,9,20,11,HOU
+22018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.699,20,0.27,0.818,0.417,0.15,0.18,0.12,0.06,0.364,0.458,33,27,10,24,14,HOU
+22018,1629109,Gary Clark,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.924,51,0.22,0.696,0.303,0.13,0.17,0.13,0.02,0.326,0.318,46,32,10,33,23,HOU
+22018,101123,Gerald Green,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.345,73,0.16,0.923,0.458,0.12,0.18,0.12,0.05,0.415,0.531,65,60,22,48,26,HOU
+22018,203516,James Ennis III,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.066,40,0.2,1.107,0.479,0.09,0.07,0.05,0.02,0.482,0.542,56,62,23,48,25,HOU
+22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.792,59,0.23,0.788,0.434,0.07,0.25,0.05,0.02,0.356,0.482,118,93,36,83,47,HOU
+22018,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.751,78,0.14,0.806,0.394,0.09,0.16,0.09,0.01,0.375,0.436,144,116,43,109,66,HOU
+22018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.724,82,0.2,0.811,0.405,0.08,0.19,0.08,0.01,0.372,0.458,180,146,53,131,78,HOU
+22018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.66,47,0.37,0.829,0.422,0.16,0.17,0.12,0.04,0.414,0.441,181,150,54,128,74,HOU
+22018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.462,68,0.31,0.883,0.44,0.13,0.17,0.1,0.01,0.415,0.485,188,166,59,134,75,HOU

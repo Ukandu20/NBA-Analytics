@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.232,63,0.17,0.93,0.478,0.123,0.088,0.105,0.018,0.482,0.478,1.8,1.7,0.7,1.5,0.8,OKC
+22019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.659,61,0.137,1.17,0.659,0.113,0.132,0.094,0.019,0.604,0.659,0.9,1.0,0.4,0.7,0.2,OKC
+22019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.495,46,0.091,1.088,0.563,0.029,0.059,0.029,0.029,0.529,0.563,0.7,0.8,0.4,0.7,0.3,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.712,62,0.025,1.2,0.471,0.28,0.08,0.28,0.04,0.56,0.529,0.4,0.5,0.1,0.3,0.1,OKC
+22019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.64,61,0.049,1.158,0.533,0.158,0.053,0.158,0.0,0.579,0.533,0.3,0.4,0.1,0.2,0.1,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.14,70,0.013,0.824,0.417,0.118,0.176,0.0,0.0,0.412,0.417,0.2,0.2,0.1,0.2,0.1,OKC
+22019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.103,36,0.053,0.786,0.417,0.071,0.071,0.071,0.0,0.429,0.417,0.4,0.3,0.1,0.3,0.2,OKC
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.203,70,0.009,0.909,0.556,0.0,0.182,0.0,0.0,0.455,0.556,0.2,0.1,0.1,0.1,0.1,OKC

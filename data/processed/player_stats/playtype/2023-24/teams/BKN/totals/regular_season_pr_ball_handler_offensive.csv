@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.622,66,0.304,0.905,0.416,0.109,0.106,0.106,0.025,0.419,0.455,442,400,149,358,209,BKN
+22023,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.498,82,0.237,0.851,0.418,0.104,0.157,0.093,0.021,0.397,0.453,375,319,119,285,166,BKN
+22023,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.482,48,0.334,0.843,0.375,0.171,0.124,0.171,0.057,0.39,0.416,210,177,60,160,100,BKN
+22023,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.394,29,0.404,0.809,0.428,0.064,0.186,0.053,0.021,0.372,0.472,188,152,62,145,83,BKN
+22023,1629022,Lonnie Walker IV,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.459,58,0.242,0.833,0.416,0.058,0.138,0.058,0.014,0.384,0.469,138,115,47,113,66,BKN
+22023,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.537,58,0.133,0.865,0.424,0.073,0.063,0.073,0.021,0.417,0.459,96,83,36,85,49,BKN
+22023,1628372,Dennis Smith Jr.,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.3,56,0.206,0.764,0.424,0.124,0.247,0.124,0.034,0.371,0.441,89,68,25,59,34,BKN
+22023,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.382,49,0.078,0.8,0.381,0.067,0.233,0.067,0.0,0.333,0.5,30,24,8,21,13,BKN
+22023,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.578,43,0.073,0.875,0.5,0.063,0.188,0.0,0.0,0.438,0.5,16,14,6,12,6,BKN
+22023,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.941,68,0.02,1.083,0.5,0.0,0.167,0.0,0.0,0.417,0.65,12,13,5,10,5,BKN

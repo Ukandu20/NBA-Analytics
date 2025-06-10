@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.231,5,0.245,1.0,0.556,0.154,0.154,0.077,0.0,0.538,0.556,2.6,2.6,1.0,1.8,0.8,ORL

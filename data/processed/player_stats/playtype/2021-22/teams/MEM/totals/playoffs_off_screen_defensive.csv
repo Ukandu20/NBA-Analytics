@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629633,Jarrett Culver,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,3,0.25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MEM
+42021,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,7,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MEM
+42021,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,9,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,MEM
+42021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,12,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,MEM
+42021,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,10,0.1,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4,MEM
+42021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,12,0.08,0.4,0.33,0.0,0.4,0.0,0.0,0.2,0.33,5,2,1,3,2,MEM
+42021,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,12,0.08,0.667,0.4,0.0,0.17,0.0,0.0,0.33,0.4,6,4,2,5,3,MEM
+42021,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,12,0.02,2.667,1.0,0.33,0.0,0.33,0.0,1.0,1.5,3,8,2,2,0,MEM
+42021,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,9,0.06,1.143,0.5,0.0,0.14,0.0,0.0,0.43,0.67,7,8,3,6,3,MEM
+42021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.762,11,0.1,0.75,0.2,0.17,0.0,0.17,0.0,0.33,0.25,12,9,2,10,8,MEM
+42021,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,10,0.07,1.667,0.75,0.17,0.17,0.17,0.0,0.67,1.0,6,10,3,4,1,MEM
+42021,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.364,12,0.12,1.125,0.43,0.06,0.06,0.06,0.0,0.44,0.57,16,18,6,14,8,MEM

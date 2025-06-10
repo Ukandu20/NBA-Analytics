@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202683,Enes Freedom,1610612752,NYK,New York Knicks,Postup,Offensive,0.382,44,0.308,0.876,0.471,0.129,0.161,0.113,0.022,0.446,0.471,186,163,64,136,72,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,Postup,Offensive,0.559,68,0.206,0.944,0.543,0.121,0.185,0.081,0.048,0.476,0.543,124,117,50,92,42,NYK
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Postup,Offensive,0.677,59,0.028,1.0,0.522,0.074,0.074,0.074,0.0,0.519,0.522,27,27,12,23,11,NYK
+22018,201599,DeAndre Jordan,1610612752,NYK,New York Knicks,Postup,Offensive,0.677,19,0.138,1.0,0.579,0.148,0.185,0.074,0.037,0.519,0.579,27,27,11,19,8,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Postup,Offensive,0.956,46,0.013,1.25,0.5,0.333,0.0,0.25,0.167,0.583,0.5,12,15,5,10,5,NYK
+22018,202498,Lance Thomas,1610612752,NYK,New York Knicks,Postup,Offensive,0.284,46,0.076,0.833,0.538,0.056,0.222,0.056,0.0,0.444,0.538,18,15,7,13,6,NYK
+22018,1628436,Luke Kornet,1610612752,NYK,New York Knicks,Postup,Offensive,0.029,46,0.085,0.464,0.231,0.036,0.036,0.036,0.0,0.25,0.231,28,13,6,26,20,NYK
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Postup,Offensive,0.857,66,0.029,1.091,1.0,0.273,0.364,0.182,0.091,0.545,1.0,11,12,5,5,0,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,Postup,Offensive,0.488,58,0.022,0.923,0.545,0.0,0.154,0.0,0.0,0.462,0.545,13,12,6,11,5,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Postup,Offensive,0.02,75,0.016,0.444,0.267,0.0,0.167,0.0,0.0,0.222,0.267,18,8,4,15,11,NYK
+22018,1627740,Henry Ellenson,1610612752,NYK,New York Knicks,Postup,Offensive,0.015,17,0.154,0.438,0.214,0.063,0.125,0.063,0.063,0.188,0.214,16,7,3,14,11,NYK

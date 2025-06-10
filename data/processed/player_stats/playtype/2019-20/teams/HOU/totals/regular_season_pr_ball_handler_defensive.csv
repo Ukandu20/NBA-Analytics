@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201960,DeMarre Carroll,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.982,9,0.204,0.455,0.222,0.09,0.091,0.09,0.0,0.273,0.222,11,5,2,9,7,HOU
+22019,1629109,Gary Clark,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.727,18,0.145,0.8,0.333,0.2,0.1,0.2,0.2,0.3,0.333,10,8,3,9,6,HOU
+22019,203991,Clint Capela,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.868,39,0.022,0.714,0.375,0.21,0.357,0.21,0.14,0.286,0.438,14,10,3,8,5,HOU
+22019,1626187,Michael Frazier II,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.128,13,0.367,1.056,0.538,0.11,0.167,0.0,0.0,0.5,0.577,18,19,7,13,6,HOU
+22019,200757,Thabo Sefolosha,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.727,42,0.153,0.8,0.235,0.24,0.12,0.24,0.04,0.36,0.324,25,20,4,17,13,HOU
+22019,201145,Jeff Green,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.01,18,0.089,1.4,0.667,0.07,0.133,0.07,0.0,0.6,0.792,15,21,8,12,4,HOU
+22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.766,22,0.183,0.771,0.368,0.1,0.167,0.1,0.06,0.333,0.408,48,37,14,38,24,HOU
+22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.733,36,0.304,0.795,0.407,0.12,0.239,0.11,0.03,0.364,0.458,88,70,24,59,35,HOU
+22019,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.783,68,0.14,0.762,0.377,0.05,0.146,0.04,0.01,0.331,0.443,130,99,40,106,66,HOU
+22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.529,63,0.214,0.863,0.421,0.08,0.11,0.06,0.01,0.411,0.463,146,126,51,121,70,HOU
+22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.275,72,0.14,0.956,0.467,0.12,0.139,0.1,0.03,0.438,0.524,137,131,49,105,56,HOU
+22019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.582,71,0.3,0.852,0.44,0.08,0.174,0.06,0.01,0.406,0.478,155,132,51,116,65,HOU
+22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.811,57,0.308,0.753,0.368,0.04,0.17,0.03,0.01,0.319,0.438,182,137,53,144,91,HOU
+22019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.542,68,0.363,0.861,0.419,0.11,0.197,0.08,0.01,0.389,0.47,208,179,62,148,86,HOU

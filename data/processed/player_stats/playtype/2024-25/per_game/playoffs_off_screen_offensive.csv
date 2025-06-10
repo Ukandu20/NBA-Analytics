@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,1.0,8,0.168,1.5,0.6,0.036,0.071,0.036,0.0,0.571,0.8,3.5,5.3,1.9,3.1,1.3,GSW
+42024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.733,18,0.047,1.125,0.474,0.125,0.083,0.083,0.0,0.5,0.579,1.3,1.5,0.5,1.1,0.6,NYK
+42024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.533,15,0.059,1.091,0.529,0.182,0.091,0.182,0.045,0.545,0.559,1.5,1.6,0.6,1.1,0.5,MIN
+42024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.6,12,0.146,1.095,0.4,0.048,0.048,0.048,0.048,0.381,0.55,1.8,1.9,0.7,1.7,1.0,GSW
+42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,OffScreen,Offensive,1.0,18,0.046,1.5,0.667,0.071,0.071,0.071,0.0,0.643,0.792,0.8,1.2,0.4,0.7,0.2,NYK
+42024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.667,14,0.053,1.118,0.533,0.0,0.118,0.0,0.0,0.471,0.633,1.2,1.4,0.6,1.1,0.5,DEN
+42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.867,17,0.066,1.385,0.545,0.077,0.077,0.077,0.0,0.538,0.773,0.8,1.1,0.4,0.6,0.3,IND
+42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.4,14,0.046,0.882,0.357,0.118,0.059,0.0,0.0,0.412,0.429,1.2,1.1,0.4,1.0,0.6,DEN
+42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.467,5,0.111,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.538,2.6,2.8,1.4,2.6,1.2,LAL
+42024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.8,9,0.1,1.3,0.444,0.1,0.0,0.1,0.0,0.5,0.611,1.1,1.4,0.4,1.0,0.6,CLE
+42024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.267,15,0.107,0.765,0.417,0.0,0.294,0.0,0.0,0.294,0.542,1.1,0.9,0.3,0.8,0.5,MIN
+42024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.133,6,0.186,0.625,0.167,0.125,0.125,0.063,0.0,0.25,0.25,2.7,1.7,0.3,2.0,1.7,DET
+42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.333,6,0.133,0.818,0.3,0.091,0.091,0.091,0.091,0.273,0.4,1.8,1.5,0.5,1.7,1.2,DET
+42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.2,17,0.052,0.692,0.273,0.154,0.077,0.154,0.077,0.308,0.318,0.8,0.5,0.2,0.6,0.5,OKC
+42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,17,0.046,0.5,0.231,0.063,0.125,0.063,0.0,0.25,0.269,0.9,0.5,0.2,0.8,0.6,OKC
+42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,12,0.062,0.5,0.167,0.1,0.3,0.1,0.0,0.2,0.25,0.8,0.4,0.1,0.5,0.4,GSW

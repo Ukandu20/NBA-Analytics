@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.887,25,0.193,0.688,0.27,0.19,0.12,0.19,0.0,0.38,0.27,0.6,0.4,0.1,0.4,0.3,PHI
+22022,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.726,49,0.051,0.846,0.36,0.08,0.077,0.08,0.0,0.385,0.41,0.3,0.2,0.1,0.2,0.1,PHI
+22022,1629667,Jalen McDaniels,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.533,24,0.09,0.933,0.55,0.07,0.2,0.0,0.0,0.467,0.59,0.6,0.6,0.3,0.5,0.2,PHI
+22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.86,56,0.089,0.741,0.29,0.15,0.074,0.15,0.0,0.37,0.31,0.5,0.4,0.1,0.4,0.3,PHI
+22022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.96,75,0.059,0.537,0.21,0.05,0.146,0.05,0.02,0.195,0.29,0.5,0.3,0.1,0.5,0.4,PHI
+22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.023,78,0.035,1.5,0.5,0.19,0.0,0.19,0.06,0.563,0.64,0.2,0.3,0.1,0.2,0.1,PHI
+22022,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.931,76,0.1,0.652,0.3,0.04,0.13,0.07,0.0,0.283,0.35,0.6,0.4,0.1,0.5,0.3,PHI
+22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.897,60,0.089,0.722,0.37,0.02,0.148,0.02,0.02,0.315,0.41,0.9,0.7,0.3,0.8,0.5,PHI
+22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.198,58,0.056,1.143,0.43,0.09,0.057,0.09,0.0,0.457,0.58,0.6,0.7,0.2,0.5,0.3,PHI
+22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.726,74,0.09,0.846,0.39,0.06,0.092,0.06,0.02,0.369,0.46,0.9,0.7,0.3,0.8,0.5,PHI
+22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.287,77,0.094,1.071,0.5,0.05,0.106,0.05,0.0,0.471,0.58,1.1,1.2,0.5,0.9,0.5,PHI

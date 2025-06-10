@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203944,Julius Randle,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.572,77,0.052,1.155,0.469,0.124,0.052,0.093,0.01,0.505,0.58,97,112,38,81,43,NYK
+22022,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.473,82,0.158,1.104,0.559,0.134,0.06,0.119,0.07,0.552,0.559,67,74,33,59,26,NYK
+22022,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.975,59,0.114,1.651,0.919,0.163,0.0,0.163,0.02,0.86,0.919,43,71,34,37,3,NYK
+22022,1630579,Jericho Sims,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.971,52,0.128,1.611,0.824,0.056,0.056,0.056,0.06,0.778,0.824,18,29,14,17,3,NYK
+22022,1630167,Obi Toppin,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.302,67,0.029,1.0,0.357,0.0,0.0,0.0,0.0,0.357,0.5,14,14,5,14,9,NYK

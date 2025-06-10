@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.474,56,0.017,1.0,0.455,0.214,0.071,0.214,0.071,0.5,0.5,14,14,5,11,6,OKC
+22024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.281,68,0.062,1.125,0.462,0.083,0.125,0.083,0.021,0.438,0.603,48,54,18,39,21,OKC
+22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.196,76,0.055,1.2,0.439,0.067,0.044,0.044,0.022,0.444,0.61,45,54,18,41,23,OKC

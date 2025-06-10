@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.924,7,0.354,0.647,0.25,0.059,0.0,0.059,0.0,0.235,0.344,17,11,4,16,12,HOU
+42024,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.607,7,0.23,0.929,0.385,0.071,0.071,0.071,0.071,0.357,0.5,14,13,5,13,8,HOU
+42024,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.836,7,0.581,0.8,0.32,0.0,0.0,0.0,0.0,0.32,0.4,25,20,8,25,17,HOU
+42024,203500,Steven Adams,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.78,7,0.48,0.833,0.304,0.0,0.042,0.0,0.0,0.292,0.435,24,20,7,23,16,HOU
+42024,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.89,7,0.5,0.697,0.233,0.061,0.03,0.061,0.0,0.273,0.317,33,23,7,30,23,HOU
+42024,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.415,7,0.373,1.04,0.36,0.0,0.0,0.0,0.0,0.36,0.52,25,26,9,25,16,HOU
+42024,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.593,7,0.333,0.933,0.345,0.033,0.0,0.033,0.0,0.367,0.466,30,28,10,29,19,HOU
+42024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.788,7,0.432,0.829,0.289,0.073,0.024,0.073,0.024,0.317,0.395,41,34,11,38,27,HOU

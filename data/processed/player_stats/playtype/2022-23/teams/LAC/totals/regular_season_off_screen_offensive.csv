@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.401,56,0.082,0.925,0.366,0.075,0.075,0.065,0.019,0.374,0.457,107,99,34,93,59,LAC
+22022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.753,52,0.077,1.108,0.506,0.036,0.048,0.036,0.012,0.494,0.565,83,92,39,77,38,LAC
+22022,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.438,60,0.068,0.938,0.429,0.125,0.109,0.109,0.0,0.453,0.48,64,60,21,49,28,LAC
+22022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.898,65,0.04,1.241,0.538,0.034,0.069,0.034,0.0,0.517,0.673,29,36,14,26,12,LAC
+22022,1628379,Luke Kennard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.151,35,0.194,0.75,0.325,0.042,0.146,0.042,0.021,0.292,0.413,48,36,13,40,27,LAC
+22022,202704,Reggie Jackson,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.877,52,0.029,1.222,0.529,0.056,0.056,0.056,0.056,0.5,0.618,18,22,9,17,8,LAC
+22022,201569,Eric Gordon,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.004,22,0.052,0.273,0.167,0.091,0.364,0.091,0.0,0.182,0.167,11,3,1,6,5,LAC

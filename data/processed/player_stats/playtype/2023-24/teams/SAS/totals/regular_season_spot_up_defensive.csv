@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1631321,Sidy Cissoko,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.99,9,0.438,0.571,0.25,0.048,0.19,0.048,0.0,0.238,0.313,21,12,4,16,12,SAS
+22023,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.625,15,0.144,1.0,0.273,0.214,0.0,0.143,0.0,0.429,0.409,14,14,3,11,8,SAS
+22023,1628984,Devonte' Graham,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.932,18,0.308,0.792,0.261,0.042,0.0,0.042,0.0,0.292,0.37,24,19,6,23,17,SAS
+22023,1631230,Dominick Barlow,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.095,27,0.163,1.25,0.5,0.056,0.056,0.056,0.0,0.5,0.656,36,45,16,32,16,SAS
+22023,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.359,55,0.229,1.094,0.408,0.047,0.059,0.047,0.0,0.412,0.566,85,93,31,76,45,SAS
+22023,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.095,45,0.464,1.25,0.459,0.029,0.029,0.029,0.0,0.442,0.653,104,130,45,98,53,SAS
+22023,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.312,66,0.17,1.11,0.395,0.037,0.022,0.037,0.007,0.404,0.554,136,151,51,129,78,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.115,69,0.251,1.238,0.472,0.041,0.09,0.033,0.0,0.451,0.66,122,151,50,106,56,SAS
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.289,68,0.284,1.118,0.441,0.039,0.078,0.039,0.007,0.425,0.603,153,171,60,136,76,SAS
+22023,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.471,72,0.304,1.058,0.417,0.047,0.047,0.047,0.006,0.409,0.542,171,181,65,156,91,SAS
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.817,71,0.207,0.901,0.346,0.049,0.054,0.044,0.015,0.35,0.454,203,183,64,185,121,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.798,69,0.306,0.92,0.353,0.035,0.05,0.035,0.0,0.358,0.473,201,185,65,184,119,SAS
+22023,1626224,Cedi Osman,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.079,70,0.412,1.281,0.526,0.046,0.092,0.046,0.02,0.49,0.696,153,196,71,135,64,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Spotup,Defensive,0.673,77,0.248,0.98,0.378,0.025,0.045,0.025,0.005,0.373,0.503,201,197,71,188,117,SAS

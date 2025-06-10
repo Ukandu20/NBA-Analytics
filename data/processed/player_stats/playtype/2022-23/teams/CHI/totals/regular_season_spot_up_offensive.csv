@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.573,82,0.446,1.046,0.414,0.022,0.081,0.022,0.0,0.393,0.56,369,386,137,331,194,CHI
+22022,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.885,77,0.169,1.222,0.506,0.098,0.091,0.098,0.02,0.498,0.644,297,363,125,247,122,CHI
+22022,1629632,Coby White,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.83,74,0.431,1.177,0.442,0.03,0.047,0.027,0.007,0.431,0.608,299,352,123,278,155,CHI
+22022,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.585,82,0.178,1.05,0.401,0.033,0.054,0.029,0.008,0.394,0.541,241,253,89,222,133,CHI
+22022,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.262,80,0.382,0.911,0.388,0.041,0.089,0.041,0.007,0.374,0.485,270,246,92,237,145,CHI
+22022,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.335,74,0.146,0.943,0.374,0.086,0.061,0.086,0.012,0.398,0.46,244,230,79,211,132,CHI
+22022,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.534,67,0.364,1.028,0.362,0.063,0.063,0.063,0.007,0.375,0.52,144,148,46,127,81,CHI
+22022,201609,Goran Dragic,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.517,51,0.261,1.021,0.398,0.01,0.093,0.01,0.01,0.361,0.563,97,99,35,88,53,CHI
+22022,1627884,Derrick Jones Jr.,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.463,64,0.277,1.0,0.324,0.063,0.013,0.05,0.0,0.363,0.48,80,80,24,74,50,CHI
+22022,201976,Patrick Beverley,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.321,22,0.528,0.934,0.356,0.0,0.039,0.0,0.0,0.342,0.486,76,71,26,73,47,CHI
+22022,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.568,32,0.327,1.042,0.389,0.146,0.104,0.146,0.0,0.438,0.528,48,50,14,36,22,CHI
+22022,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.056,67,0.03,0.667,0.375,0.083,0.25,0.083,0.0,0.333,0.375,12,8,3,8,5,CHI

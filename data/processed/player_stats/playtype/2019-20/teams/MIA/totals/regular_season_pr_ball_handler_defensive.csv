@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.414,67,0.019,0.9,0.5,0.0,0.2,0.0,0.0,0.4,0.563,10,9,4,8,4,MIA
+22019,201949,James Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.066,18,0.145,1.118,0.533,0.06,0.118,0.06,0.06,0.471,0.6,17,19,8,15,7,MIA
+22019,203109,Jae Crowder,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.891,20,0.16,0.706,0.526,0.06,0.412,0.03,0.03,0.324,0.553,34,24,10,19,9,MIA
+22019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.904,21,0.26,0.7,0.241,0.12,0.15,0.12,0.0,0.3,0.31,40,28,7,29,22,MIA
+22019,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.894,11,0.338,0.705,0.308,0.16,0.25,0.11,0.0,0.341,0.365,44,31,8,26,18,MIA
+22019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.434,72,0.056,0.893,0.395,0.09,0.143,0.09,0.0,0.393,0.477,56,50,17,43,26,MIA
+22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.632,55,0.26,0.84,0.443,0.14,0.208,0.12,0.05,0.392,0.455,125,105,39,88,49,MIA
+22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.697,59,0.325,0.813,0.389,0.14,0.181,0.1,0.03,0.375,0.429,160,130,44,113,69,MIA
+22019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.27,59,0.253,0.959,0.431,0.12,0.122,0.11,0.03,0.422,0.504,147,141,50,116,66,MIA
+22019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.06,73,0.171,1.132,0.5,0.22,0.14,0.18,0.02,0.527,0.581,129,146,43,86,43,MIA
+22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.461,58,0.277,0.886,0.42,0.08,0.166,0.07,0.02,0.383,0.483,193,171,63,150,87,MIA
+22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.34,67,0.416,0.923,0.445,0.11,0.153,0.08,0.02,0.427,0.502,300,277,101,227,126,MIA

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.688,64,0.148,0.951,0.366,0.239,0.054,0.234,0.039,0.459,0.412,205,195,56,153,97,BKN
+22019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.312,45,0.182,0.775,0.306,0.183,0.053,0.166,0.036,0.385,0.336,169,131,41,134,93,BKN
+22019,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.858,20,0.129,1.061,0.466,0.061,0.076,0.015,0.015,0.455,0.543,66,70,27,58,31,BKN
+22019,1627752,Taurean Prince,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.324,64,0.045,0.78,0.351,0.024,0.073,0.024,0.0,0.341,0.405,41,32,13,37,24,BKN
+22019,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.271,33,0.149,0.759,0.346,0.069,0.034,0.069,0.0,0.379,0.365,29,22,9,26,17,BKN
+22019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.15,62,0.041,0.643,0.28,0.071,0.071,0.071,0.036,0.286,0.32,28,18,7,25,18,BKN
+22019,1629185,Chris Chiozza,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.656,18,0.108,0.929,0.357,0.071,0.0,0.071,0.071,0.357,0.429,14,13,5,14,9,BKN
+22019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.8,40,0.051,1.0,0.333,0.167,0.083,0.0,0.0,0.417,0.444,12,12,3,9,6,BKN
+22019,1629725,Jeremiah Martin,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.42,9,0.172,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.409,11,9,4,11,7,BKN

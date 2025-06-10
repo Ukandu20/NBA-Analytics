@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.924,27,0.08,1.378,0.633,0.081,0.108,0.081,0.0,0.595,0.767,37,51,19,30,11,HOU
+22020,203463,Ben McLemore,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.557,32,0.144,1.0,0.361,0.026,0.053,0.026,0.026,0.342,0.514,38,38,13,36,23,HOU
+22020,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.938,20,0.091,1.45,0.526,0.0,0.05,0.0,0.0,0.5,0.763,20,29,10,19,9,HOU
+22020,1626174,Christian Wood,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.662,41,0.031,1.08,0.429,0.08,0.08,0.08,0.0,0.44,0.571,25,27,9,21,12,HOU
+22020,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.683,26,0.022,1.091,0.714,0.0,0.364,0.0,0.0,0.455,0.857,11,12,5,7,2,HOU
+22020,1628425,Sterling Brown,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.683,51,0.028,1.091,0.364,0.0,0.0,0.0,0.0,0.364,0.545,11,12,4,11,7,HOU
+22020,203506,Victor Oladipo,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.014,20,0.054,0.4,0.2,0.0,0.2,0.0,0.0,0.16,0.25,25,10,4,20,16,HOU
+22020,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.057,36,0.036,0.583,0.222,0.167,0.083,0.167,0.0,0.333,0.278,12,7,2,9,7,HOU
+22020,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.0,70,0.017,0.154,0.1,0.0,0.231,0.0,0.0,0.077,0.1,13,2,1,10,9,HOU

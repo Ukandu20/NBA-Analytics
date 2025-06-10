@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.737,79,0.126,1.28,0.616,0.103,0.065,0.099,0.022,0.608,0.654,232,297,122,198,76,DEN
+22023,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.809,73,0.06,1.339,0.64,0.143,0.036,0.143,0.071,0.643,0.66,56,75,32,50,18,DEN
+22023,201599,DeAndre Jordan,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.984,36,0.229,1.656,0.828,0.25,0.0,0.25,0.156,0.813,0.828,32,53,24,29,5,DEN
+22023,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.667,81,0.017,1.25,0.5,0.1,0.15,0.1,0.05,0.45,0.656,20,25,8,16,8,DEN
+22023,202704,Reggie Jackson,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.948,82,0.011,1.5,0.667,0.1,0.0,0.1,0.0,0.7,0.722,10,15,6,9,3,DEN
+22023,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.163,76,0.023,0.875,0.357,0.063,0.063,0.063,0.0,0.375,0.429,16,14,5,14,9,DEN
+22023,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.036,80,0.025,0.571,0.4,0.143,0.143,0.143,0.0,0.286,0.4,14,8,4,10,6,DEN

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.487,68,0.182,1.113,0.582,0.198,0.152,0.18,0.035,0.551,0.606,283,315,113,194,81,TOR
+22021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.463,70,0.191,1.102,0.471,0.123,0.093,0.102,0.017,0.479,0.563,236,260,89,189,100,TOR
+22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.401,74,0.209,1.07,0.561,0.107,0.148,0.099,0.033,0.506,0.598,243,260,106,189,83,TOR
+22021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.321,65,0.173,1.03,0.414,0.124,0.115,0.115,0.034,0.419,0.519,234,241,77,186,109,TOR
+22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.89,48,0.154,1.367,0.657,0.109,0.07,0.102,0.023,0.641,0.722,128,175,71,108,37,TOR
+22021,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.798,80,0.177,1.288,0.629,0.208,0.088,0.192,0.072,0.616,0.66,125,161,61,97,36,TOR
+22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.299,73,0.186,1.014,0.559,0.101,0.194,0.108,0.036,0.468,0.618,139,141,57,102,45,TOR
+22021,1629004,Svi Mykhailiuk,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.406,56,0.249,1.071,0.564,0.057,0.171,0.057,0.014,0.486,0.627,70,75,31,55,24,TOR
+22021,1630625,Dalano Banton,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.094,64,0.229,0.841,0.5,0.175,0.159,0.159,0.032,0.46,0.5,63,53,22,44,22,TOR
+22021,1629139,Yuta Watanabe,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.449,38,0.247,1.093,0.5,0.256,0.093,0.233,0.047,0.512,0.6,43,47,15,30,15,TOR
+22021,203920,Khem Birch,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.825,55,0.085,1.318,0.688,0.318,0.091,0.318,0.136,0.682,0.688,22,29,11,16,5,TOR
+22021,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.258,44,0.141,1.0,0.462,0.034,0.069,0.034,0.0,0.448,0.538,29,29,12,26,14,TOR
+22021,1629717,Armoni Brooks,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.006,13,0.279,0.5,0.182,0.0,0.083,0.0,0.0,0.167,0.273,12,6,2,11,9,TOR

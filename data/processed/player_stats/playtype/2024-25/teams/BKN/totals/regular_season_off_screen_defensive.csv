@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,1.0,23,0.044,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,10,0,0,8,8,BKN
+22024,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.983,46,0.03,0.364,0.182,0.0,0.0,0.0,0.0,0.182,0.182,11,4,2,11,9,BKN
+22024,1641727,Dariq Whitehead,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.749,15,0.118,0.8,0.444,0.0,0.1,0.0,0.0,0.4,0.444,10,8,4,9,5,BKN
+22024,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.591,33,0.052,0.923,0.25,0.231,0.154,0.154,0.0,0.385,0.313,13,12,2,8,6,BKN
+22024,1641787,Tosan Evbuomwan,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.591,27,0.064,0.923,0.4,0.077,0.154,0.077,0.0,0.385,0.5,13,12,4,10,6,BKN
+22024,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.058,25,0.052,1.364,0.545,0.0,0.0,0.0,0.0,0.545,0.682,11,15,6,11,5,BKN
+22024,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.801,78,0.042,0.75,0.286,0.042,0.083,0.042,0.0,0.292,0.381,24,18,6,21,15,BKN
+22024,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.474,57,0.054,1.0,0.391,0.042,0.042,0.042,0.042,0.375,0.5,24,24,9,23,14,BKN
+22024,1631213,Tyrese Martin,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.01,57,0.041,1.563,0.692,0.125,0.125,0.063,0.063,0.625,0.885,16,25,9,13,4,BKN
+22024,1630533,Ziaire Williams,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.349,64,0.044,1.08,0.474,0.08,0.16,0.04,0.0,0.44,0.605,25,27,9,19,10,BKN
+22024,1630553,Keon Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.623,78,0.056,0.889,0.345,0.111,0.111,0.083,0.028,0.361,0.414,36,32,10,29,19,BKN

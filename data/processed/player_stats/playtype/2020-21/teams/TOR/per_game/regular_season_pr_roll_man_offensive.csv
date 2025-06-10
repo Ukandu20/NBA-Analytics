@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.798,60,0.272,1.262,0.5,0.203,0.032,0.209,0.053,0.551,0.589,3.1,3.9,1.3,2.5,1.3,TOR
+22020,203382,Aron Baynes,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.08,53,0.257,0.768,0.357,0.074,0.074,0.074,0.032,0.358,0.393,1.8,1.4,0.6,1.6,1.0,TOR
+22020,203920,Khem Birch,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.458,19,0.307,1.092,0.582,0.108,0.062,0.108,0.015,0.569,0.591,3.4,3.7,1.7,2.9,1.2,TOR
+22020,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.13,56,0.061,0.838,0.344,0.095,0.041,0.108,0.014,0.378,0.391,1.3,1.1,0.4,1.1,0.8,TOR
+22020,1626169,Stanley Johnson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.878,61,0.055,1.353,0.571,0.0,0.176,0.0,0.0,0.471,0.821,0.3,0.4,0.1,0.2,0.1,TOR
+22020,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.714,43,0.03,1.211,0.667,0.105,0.263,0.105,0.0,0.526,0.792,0.4,0.5,0.2,0.3,0.1,TOR
+22020,1630273,Freddie Gillespie,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.3,20,0.167,1.0,0.529,0.053,0.053,0.053,0.0,0.526,0.529,1.0,1.0,0.5,0.9,0.4,TOR

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.715,79,0.323,1.111,0.395,0.042,0.017,0.039,0.017,0.404,0.548,4.5,5.1,1.7,4.4,2.6,DAL
+22023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.595,76,0.515,1.066,0.431,0.075,0.082,0.075,0.022,0.426,0.565,4.2,4.5,1.6,3.6,2.1,DAL
+22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.965,58,0.124,1.313,0.494,0.025,0.037,0.018,0.006,0.485,0.672,2.8,3.7,1.3,2.7,1.3,DAL
+22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.803,70,0.08,1.154,0.453,0.12,0.063,0.12,0.029,0.474,0.578,2.5,2.9,1.0,2.1,1.2,DAL
+22023,1629684,Grant Williams,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.36,47,0.508,0.975,0.36,0.065,0.07,0.055,0.015,0.367,0.5,4.2,4.1,1.3,3.7,2.4,DAL
+22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.329,57,0.441,0.956,0.379,0.03,0.094,0.03,0.02,0.345,0.519,3.6,3.4,1.2,3.2,2.0,DAL
+22023,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.984,55,0.341,1.408,0.551,0.062,0.038,0.054,0.008,0.554,0.733,2.4,3.3,1.2,2.1,1.0,DAL
+22023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.117,29,0.455,0.79,0.296,0.012,0.056,0.012,0.006,0.284,0.414,5.6,4.4,1.6,5.2,3.7,DAL
+22023,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.581,43,0.487,1.063,0.379,0.063,0.032,0.063,0.011,0.4,0.523,2.2,2.3,0.8,2.0,1.3,DAL
+22023,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.125,36,0.311,0.804,0.283,0.078,0.078,0.078,0.059,0.275,0.38,1.4,1.1,0.4,1.3,0.9,DAL

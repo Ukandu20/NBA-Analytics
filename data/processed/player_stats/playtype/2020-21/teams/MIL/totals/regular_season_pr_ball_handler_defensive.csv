@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.873,70,0.009,0.727,0.4,0.09,0.091,0.09,0.09,0.364,0.4,11,8,4,10,6,MIL
+22020,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.612,66,0.019,0.857,0.5,0.0,0.143,0.0,0.0,0.429,0.5,14,12,6,12,6,MIL
+22020,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.824,51,0.204,0.75,0.367,0.12,0.15,0.1,0.02,0.375,0.4,40,30,11,30,19,MIL
+22020,1628470,Torrey Craig,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.026,18,0.282,1.292,0.579,0.25,0.042,0.25,0.08,0.625,0.632,24,31,11,19,8,MIL
+22020,200782,P.J. Tucker,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.189,20,0.243,1.0,0.419,0.11,0.028,0.08,0.0,0.472,0.484,36,36,13,31,18,MIL
+22020,201952,Jeff Teague,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.748,21,0.412,0.796,0.31,0.1,0.061,0.1,0.02,0.347,0.381,49,39,13,42,29,MIL
+22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.641,37,0.405,0.844,0.387,0.09,0.125,0.09,0.0,0.396,0.44,96,81,29,75,46,MIL
+22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.548,62,0.16,0.877,0.432,0.08,0.16,0.08,0.01,0.406,0.488,106,93,35,81,46,MIL
+22020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.126,70,0.294,1.05,0.463,0.05,0.05,0.05,0.01,0.462,0.532,119,125,50,108,58,MIL
+22020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.601,69,0.271,0.861,0.42,0.08,0.145,0.07,0.02,0.388,0.466,165,142,55,131,76,MIL
+22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.434,66,0.357,0.91,0.418,0.09,0.133,0.07,0.01,0.408,0.478,233,212,77,184,107,MIL
+22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.706,68,0.365,0.813,0.397,0.06,0.114,0.06,0.01,0.377,0.437,289,235,95,239,144,MIL
+22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.41,59,0.472,0.918,0.456,0.07,0.147,0.06,0.02,0.415,0.513,429,394,157,344,187,MIL

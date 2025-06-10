@@ -1,0 +1,23 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629620,Justin Robinson,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.987,5,0.37,0.5,0.286,0.0,0.3,0.0,0.0,0.2,0.357,10,5,2,7,5,DET
+22021,1629035,Carsen Edwards,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.956,4,0.407,0.727,0.3,0.0,0.09,0.0,0.0,0.27,0.4,11,8,3,10,7,DET
+22021,1630296,Braxton Key,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.969,9,0.276,0.667,0.294,0.05,0.14,0.05,0.0,0.24,0.412,21,14,5,17,12,DET
+22021,1630199,Cassius Stanley,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.848,9,0.431,0.864,0.333,0.05,0.05,0.05,0.05,0.32,0.429,22,19,7,21,14,DET
+22021,1630691,Jamorko Pickett,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.782,13,0.373,0.909,0.368,0.14,0.05,0.14,0.05,0.41,0.421,22,20,7,19,12,DET
+22021,1628476,Derrick Walton Jr.,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.047,3,0.5,1.368,0.5,0.05,0.0,0.05,0.0,0.53,0.639,19,26,9,18,9,DET
+22021,1630568,Luka Garza,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.315,32,0.131,1.077,0.375,0.08,0.04,0.08,0.04,0.38,0.542,26,28,9,24,15,DET
+22021,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.927,19,0.312,0.791,0.371,0.07,0.14,0.07,0.02,0.35,0.443,43,34,13,35,22,DET
+22021,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.372,18,0.245,1.06,0.417,0.04,0.04,0.04,0.04,0.4,0.531,50,53,20,48,28,DET
+22021,1630240,Saben Lee,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.909,38,0.336,0.808,0.304,0.03,0.04,0.03,0.01,0.3,0.413,73,59,21,69,48,DET
+22021,203585,Rodney McGruder,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.192,51,0.321,1.141,0.444,0.06,0.06,0.06,0.0,0.45,0.587,71,81,28,63,35,DET
+22021,203482,Kelly Olynyk,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.639,40,0.27,0.962,0.395,0.07,0.12,0.05,0.01,0.38,0.523,105,101,34,86,52,DET
+22021,1628367,Josh Jackson,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.163,39,0.384,1.172,0.444,0.05,0.09,0.05,0.01,0.42,0.63,93,109,36,81,45,DET
+22021,1626168,Trey Lyles,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.323,51,0.275,1.075,0.425,0.09,0.09,0.08,0.01,0.43,0.552,106,114,37,87,50,DET
+22021,1628402,Frank Jackson,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.076,53,0.313,1.294,0.479,0.07,0.02,0.07,0.03,0.48,0.656,102,132,46,96,50,DET
+22021,203924,Jerami Grant,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.673,47,0.325,0.951,0.381,0.03,0.09,0.01,0.01,0.36,0.512,142,135,48,126,78,DET
+22021,202709,Cory Joseph,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.882,65,0.305,0.836,0.349,0.02,0.08,0.02,0.01,0.33,0.456,165,138,52,149,97,DET
+22021,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.212,58,0.332,1.128,0.435,0.05,0.08,0.05,0.01,0.42,0.603,149,168,57,131,74,DET
+22021,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.093,71,0.164,1.26,0.486,0.03,0.03,0.03,0.0,0.49,0.649,154,194,70,144,74,DET
+22021,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.254,82,0.331,1.106,0.41,0.04,0.04,0.04,0.0,0.42,0.56,216,239,82,200,118,DET
+22021,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.319,66,0.36,1.076,0.411,0.06,0.05,0.06,0.02,0.41,0.545,251,270,95,231,136,DET
+22021,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.41,64,0.38,1.05,0.418,0.04,0.08,0.03,0.01,0.4,0.558,279,293,105,251,146,DET

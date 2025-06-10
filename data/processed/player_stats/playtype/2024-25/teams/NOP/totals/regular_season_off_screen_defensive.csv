@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641810,Antonio Reeves,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.928,33,0.065,0.583,0.3,0.0,0.167,0.0,0.0,0.25,0.35,12,7,3,10,7,NOP
+22024,1629750,Javonte Green,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.962,49,0.054,0.5,0.235,0.05,0.1,0.05,0.0,0.25,0.235,20,10,4,17,13,NOP
+22024,1630527,Brandon Boston,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.955,39,0.06,0.526,0.167,0.053,0.0,0.053,0.0,0.211,0.222,19,10,3,18,15,NOP
+22024,1628971,Bruce Brown,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.474,23,0.062,1.0,0.3,0.091,0.0,0.091,0.0,0.364,0.45,11,11,3,10,7,NOP
+22024,1642274,Yves Missi,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.33,70,0.013,1.091,0.333,0.182,0.0,0.182,0.0,0.455,0.389,11,12,3,9,6,NOP
+22024,1630526,Jeremiah Robinson-Earl,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.907,62,0.05,0.609,0.316,0.0,0.174,0.0,0.0,0.261,0.368,23,14,6,19,13,NOP
+22024,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.362,30,0.045,1.071,0.462,0.0,0.071,0.0,0.0,0.429,0.577,14,15,6,13,7,NOP
+22024,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.901,56,0.072,0.613,0.241,0.0,0.065,0.0,0.0,0.226,0.328,31,19,7,29,22,NOP
+22024,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.099,18,0.12,1.294,0.571,0.059,0.118,0.059,0.0,0.529,0.75,17,22,8,14,6,NOP
+22024,1627749,Dejounte Murray,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.162,31,0.074,1.222,0.455,0.111,0.074,0.111,0.0,0.481,0.591,27,33,10,22,12,NOP
+22024,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.541,56,0.061,0.972,0.394,0.056,0.028,0.056,0.0,0.417,0.485,36,35,13,33,20,NOP
+22024,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.312,52,0.07,1.103,0.457,0.051,0.051,0.051,0.0,0.462,0.557,39,43,16,35,19,NOP
+22024,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.021,55,0.071,1.533,0.552,0.067,0.0,0.067,0.033,0.567,0.724,30,46,16,29,13,NOP

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.711,5,0.142,1.05,0.421,0.05,0.0,0.05,0.0,0.45,0.5,4.0,4.2,1.6,3.8,2.2,MIN
+42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.356,5,0.112,0.818,0.375,0.273,0.091,0.273,0.091,0.364,0.375,2.2,1.8,0.6,1.6,1.0,MIN
+42022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.055,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.6,1.2,0.6,0.6,0.0,MIN
+42022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.069,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.4,0.6,0.2,0.4,0.2,MIN
+42022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,MIN
+42022,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,MIN
+42022,203085,Austin Rivers,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,4,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,MIN
+42022,1631111,Wendell Moore Jr.,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,MIN
+42022,1630233,Nathan Knight,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,2,0.4,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.5,MIN

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.895,38,0.039,0.75,0.5,0.083,0.25,0.083,0.0,0.417,0.5,0.3,0.2,0.1,0.2,0.1,ATL
+22023,202083,Wesley Matthews,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.313,30,0.075,1.083,0.571,0.333,0.167,0.333,0.083,0.583,0.571,0.4,0.4,0.1,0.2,0.1,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.984,79,0.033,0.552,0.3,0.138,0.207,0.103,0.034,0.276,0.3,0.4,0.2,0.1,0.3,0.2,ATL
+22023,1629726,Garrison Mathews,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.0,65,0.033,1.636,0.7,0.273,0.0,0.273,0.182,0.727,0.7,0.2,0.3,0.1,0.2,0.0,ATL
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.868,54,0.054,0.765,0.462,0.029,0.206,0.029,0.0,0.382,0.462,0.6,0.5,0.2,0.5,0.3,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.274,78,0.032,1.103,0.542,0.241,0.034,0.241,0.103,0.552,0.542,0.4,0.4,0.2,0.3,0.1,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.371,56,0.051,1.065,0.609,0.194,0.161,0.194,0.097,0.548,0.609,0.6,0.6,0.3,0.4,0.2,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.643,56,0.065,0.929,0.447,0.071,0.024,0.071,0.0,0.476,0.447,0.8,0.7,0.3,0.7,0.4,ATL
+22023,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.129,53,0.063,1.189,0.552,0.189,0.054,0.189,0.027,0.595,0.552,0.7,0.8,0.3,0.5,0.2,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.421,62,0.089,1.042,0.526,0.125,0.104,0.125,0.021,0.521,0.526,0.8,0.8,0.3,0.6,0.3,ATL
+22023,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Postup,Defensive,0.18,67,0.054,1.152,0.585,0.109,0.065,0.109,0.065,0.565,0.585,0.7,0.8,0.4,0.6,0.3,ATL

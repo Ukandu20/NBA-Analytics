@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,5,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,MIN
+42021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,6,0.087,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,MIN
+42021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,5,0.147,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.8,MIN
+42021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,6,0.039,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,0.5,0.0,0.2,0.3,0.2,MIN
+42021,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,6,0.063,1.333,1.0,0.33,0.33,0.0,0.0,0.67,1.0,0.5,1.0,0.2,0.2,0.0,MIN
+42021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.0,6,0.077,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,0.8,1.0,0.3,0.8,0.5,MIN
+42021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.05,6,0.097,1.8,0.78,0.0,0.1,0.0,0.0,0.7,1.0,1.7,3.0,1.2,1.5,0.3,MIN

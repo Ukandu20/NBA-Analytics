@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.857,80,0.192,1.105,0.464,0.105,0.04,0.089,0.048,0.476,0.527,124,137,52,112,60,DET
+22018,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.72,44,0.218,1.018,0.406,0.071,0.089,0.054,0.018,0.402,0.526,112,114,39,96,57,DET
+22018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.86,82,0.069,1.115,0.449,0.069,0.034,0.057,0.0,0.471,0.564,87,97,35,78,43,DET
+22018,201961,Wayne Ellington,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.713,28,0.275,1.012,0.408,0.047,0.07,0.035,0.0,0.395,0.539,86,87,31,76,45,DET
+22018,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.598,63,0.151,0.956,0.417,0.033,0.055,0.033,0.011,0.407,0.488,91,87,35,84,49,DET
+22018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.983,75,0.023,1.419,0.541,0.209,0.023,0.186,0.093,0.581,0.676,43,61,20,37,17,DET
+22018,202397,Ish Smith,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.867,56,0.04,1.13,0.5,0.087,0.043,0.087,0.0,0.478,0.625,23,26,10,20,10,DET
+22018,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.577,48,0.047,0.95,0.471,0.0,0.15,0.0,0.0,0.4,0.559,20,19,8,17,9,DET
+22018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.846,74,0.026,1.1,0.556,0.0,0.1,0.0,0.0,0.5,0.611,10,11,5,9,4,DET
+22018,101181,Jose Calderon,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.028,49,0.124,0.45,0.235,0.0,0.15,0.0,0.0,0.2,0.265,20,9,4,17,13,DET
+22018,203922,Glenn Robinson III,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.017,47,0.093,0.35,0.158,0.0,0.05,0.0,0.0,0.15,0.184,20,7,3,19,16,DET

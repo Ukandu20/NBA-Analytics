@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.696,61,0.016,0.818,0.286,0.27,0.182,0.27,0.09,0.364,0.357,0.2,0.1,0.0,0.1,0.1,GSW
+22020,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.058,40,0.079,1.167,0.55,0.17,0.042,0.17,0.04,0.583,0.575,0.6,0.7,0.3,0.5,0.2,GSW
+22020,1630185,Nico Mannion,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.157,30,0.417,1.019,0.452,0.13,0.075,0.09,0.0,0.472,0.512,1.8,1.8,0.6,1.4,0.8,GSW
+22020,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.779,60,0.305,0.776,0.379,0.09,0.165,0.09,0.04,0.353,0.409,1.4,1.1,0.4,1.1,0.7,GSW
+22020,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.282,57,0.21,0.959,0.424,0.07,0.041,0.07,0.0,0.446,0.47,1.3,1.2,0.5,1.2,0.7,GSW
+22020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.049,63,0.077,1.188,0.5,0.19,0.094,0.16,0.03,0.531,0.563,1.0,1.2,0.4,0.8,0.4,GSW
+22020,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.228,51,0.306,0.987,0.475,0.16,0.13,0.14,0.05,0.468,0.508,1.5,1.5,0.5,1.2,0.6,GSW
+22020,202954,Brad Wanamaker,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.59,39,0.437,0.864,0.426,0.08,0.136,0.06,0.02,0.407,0.463,3.0,2.6,1.0,2.4,1.4,GSW
+22020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.335,53,0.253,0.938,0.439,0.1,0.071,0.09,0.04,0.429,0.474,2.1,2.0,0.8,1.8,1.0,GSW
+22020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.389,63,0.253,0.923,0.479,0.1,0.2,0.08,0.04,0.415,0.531,2.1,1.9,0.7,1.5,0.8,GSW
+22020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.499,67,0.376,0.894,0.451,0.11,0.164,0.08,0.01,0.425,0.497,3.1,2.8,1.0,2.3,1.3,GSW
+22020,1626162,Kelly Oubre Jr.,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.732,55,0.358,0.801,0.402,0.08,0.161,0.07,0.0,0.369,0.455,4.3,3.4,1.3,3.3,1.9,GSW
+22020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.608,71,0.295,0.858,0.423,0.12,0.159,0.12,0.03,0.403,0.453,4.2,3.6,1.3,3.1,1.8,GSW

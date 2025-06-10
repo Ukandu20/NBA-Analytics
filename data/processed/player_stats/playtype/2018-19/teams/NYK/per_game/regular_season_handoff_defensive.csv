@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.587,66,0.021,0.867,0.31,0.13,0.0,0.13,0.0,0.4,0.38,0.2,0.2,0.1,0.2,0.1,NYK
+22018,1627740,Henry Ellenson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.026,18,0.108,1.4,0.62,0.1,0.1,0.1,0.0,0.6,0.75,0.6,0.8,0.3,0.4,0.2,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,Handoff,Defensive,0.22,68,0.02,1.077,0.36,0.15,0.0,0.15,0.0,0.462,0.5,0.2,0.2,0.1,0.2,0.1,NYK
+22018,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Handoff,Defensive,0.351,21,0.058,1.0,0.46,0.0,0.071,0.0,0.0,0.429,0.54,0.7,0.7,0.3,0.6,0.3,NYK
+22018,1628443,Kadeem Allen,1610612752,NYK,New York Knicks,Handoff,Defensive,0.665,19,0.123,0.833,0.33,0.0,0.0,0.0,0.0,0.333,0.42,0.9,0.8,0.3,0.9,0.6,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,Handoff,Defensive,0.606,58,0.05,0.857,0.41,0.05,0.143,0.0,0.0,0.381,0.47,0.4,0.3,0.1,0.3,0.2,NYK
+22018,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Handoff,Defensive,0.809,43,0.088,0.724,0.42,0.07,0.276,0.03,0.0,0.345,0.47,0.7,0.5,0.2,0.4,0.3,NYK
+22018,203504,Trey Burke,1610612752,NYK,New York Knicks,Handoff,Defensive,0.562,33,0.108,0.88,0.41,0.04,0.08,0.04,0.0,0.4,0.43,0.8,0.7,0.3,0.7,0.4,NYK
+22018,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,Handoff,Defensive,0.731,64,0.113,0.792,0.36,0.08,0.132,0.08,0.04,0.34,0.42,0.8,0.7,0.3,0.7,0.4,NYK
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Handoff,Defensive,0.315,59,0.085,1.021,0.41,0.13,0.085,0.13,0.04,0.426,0.51,0.8,0.8,0.3,0.7,0.4,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Handoff,Defensive,0.351,46,0.108,1.0,0.42,0.11,0.094,0.09,0.02,0.434,0.49,1.2,1.2,0.4,0.9,0.5,NYK
+22018,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.616,73,0.111,0.855,0.36,0.12,0.072,0.1,0.04,0.377,0.39,0.9,0.8,0.3,0.8,0.5,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Handoff,Defensive,0.191,75,0.111,1.111,0.49,0.1,0.111,0.08,0.02,0.476,0.58,0.8,0.9,0.3,0.7,0.3,NYK

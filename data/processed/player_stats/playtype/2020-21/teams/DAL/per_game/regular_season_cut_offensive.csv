@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.663,44,0.099,1.367,0.652,0.127,0.013,0.114,0.013,0.684,0.652,1.8,2.5,1.0,1.6,0.5,DAL
+22020,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.375,58,0.281,1.22,0.645,0.195,0.073,0.183,0.024,0.646,0.645,1.4,1.7,0.7,1.1,0.4,DAL
+22020,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.5,53,0.263,1.277,0.66,0.185,0.062,0.185,0.015,0.662,0.66,1.2,1.6,0.6,0.9,0.3,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.794,60,0.068,1.444,0.75,0.056,0.056,0.056,0.0,0.722,0.75,0.6,0.9,0.4,0.5,0.1,DAL
+22020,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.874,39,0.151,1.5,0.8,0.111,0.111,0.111,0.056,0.722,0.8,0.5,0.7,0.3,0.4,0.1,DAL
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.898,70,0.016,1.529,0.733,0.118,0.0,0.118,0.0,0.765,0.733,0.2,0.4,0.2,0.2,0.1,DAL
+22020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.874,50,0.05,1.5,0.7,0.313,0.063,0.313,0.0,0.75,0.7,0.3,0.5,0.1,0.2,0.1,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.344,59,0.02,1.2,0.667,0.133,0.133,0.133,0.067,0.6,0.667,0.3,0.3,0.1,0.2,0.1,DAL
+22020,201949,James Johnson,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.802,29,0.06,1.455,0.875,0.091,0.182,0.091,0.0,0.727,0.875,0.4,0.6,0.2,0.3,0.0,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.432,66,0.007,1.25,0.667,0.25,0.0,0.167,0.0,0.75,0.667,0.2,0.2,0.1,0.1,0.0,DAL

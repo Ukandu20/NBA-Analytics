@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.655,22,0.519,1.06,0.396,0.046,0.04,0.04,0.007,0.404,0.536,151,160,55,139,84,DAL
+42023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.691,22,0.463,1.08,0.436,0.057,0.068,0.057,0.011,0.42,0.577,88,95,34,78,44,DAL
+42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.618,22,0.118,1.038,0.391,0.103,0.026,0.103,0.013,0.436,0.5,78,81,27,69,42,DAL
+42023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.709,22,0.13,1.113,0.448,0.016,0.048,0.016,0.0,0.435,0.578,62,69,26,58,32,DAL
+42023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.636,22,0.57,1.053,0.385,0.053,0.053,0.053,0.018,0.386,0.548,57,60,20,52,32,DAL
+42023,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.991,13,0.574,1.556,0.56,0.037,0.037,0.0,0.0,0.556,0.8,27,42,14,25,11,DAL
+42023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.864,19,0.341,1.286,0.52,0.0,0.107,0.0,0.0,0.464,0.72,28,36,13,25,12,DAL
+42023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.204,14,0.444,0.75,0.296,0.036,0.0,0.036,0.0,0.286,0.389,28,21,8,27,19,DAL

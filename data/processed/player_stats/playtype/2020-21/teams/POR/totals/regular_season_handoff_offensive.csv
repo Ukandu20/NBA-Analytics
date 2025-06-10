@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.693,67,0.077,1.037,0.393,0.082,0.127,0.075,0.007,0.388,0.533,134,139,42,107,65,POR
+22020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.668,47,0.101,1.03,0.452,0.03,0.069,0.03,0.02,0.426,0.538,101,104,42,93,51,POR
+22020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.762,27,0.113,1.08,0.5,0.1,0.14,0.1,0.04,0.46,0.575,50,54,20,40,20,POR
+22020,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.583,41,0.091,0.981,0.404,0.075,0.057,0.075,0.019,0.415,0.511,53,52,19,47,28,POR
+22020,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.968,38,0.063,1.4,0.643,0.0,0.067,0.0,0.0,0.6,0.75,15,21,9,14,5,POR
+22020,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.534,64,0.041,0.947,0.375,0.053,0.105,0.053,0.0,0.368,0.531,19,18,6,16,10,POR
+22020,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.932,48,0.054,1.273,0.5,0.091,0.091,0.091,0.091,0.455,0.65,11,14,5,10,5,POR
+22020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.089,70,0.023,0.571,0.167,0.071,0.071,0.071,0.0,0.214,0.25,14,8,2,12,10,POR

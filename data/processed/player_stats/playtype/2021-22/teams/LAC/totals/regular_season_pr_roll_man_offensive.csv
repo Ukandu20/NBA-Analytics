@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.514,76,0.208,1.108,0.583,0.203,0.095,0.196,0.027,0.581,0.583,148,164,63,108,45,LAC
+22021,1628392,Isaiah Hartenstein,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.759,68,0.249,1.262,0.646,0.175,0.087,0.167,0.048,0.627,0.667,126,159,64,99,35,LAC
+22021,201586,Serge Ibaka,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.16,35,0.226,0.87,0.447,0.019,0.111,0.019,0.0,0.407,0.479,54,47,21,47,26,LAC
+22021,201587,Nicolas Batum,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.574,59,0.068,1.133,0.538,0.033,0.133,0.033,0.033,0.467,0.635,30,34,14,26,12,LAC
+22021,1628379,Luke Kennard,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.961,70,0.018,1.462,0.615,0.0,0.0,0.0,0.0,0.615,0.731,13,19,8,13,5,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.793,54,0.017,1.286,0.5,0.0,0.0,0.0,0.0,0.5,0.643,14,18,7,14,7,LAC

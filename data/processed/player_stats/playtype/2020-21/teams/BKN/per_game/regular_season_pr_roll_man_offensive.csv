@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201145,Jeff Green,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.681,68,0.162,1.198,0.524,0.217,0.019,0.226,0.038,0.566,0.577,1.6,1.9,0.6,1.2,0.6,BKN
+22020,201599,DeAndre Jordan,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.87,57,0.211,1.342,0.789,0.228,0.101,0.228,0.051,0.722,0.789,1.4,1.9,0.8,1.0,0.2,BKN
+22020,1628971,Bruce Brown,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.55,65,0.121,1.141,0.582,0.109,0.047,0.109,0.016,0.594,0.582,1.0,1.1,0.5,0.8,0.4,BKN
+22020,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.941,13,0.319,1.405,0.818,0.324,0.189,0.297,0.108,0.703,0.818,2.8,4.0,1.4,1.7,0.3,BKN
+22020,201933,Blake Griffin,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.735,26,0.165,1.225,0.531,0.15,0.1,0.15,0.05,0.525,0.625,1.5,1.9,0.7,1.2,0.6,BKN
+22020,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.357,32,0.149,1.036,0.524,0.286,0.036,0.286,0.071,0.607,0.524,0.9,0.9,0.3,0.7,0.3,BKN
+22020,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.613,69,0.023,1.167,0.533,0.056,0.111,0.056,0.0,0.5,0.667,0.3,0.3,0.1,0.2,0.1,BKN
+22020,1629617,Reggie Perry,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.073,19,0.187,0.706,0.357,0.0,0.176,0.0,0.0,0.294,0.429,0.9,0.6,0.3,0.7,0.5,BKN
+22020,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.785,35,0.015,1.25,0.556,0.167,0.083,0.167,0.0,0.583,0.667,0.3,0.4,0.1,0.3,0.1,BKN
+22020,1629013,Landry Shamet,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.097,61,0.028,0.8,0.25,0.133,0.067,0.133,0.0,0.333,0.292,0.2,0.2,0.0,0.2,0.1,BKN
+22020,200746,LaMarcus Aldridge,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.067,5,0.186,0.727,0.5,0.0,0.273,0.0,0.0,0.364,0.5,2.2,1.6,0.8,1.6,0.8,BKN

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.361,42,0.091,0.8,0.383,0.067,0.067,0.067,0.033,0.367,0.42,90,72,31,81,50,MIN
+22019,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.462,34,0.174,0.837,0.397,0.075,0.138,0.075,0.0,0.388,0.444,80,67,25,63,38,MIN
+22019,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.964,12,0.161,1.289,0.463,0.089,0.022,0.089,0.022,0.489,0.634,45,58,19,41,22,MIN
+22019,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.911,35,0.06,1.122,0.486,0.184,0.102,0.143,0.0,0.531,0.557,49,55,17,35,18,MIN
+22019,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.206,63,0.061,0.698,0.375,0.116,0.14,0.116,0.0,0.349,0.422,43,30,12,32,20,MIN
+22019,203894,Shabazz Napier,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.518,36,0.056,0.864,0.412,0.045,0.182,0.045,0.0,0.364,0.471,22,19,7,17,10,MIN
+22019,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.939,48,0.023,1.143,0.5,0.0,0.143,0.0,0.0,0.429,0.667,14,16,6,12,6,MIN
+22019,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.992,62,0.018,1.5,0.667,0.3,0.1,0.3,0.0,0.7,0.75,10,15,4,6,2,MIN
+22019,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.976,30,0.045,1.4,0.75,0.1,0.1,0.1,0.0,0.7,0.813,10,14,6,8,2,MIN
+22019,201949,James Johnson,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.629,14,0.068,0.917,0.375,0.25,0.083,0.25,0.0,0.5,0.375,12,11,3,8,5,MIN
+22019,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.242,14,0.045,0.75,0.333,0.0,0.0,0.0,0.0,0.333,0.375,12,9,4,12,8,MIN
+22019,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.008,30,0.053,0.333,0.154,0.0,0.133,0.0,0.0,0.133,0.192,15,5,2,13,11,MIN

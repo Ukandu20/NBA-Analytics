@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.819,80,0.121,1.081,0.552,0.155,0.108,0.142,0.047,0.534,0.552,148,160,64,116,52,TOR
+22018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.608,60,0.094,0.963,0.481,0.142,0.119,0.134,0.037,0.478,0.481,134,129,50,104,54,TOR
+22018,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.593,74,0.101,0.954,0.513,0.13,0.157,0.102,0.009,0.481,0.513,108,103,40,78,38,TOR
+22018,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.887,30,0.167,1.105,0.535,0.175,0.088,0.123,0.018,0.561,0.535,57,63,23,43,20,TOR
+22018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.235,26,0.239,0.797,0.435,0.085,0.169,0.085,0.034,0.39,0.435,59,47,20,46,26,TOR
+22018,202328,Greg Monroe,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.064,38,0.224,0.56,0.333,0.12,0.24,0.12,0.02,0.3,0.333,50,28,11,33,22,TOR
+22018,201980,Danny Green,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.677,80,0.022,1.0,0.571,0.0,0.125,0.0,0.0,0.5,0.571,16,16,8,14,6,TOR
+22018,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.089,67,0.041,0.6,0.333,0.1,0.15,0.1,0.0,0.3,0.333,20,12,5,15,10,TOR

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.396,54,0.186,0.89,0.458,0.097,0.103,0.076,0.028,0.448,0.458,2.7,2.4,1.0,2.2,1.2,ATL
+22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.793,66,0.17,1.058,0.5,0.208,0.125,0.192,0.017,0.533,0.5,1.8,1.9,0.6,1.2,0.6,ATL
+22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.308,53,0.036,0.846,0.429,0.077,0.115,0.038,0.0,0.423,0.429,0.5,0.4,0.2,0.4,0.2,ATL
+22021,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.266,74,0.03,0.818,0.438,0.182,0.091,0.182,0.0,0.455,0.438,0.3,0.2,0.1,0.2,0.1,ATL
+22021,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.302,48,0.06,0.842,0.583,0.053,0.316,0.053,0.0,0.421,0.583,0.4,0.3,0.1,0.3,0.1,ATL
+22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.118,63,0.011,0.7,0.333,0.1,0.0,0.1,0.0,0.4,0.333,0.2,0.1,0.0,0.1,0.1,ATL

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.922,68,0.05,0.625,0.25,0.12,0.12,0.12,0.0,0.31,0.25,16,10,3,12,9,DAL
+22018,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.962,38,0.088,0.545,0.25,0.09,0.18,0.05,0.0,0.27,0.28,22,12,4,16,12,DAL
+22018,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.367,29,0.098,0.944,0.47,0.06,0.11,0.06,0.0,0.44,0.53,18,17,7,15,8,DAL
+22018,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.361,36,0.086,0.947,0.38,0.16,0.16,0.16,0.0,0.42,0.46,19,18,5,13,8,DAL
+22018,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.856,32,0.071,0.692,0.32,0.08,0.08,0.08,0.0,0.35,0.32,26,18,7,22,15,DAL
+22018,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.873,49,0.081,0.684,0.32,0.05,0.08,0.05,0.03,0.32,0.34,38,26,11,34,23,DAL
+22018,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.038,51,0.056,1.286,0.58,0.05,0.05,0.05,0.0,0.57,0.66,21,27,11,19,8,DAL
+22018,201599,DeAndre Jordan,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.508,50,0.053,0.878,0.39,0.02,0.05,0.02,0.0,0.39,0.45,41,36,15,38,23,DAL
+22018,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.607,73,0.089,0.83,0.37,0.13,0.11,0.13,0.02,0.4,0.41,53,44,15,41,26,DAL
+22018,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.171,44,0.092,1.098,0.47,0.17,0.02,0.12,0.02,0.54,0.5,41,45,16,34,18,DAL
+22018,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.515,72,0.099,0.873,0.44,0.04,0.1,0.04,0.01,0.39,0.48,71,62,27,62,35,DAL
+22018,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.744,77,0.1,0.778,0.34,0.09,0.07,0.07,0.02,0.36,0.39,81,63,24,70,46,DAL
+22018,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.44,81,0.092,0.91,0.33,0.15,0.05,0.1,0.01,0.41,0.4,78,71,21,63,42,DAL
+22018,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.445,71,0.209,0.908,0.4,0.08,0.05,0.08,0.03,0.4,0.45,120,109,43,108,65,DAL

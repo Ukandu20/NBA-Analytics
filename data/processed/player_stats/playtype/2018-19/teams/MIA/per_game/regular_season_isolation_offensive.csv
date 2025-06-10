@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Isolation,Offensive,0.394,72,0.087,0.804,0.309,0.065,0.037,0.07,0.009,0.336,0.387,1.5,1.2,0.4,1.3,0.9,MIA
+22018,203079,Dion Waiters,1610612748,MIA,Miami Heat,Isolation,Offensive,0.337,44,0.157,0.773,0.368,0.045,0.091,0.03,0.0,0.364,0.414,2.0,1.5,0.6,1.7,1.1,MIA
+22018,201949,James Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.365,55,0.126,0.787,0.333,0.131,0.098,0.11,0.016,0.377,0.365,1.1,0.9,0.3,0.9,0.6,MIA
+22018,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.92,36,0.057,1.097,0.5,0.097,0.065,0.1,0.0,0.484,0.596,0.9,0.9,0.4,0.7,0.4,MIA
+22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Isolation,Offensive,0.948,79,0.024,1.167,0.5,0.222,0.111,0.11,0.0,0.556,0.5,0.2,0.3,0.1,0.2,0.1,MIA
+22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Isolation,Offensive,0.076,66,0.037,0.543,0.3,0.029,0.114,0.03,0.0,0.257,0.317,0.5,0.3,0.1,0.5,0.3,MIA
+22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.127,73,0.024,0.6,0.269,0.067,0.067,0.07,0.0,0.3,0.288,0.4,0.2,0.1,0.4,0.3,MIA
+22018,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Offensive,0.514,82,0.018,0.846,0.455,0.077,0.077,0.08,0.0,0.462,0.455,0.2,0.1,0.1,0.1,0.1,MIA
+22018,203585,Rodney McGruder,1610612748,MIA,Miami Heat,Isolation,Offensive,0.576,66,0.018,0.9,0.375,0.2,0.1,0.1,0.1,0.4,0.438,0.2,0.1,0.0,0.1,0.1,MIA
+22018,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Isolation,Offensive,0.031,72,0.015,0.462,0.273,0.077,0.077,0.08,0.0,0.231,0.273,0.2,0.1,0.0,0.2,0.1,MIA

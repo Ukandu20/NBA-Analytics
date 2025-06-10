@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203944,Julius Randle,1610612752,NYK,New York Knicks,Isolation,Offensive,0.65,77,0.205,0.974,0.446,0.184,0.129,0.165,0.045,0.459,0.493,381,371,124,278,154,NYK
+22022,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Isolation,Offensive,0.843,68,0.132,1.102,0.5,0.122,0.066,0.107,0.041,0.503,0.545,197,217,84,168,84,NYK
+22022,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Isolation,Offensive,0.772,81,0.1,1.053,0.424,0.159,0.044,0.159,0.08,0.451,0.485,113,119,42,99,57,NYK
+22022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Isolation,Offensive,0.634,73,0.065,0.969,0.465,0.173,0.133,0.173,0.031,0.48,0.493,98,95,33,71,38,NYK
+22022,1630540,Miles McBride,1610612752,NYK,New York Knicks,Isolation,Offensive,0.106,64,0.054,0.643,0.286,0.0,0.0,0.0,0.0,0.286,0.321,14,9,4,14,10,NYK

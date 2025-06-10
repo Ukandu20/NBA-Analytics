@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.869,78,0.509,1.203,0.439,0.024,0.028,0.024,0.01,0.434,0.608,290,349,122,278,156,PHI
+22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.861,60,0.267,1.201,0.464,0.062,0.042,0.062,0.021,0.464,0.606,289,347,123,265,142,PHI
+22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.677,74,0.316,1.093,0.419,0.026,0.054,0.026,0.006,0.407,0.564,312,341,121,289,168,PHI
+22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.732,77,0.359,1.12,0.402,0.032,0.039,0.032,0.007,0.401,0.568,284,318,107,266,159,PHI
+22022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.883,66,0.112,1.218,0.517,0.161,0.076,0.161,0.062,0.521,0.603,211,257,90,174,84,PHI
+22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.777,58,0.128,1.146,0.425,0.033,0.079,0.033,0.0,0.411,0.608,151,173,57,134,77,PHI
+22022,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.463,76,0.245,1.0,0.387,0.044,0.063,0.044,0.006,0.386,0.511,158,158,55,142,87,PHI
+22022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.906,75,0.452,1.236,0.416,0.008,0.008,0.008,0.0,0.417,0.616,127,157,52,125,73,PHI
+22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.603,56,0.408,1.059,0.416,0.049,0.078,0.049,0.0,0.412,0.551,102,108,37,89,52,PHI
+22022,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.36,49,0.527,0.956,0.344,0.029,0.029,0.029,0.0,0.353,0.484,68,65,22,64,42,PHI
+22022,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.385,25,0.292,0.968,0.379,0.065,0.032,0.065,0.032,0.387,0.5,31,30,11,29,18,PHI
+22022,1629667,Jalen McDaniels,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.409,24,0.282,0.976,0.394,0.119,0.095,0.119,0.0,0.405,0.515,42,41,13,33,20,PHI
+22022,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.027,69,0.058,0.563,0.333,0.0,0.25,0.0,0.0,0.25,0.375,16,9,4,12,8,PHI

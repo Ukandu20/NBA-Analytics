@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Cut,Offensive,0.767,82,0.172,1.415,0.719,0.234,0.049,0.234,0.098,0.698,0.719,205,290,120,167,47,LAC
+22018,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Cut,Offensive,0.668,26,0.222,1.357,0.66,0.161,0.054,0.161,0.054,0.661,0.66,56,76,31,47,16,LAC
+22018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Cut,Offensive,0.783,68,0.039,1.422,0.629,0.289,0.022,0.244,0.089,0.689,0.629,45,64,22,35,13,LAC
+22018,202699,Tobias Harris,1610612746,LAC,LA Clippers,Cut,Offensive,0.863,55,0.041,1.465,0.75,0.163,0.093,0.14,0.093,0.698,0.75,43,63,27,36,9,LAC
+22018,101162,Marcin Gortat,1610612746,LAC,LA Clippers,Cut,Offensive,0.239,47,0.194,1.14,0.591,0.08,0.04,0.08,0.0,0.6,0.591,50,57,26,44,18,LAC
+22018,202340,Avery Bradley,1610612746,LAC,LA Clippers,Cut,Offensive,0.08,49,0.093,1.0,0.553,0.065,0.13,0.065,0.022,0.5,0.553,46,46,21,38,17,LAC
+22018,1626246,Boban Marjanović,1610612746,LAC,LA Clippers,Cut,Offensive,0.434,36,0.165,1.25,0.64,0.361,0.028,0.361,0.083,0.694,0.64,36,45,16,25,9,LAC
+22018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Cut,Offensive,0.116,62,0.125,1.029,0.5,0.114,0.057,0.114,0.029,0.514,0.5,35,36,15,30,15,LAC
+22018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,Cut,Offensive,0.612,82,0.025,1.333,0.714,0.042,0.083,0.0,0.0,0.667,0.714,24,32,15,21,6,LAC
+22018,101150,Lou Williams,1610612746,LAC,LA Clippers,Cut,Offensive,0.499,75,0.009,1.286,0.7,0.143,0.143,0.143,0.0,0.643,0.7,14,18,7,10,3,LAC
+22018,203118,Mike Scott,1610612746,LAC,LA Clippers,Cut,Offensive,0.005,52,0.072,0.632,0.235,0.105,0.0,0.105,0.0,0.316,0.235,19,12,4,17,13,LAC
+22018,203210,JaMychal Green,1610612746,LAC,LA Clippers,Cut,Offensive,0.048,24,0.056,0.909,0.667,0.182,0.273,0.182,0.0,0.545,0.667,11,10,4,6,2,LAC
+22018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Cut,Offensive,0.019,78,0.016,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,10,8,4,10,6,LAC

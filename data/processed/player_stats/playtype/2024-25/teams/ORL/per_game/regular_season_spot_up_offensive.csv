@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.622,77,0.353,1.081,0.39,0.04,0.031,0.036,0.013,0.395,0.536,2.9,3.1,1.1,2.7,1.7,ORL
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.306,60,0.149,0.949,0.35,0.037,0.019,0.037,0.0,0.367,0.466,3.6,3.4,1.2,3.4,2.2,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.51,74,0.339,1.031,0.377,0.016,0.031,0.016,0.005,0.372,0.525,2.6,2.7,0.9,2.5,1.5,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.288,78,0.222,0.936,0.369,0.027,0.048,0.027,0.011,0.362,0.483,2.4,2.3,0.8,2.3,1.4,ORL
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.5,67,0.208,1.028,0.372,0.041,0.034,0.041,0.021,0.372,0.522,2.2,2.2,0.8,2.0,1.3,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.365,46,0.116,0.971,0.373,0.079,0.036,0.079,0.014,0.4,0.484,3.0,3.0,1.0,2.7,1.7,ORL
+22024,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.878,58,0.502,1.226,0.42,0.038,0.028,0.038,0.009,0.425,0.615,1.8,2.2,0.7,1.7,1.0,ORL
+22024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.127,68,0.206,0.836,0.294,0.06,0.03,0.06,0.03,0.306,0.401,2.0,1.6,0.5,1.9,1.3,ORL
+22024,1641724,Jett Howard,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.655,60,0.313,1.094,0.389,0.021,0.042,0.01,0.0,0.385,0.561,1.6,1.8,0.6,1.5,0.9,ORL
+22024,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.146,35,0.186,0.846,0.3,0.017,0.051,0.017,0.009,0.291,0.436,3.3,2.8,0.9,3.1,2.2,ORL
+22024,203914,Gary Harris,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.79,48,0.513,1.165,0.4,0.025,0.025,0.013,0.0,0.405,0.593,1.6,1.9,0.6,1.6,0.9,ORL
+22024,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.806,30,0.217,1.173,0.484,0.067,0.093,0.067,0.013,0.467,0.633,2.5,2.9,1.0,2.1,1.1,ORL
+22024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.404,50,0.419,0.987,0.356,0.013,0.013,0.013,0.0,0.36,0.5,1.5,1.5,0.5,1.5,0.9,ORL
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.644,31,0.257,1.087,0.432,0.0,0.043,0.0,0.0,0.413,0.568,1.5,1.6,0.6,1.4,0.8,ORL
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.0,70,0.068,0.375,0.172,0.031,0.063,0.031,0.0,0.188,0.19,0.5,0.2,0.1,0.4,0.3,ORL

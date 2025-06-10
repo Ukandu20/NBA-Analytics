@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630184,Kira Lewis Jr.,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.988,22,0.191,0.462,0.17,0.15,0.38,0.15,0.0,0.23,0.17,13,6,1,6,5,NOP
+22022,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.639,29,0.07,0.864,0.368,0.09,0.045,0.09,0.0,0.409,0.395,22,19,7,19,12,NOP
+22022,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.802,65,0.05,0.8,0.389,0.12,0.16,0.08,0.0,0.36,0.444,25,20,7,18,11,NOP
+22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.143,47,0.09,1.048,0.5,0.05,0.143,0.05,0.05,0.429,0.583,21,22,9,18,9,NOP
+22022,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.912,53,0.28,0.703,0.452,0.05,0.313,0.05,0.02,0.328,0.476,64,45,19,42,23,NOP
+22022,1626196,Josh Richardson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.082,23,0.29,1.115,0.526,0.19,0.154,0.19,0.08,0.5,0.605,52,58,20,38,18,NOP
+22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.612,45,0.2,0.873,0.426,0.06,0.19,0.06,0.03,0.367,0.5,79,69,26,61,35,NOP
+22022,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.853,59,0.36,0.765,0.413,0.08,0.211,0.08,0.02,0.355,0.455,166,127,50,121,71,NOP
+22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.331,79,0.19,0.964,0.485,0.12,0.167,0.13,0.05,0.435,0.529,138,133,50,103,53,NOP
+22022,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.807,61,0.34,0.799,0.37,0.09,0.126,0.09,0.01,0.368,0.42,174,139,51,138,87,NOP
+22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.787,75,0.25,0.803,0.384,0.12,0.188,0.11,0.01,0.376,0.434,213,171,58,151,93,NOP
+22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.254,77,0.32,0.995,0.5,0.14,0.181,0.13,0.03,0.461,0.551,204,203,73,146,73,NOP
+22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.537,66,0.36,0.9,0.433,0.13,0.15,0.11,0.03,0.421,0.481,280,252,91,210,119,NOP

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Cut,Offensive,0.738,82,0.173,1.414,0.72,0.178,0.051,0.178,0.07,0.707,0.72,157,222,95,132,37,HOU
+22022,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Cut,Offensive,0.202,75,0.123,1.124,0.614,0.088,0.109,0.088,0.029,0.569,0.614,137,154,70,114,44,HOU
+22022,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Cut,Offensive,0.069,82,0.102,0.976,0.477,0.179,0.06,0.179,0.012,0.524,0.477,84,82,31,65,34,HOU
+22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Cut,Offensive,0.11,79,0.065,1.028,0.5,0.169,0.042,0.155,0.028,0.549,0.5,71,73,29,58,29,HOU
+22022,1630586,Usman Garuba,1610612745,HOU,Houston Rockets,Cut,Offensive,0.058,75,0.163,0.95,0.529,0.1,0.075,0.1,0.025,0.475,0.529,40,38,18,34,16,HOU
+22022,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Cut,Offensive,0.407,76,0.016,1.25,0.6,0.286,0.036,0.25,0.036,0.679,0.6,28,35,12,20,8,HOU
+22022,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Cut,Offensive,0.064,31,0.088,0.963,0.5,0.148,0.111,0.148,0.0,0.481,0.5,27,26,10,20,10,HOU
+22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Cut,Offensive,0.139,59,0.015,1.056,0.529,0.056,0.0,0.056,0.0,0.556,0.529,18,19,9,17,8,HOU
+22022,1628981,Bruno Fernando,1610612745,HOU,Houston Rockets,Cut,Offensive,0.014,31,0.172,0.783,0.267,0.261,0.087,0.261,0.0,0.435,0.267,23,18,4,15,11,HOU
+22022,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Cut,Offensive,0.292,64,0.024,1.2,0.556,0.1,0.0,0.1,0.0,0.6,0.556,10,12,5,9,4,HOU

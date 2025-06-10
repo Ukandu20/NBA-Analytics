@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.745,77,0.365,0.929,0.459,0.134,0.108,0.12,0.034,0.462,0.459,619,575,225,490,265,SAS
+22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.775,82,0.34,0.938,0.431,0.051,0.154,0.04,0.0,0.393,0.521,272,255,93,216,123,SAS
+22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.638,67,0.347,0.88,0.476,0.062,0.158,0.058,0.012,0.427,0.497,241,212,91,191,100,SAS
+22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.596,82,0.267,0.867,0.413,0.042,0.104,0.033,0.013,0.388,0.459,240,208,86,208,122,SAS
+22018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.769,79,0.156,0.937,0.394,0.071,0.103,0.063,0.0,0.397,0.481,126,118,41,104,63,SAS
+22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.839,69,0.12,0.973,0.523,0.099,0.135,0.09,0.036,0.477,0.54,111,108,46,88,42,SAS
+22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.447,76,0.019,0.8,0.429,0.0,0.3,0.0,0.0,0.3,0.571,10,8,3,7,4,SAS

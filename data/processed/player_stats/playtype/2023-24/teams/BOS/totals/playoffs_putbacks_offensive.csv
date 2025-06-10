@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.621,13,0.353,1.167,0.583,0.0,0.0,0.0,0.0,0.583,0.583,12,14,7,12,5,BOS
+42023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.393,19,0.03,1.0,0.556,0.154,0.154,0.154,0.0,0.538,0.556,13,13,5,9,4,BOS
+42023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.552,19,0.023,1.091,0.556,0.091,0.091,0.091,0.0,0.545,0.556,11,12,5,9,4,BOS
+42023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.586,19,0.043,1.1,0.556,0.0,0.1,0.0,0.0,0.5,0.611,10,11,5,9,4,BOS
+42023,201143,Al Horford,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.207,19,0.084,0.769,0.444,0.077,0.231,0.077,0.0,0.385,0.444,13,10,4,9,5,BOS

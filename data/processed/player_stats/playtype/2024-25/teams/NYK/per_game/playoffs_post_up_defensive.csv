@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Postup,Defensive,0.889,18,0.096,0.688,0.357,0.188,0.063,0.188,0.125,0.375,0.357,0.9,0.6,0.3,0.8,0.5,NYK
+42024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Postup,Defensive,0.704,18,0.059,0.778,0.429,0.056,0.167,0.056,0.0,0.389,0.429,1.0,0.8,0.3,0.8,0.4,NYK
+42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Postup,Defensive,0.111,18,0.111,1.038,0.55,0.154,0.115,0.154,0.038,0.538,0.55,1.4,1.5,0.6,1.1,0.5,NYK

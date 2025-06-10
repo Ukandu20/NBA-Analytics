@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.699,21,0.078,0.833,0.4,0.08,0.17,0.08,0.08,0.33,0.45,0.6,0.5,0.2,0.5,0.3,MIA
+22019,203109,Jae Crowder,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.654,20,0.07,0.867,0.357,0.07,0.07,0.07,0.07,0.33,0.429,0.8,0.7,0.3,0.7,0.5,MIA
+22019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.533,67,0.034,0.944,0.333,0.17,0.06,0.17,0.06,0.39,0.433,0.3,0.3,0.1,0.2,0.1,MIA
+22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.86,59,0.067,0.697,0.233,0.03,0.06,0.03,0.0,0.24,0.333,0.6,0.4,0.1,0.5,0.4,MIA
+22019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.882,59,0.086,0.68,0.262,0.08,0.1,0.08,0.02,0.28,0.333,0.8,0.6,0.2,0.7,0.5,MIA
+22019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.916,73,0.078,0.61,0.241,0.02,0.07,0.02,0.0,0.24,0.324,0.8,0.5,0.2,0.7,0.6,MIA
+22019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.313,72,0.035,1.086,0.452,0.03,0.09,0.03,0.0,0.43,0.581,0.5,0.5,0.2,0.4,0.2,MIA
+22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.613,55,0.096,0.891,0.375,0.07,0.07,0.07,0.0,0.39,0.45,0.8,0.7,0.3,0.7,0.5,MIA
+22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.381,67,0.069,1.04,0.422,0.04,0.06,0.04,0.0,0.42,0.544,0.7,0.8,0.3,0.7,0.4,MIA
+22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.511,58,0.097,0.956,0.393,0.01,0.09,0.01,0.0,0.37,0.516,1.2,1.1,0.4,1.1,0.6,MIA

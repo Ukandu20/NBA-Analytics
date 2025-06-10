@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1627884,Derrick Jones Jr.,1610612746,LAC,LA Clippers,Spotup,Defensive,0.992,7,0.214,0.25,0.091,0.0,0.083,0.0,0.0,0.083,0.136,12,3,1,11,10,LAC
+42024,203992,Bogdan Bogdanović,1610612746,LAC,LA Clippers,Spotup,Defensive,0.644,7,0.25,0.9,0.333,0.0,0.1,0.0,0.0,0.3,0.5,10,9,3,9,6,LAC
+42024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Spotup,Defensive,0.814,7,0.429,0.81,0.286,0.0,0.0,0.0,0.0,0.286,0.405,21,17,6,21,15,LAC
+42024,201935,James Harden,1610612746,LAC,LA Clippers,Spotup,Defensive,0.551,7,0.303,0.957,0.368,0.043,0.13,0.043,0.0,0.348,0.526,23,22,7,19,12,LAC
+42024,1626181,Norman Powell,1610612746,LAC,LA Clippers,Spotup,Defensive,0.0,7,0.324,1.833,0.667,0.0,0.0,0.0,0.0,0.667,0.917,12,22,8,12,4,LAC
+42024,1627739,Kris Dunn,1610612746,LAC,LA Clippers,Spotup,Defensive,0.009,7,0.229,1.625,0.571,0.063,0.063,0.063,0.0,0.563,0.821,16,26,8,14,6,LAC
+42024,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Spotup,Defensive,0.381,7,0.223,1.065,0.414,0.0,0.065,0.0,0.0,0.387,0.569,31,33,12,29,17,LAC

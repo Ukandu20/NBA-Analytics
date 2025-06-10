@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.682,72,0.155,0.946,0.429,0.171,0.096,0.17,0.054,0.454,0.454,280,265,94,219,125,MIL
+22018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.913,77,0.158,1.085,0.495,0.076,0.08,0.08,0.013,0.482,0.568,224,243,95,192,97,MIL
+22018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.688,78,0.077,0.947,0.463,0.053,0.105,0.05,0.0,0.432,0.525,95,90,37,80,43,MIL
+22018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.688,64,0.084,0.947,0.439,0.132,0.132,0.11,0.013,0.447,0.482,76,72,25,57,32,MIL
+22018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.938,81,0.03,1.143,0.583,0.071,0.107,0.07,0.036,0.536,0.625,28,32,14,24,10,MIL
+22018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.522,47,0.086,0.857,0.417,0.071,0.071,0.07,0.0,0.429,0.458,28,24,10,24,14,MIL
+22018,204025,Tim Frazier,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.127,12,0.115,0.6,0.222,0.1,0.0,0.0,0.0,0.3,0.222,10,6,2,9,7,MIL
+22018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.08,61,0.028,0.545,0.222,0.091,0.091,0.0,0.0,0.273,0.222,11,6,2,9,7,MIL
+22018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.014,58,0.029,0.364,0.143,0.091,0.273,0.09,0.0,0.182,0.214,11,4,1,7,6,MIL

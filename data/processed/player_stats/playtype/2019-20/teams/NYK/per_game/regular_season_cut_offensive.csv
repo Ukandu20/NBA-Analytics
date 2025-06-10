@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Cut,Offensive,0.747,61,0.202,1.411,0.753,0.156,0.078,0.156,0.044,0.7,0.753,1.5,2.1,0.9,1.2,0.3,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,Cut,Offensive,0.852,64,0.056,1.493,0.75,0.173,0.067,0.173,0.093,0.72,0.75,1.2,1.8,0.8,1.0,0.3,NYK
+22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,Cut,Offensive,0.782,62,0.17,1.426,0.741,0.115,0.066,0.115,0.066,0.705,0.741,1.0,1.4,0.6,0.9,0.2,NYK
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Cut,Offensive,0.213,56,0.042,1.098,0.545,0.22,0.049,0.195,0.073,0.537,0.545,0.7,0.8,0.3,0.6,0.3,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,Cut,Offensive,0.119,66,0.046,1.031,0.583,0.094,0.156,0.094,0.0,0.531,0.583,0.5,0.5,0.2,0.4,0.2,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Cut,Offensive,0.88,45,0.035,1.5,0.789,0.0,0.05,0.0,0.0,0.75,0.789,0.4,0.7,0.3,0.4,0.1,NYK
+22019,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,Cut,Offensive,0.757,29,0.068,1.412,0.714,0.176,0.118,0.176,0.118,0.647,0.714,0.6,0.8,0.3,0.5,0.1,NYK
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Cut,Offensive,0.032,65,0.045,0.909,0.5,0.091,0.091,0.091,0.0,0.455,0.5,0.3,0.3,0.1,0.3,0.1,NYK
+22019,203090,Maurice Harkless,1610612752,NYK,New York Knicks,Cut,Offensive,0.965,12,0.131,1.636,0.875,0.182,0.091,0.182,0.0,0.818,0.875,0.9,1.5,0.6,0.7,0.1,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,Cut,Offensive,0.141,43,0.02,1.063,0.545,0.188,0.125,0.188,0.0,0.563,0.545,0.4,0.4,0.1,0.3,0.1,NYK

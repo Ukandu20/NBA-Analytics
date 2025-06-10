@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.545,74,0.205,0.892,0.385,0.113,0.118,0.096,0.027,0.388,0.458,5.6,5.0,1.7,4.5,2.7,BOS
+22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.818,67,0.33,1.01,0.437,0.103,0.103,0.09,0.02,0.435,0.522,4.5,4.5,1.6,3.7,2.1,BOS
+22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.769,67,0.168,0.983,0.47,0.114,0.159,0.107,0.017,0.443,0.537,4.3,4.2,1.5,3.2,1.7,BOS
+22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.683,82,0.235,0.945,0.435,0.137,0.16,0.132,0.032,0.425,0.503,2.7,2.5,0.9,2.0,1.1,BOS
+22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.84,61,0.184,1.02,0.51,0.116,0.197,0.102,0.02,0.456,0.587,2.4,2.5,0.9,1.7,0.8,BOS
+22022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.717,48,0.174,0.961,0.462,0.059,0.176,0.059,0.0,0.412,0.577,1.1,1.0,0.4,0.8,0.4,BOS

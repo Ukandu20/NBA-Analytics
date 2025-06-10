@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,2,0.333,1.333,0.67,0.0,0.0,0.0,0.0,0.667,0.67,3,4,2,3,1,GSW
+42020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,2,0.105,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,GSW
+42020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,2,0.045,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,GSW
+42020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,2,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,GSW
+42020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,2,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,GSW

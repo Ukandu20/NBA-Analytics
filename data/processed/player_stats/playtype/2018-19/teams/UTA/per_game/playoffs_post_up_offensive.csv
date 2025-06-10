@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,5,0.115,1.5,0.75,0.333,0.0,0.333,0.0,0.833,0.75,1.2,1.8,0.6,0.8,0.2,UTA
+42018,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,5,0.04,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,UTA
+42018,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,5,0.042,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,UTA
+42018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,5,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,UTA

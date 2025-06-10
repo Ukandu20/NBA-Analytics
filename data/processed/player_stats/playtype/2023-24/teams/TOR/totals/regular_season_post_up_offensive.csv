@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.656,39,0.134,1.047,0.523,0.187,0.056,0.15,0.047,0.551,0.523,107,112,45,86,41,TOR
+22023,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.424,60,0.096,0.94,0.439,0.19,0.129,0.181,0.026,0.466,0.439,116,109,36,82,46,TOR
+22023,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.331,50,0.082,0.902,0.531,0.049,0.195,0.049,0.024,0.439,0.531,41,37,17,32,15,TOR
+22023,203482,Kelly Olynyk,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.954,28,0.08,1.286,0.684,0.214,0.179,0.179,0.071,0.607,0.684,28,36,13,19,6,TOR
+22023,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.106,32,0.034,0.727,0.417,0.227,0.227,0.227,0.0,0.455,0.417,22,16,5,12,7,TOR

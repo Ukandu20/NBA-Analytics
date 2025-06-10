@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.424,22,0.348,0.882,0.394,0.154,0.082,0.159,0.036,0.421,0.423,195,172,61,155,94,MIA
+42022,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.373,22,0.471,0.847,0.421,0.022,0.146,0.029,0.007,0.365,0.487,137,116,48,114,66,MIA
+42022,200768,Kyle Lowry,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.593,23,0.428,0.98,0.461,0.071,0.173,0.071,0.02,0.408,0.546,98,96,35,76,41,MIA
+42022,1629622,Max Strus,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.729,23,0.122,1.04,0.44,0.0,0.0,0.0,0.0,0.44,0.52,25,26,11,25,14,MIA
+42022,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.879,23,0.122,1.091,0.444,0.045,0.136,0.045,0.0,0.409,0.611,22,24,8,18,10,MIA
+42022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.797,23,0.033,1.067,0.455,0.267,0.067,0.267,0.067,0.533,0.455,15,16,5,11,6,MIA
+42022,203506,Victor Oladipo,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.879,2,0.478,1.091,0.625,0.182,0.091,0.182,0.0,0.545,0.625,11,12,5,8,3,MIA
+42022,1628997,Caleb Martin,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.034,23,0.078,0.579,0.25,0.053,0.105,0.053,0.0,0.263,0.281,19,11,4,16,12,MIA
+42022,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,1,0.5,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,MIA
+42022,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,18,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIA
+42022,1631107,Nikola Jović,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,7,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42022,201567,Kevin Love,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,20,0.015,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,MIA

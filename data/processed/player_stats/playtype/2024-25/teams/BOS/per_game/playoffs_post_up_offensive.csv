@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.5,8,0.094,0.857,0.5,0.048,0.095,0.048,0.0,0.429,0.5,2.6,2.3,1.1,2.3,1.1,BOS
+42024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,11,0.303,0.485,0.136,0.242,0.091,0.182,0.0,0.303,0.136,3.0,1.5,0.3,2.0,1.7,BOS
+42024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.3,11,0.072,0.789,0.467,0.105,0.158,0.105,0.053,0.421,0.467,1.7,1.4,0.6,1.4,0.7,BOS

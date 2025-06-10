@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.824,67,0.051,1.065,0.448,0.117,0.039,0.091,0.026,0.481,0.507,1.1,1.2,0.4,1.0,0.6,CHI
+22021,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.893,76,0.034,1.164,0.556,0.149,0.075,0.134,0.03,0.567,0.556,0.9,1.0,0.4,0.7,0.3,CHI
+22021,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.958,77,0.021,1.286,0.667,0.071,0.071,0.071,0.0,0.643,0.667,0.2,0.2,0.1,0.2,0.1,CHI
+22021,1629632,Coby White,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.339,61,0.027,0.8,0.333,0.05,0.05,0.05,0.0,0.35,0.389,0.3,0.3,0.1,0.3,0.2,CHI
+22021,1629744,Matt Thomas,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.484,40,0.1,0.867,0.333,0.0,0.0,0.0,0.0,0.333,0.433,0.4,0.3,0.1,0.4,0.3,CHI
+22021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.163,73,0.01,0.643,0.231,0.071,0.0,0.071,0.0,0.286,0.269,0.2,0.1,0.0,0.2,0.1,CHI
+22021,1628366,Lonzo Ball,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.042,35,0.053,0.36,0.143,0.0,0.16,0.0,0.0,0.12,0.214,0.7,0.3,0.1,0.6,0.5,CHI
+22021,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.101,41,0.032,0.545,0.25,0.0,0.273,0.0,0.0,0.182,0.375,0.3,0.1,0.0,0.2,0.1,CHI

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.724,57,0.098,1.018,0.443,0.151,0.145,0.145,0.03,0.446,0.537,166,169,54,122,68,WAS
+22019,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.488,55,0.067,0.896,0.35,0.063,0.104,0.063,0.0,0.354,0.463,48,43,14,40,26,WAS
+22019,1628972,Troy Brown Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.41,69,0.047,0.861,0.452,0.083,0.111,0.083,0.056,0.417,0.468,36,31,14,31,17,WAS
+22019,202738,Isaiah Thomas,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.366,40,0.065,0.829,0.414,0.029,0.143,0.0,0.0,0.371,0.466,35,29,12,29,17,WAS
+22019,203895,Jordan McRae,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.767,29,0.056,1.045,0.429,0.227,0.136,0.182,0.0,0.5,0.464,22,23,6,14,8,WAS
+22019,202397,Ish Smith,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.687,68,0.022,1.0,0.529,0.0,0.056,0.0,0.0,0.5,0.529,18,18,9,17,8,WAS
+22019,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.961,18,0.158,1.333,0.444,0.167,0.167,0.167,0.083,0.417,0.667,12,16,4,9,5,WAS
+22019,1629010,Jerome Robinson,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.202,21,0.066,0.714,0.222,0.286,0.143,0.286,0.071,0.357,0.222,14,10,2,9,7,WAS

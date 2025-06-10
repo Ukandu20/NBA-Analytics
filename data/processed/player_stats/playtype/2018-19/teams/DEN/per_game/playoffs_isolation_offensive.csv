@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,1.0,14,0.047,1.357,0.571,0.0,0.0,0.0,0.0,0.571,0.679,1.0,1.4,0.6,1.0,0.4,DEN
+42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.568,14,0.085,0.941,0.429,0.176,0.059,0.176,0.059,0.471,0.429,1.0,1.1,0.4,1.0,0.6,DEN
+42018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.079,14,0.045,0.6,0.267,0.0,0.0,0.0,0.0,0.267,0.3,1.0,0.6,0.3,1.1,0.8,DEN
+42018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.0,14,0.018,3.0,1.0,0.5,0.0,0.5,0.5,1.0,1.25,0.0,0.4,0.1,0.1,0.0,DEN
+42018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.0,14,0.011,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.0,0.0,0.3,0.1,0.1,0.0,DEN
+42018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.0,14,0.021,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.3,0.1,0.1,0.0,DEN
+42018,203115,Will Barton,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.0,14,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,DEN

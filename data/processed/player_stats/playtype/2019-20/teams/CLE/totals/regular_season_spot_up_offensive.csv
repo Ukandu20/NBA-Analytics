@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.817,56,0.196,1.15,0.399,0.048,0.027,0.048,0.0,0.417,0.572,187,215,69,173,104,CLE
+22019,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.742,65,0.134,1.104,0.42,0.06,0.06,0.049,0.011,0.418,0.574,182,201,68,162,94,CLE
+22019,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.452,59,0.188,0.945,0.38,0.0,0.091,0.0,0.0,0.345,0.52,165,156,57,150,93,CLE
+22019,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.648,56,0.247,1.046,0.388,0.023,0.061,0.023,0.008,0.374,0.55,131,137,47,121,74,CLE
+22019,1629645,Kevin Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.795,50,0.183,1.137,0.429,0.039,0.069,0.039,0.0,0.422,0.599,102,116,39,91,52,CLE
+22019,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.883,29,0.185,1.205,0.431,0.068,0.068,0.068,0.027,0.425,0.615,73,88,28,65,37,CLE
+22019,1628035,Alfonzo McKinnie,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.143,40,0.382,0.728,0.311,0.025,0.074,0.025,0.012,0.296,0.392,81,59,23,74,51,CLE
+22019,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.203,57,0.239,0.783,0.273,0.033,0.05,0.033,0.0,0.283,0.4,60,47,15,55,40,CLE
+22019,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.111,57,0.081,0.7,0.347,0.05,0.133,0.033,0.0,0.333,0.388,60,42,17,49,32,CLE
+22019,203957,Danté Exum,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.316,24,0.244,0.879,0.385,0.061,0.152,0.061,0.0,0.364,0.519,33,29,10,26,16,CLE
+22019,202688,Brandon Knight,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.135,16,0.274,0.724,0.269,0.0,0.103,0.0,0.0,0.241,0.404,29,21,7,26,19,CLE
+22019,203089,John Henson,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.055,29,0.16,0.56,0.217,0.0,0.08,0.0,0.0,0.2,0.304,25,14,5,23,18,CLE

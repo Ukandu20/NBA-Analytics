@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.031,1,0.571,0.438,0.231,0.063,0.125,0.063,0.0,0.25,0.231,16.0,7.0,3.0,13.0,10.0,SAS
+42020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,1,0.1,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,SAS
+42020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,1,0.333,0.286,0.167,0.0,0.143,0.0,0.0,0.143,0.167,7.0,2.0,1.0,6.0,5.0,SAS
+42020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,1,0.286,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,SAS

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.455,82,0.06,0.972,0.441,0.097,0.111,0.097,0.028,0.431,0.525,0.9,0.9,0.3,0.7,0.4,OKC
+22023,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.804,78,0.083,1.174,0.429,0.065,0.043,0.065,0.022,0.435,0.571,0.6,0.7,0.2,0.5,0.3,OKC
+22023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.784,71,0.016,1.158,0.5,0.053,0.0,0.053,0.0,0.526,0.583,0.3,0.3,0.1,0.3,0.1,OKC
+22023,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.655,75,0.01,1.1,0.438,0.2,0.05,0.2,0.05,0.5,0.469,0.3,0.3,0.1,0.2,0.1,OKC
+22023,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.697,79,0.023,1.111,0.467,0.111,0.056,0.111,0.0,0.5,0.567,0.2,0.3,0.1,0.2,0.1,OKC
+22023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,82,0.026,0.385,0.167,0.0,0.077,0.0,0.0,0.154,0.208,0.2,0.1,0.0,0.1,0.1,OKC

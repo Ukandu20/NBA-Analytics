@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,2,0.273,0.667,0.0,0.33,0.0,0.0,0.0,0.33,0.0,3,2,0,2,2,BOS
+42018,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,4,0.286,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,BOS
+42018,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,6,0.231,1.333,0.5,0.67,0.0,0.67,0.33,0.67,0.5,3,4,1,2,1,BOS
+42018,201143,Al Horford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.838,9,0.068,0.7,0.6,0.2,0.4,0.1,0.1,0.3,0.6,10,7,3,5,2,BOS
+42018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,9,0.132,1.333,0.71,0.11,0.22,0.11,0.11,0.56,0.79,9,12,5,7,2,BOS
+42018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.986,9,0.25,0.545,0.32,0.09,0.09,0.09,0.05,0.27,0.32,22,12,6,19,13,BOS
+42018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.96,9,0.356,0.619,0.29,0.1,0.24,0.1,0.0,0.29,0.32,21,13,4,14,10,BOS
+42018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.813,9,0.242,0.708,0.5,0.04,0.29,0.04,0.0,0.38,0.5,24,17,8,16,8,BOS
+42018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.067,9,0.203,1.25,0.5,0.06,0.06,0.06,0.0,0.5,0.64,16,20,7,14,7,BOS
+42018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.947,9,0.398,0.622,0.34,0.03,0.19,0.03,0.0,0.3,0.36,37,23,10,29,19,BOS

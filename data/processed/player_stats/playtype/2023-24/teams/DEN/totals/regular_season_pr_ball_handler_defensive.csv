@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203200,Justin Holiday,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.47,53,0.319,0.922,0.458,0.1,0.156,0.1,0.056,0.411,0.493,90,83,33,72,39,DEN
+22023,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.84,80,0.341,0.797,0.404,0.059,0.15,0.048,0.016,0.364,0.45,187,149,61,151,90,DEN
+22023,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.513,81,0.279,0.913,0.43,0.131,0.175,0.12,0.044,0.404,0.478,183,167,58,135,77,DEN
+22023,202704,Reggie Jackson,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.487,82,0.33,0.919,0.43,0.09,0.142,0.081,0.014,0.408,0.497,211,194,71,165,94,DEN
+22023,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.553,59,0.301,0.905,0.441,0.1,0.145,0.091,0.018,0.423,0.485,220,199,75,170,95,DEN
+22023,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.635,80,0.364,0.877,0.422,0.081,0.123,0.076,0.017,0.398,0.477,236,207,81,192,111,DEN
+22023,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.807,73,0.33,0.815,0.398,0.073,0.15,0.073,0.015,0.369,0.442,260,212,82,206,124,DEN
+22023,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.805,76,0.401,0.816,0.404,0.076,0.174,0.076,0.024,0.358,0.457,288,235,90,223,133,DEN
+22023,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.838,76,0.603,0.798,0.421,0.074,0.182,0.069,0.021,0.369,0.454,707,564,228,541,313,DEN

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.897,2,0.458,1.455,0.545,0.0,0.0,0.0,0.0,0.545,0.727,5.5,8.0,3.0,5.5,2.5,IND
+42020,1629103,Kelan Martin,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.276,1.75,0.625,0.0,0.0,0.0,0.0,0.625,0.875,4.0,7.0,2.5,4.0,1.5,IND
+42020,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.108,2.0,0.75,0.0,0.0,0.0,0.0,0.75,1.0,2.0,4.0,1.5,2.0,0.5,IND
+42020,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.083,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,1.0,3.0,1.0,1.0,0.0,IND
+42020,203200,Justin Holiday,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.2,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2.0,3.0,1.0,2.0,1.0,IND
+42020,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.122,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,2.5,3.0,1.5,2.5,1.0,IND
+42020,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.364,1.25,0.5,0.25,0.25,0.25,0.0,0.5,0.75,2.0,2.5,0.5,1.0,0.5,IND
+42020,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.214,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,1.5,1.5,0.5,1.5,1.0,IND
+42020,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,IND

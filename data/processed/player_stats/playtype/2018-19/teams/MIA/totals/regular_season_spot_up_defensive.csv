@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.035,15,0.468,1.318,0.476,0.05,0.05,0.05,0.05,0.45,0.667,22,29,10,21,11,MIA
+22018,201961,Wayne Ellington,1610612748,MIA,Miami Heat,Spotup,Defensive,0.112,25,0.281,1.191,0.442,0.09,0.0,0.09,0.0,0.47,0.593,47,56,19,43,24,MIA
+22018,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Spotup,Defensive,0.848,72,0.129,0.857,0.347,0.06,0.07,0.06,0.01,0.35,0.439,112,96,34,98,64,MIA
+22018,201609,Goran Dragic,1610612748,MIA,Miami Heat,Spotup,Defensive,0.081,37,0.303,1.22,0.464,0.03,0.05,0.03,0.01,0.45,0.637,91,111,39,84,45,MIA
+22018,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.37,44,0.316,1.06,0.388,0.05,0.07,0.04,0.01,0.39,0.544,116,123,40,103,63,MIA
+22018,203585,Rodney McGruder,1610612748,MIA,Miami Heat,Spotup,Defensive,0.212,66,0.202,1.125,0.413,0.07,0.03,0.07,0.03,0.43,0.553,112,126,43,104,61,MIA
+22018,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Spotup,Defensive,0.461,82,0.155,1.03,0.403,0.05,0.05,0.05,0.0,0.4,0.542,132,136,48,119,71,MIA
+22018,201949,James Johnson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.183,56,0.33,1.14,0.417,0.04,0.04,0.03,0.01,0.41,0.583,129,147,50,120,70,MIA
+22018,203079,Dion Waiters,1610612748,MIA,Miami Heat,Spotup,Defensive,0.116,44,0.41,1.187,0.451,0.04,0.05,0.04,0.01,0.45,0.615,134,159,55,122,67,MIA
+22018,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Spotup,Defensive,0.859,60,0.397,0.852,0.321,0.06,0.07,0.05,0.01,0.33,0.421,189,161,53,165,112,MIA
+22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Spotup,Defensive,0.807,79,0.346,0.887,0.329,0.06,0.06,0.06,0.02,0.33,0.449,231,205,68,207,139,MIA
+22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Spotup,Defensive,0.389,66,0.293,1.053,0.412,0.05,0.07,0.04,0.01,0.4,0.548,208,219,77,187,110,MIA
+22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Spotup,Defensive,0.522,72,0.408,1.009,0.385,0.03,0.04,0.04,0.01,0.38,0.517,222,224,80,208,128,MIA
+22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.483,73,0.284,1.023,0.404,0.05,0.09,0.04,0.02,0.38,0.55,261,267,93,230,137,MIA

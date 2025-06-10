@@ -1,0 +1,20 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.915,53,0.252,1.256,0.483,0.084,0.034,0.073,0.027,0.496,0.62,262,329,115,238,123,NOP
+22024,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.495,56,0.21,1.024,0.407,0.024,0.032,0.024,0.008,0.403,0.521,248,254,96,236,140,NOP
+22024,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.396,56,0.281,0.983,0.363,0.028,0.039,0.028,0.011,0.36,0.494,178,175,61,168,107,NOP
+22024,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.174,56,0.281,0.87,0.337,0.022,0.038,0.022,0.011,0.326,0.446,184,160,59,175,116,NOP
+22024,1630527,Brandon Boston,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.503,42,0.298,1.029,0.427,0.057,0.064,0.05,0.007,0.429,0.536,140,144,53,124,71,NOP
+22024,1630526,Jeremiah Robinson-Earl,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.334,66,0.348,0.959,0.352,0.007,0.027,0.0,0.0,0.347,0.489,147,141,50,142,92,NOP
+22024,1629750,Javonte Green,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.275,50,0.442,0.927,0.342,0.049,0.057,0.049,0.008,0.333,0.486,123,114,38,111,73,NOP
+22024,1641810,Antonio Reeves,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.775,44,0.287,1.155,0.425,0.048,0.024,0.048,0.024,0.429,0.569,84,97,34,80,46,NOP
+22024,1627749,Dejounte Murray,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.296,31,0.157,0.941,0.37,0.059,0.039,0.059,0.0,0.392,0.451,102,96,34,92,58,NOP
+22024,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.383,20,0.423,0.979,0.414,0.042,0.063,0.042,0.01,0.406,0.517,96,94,36,87,51,NOP
+22024,1631288,Jamal Cain,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.661,37,0.406,1.098,0.438,0.11,0.037,0.085,0.037,0.451,0.555,82,90,32,73,41,NOP
+22024,1631232,Keion Brooks Jr.,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.793,14,0.364,1.167,0.444,0.083,0.021,0.083,0.042,0.458,0.567,48,56,20,45,25,NOP
+22024,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.687,30,0.071,1.12,0.558,0.12,0.1,0.12,0.08,0.52,0.581,50,56,24,43,19,NOP
+22024,1631255,Karlo Matković,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.262,42,0.174,0.922,0.347,0.0,0.039,0.0,0.0,0.333,0.48,51,47,17,49,32,NOP
+22024,1628971,Bruce Brown,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.137,23,0.239,0.843,0.319,0.02,0.059,0.02,0.0,0.314,0.436,51,43,15,47,32,NOP
+22024,1629669,Jaylen Nowell,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.14,8,0.372,0.844,0.29,0.031,0.0,0.031,0.0,0.313,0.419,32,27,9,31,22,NOP
+22024,1631311,Lester Quinones,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.146,9,0.306,0.846,0.261,0.115,0.038,0.115,0.038,0.308,0.37,26,22,6,23,17,NOP
+22024,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.021,18,0.116,0.556,0.25,0.056,0.056,0.056,0.0,0.278,0.281,18,10,4,16,12,NOP
+22024,1628464,Daniel Theis,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.016,38,0.07,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,12,6,2,12,10,NOP

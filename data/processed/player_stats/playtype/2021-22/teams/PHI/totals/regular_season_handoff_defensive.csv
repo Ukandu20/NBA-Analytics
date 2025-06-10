@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.954,21,0.084,0.55,0.211,0.1,0.0,0.1,0.05,0.25,0.211,20,11,4,19,15,PHI
+22021,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.778,55,0.086,0.737,0.333,0.11,0.11,0.11,0.0,0.368,0.367,19,14,5,15,10,PHI
+22021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.732,55,0.086,0.771,0.36,0.11,0.17,0.11,0.0,0.371,0.4,35,27,9,25,16,PHI
+22021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.895,67,0.119,0.627,0.275,0.04,0.18,0.04,0.0,0.255,0.35,51,32,11,40,29,PHI
+22021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.048,76,0.045,1.296,0.636,0.04,0.15,0.04,0.0,0.556,0.75,27,35,14,22,8,PHI
+22021,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.405,45,0.083,0.947,0.438,0.05,0.16,0.05,0.05,0.368,0.547,38,36,14,32,18,PHI
+22021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.537,73,0.061,0.889,0.421,0.07,0.09,0.04,0.0,0.422,0.461,45,40,16,38,22,PHI
+22021,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.25,62,0.078,1.047,0.417,0.09,0.07,0.09,0.0,0.442,0.514,43,45,15,36,21,PHI
+22021,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.776,66,0.111,0.741,0.344,0.11,0.17,0.11,0.04,0.321,0.402,81,60,21,61,40,PHI
+22021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.605,75,0.095,0.852,0.367,0.07,0.07,0.07,0.03,0.364,0.437,88,75,29,79,50,PHI

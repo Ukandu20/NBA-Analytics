@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,204038,Langston Galloway,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.776,40,0.27,0.903,0.345,0.0,0.06,0.0,0.0,0.32,0.483,31,28,10,29,19,PHX
+22020,1627846,Abdel Nader,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.511,24,0.274,1.029,0.419,0.03,0.06,0.03,0.0,0.41,0.532,34,35,13,31,18,PHX
+22020,202734,E'Twaun Moore,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.869,27,0.347,0.84,0.333,0.04,0.06,0.04,0.0,0.34,0.411,50,42,15,45,30,PHX
+22020,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.671,60,0.276,0.957,0.39,0.06,0.1,0.06,0.0,0.37,0.534,70,67,23,59,36,PHX
+22020,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.358,50,0.141,1.092,0.458,0.05,0.06,0.05,0.02,0.45,0.559,65,71,27,59,32,PHX
+22020,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.231,47,0.195,1.156,0.466,0.0,0.05,0.0,0.0,0.44,0.61,77,89,34,73,39,PHX
+22020,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.409,60,0.255,1.066,0.407,0.04,0.07,0.03,0.0,0.41,0.556,91,97,33,81,48,PHX
+22020,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.345,32,0.368,1.097,0.419,0.04,0.04,0.04,0.01,0.42,0.552,93,102,36,86,50,PHX
+22020,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.869,69,0.119,0.84,0.321,0.04,0.08,0.03,0.01,0.31,0.44,150,126,43,134,91,PHX
+22020,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.724,60,0.333,0.935,0.377,0.06,0.11,0.05,0.01,0.36,0.492,154,144,49,130,81,PHX
+22020,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.509,60,0.337,1.03,0.401,0.04,0.05,0.03,0.01,0.4,0.53,166,171,61,152,91,PHX
+22020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.505,72,0.207,1.031,0.393,0.06,0.04,0.06,0.02,0.4,0.511,192,198,70,178,108,PHX
+22020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.634,70,0.341,0.976,0.376,0.02,0.08,0.02,0.0,0.36,0.521,210,205,71,189,118,PHX
+22020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.657,67,0.338,0.961,0.371,0.03,0.06,0.03,0.0,0.37,0.498,259,249,88,237,149,PHX

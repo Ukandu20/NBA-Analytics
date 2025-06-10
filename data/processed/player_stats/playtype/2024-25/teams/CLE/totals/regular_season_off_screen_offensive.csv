@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.55,71,0.108,1.0,0.362,0.02,0.059,0.0,0.0,0.353,0.521,51,51,17,47,30,CLE
+22024,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.791,71,0.037,1.136,0.514,0.114,0.114,0.114,0.023,0.477,0.614,44,50,18,35,17,CLE
+22024,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.586,75,0.033,1.021,0.45,0.083,0.104,0.063,0.021,0.438,0.525,48,49,18,40,22,CLE
+22024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.305,50,0.098,0.837,0.361,0.023,0.14,0.023,0.0,0.326,0.458,43,36,13,36,23,CLE
+22024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.441,71,0.019,0.935,0.345,0.032,0.032,0.032,0.0,0.355,0.466,31,29,10,29,19,CLE
+22024,1629631,De'Andre Hunter,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.776,27,0.048,1.125,0.467,0.0,0.063,0.0,0.0,0.438,0.6,16,18,7,15,8,CLE

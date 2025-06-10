@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.721,68,0.268,0.953,0.461,0.078,0.159,0.075,0.017,0.421,0.521,359,342,129,280,151,MIL
+22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.767,59,0.283,0.979,0.48,0.077,0.136,0.059,0.007,0.448,0.537,286,280,109,227,118,MIL
+22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.897,62,0.082,1.063,0.489,0.228,0.079,0.213,0.047,0.528,0.537,127,135,46,94,48,MIL
+22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.491,66,0.191,0.842,0.398,0.022,0.165,0.014,0.0,0.345,0.496,139,117,45,113,68,MIL
+22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.518,37,0.402,0.856,0.371,0.113,0.186,0.062,0.021,0.361,0.457,97,83,26,70,44,MIL
+22020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.961,70,0.074,1.136,0.553,0.045,0.091,0.045,0.0,0.5,0.632,44,50,21,38,17,MIL
+22020,201952,Jeff Teague,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.873,21,0.336,1.043,0.516,0.213,0.17,0.213,0.043,0.511,0.532,47,49,16,31,15,MIL
+22020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.179,69,0.037,0.688,0.308,0.063,0.125,0.0,0.0,0.313,0.385,16,11,4,13,9,MIL

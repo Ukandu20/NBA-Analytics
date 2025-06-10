@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628391,D.J. Wilson,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.934,23,0.071,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,0.4,0.0,0.1,0.4,0.3,HOU
+22020,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.952,70,0.019,0.538,0.3,0.08,0.15,0.08,0.0,0.31,0.3,0.2,0.0,0.0,0.1,0.1,HOU
+22020,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.287,36,0.034,1.2,0.57,0.2,0.1,0.2,0.0,0.6,0.57,0.3,0.0,0.1,0.2,0.1,HOU
+22020,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.174,32,0.029,1.3,0.56,0.0,0.1,0.0,0.0,0.5,0.72,0.3,0.0,0.2,0.3,0.1,HOU
+22020,202326,DeMarcus Cousins,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.798,25,0.053,0.824,0.36,0.18,0.06,0.18,0.06,0.41,0.39,0.7,1.0,0.2,0.6,0.4,HOU
+22020,203482,Kelly Olynyk,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.044,27,0.025,1.5,0.7,0.0,0.0,0.0,0.0,0.7,0.75,0.4,1.0,0.3,0.4,0.1,HOU
+22020,1626174,Christian Wood,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.711,41,0.041,0.88,0.38,0.0,0.04,0.0,0.0,0.36,0.46,0.6,1.0,0.2,0.6,0.4,HOU

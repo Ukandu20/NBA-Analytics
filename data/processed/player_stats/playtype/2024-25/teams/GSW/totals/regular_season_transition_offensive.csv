@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.578,82,0.253,1.154,0.51,0.035,0.093,0.026,0.018,0.471,0.629,227,262,103,202,99,GSW
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.27,70,0.151,1.008,0.472,0.088,0.185,0.067,0.021,0.416,0.584,238,240,84,178,94,GSW
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.725,74,0.218,1.23,0.5,0.135,0.047,0.135,0.034,0.52,0.607,148,182,63,126,63,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.534,64,0.182,1.14,0.522,0.066,0.118,0.051,0.015,0.485,0.628,136,155,59,113,54,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.712,43,0.172,1.218,0.582,0.121,0.113,0.113,0.024,0.548,0.658,124,151,57,98,41,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.15,69,0.165,0.927,0.544,0.121,0.282,0.105,0.04,0.427,0.595,124,115,43,79,36,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.929,30,0.166,1.388,0.613,0.263,0.038,0.25,0.075,0.663,0.613,80,111,38,62,24,GSW
+22024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.819,62,0.188,1.288,0.741,0.061,0.167,0.061,0.045,0.621,0.759,66,85,40,54,14,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.949,42,0.141,1.444,0.538,0.111,0.044,0.111,0.022,0.556,0.731,45,65,21,39,18,GSW
+22024,1630611,Gui Santos,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.733,56,0.18,1.233,0.588,0.093,0.14,0.093,0.023,0.535,0.721,43,53,20,34,14,GSW
+22024,1630322,Lindy Waters III,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.115,38,0.204,0.891,0.341,0.043,0.0,0.022,0.0,0.37,0.432,46,41,15,44,29,GSW
+22024,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.921,76,0.08,1.379,0.714,0.31,0.069,0.31,0.103,0.724,0.714,29,40,15,21,6,GSW
+22024,203937,Kyle Anderson,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.344,36,0.191,1.053,0.471,0.132,0.026,0.105,0.053,0.5,0.515,38,40,16,34,18,GSW
+22024,203471,Dennis Schröder,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.089,24,0.117,0.865,0.481,0.054,0.216,0.054,0.0,0.378,0.574,37,32,13,27,14,GSW
+22024,1629001,De'Anthony Melton,1610612744,GSW,Golden State Warriors,Transition,Offensive,0.355,6,0.265,1.056,0.538,0.167,0.111,0.111,0.0,0.5,0.654,18,19,7,13,6,GSW

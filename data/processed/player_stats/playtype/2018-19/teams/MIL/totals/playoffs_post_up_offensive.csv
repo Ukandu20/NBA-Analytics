@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.643,15,0.085,0.905,0.5,0.048,0.143,0.048,0.048,0.429,0.5,21,19,9,18,9,MIL
+42018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.429,15,0.057,0.727,0.22,0.364,0.227,0.273,0.0,0.455,0.22,22,16,2,9,7,MIL
+42018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,15,0.051,1.375,0.67,0.375,0.125,0.375,0.25,0.625,0.67,8,11,4,6,2,MIL
+42018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,15,0.051,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.5,5,6,2,4,2,MIL
+42018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,15,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIL
+42018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,14,0.028,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,1,0,3,3,MIL
+42018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,15,0.004,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIL
+42018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.0,8,0.042,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.537,6,0.27,0.947,0.414,0.158,0.105,0.158,0.026,0.421,0.483,38,36,12,29,17,MIN
+42021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.625,6,0.141,1.0,0.538,0.111,0.167,0.111,0.0,0.5,0.577,18,18,7,13,6,MIN
+42021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.024,6,0.146,0.5,0.25,0.0,0.143,0.0,0.0,0.214,0.292,14,7,3,12,9,MIN
+42021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,6,0.114,0.625,0.667,0.125,0.5,0.0,0.0,0.375,0.667,8,5,2,3,1,MIN
+42021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.048,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIN
+42021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.038,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIN
+42021,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIN
+42021,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,5,0.029,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIN
+42021,202328,Greg Monroe,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIN

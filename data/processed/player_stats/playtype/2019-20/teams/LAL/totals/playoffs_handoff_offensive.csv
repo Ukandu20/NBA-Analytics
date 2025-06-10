@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.586,21,0.065,0.929,0.4,0.143,0.143,0.143,0.0,0.429,0.5,14,13,4,10,6,LAL
+42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,21,0.015,1.5,0.571,0.0,0.125,0.0,0.0,0.5,0.857,8,12,4,7,3,LAL
+42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,21,0.011,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,LAL
+42019,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,2,0.083,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAL
+42019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,21,0.019,0.667,0.0,0.333,0.0,0.333,0.0,0.333,0.0,3,2,0,2,2,LAL
+42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,21,0.014,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,3,2,1,3,2,LAL
+42019,203079,Dion Waiters,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,4,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,16,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,21,0.002,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,7,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,1626188,Quinn Cook,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,5,0.182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,LAL

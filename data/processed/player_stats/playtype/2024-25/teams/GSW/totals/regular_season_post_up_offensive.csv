@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.271,47,0.069,0.865,0.4,0.25,0.096,0.192,0.019,0.481,0.4,52,45,14,35,21,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.938,30,0.06,1.345,0.636,0.345,0.103,0.31,0.207,0.586,0.636,29,39,14,22,8,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.5,43,0.05,1.0,0.458,0.306,0.083,0.278,0.056,0.528,0.458,36,36,11,24,13,GSW
+22024,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.118,62,0.059,0.739,0.4,0.043,0.087,0.0,0.0,0.391,0.4,23,17,8,20,12,GSW
+22024,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.5,76,0.044,1.0,0.545,0.188,0.125,0.063,0.0,0.5,0.545,16,16,6,11,5,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.403,42,0.05,0.938,0.6,0.188,0.188,0.188,0.0,0.5,0.6,16,15,6,10,4,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.007,69,0.031,0.435,0.375,0.174,0.478,0.174,0.0,0.261,0.375,23,10,3,8,5,GSW

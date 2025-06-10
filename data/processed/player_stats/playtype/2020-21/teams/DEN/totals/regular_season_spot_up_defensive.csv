@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201580,JaVale McGee,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.856,13,0.157,0.857,0.308,0.07,0.0,0.0,0.0,0.36,0.423,14,12,4,13,9,DEN
+22020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.827,17,0.302,0.875,0.345,0.06,0.06,0.06,0.03,0.34,0.431,32,28,10,29,19,DEN
+22020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.662,15,0.379,0.96,0.366,0.1,0.1,0.06,0.02,0.36,0.512,50,48,15,41,26,DEN
+22020,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.929,19,0.306,0.757,0.298,0.04,0.14,0.04,0.0,0.29,0.412,70,53,17,57,40,DEN
+22020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.334,34,0.374,1.082,0.413,0.02,0.04,0.02,0.0,0.41,0.565,49,53,19,46,27,DEN
+22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.099,25,0.296,1.261,0.485,0.0,0.04,0.0,0.0,0.46,0.659,69,87,32,66,34,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.813,58,0.379,0.881,0.339,0.07,0.07,0.06,0.01,0.35,0.444,143,126,42,124,82,DEN
+22020,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.722,50,0.367,0.936,0.375,0.06,0.1,0.04,0.01,0.36,0.508,140,131,45,120,75,DEN
+22020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.687,47,0.377,0.951,0.368,0.02,0.06,0.02,0.0,0.36,0.5,144,137,49,133,84,DEN
+22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.237,57,0.384,1.152,0.476,0.04,0.1,0.04,0.01,0.44,0.629,164,189,68,143,75,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.556,48,0.337,1.01,0.372,0.05,0.02,0.05,0.0,0.39,0.495,205,207,71,191,120,DEN
+22020,203115,Will Barton,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.284,56,0.395,1.127,0.42,0.04,0.05,0.04,0.01,0.42,0.572,197,222,76,181,105,DEN
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.058,72,0.165,1.318,0.519,0.04,0.05,0.03,0.01,0.5,0.694,176,232,84,162,78,DEN
+22020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.289,65,0.356,1.121,0.446,0.06,0.07,0.05,0.02,0.43,0.584,207,232,82,184,102,DEN
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.397,61,0.429,1.07,0.416,0.06,0.05,0.05,0.01,0.43,0.537,243,260,91,219,128,DEN

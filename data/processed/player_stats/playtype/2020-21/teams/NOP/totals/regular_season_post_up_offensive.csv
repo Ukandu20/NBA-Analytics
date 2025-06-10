@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.713,61,0.148,1.038,0.543,0.213,0.114,0.213,0.052,0.536,0.543,211,219,82,151,69,NOP
+22020,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.575,47,0.125,0.977,0.457,0.186,0.047,0.14,0.047,0.512,0.457,43,42,16,35,19,NOP
+22020,203500,Steven Adams,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.375,58,0.102,0.891,0.586,0.326,0.065,0.304,0.022,0.5,0.586,46,41,17,29,12,NOP
+22020,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.556,61,0.019,0.962,0.429,0.192,0.038,0.192,0.038,0.5,0.429,26,25,9,21,12,NOP

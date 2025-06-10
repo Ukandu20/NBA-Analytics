@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.93,32,0.088,1.375,0.697,0.2,0.025,0.2,0.05,0.725,0.697,40,55,23,33,10,OKC
+22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.99,76,0.014,1.586,0.741,0.069,0.0,0.069,0.0,0.759,0.778,29,46,20,27,7,OKC
+22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.56,76,0.049,1.122,0.583,0.049,0.073,0.024,0.0,0.561,0.597,41,46,21,36,15,OKC
+22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.89,71,0.023,1.333,0.75,0.067,0.133,0.067,0.0,0.667,0.792,15,20,9,12,3,OKC
+22024,1641794,Dillon Jones,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.094,54,0.086,0.8,0.462,0.0,0.133,0.0,0.0,0.4,0.462,15,12,6,13,7,OKC

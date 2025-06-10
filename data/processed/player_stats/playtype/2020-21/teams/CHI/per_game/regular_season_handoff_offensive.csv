@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.675,58,0.081,1.034,0.474,0.06,0.128,0.06,0.0,0.444,0.579,2.0,2.1,0.8,1.6,0.9,CHI
+22020,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.284,62,0.119,0.8,0.34,0.036,0.055,0.018,0.0,0.345,0.4,0.9,0.7,0.3,0.8,0.5,CHI
+22020,1629632,Coby White,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.184,69,0.055,0.672,0.367,0.016,0.18,0.016,0.0,0.311,0.398,0.9,0.6,0.3,0.7,0.4,CHI
+22020,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.212,71,0.079,0.741,0.409,0.074,0.13,0.074,0.019,0.389,0.409,0.8,0.6,0.3,0.6,0.4,CHI
+22020,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.762,58,0.055,1.08,0.556,0.2,0.12,0.16,0.04,0.56,0.556,0.4,0.5,0.2,0.3,0.1,CHI
+22020,202066,Garrett Temple,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.346,56,0.057,0.846,0.364,0.038,0.115,0.038,0.0,0.346,0.455,0.5,0.4,0.1,0.4,0.3,CHI
+22020,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.248,51,0.045,0.778,0.333,0.185,0.185,0.148,0.037,0.37,0.361,0.5,0.4,0.1,0.4,0.2,CHI
+22020,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.755,25,0.054,1.077,0.583,0.0,0.077,0.0,0.0,0.538,0.583,0.5,0.6,0.3,0.5,0.2,CHI
+22020,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.085,44,0.081,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,0.3,0.1,0.0,0.2,0.2,CHI

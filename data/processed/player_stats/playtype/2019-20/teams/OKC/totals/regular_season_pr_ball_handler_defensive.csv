@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.678,7,0.306,0.818,0.286,0.27,0.091,0.18,0.0,0.455,0.286,11,9,2,7,5,OKC
+22019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.103,61,0.023,1.071,0.5,0.07,0.071,0.07,0.0,0.5,0.542,14,15,6,12,6,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.23,62,0.075,0.977,0.529,0.02,0.186,0.0,0.0,0.442,0.588,43,42,18,34,16,OKC
+22019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.164,61,0.111,1.02,0.455,0.08,0.06,0.06,0.02,0.46,0.5,50,51,20,44,24,OKC
+22019,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.516,55,0.279,0.866,0.429,0.16,0.183,0.15,0.02,0.427,0.446,82,71,24,56,32,OKC
+22019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.685,46,0.356,0.815,0.38,0.12,0.145,0.12,0.01,0.395,0.413,124,101,35,92,57,OKC
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.73,70,0.305,0.797,0.383,0.07,0.141,0.06,0.01,0.362,0.426,177,141,54,141,87,OKC
+22019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.214,36,0.473,0.988,0.434,0.15,0.104,0.14,0.05,0.439,0.493,173,171,59,136,77,OKC
+22019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.504,56,0.403,0.87,0.398,0.12,0.121,0.1,0.03,0.399,0.446,223,194,70,176,106,OKC
+22019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.383,65,0.419,0.91,0.43,0.06,0.111,0.05,0.01,0.41,0.481,288,262,104,242,138,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.305,70,0.39,0.943,0.477,0.06,0.125,0.06,0.01,0.445,0.511,335,316,132,277,145,OKC

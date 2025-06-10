@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.488,69,0.275,0.936,0.5,0.089,0.123,0.081,0.03,0.462,0.5,236,221,96,192,96,PHX
+22020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.825,67,0.047,1.078,0.545,0.182,0.156,0.156,0.052,0.519,0.545,77,83,30,55,25,PHX
+22020,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.363,50,0.156,0.884,0.42,0.174,0.13,0.145,0.029,0.449,0.42,69,61,21,50,29,PHX
+22020,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.494,47,0.105,0.938,0.45,0.281,0.094,0.219,0.0,0.531,0.45,32,30,9,20,11,PHX
+22020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.925,70,0.013,1.214,0.5,0.214,0.0,0.214,0.071,0.571,0.5,14,17,6,12,6,PHX

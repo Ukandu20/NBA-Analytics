@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629126,Deonte Burton,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,OKC
+42019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.0,4,0.36,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,1.3,0.0,0.3,1.3,1.0,OKC
+42019,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.0,3,0.12,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,OKC
+42019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.0,3,0.38,2.0,0.67,0.0,0.0,0.0,0.0,0.67,1.0,1.0,2.0,0.7,1.0,0.3,OKC
+42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.798,6,0.16,0.882,0.31,0.06,0.0,0.06,0.0,0.35,0.41,2.8,2.0,0.8,2.7,1.8,OKC
+42019,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.0,2,0.62,2.0,0.75,0.0,0.0,0.0,0.0,0.75,1.0,4.0,8.0,3.0,4.0,1.0,OKC
+42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.109,7,0.34,1.417,0.55,0.08,0.08,0.08,0.08,0.5,0.73,1.7,2.0,0.9,1.6,0.7,OKC
+42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.975,7,0.33,0.647,0.29,0.0,0.09,0.0,0.0,0.26,0.35,4.9,3.0,1.3,4.4,3.1,OKC
+42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.322,7,0.26,1.2,0.5,0.0,0.1,0.0,0.0,0.45,0.67,2.9,3.0,1.3,2.6,1.3,OKC
+42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.475,7,0.52,1.12,0.41,0.04,0.08,0.04,0.0,0.4,0.59,3.6,4.0,1.3,3.1,1.9,OKC
+42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.617,7,0.44,1.037,0.4,0.0,0.07,0.0,0.0,0.37,0.56,3.9,4.0,1.4,3.6,2.1,OKC
+42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.915,7,0.38,0.75,0.29,0.02,0.05,0.02,0.02,0.27,0.38,6.3,5.0,1.7,6.0,4.3,OKC
+42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.383,7,0.42,1.172,0.43,0.0,0.0,0.03,0.0,0.41,0.61,4.1,5.0,1.7,4.0,2.3,OKC

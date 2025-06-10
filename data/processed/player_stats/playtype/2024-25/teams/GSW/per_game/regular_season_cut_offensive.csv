@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.579,62,0.299,1.325,0.673,0.205,0.034,0.205,0.077,0.658,0.673,1.9,2.5,1.1,1.6,0.5,GSW
+22024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.425,69,0.133,1.26,0.63,0.18,0.07,0.17,0.06,0.63,0.63,1.4,1.8,0.7,1.2,0.4,GSW
+22024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.83,70,0.052,1.476,0.716,0.195,0.061,0.195,0.073,0.707,0.716,1.2,1.7,0.7,1.0,0.3,GSW
+22024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.538,62,0.256,1.311,0.651,0.1,0.022,0.1,0.044,0.656,0.651,1.5,1.9,0.9,1.3,0.5,GSW
+22024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.755,47,0.109,1.415,0.716,0.171,0.037,0.171,0.024,0.707,0.716,1.7,2.5,1.0,1.4,0.4,GSW
+22024,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.142,76,0.255,1.065,0.548,0.185,0.054,0.185,0.033,0.554,0.548,1.2,1.3,0.5,1.0,0.4,GSW
+22024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.393,30,0.127,1.246,0.571,0.197,0.033,0.197,0.033,0.623,0.571,2.0,2.5,0.9,1.6,0.7,GSW
+22024,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.651,43,0.061,1.364,0.676,0.159,0.023,0.136,0.023,0.682,0.676,1.0,1.4,0.6,0.9,0.3,GSW
+22024,1630611,Gui Santos,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.368,56,0.201,1.229,0.639,0.208,0.104,0.208,0.063,0.604,0.639,0.9,1.1,0.4,0.6,0.2,GSW
+22024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.176,74,0.075,1.098,0.541,0.196,0.078,0.196,0.0,0.569,0.541,0.7,0.8,0.3,0.5,0.2,GSW
+22024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.277,64,0.051,1.184,0.568,0.053,0.0,0.053,0.026,0.579,0.568,0.6,0.7,0.3,0.6,0.3,GSW
+22024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.252,42,0.116,1.162,0.6,0.027,0.054,0.027,0.027,0.568,0.6,0.9,1.0,0.5,0.8,0.3,GSW
+22024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.377,82,0.033,1.233,0.63,0.067,0.067,0.067,0.033,0.6,0.63,0.4,0.5,0.2,0.3,0.1,GSW
+22024,203937,Kyle Anderson,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.28,36,0.136,1.185,0.565,0.185,0.037,0.185,0.074,0.593,0.565,0.8,0.9,0.4,0.6,0.3,GSW

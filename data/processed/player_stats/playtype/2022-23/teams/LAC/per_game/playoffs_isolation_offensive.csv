@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Isolation,Offensive,0.978,2,0.298,1.412,0.688,0.059,0.059,0.059,0.059,0.647,0.719,8.5,12.0,5.5,8.0,2.5,LAC
+42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Isolation,Offensive,0.867,5,0.208,1.182,0.571,0.273,0.091,0.273,0.0,0.636,0.571,2.2,2.6,0.8,1.4,0.6,LAC
+42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,Isolation,Offensive,0.8,5,0.103,1.1,0.444,0.1,0.0,0.0,0.0,0.5,0.556,2.0,2.2,0.8,1.8,1.0,LAC
+42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Isolation,Offensive,0.022,5,0.185,0.4,0.211,0.04,0.2,0.04,0.0,0.2,0.211,5.0,2.0,0.8,3.8,3.0,LAC
+42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,5,0.02,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,LAC
+42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,5,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,LAC
+42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,3,0.188,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,LAC

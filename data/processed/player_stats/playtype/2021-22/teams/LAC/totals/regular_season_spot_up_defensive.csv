@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626181,Norman Powell,1610612746,LAC,LA Clippers,Spotup,Defensive,0.998,5,0.524,0.318,0.1,0.09,0.05,0.09,0.05,0.14,0.125,22,7,2,20,18,LAC
+22021,1629875,Xavier Moon,1610612746,LAC,LA Clippers,Spotup,Defensive,0.976,10,0.345,0.579,0.235,0.0,0.11,0.0,0.0,0.21,0.324,19,11,4,17,13,LAC
+22021,203918,Rodney Hood,1610612746,LAC,LA Clippers,Spotup,Defensive,0.072,10,0.297,1.273,0.5,0.0,0.09,0.0,0.0,0.455,0.7,11,14,5,10,5,LAC
+22021,1626159,Justise Winslow,1610612746,LAC,LA Clippers,Spotup,Defensive,0.67,37,0.244,0.952,0.359,0.0,0.07,0.0,0.0,0.33,0.513,42,40,14,39,25,LAC
+22021,201586,Serge Ibaka,1610612746,LAC,LA Clippers,Spotup,Defensive,0.889,35,0.199,0.83,0.34,0.04,0.09,0.04,0.02,0.32,0.447,53,44,16,47,31,LAC
+22021,1630527,Brandon Boston,1610612746,LAC,LA Clippers,Spotup,Defensive,0.922,51,0.364,0.797,0.306,0.04,0.05,0.04,0.0,0.29,0.424,79,63,22,72,50,LAC
+22021,203496,Robert Covington,1610612746,LAC,LA Clippers,Spotup,Defensive,0.107,23,0.369,1.246,0.484,0.01,0.06,0.01,0.0,0.46,0.656,69,86,31,64,33,LAC
+22021,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Spotup,Defensive,0.709,59,0.303,0.938,0.365,0.06,0.05,0.06,0.0,0.38,0.47,130,122,42,115,73,LAC
+22021,1628392,Isaiah Hartenstein,1610612746,LAC,LA Clippers,Spotup,Defensive,0.819,68,0.21,0.886,0.326,0.03,0.02,0.03,0.0,0.34,0.436,149,132,46,141,95,LAC
+22021,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Spotup,Defensive,0.744,69,0.295,0.924,0.363,0.06,0.1,0.06,0.01,0.36,0.488,145,134,45,124,79,LAC
+22021,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Defensive,0.636,31,0.415,0.964,0.386,0.03,0.06,0.02,0.0,0.37,0.512,140,135,49,127,78,LAC
+22021,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Spotup,Defensive,0.691,70,0.35,0.946,0.377,0.03,0.1,0.02,0.0,0.36,0.51,167,158,55,146,91,LAC
+22021,202339,Eric Bledsoe,1610612746,LAC,LA Clippers,Spotup,Defensive,0.459,54,0.337,1.03,0.389,0.05,0.05,0.03,0.01,0.39,0.52,165,170,58,149,91,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Spotup,Defensive,0.203,54,0.396,1.131,0.42,0.02,0.02,0.02,0.0,0.43,0.568,176,199,71,169,98,LAC
+22021,1629611,Terance Mann,1610612746,LAC,LA Clippers,Spotup,Defensive,0.535,81,0.258,1.005,0.385,0.05,0.05,0.05,0.0,0.39,0.513,211,212,74,192,118,LAC
+22021,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Spotup,Defensive,0.29,76,0.198,1.091,0.457,0.05,0.06,0.06,0.01,0.44,0.564,209,228,86,188,102,LAC
+22021,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.65,75,0.365,0.959,0.354,0.02,0.03,0.02,0.01,0.35,0.489,292,280,99,280,181,LAC

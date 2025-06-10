@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,7,0.016,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,SAC
+42022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,4,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,SAC
+42022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,7,0.015,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.0,0.0,0.0,0.0,SAC
+42022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,7,0.013,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,SAC
+42022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,7,0.047,0.667,0.5,0.33,0.0,0.33,0.0,0.33,0.5,0.4,0.0,0.1,0.3,0.1,SAC
+42022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Postup,Defensive,0.0,7,0.047,1.2,0.67,0.2,0.2,0.2,0.0,0.6,0.67,0.7,1.0,0.3,0.4,0.1,SAC

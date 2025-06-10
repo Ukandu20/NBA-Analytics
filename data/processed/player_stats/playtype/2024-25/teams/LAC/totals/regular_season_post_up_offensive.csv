@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Postup,Offensive,0.66,80,0.279,1.062,0.592,0.114,0.135,0.111,0.034,0.538,0.592,325,345,151,255,104,LAC
+22024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Postup,Offensive,0.847,37,0.071,1.151,0.568,0.151,0.038,0.151,0.019,0.604,0.568,53,61,25,44,19,LAC
+22024,201935,James Harden,1610612746,LAC,LA Clippers,Postup,Offensive,0.063,79,0.008,0.667,0.375,0.133,0.333,0.067,0.0,0.333,0.375,15,10,3,8,5,LAC

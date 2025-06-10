@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.839,69,0.086,1.355,0.645,0.18,0.032,0.177,0.073,0.661,0.645,124,168,69,107,38,DEN
+22022,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.642,68,0.11,1.2,0.606,0.11,0.009,0.1,0.018,0.627,0.606,110,132,60,99,39,DEN
+22022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.539,63,0.053,1.143,0.535,0.1,0.041,0.082,0.02,0.551,0.547,49,56,23,43,20,DEN
+22022,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.586,53,0.184,1.17,0.583,0.15,0.085,0.149,0.0,0.596,0.583,47,55,21,36,15,DEN
+22022,201599,DeAndre Jordan,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.567,39,0.2,1.162,0.704,0.14,0.135,0.135,0.0,0.649,0.704,37,43,19,27,8,DEN
+22022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.594,80,0.037,1.176,0.586,0.15,0.0,0.176,0.029,0.618,0.586,34,40,17,29,12,DEN
+22022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.857,65,0.014,1.389,0.688,0.06,0.056,0.056,0.0,0.667,0.719,18,25,11,16,5,DEN
+22022,1628427,Vlatko Čančar,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.901,60,0.043,1.417,0.667,0.25,0.083,0.25,0.083,0.667,0.667,12,17,6,9,3,DEN
+22022,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.194,76,0.051,0.889,0.429,0.22,0.056,0.222,0.056,0.5,0.429,18,16,6,14,8,DEN
+22022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.162,77,0.018,0.857,0.462,0.0,0.071,0.0,0.0,0.429,0.462,14,12,6,13,7,DEN
+22022,1628418,Thomas Bryant,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.162,18,0.163,0.857,0.333,0.29,0.0,0.286,0.143,0.429,0.333,14,12,4,12,8,DEN
+22022,201145,Jeff Green,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.015,56,0.04,0.471,0.25,0.0,0.059,0.0,0.0,0.235,0.25,17,8,4,16,12,DEN

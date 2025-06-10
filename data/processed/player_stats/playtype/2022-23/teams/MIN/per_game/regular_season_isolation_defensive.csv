@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.886,22,0.075,0.727,0.222,0.18,0.0,0.18,0.0,0.36,0.222,0.5,0.4,0.1,0.4,0.3,MIN
+22022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.727,24,0.075,0.833,0.357,0.22,0.11,0.17,0.11,0.39,0.393,0.8,0.6,0.2,0.6,0.4,MIN
+22022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.627,65,0.05,0.889,0.462,0.17,0.11,0.11,0.0,0.44,0.462,0.3,0.2,0.1,0.2,0.1,MIN
+22022,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.547,54,0.046,0.92,0.556,0.04,0.24,0.0,0.0,0.44,0.583,0.5,0.4,0.2,0.3,0.1,MIN
+22022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.024,54,0.054,1.368,0.625,0.21,0.0,0.16,0.05,0.68,0.625,0.4,0.5,0.2,0.3,0.1,MIN
+22022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.799,29,0.111,0.78,0.355,0.12,0.12,0.15,0.02,0.37,0.403,1.4,1.1,0.4,1.1,0.7,MIN
+22022,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.915,68,0.106,0.703,0.3,0.14,0.09,0.14,0.02,0.36,0.32,0.9,0.7,0.2,0.7,0.5,MIN
+22022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.353,80,0.056,1.0,0.475,0.13,0.13,0.12,0.04,0.44,0.525,0.7,0.7,0.2,0.5,0.3,MIN
+22022,203085,Austin Rivers,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.083,52,0.121,1.213,0.529,0.23,0.11,0.19,0.06,0.55,0.618,0.9,1.1,0.3,0.7,0.3,MIN
+22022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.353,69,0.094,1.0,0.5,0.15,0.1,0.12,0.03,0.51,0.522,0.9,0.9,0.3,0.7,0.3,MIN
+22022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.675,71,0.066,0.866,0.382,0.1,0.1,0.09,0.02,0.39,0.426,1.2,1.0,0.4,1.0,0.6,MIN
+22022,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.744,79,0.083,0.82,0.338,0.18,0.1,0.18,0.06,0.38,0.36,1.1,0.9,0.3,0.9,0.6,MIN

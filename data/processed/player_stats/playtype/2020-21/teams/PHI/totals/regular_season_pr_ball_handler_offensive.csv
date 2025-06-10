@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.77,63,0.405,0.98,0.48,0.099,0.105,0.093,0.023,0.469,0.502,343,336,135,281,146,PHI
+22020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.733,62,0.242,0.959,0.453,0.078,0.074,0.07,0.011,0.456,0.476,270,259,105,232,127,PHI
+22020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.752,61,0.455,0.969,0.487,0.084,0.098,0.08,0.022,0.471,0.5,225,218,92,189,97,PHI
+22020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.673,57,0.246,0.924,0.451,0.032,0.127,0.032,0.0,0.411,0.511,158,146,60,133,73,PHI
+22020,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.236,58,0.169,0.725,0.473,0.148,0.242,0.134,0.007,0.396,0.473,149,108,43,91,48,PHI
+22020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.188,55,0.18,0.689,0.338,0.1,0.133,0.078,0.022,0.344,0.359,90,62,24,71,47,PHI
+22020,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.972,28,0.21,1.182,0.526,0.045,0.091,0.045,0.0,0.5,0.658,22,26,10,19,9,PHI
+22020,201588,George Hill,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.342,16,0.41,0.791,0.375,0.14,0.163,0.116,0.047,0.349,0.422,43,34,12,32,20,PHI
+22020,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.994,51,0.012,1.313,0.556,0.313,0.125,0.188,0.0,0.625,0.611,16,21,5,9,4,PHI
+22020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.091,69,0.049,0.613,0.28,0.032,0.161,0.032,0.0,0.258,0.36,31,19,7,25,18,PHI
+22020,1629751,Dakota Mathias,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.964,8,0.255,1.154,0.538,0.077,0.0,0.077,0.077,0.538,0.577,13,15,7,13,6,PHI

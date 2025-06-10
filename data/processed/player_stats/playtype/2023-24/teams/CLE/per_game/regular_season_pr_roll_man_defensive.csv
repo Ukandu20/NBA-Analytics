@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.888,54,0.027,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,0.2,0.2,0.1,0.2,0.2,CLE
+22023,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.708,51,0.033,0.923,0.5,0.077,0.154,0.077,0.0,0.462,0.55,0.3,0.2,0.1,0.2,0.1,CLE
+22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.817,69,0.026,0.833,0.357,0.167,0.111,0.111,0.056,0.389,0.393,0.3,0.2,0.1,0.2,0.1,CLE
+22023,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.531,35,0.06,1.067,0.429,0.067,0.067,0.067,0.067,0.4,0.536,0.4,0.5,0.2,0.4,0.2,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.742,66,0.031,0.905,0.412,0.048,0.143,0.048,0.0,0.381,0.529,0.3,0.3,0.1,0.3,0.2,CLE
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.773,56,0.038,0.87,0.304,0.0,0.0,0.0,0.0,0.304,0.435,0.4,0.4,0.1,0.4,0.3,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.319,82,0.05,1.212,0.452,0.061,0.03,0.061,0.03,0.455,0.597,0.4,0.5,0.2,0.4,0.2,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.51,50,0.059,1.077,0.444,0.128,0.026,0.128,0.077,0.462,0.514,0.8,0.8,0.3,0.7,0.4,CLE
+22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Defensive,0.268,76,0.073,1.25,0.527,0.038,0.05,0.038,0.013,0.512,0.642,1.1,1.3,0.5,1.0,0.5,CLE

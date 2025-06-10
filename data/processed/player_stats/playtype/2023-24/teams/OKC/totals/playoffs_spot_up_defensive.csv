@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.888,10,0.414,0.667,0.273,0.0,0.083,0.0,0.0,0.25,0.364,24,16,6,22,16,OKC
+42023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.308,10,0.125,1.15,0.389,0.05,0.05,0.05,0.0,0.4,0.583,20,23,7,18,11,OKC
+42023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.615,10,0.259,0.893,0.375,0.071,0.071,0.071,0.0,0.357,0.479,28,25,9,24,15,OKC
+42023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.586,10,0.31,0.926,0.308,0.037,0.0,0.037,0.0,0.333,0.442,27,25,8,26,18,OKC
+42023,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.462,10,0.146,1.042,0.381,0.083,0.042,0.083,0.0,0.417,0.5,24,25,8,21,13,OKC
+42023,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.231,10,0.571,1.188,0.5,0.031,0.094,0.031,0.0,0.469,0.661,32,38,14,28,14,OKC
+42023,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.12,10,0.521,1.297,0.485,0.027,0.081,0.027,0.0,0.459,0.697,37,48,16,33,17,OKC
+42023,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Defensive,0.41,10,0.685,1.081,0.397,0.041,0.041,0.027,0.0,0.405,0.559,74,80,27,68,41,OKC

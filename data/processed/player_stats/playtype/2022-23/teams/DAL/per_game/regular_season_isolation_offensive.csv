@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.854,66,0.238,1.11,0.453,0.2,0.059,0.168,0.032,0.505,0.532,7.1,7.9,2.5,5.5,3.0,DAL
+22022,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.669,53,0.259,0.991,0.395,0.181,0.071,0.177,0.018,0.465,0.456,4.3,4.2,1.3,3.2,2.0,DAL
+22022,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.874,20,0.209,1.146,0.463,0.156,0.031,0.146,0.042,0.51,0.518,4.8,5.5,1.9,4.1,2.2,DAL
+22022,1626174,Christian Wood,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.402,67,0.111,0.848,0.407,0.125,0.116,0.125,0.054,0.393,0.429,1.7,1.4,0.6,1.4,0.8,DAL
+22022,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.252,48,0.133,0.764,0.279,0.164,0.091,0.109,0.036,0.345,0.337,1.1,0.9,0.3,0.9,0.6,DAL
+22022,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.248,71,0.047,0.761,0.302,0.065,0.022,0.065,0.022,0.326,0.372,0.6,0.5,0.2,0.6,0.4,DAL
+22022,1630593,McKinley Wright IV,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.976,27,0.105,1.308,0.8,0.077,0.231,0.077,0.077,0.615,0.8,0.5,0.6,0.3,0.4,0.1,DAL

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.843,79,0.207,1.472,0.734,0.15,0.024,0.15,0.051,0.736,0.734,254,374,163,222,59,CLE
+22022,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.655,68,0.325,1.382,0.712,0.154,0.045,0.15,0.037,0.697,0.712,267,369,158,222,64,CLE
+22022,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.407,62,0.165,1.25,0.7,0.214,0.107,0.214,0.036,0.643,0.7,56,70,28,40,12,CLE
+22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.917,77,0.07,1.545,0.8,0.114,0.023,0.091,0.045,0.773,0.8,44,68,32,40,8,CLE
+22022,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.536,76,0.107,1.319,0.683,0.149,0.064,0.149,0.085,0.66,0.683,47,62,28,41,13,CLE
+22022,201577,Robin Lopez,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.344,17,0.259,1.214,0.636,0.214,0.143,0.214,0.143,0.571,0.636,14,17,7,11,4,CLE
+22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.384,75,0.031,1.241,0.652,0.138,0.069,0.138,0.0,0.655,0.652,29,36,15,23,8,CLE
+22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.773,69,0.014,1.429,0.7,0.048,0.0,0.048,0.0,0.714,0.7,21,30,14,20,6,CLE
+22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.666,68,0.008,1.385,0.667,0.077,0.0,0.077,0.0,0.692,0.667,13,18,8,12,4,CLE
+22022,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.499,42,0.028,1.3,0.625,0.3,0.1,0.3,0.2,0.6,0.625,10,13,5,8,3,CLE

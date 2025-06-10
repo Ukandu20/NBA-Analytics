@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,202684,Tristan Thompson,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,CHI
+42021,1627884,Derrick Jones Jr.,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.091,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2,CHI
+42021,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.061,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.4,0.4,CHI
+42021,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.071,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,0.4,0.0,0.2,0.2,0.0,CHI
+42021,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.095,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.0,0.2,0.4,0.2,CHI
+42021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.021,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.4,0.0,0.0,0.2,0.2,CHI
+42021,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,4,0.018,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,CHI
+42021,1629632,Coby White,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.107,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,0.6,1.0,0.4,0.6,0.2,CHI
+42021,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,5,0.063,2.667,1.0,0.0,0.0,0.0,0.0,1.0,1.33,0.6,2.0,0.6,0.6,0.0,CHI
+42021,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,4,0.115,1.833,0.67,0.0,0.0,0.0,0.0,0.67,0.92,1.5,3.0,1.0,1.5,0.5,CHI

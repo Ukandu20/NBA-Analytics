@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.407,5,0.159,1.056,0.471,0.056,0.0,0.056,0.0,0.5,0.5,18,19,8,17,9,MIA

@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.884,10,0.095,0.824,0.313,0.12,0.0,0.12,0.06,0.35,0.375,17,14,5,16,11,WAS
+22020,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.991,25,0.119,0.467,0.16,0.1,0.13,0.1,0.07,0.17,0.22,30,14,4,25,21,WAS
+22020,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.08,23,0.099,1.286,0.556,0.1,0.05,0.05,0.0,0.57,0.667,21,27,10,18,8,WAS
+22020,1628990,Chandler Hutchison,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.253,18,0.292,1.143,0.438,0.06,0.0,0.09,0.0,0.46,0.563,35,40,14,32,18,WAS
+22020,1629010,Jerome Robinson,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.381,17,0.314,1.081,0.389,0.05,0.0,0.05,0.03,0.41,0.528,37,40,14,36,22,WAS
+22020,1628972,Troy Brown Jr.,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.084,21,0.371,1.279,0.474,0.05,0.07,0.05,0.0,0.47,0.684,43,55,18,38,20,WAS
+22020,1629067,Isaac Bonga,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.39,40,0.298,1.075,0.426,0.08,0.06,0.08,0.02,0.43,0.553,53,57,20,47,27,WAS
+22020,203458,Alex Len,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.401,57,0.11,1.068,0.404,0.12,0.05,0.12,0.05,0.42,0.519,59,63,21,52,31,WAS
+22020,202397,Ish Smith,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.217,44,0.253,1.161,0.488,0.03,0.12,0.03,0.01,0.44,0.638,93,108,39,80,41,WAS
+22020,203526,Raul Neto,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.244,64,0.197,1.147,0.469,0.04,0.08,0.03,0.0,0.45,0.62,109,125,45,96,51,WAS
+22020,201577,Robin Lopez,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.257,71,0.139,1.14,0.49,0.03,0.07,0.03,0.01,0.46,0.601,114,130,51,104,53,WAS
+22020,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.396,64,0.336,1.073,0.405,0.06,0.07,0.06,0.03,0.4,0.545,124,133,45,111,66,WAS
+22020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.638,57,0.313,0.975,0.37,0.05,0.05,0.05,0.0,0.38,0.497,162,158,54,146,92,WAS
+22020,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.326,54,0.306,1.101,0.441,0.1,0.1,0.11,0.01,0.44,0.597,148,163,52,118,66,WAS
+22020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.36,65,0.251,1.09,0.418,0.05,0.08,0.04,0.01,0.41,0.57,189,206,69,165,96,WAS
+22020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.279,57,0.303,1.128,0.426,0.07,0.05,0.06,0.02,0.43,0.568,188,212,72,169,97,WAS
+22020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.233,60,0.314,1.155,0.42,0.06,0.05,0.06,0.02,0.42,0.59,232,268,89,212,123,WAS

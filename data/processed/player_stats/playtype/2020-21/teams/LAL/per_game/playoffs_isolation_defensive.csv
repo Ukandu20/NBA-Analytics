@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,201162,Jared Dudley,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,2,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,LAL
+42020,201188,Marc Gasol,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,5,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,LAL
+42020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,5,0.08,0.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2,LAL
+42020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,6,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,LAL
+42020,203463,Ben McLemore,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,4,0.091,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,0.0,0.3,0.3,0.0,LAL
+42020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,6,0.057,1.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.3,0.0,0.0,0.2,0.2,LAL
+42020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,4,0.188,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.8,0.0,0.3,0.8,0.5,LAL
+42020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,5,0.071,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,0.8,1.0,0.2,0.4,0.2,LAL
+42020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,5,0.116,1.0,0.25,0.2,0.0,0.2,0.0,0.4,0.38,1.0,1.0,0.2,0.8,0.6,LAL
+42020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,6,0.087,1.5,0.5,0.5,0.0,0.5,0.0,0.75,0.5,0.7,1.0,0.2,0.3,0.2,LAL
+42020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,6,0.082,1.2,0.5,0.2,0.0,0.0,0.0,0.6,0.5,0.8,1.0,0.3,0.7,0.3,LAL
+42020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,7,0.04,2.5,1.0,0.0,0.0,0.0,0.0,1.0,1.25,0.3,1.0,0.3,0.3,0.0,LAL

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.679,52,0.34,0.93,0.397,0.079,0.107,0.067,0.006,0.399,0.483,356,331,116,292,176,TOR
+22020,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.545,46,0.291,0.873,0.378,0.1,0.17,0.087,0.022,0.362,0.474,229,200,65,172,107,TOR
+22020,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.761,56,0.147,0.978,0.449,0.167,0.106,0.144,0.039,0.472,0.478,180,176,62,138,76,TOR
+22020,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.942,42,0.188,1.12,0.46,0.18,0.098,0.143,0.03,0.489,0.54,133,149,46,100,54,TOR
+22020,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.419,47,0.415,0.81,0.374,0.065,0.119,0.054,0.012,0.363,0.428,168,136,52,139,87,TOR
+22020,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.334,17,0.195,0.786,0.308,0.054,0.036,0.054,0.018,0.321,0.375,56,44,16,52,36,TOR
+22020,1627761,DeAndre' Bembry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.403,51,0.156,0.804,0.471,0.137,0.216,0.137,0.02,0.412,0.485,51,41,16,34,18,TOR
+22020,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.387,43,0.078,0.8,0.457,0.1,0.24,0.1,0.04,0.38,0.486,50,40,16,35,19,TOR
+22020,1630223,Jalen Harris,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.82,13,0.284,1.0,0.556,0.08,0.2,0.08,0.0,0.48,0.611,25,25,10,18,8,TOR
+22020,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.058,35,0.155,0.579,0.267,0.053,0.184,0.026,0.026,0.237,0.317,38,22,8,30,22,TOR
+22020,203918,Rodney Hood,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.991,17,0.214,1.267,0.538,0.133,0.067,0.133,0.067,0.533,0.615,15,19,7,13,6,TOR
+22020,1626169,Stanley Johnson,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.307,61,0.071,0.773,0.333,0.182,0.318,0.136,0.045,0.318,0.417,22,17,4,12,8,TOR
+22020,1629139,Yuta Watanabe,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.61,50,0.047,0.9,0.286,0.2,0.1,0.2,0.0,0.4,0.357,10,9,2,7,5,TOR

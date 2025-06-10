@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.893,31,0.072,0.667,0.43,0.25,0.25,0.25,0.08,0.42,0.43,12,8,3,7,4,PHX
+22019,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.718,55,0.069,0.778,0.31,0.11,0.06,0.11,0.06,0.33,0.38,18,14,5,16,11,PHX
+22019,1629660,Ty Jerome,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.124,31,0.113,1.188,0.47,0.06,0.0,0.06,0.0,0.5,0.57,16,19,7,15,8,PHX
+22019,1627767,Cheick Diallo,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.789,47,0.148,0.733,0.28,0.17,0.07,0.13,0.07,0.33,0.36,30,22,7,25,18,PHX
+22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.411,58,0.071,0.96,0.42,0.2,0.08,0.2,0.04,0.48,0.47,25,24,8,19,11,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.579,56,0.076,0.864,0.37,0.11,0.02,0.11,0.07,0.36,0.43,44,38,15,41,26,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.405,39,0.147,0.962,0.43,0.13,0.06,0.12,0.0,0.48,0.45,52,50,18,42,24,PHX
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.405,71,0.065,0.962,0.44,0.15,0.08,0.13,0.06,0.44,0.47,52,50,19,43,24,PHX
+22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.161,65,0.068,1.143,0.58,0.2,0.12,0.2,0.1,0.53,0.62,49,56,22,38,16,PHX
+22019,203382,Aron Baynes,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.091,42,0.087,1.234,0.6,0.06,0.09,0.04,0.0,0.55,0.68,47,58,24,40,16,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.132,57,0.136,1.176,0.49,0.22,0.12,0.18,0.06,0.51,0.55,51,60,18,37,19,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.496,73,0.085,0.91,0.38,0.15,0.09,0.13,0.06,0.4,0.43,67,61,21,55,34,PHX
+22019,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.347,38,0.097,1.0,0.38,0.12,0.01,0.12,0.01,0.44,0.45,75,75,25,66,41,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.423,66,0.173,0.953,0.42,0.15,0.07,0.14,0.06,0.43,0.45,107,102,37,89,52,PHX

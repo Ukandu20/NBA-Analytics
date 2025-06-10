@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.925,6,0.2,1.556,0.846,0.167,0.111,0.167,0.0,0.778,0.885,18,28,11,13,2,POR
+42020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.725,6,0.128,1.294,0.563,0.0,0.059,0.0,0.0,0.529,0.688,17,22,9,16,7,POR
+42020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.962,6,0.06,1.6,0.714,0.3,0.1,0.2,0.1,0.7,0.857,10,16,5,7,2,POR
+42020,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.013,3.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,3,1,1,0,POR
+42020,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.115,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,3,3,1,3,2,POR
+42020,1626178,Rondae Hollis-Jefferson,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,5,0.167,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,2,1,1,0,POR
+42020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,2,0.4,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,POR
+42020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.061,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,3,2,1,3,2,POR
+42020,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,3,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,POR
+42020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.042,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,POR

@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628410,Edmond Sumner,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.13,53,0.059,1.143,0.455,0.36,0.0,0.36,0.14,0.57,0.455,14,16,5,11,6,BKN
+22022,203933,T.J. Warren,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.886,27,0.165,0.727,0.333,0.14,0.18,0.14,0.0,0.36,0.333,22,16,5,15,10,BKN
+22022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.353,57,0.077,1.0,0.412,0.25,0.12,0.25,0.08,0.46,0.441,24,24,7,17,10,BKN
+22022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.848,26,0.121,0.743,0.31,0.11,0.06,0.14,0.03,0.34,0.362,35,26,9,29,20,BKN
+22022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.288,27,0.085,1.033,0.517,0.0,0.03,0.0,0.0,0.5,0.534,30,31,15,29,14,BKN
+22022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.839,61,0.111,0.756,0.267,0.2,0.07,0.15,0.0,0.39,0.3,41,31,8,30,22,BKN
+22022,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.805,40,0.087,0.778,0.344,0.22,0.13,0.18,0.07,0.38,0.344,45,35,11,32,21,BKN
+22022,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.805,42,0.111,0.778,0.417,0.09,0.11,0.09,0.0,0.38,0.444,45,35,15,36,21,BKN
+22022,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.757,26,0.152,0.818,0.395,0.11,0.07,0.09,0.05,0.41,0.408,44,36,15,38,23,BKN
+22022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.045,25,0.127,1.313,0.667,0.09,0.12,0.09,0.06,0.59,0.704,32,42,18,27,9,BKN
+22022,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.315,48,0.155,1.022,0.487,0.09,0.04,0.09,0.0,0.51,0.526,45,46,19,39,20,BKN
+22022,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.449,39,0.093,0.958,0.429,0.1,0.04,0.08,0.02,0.46,0.464,48,46,18,42,24,BKN
+22022,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.713,74,0.141,0.844,0.358,0.12,0.08,0.11,0.03,0.39,0.406,64,54,19,53,34,BKN
+22022,1629139,Yuta Watanabe,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.052,58,0.146,1.308,0.523,0.15,0.02,0.15,0.02,0.58,0.602,52,68,23,44,21,BKN
+22022,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.514,76,0.11,0.931,0.41,0.14,0.1,0.15,0.01,0.44,0.442,102,95,32,78,46,BKN
+22022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.787,76,0.198,0.787,0.362,0.06,0.08,0.06,0.0,0.36,0.402,202,159,63,174,111,BKN

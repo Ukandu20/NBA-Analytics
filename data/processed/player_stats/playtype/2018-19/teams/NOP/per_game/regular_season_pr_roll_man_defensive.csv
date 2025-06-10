@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.469,42,0.026,1.0,0.455,0.0,0.08,0.0,0.0,0.42,0.545,0.3,0.3,0.1,0.3,0.1,NOP
+22018,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.469,69,0.026,1.0,0.333,0.14,0.0,0.07,0.0,0.43,0.375,0.2,0.2,0.1,0.2,0.1,NOP
+22018,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.23,61,0.046,1.167,0.556,0.0,0.0,0.0,0.0,0.56,0.583,0.3,0.3,0.2,0.3,0.1,NOP
+22018,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.769,64,0.063,0.815,0.385,0.0,0.04,0.0,0.0,0.37,0.423,0.4,0.3,0.2,0.4,0.3,NOP
+22018,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.675,32,0.081,0.871,0.333,0.1,0.13,0.1,0.0,0.35,0.458,1.0,0.8,0.3,0.8,0.5,NOP
+22018,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.258,67,0.025,1.154,0.48,0.08,0.0,0.08,0.04,0.5,0.54,0.4,0.4,0.2,0.4,0.2,NOP
+22018,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.627,59,0.079,0.914,0.406,0.06,0.03,0.06,0.0,0.43,0.438,0.6,0.5,0.2,0.5,0.3,NOP
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.746,56,0.069,0.833,0.364,0.05,0.03,0.03,0.0,0.37,0.418,1.1,0.9,0.4,1.0,0.6,NOP
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.282,73,0.059,1.14,0.46,0.02,0.0,0.02,0.02,0.46,0.56,0.7,0.8,0.3,0.7,0.4,NOP

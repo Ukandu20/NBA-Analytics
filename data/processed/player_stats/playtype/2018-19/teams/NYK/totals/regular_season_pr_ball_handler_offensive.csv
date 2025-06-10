@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.66,59,0.341,0.887,0.462,0.104,0.144,0.08,0.015,0.44,0.48,327,290,116,251,135,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.903,46,0.277,1.004,0.432,0.161,0.133,0.141,0.036,0.446,0.503,249,250,80,185,105,NYK
+22018,203504,Trey Burke,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.918,33,0.494,1.019,0.452,0.141,0.053,0.117,0.053,0.476,0.483,206,210,80,177,97,NYK
+22018,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.462,64,0.336,0.802,0.401,0.134,0.211,0.093,0.004,0.385,0.441,247,198,65,162,97,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.635,75,0.198,0.879,0.418,0.112,0.098,0.098,0.022,0.424,0.451,224,197,76,182,106,NYK
+22018,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.957,73,0.162,1.084,0.563,0.031,0.115,0.023,0.0,0.511,0.607,131,142,63,112,49,NYK
+22018,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.471,21,0.431,0.806,0.398,0.091,0.133,0.079,0.006,0.388,0.441,165,133,51,128,77,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.158,58,0.252,0.651,0.327,0.092,0.191,0.086,0.007,0.322,0.345,152,99,36,110,74,NYK
+22018,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.267,43,0.338,0.714,0.379,0.034,0.176,0.034,0.008,0.328,0.416,119,85,36,95,59,NYK
+22018,1628443,Kadeem Allen,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.657,19,0.366,0.886,0.456,0.086,0.1,0.086,0.0,0.457,0.465,70,62,26,57,31,NYK
+22018,203098,John Jenkins,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.447,22,0.169,0.8,0.4,0.05,0.2,0.05,0.0,0.35,0.467,20,16,6,15,9,NYK
+22018,1628656,Billy Garrett,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.898,4,0.323,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.447,68,0.017,0.8,0.333,0.1,0.0,0.1,0.0,0.4,0.333,10,8,3,9,6,NYK
+22018,201584,Courtney Lee,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.113,12,0.211,0.583,0.3,0.083,0.083,0.083,0.0,0.333,0.3,12,7,3,10,7,NYK

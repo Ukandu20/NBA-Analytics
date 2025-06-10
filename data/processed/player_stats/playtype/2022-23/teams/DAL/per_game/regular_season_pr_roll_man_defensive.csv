@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.985,37,0.045,0.389,0.19,0.06,0.11,0.06,0.06,0.17,0.22,0.5,0.0,0.1,0.4,0.4,DAL
+22022,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.967,78,0.018,0.5,0.21,0.06,0.06,0.06,0.0,0.25,0.25,0.2,0.0,0.0,0.2,0.1,DAL
+22022,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.915,60,0.025,0.692,0.3,0.08,0.15,0.08,0.0,0.31,0.35,0.2,0.0,0.1,0.2,0.1,DAL
+22022,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.399,53,0.021,1.1,0.44,0.1,0.0,0.1,0.0,0.5,0.5,0.2,0.0,0.1,0.2,0.1,DAL
+22022,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.389,71,0.025,1.105,0.47,0.05,0.0,0.05,0.05,0.47,0.55,0.3,0.0,0.1,0.3,0.1,DAL
+22022,1626174,Christian Wood,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.207,67,0.032,1.238,0.58,0.0,0.1,0.0,0.0,0.52,0.68,0.3,0.0,0.2,0.3,0.1,DAL
+22022,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.045,66,0.025,1.5,0.59,0.06,0.06,0.06,0.06,0.56,0.76,0.3,0.0,0.2,0.3,0.1,DAL
+22022,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.19,76,0.052,1.25,0.55,0.08,0.06,0.08,0.0,0.53,0.66,0.5,1.0,0.2,0.4,0.2,DAL

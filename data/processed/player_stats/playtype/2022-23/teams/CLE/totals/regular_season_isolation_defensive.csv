@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.998,33,0.063,0.273,0.2,0.09,0.45,0.0,0.0,0.18,0.2,11,3,1,5,4,CLE
+22022,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.933,41,0.065,0.65,0.214,0.15,0.15,0.1,0.0,0.3,0.25,20,13,3,14,11,CLE
+22022,203526,Raul Neto,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.871,48,0.089,0.737,0.4,0.05,0.16,0.05,0.0,0.37,0.4,19,14,6,15,9,CLE
+22022,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.972,62,0.078,0.529,0.2,0.18,0.09,0.15,0.0,0.26,0.24,34,18,5,25,20,CLE
+22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.962,77,0.078,0.625,0.276,0.03,0.06,0.03,0.0,0.28,0.31,32,20,8,29,21,CLE
+22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.232,68,0.047,1.071,0.52,0.07,0.07,0.04,0.04,0.5,0.54,28,30,13,25,12,CLE
+22022,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.924,44,0.145,0.682,0.306,0.07,0.11,0.05,0.0,0.32,0.361,44,30,11,36,25,CLE
+22022,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.033,76,0.064,1.359,0.63,0.33,0.08,0.33,0.1,0.64,0.648,39,53,17,27,10,CLE
+22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.438,69,0.073,0.964,0.524,0.11,0.14,0.11,0.02,0.48,0.536,56,54,22,42,20,CLE
+22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.519,74,0.091,0.931,0.414,0.14,0.08,0.12,0.03,0.44,0.448,72,67,24,58,34,CLE
+22022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.836,79,0.12,0.757,0.318,0.17,0.09,0.16,0.04,0.36,0.336,140,106,35,110,75,CLE
+22022,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.491,68,0.112,0.939,0.465,0.1,0.17,0.1,0.02,0.43,0.512,115,108,40,86,46,CLE

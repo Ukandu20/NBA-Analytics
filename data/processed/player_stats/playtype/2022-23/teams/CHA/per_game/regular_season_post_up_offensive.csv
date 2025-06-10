@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.743,56,0.101,1.083,0.59,0.3,0.1,0.25,0.05,0.58,0.59,1.1,1.2,0.4,0.7,0.3,CHA
+22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.455,73,0.059,0.942,0.483,0.145,0.087,0.13,0.072,0.46,0.483,0.9,0.9,0.4,0.8,0.4,CHA
+22022,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.479,44,0.114,0.947,0.452,0.158,0.053,0.105,0.026,0.5,0.452,0.9,0.8,0.3,0.7,0.4,CHA
+22022,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.06,65,0.07,0.677,0.346,0.097,0.097,0.097,0.032,0.35,0.346,0.5,0.3,0.1,0.4,0.3,CHA
+22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.497,50,0.028,0.952,0.583,0.19,0.286,0.095,0.048,0.48,0.583,0.4,0.4,0.1,0.2,0.1,CHA

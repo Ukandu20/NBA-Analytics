@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.517,58,0.014,1.0,0.5,0.1,0.1,0.1,0.0,0.5,0.5,0.2,0.0,0.1,0.1,0.1,MIA
+22019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.881,59,0.027,0.688,0.25,0.19,0.063,0.19,0.0,0.38,0.29,0.3,0.0,0.1,0.2,0.2,MIA
+22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.803,55,0.035,0.765,0.29,0.12,0.059,0.12,0.0,0.35,0.36,0.3,0.0,0.1,0.3,0.2,MIA
+22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.115,59,0.028,1.357,0.54,0.07,0.071,0.07,0.07,0.5,0.69,0.2,0.0,0.1,0.2,0.1,MIA
+22019,203086,Meyers Leonard,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.839,51,0.065,0.719,0.32,0.0,0.031,0.0,0.0,0.31,0.37,0.6,0.0,0.2,0.6,0.4,MIA
+22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.053,67,0.022,1.5,0.58,0.19,0.063,0.19,0.0,0.62,0.75,0.2,0.0,0.1,0.2,0.1,MIA
+22019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.596,73,0.046,0.943,0.46,0.09,0.114,0.09,0.0,0.43,0.52,0.5,0.0,0.2,0.4,0.2,MIA
+22019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.591,67,0.069,0.946,0.4,0.03,0.054,0.03,0.03,0.38,0.5,0.6,1.0,0.2,0.5,0.3,MIA
+22019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Defensive,0.164,72,0.048,1.271,0.55,0.06,0.083,0.06,0.02,0.52,0.68,0.7,1.0,0.3,0.6,0.3,MIA

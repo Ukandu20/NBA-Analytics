@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203200,Justin Holiday,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.913,49,0.154,1.259,0.434,0.025,0.037,0.025,0.0,0.432,0.638,2.0,2.1,0.7,1.6,0.9,IND
+22021,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.196,26,0.103,0.796,0.366,0.061,0.143,0.061,0.041,0.327,0.439,2.0,1.5,0.6,1.6,1.0,IND
+22021,1630613,Duane Washington Jr.,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.178,48,0.073,0.784,0.333,0.054,0.135,0.054,0.0,0.324,0.433,1.0,0.6,0.2,0.6,0.4,IND
+22021,1627747,Caris LeVert,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.954,39,0.022,1.353,0.6,0.0,0.118,0.0,0.0,0.529,0.767,0.0,0.6,0.2,0.4,0.2,IND
+22021,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.018,55,0.043,0.455,0.233,0.03,0.061,0.03,0.0,0.242,0.233,1.0,0.3,0.1,0.5,0.4,IND
+22021,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.853,67,0.019,1.167,0.455,0.0,0.083,0.0,0.0,0.417,0.636,0.0,0.2,0.1,0.2,0.1,IND
+22021,203087,Jeremy Lamb,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.443,39,0.049,0.929,0.222,0.286,0.071,0.143,0.0,0.429,0.333,0.0,0.3,0.1,0.2,0.2,IND
+22021,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.098,36,0.022,0.667,0.25,0.067,0.133,0.067,0.0,0.267,0.375,0.0,0.3,0.1,0.3,0.3,IND

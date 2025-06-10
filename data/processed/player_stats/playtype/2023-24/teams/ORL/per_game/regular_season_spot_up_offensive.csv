@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.635,75,0.295,1.085,0.403,0.048,0.063,0.044,0.011,0.396,0.574,3.6,3.9,1.3,3.2,1.9,ORL
+22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.243,72,0.207,0.901,0.345,0.042,0.028,0.039,0.004,0.36,0.445,3.9,3.5,1.3,3.7,2.4,ORL
+22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.503,80,0.126,1.033,0.412,0.113,0.079,0.104,0.021,0.429,0.528,3.0,3.1,1.0,2.5,1.5,ORL
+22023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.653,81,0.216,1.09,0.422,0.042,0.071,0.038,0.019,0.406,0.568,2.6,2.9,1.0,2.4,1.4,ORL
+22023,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.832,80,0.186,1.169,0.461,0.118,0.066,0.103,0.029,0.478,0.587,1.7,2.0,0.7,1.4,0.8,ORL
+22023,203914,Gary Harris,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.661,54,0.406,1.093,0.419,0.021,0.057,0.021,0.0,0.407,0.581,2.6,2.8,1.0,2.4,1.4,ORL
+22023,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.576,55,0.259,1.063,0.393,0.007,0.056,0.007,0.0,0.375,0.559,2.6,2.8,1.0,2.5,1.5,ORL
+22023,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.797,60,0.511,1.153,0.4,0.017,0.051,0.017,0.0,0.39,0.595,2.0,2.3,0.7,1.8,1.1,ORL
+22023,204060,Joe Ingles,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.979,68,0.327,1.364,0.495,0.01,0.051,0.01,0.0,0.475,0.715,1.5,2.0,0.7,1.4,0.7,ORL
+22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.288,69,0.354,0.924,0.373,0.034,0.109,0.034,0.0,0.345,0.51,1.7,1.6,0.6,1.5,0.9,ORL
+22023,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.192,43,0.171,0.866,0.417,0.045,0.075,0.03,0.015,0.403,0.45,1.6,1.3,0.6,1.4,0.8,ORL
+22023,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.013,62,0.038,0.455,0.182,0.0,0.0,0.0,0.0,0.182,0.227,0.2,0.1,0.0,0.2,0.1,ORL

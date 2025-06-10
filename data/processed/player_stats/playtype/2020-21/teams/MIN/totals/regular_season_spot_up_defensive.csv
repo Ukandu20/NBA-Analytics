@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202334,Ed Davis,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.109,24,0.13,1.25,0.45,0.12,0.04,0.12,0.0,0.5,0.65,24,30,9,20,11,MIN
+22020,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.742,34,0.258,0.927,0.319,0.09,0.05,0.09,0.0,0.36,0.436,55,51,15,47,32,MIN
+22020,1627774,Jake Layman,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.69,45,0.328,0.95,0.353,0.07,0.08,0.05,0.0,0.37,0.49,60,57,18,51,33,MIN
+22020,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.549,37,0.239,1.012,0.408,0.06,0.06,0.05,0.02,0.4,0.52,84,85,31,76,45,MIN
+22020,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.073,42,0.312,1.295,0.444,0.08,0.03,0.08,0.03,0.45,0.646,78,101,32,72,40,MIN
+22020,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.239,50,0.114,1.151,0.448,0.06,0.04,0.06,0.04,0.44,0.575,93,107,39,87,48,MIN
+22020,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.097,51,0.257,1.261,0.452,0.05,0.02,0.05,0.02,0.45,0.625,88,111,38,84,46,MIN
+22020,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.075,52,0.375,1.295,0.494,0.03,0.03,0.01,0.0,0.49,0.663,95,123,44,89,45,MIN
+22020,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.369,70,0.157,1.086,0.419,0.04,0.06,0.04,0.01,0.41,0.562,116,126,44,105,61,MIN
+22020,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.832,64,0.31,0.874,0.358,0.04,0.07,0.04,0.01,0.35,0.453,151,132,49,137,88,MIN
+22020,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.125,59,0.255,1.226,0.471,0.07,0.06,0.07,0.01,0.47,0.647,137,168,56,119,63,MIN
+22020,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.287,42,0.399,1.122,0.417,0.04,0.04,0.04,0.01,0.42,0.576,156,175,60,144,84,MIN
+22020,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.427,68,0.28,1.058,0.435,0.04,0.08,0.02,0.01,0.42,0.558,171,181,67,154,87,MIN
+22020,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.201,63,0.273,1.169,0.469,0.05,0.09,0.04,0.02,0.45,0.638,166,194,68,145,77,MIN
+22020,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Spotup,Defensive,0.185,72,0.387,1.175,0.432,0.04,0.04,0.03,0.01,0.43,0.597,274,322,111,257,146,MIN

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.279,62,0.084,0.792,0.347,0.096,0.12,0.088,0.0,0.368,0.388,125,99,34,98,64,DET
+22023,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.639,77,0.069,0.989,0.5,0.191,0.101,0.18,0.056,0.494,0.5,89,88,34,68,34,DET
+22023,202692,Alec Burks,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.988,43,0.055,1.407,0.5,0.111,0.0,0.111,0.0,0.556,0.667,27,38,12,24,12,DET
+22023,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.617,61,0.051,0.974,0.444,0.308,0.103,0.282,0.103,0.513,0.444,39,38,12,27,15,DET
+22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.154,28,0.062,0.667,0.258,0.091,0.0,0.091,0.03,0.303,0.29,33,22,8,31,23,DET
+22023,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.213,71,0.044,0.714,0.25,0.071,0.071,0.071,0.0,0.286,0.333,28,20,6,24,18,DET
+22023,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.434,42,0.048,0.882,0.4,0.059,0.059,0.0,0.0,0.412,0.433,17,15,6,15,9,DET
+22023,1630201,Malachi Flynn,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.914,24,0.058,1.167,0.455,0.083,0.0,0.083,0.0,0.5,0.545,12,14,5,11,6,DET
+22023,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.25,63,0.031,0.737,0.385,0.211,0.105,0.211,0.0,0.421,0.385,19,14,5,13,8,DET
+22023,1630164,James Wiseman,1610612765,DET,Detroit Pistons,Isolation,Offensive,0.677,63,0.024,1.0,0.375,0.2,0.0,0.2,0.0,0.5,0.375,10,10,3,8,5,DET

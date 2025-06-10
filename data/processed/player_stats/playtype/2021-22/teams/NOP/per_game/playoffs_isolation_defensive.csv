@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,NOP
+42021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,NOP
+42021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,NOP
+42021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,NOP
+42021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.11,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.3,0.0,0.0,0.0,0.0,NOP
+42021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.04,0.333,0.0,0.33,0.33,0.33,0.0,0.33,0.0,0.5,0.0,0.0,0.0,0.0,NOP
+42021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.06,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.0,0.0,0.0,NOP
+42021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.0,6,0.09,0.857,0.43,0.0,0.0,0.0,0.0,0.43,0.43,1.2,1.0,0.0,1.0,1.0,NOP
+42021,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Isolation,Defensive,0.044,6,0.15,1.6,0.75,0.1,0.1,0.0,0.0,0.7,0.88,1.7,3.0,1.0,1.0,0.0,NOP

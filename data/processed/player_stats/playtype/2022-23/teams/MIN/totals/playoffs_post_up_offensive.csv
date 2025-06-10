@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.32,5,0.153,0.867,0.5,0.133,0.267,0.067,0.067,0.4,0.5,15,13,5,10,5,MIN
+42022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.0,5,0.035,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,5,8,3,4,1,MIN
+42022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.0,5,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIN
+42022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.0,5,0.045,0.333,0.0,0.333,0.0,0.333,0.0,0.333,0.0,3,1,0,2,2,MIN
+42022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.0,4,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIN

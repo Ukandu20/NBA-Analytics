@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202720,Jon Leuer,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.04,38,0.182,1.345,0.542,0.1,0.07,0.1,0.0,0.55,0.708,29,39,13,24,11,DET
+22018,203922,Glenn Robinson III,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.397,47,0.233,1.049,0.421,0.02,0.07,0.02,0.02,0.39,0.553,41,43,16,38,22,DET
+22018,2585,Zaza Pachulia,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.952,68,0.141,0.701,0.283,0.09,0.04,0.07,0.03,0.3,0.333,67,47,17,60,43,DET
+22018,201961,Wayne Ellington,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.426,28,0.198,1.041,0.4,0.04,0.06,0.02,0.02,0.39,0.533,49,51,18,45,27,DET
+22018,101181,Jose Calderon,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.181,49,0.322,1.141,0.414,0.09,0.03,0.09,0.03,0.44,0.552,64,73,24,58,34,DET
+22018,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.168,44,0.167,1.147,0.459,0.03,0.07,0.03,0.0,0.44,0.598,68,78,28,61,33,DET
+22018,202397,Ish Smith,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.351,56,0.169,1.068,0.409,0.08,0.04,0.08,0.03,0.42,0.53,73,78,27,66,39,DET
+22018,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.31,48,0.256,1.089,0.449,0.06,0.06,0.06,0.0,0.46,0.558,79,86,31,69,38,DET
+22018,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.894,63,0.278,0.81,0.311,0.03,0.07,0.03,0.02,0.3,0.425,116,94,33,106,73,DET
+22018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.653,80,0.175,0.962,0.385,0.05,0.06,0.05,0.03,0.38,0.5,104,100,37,96,59,DET
+22018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.697,74,0.204,0.939,0.345,0.08,0.07,0.08,0.02,0.37,0.46,131,123,39,113,74,DET
+22018,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.755,79,0.142,0.914,0.381,0.05,0.06,0.04,0.02,0.37,0.478,198,181,69,181,112,DET
+22018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.428,82,0.307,1.04,0.389,0.03,0.04,0.03,0.0,0.39,0.526,223,232,81,208,127,DET
+22018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.494,75,0.357,1.02,0.394,0.04,0.07,0.03,0.01,0.39,0.532,296,302,104,264,160,DET

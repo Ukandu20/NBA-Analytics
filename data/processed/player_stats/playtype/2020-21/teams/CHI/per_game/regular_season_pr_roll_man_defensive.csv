@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,1.0,58,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,CHI
+22020,1629655,Daniel Gafford,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.443,31,0.05,1.083,0.55,0.08,0.0,0.08,0.0,0.5,0.59,0.4,0.0,0.2,0.4,0.2,CHI
+22020,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.443,62,0.044,1.083,0.5,0.0,0.17,0.0,0.0,0.42,0.65,0.2,0.0,0.1,0.2,0.1,CHI
+22020,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.776,71,0.027,0.842,0.31,0.11,0.05,0.05,0.0,0.37,0.38,0.3,0.0,0.1,0.2,0.2,CHI
+22020,1628464,Daniel Theis,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.174,23,0.081,1.3,0.5,0.0,0.0,0.0,0.0,0.5,0.65,0.9,1.0,0.4,0.9,0.4,CHI
+22020,202066,Garrett Temple,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.326,56,0.034,1.167,0.45,0.12,0.08,0.12,0.04,0.46,0.6,0.4,0.0,0.2,0.4,0.2,CHI
+22020,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.081,69,0.026,1.429,0.5,0.14,0.05,0.14,0.05,0.52,0.69,0.3,0.0,0.1,0.3,0.1,CHI
+22020,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.607,33,0.067,0.941,0.38,0.03,0.03,0.03,0.0,0.38,0.47,1.0,1.0,0.4,1.0,0.6,CHI
+22020,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.491,51,0.07,1.053,0.45,0.03,0.11,0.03,0.0,0.42,0.59,0.7,1.0,0.3,0.6,0.4,CHI
+22020,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.022,26,0.078,1.629,0.68,0.23,0.0,0.23,0.11,0.71,0.76,1.3,2.0,0.8,1.2,0.4,CHI

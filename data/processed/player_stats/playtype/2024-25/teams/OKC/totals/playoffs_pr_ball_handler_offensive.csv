@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.776,17,0.43,1.072,0.491,0.145,0.097,0.126,0.029,0.502,0.534,207,222,80,163,83,OKC
+42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.741,17,0.309,1.046,0.488,0.111,0.093,0.111,0.0,0.5,0.529,108,113,42,86,44,OKC
+42024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,16,0.098,0.2,0.143,0.0,0.3,0.0,0.0,0.1,0.143,10,2,1,7,6,OKC

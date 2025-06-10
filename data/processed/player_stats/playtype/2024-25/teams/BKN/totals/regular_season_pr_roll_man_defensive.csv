@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.92,25,0.061,0.615,0.308,0.0,0.0,0.0,0.0,0.308,0.308,13,8,4,13,9,BKN
+22024,1641787,Tosan Evbuomwan,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.711,27,0.064,0.846,0.385,0.0,0.0,0.0,0.0,0.385,0.423,13,11,5,13,8,BKN
+22024,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.824,57,0.043,0.737,0.294,0.105,0.053,0.105,0.053,0.316,0.324,19,14,5,17,12,BKN
+22024,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.296,42,0.052,1.231,0.583,0.0,0.077,0.0,0.0,0.538,0.667,13,16,7,12,5,BKN
+22024,1630533,Ziaire Williams,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.185,64,0.027,1.333,0.6,0.0,0.0,0.0,0.0,0.6,0.667,15,20,9,15,6,BKN
+22024,1630553,Keon Johnson,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.792,78,0.045,0.759,0.292,0.172,0.034,0.138,0.034,0.345,0.333,29,22,7,24,17,BKN
+22024,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.299,46,0.05,1.222,0.467,0.167,0.056,0.167,0.056,0.5,0.567,18,22,7,15,8,BKN
+22024,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.044,33,0.056,1.571,0.727,0.071,0.143,0.071,0.0,0.643,0.909,14,22,8,11,3,BKN
+22024,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.326,46,0.059,1.19,0.526,0.095,0.048,0.095,0.048,0.524,0.579,21,25,10,19,9,BKN
+22024,1631213,Tyrese Martin,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.136,57,0.046,1.389,0.588,0.056,0.0,0.056,0.0,0.611,0.676,18,25,10,17,7,BKN
+22024,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.158,78,0.042,1.375,0.611,0.167,0.083,0.167,0.0,0.625,0.722,24,33,11,18,7,BKN
+22024,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.545,69,0.064,1.0,0.419,0.175,0.075,0.175,0.025,0.475,0.468,40,40,13,31,18,BKN

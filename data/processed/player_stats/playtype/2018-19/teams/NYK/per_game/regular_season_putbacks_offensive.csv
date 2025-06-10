@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.769,66,0.369,1.218,0.607,0.204,0.021,0.19,0.049,0.641,0.607,2.2,2.6,1.1,1.8,0.7,NYK
+22018,202683,Enes Freedom,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.566,44,0.232,1.107,0.574,0.079,0.079,0.079,0.029,0.55,0.574,3.2,3.5,1.6,2.8,1.2,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.609,68,0.098,1.136,0.56,0.186,0.017,0.186,0.051,0.593,0.56,0.9,1.0,0.4,0.7,0.3,NYK
+22018,201599,DeAndre Jordan,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.869,19,0.21,1.293,0.629,0.146,0.049,0.146,0.049,0.634,0.629,2.2,2.8,1.2,1.8,0.7,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.219,75,0.039,0.886,0.323,0.227,0.068,0.227,0.0,0.455,0.339,0.6,0.5,0.1,0.4,0.3,NYK
+22018,1628436,Luke Kornet,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.626,46,0.064,1.143,0.474,0.143,0.0,0.143,0.048,0.524,0.5,0.5,0.5,0.2,0.4,0.2,NYK
+22018,1629019,Allonzo Trier,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.844,64,0.024,1.278,0.571,0.167,0.056,0.167,0.0,0.611,0.607,0.3,0.4,0.1,0.2,0.1,NYK
+22018,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.448,59,0.023,1.045,0.588,0.045,0.182,0.045,0.0,0.5,0.618,0.4,0.4,0.2,0.3,0.1,NYK
+22018,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.605,46,0.017,1.133,0.533,0.067,0.0,0.067,0.067,0.533,0.533,0.3,0.4,0.2,0.3,0.2,NYK
+22018,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.278,73,0.019,0.933,0.462,0.067,0.067,0.067,0.0,0.467,0.462,0.2,0.2,0.1,0.2,0.1,NYK
+22018,202498,Lance Thomas,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.707,46,0.046,1.182,0.556,0.182,0.0,0.182,0.0,0.636,0.556,0.2,0.3,0.1,0.2,0.1,NYK
+22018,1626209,Mario Hezonja,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.069,58,0.023,0.714,0.417,0.0,0.143,0.0,0.0,0.357,0.417,0.2,0.2,0.1,0.2,0.1,NYK

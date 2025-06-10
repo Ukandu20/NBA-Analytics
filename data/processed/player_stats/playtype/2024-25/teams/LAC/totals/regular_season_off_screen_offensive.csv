@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.768,60,0.098,1.122,0.5,0.148,0.096,0.139,0.026,0.504,0.572,115,129,45,90,45,LAC
+22024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.232,37,0.055,0.78,0.405,0.024,0.073,0.0,0.0,0.39,0.405,41,32,15,37,22,LAC
+22024,1629599,Amir Coffey,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.55,72,0.026,1.0,0.417,0.188,0.125,0.188,0.063,0.438,0.458,16,16,5,12,7,LAC
+22024,203992,Bogdan Bogdanović,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.064,30,0.059,0.632,0.263,0.0,0.0,0.0,0.0,0.263,0.316,19,12,5,19,14,LAC
+22024,201935,James Harden,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.263,79,0.005,0.8,0.25,0.1,0.1,0.1,0.0,0.3,0.375,10,8,2,8,6,LAC

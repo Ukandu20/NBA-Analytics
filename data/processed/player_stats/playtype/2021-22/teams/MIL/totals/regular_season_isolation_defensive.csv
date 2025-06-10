@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.806,13,0.058,0.727,0.364,0.09,0.0,0.09,0.09,0.364,0.364,11,8,4,11,7,MIL
+22021,1630572,Sandro Mamukelashvili,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.169,29,0.093,1.1,0.4,0.0,0.0,0.0,0.0,0.4,0.55,10,11,4,10,6,MIL
+22021,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.324,5,0.364,1.0,0.455,0.0,0.083,0.0,0.0,0.417,0.545,12,12,5,11,6,MIL
+22021,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.595,35,0.091,0.846,0.33,0.38,0.154,0.31,0.0,0.538,0.33,13,11,2,6,4,MIL
+22021,203918,Rodney Hood,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.716,39,0.091,0.8,0.308,0.07,0.067,0.07,0.0,0.333,0.385,15,12,4,13,9,MIL
+22021,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.104,19,0.089,1.2,0.556,0.05,0.0,0.1,0.0,0.55,0.611,20,24,10,18,8,MIL
+22021,1628400,Semi Ojeleye,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.067,20,0.215,1.25,0.529,0.1,0.05,0.1,0.0,0.55,0.647,20,25,9,17,8,MIL
+22021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.85,67,0.043,0.7,0.28,0.2,0.175,0.18,0.0,0.375,0.28,40,28,7,25,18,MIL
+22021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.3,65,0.05,1.033,0.56,0.03,0.133,0.03,0.0,0.467,0.62,30,31,14,25,11,MIL
+22021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.089,66,0.047,1.214,0.545,0.14,0.107,0.14,0.04,0.536,0.614,28,34,12,22,10,MIL
+22021,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.415,54,0.08,0.947,0.423,0.18,0.158,0.16,0.03,0.447,0.442,38,36,11,26,15,MIL
+22021,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.562,49,0.102,0.878,0.438,0.1,0.171,0.1,0.05,0.39,0.469,41,36,14,32,18,MIL
+22021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.172,62,0.092,1.118,0.467,0.18,0.029,0.18,0.09,0.5,0.517,34,38,14,30,16,MIL
+22021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.303,67,0.077,1.031,0.442,0.09,0.123,0.09,0.02,0.431,0.548,65,67,23,52,29,MIL
+22021,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.163,66,0.111,1.129,0.5,0.19,0.071,0.16,0.04,0.541,0.53,85,96,33,66,33,MIL
+22021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.429,72,0.128,0.943,0.396,0.08,0.038,0.08,0.02,0.415,0.453,106,100,38,96,58,MIL

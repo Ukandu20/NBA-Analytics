@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.671,56,0.082,1.026,0.379,0.09,0.09,0.077,0.026,0.385,0.5,1.4,1.4,0.4,1.2,0.7,CLE
+22019,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.635,65,0.037,1.0,0.545,0.02,0.1,0.02,0.0,0.5,0.557,0.8,0.8,0.4,0.7,0.3,CLE
+22019,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.41,59,0.047,0.902,0.4,0.049,0.122,0.049,0.024,0.366,0.486,0.7,0.6,0.2,0.6,0.4,CLE
+22019,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.685,29,0.068,1.037,0.417,0.037,0.074,0.037,0.0,0.407,0.542,0.9,1.0,0.3,0.8,0.5,CLE
+22019,1629645,Kevin Porter Jr.,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.014,50,0.023,0.385,0.125,0.154,0.231,0.154,0.0,0.231,0.125,0.3,0.1,0.0,0.2,0.1,CLE

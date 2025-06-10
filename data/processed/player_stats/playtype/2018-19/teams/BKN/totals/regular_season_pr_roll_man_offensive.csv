@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.662,80,0.368,1.173,0.625,0.184,0.105,0.177,0.024,0.609,0.625,294,345,135,216,81,BKN
+22018,202334,Ed Davis,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.38,81,0.226,1.01,0.614,0.141,0.162,0.141,0.01,0.525,0.614,99,100,43,70,27,BKN
+22018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.218,59,0.165,0.905,0.457,0.19,0.057,0.181,0.019,0.495,0.457,105,95,37,81,44,BKN
+22018,201162,Jared Dudley,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.023,59,0.125,0.526,0.242,0.026,0.105,0.026,0.0,0.237,0.273,38,20,8,33,25,BKN
+22018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.495,67,0.02,1.067,0.417,0.2,0.067,0.133,0.067,0.467,0.5,15,16,5,12,7,BKN
+22018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.194,76,0.019,0.889,0.353,0.056,0.0,0.056,0.0,0.389,0.412,18,16,6,17,11,BKN
+22018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.075,63,0.02,0.727,0.375,0.091,0.182,0.091,0.0,0.364,0.438,11,8,3,8,5,BKN

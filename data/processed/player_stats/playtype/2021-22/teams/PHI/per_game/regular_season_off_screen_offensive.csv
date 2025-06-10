@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.42,45,0.078,0.918,0.459,0.061,0.204,0.041,0.02,0.388,0.554,1.0,1.0,0.4,0.8,0.4,PHI
+22021,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.748,67,0.057,1.094,0.448,0.031,0.063,0.0,0.0,0.438,0.569,0.0,0.5,0.2,0.4,0.2,PHI
+22021,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.932,55,0.103,1.286,0.421,0.048,0.048,0.048,0.0,0.429,0.632,0.0,0.5,0.1,0.3,0.2,PHI
+22021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.087,73,0.03,0.649,0.276,0.081,0.135,0.081,0.0,0.297,0.328,1.0,0.3,0.1,0.4,0.3,PHI
+22021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.822,76,0.031,1.15,0.421,0.05,0.05,0.05,0.05,0.4,0.579,0.0,0.3,0.1,0.3,0.1,PHI
+22021,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.583,75,0.013,1.0,0.462,0.0,0.133,0.0,0.0,0.4,0.577,0.0,0.2,0.1,0.2,0.1,PHI
+22021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.203,68,0.008,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.2,0.1,0.2,0.1,PHI
+22021,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.032,55,0.021,0.5,0.2,0.0,0.0,0.0,0.0,0.2,0.25,0.0,0.1,0.0,0.2,0.1,PHI

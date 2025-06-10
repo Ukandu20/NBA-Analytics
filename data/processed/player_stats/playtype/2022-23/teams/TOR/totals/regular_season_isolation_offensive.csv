@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.673,71,0.156,0.996,0.478,0.16,0.08,0.137,0.019,0.51,0.485,263,262,98,205,107,TOR
+22022,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.307,77,0.11,0.807,0.409,0.071,0.121,0.064,0.014,0.393,0.422,140,113,47,115,68,TOR
+22022,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.469,69,0.069,0.883,0.365,0.138,0.085,0.106,0.011,0.415,0.405,94,83,27,74,47,TOR
+22022,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.268,66,0.053,0.772,0.333,0.088,0.053,0.088,0.035,0.351,0.363,57,44,17,51,34,TOR
+22022,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.079,67,0.062,0.603,0.327,0.088,0.162,0.074,0.015,0.294,0.337,68,41,17,52,35,TOR
+22022,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.063,55,0.06,0.581,0.333,0.065,0.194,0.065,0.032,0.29,0.333,31,18,8,24,16,TOR
+22022,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.047,53,0.064,0.556,0.357,0.0,0.222,0.0,0.0,0.278,0.357,18,10,5,14,9,TOR

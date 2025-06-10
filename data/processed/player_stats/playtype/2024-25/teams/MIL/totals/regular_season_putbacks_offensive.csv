@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.923,67,0.061,1.369,0.717,0.189,0.018,0.18,0.036,0.703,0.717,111,152,66,92,26,MIL
+22024,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.977,80,0.067,1.525,0.696,0.148,0.0,0.148,0.066,0.721,0.714,61,93,39,56,17,MIL
+22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.573,49,0.088,1.133,0.556,0.1,0.05,0.1,0.05,0.55,0.565,60,68,30,54,24,MIL
+22024,1641748,Andre Jackson Jr.,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.46,67,0.068,1.056,0.643,0.056,0.167,0.056,0.0,0.556,0.643,18,19,9,14,5,MIL
+22024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.147,33,0.029,0.867,0.455,0.133,0.133,0.133,0.0,0.467,0.455,15,13,5,11,6,MIL
+22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.04,80,0.028,0.647,0.417,0.0,0.294,0.0,0.0,0.294,0.458,17,11,5,12,7,MIL

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.661,65,0.097,0.984,0.422,0.065,0.049,0.065,0.0,0.439,0.491,123,121,46,109,63,DEN
+22022,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.457,68,0.091,0.879,0.45,0.22,0.143,0.22,0.033,0.462,0.475,91,80,27,60,33,DEN
+22022,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.602,69,0.045,0.954,0.478,0.169,0.169,0.138,0.046,0.446,0.511,65,62,22,46,24,DEN
+22022,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.394,43,0.135,0.847,0.322,0.125,0.083,0.111,0.028,0.361,0.398,72,61,19,59,40,DEN
+22022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.846,80,0.04,1.108,0.533,0.189,0.108,0.162,0.108,0.514,0.583,37,41,16,30,14,DEN
+22022,202397,Ish Smith,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.418,31,0.117,0.875,0.467,0.0,0.063,0.0,0.0,0.438,0.467,16,14,7,15,8,DEN
+22022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.694,63,0.019,1.0,0.571,0.0,0.222,0.0,0.0,0.444,0.643,18,18,8,14,6,DEN
+22022,201145,Jeff Green,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.451,56,0.038,0.875,0.4,0.125,0.25,0.125,0.0,0.375,0.5,16,14,4,10,6,DEN
+22022,202704,Reggie Jackson,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.157,16,0.105,0.688,0.357,0.0,0.125,0.0,0.0,0.313,0.393,16,11,5,14,9,DEN
+22022,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.087,76,0.031,0.636,0.333,0.182,0.273,0.182,0.0,0.364,0.333,11,7,2,6,4,DEN
+22022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.067,77,0.016,0.583,0.333,0.083,0.167,0.083,0.0,0.25,0.389,12,7,3,9,6,DEN

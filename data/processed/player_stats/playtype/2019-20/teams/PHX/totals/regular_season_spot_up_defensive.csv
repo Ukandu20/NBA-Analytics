@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.961,8,0.278,0.72,0.273,0.2,0.12,0.2,0.2,0.24,0.341,25,18,6,22,16,PHX
+22019,1627767,Cheick Diallo,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.053,47,0.138,1.321,0.519,0.04,0.036,0.04,0.04,0.5,0.667,28,37,14,27,13,PHX
+22019,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.916,31,0.329,0.782,0.3,0.02,0.073,0.02,0.0,0.291,0.42,55,43,15,50,35,PHX
+22019,1629660,Ty Jerome,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.308,31,0.331,1.085,0.422,0.04,0.021,0.04,0.02,0.426,0.556,47,51,19,45,26,PHX
+22019,203382,Aron Baynes,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.398,42,0.112,1.049,0.412,0.13,0.082,0.13,0.05,0.426,0.51,61,64,21,51,30,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.188,39,0.161,1.158,0.453,0.05,0.053,0.05,0.04,0.439,0.594,57,66,24,53,29,PHX
+22019,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.253,55,0.272,1.113,0.433,0.03,0.042,0.03,0.01,0.423,0.575,71,79,29,67,38,PHX
+22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.369,58,0.234,1.061,0.413,0.05,0.049,0.05,0.01,0.415,0.533,82,87,31,75,44,PHX
+22019,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.812,38,0.165,0.89,0.316,0.04,0.039,0.03,0.0,0.331,0.449,127,113,37,117,80,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.271,57,0.306,1.104,0.447,0.02,0.087,0.02,0.0,0.417,0.597,115,127,46,103,57,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.72,73,0.206,0.933,0.371,0.06,0.086,0.06,0.01,0.368,0.482,163,152,52,140,88,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.871,56,0.329,0.842,0.344,0.07,0.1,0.06,0.01,0.342,0.444,190,160,55,160,105,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.415,66,0.248,1.045,0.385,0.07,0.052,0.06,0.0,0.409,0.511,154,161,52,135,83,PHX
+22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.324,65,0.268,1.077,0.416,0.06,0.067,0.05,0.02,0.407,0.561,194,209,72,173,101,PHX
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.359,71,0.301,1.066,0.408,0.08,0.079,0.06,0.01,0.411,0.546,241,257,84,206,122,PHX

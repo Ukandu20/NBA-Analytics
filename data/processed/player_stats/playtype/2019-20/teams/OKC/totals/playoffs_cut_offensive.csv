@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,7,0.083,1.778,0.88,0.111,0.0,0.111,0.0,0.889,0.88,9,16,7,8,1,OKC
+42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.553,7,0.158,1.25,0.58,0.083,0.0,0.083,0.083,0.583,0.58,12,15,7,12,5,OKC
+42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.051,6,0.121,0.917,0.56,0.083,0.167,0.083,0.0,0.5,0.56,12,11,5,9,4,OKC
+42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,7,0.292,0.714,0.33,0.286,0.0,0.143,0.143,0.429,0.33,7,5,2,6,4,OKC
+42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,7,0.043,0.8,0.5,0.2,0.4,0.2,0.0,0.4,0.5,5,4,1,2,1,OKC
+42019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,3,0.125,1.0,0.5,0.5,0.0,0.5,0.5,0.5,0.5,2,2,1,2,1,OKC
+42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,7,0.024,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,OKC

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.906,77,0.049,0.64,0.35,0.08,0.12,0.08,0.0,0.32,0.375,25,16,7,20,13,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.23,73,0.025,1.167,0.467,0.22,0.0,0.22,0.06,0.56,0.533,18,21,7,15,8,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.25,78,0.024,1.158,0.526,0.0,0.0,0.0,0.0,0.53,0.579,19,22,10,19,9,OKC
+22018,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.17,62,0.065,1.238,0.526,0.05,0.05,0.05,0.0,0.52,0.632,21,26,10,19,9,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.112,72,0.029,1.304,0.647,0.22,0.13,0.17,0.09,0.61,0.735,23,30,11,17,6,OKC
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.198,76,0.031,1.2,0.538,0.17,0.03,0.07,0.07,0.53,0.596,30,36,14,26,12,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.198,79,0.046,1.2,0.531,0.08,0.12,0.08,0.0,0.5,0.672,40,48,17,32,15,OKC
+22018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.469,79,0.079,1.0,0.453,0.04,0.07,0.04,0.0,0.44,0.521,106,106,43,95,52,OKC

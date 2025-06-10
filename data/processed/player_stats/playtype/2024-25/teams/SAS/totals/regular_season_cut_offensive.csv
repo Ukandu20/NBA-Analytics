@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.459,54,0.169,1.272,0.667,0.097,0.049,0.097,0.019,0.65,0.667,103,131,60,90,30,SAS
+22024,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.404,46,0.066,1.25,0.65,0.111,0.097,0.111,0.042,0.611,0.65,72,90,39,60,21,SAS
+22024,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.623,77,0.068,1.349,0.66,0.175,0.048,0.175,0.063,0.667,0.66,63,85,35,53,18,SAS
+22024,203084,Harrison Barnes,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.94,82,0.044,1.611,0.781,0.139,0.0,0.139,0.028,0.806,0.781,36,58,25,32,7,SAS
+22024,1642264,Stephon Castle,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.248,81,0.038,1.16,0.579,0.22,0.06,0.2,0.04,0.6,0.579,50,58,22,38,16,SAS
+22024,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.322,36,0.255,1.205,0.645,0.154,0.103,0.154,0.051,0.615,0.645,39,47,20,31,11,SAS
+22024,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.717,36,0.178,1.4,0.64,0.233,0.033,0.233,0.1,0.667,0.64,30,42,16,25,9,SAS
+22024,202687,Bismack Biyombo,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.044,28,0.311,0.894,0.475,0.085,0.085,0.085,0.021,0.447,0.475,47,42,19,40,21,SAS
+22024,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.994,64,0.022,1.818,0.895,0.136,0.0,0.136,0.0,0.909,0.895,22,40,17,19,2,SAS
+22024,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.404,82,0.042,1.25,0.621,0.156,0.031,0.156,0.094,0.625,0.621,32,40,18,29,11,SAS
+22024,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.811,61,0.072,1.458,0.8,0.167,0.042,0.167,0.042,0.75,0.8,24,35,16,20,4,SAS
+22024,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Cut,Offensive,0.651,58,0.041,1.364,0.778,0.182,0.0,0.182,0.0,0.727,0.778,11,15,7,9,2,SAS

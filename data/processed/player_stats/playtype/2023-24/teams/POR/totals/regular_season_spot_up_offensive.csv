@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629680,Matisse Thybulle,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.528,65,0.563,1.043,0.387,0.029,0.048,0.029,0.005,0.383,0.541,209,218,75,194,119,POR
+22023,1641871,Duop Reath,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.651,68,0.303,1.089,0.39,0.028,0.017,0.028,0.006,0.397,0.544,179,195,67,172,105,POR
+22023,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.163,72,0.346,0.844,0.333,0.116,0.089,0.107,0.018,0.364,0.429,225,190,61,183,122,POR
+22023,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.272,70,0.346,0.913,0.363,0.082,0.082,0.071,0.02,0.372,0.47,196,179,61,168,107,POR
+22023,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.787,46,0.137,1.149,0.41,0.028,0.028,0.028,0.007,0.411,0.578,141,162,55,134,79,POR
+22023,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.141,62,0.417,0.822,0.325,0.027,0.086,0.027,0.011,0.308,0.44,185,152,54,166,112,POR
+22023,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.845,32,0.163,1.176,0.462,0.066,0.077,0.066,0.0,0.462,0.628,91,107,36,78,42,POR
+22023,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.296,30,0.188,0.933,0.354,0.01,0.048,0.0,0.0,0.343,0.49,105,98,35,99,64,POR
+22023,1641712,Rayan Rupert,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.253,39,0.416,0.905,0.351,0.024,0.06,0.024,0.0,0.345,0.468,84,76,27,77,50,POR
+22023,1630204,Ashton Hagans,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.532,19,0.404,1.045,0.444,0.091,0.091,0.091,0.0,0.455,0.542,44,46,16,36,20,POR
+22023,1630219,Skylar Mays,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.607,21,0.259,1.071,0.425,0.0,0.048,0.0,0.0,0.405,0.563,42,45,17,40,23,POR
+22023,1631303,Justin Minaya,1610612757,POR,Portland Trail Blazers,Spotup,Offensive,0.069,34,0.386,0.706,0.233,0.118,0.029,0.088,0.029,0.294,0.333,34,24,7,30,23,POR

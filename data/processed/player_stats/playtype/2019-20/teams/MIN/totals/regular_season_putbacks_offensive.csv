@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.956,35,0.094,1.416,0.698,0.182,0.039,0.169,0.039,0.714,0.714,77,109,44,63,19,MIN
+22019,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.543,62,0.081,1.109,0.543,0.217,0.065,0.217,0.043,0.565,0.543,46,51,19,35,16,MIN
+22019,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.618,63,0.058,1.146,0.7,0.122,0.171,0.122,0.024,0.585,0.7,41,47,21,30,9,MIN
+22019,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.164,46,0.109,0.868,0.467,0.132,0.105,0.105,0.026,0.421,0.467,38,33,14,30,16,MIN
+22019,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.33,42,0.029,1.0,0.5,0.138,0.034,0.138,0.0,0.517,0.5,29,29,12,24,12,MIN
+22019,1628395,Jordan Bell,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.362,20,0.132,1.0,0.444,0.1,0.0,0.1,0.0,0.5,0.444,10,10,4,9,5,MIN
+22019,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.223,30,0.092,0.923,0.429,0.154,0.077,0.154,0.038,0.462,0.429,26,24,9,21,12,MIN
+22019,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.976,37,0.065,1.438,0.714,0.25,0.0,0.25,0.125,0.75,0.714,16,23,10,14,4,MIN
+22019,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.653,48,0.03,1.167,0.533,0.111,0.056,0.111,0.0,0.556,0.6,18,21,8,15,7,MIN
+22019,203943,Noah Vonleh,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.969,29,0.118,1.429,0.889,0.214,0.143,0.214,0.0,0.786,0.889,14,20,8,9,1,MIN
+22019,1626203,Treveon Graham,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.43,33,0.09,1.053,0.467,0.211,0.053,0.211,0.053,0.526,0.467,19,20,7,15,8,MIN
+22019,201949,James Johnson,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.63,14,0.073,1.154,0.583,0.0,0.077,0.0,0.0,0.538,0.625,13,15,7,12,5,MIN
+22019,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.01,14,0.094,0.438,0.231,0.125,0.063,0.125,0.0,0.25,0.231,16,7,3,13,10,MIN

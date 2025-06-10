@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,200757,Thabo Sefolosha,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.873,50,0.097,0.684,0.25,0.16,0.05,0.11,0.05,0.32,0.28,0.4,0.3,0.1,0.3,0.2,UTA
+22018,1628960,Grayson Allen,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.026,38,0.092,1.357,0.64,0.29,0.14,0.29,0.21,0.57,0.73,0.4,0.5,0.2,0.3,0.1,UTA
+22018,203957,Danté Exum,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.747,42,0.125,0.771,0.42,0.06,0.23,0.03,0.03,0.31,0.5,0.8,0.6,0.3,0.6,0.4,UTA
+22018,2594,Kyle Korver,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.176,54,0.094,1.094,0.5,0.12,0.09,0.12,0.09,0.47,0.55,0.6,0.6,0.3,0.5,0.3,UTA
+22018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.501,77,0.076,0.881,0.44,0.07,0.12,0.07,0.03,0.41,0.48,0.8,0.7,0.3,0.6,0.4,UTA
+22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.6,80,0.103,0.833,0.37,0.08,0.08,0.06,0.02,0.38,0.42,0.8,0.7,0.3,0.7,0.5,UTA
+22018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.55,68,0.091,0.855,0.37,0.14,0.12,0.12,0.01,0.41,0.39,1.0,0.9,0.3,0.8,0.5,UTA
+22018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.901,81,0.062,0.65,0.33,0.07,0.15,0.06,0.01,0.32,0.35,1.2,0.8,0.3,1.0,0.7,UTA
+22018,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.183,82,0.098,1.09,0.51,0.16,0.1,0.13,0.06,0.51,0.55,0.8,0.9,0.3,0.6,0.3,UTA
+22018,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.63,76,0.096,0.822,0.38,0.07,0.06,0.07,0.01,0.38,0.41,1.2,1.0,0.4,1.1,0.7,UTA
+22018,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.103,82,0.084,1.178,0.51,0.1,0.03,0.08,0.01,0.53,0.57,0.9,1.0,0.4,0.8,0.4,UTA

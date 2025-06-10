@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.504,79,0.175,0.926,0.421,0.128,0.119,0.119,0.023,0.426,0.476,352,326,115,273,158,MIN
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.617,62,0.125,0.974,0.474,0.167,0.128,0.154,0.026,0.487,0.478,156,152,54,114,60,MIN
+22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.316,79,0.085,0.82,0.391,0.06,0.02,0.06,0.0,0.42,0.391,50,41,18,46,28,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.951,72,0.025,1.263,0.688,0.053,0.105,0.053,0.0,0.632,0.719,19,24,11,16,5,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.154,81,0.023,0.667,0.4,0.042,0.125,0.042,0.0,0.333,0.4,24,16,8,20,12,MIN
+22023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.836,76,0.014,1.091,0.571,0.182,0.182,0.091,0.0,0.545,0.571,11,12,4,7,3,MIN
+22023,1628420,Monté Morris,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.299,27,0.076,0.8,0.333,0.2,0.0,0.2,0.1,0.4,0.333,10,8,3,9,6,MIN

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.588,57,0.15,0.979,0.4,0.128,0.177,0.106,0.014,0.397,0.5,2.5,2.4,0.7,1.8,1.1,BKN
+22024,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.625,25,0.187,1.0,0.483,0.056,0.148,0.056,0.009,0.435,0.552,4.3,4.3,1.7,3.5,1.8,BKN
+22024,1631213,Tyrese Martin,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.545,60,0.135,0.961,0.453,0.026,0.145,0.026,0.013,0.395,0.547,1.3,1.2,0.5,1.1,0.6,BKN
+22024,1630553,Keon Johnson,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.558,79,0.063,0.967,0.404,0.15,0.1,0.15,0.033,0.417,0.5,0.8,0.7,0.2,0.6,0.4,BKN
+22024,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.424,44,0.117,0.895,0.472,0.175,0.211,0.175,0.018,0.456,0.514,1.3,1.2,0.4,0.8,0.4,BKN
+22024,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.244,29,0.125,0.755,0.372,0.075,0.132,0.057,0.019,0.358,0.419,1.8,1.4,0.6,1.5,0.9,BKN
+22024,1630533,Ziaire Williams,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.254,63,0.072,0.761,0.282,0.065,0.109,0.065,0.022,0.283,0.385,0.7,0.6,0.2,0.6,0.4,BKN
+22024,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.108,79,0.062,0.625,0.237,0.125,0.104,0.104,0.021,0.292,0.263,0.6,0.4,0.1,0.5,0.4,BKN
+22024,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.362,23,0.08,0.848,0.355,0.03,0.03,0.03,0.0,0.364,0.419,1.4,1.2,0.5,1.3,0.9,BKN
+22024,1629003,Shake Milton,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.957,27,0.099,1.263,0.563,0.158,0.105,0.158,0.105,0.526,0.625,0.7,0.9,0.3,0.6,0.3,BKN
+22024,1641787,Tosan Evbuomwan,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.774,28,0.072,1.095,0.6,0.095,0.19,0.095,0.0,0.524,0.667,0.8,0.8,0.3,0.5,0.2,BKN
+22024,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.075,46,0.037,0.529,0.2,0.0,0.118,0.0,0.0,0.176,0.3,0.4,0.2,0.1,0.3,0.3,BKN
+22024,1641736,Reece Beekman,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.292,34,0.073,0.8,0.8,0.0,0.5,0.0,0.0,0.4,0.8,0.3,0.2,0.1,0.1,0.0,BKN
+22024,1641727,Dariq Whitehead,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.047,20,0.097,0.455,0.25,0.0,0.273,0.0,0.0,0.182,0.313,0.6,0.3,0.1,0.4,0.3,BKN

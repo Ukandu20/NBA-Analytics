@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629603,Mamadi Diakite,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,7,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,MIL
+42020,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,13,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,MIL
+42020,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,5,0.053,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.2,0.0,0.0,0.0,0.0,MIL
+42020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,3,0.053,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.3,0.3,0.0,MIL
+42020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,23,0.015,0.6,0.25,0.0,0.2,0.0,0.0,0.2,0.38,0.2,0.0,0.0,0.2,0.1,MIL
+42020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,23,0.01,1.667,1.0,0.33,0.33,0.33,0.0,0.67,1.5,0.1,0.0,0.0,0.0,0.0,MIL
+42020,200782,P.J. Tucker,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,23,0.009,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,0.1,0.0,0.1,0.1,0.0,MIL
+42020,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,20,0.037,0.714,0.17,0.14,0.0,0.14,0.0,0.29,0.25,0.4,0.0,0.1,0.3,0.3,MIL
+42020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.875,21,0.04,0.6,0.22,0.0,0.1,0.0,0.0,0.2,0.33,0.5,0.0,0.1,0.4,0.3,MIL
+42020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,20,0.092,1.625,0.57,0.12,0.0,0.12,0.0,0.62,0.79,0.4,1.0,0.2,0.4,0.2,MIL
+42020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.765,23,0.053,0.636,0.3,0.0,0.09,0.0,0.0,0.27,0.35,1.0,1.0,0.3,0.9,0.6,MIL
+42020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.059,23,0.068,1.643,0.7,0.36,0.0,0.36,0.07,0.79,0.8,0.6,1.0,0.3,0.4,0.1,MIL

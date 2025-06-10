@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630527,Brandon Boston,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAC
+42022,203496,Robert Covington,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,2,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAC
+42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,3,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,0,0,6,6,LAC
+42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,5,0.222,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,6,4,2,6,4,LAC
+42022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,2,0.286,1.0,1.0,0.33,0.5,0.33,0.0,0.5,1.0,6,6,1,1,0,LAC
+42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.943,5,0.313,0.6,0.33,0.0,0.1,0.0,0.0,0.3,0.33,10,6,3,9,6,LAC
+42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.989,5,0.295,0.556,0.23,0.11,0.17,0.11,0.0,0.28,0.23,18,10,3,13,10,LAC
+42022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.202,5,0.483,1.143,0.64,0.07,0.14,0.0,0.0,0.57,0.64,14,16,7,11,4,LAC
+42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.191,5,0.385,1.15,0.56,0.1,0.05,0.1,0.05,0.55,0.58,20,23,10,18,8,LAC
+42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.067,5,0.511,1.333,0.62,0.08,0.08,0.08,0.04,0.58,0.69,24,32,13,21,8,LAC

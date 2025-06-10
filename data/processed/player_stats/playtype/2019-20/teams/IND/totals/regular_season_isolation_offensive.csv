@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.629,54,0.151,0.917,0.431,0.09,0.111,0.09,0.007,0.431,0.47,144,132,50,116,66,IND
+22019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.745,66,0.077,0.981,0.468,0.038,0.075,0.038,0.0,0.453,0.511,53,52,22,47,25,IND
+22019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.478,67,0.044,0.843,0.432,0.078,0.078,0.078,0.02,0.431,0.432,51,43,19,44,25,IND
+22019,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.992,71,0.049,1.5,0.76,0.038,0.038,0.038,0.038,0.731,0.76,26,39,19,25,6,IND
+22019,203087,Jeremy Lamb,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.401,46,0.073,0.81,0.351,0.095,0.048,0.071,0.024,0.381,0.392,42,34,13,37,24,IND
+22019,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.069,19,0.094,0.533,0.273,0.067,0.2,0.067,0.0,0.267,0.295,30,16,6,22,16,IND
+22019,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.045,62,0.01,0.5,0.273,0.0,0.083,0.0,0.0,0.25,0.273,12,6,3,11,8,IND
+22019,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.02,31,0.056,0.4,0.286,0.1,0.2,0.1,0.0,0.2,0.286,10,4,2,7,5,IND

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.26,62,0.243,0.804,0.43,0.142,0.142,0.111,0.018,0.422,0.43,225,181,71,165,94,SAC
+22018,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.343,81,0.123,0.861,0.458,0.096,0.096,0.07,0.026,0.443,0.458,115,99,44,96,52,SAC
+22018,1628385,Harry Giles III,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.167,58,0.233,0.71,0.377,0.15,0.14,0.112,0.009,0.383,0.377,107,76,29,77,48,SAC
+22018,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.627,28,0.191,0.972,0.451,0.222,0.083,0.208,0.028,0.5,0.451,72,70,23,51,28,SAC
+22018,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.814,70,0.037,1.077,0.517,0.231,0.103,0.205,0.077,0.538,0.517,39,42,15,29,14,SAC
+22018,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.404,77,0.063,0.889,0.469,0.156,0.156,0.111,0.022,0.467,0.469,45,40,15,32,17,SAC
+22018,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.196,42,0.111,0.762,0.333,0.238,0.048,0.238,0.143,0.381,0.333,21,16,6,18,12,SAC

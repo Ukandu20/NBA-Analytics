@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1642276,Kel'el Ware,1610612748,MIA,Miami Heat,Handoff,Defensive,0.139,59,0.019,1.167,0.4,0.083,0.083,0.083,0.0,0.417,0.6,12,14,4,10,6,MIA
+22024,1630558,Davion Mitchell,1610612748,MIA,Miami Heat,Handoff,Defensive,0.605,30,0.091,0.875,0.36,0.125,0.094,0.125,0.0,0.406,0.4,32,28,9,25,16,MIA
+22024,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Handoff,Defensive,0.399,25,0.126,0.967,0.393,0.033,0.033,0.033,0.0,0.4,0.482,30,29,11,28,17,MIA
+22024,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Handoff,Defensive,0.584,64,0.065,0.882,0.423,0.059,0.176,0.059,0.0,0.382,0.519,34,30,11,26,15,MIA
+22024,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,Handoff,Defensive,0.27,74,0.085,1.071,0.455,0.114,0.114,0.114,0.014,0.457,0.555,70,75,25,55,30,MIA

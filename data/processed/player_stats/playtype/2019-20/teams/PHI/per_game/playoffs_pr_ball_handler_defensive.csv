@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.0,4,0.2,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,0.0,0.0,0.0,PHI
+42019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.0,4,0.07,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,1.0,1.0,0.3,1.0,0.8,PHI
+42019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.0,4,0.267,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,1.0,1.0,0.5,1.0,0.5,PHI
+42019,203526,Raul Neto,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.0,2,0.727,1.125,0.57,0.0,0.12,0.0,0.0,0.5,0.64,4.0,4.0,2.0,3.5,1.5,PHI
+42019,202692,Alec Burks,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.524,4,0.414,0.917,0.36,0.08,0.0,0.08,0.0,0.42,0.41,3.0,3.0,1.0,2.8,1.8,PHI
+42019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.107,4,0.308,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.62,3.0,4.0,1.5,3.0,1.5,PHI
+42019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.155,4,0.425,1.176,0.53,0.12,0.06,0.12,0.06,0.53,0.57,4.3,5.0,2.0,3.8,1.8,PHI
+42019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.143,4,0.468,1.182,0.44,0.14,0.05,0.14,0.0,0.5,0.56,5.5,6.0,2.0,4.5,2.5,PHI
+42019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.071,4,0.551,1.333,0.56,0.11,0.04,0.11,0.07,0.56,0.64,6.8,9.0,3.5,6.3,2.8,PHI

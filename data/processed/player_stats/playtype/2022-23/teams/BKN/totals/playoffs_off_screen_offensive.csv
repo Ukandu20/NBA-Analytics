@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,4,0.127,1.0,0.375,0.0,0.0,0.0,0.0,0.375,0.5,8,8,3,8,5,BKN
+42022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,4,0.053,0.6,0.25,0.0,0.2,0.0,0.0,0.2,0.375,5,3,1,4,3,BKN
+42022,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,4,0.059,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
+42022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,4,0.027,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,BKN
+42022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,3,0.048,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,BKN
+42022,1629139,Yuta Watanabe,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.0,1,0.25,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1,0,0,0,0,BKN

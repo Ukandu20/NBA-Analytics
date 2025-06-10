@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.753,70,0.179,0.99,0.416,0.067,0.048,0.043,0.024,0.421,0.492,209,207,79,190,111,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.8,70,0.142,1.0,0.427,0.177,0.065,0.145,0.011,0.484,0.469,186,186,61,143,82,OKC
+22019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.814,65,0.1,1.008,0.478,0.154,0.138,0.146,0.024,0.472,0.511,123,124,43,90,47,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.729,62,0.097,0.969,0.359,0.143,0.082,0.133,0.02,0.408,0.442,98,95,28,78,50,OKC
+22019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.469,61,0.049,0.842,0.375,0.105,0.105,0.105,0.053,0.368,0.438,19,16,6,16,10,OKC
+22019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.361,63,0.022,0.8,0.455,0.067,0.2,0.067,0.0,0.4,0.455,15,12,5,11,6,OKC
+22019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.045,46,0.037,0.5,0.25,0.214,0.214,0.214,0.0,0.286,0.25,14,7,2,8,6,OKC

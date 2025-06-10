@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629109,Gary Clark,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.867,35,0.057,0.667,0.3,0.083,0.083,0.083,0.0,0.333,0.3,12,8,3,10,7,ORL
+22020,1630181,R.J. Hampton,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.867,26,0.117,0.667,0.3,0.148,0.111,0.111,0.0,0.333,0.32,27,18,6,20,14,ORL
+22020,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.871,31,0.092,0.656,0.29,0.063,0.094,0.063,0.03,0.281,0.34,32,21,8,28,20,ORL
+22020,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.126,45,0.053,1.2,0.5,0.0,0.1,0.0,0.0,0.45,0.67,20,24,9,18,9,ORL
+22020,1626184,Chasson Randle,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.867,41,0.11,0.667,0.21,0.167,0.056,0.139,0.03,0.306,0.24,36,24,6,29,23,ORL
+22020,203914,Gary Harris,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.051,20,0.143,1.333,0.56,0.143,0.095,0.143,0.0,0.571,0.72,21,28,9,16,7,ORL
+22020,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.262,25,0.096,1.077,0.56,0.115,0.192,0.115,0.0,0.5,0.64,26,28,10,18,8,ORL
+22020,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.237,46,0.079,1.091,0.48,0.091,0.091,0.091,0.06,0.455,0.55,33,36,14,29,15,ORL
+22020,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.303,26,0.119,1.054,0.48,0.054,0.189,0.054,0.03,0.405,0.6,37,39,14,29,15,ORL
+22020,203516,James Ennis III,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.323,41,0.126,1.045,0.43,0.114,0.091,0.114,0.0,0.455,0.54,44,46,15,35,20,ORL
+22020,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.057,47,0.091,1.326,0.5,0.043,0.043,0.022,0.0,0.5,0.68,46,61,21,42,21,ORL
+22020,1628407,Dwayne Bacon,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.183,72,0.107,1.149,0.49,0.081,0.054,0.068,0.01,0.5,0.59,74,85,32,65,33,ORL

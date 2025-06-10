@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.967,15,0.154,1.417,0.722,0.167,0.125,0.125,0.042,0.667,0.778,24,34,13,18,5,MIL
+42018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.423,15,0.055,1.0,0.533,0.19,0.143,0.19,0.048,0.476,0.533,21,21,8,15,7,MIL
+42018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.733,15,0.141,1.143,0.417,0.143,0.0,0.143,0.0,0.5,0.5,14,16,5,12,7,MIL
+42018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.034,14,0.077,0.636,0.3,0.0,0.091,0.0,0.0,0.273,0.35,11,7,3,10,7,MIL
+42018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,8,0.208,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,MIL
+42018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,15,0.023,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,MIL
+42018,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,9,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,15,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,15,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.0,15,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,MIL

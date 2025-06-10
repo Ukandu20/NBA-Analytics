@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.753,74,0.06,1.094,0.516,0.028,0.075,0.028,0.009,0.472,0.6,106,116,49,95,46,DEN
+22021,1627854,Bryn Forbes,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.621,35,0.3,1.024,0.378,0.071,0.071,0.071,0.024,0.381,0.507,84,86,28,74,46,DEN
+22021,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.863,69,0.05,1.171,0.394,0.057,0.0,0.057,0.0,0.429,0.561,35,41,13,33,20,DEN
+22021,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.95,75,0.027,1.333,0.522,0.0,0.042,0.0,0.0,0.5,0.696,24,32,12,23,11,DEN
+22021,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.315,71,0.031,0.853,0.333,0.029,0.088,0.029,0.0,0.324,0.45,34,29,10,30,20,DEN
+22021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.89,75,0.015,1.188,0.4,0.063,0.0,0.063,0.0,0.438,0.567,16,19,6,15,9,DEN
+22021,201145,Jeff Green,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.583,75,0.016,1.0,0.3,0.091,0.0,0.091,0.0,0.364,0.45,11,11,3,10,7,DEN
+22021,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.005,67,0.028,0.333,0.2,0.167,0.083,0.083,0.083,0.167,0.2,12,4,2,10,8,DEN
+22021,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.0,9,0.119,0.286,0.154,0.0,0.071,0.0,0.0,0.143,0.154,14,4,2,13,11,DEN

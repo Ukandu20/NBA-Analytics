@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.916,69,0.03,0.7,0.333,0.3,0.1,0.3,0.0,0.4,0.417,10,7,2,6,4,PHI
+22022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.12,66,0.01,1.067,0.5,0.13,0.0,0.13,0.07,0.533,0.536,15,16,7,14,7,PHI
+22022,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.674,25,0.229,0.842,0.533,0.0,0.21,0.0,0.0,0.42,0.533,19,16,8,15,7,PHI
+22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.744,78,0.09,0.829,0.406,0.12,0.146,0.1,0.05,0.39,0.438,41,34,13,32,19,PHI
+22022,1629667,Jalen McDaniels,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.626,24,0.28,0.87,0.483,0.11,0.261,0.11,0.0,0.413,0.517,46,40,14,29,15,PHI
+22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.732,56,0.3,0.835,0.348,0.19,0.121,0.16,0.07,0.385,0.377,91,76,24,69,45,PHI
+22022,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.893,49,0.46,0.731,0.392,0.13,0.252,0.1,0.01,0.361,0.405,119,87,29,74,45,PHI
+22022,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.719,76,0.3,0.841,0.415,0.1,0.152,0.1,0.02,0.399,0.453,138,116,44,106,62,PHI
+22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.105,58,0.19,1.085,0.516,0.09,0.119,0.08,0.02,0.483,0.6,118,128,49,95,46,PHI
+22022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.211,75,0.2,1.007,0.482,0.1,0.128,0.1,0.02,0.454,0.54,141,142,54,112,58,PHI
+22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.81,74,0.27,0.798,0.399,0.08,0.155,0.08,0.03,0.368,0.435,193,154,61,153,92,PHI
+22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.288,60,0.39,0.983,0.461,0.11,0.149,0.1,0.02,0.443,0.52,235,231,82,178,96,PHI
+22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.204,77,0.39,1.011,0.486,0.12,0.123,0.11,0.03,0.464,0.536,358,362,136,280,144,PHI

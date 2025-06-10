@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.818,62,0.124,1.462,0.737,0.21,0.05,0.202,0.059,0.731,0.737,119,174,70,95,25,IND
+22022,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Cut,Offensive,0.779,68,0.113,1.431,0.717,0.194,0.056,0.194,0.083,0.694,0.717,72,103,43,60,17,IND
+22022,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Cut,Offensive,0.246,63,0.189,1.171,0.613,0.207,0.061,0.207,0.024,0.634,0.613,82,96,38,62,24,IND
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.199,78,0.057,1.123,0.508,0.219,0.027,0.219,0.055,0.575,0.508,73,82,30,59,29,IND
+22022,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Cut,Offensive,0.512,65,0.093,1.308,0.594,0.256,0.0,0.256,0.077,0.667,0.594,39,51,19,32,13,IND
+22022,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,Cut,Offensive,0.731,14,0.19,1.455,0.86,0.273,0.182,0.273,0.091,0.727,0.86,11,16,6,7,1,IND
+22022,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Cut,Offensive,0.292,73,0.041,1.2,0.652,0.133,0.1,0.133,0.0,0.633,0.652,30,36,15,23,8,IND
+22022,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Cut,Offensive,0.92,80,0.016,1.55,0.882,0.05,0.1,0.1,0.05,0.75,0.882,20,31,15,17,2,IND
+22022,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,Cut,Offensive,0.83,46,0.037,1.467,0.727,0.267,0.133,0.267,0.133,0.667,0.727,15,22,8,11,3,IND
+22022,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Cut,Offensive,0.368,75,0.021,1.235,0.625,0.059,0.059,0.059,0.059,0.588,0.625,17,21,10,16,6,IND
+22022,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,Cut,Offensive,0.814,24,0.044,1.462,0.667,0.231,0.0,0.231,0.154,0.692,0.667,13,19,8,12,4,IND
+22022,1628464,Daniel Theis,1610612754,IND,Indiana Pacers,Cut,Offensive,0.407,7,0.231,1.25,0.636,0.083,0.0,0.083,0.0,0.667,0.636,12,15,7,11,4,IND
+22022,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Cut,Offensive,0.292,75,0.015,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,10,12,6,9,3,IND

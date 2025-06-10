@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.607,11,0.192,0.891,0.44,0.217,0.196,0.13,0.0,0.457,0.44,46,41,12,27,15,PHI
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.741,12,0.058,0.923,0.5,0.154,0.231,0.077,0.0,0.462,0.5,13,12,4,8,4,PHI
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.741,11,0.203,0.923,0.57,0.154,0.308,0.154,0.0,0.462,0.57,13,12,4,7,3,PHI
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.889,12,0.06,1.0,0.62,0.0,0.2,0.0,0.0,0.5,0.62,10,10,5,8,3,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.259,12,0.077,0.667,0.36,0.067,0.067,0.067,0.067,0.333,0.36,15,10,5,14,9,PHI
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,10,0.146,0.857,0.25,0.286,0.143,0.143,0.0,0.429,0.25,7,6,1,4,3,PHI
+42018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,4,0.2,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,7,0.053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,PHI

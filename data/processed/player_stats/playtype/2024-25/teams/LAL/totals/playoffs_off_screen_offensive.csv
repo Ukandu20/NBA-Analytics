@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.467,5,0.111,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.538,13,14,7,13,6,LAL

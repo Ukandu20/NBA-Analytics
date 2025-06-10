@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.409,63,0.485,0.807,0.409,0.139,0.172,0.111,0.019,0.404,0.434,646,521,187,457,270,MEM
+22020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.37,67,0.253,0.797,0.4,0.074,0.119,0.074,0.029,0.379,0.419,311,248,104,260,156,MEM
+22020,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.57,70,0.444,0.882,0.461,0.052,0.108,0.047,0.009,0.434,0.467,212,187,83,180,97,MEM
+22020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.785,69,0.194,0.988,0.5,0.125,0.163,0.125,0.013,0.469,0.543,160,158,58,116,58,MEM
+22020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.615,52,0.257,0.902,0.479,0.065,0.187,0.057,0.016,0.415,0.532,123,111,45,94,49,MEM
+22020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.515,50,0.139,0.855,0.4,0.116,0.174,0.116,0.014,0.391,0.45,69,59,20,50,30,MEM
+22020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.103,68,0.09,0.635,0.333,0.019,0.25,0.019,0.019,0.25,0.41,52,33,13,39,26,MEM
+22020,1626159,Justise Winslow,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.024,26,0.224,0.458,0.245,0.051,0.136,0.051,0.017,0.237,0.245,59,27,12,49,37,MEM
+22020,204025,Tim Frazier,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.012,5,0.407,0.364,0.2,0.0,0.091,0.0,0.0,0.182,0.2,11,4,2,10,8,MEM

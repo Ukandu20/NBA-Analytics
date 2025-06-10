@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.021,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,ORL
+42019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.042,0.0,0.0,0.0,0.67,0.0,0.0,0.0,0.0,3,0,0,1,1,ORL
+42019,203920,Khem Birch,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.027,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,1,0,0,0,ORL
+42019,203516,James Ennis III,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,ORL
+42019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.025,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,ORL
+42019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.077,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,ORL
+42019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.056,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,3,2,1,2,1,ORL
+42019,1629109,Gary Clark,1610612753,ORL,Orlando Magic,Postup,Defensive,0.0,5,0.098,0.667,0.33,0.33,0.17,0.33,0.0,0.5,0.33,6,4,1,3,2,ORL

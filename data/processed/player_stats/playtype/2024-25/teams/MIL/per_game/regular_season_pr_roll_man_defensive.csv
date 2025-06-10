@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.401,58,0.04,1.115,0.409,0.077,0.077,0.077,0.0,0.423,0.568,0.4,0.5,0.2,0.4,0.2,MIL
+22024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.212,67,0.039,1.308,0.522,0.077,0.038,0.077,0.0,0.538,0.674,0.4,0.5,0.2,0.3,0.2,MIL
+22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.102,80,0.045,1.419,0.577,0.129,0.065,0.129,0.032,0.581,0.731,0.4,0.6,0.2,0.3,0.1,MIL

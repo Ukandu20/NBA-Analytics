@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,9,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,LAL
+42019,203079,Dion Waiters,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,5,0.059,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,LAL
+42019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,17,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,LAL
+42019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,14,0.022,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,LAL
+42019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,21,0.043,0.286,0.14,0.0,0.0,0.0,0.0,0.14,0.14,0.3,0.0,0.0,0.3,0.3,LAL
+42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,1.0,21,0.061,0.2,0.12,0.0,0.2,0.0,0.0,0.1,0.12,0.5,0.0,0.0,0.4,0.3,LAL
+42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,21,0.033,0.778,0.25,0.11,0.0,0.11,0.0,0.33,0.31,0.4,0.0,0.1,0.4,0.3,LAL
+42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.125,16,0.17,1.056,0.46,0.11,0.17,0.11,0.0,0.44,0.58,1.1,1.0,0.4,0.8,0.4,LAL
+42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.625,21,0.117,0.76,0.29,0.08,0.12,0.08,0.04,0.28,0.38,1.2,1.0,0.3,1.0,0.7,LAL
+42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.0,21,0.089,1.6,0.55,0.27,0.07,0.2,0.07,0.6,0.77,0.7,1.0,0.3,0.5,0.2,LAL
+42019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.5,21,0.128,0.862,0.39,0.03,0.17,0.03,0.0,0.34,0.5,1.4,1.0,0.4,1.1,0.7,LAL
+42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.542,21,0.194,0.854,0.4,0.12,0.15,0.07,0.0,0.39,0.47,2.0,2.0,0.6,1.4,0.9,LAL

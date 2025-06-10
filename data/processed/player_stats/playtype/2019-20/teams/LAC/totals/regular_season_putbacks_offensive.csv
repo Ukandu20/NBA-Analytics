@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.686,63,0.125,1.195,0.585,0.18,0.023,0.173,0.09,0.594,0.585,133,159,69,118,49,LAC
+22019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.406,72,0.278,1.041,0.496,0.136,0.027,0.129,0.014,0.537,0.496,147,153,62,125,63,LAC
+22019,203210,JaMychal Green,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.3,63,0.115,0.98,0.513,0.12,0.12,0.12,0.02,0.5,0.513,50,49,20,39,19,LAC
+22019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.519,57,0.022,1.094,0.577,0.094,0.156,0.094,0.063,0.5,0.596,32,35,15,26,11,LAC
+22019,203090,Maurice Harkless,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.133,50,0.092,0.808,0.526,0.115,0.154,0.115,0.0,0.423,0.526,26,21,10,19,9,LAC
+22019,202335,Patrick Patterson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.061,59,0.091,0.68,0.313,0.2,0.16,0.2,0.0,0.4,0.313,25,17,5,16,11,LAC
+22019,101150,Lou Williams,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.63,65,0.01,1.154,0.556,0.231,0.154,0.231,0.077,0.538,0.556,13,15,5,9,4,LAC
+22019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.223,51,0.031,0.923,0.556,0.077,0.231,0.077,0.0,0.462,0.611,13,12,5,9,4,LAC

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.794,5,0.335,1.074,0.618,0.148,0.222,0.13,0.0,0.537,0.662,54,58,21,34,13,WAS
+42020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.111,5,0.206,0.654,0.286,0.154,0.038,0.115,0.0,0.385,0.286,26,17,6,21,15,WAS
+42020,202397,Ish Smith,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.258,5,0.313,0.8,0.462,0.0,0.133,0.0,0.0,0.4,0.462,15,12,6,13,7,WAS
+42020,1628990,Chandler Hutchison,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,2,0.286,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,WAS
+42020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,5,0.035,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,WAS
+42020,203526,Raul Neto,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,5,0.162,0.333,0.167,0.0,0.0,0.0,0.0,0.167,0.167,6,2,1,6,5,WAS
+42020,1630216,Cassius Winston,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,1,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,WAS

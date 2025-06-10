@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Transition,Offensive,0.202,6,0.186,0.871,0.44,0.129,0.129,0.097,0.065,0.419,0.44,31,27,11,25,14,UTA
+42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Transition,Offensive,0.69,6,0.165,1.235,0.455,0.235,0.059,0.294,0.0,0.529,0.545,17,21,5,11,6,UTA
+42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.143,6,0.209,0.842,0.5,0.105,0.263,0.105,0.0,0.421,0.542,19,16,6,12,6,UTA
+42021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Transition,Offensive,0.096,6,0.156,0.75,0.5,0.083,0.25,0.083,0.0,0.417,0.5,12,9,4,8,4,UTA
+42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,6,0.081,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,UTA
+42021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,6,0.25,0.75,0.4,0.125,0.25,0.125,0.0,0.375,0.4,8,6,2,5,3,UTA
+42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,6,0.128,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,UTA
+42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,6,0.3,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,6,3,1,6,5,UTA
+42021,1630215,Jared Butler,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,1,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA
+42021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,4,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA
+42021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,6,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA

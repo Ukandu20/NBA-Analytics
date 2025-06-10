@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.5,14,0.15,0.822,0.395,0.067,0.09,0.089,0.02,0.378,0.421,3.2,2.6,1.1,2.7,1.6,DEN
+42018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.385,14,0.245,0.756,0.317,0.067,0.04,0.044,0.02,0.333,0.354,3.2,2.4,0.9,2.9,2.0,DEN
+42018,203115,Will Barton,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.731,14,0.087,1.0,0.385,0.071,0.0,0.071,0.0,0.429,0.5,1.0,1.0,0.4,0.9,0.6,DEN
+42018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.44,14,0.113,0.818,0.4,0.091,0.09,0.091,0.09,0.364,0.4,0.8,0.6,0.3,0.7,0.4,DEN
+42018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.115,14,0.17,0.474,0.176,0.105,0.0,0.105,0.0,0.263,0.206,1.4,0.6,0.2,1.2,1.0,DEN
+42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.0,14,0.01,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.1,0.2,0.1,0.1,0.1,DEN
+42018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.0,14,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,DEN

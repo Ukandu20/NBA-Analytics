@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.745,74,0.322,1.027,0.583,0.072,0.131,0.068,0.018,0.52,0.583,221,227,105,180,75,CHI
+22018,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.338,52,0.096,0.859,0.37,0.152,0.065,0.109,0.011,0.435,0.37,92,79,27,73,46,CHI
+22018,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.534,22,0.225,0.932,0.509,0.123,0.178,0.068,0.027,0.466,0.509,73,68,27,53,26,CHI
+22018,203953,Jabari Parker,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.936,39,0.078,1.196,0.667,0.174,0.174,0.13,0.065,0.587,0.667,46,55,22,33,11,CHI
+22018,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.103,44,0.181,0.625,0.282,0.125,0.08,0.057,0.011,0.318,0.282,88,55,20,71,51,CHI
+22018,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.153,63,0.027,0.7,0.345,0.125,0.15,0.1,0.0,0.375,0.345,40,28,10,29,19,CHI
+22018,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.804,46,0.025,1.063,0.615,0.063,0.188,0.063,0.063,0.5,0.615,16,17,8,13,5,CHI
+22018,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.246,60,0.062,0.8,0.3,0.267,0.067,0.2,0.0,0.467,0.3,15,12,3,10,7,CHI

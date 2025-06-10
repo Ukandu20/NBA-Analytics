@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.923,70,0.487,1.077,0.547,0.139,0.148,0.032,0.016,0.518,0.572,569,613,227,415,188,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.785,70,0.376,0.959,0.469,0.124,0.112,0.106,0.024,0.468,0.5,491,471,181,386,205,OKC
+22019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.514,65,0.384,0.847,0.432,0.108,0.155,0.1,0.023,0.411,0.444,472,400,155,359,204,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.669,62,0.111,0.911,0.409,0.116,0.125,0.116,0.027,0.411,0.46,112,102,36,88,52,OKC
+22019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.977,63,0.021,1.357,0.818,0.071,0.143,0.071,0.0,0.714,0.818,14,19,9,11,2,OKC
+22019,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.18,55,0.085,0.643,0.35,0.143,0.179,0.143,0.036,0.357,0.35,28,18,7,20,13,OKC
+22019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.862,36,0.057,1.0,0.364,0.2,0.067,0.2,0.0,0.467,0.409,15,15,4,11,7,OKC
+22019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.074,46,0.067,0.56,0.263,0.12,0.16,0.12,0.04,0.28,0.263,25,14,5,19,14,OKC

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203488,Mike Muscala,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,6,0.083,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,BOS
+42022,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,20,0.019,0.6,0.0,0.4,0.0,0.4,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,BOS
+42022,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,15,0.178,0.875,0.33,0.25,0.12,0.12,0.12,0.38,0.33,1.0,0.0,0.0,0.0,0.0,BOS
+42022,201143,Al Horford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,20,0.02,1.0,0.6,0.12,0.25,0.12,0.0,0.5,0.6,0.0,0.0,0.0,0.0,0.0,BOS
+42022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.261,15,0.134,1.077,0.44,0.23,0.08,0.23,0.0,0.54,0.56,1.0,1.0,1.0,1.0,0.0,BOS
+42022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,10,0.5,1.5,0.75,0.0,0.2,0.0,0.0,0.6,0.94,1.0,2.0,1.0,1.0,0.0,BOS
+42022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.719,19,0.39,0.828,0.38,0.08,0.11,0.05,0.0,0.39,0.42,3.0,3.0,1.0,3.0,2.0,BOS
+42022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.461,20,0.291,0.949,0.43,0.1,0.12,0.1,0.0,0.44,0.48,3.0,3.0,1.0,2.0,1.0,BOS
+42022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.409,20,0.39,0.957,0.43,0.11,0.13,0.1,0.02,0.42,0.49,5.0,4.0,2.0,4.0,2.0,BOS
+42022,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.64,20,0.399,0.874,0.4,0.06,0.07,0.05,0.02,0.4,0.44,5.0,4.0,2.0,5.0,3.0,BOS
+42022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.449,20,0.439,0.95,0.39,0.09,0.11,0.07,0.02,0.39,0.48,5.0,5.0,1.0,4.0,3.0,BOS

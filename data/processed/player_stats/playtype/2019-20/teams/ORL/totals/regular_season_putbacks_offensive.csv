@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.259,62,0.085,0.95,0.477,0.089,0.059,0.089,0.02,0.485,0.483,101,96,42,88,46,ORL
+22019,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.724,62,0.211,1.203,0.613,0.135,0.054,0.135,0.027,0.622,0.613,74,89,38,62,24,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.386,62,0.08,1.026,0.545,0.117,0.078,0.117,0.052,0.506,0.553,77,79,36,66,30,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.515,34,0.13,1.093,0.5,0.167,0.0,0.167,0.056,0.556,0.5,54,59,24,48,24,ORL
+22019,203920,Khem Birch,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.563,48,0.192,1.116,0.583,0.116,0.047,0.093,0.0,0.581,0.583,43,48,21,36,15,ORL
+22019,203516,James Ennis III,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.823,20,0.102,1.278,0.667,0.111,0.056,0.111,0.0,0.667,0.667,18,23,10,15,5,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.771,72,0.017,1.235,0.533,0.176,0.0,0.118,0.059,0.588,0.533,17,21,8,15,7,ORL
+22019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.092,52,0.056,0.765,0.273,0.235,0.118,0.176,0.0,0.412,0.273,17,13,3,11,8,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.527,66,0.009,1.1,0.5,0.1,0.1,0.1,0.0,0.5,0.563,10,11,4,8,4,ORL
+22019,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.103,18,0.119,0.786,0.3,0.286,0.0,0.214,0.0,0.5,0.3,14,11,3,10,7,ORL
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,45,0.062,0.364,0.188,0.091,0.227,0.091,0.045,0.182,0.188,22,8,3,16,13,ORL

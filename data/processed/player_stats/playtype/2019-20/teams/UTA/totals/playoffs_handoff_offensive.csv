@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,201144,Mike Conley,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,5,0.099,1.625,0.6,0.25,0.125,0.25,0.0,0.625,0.8,8,13,3,5,2,UTA
+42019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,7,0.038,1.5,0.714,0.0,0.125,0.0,0.0,0.625,0.857,8,12,5,7,2,UTA
+42019,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,7,0.066,1.75,0.75,0.0,0.0,0.0,0.0,0.75,0.875,4,7,3,4,1,UTA
+42019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,7,0.047,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,UTA
+42019,1629730,Rayjon Tucker,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,2,0.167,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,1,3,1,1,0,UTA
+42019,1629714,Jarrell Brantley,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.0,2,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA

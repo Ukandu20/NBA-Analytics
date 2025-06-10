@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.567,60,0.176,0.88,0.388,0.149,0.103,0.124,0.029,0.421,0.434,242,213,73,188,115,TOR
+22019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.405,54,0.076,0.811,0.354,0.081,0.054,0.081,0.014,0.378,0.392,74,60,23,65,42,TOR
+22019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.526,58,0.061,0.868,0.373,0.147,0.132,0.103,0.029,0.397,0.412,68,59,19,51,32,TOR
+22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.968,72,0.03,1.313,0.538,0.188,0.063,0.188,0.063,0.563,0.654,16,21,7,13,6,TOR
+22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.96,60,0.038,1.235,0.571,0.176,0.0,0.176,0.0,0.647,0.571,17,21,8,14,6,TOR
+22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.903,52,0.026,1.105,0.5,0.053,0.105,0.053,0.0,0.474,0.594,19,21,8,16,8,TOR
+22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.093,69,0.026,0.556,0.444,0.056,0.444,0.056,0.0,0.278,0.444,18,10,4,9,5,TOR

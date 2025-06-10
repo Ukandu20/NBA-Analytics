@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.671,50,0.298,0.937,0.482,0.105,0.163,0.102,0.027,0.443,0.514,332,311,121,251,130,WAS
+22022,1628420,Monté Morris,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.837,62,0.363,1.018,0.49,0.045,0.082,0.045,0.018,0.464,0.533,220,224,96,196,100,WAS
+22022,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.397,64,0.182,0.828,0.434,0.084,0.157,0.077,0.023,0.395,0.466,261,216,89,205,116,WAS
+22022,1630692,Jordan Goodwin,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.328,62,0.348,0.786,0.424,0.078,0.149,0.078,0.039,0.37,0.432,154,121,53,125,72,WAS
+22022,1626153,Delon Wright,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.647,50,0.353,0.929,0.47,0.079,0.159,0.079,0.032,0.421,0.52,126,117,47,100,53,WAS
+22022,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.194,76,0.154,0.697,0.408,0.126,0.277,0.126,0.042,0.328,0.441,119,83,31,76,45,WAS
+22022,1629134,Kendrick Nunn,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.698,31,0.346,0.952,0.515,0.0,0.181,0.0,0.0,0.422,0.581,83,79,35,68,33,WAS
+22022,203115,Will Barton,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.271,41,0.263,0.739,0.372,0.022,0.13,0.011,0.0,0.337,0.417,92,68,29,78,49,WAS
+22022,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.926,74,0.043,1.103,0.52,0.0,0.138,0.0,0.0,0.448,0.64,29,32,13,25,12,WAS
+22022,1631098,Johnny Davis,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.409,28,0.151,0.833,0.4,0.133,0.067,0.133,0.033,0.4,0.44,30,25,10,25,15,WAS
+22022,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.451,30,0.068,0.846,0.5,0.077,0.231,0.077,0.0,0.423,0.5,26,22,9,18,9,WAS
+22022,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.985,65,0.01,1.231,0.583,0.077,0.0,0.077,0.0,0.615,0.625,13,16,7,12,5,WAS
+22022,1631245,Quenton Jackson,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.975,9,0.196,1.182,0.667,0.182,0.091,0.091,0.091,0.545,0.667,11,13,6,9,3,WAS

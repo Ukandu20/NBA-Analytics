@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.282,47,0.058,1.071,0.45,0.14,0.143,0.14,0.07,0.429,0.59,0.3,0.3,0.1,0.2,0.1,NOP
+22022,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.132,29,0.043,1.214,0.5,0.14,0.071,0.14,0.07,0.5,0.62,0.5,0.6,0.2,0.4,0.2,NOP
+22022,1626196,Josh Richardson,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.21,23,0.084,1.133,0.45,0.13,0.133,0.07,0.0,0.467,0.55,0.7,0.7,0.2,0.5,0.3,NOP
+22022,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.676,59,0.064,0.867,0.48,0.07,0.167,0.03,0.0,0.4,0.54,0.5,0.4,0.2,0.4,0.2,NOP
+22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.594,45,0.082,0.909,0.4,0.09,0.152,0.06,0.0,0.364,0.54,0.7,0.7,0.2,0.6,0.3,NOP
+22022,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.636,61,0.075,0.895,0.41,0.05,0.132,0.05,0.03,0.368,0.48,0.6,0.6,0.2,0.5,0.3,NOP
+22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.545,77,0.065,0.929,0.4,0.07,0.119,0.07,0.02,0.381,0.5,0.5,0.5,0.2,0.5,0.3,NOP
+22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.389,66,0.067,1.0,0.47,0.08,0.096,0.08,0.04,0.442,0.52,0.8,0.8,0.3,0.7,0.4,NOP
+22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.799,75,0.077,0.788,0.37,0.05,0.136,0.05,0.0,0.348,0.44,0.9,0.7,0.3,0.7,0.5,NOP
+22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.175,79,0.063,1.178,0.48,0.07,0.022,0.07,0.02,0.489,0.58,0.6,0.7,0.3,0.5,0.3,NOP

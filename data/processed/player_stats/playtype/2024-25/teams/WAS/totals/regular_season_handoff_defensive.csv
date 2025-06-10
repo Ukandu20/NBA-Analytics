@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1642259,Alex Sarr,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.551,64,0.011,0.9,0.444,0.0,0.1,0.0,0.0,0.4,0.5,10,9,4,9,5,WAS
+22024,1630215,Jared Butler,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.551,27,0.08,0.9,0.444,0.0,0.1,0.0,0.0,0.4,0.5,10,9,4,9,5,WAS
+22024,1642358,AJ Johnson,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.584,21,0.084,0.882,0.357,0.118,0.118,0.118,0.059,0.353,0.429,17,15,5,14,9,WAS
+22024,1627763,Malcolm Brogdon,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.443,22,0.102,0.944,0.389,0.056,0.0,0.056,0.056,0.389,0.444,18,17,7,18,11,WAS
+22024,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.108,32,0.07,1.211,0.563,0.105,0.053,0.105,0.0,0.579,0.594,19,23,9,16,7,WAS
+22024,1630551,Justin Champagnie,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.431,55,0.073,0.947,0.412,0.053,0.053,0.053,0.0,0.421,0.485,38,36,14,34,20,WAS
+22024,1642273,Kyshawn George,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.837,68,0.067,0.725,0.357,0.039,0.157,0.039,0.02,0.314,0.417,51,37,15,42,27,WAS
+22024,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.753,61,0.129,0.8,0.319,0.117,0.117,0.083,0.017,0.35,0.394,60,48,15,47,32,WAS
+22024,1629673,Jordan Poole,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.121,68,0.086,1.191,0.5,0.106,0.128,0.106,0.0,0.489,0.625,47,56,18,36,18,WAS
+22024,1641731,Bilal Coulibaly,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.614,59,0.122,0.869,0.385,0.071,0.167,0.048,0.012,0.357,0.469,84,73,25,65,40,WAS
+22024,1642267,Bub Carrington,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.373,82,0.1,0.988,0.429,0.073,0.049,0.073,0.061,0.415,0.487,82,81,33,77,44,WAS

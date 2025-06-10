@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641748,Andre Jackson Jr.,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.952,42,0.073,0.563,0.2,0.125,0.0,0.125,0.063,0.25,0.2,0.4,0.2,0.1,0.4,0.3,MIL
+22023,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.864,76,0.011,0.733,0.286,0.0,0.067,0.0,0.0,0.267,0.393,0.2,0.1,0.1,0.2,0.1,MIL
+22023,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.846,78,0.031,0.762,0.471,0.0,0.19,0.0,0.0,0.381,0.471,0.3,0.2,0.1,0.2,0.1,MIL
+22023,201976,Patrick Beverley,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.029,25,0.048,1.6,0.556,0.1,0.0,0.1,0.0,0.6,0.778,0.4,0.6,0.2,0.4,0.2,MIL
+22023,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.07,37,0.059,1.385,0.538,0.077,0.0,0.077,0.077,0.538,0.654,0.4,0.5,0.2,0.4,0.2,MIL
+22023,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.714,52,0.046,0.864,0.333,0.045,0.0,0.045,0.0,0.364,0.429,0.4,0.4,0.1,0.4,0.3,MIL
+22023,203109,Jae Crowder,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.545,49,0.059,1.0,0.4,0.043,0.087,0.043,0.0,0.391,0.525,0.5,0.5,0.2,0.4,0.2,MIL
+22023,1627736,Malik Beasley,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.784,78,0.073,0.806,0.361,0.06,0.06,0.06,0.03,0.358,0.41,0.9,0.7,0.3,0.8,0.5,MIL
+22023,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.385,71,0.062,1.137,0.417,0.078,0.0,0.059,0.02,0.451,0.542,0.7,0.8,0.3,0.7,0.4,MIL
+22023,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.084,75,0.066,1.381,0.583,0.095,0.048,0.095,0.0,0.595,0.708,0.6,0.8,0.3,0.5,0.2,MIL

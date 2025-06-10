@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.492,20,0.557,0.917,0.479,0.078,0.151,0.049,0.024,0.434,0.506,205,188,78,163,85,PHX
+42020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.476,22,0.327,0.915,0.431,0.104,0.149,0.09,0.015,0.418,0.474,201,184,66,153,87,PHX
+42020,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.19,22,0.467,0.771,0.378,0.057,0.105,0.057,0.019,0.362,0.406,105,81,34,90,56,PHX
+42020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,22,0.028,1.5,0.667,0.0,0.0,0.0,0.0,0.667,0.75,6,9,4,6,2,PHX
+42020,202734,E'Twaun Moore,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,7,0.333,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,7,4,2,7,5,PHX
+42020,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,22,0.037,0.375,0.143,0.0,0.125,0.0,0.0,0.125,0.214,8,3,1,7,6,PHX
+42020,1630234,Ty-Shon Alexander,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,1,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,PHX
+42020,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,7,0.222,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHX
+42020,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,21,0.043,0.333,0.25,0.0,0.333,0.0,0.0,0.167,0.25,6,2,1,4,3,PHX
+42020,1627846,Abdel Nader,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,5,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42020,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,14,0.018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42020,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.0,22,0.043,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3,PHX

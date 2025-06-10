@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.713,78,0.238,1.201,0.607,0.101,0.053,0.095,0.016,0.603,0.607,2.4,2.9,1.3,2.1,0.8,DET
+22024,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.482,72,0.2,1.071,0.5,0.119,0.036,0.107,0.036,0.524,0.5,1.2,1.3,0.5,1.0,0.5,DET
+22024,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.364,59,0.106,1.0,0.508,0.063,0.031,0.047,0.016,0.5,0.508,1.1,1.1,0.5,1.0,0.5,DET
+22024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.867,73,0.037,1.306,0.667,0.111,0.056,0.111,0.0,0.639,0.683,0.5,0.6,0.3,0.4,0.1,DET
+22024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.776,82,0.021,1.24,0.565,0.12,0.04,0.12,0.08,0.56,0.587,0.3,0.4,0.2,0.3,0.1,DET
+22024,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.727,30,0.043,1.208,0.632,0.083,0.125,0.083,0.0,0.583,0.684,0.8,1.0,0.4,0.6,0.2,DET
+22024,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.364,75,0.063,1.0,0.526,0.207,0.138,0.207,0.0,0.552,0.526,0.4,0.4,0.1,0.3,0.1,DET
+22024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.074,70,0.017,0.75,0.367,0.031,0.063,0.031,0.031,0.344,0.383,0.5,0.3,0.2,0.4,0.3,DET
+22024,1641842,Ronald Holland II,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.157,81,0.046,0.88,0.588,0.08,0.24,0.08,0.0,0.48,0.588,0.3,0.3,0.1,0.2,0.1,DET
+22024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,OffRebound,Offensive,0.5,77,0.017,1.077,0.455,0.077,0.077,0.077,0.0,0.462,0.545,0.2,0.2,0.1,0.1,0.1,DET
