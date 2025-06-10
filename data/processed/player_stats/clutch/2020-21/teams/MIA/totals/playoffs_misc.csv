@@ -1,0 +1,7 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,2738,Andre Iguodala,Andre,1610612748,MIA,37.0,1,0,1,0.0,0.6216666666666667,0,0,0,0,0,1,0,0,0,0,0,0,0.0,97,100,23,100,113,21,26,9,47,1,55,1,1,20,1,1,63,106,MIA
+Players,2772,Trevor Ariza,Trevor,1610612748,MIA,36.0,1,0,1,0.0,10.066666666666666,0,0,0,0,1,6,2,6,0,0,2,0,9.3,97,100,23,100,50,21,26,9,47,54,113,100,59,20,1,93,63,43,MIA
+Players,1628389,Bam Adebayo,Bam,1610612748,MIA,23.0,1,0,1,0.0,10.066666666666666,0,0,0,0,1,6,2,6,0,0,2,1,9.3,97,100,23,100,50,21,26,9,47,54,113,100,59,20,1,93,27,43,MIA
+Players,202710,Jimmy Butler III,Jimmy,1610612748,MIA,31.0,1,0,1,0.0,10.066666666666666,0,0,0,2,1,6,2,6,1,0,2,2,8.2,97,100,23,100,50,21,26,9,24,54,113,100,59,4,1,93,17,47,MIA
+Players,1629130,Duncan Robinson,Duncan,1610612748,MIA,27.0,1,0,1,0.0,9.661666666666669,0,0,0,0,1,5,2,6,0,0,2,1,5.0,97,100,23,100,56,21,26,9,47,54,100,100,59,20,1,93,27,61,MIA
+Players,201609,Goran Dragic,Goran,1610612748,MIA,35.0,1,0,1,0.0,9.85,0,3,0,0,1,6,2,6,0,0,0,0,5.0,97,100,23,100,54,21,5,9,47,54,113,100,59,20,1,1,63,61,MIA

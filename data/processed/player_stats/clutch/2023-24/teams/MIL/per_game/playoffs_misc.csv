@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1626171,Bobby Portis,Bobby,1610612749,MIL,29.0,1,0,1,0.0,10.2,3.0,0.0,0.0,0.0,1.0,5.0,0.0,6.0,1.0,0.0,0.0,0.0,8.4,87,79,15,79,1,1,38,18,48,61,115,1,1,2,1,1,53,3,MIL
+Players,203114,Khris Middleton,Khris,1610612749,MIL,32.0,1,0,1,0.0,10.2,0.0,0.0,2.0,6.0,1.0,5.0,0.0,6.0,0.0,0.0,2.0,1.0,18.1,87,79,15,79,1,33,38,1,1,61,115,1,1,27,1,118,7,1,MIL
+Players,201976,Patrick Beverley,Patrick,1610612749,MIL,35.0,1,0,1,0.0,10.1,0.0,0.0,0.0,0.0,1.0,5.0,0.0,6.0,0.0,0.0,3.0,0.0,0.0,87,79,15,79,5,33,38,18,48,61,115,1,1,27,1,119,53,92,MIL
+Players,1626192,Pat Connaughton,Pat,1610612749,MIL,31.0,1,0,1,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87,79,15,79,107,33,38,18,48,1,1,1,101,27,1,1,53,92,MIL
+Players,203081,Damian Lillard,Damian,1610612749,MIL,33.0,1,0,1,0.0,10.1,0.0,0.0,0.0,0.0,1.0,5.0,0.0,6.0,0.0,0.0,1.0,2.0,7.7,87,79,15,79,4,33,38,18,48,61,115,1,1,27,1,102,1,6,MIL
+Players,201572,Brook Lopez,Brook,1610612749,MIL,36.0,1,0,1,0.0,10.1,0.0,0.0,0.0,0.0,1.0,5.0,0.0,6.0,0.0,1.0,0.0,0.0,1.5,87,79,15,79,3,33,38,18,48,61,115,1,1,27,117,1,53,67,MIL
+Players,1641748,Andre Jackson Jr.,Andre,1610612749,MIL,22.0,1,0,1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87,79,15,79,113,33,38,18,48,1,1,1,101,27,1,1,53,92,MIL

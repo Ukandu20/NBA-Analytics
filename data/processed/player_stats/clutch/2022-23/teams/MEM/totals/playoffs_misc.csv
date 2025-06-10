@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1630583,Santi Aldama,Santi,1610612763,MEM,22.0,1,0,1,0.0,3.05,0,0,0,0,0,2,0,4,0,0,0,0,1.5,97,92,14,92,109,38,37,23,57,1,52,1,37,26,1,1,67,94,MEM
+Players,1628379,Luke Kennard,Luke,1610612763,MEM,27.0,2,0,2,0.0,0.5316666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,75,92,56,92,121,38,37,23,57,1,1,1,1,26,1,1,67,108,MEM
+Players,1626145,Tyus Jones,Tyus,1610612763,MEM,27.0,1,0,1,0.0,3.05,0,0,0,0,0,2,0,4,0,0,1,0,1.5,97,92,14,92,109,38,37,23,57,1,52,1,37,26,1,50,67,94,MEM
+Players,1630214,Xavier Tillman,Xavier,1610612763,MEM,24.0,1,0,1,0.0,9.685,0,0,0,0,6,3,3,12,0,0,2,0,6.9,97,92,14,92,61,38,37,23,57,88,72,81,80,26,1,91,67,62,MEM
+Players,1628991,Jaren Jackson Jr.,Jaren,1610612763,MEM,23.0,2,0,2,0.0,12.783333333333331,2,0,0,2,6,5,3,16,2,0,1,0,13.4,75,92,56,92,43,18,37,23,28,88,80,81,93,2,1,50,67,37,MEM
+Players,1628415,Dillon Brooks,Dillon,1610612763,MEM,27.0,2,0,2,0.0,12.783333333333331,2,0,2,2,6,5,3,16,0,0,2,0,7.4,75,92,56,92,43,18,37,7,28,88,80,81,93,26,1,91,67,58,MEM
+Players,1630217,Desmond Bane,Desmond,1610612763,MEM,25.0,2,0,2,0.0,12.3,0,0,2,2,6,5,3,16,0,0,1,1,6.7,75,92,56,92,52,38,37,7,28,88,80,81,93,26,1,50,36,64,MEM
+Players,1629630,Ja Morant,Ja,1610612763,MEM,23.0,1,0,1,0.0,9.733333333333333,2,0,0,2,6,3,3,12,0,1,1,1,6.7,97,92,14,92,59,18,37,23,28,88,72,81,80,26,108,50,36,64,MEM

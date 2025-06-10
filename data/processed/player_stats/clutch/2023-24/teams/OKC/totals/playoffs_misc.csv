@@ -1,0 +1,10 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1630598,Aaron Wiggins,Aaron,1610612760,OKC,25.0,2,1,1,0.5,1.3383333333333334,0,0,0,0,0,0,0,0,0,0,0,0,0.0,61,47,15,41,97,33,38,18,48,1,1,1,1,27,1,1,53,92,OKC
+Players,1628983,Shai Gilgeous-Alexander,Shai,1610612760,OKC,25.0,5,3,2,0.6,20.8,2,2,0,4,7,10,6,12,2,2,6,4,38.5,30,22,60,23,28,17,13,18,19,90,103,106,81,2,109,115,14,5,OKC
+Players,1630581,Josh Giddey,Josh,1610612760,OKC,21.0,2,2,0,1.0,0.7583333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,61,35,1,1,100,33,38,18,48,1,1,1,1,27,1,1,53,92,OKC
+Players,1630198,Isaiah Joe,Isaiah,1610612760,OKC,24.0,3,1,2,0.333,4.636666666666667,0,0,0,0,2,0,2,4,0,0,0,0,2.0,47,47,60,62,82,33,38,18,48,50,1,72,44,27,1,1,53,79,OKC
+Players,1629652,Luguentz Dort,Luguentz,1610612760,OKC,25.0,5,3,2,0.6,20.63833333333333,0,0,0,0,7,10,6,12,1,0,3,3,11.7,30,22,60,23,30,33,38,18,48,90,103,106,81,8,1,99,21,39,OKC
+Players,1631114,Jalen Williams,Jalen,1610612760,OKC,23.0,5,3,2,0.6,20.8,2,0,2,6,7,10,6,12,1,0,0,1,21.3,30,22,60,23,28,17,38,5,14,90,103,106,81,8,1,1,36,23,OKC
+Players,1641717,Cason Wallace,Cason,1610612760,OKC,20.0,3,2,1,0.667,9.083333333333334,0,0,0,0,5,1,4,6,0,0,1,0,1.2,47,35,15,20,59,33,38,18,48,84,47,90,52,27,1,50,53,84,OKC
+Players,1631119,Jaylin Williams,Jaylin,1610612760,OKC,22.0,3,1,2,0.333,5.345,0,0,0,0,0,9,0,2,1,0,0,0,5.7,47,47,60,62,79,33,38,18,48,1,98,1,20,8,1,1,53,60,OKC
+Players,1631096,Chet Holmgren,Chet,1610612760,OKC,22.0,5,3,2,0.6,20.6,2,2,2,4,7,10,6,12,2,0,3,4,28.4,30,22,60,23,31,17,13,5,19,90,103,106,81,2,1,99,14,16,OKC

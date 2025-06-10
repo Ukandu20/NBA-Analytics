@@ -1,0 +1,6 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203925,Joe Harris,Joe,1610612751,BKN,28.0,1,0,1,0.0,2.3633333333333333,0,0,0,0,2,0,5,4,0,0,1,0,0.2,97,95,11,95,97,39,34,16,51,36,1,107,45,25,1,38,62,91,BKN
+Players,202066,Garrett Temple,Garrett,1610612751,BKN,34.0,1,0,1,0.0,2.3633333333333333,0,0,0,0,2,0,5,4,0,0,0,0,1.5,97,95,11,95,97,39,34,16,51,36,1,107,45,25,1,1,62,81,BKN
+Players,1627789,Timothe Luwawu-Cabarrot,Timothe,1610612751,BKN,25.0,1,0,1,0.0,2.3633333333333333,0,0,0,0,2,0,5,4,0,0,0,0,0.0,97,95,11,95,97,39,34,16,51,36,1,107,45,25,1,1,62,93,BKN
+Players,1628386,Jarrett Allen,Jarrett,1610612751,BKN,22.0,1,0,1,0.0,2.3633333333333333,2,0,0,2,2,0,5,4,0,0,0,2,2.0,97,95,11,95,97,18,34,16,25,36,1,107,45,25,1,1,30,79,BKN
+Players,1627747,Caris LeVert,Caris,1610612751,BKN,25.0,1,0,1,0.0,2.3633333333333333,0,0,0,0,2,0,5,4,0,0,1,0,0.0,97,95,11,95,97,39,34,16,51,36,1,107,45,25,1,38,62,93,BKN

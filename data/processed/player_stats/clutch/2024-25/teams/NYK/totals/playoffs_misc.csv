@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1630540,Miles McBride,Miles,1610612752,NYK,24.0,9,6,3,0.667,9.148333333333332,0,0,0,0,9,2,0,10,0,0,0,2,4.4,7,10,89,27,54,28,31,18,50,110,48,1,85,28,1,1,20,65,NYK
+Players,1626166,Cameron Payne,Cameron,1610612752,NYK,30.0,1,0,1,0.0,1.39,0,0,0,0,0,2,0,6,0,0,0,0,0.0,100,84,10,84,112,28,31,18,50,1,48,1,60,28,1,1,59,106,NYK
+Players,1628973,Jalen Brunson,Jalen,1610612752,NYK,28.0,11,7,4,0.636,42.725,5,2,4,20,10,4,7,22,0,3,5,12,61.2,1,5,118,33,5,3,13,2,1,119,76,126,118,28,129,124,1,1,NYK
+Players,1629011,Mitchell Robinson,Mitchell,1610612752,NYK,27.0,11,7,4,0.636,6.931666666666667,0,0,0,0,5,2,0,8,0,0,0,3,2.4,1,5,118,33,61,28,31,18,50,96,48,1,75,28,1,1,11,84,NYK
+Players,1628404,Josh Hart,Josh,1610612752,NYK,30.0,10,6,4,0.6,45.89666666666667,2,0,0,6,19,4,7,26,0,1,2,3,33.7,5,10,118,40,3,14,31,18,7,128,76,126,124,28,102,100,11,11,NYK
+Players,1628384,OG Anunoby,OG,1610612752,NYK,27.0,11,7,4,0.636,48.79166666666666,3,0,1,4,19,6,7,32,1,1,5,2,31.8,1,5,118,33,2,10,31,16,15,128,99,126,125,8,102,124,20,13,NYK
+Players,1626157,Karl-Anthony Towns,Karl-Anthony,1610612752,NYK,29.0,10,6,4,0.6,42.87833333333333,4,9,1,4,14,4,7,24,1,1,8,4,47.0,5,10,118,40,4,7,1,16,15,123,76,126,120,8,102,130,5,4,NYK
+Players,1628969,Mikal Bridges,Mikal,1610612752,NYK,28.0,11,7,4,0.636,49.28,0,2,0,6,19,6,7,32,1,1,2,1,39.0,1,5,118,33,1,28,13,18,7,128,99,126,125,8,102,100,39,6,NYK

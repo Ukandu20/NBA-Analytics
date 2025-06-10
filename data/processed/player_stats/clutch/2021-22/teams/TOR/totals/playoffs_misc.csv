@@ -1,0 +1,6 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1629018,Gary Trent Jr.,Gary,1610612761,TOR,23.0,1,0,1,0.0,10.05,0,0,0,0,0,2,0,6,1,1,0,0,9.2,106,105,21,105,58,27,25,9,54,1,47,1,55,5,116,1,57,48,TOR
+Players,1628384,OG Anunoby,OG,1610612761,TOR,24.0,1,0,1,0.0,10.05,0,0,0,0,0,2,0,6,0,0,0,2,7.0,106,105,21,105,58,27,25,9,54,1,47,1,55,28,1,1,22,59,TOR
+Players,1630173,Precious Achiuwa,Precious,1610612761,TOR,22.0,1,0,1,0.0,10.05,2,2,0,2,0,2,0,6,0,0,0,1,4.6,106,105,21,105,58,12,13,9,27,1,47,1,55,28,1,1,32,76,TOR
+Players,1627832,Fred VanVleet,Fred,1610612761,TOR,28.0,1,0,1,0.0,10.05,0,0,0,0,0,2,0,6,0,0,2,0,5.4,106,105,21,105,58,27,25,9,54,1,47,1,55,28,1,99,57,69,TOR
+Players,1627783,Pascal Siakam,Pascal,1610612761,TOR,28.0,1,0,1,0.0,10.05,0,0,0,0,0,2,0,6,0,0,1,0,4.5,106,105,21,105,58,27,25,9,54,1,47,1,55,28,1,60,57,77,TOR

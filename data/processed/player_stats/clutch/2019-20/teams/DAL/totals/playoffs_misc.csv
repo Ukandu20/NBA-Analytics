@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1627827,Dorian Finney-Smith,Dorian,1610612742,DAL,27.0,2,1,1,0.5,12.758333333333333,2,2,0,4,2,2,0,10,0,0,1,0,9.1,80,51,11,45,50,18,17,16,15,36,42,1,71,25,1,38,62,47,DAL
+Players,1628467,Maxi Kleber,Maxi,1610612742,DAL,28.0,2,1,1,0.5,12.758333333333333,0,0,0,0,2,2,0,10,0,0,0,0,3.9,80,51,11,45,50,39,34,16,51,36,42,1,71,25,1,1,62,67,DAL
+Players,203552,Seth Curry,Seth,1610612742,DAL,29.0,2,1,1,0.5,6.083333333333333,0,0,0,0,2,0,0,2,0,0,1,0,0.0,80,51,11,45,75,39,34,16,51,36,1,1,22,25,1,38,62,93,DAL
+Players,203077,Michael Kidd-Gilchrist,Michael,1610612742,DAL,26.0,1,1,0,1.0,0.5883333333333334,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,51,1,1,113,39,34,16,51,1,1,1,1,25,1,1,62,93,DAL
+Players,203501,Tim Hardaway Jr.,Tim,1610612742,DAL,28.0,2,1,1,0.5,12.258333333333333,0,0,0,0,2,2,0,10,0,0,1,1,5.2,80,51,11,45,54,39,34,16,51,36,42,1,71,25,1,38,39,62,DAL
+Players,1629029,Luka Dončić,Luka,1610612742,DAL,21.0,2,1,1,0.5,12.758333333333333,0,0,0,4,2,2,0,10,0,0,1,2,18.8,80,51,11,45,50,39,34,16,15,36,42,1,71,25,1,38,30,25,DAL
+Players,203504,Trey Burke,Trey,1610612742,DAL,27.0,2,1,1,0.5,6.583333333333333,0,5,0,0,0,2,0,8,0,1,1,1,9.2,80,51,11,45,72,39,4,16,51,1,42,1,66,25,97,38,39,45,DAL
+Players,1626246,Boban Marjanović,Boban,1610612742,DAL,31.0,1,1,0,1.0,0.0033333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,51,1,1,123,39,34,16,51,1,1,1,1,25,1,1,62,93,DAL

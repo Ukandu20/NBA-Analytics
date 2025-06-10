@@ -1,0 +1,11 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203552,Seth Curry,Seth,1610612755,PHI,30.0,7,2,5,0.286,19.471666666666668,0,2,0,0,6,4,4,14,0,0,1,1,9.4,19,35,123,85,20,21,9,9,47,113,98,124,105,20,1,58,27,40,PHI
+Players,1629003,Shake Milton,Shake,1610612755,PHI,24.0,3,0,3,0.0,1.1583333333333334,0,0,0,0,2,0,0,2,0,0,1,0,0.0,53,100,98,100,107,21,26,9,47,65,1,1,27,20,1,58,63,106,PHI
+Players,1627788,Furkan Korkmaz,Furkan,1610612755,PHI,23.0,5,1,4,0.2,9.665,0,0,0,0,2,3,4,8,0,0,1,0,4.2,30,54,114,95,55,21,26,9,47,65,85,124,79,20,1,58,63,70,PHI
+Players,201588,George Hill,George,1610612755,PHI,35.0,4,2,2,0.5,5.0216666666666665,0,0,0,0,2,0,0,6,0,0,0,0,1.5,36,35,69,52,85,21,26,9,47,65,1,1,59,20,1,1,63,95,PHI
+Players,1629680,Matisse Thybulle,Matisse,1610612755,PHI,24.0,6,1,5,0.167,7.748333333333333,0,0,0,0,2,3,0,10,0,0,3,1,1.0,25,54,123,98,66,21,26,9,47,65,85,1,95,20,1,118,27,102,PHI
+Players,203954,Joel Embiid,Joel,1610612755,PHI,27.0,6,2,4,0.333,17.926666666666666,2,3,0,4,4,5,2,16,0,1,3,6,20.1,25,35,114,74,21,10,5,9,13,96,100,100,116,20,113,118,5,13,PHI
+Players,1627732,Ben Simmons,Ben,1610612755,PHI,24.0,7,2,5,0.286,19.88,4,0,0,2,4,6,4,20,0,0,1,7,17.3,19,35,123,85,18,4,26,9,24,96,113,124,121,20,1,58,3,15,PHI
+Players,1630178,Tyrese Maxey,Tyrese,1610612755,PHI,20.0,3,1,2,0.333,3.365,0,0,0,0,0,2,0,4,0,0,0,2,4.2,53,54,69,74,91,21,26,9,47,1,60,1,49,20,1,1,17,70,PHI
+Players,202699,Tobias Harris,Tobias,1610612755,PHI,28.0,7,2,5,0.286,20.563333333333333,4,0,0,8,6,6,4,22,1,1,3,3,21.6,19,35,123,85,17,4,26,9,2,113,113,124,122,4,113,118,11,12,PHI
+Players,201980,Danny Green,Danny,1610612755,PHI,34.0,3,1,2,0.333,6.433333333333334,0,2,0,2,2,1,2,8,0,0,2,0,7.4,53,54,69,74,72,21,9,9,24,65,55,100,79,20,1,93,63,53,PHI

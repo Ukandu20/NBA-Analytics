@@ -1,0 +1,10 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203081,Damian Lillard,Damian,1610612757,POR,30.0,3,0,3,0.0,15.17,0,0,0,4,5,5,0,8,0,0,0,1,26.8,53,100,98,100,28,21,26,9,13,101,100,1,79,20,1,1,27,8,POR
+Players,1626178,Rondae Hollis-Jefferson,Rondae,1610612757,POR,26.0,1,0,1,0.0,0.1566666666666666,0,0,0,0,2,0,0,0,0,0,0,0,0.0,97,100,23,100,123,21,26,9,47,65,1,1,1,20,1,1,63,106,POR
+Players,203496,Robert Covington,Robert,1610612757,POR,30.0,3,0,3,0.0,12.683333333333334,2,0,0,0,5,5,0,6,0,0,2,1,11.6,53,100,98,100,38,10,26,9,47,101,100,1,59,20,1,93,27,29,POR
+Players,2546,Carmelo Anthony,Carmelo,1610612757,POR,37.0,2,0,2,0.0,10.563333333333333,0,0,0,2,3,2,0,8,0,0,1,0,2.2,75,100,69,100,47,21,26,9,24,92,60,1,79,20,1,58,63,86,POR
+Players,1629014,Anfernee Simons,Anfernee,1610612757,POR,22.0,1,0,1,0.0,0.2133333333333333,0,0,0,0,2,0,0,0,0,0,0,0,0.0,97,100,23,100,121,21,26,9,47,65,1,1,1,20,1,1,63,106,POR
+Players,202683,Enes Freedom,Enes,1610612757,POR,29.0,1,0,1,0.0,5.266666666666667,0,2,0,2,0,3,0,2,0,0,1,0,3.2,97,100,23,100,84,21,9,9,24,1,85,1,27,20,1,58,63,76,POR
+Players,203468,CJ McCollum,CJ,1610612757,POR,29.0,3,0,3,0.0,15.026666666666667,3,0,3,0,3,5,0,8,0,0,4,0,3.2,53,100,98,100,31,8,26,2,47,92,100,1,79,20,1,125,63,76,POR
+Players,1626181,Norman Powell,Norman,1610612757,POR,28.0,3,0,3,0.0,15.17,0,0,0,0,5,5,0,8,0,1,5,0,0.0,53,100,98,100,28,21,26,9,47,101,100,1,79,20,113,127,63,106,POR
+Players,203994,Jusuf Nurkić,Jusuf,1610612757,POR,26.0,2,0,2,0.0,1.6,0,0,0,0,0,0,0,0,0,0,2,0,-1.0,75,100,69,100,103,21,26,9,47,1,1,1,1,20,1,93,63,132,POR

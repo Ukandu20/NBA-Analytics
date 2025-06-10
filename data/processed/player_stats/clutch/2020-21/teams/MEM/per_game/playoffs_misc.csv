@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1628991,Jaren Jackson Jr.,Jaren,1610612763,MEM,21.0,1,0,1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97,100,23,100,127,21,26,9,47,1,1,1,107,20,1,1,63,106,MEM
+Players,203937,Kyle Anderson,Kyle,1610612763,MEM,27.0,2,1,1,0.5,1.5,0.0,0.0,0.0,0.0,1.0,1.5,0.0,1.0,0.0,0.0,1.0,0.0,0.8,75,54,23,52,92,21,26,9,47,96,112,1,94,20,1,117,63,90,MEM
+Players,1628415,Dillon Brooks,Dillon,1610612763,MEM,25.0,3,1,2,0.333,1.9,0.0,0.0,0.0,0.7,0.7,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.7,53,54,69,74,77,21,26,9,27,77,90,1,46,20,1,1,63,93,MEM
+Players,202685,Jonas Valančiūnas,Jonas,1610612763,MEM,29.0,3,1,2,0.333,1.9,0.0,0.0,0.0,0.0,0.7,1.0,0.0,2.0,0.0,0.0,0.7,0.0,1.2,53,54,69,74,80,21,26,9,47,77,90,1,46,20,1,110,63,78,MEM
+Players,1629630,Ja Morant,Ja,1610612763,MEM,21.0,3,1,2,0.333,1.9,0.0,0.0,0.7,2.0,0.7,1.0,0.0,2.0,0.0,0.7,0.0,0.7,3.1,53,54,69,74,77,21,26,3,3,77,90,1,46,20,131,1,19,32,MEM
+Players,1628960,Grayson Allen,Grayson,1610612763,MEM,25.0,3,1,2,0.333,1.9,0.0,0.0,0.0,0.0,0.7,1.0,0.0,2.0,0.0,0.0,0.3,0.0,0.4,53,54,69,74,77,21,26,9,47,77,90,1,46,20,1,81,63,98,MEM
+Players,1630217,Desmond Bane,Desmond,1610612763,MEM,23.0,1,0,1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,97,100,23,100,104,21,26,9,47,1,1,1,11,20,1,1,63,106,MEM
+Players,1629001,De'Anthony Melton,De'Anthony,1610612763,MEM,23.0,1,0,1,0.0,1.8,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,97,100,23,100,81,21,2,9,3,1,1,1,107,20,1,1,63,28,MEM

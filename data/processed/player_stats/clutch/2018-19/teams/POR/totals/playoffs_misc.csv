@@ -1,0 +1,11 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203086,Meyers Leonard,Meyers,1610612757,POR,27.0,3,1,2,0.333,14.073333333333334,0,0,2,2,0,12,0,16,1,0,0,0,13.1,51,58,55,76,40,35,34,8,34,1,98,1,93,10,1,1,56,38,POR
+Players,202323,Evan Turner,Evan,1610612757,POR,30.0,4,2,2,0.5,16.49,0,0,0,2,0,12,2,22,1,0,1,2,17.7,38,36,55,45,37,35,34,19,34,1,98,77,105,10,1,56,22,30,POR
+Players,202683,Enes Freedom,Enes,1610612757,POR,27.0,7,5,2,0.714,36.21666666666667,2,4,0,4,5,11,5,30,0,1,0,0,18.0,19,10,55,26,16,19,13,19,17,79,96,103,113,28,98,1,56,29,POR
+Players,203081,Damian Lillard,Damian,1610612757,POR,28.0,9,5,4,0.556,52.94166666666667,7,0,0,14,5,23,5,52,0,7,2,11,62.2,10,10,105,43,5,4,34,19,2,79,123,103,123,28,124,81,2,3,POR
+Players,203468,CJ McCollum,CJ,1610612757,POR,27.0,9,5,4,0.556,52.94166666666667,11,6,2,4,5,23,5,52,4,3,2,2,62.6,10,10,105,43,5,1,7,8,17,79,123,103,123,1,122,81,22,2,POR
+Players,202329,Al-Farouq Aminu,Al-Farouq,1610612757,POR,28.0,6,4,2,0.667,33.82,2,2,2,4,5,11,3,30,0,0,2,2,21.6,23,17,55,28,21,19,25,8,17,79,96,87,113,28,1,81,22,26,POR
+Players,203552,Seth Curry,Seth,1610612757,POR,28.0,8,5,3,0.625,12.445,0,3,0,0,0,3,0,12,0,0,3,1,9.2,13,10,86,34,44,35,18,19,53,1,62,1,89,28,1,99,35,50,POR
+Players,203918,Rodney Hood,Rodney,1610612757,POR,26.0,5,2,3,0.4,14.393333333333333,2,3,0,2,0,10,0,14,0,0,3,1,11.5,30,36,86,71,39,19,18,19,34,1,92,1,90,28,1,99,35,41,POR
+Players,1628380,Zach Collins,Zach,1610612757,POR,21.0,2,1,1,0.5,0.0316666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,71,58,20,45,121,35,34,19,53,1,1,1,1,28,1,1,56,92,POR
+Players,203090,Maurice Harkless,Maurice,1610612757,POR,26.0,5,4,1,0.8,31.363333333333333,0,2,0,4,5,10,5,32,2,0,4,2,27.9,30,17,20,21,24,35,25,19,17,79,92,103,115,5,1,110,22,18,POR

@@ -1,0 +1,11 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1629008,Michael Porter Jr.,Michael,1610612743,DEN,23.0,3,2,1,0.667,14.105,0,3,0,0,5,2,3,8,0,0,0,1,7.8,53,35,23,38,35,21,5,9,47,101,60,118,79,20,1,1,27,51,DEN
+Players,1628420,Monté Morris,Monté,1610612743,DEN,26.0,4,3,1,0.75,13.601666666666668,2,0,0,0,5,2,3,6,0,0,0,6,16.9,36,19,23,27,37,10,26,9,47,101,60,118,59,20,1,1,5,16,DEN
+Players,203999,Nikola Jokić,Nikola,1610612743,DEN,26.0,3,3,0,1.0,14.971666666666666,0,2,0,8,5,2,3,8,0,0,1,4,29.2,53,19,1,1,32,21,9,9,2,101,60,118,79,20,1,58,9,6,DEN
+Players,201580,JaVale McGee,JaVale,1610612743,DEN,33.0,1,0,1,0.0,0.0533333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,100,23,100,130,21,26,9,47,1,1,1,1,20,1,1,63,106,DEN
+Players,203210,JaMychal Green,JaMychal,1610612743,DEN,31.0,2,2,0,1.0,0.61,0,0,0,0,0,0,0,0,0,0,0,1,2.0,75,35,1,1,114,21,26,9,47,1,1,1,1,20,1,1,27,89,DEN
+Players,1627885,Shaquille Harrison,Shaquille,1610612743,DEN,27.0,3,2,1,0.667,0.475,0,0,0,0,0,0,0,0,0,0,0,1,2.2,53,35,23,38,115,21,26,9,47,1,1,1,1,20,1,1,27,86,DEN
+Players,1630267,Facundo Campazzo,Facundo,1610612743,DEN,30.0,3,2,1,0.667,2.45,0,0,0,0,0,0,0,2,0,0,2,0,0.0,53,35,23,38,99,21,26,9,47,1,1,1,27,20,1,93,63,106,DEN
+Players,203932,Aaron Gordon,Aaron,1610612743,DEN,25.0,4,3,1,0.75,14.806666666666668,0,0,0,0,5,2,3,8,1,0,0,1,9.4,36,19,23,27,33,21,26,9,47,101,60,118,79,4,1,1,27,40,DEN
+Players,203115,Will Barton,Will,1610612743,DEN,30.0,1,0,1,0.0,0.0983333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,100,23,100,126,21,26,9,47,1,1,1,1,20,1,1,63,106,DEN
+Players,203085,Austin Rivers,Austin,1610612743,DEN,28.0,3,3,0,1.0,15.17,3,0,0,0,5,2,3,8,0,0,1,1,11.0,53,19,1,1,28,8,26,9,47,101,60,118,79,20,1,58,27,33,DEN

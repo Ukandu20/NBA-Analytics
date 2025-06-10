@@ -1,0 +1,7 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1626220,Royce O'Neale,Royce,1610612751,BKN,30.0,1,0,1,0.0,5.1,2,2,2,2,4,3,4,6,0,0,0,0,5.4,97,92,14,92,82,18,15,7,28,60,72,101,47,26,1,1,67,73,BKN
+Players,1630549,Day'Ron Sharpe,Day'Ron,1610612751,BKN,21.0,1,0,1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,92,14,92,131,38,37,23,57,1,1,1,1,26,1,1,67,108,BKN
+Players,1627827,Dorian Finney-Smith,Dorian,1610612751,BKN,30.0,1,0,1,0.0,5.1,0,0,0,0,4,3,4,6,0,0,2,0,1.2,97,92,14,92,82,38,37,23,57,60,72,101,47,26,1,91,67,98,BKN
+Players,1628969,Mikal Bridges,Mikal,1610612751,BKN,26.0,1,0,1,0.0,5.1,0,0,0,2,4,3,4,6,0,0,1,0,2.0,97,92,14,92,82,38,37,23,28,60,72,101,47,26,1,50,67,89,BKN
+Players,203915,Spencer Dinwiddie,Spencer,1610612751,BKN,30.0,1,0,1,0.0,5.1,0,0,0,0,4,3,4,6,0,1,0,1,1.0,97,92,14,92,82,38,37,23,57,60,72,101,47,26,108,1,36,106,BKN
+Players,1629661,Cameron Johnson,Cameron,1610612751,BKN,27.0,1,0,1,0.0,5.1,0,0,0,0,4,3,4,6,0,0,0,0,1.5,97,92,14,92,82,38,37,23,57,60,72,101,47,26,1,1,67,94,BKN

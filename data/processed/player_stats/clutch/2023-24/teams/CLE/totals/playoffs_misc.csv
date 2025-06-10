@@ -1,0 +1,11 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1630171,Isaac Okoro,Isaac,1610612739,CLE,23.0,3,1,2,0.333,2.518333333333333,0,0,0,0,1,3,0,4,0,0,2,1,0.0,47,47,60,62,91,33,38,18,48,41,63,1,44,27,1,80,36,92,CLE
+Players,1630596,Evan Mobley,Evan,1610612739,CLE,23.0,3,1,2,0.333,11.118333333333334,0,0,0,4,4,9,0,8,1,0,5,0,9.4,47,47,60,62,42,33,38,18,19,73,98,1,64,8,1,110,53,46,CLE
+Players,1628378,Donovan Mitchell,Donovan,1610612739,CLE,27.0,2,1,1,0.5,9.671666666666669,2,0,2,4,4,7,0,4,0,1,2,3,13.7,61,47,15,41,55,17,38,5,19,73,83,1,44,27,97,80,21,37,CLE
+Players,202694,Marcus Morris Sr.,Marcus,1610612739,CLE,34.0,2,1,1,0.5,7.543333333333333,0,0,0,0,3,4,0,4,0,0,0,0,1.2,61,47,15,41,68,33,38,18,48,63,66,1,44,27,1,1,53,84,CLE
+Players,1629622,Max Strus,Max,1610612739,CLE,28.0,3,1,2,0.333,10.731666666666667,0,0,0,0,4,9,0,8,0,0,1,0,11.1,47,47,60,62,45,33,38,18,48,73,98,1,64,27,1,50,53,41,CLE
+Players,1629636,Darius Garland,Darius,1610612739,CLE,24.0,3,1,2,0.333,10.991666666666667,0,0,0,0,4,9,0,6,0,0,0,0,1.7,47,47,60,62,43,33,38,18,48,73,98,1,52,27,1,1,53,81,CLE
+Players,1630241,Sam Merrill,Sam,1610612739,CLE,28.0,1,0,1,0.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,107,33,38,18,48,1,1,1,1,27,1,1,53,92,CLE
+Players,1629731,Dean Wade,Dean,1610612739,CLE,27.0,1,0,1,0.0,1.32,0,0,0,0,0,2,0,2,0,0,0,0,0.0,87,79,15,79,98,33,38,18,48,1,48,1,20,27,1,1,53,92,CLE
+Players,202684,Tristan Thompson,Tristan,1610612739,CLE,33.0,1,1,0,1.0,0.1266666666666666,0,0,0,0,0,0,0,2,0,0,0,0,0.0,87,47,1,1,112,33,38,18,48,1,1,1,20,27,1,1,53,92,CLE
+Players,1627747,Caris LeVert,Caris,1610612739,CLE,29.0,1,0,1,0.0,1.32,0,0,0,0,0,2,0,2,1,0,0,0,3.0,87,79,15,79,98,33,38,18,48,1,48,1,20,8,1,1,53,75,CLE

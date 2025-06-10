@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1626168,Trey Lyles,Trey,1610612758,SAC,27.0,1,1,0,1.0,0.0483333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,66,1,1,126,38,37,23,57,1,1,1,1,26,1,1,67,108,SAC
+Players,1628370,Malik Monk,Malik,1610612758,SAC,25.0,4,2,2,0.5,17.56,2,2,2,2,7,0,2,10,0,1,1,6,24.6,38,37,56,47,31,18,15,7,28,96,1,62,67,26,108,50,5,16,SAC
+Players,1628368,De'Aaron Fox,De'Aaron,1610612758,SAC,25.0,4,2,2,0.5,17.56,3,7,0,2,7,0,2,10,0,2,0,4,25.1,38,37,56,47,31,10,1,23,28,96,1,62,67,26,125,1,12,15,SAC
+Players,1628989,Kevin Huerter,Kevin,1610612758,SAC,24.0,1,1,0,1.0,3.855,0,0,0,0,0,0,0,0,0,0,1,0,0.0,97,66,1,1,103,38,37,23,57,1,1,1,1,26,1,50,67,108,SAC
+Players,1627734,Domantas Sabonis,Domantas,1610612758,SAC,27.0,4,2,2,0.5,17.511666666666667,0,2,2,6,7,0,2,10,0,1,0,0,13.4,38,37,56,47,34,38,15,7,14,96,1,62,67,26,108,1,67,37,SAC
+Players,203084,Harrison Barnes,Harrison,1610612758,SAC,31.0,4,2,2,0.5,17.56,2,0,0,4,7,0,2,10,0,0,0,1,13.2,38,37,56,47,31,18,37,23,17,96,1,62,67,26,1,1,36,39,SAC
+Players,1631099,Keegan Murray,Keegan,1610612758,SAC,22.0,2,0,2,0.0,4.216666666666667,0,0,0,0,2,0,2,4,0,0,0,0,2.4,75,92,56,92,101,38,37,23,57,41,1,62,37,26,1,1,67,87,SAC
+Players,1630558,Davion Mitchell,Davion,1610612758,SAC,24.0,4,2,2,0.5,9.488333333333332,2,0,2,2,5,0,0,6,0,0,0,0,3.9,38,37,56,47,62,18,37,7,28,79,1,1,47,26,1,1,67,80,SAC

@@ -1,0 +1,11 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1631246,Vince Williams Jr.,Vince,1610612763,MEM,24.0,1,0,1,0.0,1.885,0,0,0,0,2,0,0,2,0,0,0,0,1.2,100,84,10,84,106,28,31,18,50,55,1,1,21,28,1,1,59,95,MEM
+Players,1628379,Luke Kennard,Luke,1610612763,MEM,28.0,2,0,2,0.0,5.351666666666667,0,0,0,0,0,0,2,2,0,0,1,0,2.4,76,84,66,84,81,28,31,18,50,1,1,63,21,28,1,57,59,84,MEM
+Players,1630590,Scotty Pippen Jr.,Scotty,1610612763,MEM,24.0,2,0,2,0.0,5.668333333333333,0,0,0,2,2,0,0,2,0,0,2,1,7.2,76,84,66,84,78,28,31,18,33,55,1,1,21,28,1,100,39,51,MEM
+Players,1630583,Santi Aldama,Santi,1610612763,MEM,24.0,2,0,2,0.0,6.943333333333333,0,0,0,0,2,0,2,4,0,0,1,0,3.0,76,84,66,84,60,28,31,18,50,55,1,63,45,28,1,57,59,75,MEM
+Players,1630205,Lamar Stevens,Lamar,1610612763,MEM,27.0,1,0,1,0.0,0.0183333333333333,0,0,0,0,0,0,0,0,0,0,1,0,0.0,100,84,10,84,126,28,31,18,50,1,1,1,1,28,1,57,59,106,MEM
+Players,1641744,Zach Edey,Zach,1610612763,MEM,23.0,1,0,1,0.0,1.2583333333333333,0,0,0,0,0,0,0,0,0,0,2,0,0.2,100,84,10,84,113,28,31,18,50,1,1,1,1,28,1,100,59,105,MEM
+Players,1630217,Desmond Bane,Desmond,1610612763,MEM,26.0,2,0,2,0.0,6.925,0,0,0,0,2,0,2,4,0,0,0,2,6.0,76,84,66,84,62,28,31,18,50,55,1,63,45,28,1,1,20,56,MEM
+Players,1628991,Jaren Jackson Jr.,Jaren,1610612763,MEM,25.0,2,0,2,0.0,5.975,0,0,0,0,2,0,2,4,0,1,1,0,1.2,76,84,66,84,76,28,31,18,50,55,1,63,45,28,102,57,59,95,MEM
+Players,1629723,John Konchar,John,1610612763,MEM,29.0,2,0,2,0.0,0.6733333333333333,0,0,0,0,0,0,2,2,0,0,0,0,1.5,76,84,66,84,117,28,31,18,50,1,1,63,21,28,1,1,59,92,MEM
+Players,1630643,Jay Huff,Jay,1610612763,MEM,27.0,1,0,1,0.0,0.0183333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100,84,10,84,126,28,31,18,50,1,1,1,1,28,1,1,59,106,MEM

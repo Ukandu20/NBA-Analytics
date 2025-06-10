@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,202330,Gordon Hayward,Gordon,1610612738,BOS,29.0,4,3,1,0.75,6.648333333333333,0,0,0,4,0,0,0,0,0,0,1,0,9.0,38,24,20,22,66,35,34,19,17,1,1,1,1,28,1,56,56,51,BOS
+Players,202694,Marcus Morris Sr.,Marcus,1610612738,BOS,29.0,2,1,1,0.5,1.0616666666666668,0,0,0,0,0,0,0,0,0,0,0,0,0.0,71,58,20,45,105,35,34,19,53,1,1,1,1,28,1,1,56,92,BOS
+Players,1626179,Terry Rozier,Terry,1610612738,BOS,25.0,1,1,0,1.0,1.15,0,0,0,0,0,0,0,0,0,0,0,0,0.0,99,58,1,1,103,35,34,19,53,1,1,1,1,28,1,1,56,92,BOS
+Players,1628369,Jayson Tatum,Jayson,1610612738,BOS,21.0,4,3,1,0.75,7.798333333333333,3,0,0,2,0,0,0,0,0,0,1,1,9.9,38,24,20,22,58,11,34,19,34,1,1,1,1,28,1,56,35,48,BOS
+Players,202681,Kyrie Irving,Kyrie,1610612738,BOS,27.0,4,3,1,0.75,7.798333333333333,2,0,0,2,0,0,0,0,0,0,0,1,13.7,38,24,20,22,58,19,34,19,34,1,1,1,1,28,1,1,35,37,BOS
+Players,201143,Al Horford,Al,1610612738,BOS,33.0,4,3,1,0.75,7.771666666666666,0,0,0,0,0,0,0,0,1,0,0,1,10.7,38,24,20,22,60,35,34,19,53,1,1,1,1,10,1,1,35,44,BOS
+Players,1627759,Jaylen Brown,Jaylen,1610612738,BOS,22.0,3,3,0,1.0,6.763333333333334,0,0,0,0,0,0,0,0,0,0,0,0,3.9,51,24,1,1,64,35,34,19,53,1,1,1,1,28,1,1,56,74,BOS

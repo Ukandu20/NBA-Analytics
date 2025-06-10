@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203932,Aaron Gordon,Aaron,1610612753,ORL,23.0,2,1,1,0.5,3.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,1.0,0.5,2.5,71,58,20,45,60,35,34,19,53,1,91,1,17,28,1,115,19,58,ORL
+Players,203082,Terrence Ross,Terrence,1610612753,ORL,28.0,2,1,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,71,58,20,45,102,35,34,19,53,1,59,1,86,28,1,1,56,92,ORL
+Players,1628411,Wes Iwundu,Wes,1610612753,ORL,24.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,58,1,1,118,35,34,19,53,1,1,1,94,28,1,1,56,92,ORL
+Players,202696,Nikola Vučević,Nikola,1610612753,ORL,28.0,2,1,1,0.5,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,2.7,71,58,20,45,62,35,34,19,53,1,91,1,17,28,1,1,56,53,ORL
+Players,203487,Michael Carter-Williams,Michael,1610612753,ORL,27.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,58,1,1,118,35,34,19,53,1,1,1,94,28,1,1,56,92,ORL
+Players,1628371,Jonathan Isaac,Jonathan,1610612753,ORL,21.0,1,1,0,1.0,4.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,6.0,1.0,0.0,0.0,0.0,6.0,99,58,1,1,46,35,34,19,53,1,91,1,7,2,1,1,56,10,ORL
+Players,201571,D.J. Augustin,D.J.,1610612753,ORL,31.0,2,1,1,0.5,3.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,3.3,71,58,20,45,62,35,6,19,21,1,91,1,17,28,1,1,56,44,ORL
+Players,203095,Evan Fournier,Evan,1610612753,ORL,26.0,2,1,1,0.5,3.1,2.0,0.0,2.0,2.0,0.0,2.0,0.0,4.0,0.0,0.0,0.0,0.0,3.5,71,58,20,45,60,3,34,1,2,1,91,1,17,28,1,1,56,36,ORL

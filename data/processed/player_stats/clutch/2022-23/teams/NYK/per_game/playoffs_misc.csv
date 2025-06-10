@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203944,Julius Randle,Julius,1610612752,NYK,28.0,4,3,1,0.75,3.6,0.0,0.5,0.0,0.0,1.8,0.5,1.0,4.0,0.0,0.0,0.3,0.3,2.2,38,22,14,14,46,38,17,23,57,97,57,92,24,26,1,60,45,64,NYK
+Players,1628973,Jalen Brunson,Jalen,1610612752,NYK,26.0,5,3,2,0.6,3.0,0.6,1.0,0.0,1.6,2.0,0.4,0.8,3.2,0.0,0.0,0.4,0.2,3.8,30,22,56,36,60,25,6,23,14,102,53,87,40,26,1,78,53,31,NYK
+Players,1629011,Mitchell Robinson,Mitchell,1610612752,NYK,25.0,5,3,2,0.6,1.7,0.0,0.2,0.0,0.0,1.6,0.4,0.8,2.8,0.0,0.0,0.0,0.2,0.4,30,22,56,36,104,38,32,23,57,90,53,87,51,26,1,1,53,102,NYK
+Players,1630193,Immanuel Quickley,Immanuel,1610612752,NYK,24.0,2,1,1,0.5,0.4,0.0,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,66,14,47,121,38,37,23,57,82,1,1,115,26,1,1,67,108,NYK
+Players,1628392,Isaiah Hartenstein,Isaiah,1610612752,NYK,25.0,3,3,0,1.0,1.9,0.0,0.7,0.0,0.7,0.0,0.0,0.0,0.7,0.0,0.0,0.3,0.0,2.3,61,22,1,1,96,38,11,23,32,1,1,1,110,26,1,72,67,60,NYK
+Players,1629628,RJ Barrett,RJ,1610612752,NYK,23.0,4,2,2,0.5,2.1,0.0,0.0,0.0,0.0,2.5,0.5,1.0,2.0,0.0,0.3,0.0,0.5,0.8,38,37,56,47,89,38,37,23,57,113,57,92,65,26,118,1,27,95,NYK
+Players,1629656,Quentin Grimes,Quentin,1610612752,NYK,23.0,4,3,1,0.75,2.6,0.0,0.5,0.0,0.0,0.5,0.0,0.0,2.0,0.0,0.0,0.3,0.3,0.8,38,22,14,14,80,38,17,23,57,44,1,1,65,26,1,60,45,95,NYK
+Players,1628404,Josh Hart,Josh,1610612752,NYK,28.0,4,2,2,0.5,3.2,0.5,0.8,0.0,0.5,2.5,0.5,1.0,4.0,0.0,0.0,0.5,0.8,4.7,38,37,56,47,56,27,10,23,38,113,57,92,24,26,1,83,15,23,NYK

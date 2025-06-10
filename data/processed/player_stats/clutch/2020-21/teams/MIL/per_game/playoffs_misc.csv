@@ -1,0 +1,10 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,26.0,9,7,2,0.778,4.9,1.2,1.3,0.4,2.7,0.6,1.8,0.0,2.4,0.2,0.1,0.7,1.7,6.9,2,1,69,23,18,3,4,4,1,73,122,1,41,10,114,110,2,7,MIL
+Players,1628978,Donte DiVincenzo,Donte,1610612749,MIL,24.0,1,1,0,1.0,9.6,0.0,0.0,0.0,0.0,0.0,3.0,0.0,2.0,0.0,1.0,0.0,0.0,2.4,97,54,1,1,6,21,26,9,47,1,126,1,46,20,132,1,63,49,MIL
+Players,1626192,Pat Connaughton,Pat,1610612749,MIL,28.0,8,6,2,0.75,2.9,0.0,0.0,0.4,0.0,0.0,1.1,0.0,1.8,0.0,0.0,0.0,0.1,1.2,11,5,69,27,44,21,26,5,47,1,105,1,74,20,1,1,56,77,MIL
+Players,200782,P.J. Tucker,P.J.,1610612749,MIL,36.0,9,7,2,0.778,2.4,0.0,0.0,0.0,0.0,0.3,1.4,0.0,1.8,0.0,0.0,0.2,0.1,0.5,2,1,69,23,66,21,26,9,47,55,111,1,73,20,1,68,59,95,MIL
+Players,1626171,Bobby Portis,Bobby,1610612749,MIL,26.0,2,2,0,1.0,1.2,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,1.2,75,35,1,1,102,21,26,9,47,59,1,1,107,20,129,1,63,78,MIL
+Players,201572,Brook Lopez,Brook,1610612749,MIL,33.0,5,3,2,0.6,6.1,0.0,0.4,0.0,0.8,0.8,1.4,0.0,2.4,0.4,0.0,0.4,0.8,5.8,30,19,69,48,7,21,21,9,24,92,110,1,44,5,1,91,17,11,MIL
+Players,203114,Khris Middleton,Khris,1610612749,MIL,29.0,9,7,2,0.778,4.9,0.6,0.1,0.0,0.9,0.6,1.8,0.0,2.4,0.0,0.0,0.3,0.7,6.5,2,1,69,23,18,11,25,9,22,73,122,1,41,20,1,81,19,9,MIL
+Players,1627854,Bryn Forbes,Bryn,1610612749,MIL,27.0,3,1,2,0.333,0.3,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53,54,69,74,117,21,26,9,47,77,1,1,107,20,1,1,63,106,MIL
+Players,201950,Jrue Holiday,Jrue,1610612749,MIL,31.0,9,7,2,0.778,4.9,0.0,0.7,0.2,0.7,0.6,1.8,0.0,2.4,0.0,0.1,0.2,0.3,5.5,2,1,69,23,18,21,9,6,27,73,122,1,41,20,114,68,35,12,MIL

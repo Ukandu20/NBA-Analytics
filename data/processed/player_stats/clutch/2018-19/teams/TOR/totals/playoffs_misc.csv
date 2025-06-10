@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,202695,Kawhi Leonard,Kawhi,1610612761,TOR,28.0,12,7,5,0.583,57.80833333333333,10,6,6,12,15,21,12,42,1,2,1,16,76.6,3,3,119,40,2,2,7,1,4,111,122,122,122,10,118,56,1,1,TOR
+Players,201188,Marc Gasol,Marc,1610612761,TOR,34.0,12,7,5,0.583,53.82666666666667,2,7,2,2,15,20,12,40,1,0,5,6,29.3,3,3,119,40,4,19,4,8,34,111,120,122,118,10,1,116,7,16,TOR
+Players,200768,Kyle Lowry,Kyle,1610612761,TOR,33.0,10,6,4,0.6,40.25333333333333,3,5,0,6,11,12,8,28,0,1,2,5,31.3,8,9,105,38,13,11,9,19,12,98,98,116,110,28,98,81,9,15,TOR
+Players,1627783,Pascal Siakam,Pascal,1610612761,TOR,25.0,11,7,4,0.636,49.095,8,10,2,14,11,19,12,40,1,2,2,7,56.1,6,3,105,32,8,3,1,8,2,98,116,122,118,10,118,81,5,4,TOR
+Players,201980,Danny Green,Danny,1610612761,TOR,32.0,9,4,5,0.444,32.035,3,3,0,0,12,13,10,24,0,0,4,2,21.8,10,17,119,67,23,11,18,19,53,106,102,119,106,28,1,110,22,24,TOR
+Players,1627832,Fred VanVleet,Fred,1610612761,TOR,25.0,10,7,3,0.7,36.61333333333334,3,0,0,0,7,17,4,28,1,0,4,1,16.2,8,3,86,27,15,11,34,19,53,93,114,93,110,10,1,110,35,33,TOR
+Players,201586,Serge Ibaka,Serge,1610612761,TOR,29.0,5,5,0,1.0,12.993333333333334,2,4,0,2,4,3,2,4,0,0,5,0,6.6,30,10,1,1,42,19,13,19,34,66,62,77,37,28,1,116,56,57,TOR
+Players,1626181,Norman Powell,Norman,1610612761,TOR,26.0,3,2,1,0.667,6.416666666666667,0,0,0,0,0,0,0,4,0,0,1,1,0.0,51,36,20,28,67,35,34,19,53,1,1,1,37,28,1,56,35,92,TOR

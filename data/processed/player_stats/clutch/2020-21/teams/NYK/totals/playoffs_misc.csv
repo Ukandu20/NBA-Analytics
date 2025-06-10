@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203493,Reggie Bullock Jr.,Reggie,1610612752,NYK,30.0,2,1,1,0.5,3.565,0,0,0,0,0,0,0,2,0,0,0,0,4.2,75,54,23,52,90,21,26,9,47,1,1,1,27,20,1,1,63,70,NYK
+Players,1629628,RJ Barrett,RJ,1610612752,NYK,21.0,1,0,1,0.0,4.886666666666667,0,0,0,2,0,0,0,4,0,0,1,0,2.0,97,100,23,100,87,21,26,9,24,1,1,1,49,20,1,58,63,89,NYK
+Players,1628373,Frank Ntilikina,Frank,1610612752,NYK,22.0,1,0,1,0.0,0.1483333333333333,0,0,0,0,0,0,0,2,0,0,0,0,0.0,97,100,23,100,124,21,26,9,47,1,1,1,27,20,1,1,63,106,NYK
+Players,201565,Derrick Rose,Derrick,1610612752,NYK,32.0,2,1,1,0.5,7.435,0,2,0,4,0,0,0,2,1,0,1,0,10.9,75,54,23,52,67,21,9,9,13,1,1,1,27,4,1,58,63,34,NYK
+Players,201959,Taj Gibson,Taj,1610612752,NYK,36.0,2,1,1,0.5,8.466666666666667,0,0,0,2,0,0,0,6,0,0,0,0,7.4,75,54,23,52,61,21,26,9,24,1,1,1,59,20,1,1,63,53,NYK
+Players,202692,Alec Burks,Alec,1610612752,NYK,29.0,2,1,1,0.5,8.466666666666667,2,0,0,0,0,0,0,6,0,0,0,1,9.0,75,54,23,52,61,10,26,9,47,1,1,1,59,20,1,1,27,45,NYK
+Players,1630193,Immanuel Quickley,Immanuel,1610612752,NYK,22.0,1,0,1,0.0,0.8983333333333333,0,0,0,0,0,0,0,2,0,0,1,0,0.0,97,100,23,100,110,21,26,9,47,1,1,1,27,20,1,58,63,106,NYK
+Players,203944,Julius Randle,Julius,1610612752,NYK,26.0,2,1,1,0.5,8.466666666666667,0,0,0,0,0,0,0,6,0,0,1,0,9.9,75,54,23,52,61,21,26,9,47,1,1,1,59,20,1,58,63,38,NYK

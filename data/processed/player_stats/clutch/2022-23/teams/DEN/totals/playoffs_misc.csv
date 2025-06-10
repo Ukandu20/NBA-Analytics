@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,203932,Aaron Gordon,Aaron,1610612743,DEN,27.0,12,8,4,0.667,35.91,0,5,2,12,10,7,2,22,1,1,6,4,25.9,1,1,114,21,7,38,4,7,2,117,89,62,121,6,108,126,12,14,DEN
+Players,1629008,Michael Porter Jr.,Michael,1610612743,DEN,25.0,11,7,4,0.636,28.633333333333333,0,3,0,0,10,5,2,18,1,0,6,0,15.8,4,4,114,32,15,38,8,23,57,117,80,62,107,6,1,126,67,35,DEN
+Players,203484,Kentavious Caldwell-Pope,Kentavious,1610612743,DEN,30.0,11,7,4,0.636,27.75333333333333,2,0,0,4,4,7,0,14,1,0,1,1,24.3,4,4,114,32,17,18,37,23,17,60,89,1,89,6,1,50,36,19,DEN
+Players,203999,Nikola Jokić,Nikola,1610612743,DEN,28.0,12,8,4,0.667,35.931666666666665,5,2,0,20,10,7,2,22,0,2,3,12,62.7,1,1,114,21,5,4,15,23,1,117,89,62,121,26,125,113,2,1,DEN
+Players,1628971,Bruce Brown,Bruce,1610612743,DEN,26.0,8,5,3,0.625,15.476666666666668,0,2,0,2,6,2,2,12,1,0,0,2,18.2,15,11,98,35,38,38,15,23,28,88,52,62,80,6,1,1,22,31,DEN
+Players,1631128,Christian Braun,Christian,1610612743,DEN,22.0,1,0,1,0.0,0.0216666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,92,14,92,130,38,37,23,57,1,1,1,1,26,1,1,67,108,DEN
+Players,1627750,Jamal Murray,Jamal,1610612743,DEN,26.0,12,8,4,0.667,35.931666666666665,0,0,2,4,10,7,2,22,0,0,2,6,36.4,1,1,114,21,5,38,37,7,17,117,89,62,121,26,1,91,5,5,DEN

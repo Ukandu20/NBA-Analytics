@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,201569,Eric Gordon,Eric,1610612756,PHX,35.0,1,0,1,0.0,3.5,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,87,79,15,79,51,33,38,18,48,114,1,1,18,27,1,1,53,92,PHX
+Players,1629642,Nassir Little,Nassir,1610612756,PHX,24.0,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,87,79,15,79,116,33,38,18,48,1,1,1,59,27,1,1,53,92,PHX
+Players,1629006,Josh Okogie,Josh,1610612756,PHX,25.0,1,0,1,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,87,79,15,79,111,33,38,18,48,1,1,1,59,27,1,1,53,92,PHX
+Players,203994,Jusuf Nurkić,Jusuf,1610612756,PHX,29.0,1,0,1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.2,87,79,15,79,114,33,38,18,48,1,1,1,101,27,1,102,53,74,PHX
+Players,203078,Bradley Beal,Bradley,1610612756,PHX,31.0,1,0,1,0.0,3.3,2.0,2.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.5,87,79,15,79,56,2,2,18,4,114,1,1,59,27,1,102,53,89,PHX
+Players,201142,Kevin Durant,Kevin,1610612756,PHX,35.0,1,0,1,0.0,3.5,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,1.2,87,79,15,79,51,33,38,18,48,114,1,1,18,27,1,1,1,74,PHX
+Players,1626220,Royce O'Neale,Royce,1610612756,PHX,31.0,1,0,1,0.0,3.5,0.0,3.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,4.2,87,79,15,79,51,33,1,18,48,114,1,1,18,27,1,1,53,30,PHX
+Players,1626164,Devin Booker,Devin,1610612756,PHX,27.0,1,0,1,0.0,3.4,1.0,1.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,1.0,1.0,1.0,7.0,87,79,15,79,54,6,6,18,48,114,1,1,59,27,117,102,7,9,PHX

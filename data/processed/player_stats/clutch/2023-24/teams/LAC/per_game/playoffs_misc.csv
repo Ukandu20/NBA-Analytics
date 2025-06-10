@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,201566,Russell Westbrook,Russell,1610612746,LAC,35.0,2,1,1,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61,47,15,41,95,33,38,18,48,1,1,1,101,27,1,1,53,92,LAC
+Players,1629611,Terance Mann,Terance,1610612746,LAC,27.0,2,1,1,0.5,2.7,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,61,47,15,41,73,33,38,18,48,1,63,1,86,27,1,1,53,92,LAC
+Players,202331,Paul George,Paul,1610612746,LAC,34.0,2,1,1,0.5,3.5,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.5,0.0,0.5,1.0,5.3,61,47,15,41,49,33,38,18,48,1,63,1,86,4,1,81,7,20,LAC
+Players,1629599,Amir Coffey,Amir,1610612746,LAC,27.0,1,1,0,1.0,1.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,87,47,1,1,87,33,38,18,48,1,1,1,59,27,1,102,53,92,LAC
+Players,1626181,Norman Powell,Norman,1610612746,LAC,31.0,2,1,1,0.5,2.8,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,61,47,15,41,72,33,38,18,48,1,63,1,86,27,1,1,53,92,LAC
+Players,202695,Kawhi Leonard,Kawhi,1610612746,LAC,33.0,1,0,1,0.0,2.1,0.0,0.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,87,79,15,79,83,33,38,18,4,1,93,1,101,27,1,102,53,58,LAC
+Players,1627826,Ivica Zubac,Ivica,1610612746,LAC,27.0,2,1,1,0.5,2.3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,61,47,15,41,82,6,38,18,23,1,1,1,101,27,1,1,53,55,LAC
+Players,201935,James Harden,James,1610612746,LAC,34.0,2,1,1,0.5,3.5,0.0,0.0,0.0,5.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,7.9,61,47,15,41,49,33,38,18,2,1,63,1,86,27,1,102,7,5,LAC

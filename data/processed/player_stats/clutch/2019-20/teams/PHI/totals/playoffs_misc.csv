@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1629003,Shake Milton,Shake,1610612755,PHI,23.0,2,0,2,0.0,4.535,2,0,0,2,3,2,3,2,0,0,2,0,1.0,80,95,59,95,84,18,34,16,25,68,42,101,22,25,1,82,62,89,PHI
+Players,202699,Tobias Harris,Tobias,1610612755,PHI,27.0,3,0,3,0.0,6.651666666666666,0,0,0,0,3,2,6,2,0,0,0,0,1.2,61,95,76,95,69,39,34,16,51,68,42,113,22,25,1,1,62,84,PHI
+Players,202692,Alec Burks,Alec,1610612755,PHI,28.0,1,0,1,0.0,2.1166666666666667,0,0,0,0,0,0,3,0,0,0,0,1,2.2,97,95,11,95,102,39,34,16,51,1,1,101,1,25,1,1,39,75,PHI
+Players,201143,Al Horford,Al,1610612755,PHI,34.0,3,0,3,0.0,4.601666666666667,0,0,0,0,3,2,3,2,0,0,1,0,2.4,61,95,76,95,83,39,34,16,51,68,42,101,22,25,1,38,62,73,PHI
+Players,1626196,Josh Richardson,Josh,1610612755,PHI,26.0,3,0,3,0.0,6.651666666666666,0,0,0,0,3,2,6,2,0,2,3,0,0.0,61,95,76,95,69,39,34,16,51,68,42,113,22,25,117,96,62,93,PHI
+Players,1629680,Matisse Thybulle,Matisse,1610612755,PHI,23.0,1,0,1,0.0,2.1166666666666667,0,0,0,0,0,0,3,0,0,0,1,0,0.0,97,95,11,95,102,39,34,16,51,1,1,101,1,25,1,38,62,93,PHI
+Players,203954,Joel Embiid,Joel,1610612755,PHI,26.0,3,0,3,0.0,6.585,2,2,0,0,3,2,6,2,0,1,2,3,8.4,61,95,76,95,71,18,17,16,51,68,42,113,22,25,97,82,17,48,PHI

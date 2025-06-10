@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1626192,Pat Connaughton,Pat,1610612749,MIL,30.0,2,0,2,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.6,75,92,56,92,116,38,37,23,57,1,1,1,104,26,1,83,67,99,MIL
+Players,201572,Brook Lopez,Brook,1610612749,MIL,35.0,2,0,2,0.0,5.9,0.0,0.0,0.0,1.0,2.0,4.0,3.0,5.0,0.5,0.0,1.0,0.0,4.6,75,92,56,92,9,38,37,23,23,102,122,118,19,2,1,113,67,25,MIL
+Players,201950,Jrue Holiday,Jrue,1610612749,MIL,33.0,2,0,2,0.0,6.2,0.0,0.0,0.0,0.0,2.0,4.0,3.0,6.0,0.0,0.5,1.0,1.0,2.0,75,92,56,92,6,38,37,23,57,102,122,118,8,26,127,113,6,67,MIL
+Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,28.0,2,0,2,0.0,6.2,1.0,1.0,0.0,4.0,2.0,4.0,3.0,6.0,0.0,0.0,0.5,2.5,9.2,75,92,56,92,6,8,6,23,1,102,122,118,8,26,1,83,1,3,MIL
+Players,1628960,Grayson Allen,Grayson,1610612749,MIL,27.0,2,0,2,0.0,2.5,0.0,0.0,0.0,0.0,2.0,1.0,3.0,1.0,0.0,0.0,0.5,0.0,0.0,75,92,56,92,81,38,37,23,57,102,71,118,104,26,1,83,67,108,MIL
+Players,203114,Khris Middleton,Khris,1610612749,MIL,31.0,2,0,2,0.0,5.6,0.0,0.0,0.0,0.0,2.0,4.0,3.0,6.0,0.0,0.0,1.0,0.5,4.5,75,92,56,92,11,38,37,23,57,102,122,118,8,26,1,113,27,27,MIL
+Players,202083,Wesley Matthews,Wesley,1610612749,MIL,36.0,1,0,1,0.0,7.3,0.0,0.0,0.0,0.0,0.0,6.0,0.0,10.0,0.0,0.0,0.0,0.0,6.0,97,92,14,92,3,38,37,23,57,1,126,1,3,26,1,1,67,15,MIL
+Players,204060,Joe Ingles,Joe,1610612749,MIL,35.0,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97,92,14,92,127,38,37,23,57,1,1,1,115,26,1,1,67,108,MIL

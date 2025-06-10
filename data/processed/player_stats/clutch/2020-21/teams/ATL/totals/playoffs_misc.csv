@@ -1,0 +1,10 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1628381,John Collins,John,1610612737,ATL,23.0,9,6,3,0.667,29.725,0,10,0,6,13,14,2,28,1,0,6,1,25.8,2,5,98,38,6,21,2,9,8,130,127,100,130,4,1,130,27,10,ATL
+Players,1629027,Trae Young,Trae,1610612737,ATL,22.0,9,6,3,0.667,31.265,2,0,2,8,13,14,2,30,0,1,2,13,54.5,2,5,98,38,4,10,26,4,2,130,127,100,132,20,113,93,2,3,ATL
+Players,203524,Solomon Hill,Solomon,1610612737,ATL,30.0,3,2,1,0.667,3.763333333333333,0,0,0,0,0,0,0,4,0,0,1,0,0.0,53,35,23,38,89,21,26,9,47,1,1,1,49,20,1,58,63,106,ATL
+Players,1628989,Kevin Huerter,Kevin,1610612737,ATL,22.0,9,6,3,0.667,23.686666666666667,0,0,0,2,9,14,2,24,0,0,3,2,19.0,2,5,98,38,9,21,26,9,24,124,127,100,128,20,1,118,17,14,ATL
+Players,1629631,De'Andre Hunter,De'Andre,1610612737,ATL,23.0,2,1,1,0.5,7.195,0,0,0,0,2,2,0,8,0,0,0,1,4.2,75,54,23,52,69,21,26,9,47,65,60,1,79,20,1,1,27,70,ATL
+Players,101150,Lou Williams,Lou,1610612737,ATL,34.0,3,2,1,0.667,2.96,0,0,0,0,0,0,0,0,0,0,1,0,1.2,53,35,23,38,92,21,26,9,47,1,1,1,1,20,1,58,63,98,ATL
+Players,203992,Bogdan Bogdanović,Bogdan,1610612737,ATL,28.0,5,3,2,0.6,16.19333333333333,0,0,0,0,8,3,0,14,0,0,1,1,10.0,30,19,69,48,23,21,26,9,47,122,85,1,105,20,1,58,27,37,ATL
+Players,201568,Danilo Gallinari,Danilo,1610612737,ATL,32.0,8,6,2,0.75,13.611666666666666,2,0,0,4,7,11,2,14,0,0,1,1,12.4,11,5,69,27,36,10,26,9,13,121,124,100,105,20,1,58,27,27,ATL
+Players,203991,Clint Capela,Clint,1610612737,ATL,27.0,8,6,2,0.75,28.975,0,4,0,8,13,12,2,28,1,0,2,0,21.8,11,5,69,27,7,21,4,9,2,130,125,100,130,4,1,93,63,11,ATL

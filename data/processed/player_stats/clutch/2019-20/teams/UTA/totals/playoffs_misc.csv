@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,201144,Mike Conley,Mike,1610612762,UTA,32.0,3,1,2,0.333,13.048333333333334,2,0,0,4,5,4,0,12,1,0,0,2,14.0,61,51,59,73,47,18,34,16,15,80,76,1,85,11,1,1,30,33,UTA
+Players,203903,Jordan Clarkson,Jordan,1610612762,UTA,28.0,2,1,1,0.5,7.681666666666667,0,0,0,0,11,5,0,4,0,1,1,0,0.0,80,51,11,45,67,39,34,16,51,106,79,1,45,25,97,38,62,93,UTA
+Players,1629752,Juwan Morgan,Juwan,1610612762,UTA,23.0,2,1,1,0.5,2.66,0,0,0,0,2,1,0,2,0,0,0,0,0.0,80,51,11,45,95,39,34,16,51,36,39,1,22,25,1,1,62,93,UTA
+Players,204060,Joe Ingles,Joe,1610612762,UTA,32.0,4,1,3,0.25,19.29,0,0,0,2,16,10,0,16,0,0,0,0,2.2,41,51,76,79,32,39,34,16,25,116,105,1,100,25,1,1,62,75,UTA
+Players,203497,Rudy Gobert,Rudy,1610612762,UTA,28.0,4,1,3,0.25,20.49,2,2,0,4,16,10,0,16,2,0,2,2,19.6,41,51,76,79,27,18,17,16,15,116,105,1,100,3,1,82,30,23,UTA
+Players,1626220,Royce O'Neale,Royce,1610612762,UTA,27.0,4,1,3,0.25,18.356666666666666,0,0,0,2,14,10,0,14,0,0,2,0,2.2,41,51,76,79,35,39,34,16,25,113,105,1,95,25,1,82,62,75,UTA
+Players,1628378,Donovan Mitchell,Donovan,1610612762,UTA,23.0,4,1,3,0.25,20.49,2,3,0,6,16,10,0,16,0,1,0,9,32.1,41,51,76,79,27,18,10,16,8,116,105,1,100,25,97,1,2,13,UTA
+Players,1627777,Georges Niang,Georges,1610612762,UTA,27.0,1,0,1,0.0,0.4333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,95,11,95,117,39,34,16,51,1,1,1,1,25,1,1,62,93,UTA

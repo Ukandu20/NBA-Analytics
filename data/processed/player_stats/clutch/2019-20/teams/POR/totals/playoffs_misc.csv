@@ -1,0 +1,9 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,202355,Hassan Whiteside,Hassan,1610612757,POR,31.0,1,1,0,1.0,1.9333333333333331,0,0,0,0,2,0,0,2,2,0,1,0,7.2,97,51,1,1,105,39,34,16,51,36,1,1,22,3,1,38,62,54,POR
+Players,1629018,Gary Trent Jr.,Gary,1610612757,POR,21.0,2,1,1,0.5,4.681666666666667,0,0,0,0,5,0,2,6,0,0,1,0,7.2,80,51,11,45,82,39,34,16,51,80,1,70,56,25,1,38,62,54,POR
+Players,1629014,Anfernee Simons,Anfernee,1610612757,POR,21.0,1,0,1,0.0,0.9,0,0,0,0,1,0,0,2,0,0,0,0,1.5,97,95,11,95,109,39,34,16,51,34,1,1,22,25,1,1,62,81,POR
+Players,203468,CJ McCollum,CJ,1610612757,POR,28.0,2,1,1,0.5,5.415,0,0,0,0,5,0,2,6,0,0,1,0,0.2,80,51,11,45,78,39,34,16,51,80,1,70,56,25,1,38,62,91,POR
+Players,2546,Carmelo Anthony,Carmelo,1610612757,POR,36.0,2,1,1,0.5,5.415,0,0,0,0,5,0,2,6,0,0,0,0,6.9,80,51,11,45,78,39,34,16,51,80,1,70,56,25,1,1,62,57,POR
+Players,1629117,Wenyen Gabriel,Wenyen,1610612757,POR,23.0,1,1,0,1.0,0.7333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,51,1,1,112,39,34,16,51,1,1,1,1,25,1,1,62,93,POR
+Players,203081,Damian Lillard,Damian,1610612757,POR,29.0,1,1,0,1.0,4.515,0,0,0,0,4,0,2,4,0,0,0,1,7.2,97,51,1,1,85,39,34,16,51,76,1,70,45,25,1,1,39,54,POR
+Players,203994,Jusuf Nurkić,Jusuf,1610612757,POR,25.0,2,1,1,0.5,3.4816666666666665,0,0,0,2,3,0,2,4,0,0,1,1,1.2,80,51,11,45,92,39,34,16,25,68,1,70,45,25,1,38,39,84,POR

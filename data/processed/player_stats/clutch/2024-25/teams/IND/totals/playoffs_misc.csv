@@ -1,0 +1,10 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1629614,Andrew Nembhard,Andrew,1610612754,IND,25.0,9,8,1,0.889,32.49,2,6,3,6,2,8,2,24,1,0,1,2,37.7,7,1,10,10,11,14,3,5,7,55,106,63,120,8,1,57,20,8,IND
+Players,1630169,Tyrese Haliburton,Tyrese,1610612754,IND,25.0,9,8,1,0.889,32.013333333333335,11,8,2,12,2,8,2,24,2,2,1,4,57.8,7,1,10,10,12,1,2,7,2,55,106,63,120,2,127,57,5,2,IND
+Players,1626167,Myles Turner,Myles,1610612754,IND,29.0,9,8,1,0.889,27.80666666666667,0,2,0,2,2,8,0,20,2,0,1,4,24.2,7,1,10,10,16,28,13,18,33,55,106,1,116,2,1,57,5,18,IND
+Players,1641767,Ben Sheppard,Ben,1610612754,IND,23.0,4,3,1,0.75,0.9016666666666666,0,0,0,0,0,0,0,0,0,0,1,0,0.0,38,29,10,19,114,28,31,18,50,1,1,1,1,28,1,57,59,106,IND
+Players,1628418,Thomas Bryant,Thomas,1610612754,IND,27.0,1,1,0,1.0,0.0066666666666666,0,0,0,0,0,0,0,0,0,0,0,0,1.2,100,53,1,1,129,28,31,18,50,1,1,1,1,28,1,1,59,95,IND
+Players,1641716,Jarace Walker,Jarace,1610612754,IND,21.0,1,1,0,1.0,0.365,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100,53,1,1,120,28,31,18,50,1,1,1,1,28,1,1,59,106,IND
+Players,1630167,Obi Toppin,Obi,1610612754,IND,27.0,4,4,0,1.0,5.8,2,2,0,4,2,0,2,6,0,0,1,0,9.4,38,17,1,1,77,14,13,18,15,55,1,63,60,28,1,57,59,44,IND
+Players,1627783,Pascal Siakam,Pascal,1610612754,IND,31.0,8,7,1,0.875,31.39666666666667,4,4,0,8,0,8,2,22,1,0,4,2,28.5,12,5,10,14,13,7,4,18,5,1,106,63,118,8,1,122,20,15,IND
+Players,1630174,Aaron Nesmith,Aaron,1610612754,IND,25.0,9,8,1,0.889,32.695,7,2,4,4,2,8,2,24,2,2,5,3,32.0,7,1,10,10,10,2,13,2,15,55,106,63,120,2,127,124,11,12,IND

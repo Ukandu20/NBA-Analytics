@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1626162,Kelly Oubre Jr.,Kelly,1610612755,PHI,28.0,5,1,4,0.2,4.3,0.0,0.4,0.4,1.6,0.6,1.8,0.4,3.2,0.0,0.2,1.2,0.0,1.8,30,47,105,74,25,33,20,9,11,46,88,77,40,27,106,115,53,63,PHI
+Players,203954,Joel Embiid,Joel,1610612755,PHI,30.0,5,1,4,0.2,5.2,0.6,1.2,0.0,0.8,1.2,2.4,0.4,3.6,0.2,0.4,1.0,1.0,6.9,30,47,105,74,13,17,5,18,31,81,104,77,34,17,112,102,7,10,PHI
+Players,201587,Nicolas Batum,Nicolas,1610612755,PHI,35.0,5,1,4,0.2,3.9,0.0,0.0,0.0,0.0,1.2,1.4,0.4,2.8,0.2,0.0,0.8,0.0,2.0,30,47,105,74,39,33,38,18,48,81,74,77,45,17,1,99,53,60,PHI
+Players,1627741,Buddy Hield,Buddy,1610612755,PHI,31.0,1,0,1,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.2,87,79,15,79,84,33,38,18,48,1,1,1,18,27,1,1,53,74,PHI
+Players,1630178,Tyrese Maxey,Tyrese,1610612755,PHI,23.0,5,1,4,0.2,5.3,0.2,0.2,0.4,1.6,1.2,2.4,0.4,3.6,0.0,0.2,0.4,1.0,6.0,30,47,105,74,11,30,35,9,11,81,104,77,34,27,106,79,7,13,PHI
+Players,200768,Kyle Lowry,Kyle,1610612755,PHI,38.0,3,0,3,0.0,4.4,0.0,0.7,0.0,0.0,1.0,2.7,0.0,2.0,0.0,0.0,0.7,1.3,2.6,47,79,91,79,24,33,12,18,48,61,109,1,59,27,1,94,6,48,PHI
+Players,202699,Tobias Harris,Tobias,1610612755,PHI,31.0,5,1,4,0.2,4.6,0.4,0.0,0.0,0.0,1.2,2.4,0.4,2.8,0.0,0.0,0.6,0.2,1.7,30,47,105,74,22,22,38,18,48,81,104,77,45,27,1,91,47,65,PHI

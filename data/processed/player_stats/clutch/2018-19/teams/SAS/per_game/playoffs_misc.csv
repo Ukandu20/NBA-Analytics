@@ -1,0 +1,8 @@
+group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
+Players,1628401,Derrick White,Derrick,1610612759,SAS,24.0,2,1,1,0.5,2.9,1.0,0.0,0.0,0.0,1.5,1.0,0.0,0.0,0.0,0.0,0.0,0.5,2.0,71,58,20,45,66,6,34,19,53,86,59,1,94,28,1,1,19,68,SAS
+Players,1627854,Bryn Forbes,Bryn,1610612759,SAS,25.0,3,1,2,0.333,3.0,0.0,0.0,0.0,0.7,1.0,0.7,0.0,1.3,0.0,0.3,0.3,0.0,1.1,51,58,55,76,65,35,34,19,29,57,50,1,73,28,115,71,56,79,SAS
+Players,200746,LaMarcus Aldridge,LaMarcus,1610612759,SAS,33.0,3,1,2,0.333,3.5,0.0,0.0,0.0,0.0,1.0,0.7,0.0,1.3,0.0,0.0,0.7,0.7,2.1,51,58,55,76,55,35,34,19,53,57,50,1,73,28,1,105,12,67,SAS
+Players,201942,DeMar DeRozan,DeMar,1610612759,SAS,29.0,3,1,2,0.333,3.5,0.0,0.0,0.0,0.0,1.0,0.7,0.0,1.3,0.0,0.3,0.0,0.7,4.2,51,58,55,76,55,35,34,19,53,57,50,1,73,28,115,1,12,26,SAS
+Players,202722,Dāvis Bertāns,Dāvis,1610612759,SAS,26.0,1,1,0,1.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,99,58,1,1,100,35,34,19,53,1,1,1,94,28,1,1,56,46,SAS
+Players,200752,Rudy Gay,Rudy,1610612759,SAS,32.0,3,1,2,0.333,3.1,0.0,0.0,0.0,0.0,1.0,0.7,0.0,1.3,0.0,0.0,0.3,0.0,0.8,51,58,55,76,59,35,34,19,53,57,50,1,73,28,1,71,56,82,SAS
+Players,201988,Patty Mills,Patty,1610612759,SAS,30.0,3,1,2,0.333,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,0.0,0.0,0.3,0.0,1.6,51,58,55,76,82,35,34,19,53,1,1,1,73,28,1,71,56,72,SAS
