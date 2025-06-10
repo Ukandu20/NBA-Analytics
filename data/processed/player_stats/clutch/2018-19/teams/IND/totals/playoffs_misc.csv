@@ -1,10 +1,10 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,202083,Wesley Matthews,Wesley,1610612754,IND,32.0,2,0,2,0.0,6.736666666666666,0,0,0,0,5,0,0,6,0,0,1,0,3.5,71,94,55,94,65,35,34,19,53,79,1,1,64,28,1,56,56,75,IND
-Players,202709,Cory Joseph,Cory,1610612754,IND,27.0,3,0,3,0.0,1.6983333333333333,0,0,0,0,5,0,0,4,0,0,0,0,1.2,51,94,86,94,102,35,34,19,53,79,1,1,37,28,1,1,56,87,IND
-Players,203926,Doug McDermott,Doug,1610612754,IND,27.0,1,0,1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,99,94,20,94,124,35,34,19,53,1,1,1,1,28,1,1,56,92,IND
-Players,1627734,Domantas Sabonis,Domantas,1610612754,IND,23.0,1,0,1,0.0,1.85,0,0,0,0,2,0,0,0,0,0,0,0,0.0,99,94,20,94,101,35,34,19,53,46,1,1,1,28,1,1,56,92,IND
-Players,1626167,Myles Turner,Myles,1610612754,IND,23.0,3,0,3,0.0,7.73,0,0,0,0,5,0,0,8,0,0,0,0,0.0,51,94,86,94,61,35,34,19,53,79,1,1,68,28,1,1,56,92,IND
-Players,201152,Thaddeus Young,Thaddeus,1610612754,IND,31.0,2,0,2,0.0,5.8533333333333335,0,0,0,0,3,0,0,8,0,0,1,0,1.2,71,94,55,94,76,35,34,19,53,60,1,1,68,28,1,56,56,87,IND
-Players,201954,Darren Collison,Darren,1610612754,IND,31.0,3,0,3,0.0,6.058333333333334,0,0,0,0,0,0,0,4,0,0,0,0,0.0,51,94,86,94,72,35,34,19,53,1,1,1,37,28,1,1,56,92,IND
-Players,201936,Tyreke Evans,Tyreke,1610612754,IND,29.0,1,0,1,0.0,0.9933333333333332,0,0,0,0,0,0,0,2,0,0,0,0,0.0,99,94,20,94,106,35,34,19,53,1,1,1,32,28,1,1,56,92,IND
-Players,202711,Bojan Bogdanović,Bojan,1610612754,IND,30.0,3,0,3,0.0,7.73,0,0,0,0,5,0,0,8,0,1,1,1,10.1,51,94,86,94,61,35,34,19,53,79,1,1,68,28,98,56,35,47,IND
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,202711,Bojan Bogdanović,Bojan,1610612754,IND,30.0,3,0,3,0.0,7.73,0,0,0,0,5,0,0,8,0,1,1,1,10.1,51,94,86,94,61,35,34,19,53,79,1,1,68,28,98,56,35,47
+Players,202709,Cory Joseph,Cory,1610612754,IND,27.0,3,0,3,0.0,1.6983333333333333,0,0,0,0,5,0,0,4,0,0,0,0,1.2,51,94,86,94,102,35,34,19,53,79,1,1,37,28,1,1,56,87
+Players,201954,Darren Collison,Darren,1610612754,IND,31.0,3,0,3,0.0,6.058333333333334,0,0,0,0,0,0,0,4,0,0,0,0,0.0,51,94,86,94,72,35,34,19,53,1,1,1,37,28,1,1,56,92
+Players,1627734,Domantas Sabonis,Domantas,1610612754,IND,23.0,1,0,1,0.0,1.85,0,0,0,0,2,0,0,0,0,0,0,0,0.0,99,94,20,94,101,35,34,19,53,46,1,1,1,28,1,1,56,92
+Players,203926,Doug McDermott,Doug,1610612754,IND,27.0,1,0,1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,99,94,20,94,124,35,34,19,53,1,1,1,1,28,1,1,56,92
+Players,1626167,Myles Turner,Myles,1610612754,IND,23.0,3,0,3,0.0,7.73,0,0,0,0,5,0,0,8,0,0,0,0,0.0,51,94,86,94,61,35,34,19,53,79,1,1,68,28,1,1,56,92
+Players,201152,Thaddeus Young,Thaddeus,1610612754,IND,31.0,2,0,2,0.0,5.8533333333333335,0,0,0,0,3,0,0,8,0,0,1,0,1.2,71,94,55,94,76,35,34,19,53,60,1,1,68,28,1,56,56,87
+Players,201936,Tyreke Evans,Tyreke,1610612754,IND,29.0,1,0,1,0.0,0.9933333333333332,0,0,0,0,0,0,0,2,0,0,0,0,0.0,99,94,20,94,106,35,34,19,53,1,1,1,32,28,1,1,56,92
+Players,202083,Wesley Matthews,Wesley,1610612754,IND,32.0,2,0,2,0.0,6.736666666666666,0,0,0,0,5,0,0,6,0,0,1,0,3.5,71,94,55,94,65,35,34,19,53,79,1,1,64,28,1,56,56,75

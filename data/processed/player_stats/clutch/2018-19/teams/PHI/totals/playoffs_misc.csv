@@ -1,8 +1,8 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,203118,Mike Scott,Mike,1610612755,PHI,30.0,1,1,0,1.0,5.066666666666666,0,0,0,0,5,3,0,4,0,0,0,0,3.0,99,58,1,1,80,35,34,19,53,79,62,1,37,28,1,1,56,80,PHI
-Players,1627732,Ben Simmons,Ben,1610612755,PHI,22.0,4,2,2,0.5,17.7,0,0,0,0,11,7,2,8,0,0,2,0,11.1,38,36,55,45,33,35,34,19,53,98,84,77,68,28,1,81,56,42,PHI
-Players,202699,Tobias Harris,Tobias,1610612755,PHI,26.0,4,2,2,0.5,17.7,2,0,0,2,11,7,2,8,0,0,3,2,10.9,38,36,55,45,33,19,34,19,34,98,84,77,68,28,1,99,22,43,PHI
-Players,203516,James Ennis III,James,1610612755,PHI,28.0,3,2,1,0.667,0.785,0,0,0,0,0,0,0,0,0,0,0,0,0.0,51,36,20,28,107,35,34,19,53,1,1,1,1,28,1,1,56,92,PHI
-Players,203954,Joel Embiid,Joel,1610612755,PHI,25.0,4,2,2,0.5,17.7,3,0,0,8,11,7,2,8,0,0,3,3,21.7,38,36,55,45,33,11,34,19,7,98,84,77,68,28,1,99,17,25,PHI
-Players,200755,JJ Redick,JJ,1610612755,PHI,35.0,4,2,2,0.5,16.915,3,3,0,0,11,7,2,8,0,0,1,2,10.2,38,36,55,45,36,11,18,19,53,98,84,77,68,28,1,56,22,45,PHI
-Players,202710,Jimmy Butler III,Jimmy,1610612755,PHI,29.0,3,1,2,0.333,12.633333333333333,0,2,4,4,6,4,2,4,0,1,0,4,22.4,51,58,55,76,43,35,25,3,17,90,73,77,37,28,98,1,12,23,PHI
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1627732,Ben Simmons,Ben,1610612755,PHI,22.0,4,2,2,0.5,17.7,0,0,0,0,11,7,2,8,0,0,2,0,11.1,38,36,55,45,33,35,34,19,53,98,84,77,68,28,1,81,56,42
+Players,200755,JJ Redick,JJ,1610612755,PHI,35.0,4,2,2,0.5,16.915,3,3,0,0,11,7,2,8,0,0,1,2,10.2,38,36,55,45,36,11,18,19,53,98,84,77,68,28,1,56,22,45
+Players,203516,James Ennis III,James,1610612755,PHI,28.0,3,2,1,0.667,0.785,0,0,0,0,0,0,0,0,0,0,0,0,0.0,51,36,20,28,107,35,34,19,53,1,1,1,1,28,1,1,56,92
+Players,202710,Jimmy Butler III,Jimmy,1610612755,PHI,29.0,3,1,2,0.333,12.633333333333333,0,2,4,4,6,4,2,4,0,1,0,4,22.4,51,58,55,76,43,35,25,3,17,90,73,77,37,28,98,1,12,23
+Players,203954,Joel Embiid,Joel,1610612755,PHI,25.0,4,2,2,0.5,17.7,3,0,0,8,11,7,2,8,0,0,3,3,21.7,38,36,55,45,33,11,34,19,7,98,84,77,68,28,1,99,17,25
+Players,203118,Mike Scott,Mike,1610612755,PHI,30.0,1,1,0,1.0,5.066666666666666,0,0,0,0,5,3,0,4,0,0,0,0,3.0,99,58,1,1,80,35,34,19,53,79,62,1,37,28,1,1,56,80
+Players,202699,Tobias Harris,Tobias,1610612755,PHI,26.0,4,2,2,0.5,17.7,2,0,0,2,11,7,2,8,0,0,3,2,10.9,38,36,55,45,33,19,34,19,34,98,84,77,68,28,1,99,22,43

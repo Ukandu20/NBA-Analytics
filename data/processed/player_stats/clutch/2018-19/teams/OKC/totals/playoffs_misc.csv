@@ -1,7 +1,7 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,202331,Paul George,Paul,1610612760,OKC,29.0,3,1,2,0.333,4.965,0,3,0,2,4,2,0,4,0,0,2,0,6.7,51,58,55,76,88,35,18,19,34,66,45,1,37,28,1,81,56,56,OKC
-Players,203500,Steven Adams,Steven,1610612760,OKC,25.0,2,1,1,0.5,2.9966666666666666,0,0,0,0,2,2,0,2,0,0,0,0,1.7,71,58,20,45,98,35,34,19,53,46,45,1,32,28,1,1,56,85,OKC
-Players,1628390,Terrance Ferguson,Terrance,1610612760,OKC,21.0,2,0,2,0.0,2.1366666666666667,0,0,0,0,2,0,0,2,0,0,1,0,1.5,71,94,55,94,99,35,34,19,53,46,1,1,32,28,1,56,56,86,OKC
-Players,203471,Dennis Schröder,Dennis,1610612760,OKC,25.0,3,1,2,0.333,4.891666666666667,0,0,0,0,4,2,0,4,0,0,0,0,0.0,51,58,55,76,90,35,34,19,53,66,45,1,37,28,1,1,56,92,OKC
-Players,203924,Jerami Grant,Jerami,1610612760,OKC,25.0,3,1,2,0.333,4.996666666666667,0,0,0,2,4,2,0,4,1,0,1,0,5.0,51,58,55,76,86,35,34,19,34,66,45,1,37,10,1,56,56,65,OKC
-Players,201566,Russell Westbrook,Russell,1610612760,OKC,30.0,3,1,2,0.333,4.996666666666667,1,0,1,2,4,2,0,4,0,0,1,0,8.7,51,58,55,76,86,34,34,18,34,66,45,1,37,28,1,56,56,53,OKC
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,203471,Dennis Schröder,Dennis,1610612760,OKC,25.0,3,1,2,0.333,4.891666666666667,0,0,0,0,4,2,0,4,0,0,0,0,0.0,51,58,55,76,90,35,34,19,53,66,45,1,37,28,1,1,56,92
+Players,203924,Jerami Grant,Jerami,1610612760,OKC,25.0,3,1,2,0.333,4.996666666666667,0,0,0,2,4,2,0,4,1,0,1,0,5.0,51,58,55,76,86,35,34,19,34,66,45,1,37,10,1,56,56,65
+Players,202331,Paul George,Paul,1610612760,OKC,29.0,3,1,2,0.333,4.965,0,3,0,2,4,2,0,4,0,0,2,0,6.7,51,58,55,76,88,35,18,19,34,66,45,1,37,28,1,81,56,56
+Players,201566,Russell Westbrook,Russell,1610612760,OKC,30.0,3,1,2,0.333,4.996666666666667,1,0,1,2,4,2,0,4,0,0,1,0,8.7,51,58,55,76,86,34,34,18,34,66,45,1,37,28,1,56,56,53
+Players,203500,Steven Adams,Steven,1610612760,OKC,25.0,2,1,1,0.5,2.9966666666666666,0,0,0,0,2,2,0,2,0,0,0,0,1.7,71,58,20,45,98,35,34,19,53,46,45,1,32,28,1,1,56,85
+Players,1628390,Terrance Ferguson,Terrance,1610612760,OKC,21.0,2,0,2,0.0,2.1366666666666667,0,0,0,0,2,0,0,2,0,0,1,0,1.5,71,94,55,94,99,35,34,19,53,46,1,1,32,28,1,56,56,86

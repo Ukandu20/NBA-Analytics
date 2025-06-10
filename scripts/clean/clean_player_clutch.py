@@ -1,19 +1,12 @@
 #!/usr/bin/env python3
 """
 clean_player_clutch.py
-======================
+=======================
 
-Clean raw “player clutch” CSVs and build per-team mirrors, keeping everything
-alphabetically sorted.
+Clean the raw ‘player clutch’ tables (totals / per_game / per48) and
+create per-team copies that live in:
 
-Raw input
----------
-data/raw/player_stats/clutch/<season>/<totals|per_game>/*.csv
-
-Output
-------
-data/processed/player_stats/clutch/<season>/<totals|per_game>/*.csv
-└─ teams/<TEAM>/<totals|per_game>/<same-filename>.csv
+    …/teams/<TEAM>/<totals|per_game|per48>/<filename>.csv
 """
 
 from __future__ import annotations
@@ -25,21 +18,21 @@ from typing import Iterable, List
 
 import pandas as pd
 
-# ───────────────────────── project paths ────────────────────────────────────
-ROOT = pathlib.Path(__file__).resolve().parents[2]          # repo root
-sys.path.append(str(ROOT))                                  # for utils/
+ROOT = pathlib.Path(__file__).resolve().parents[2]
+sys.path.append(str(ROOT))
 
-from utils.clean_helpers  import normalise_cols             # type: ignore
-from utils.numeric_helpers import coerce_all_numeric        # type: ignore
+from utils.clean_helpers import normalise_cols
+from utils.numeric_helpers import coerce_all_numeric
 
 RAW_ROOT  = ROOT / "data/raw/player_stats/clutch"
 PROC_ROOT = ROOT / "data/processed/player_stats/clutch"
 
 
-# ───────────────────────── column helpers ──────────────────────────────────
+# ── column helpers ──────────────────────────────────────────────────────────
 def _ensure_team(df: pd.DataFrame) -> None:
     """
-    Guarantee a `team` column (ALL-CAPS), regardless of which raw field exists.
+    Create/standardise a `team` column (ALL-CAPS) so we can write
+    per-team files regardless of which raw field is present.
     """
     if "team" in df.columns:
         df["team"] = df["team"].fillna("").astype(str).str.upper()
@@ -56,9 +49,6 @@ def _ensure_team(df: pd.DataFrame) -> None:
 
 
 def _add_season_bounds(df: pd.DataFrame) -> None:
-    """
-    Split “2024-25” ➜ season_start = 2024, season_end = 2025.
-    """
     if "season_year" in df.columns:
         df.rename(columns={"season_year": "season"}, inplace=True)
 
@@ -68,7 +58,7 @@ def _add_season_bounds(df: pd.DataFrame) -> None:
         df["season_end"]   = df["season_start"] + 1
 
 
-# ───────────────────────── I/O helper ───────────────────────────────────────
+# ── tiny I/O helper ─────────────────────────────────────────────────────────
 def _write_csv(path: pathlib.Path, df: pd.DataFrame, *, force: bool) -> None:
     if path.exists() and not force:
         return
@@ -76,7 +66,7 @@ def _write_csv(path: pathlib.Path, df: pd.DataFrame, *, force: bool) -> None:
     df.to_csv(path, index=False)
 
 
-# ───────────────────────── per-file cleaner ────────────────────────────────
+# ── one-file cleaner ────────────────────────────────────────────────────────
 def _clean_one(
     src: pathlib.Path,
     dst_master: pathlib.Path,
@@ -84,13 +74,24 @@ def _clean_one(
     *,
     force: bool,
 ) -> None:
+    """Clean one CSV, write league-wide file + per-team copies."""
     df = pd.read_csv(src)
     if df.empty:
         print(f"⚠️  {src.name}: empty — skipped")
         return
 
-    # normalise, enrich, coerce
     df.columns = normalise_cols(df.columns)
+    df.rename(
+        columns={
+            "player_name": "player",
+            "player_last_team_id": "team_id",
+            "player_last_team_abbreviation": "team",
+            "team_abbreviation": "team",
+            
+        },
+        inplace=True,
+    )
+    
     _ensure_team(df)
     _add_season_bounds(df)
 
@@ -98,38 +99,30 @@ def _clean_one(
     df = coerce_all_numeric(df, list(non_num))
     df.drop_duplicates(inplace=True)
 
-    # sort league-wide rows by team → player → season_start (if present)
-    if "team" in df.columns:
-        sort_cols = ["team"]
-        if "player" in df.columns:
-            sort_cols.append("player")
-        if "season_start" in df.columns:
-            sort_cols.append("season_start")
-        df.sort_values(sort_cols, inplace=True, ignore_index=True)
-
     if df.empty:
         print(f"⚠️  {src.name}: no rows after cleaning — skipped")
         return
 
-    # ── league-wide CSV ────────────────────────────────────────────────────
+    # league-wide file
     _write_csv(dst_master, df, force=force)
     print(f"✅ {dst_master.relative_to(ROOT)}  ({len(df):,} rows)")
 
-    # ── per-team mirrors (alphabetical) ────────────────────────────────────
+    # per-team mirrors
+# per-team copies  (totals / per_game / per48 under each club)
     if "team" in df.columns:
-        per_mode = dst_master.parent.name          # totals | per_game
-        # groupby(sort=True) → alphabetical teams
-        for team, grp in df.groupby("team", sort=True):
+        per_mode = dst_master.parent.name        # totals | per_game | per48
+        for team, grp in df.groupby("team"):
             team_path = (
                 team_root
-                / str(team).upper()
+                / str(team).upper()              # ← cast then upper()
                 / per_mode
                 / dst_master.name
             )
             _write_csv(team_path, grp, force=force)
 
 
-# ───────────────────────── per-season driver ───────────────────────────────
+
+# ── per-season driver ───────────────────────────────────────────────────────
 def _clean_season(season: str, *, force: bool) -> None:
     raw_season  = RAW_ROOT  / season
     proc_season = PROC_ROOT / season
@@ -139,18 +132,15 @@ def _clean_season(season: str, *, force: bool) -> None:
         print(f"⚠️  no raw data for {season}")
         return
 
-    for mode in ["totals", "per_game"]:
+    for mode in ["totals", "per_game", "per48"]:
         for csv in (raw_season / mode).glob("*.csv"):
             dst_master = proc_season / mode / csv.name
             _clean_one(csv, dst_master, team_root, force=force)
 
 
-# ───────────────────────── CLI helpers ─────────────────────────────────────
+# ── CLI helpers ─────────────────────────────────────────────────────────────
 def _seasons_on_disk() -> List[str]:
-    if not RAW_ROOT.exists():
-        return []
-    return sorted(p.name for p in RAW_ROOT.iterdir() if p.is_dir())
-
+    return sorted(p.name for p in RAW_ROOT.iterdir() if p.is_dir()) if RAW_ROOT.exists() else []
 
 def _parse_cli() -> argparse.Namespace:
     ap = argparse.ArgumentParser(
@@ -166,7 +156,6 @@ def _parse_cli() -> argparse.Namespace:
                    help="overwrite existing processed files")
     return ap.parse_args()
 
-
 def _targets(a: argparse.Namespace) -> Iterable[str]:
     if a.all:
         return _seasons_on_disk()
@@ -175,13 +164,12 @@ def _targets(a: argparse.Namespace) -> Iterable[str]:
     return [a.season or "2024-25"]
 
 
-# ───────────────────────── entry point ─────────────────────────────────────
+# ── entry point ─────────────────────────────────────────────────────────────
 def main() -> None:
     args = _parse_cli()
     for season in _targets(args):
         print(f"\n📂 Cleaning season {season}")
         _clean_season(season, force=args.force)
-
 
 if __name__ == "__main__":
     main()

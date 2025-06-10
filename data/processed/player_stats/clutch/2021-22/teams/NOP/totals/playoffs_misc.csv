@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1630530,Trey Murphy III,Trey,1610612740,NOP,22.0,2,0,2,0.0,0.1666666666666666,0,0,0,0,0,0,0,0,0,0,1,0,0.0,80,105,62,105,123,27,25,9,54,1,1,1,1,28,1,60,57,104,NOP
-Players,1630529,Herbert Jones,Herbert,1610612740,NOP,23.0,3,1,2,0.333,10.13,0,0,0,2,4,4,2,12,0,0,2,1,5.0,57,63,62,86,54,27,25,9,27,101,90,104,100,28,1,99,32,74,NOP
-Players,1630230,Naji Marshall,Naji,1610612740,NOP,24.0,1,0,1,0.0,0.0416666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,106,105,21,105,129,27,25,9,54,1,1,1,1,28,1,1,57,104,NOP
-Players,203468,CJ McCollum,CJ,1610612740,NOP,30.0,3,1,2,0.333,10.088333333333331,0,0,0,2,4,4,2,12,0,0,0,0,5.5,57,63,62,86,57,27,25,9,27,101,90,104,100,28,1,1,57,68,NOP
-Players,202685,Jonas Valančiūnas,Jonas,1610612740,NOP,30.0,3,1,2,0.333,3.4,0,0,0,0,0,0,0,2,0,0,1,0,3.5,57,63,62,86,105,27,25,9,54,1,1,1,27,28,1,60,57,81,NOP
-Players,1630631,Jose Alvarado,Jose,1610612740,NOP,24.0,3,1,2,0.333,9.963333333333331,0,0,0,0,4,4,2,12,0,1,1,1,6.5,57,63,62,86,63,27,25,9,54,101,90,104,100,28,116,60,32,63,NOP
-Players,1627742,Brandon Ingram,Brandon,1610612740,NOP,24.0,3,1,2,0.333,10.13,0,0,0,4,4,4,2,12,0,0,1,0,14.2,57,63,62,86,54,27,25,9,13,101,90,104,100,28,1,60,57,26,NOP
-Players,1626204,Larry Nance Jr.,Larry,1610612740,NOP,29.0,3,1,2,0.333,6.73,0,0,0,0,4,4,2,10,0,0,2,1,2.5,57,63,62,86,79,27,25,9,54,101,90,104,90,28,1,99,32,89,NOP
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1627742,Brandon Ingram,Brandon,1610612740,NOP,24.0,3,1,2,0.333,10.13,0,0,0,4,4,4,2,12,0,0,1,0,14.2,57,63,62,86,54,27,25,9,13,101,90,104,100,28,1,60,57,26
+Players,203468,CJ McCollum,CJ,1610612740,NOP,30.0,3,1,2,0.333,10.088333333333331,0,0,0,2,4,4,2,12,0,0,0,0,5.5,57,63,62,86,57,27,25,9,27,101,90,104,100,28,1,1,57,68
+Players,1630529,Herbert Jones,Herbert,1610612740,NOP,23.0,3,1,2,0.333,10.13,0,0,0,2,4,4,2,12,0,0,2,1,5.0,57,63,62,86,54,27,25,9,27,101,90,104,100,28,1,99,32,74
+Players,202685,Jonas Valančiūnas,Jonas,1610612740,NOP,30.0,3,1,2,0.333,3.4,0,0,0,0,0,0,0,2,0,0,1,0,3.5,57,63,62,86,105,27,25,9,54,1,1,1,27,28,1,60,57,81
+Players,1630631,Jose Alvarado,Jose,1610612740,NOP,24.0,3,1,2,0.333,9.963333333333331,0,0,0,0,4,4,2,12,0,1,1,1,6.5,57,63,62,86,63,27,25,9,54,101,90,104,100,28,116,60,32,63
+Players,1626204,Larry Nance Jr.,Larry,1610612740,NOP,29.0,3,1,2,0.333,6.73,0,0,0,0,4,4,2,10,0,0,2,1,2.5,57,63,62,86,79,27,25,9,54,101,90,104,90,28,1,99,32,89
+Players,1630230,Naji Marshall,Naji,1610612740,NOP,24.0,1,0,1,0.0,0.0416666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,106,105,21,105,129,27,25,9,54,1,1,1,1,28,1,1,57,104
+Players,1630530,Trey Murphy III,Trey,1610612740,NOP,22.0,2,0,2,0.0,0.1666666666666666,0,0,0,0,0,0,0,0,0,0,1,0,0.0,80,105,62,105,123,27,25,9,54,1,1,1,1,28,1,60,57,104

@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,201935,James Harden,James,1610612745,HOU,30.0,5,1,4,0.2,4.3,0.8,0.6,0.0,1.6,2.2,0.8,0.4,2.4,0.4,0.2,0.8,0.6,6.3,28,51,107,89,23,9,10,16,6,110,61,83,42,4,104,112,21,10,HOU
-Players,200782,P.J. Tucker,P.J.,1610612745,HOU,35.0,4,1,3,0.25,5.5,0.0,0.0,0.0,0.0,2.8,2.3,0.5,3.0,0.0,0.0,1.3,0.3,1.9,41,51,76,79,5,39,34,16,51,115,111,91,28,25,1,122,48,58,HOU
-Players,201145,Jeff Green,Jeff,1610612745,HOU,33.0,3,0,3,0.0,3.8,1.0,0.0,0.0,1.3,3.0,2.0,0.7,2.7,0.3,0.0,0.0,0.7,3.9,61,95,76,95,40,4,34,16,11,116,102,99,36,5,1,1,17,22,HOU
-Players,201569,Eric Gordon,Eric,1610612745,HOU,31.0,5,1,4,0.2,4.2,0.0,0.0,0.0,0.4,2.2,1.8,0.4,2.4,0.2,0.0,0.4,0.4,3.1,28,51,107,89,24,39,34,16,36,110,97,83,42,13,1,75,37,33,HOU
-Players,203496,Robert Covington,Robert,1610612745,HOU,29.0,3,1,2,0.333,3.7,0.3,0.0,0.0,0.0,0.7,1.0,0.0,1.3,0.3,0.3,0.3,0.3,2.5,61,51,59,73,45,30,34,16,51,47,71,1,80,5,115,63,42,44,HOU
-Players,201566,Russell Westbrook,Russell,1610612745,HOU,31.0,3,1,2,0.333,3.3,0.0,0.0,0.7,0.7,0.7,1.0,0.0,0.7,0.0,0.0,0.3,0.0,0.9,61,51,59,73,53,39,34,3,24,47,71,1,93,25,1,63,62,75,HOU
-Players,1627863,Danuel House Jr.,Danuel,1610612745,HOU,27.0,3,0,3,0.0,4.6,0.0,0.7,0.0,0.7,3.0,2.0,0.7,3.3,0.0,0.0,0.3,0.3,1.5,61,95,76,95,17,39,6,16,24,116,102,99,27,25,1,63,42,67,HOU
-Players,203085,Austin Rivers,Austin,1610612745,HOU,27.0,2,0,2,0.0,0.8,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80,95,59,95,108,39,34,16,51,1,116,1,103,25,1,1,62,93,HOU
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,203085,Austin Rivers,Austin,1610612745,HOU,27.0,2,0,2,0.0,0.8,0.0,0.0,0.0,0.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80,95,59,95,108,39,34,16,51,1,116,1,103,25,1,1,62,93
+Players,1627863,Danuel House Jr.,Danuel,1610612745,HOU,27.0,3,0,3,0.0,4.6,0.0,0.7,0.0,0.7,3.0,2.0,0.7,3.3,0.0,0.0,0.3,0.3,1.5,61,95,76,95,17,39,6,16,24,116,102,99,27,25,1,63,42,67
+Players,201569,Eric Gordon,Eric,1610612745,HOU,31.0,5,1,4,0.2,4.2,0.0,0.0,0.0,0.4,2.2,1.8,0.4,2.4,0.2,0.0,0.4,0.4,3.1,28,51,107,89,24,39,34,16,36,110,97,83,42,13,1,75,37,33
+Players,201935,James Harden,James,1610612745,HOU,30.0,5,1,4,0.2,4.3,0.8,0.6,0.0,1.6,2.2,0.8,0.4,2.4,0.4,0.2,0.8,0.6,6.3,28,51,107,89,23,9,10,16,6,110,61,83,42,4,104,112,21,10
+Players,201145,Jeff Green,Jeff,1610612745,HOU,33.0,3,0,3,0.0,3.8,1.0,0.0,0.0,1.3,3.0,2.0,0.7,2.7,0.3,0.0,0.0,0.7,3.9,61,95,76,95,40,4,34,16,11,116,102,99,36,5,1,1,17,22
+Players,200782,P.J. Tucker,P.J.,1610612745,HOU,35.0,4,1,3,0.25,5.5,0.0,0.0,0.0,0.0,2.8,2.3,0.5,3.0,0.0,0.0,1.3,0.3,1.9,41,51,76,79,5,39,34,16,51,115,111,91,28,25,1,122,48,58
+Players,203496,Robert Covington,Robert,1610612745,HOU,29.0,3,1,2,0.333,3.7,0.3,0.0,0.0,0.0,0.7,1.0,0.0,1.3,0.3,0.3,0.3,0.3,2.5,61,51,59,73,45,30,34,16,51,47,71,1,80,5,115,63,42,44
+Players,201566,Russell Westbrook,Russell,1610612745,HOU,31.0,3,1,2,0.333,3.3,0.0,0.0,0.7,0.7,0.7,1.0,0.0,0.7,0.0,0.0,0.3,0.0,0.9,61,51,59,73,53,39,34,3,24,47,71,1,93,25,1,63,62,75

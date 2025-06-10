@@ -1,11 +1,11 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1627780,Gary Payton II,Gary,1610612744,GSW,32.0,3,2,1,0.667,2.05,0,2,0,4,0,0,0,2,0,0,1,0,8.2,56,38,10,27,104,28,13,18,15,1,1,1,21,28,1,57,59,48,GSW
-Players,1626172,Kevon Looney,Kevon,1610612744,GSW,29.0,2,1,1,0.5,3.8666666666666663,0,0,0,0,0,4,2,4,0,0,3,1,3.2,76,53,10,44,90,28,31,18,50,1,76,63,45,28,1,115,39,72,GSW
-Players,1630228,Jonathan Kuminga,Jonathan,1610612744,GSW,22.0,1,0,1,0.0,3.2883333333333336,0,0,0,0,2,4,2,2,0,1,0,0,0.0,100,84,10,84,93,28,31,18,50,55,76,63,21,28,102,1,59,106,GSW
-Players,1630541,Moses Moody,Moses,1610612744,GSW,23.0,1,1,0,1.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,3.0,100,53,1,1,122,28,31,18,50,1,1,1,1,28,1,1,59,75,GSW
-Players,203110,Draymond Green,Draymond,1610612744,GSW,35.0,4,3,1,0.75,6.683333333333334,0,0,0,0,2,0,0,2,1,0,2,1,7.1,38,29,10,19,66,28,31,18,50,55,1,1,21,8,1,100,39,52,GSW
-Players,1631218,Trayce Jackson-Davis,Trayce,1610612744,GSW,25.0,1,0,1,0.0,0.0883333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100,84,10,84,123,28,31,18,50,1,1,1,1,28,1,1,59,106,GSW
-Players,1641764,Brandin Podziemski,Brandin,1610612744,GSW,22.0,4,3,1,0.75,10.021666666666668,0,0,0,0,2,4,2,4,1,0,0,0,8.4,38,29,10,19,50,28,31,18,50,55,76,63,45,8,1,1,59,47,GSW
-Players,1627741,Buddy Hield,Buddy,1610612744,GSW,32.0,3,2,1,0.667,9.355,0,0,0,0,2,4,2,2,0,0,0,1,3.0,56,38,10,27,53,28,31,18,50,55,76,63,21,28,1,1,39,75,GSW
-Players,201939,Stephen Curry,Stephen,1610612744,GSW,37.0,3,3,0,1.0,6.316666666666666,0,0,0,0,0,0,0,0,0,0,0,0,4.5,56,29,1,1,75,28,31,18,50,1,1,1,1,28,1,1,59,63,GSW
-Players,202710,Jimmy Butler III,Jimmy,1610612744,GSW,35.0,3,2,1,0.667,8.688333333333333,0,0,0,4,2,4,2,4,0,1,0,3,12.6,56,38,10,27,55,28,31,18,15,55,76,63,45,28,102,1,11,36,GSW
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1641764,Brandin Podziemski,Brandin,1610612744,GSW,22.0,4,3,1,0.75,10.021666666666668,0,0,0,0,2,4,2,4,1,0,0,0,8.4,38,29,10,19,50,28,31,18,50,55,76,63,45,8,1,1,59,47
+Players,1627741,Buddy Hield,Buddy,1610612744,GSW,32.0,3,2,1,0.667,9.355,0,0,0,0,2,4,2,2,0,0,0,1,3.0,56,38,10,27,53,28,31,18,50,55,76,63,21,28,1,1,39,75
+Players,203110,Draymond Green,Draymond,1610612744,GSW,35.0,4,3,1,0.75,6.683333333333334,0,0,0,0,2,0,0,2,1,0,2,1,7.1,38,29,10,19,66,28,31,18,50,55,1,1,21,8,1,100,39,52
+Players,1627780,Gary Payton II,Gary,1610612744,GSW,32.0,3,2,1,0.667,2.05,0,2,0,4,0,0,0,2,0,0,1,0,8.2,56,38,10,27,104,28,13,18,15,1,1,1,21,28,1,57,59,48
+Players,202710,Jimmy Butler III,Jimmy,1610612744,GSW,35.0,3,2,1,0.667,8.688333333333333,0,0,0,4,2,4,2,4,0,1,0,3,12.6,56,38,10,27,55,28,31,18,15,55,76,63,45,28,102,1,11,36
+Players,1630228,Jonathan Kuminga,Jonathan,1610612744,GSW,22.0,1,0,1,0.0,3.2883333333333336,0,0,0,0,2,4,2,2,0,1,0,0,0.0,100,84,10,84,93,28,31,18,50,55,76,63,21,28,102,1,59,106
+Players,1626172,Kevon Looney,Kevon,1610612744,GSW,29.0,2,1,1,0.5,3.8666666666666663,0,0,0,0,0,4,2,4,0,0,3,1,3.2,76,53,10,44,90,28,31,18,50,1,76,63,45,28,1,115,39,72
+Players,1630541,Moses Moody,Moses,1610612744,GSW,23.0,1,1,0,1.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,3.0,100,53,1,1,122,28,31,18,50,1,1,1,1,28,1,1,59,75
+Players,201939,Stephen Curry,Stephen,1610612744,GSW,37.0,3,3,0,1.0,6.316666666666666,0,0,0,0,0,0,0,0,0,0,0,0,4.5,56,29,1,1,75,28,31,18,50,1,1,1,1,28,1,1,59,63
+Players,1631218,Trayce Jackson-Davis,Trayce,1610612744,GSW,25.0,1,0,1,0.0,0.0883333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,100,84,10,84,123,28,31,18,50,1,1,1,1,28,1,1,59,106

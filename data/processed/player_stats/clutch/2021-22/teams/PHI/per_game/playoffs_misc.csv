@@ -1,8 +1,8 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,202699,Tobias Harris,Tobias,1610612755,PHI,29.0,2,2,0,1.0,5.4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.5,0.5,0.0,0.0,3.9,80,40,1,1,7,27,25,9,54,103,79,1,91,4,134,1,57,22,PHI
-Players,1630178,Tyrese Maxey,Tyrese,1610612755,PHI,21.0,2,2,0,1.0,5.4,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.0,3.4,80,40,1,1,7,27,4,9,14,103,79,1,91,28,1,103,57,30,PHI
-Players,1627777,Georges Niang,Georges,1610612755,PHI,29.0,1,1,0,1.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.2,106,63,1,1,6,27,25,9,54,1,1,1,111,28,1,1,6,81,PHI
-Players,201935,James Harden,James,1610612755,PHI,32.0,2,2,0,1.0,2.5,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.5,4.8,80,40,1,1,76,27,25,9,3,103,79,1,91,28,1,103,25,14,PHI
-Players,201599,DeAndre Jordan,DeAndre,1610612755,PHI,33.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,133,27,25,9,54,1,1,1,111,28,1,1,57,104,PHI
-Players,203954,Joel Embiid,Joel,1610612755,PHI,28.0,2,2,0,1.0,5.4,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.5,5.7,80,40,1,1,7,27,25,9,14,103,79,1,91,28,1,103,25,6,PHI
-Players,201980,Danny Green,Danny,1610612755,PHI,35.0,2,2,0,1.0,5.4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.7,80,40,1,1,7,27,25,9,54,103,79,1,91,28,1,1,57,25,PHI
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,201980,Danny Green,Danny,1610612755,PHI,35.0,2,2,0,1.0,5.4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,3.7,80,40,1,1,7,27,25,9,54,103,79,1,91,28,1,1,57,25
+Players,201599,DeAndre Jordan,DeAndre,1610612755,PHI,33.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,133,27,25,9,54,1,1,1,111,28,1,1,57,104
+Players,1627777,Georges Niang,Georges,1610612755,PHI,29.0,1,1,0,1.0,5.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.2,106,63,1,1,6,27,25,9,54,1,1,1,111,28,1,1,6,81
+Players,201935,James Harden,James,1610612755,PHI,32.0,2,2,0,1.0,2.5,0.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.5,4.8,80,40,1,1,76,27,25,9,3,103,79,1,91,28,1,103,25,14
+Players,203954,Joel Embiid,Joel,1610612755,PHI,28.0,2,2,0,1.0,5.4,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.5,5.7,80,40,1,1,7,27,25,9,14,103,79,1,91,28,1,103,25,6
+Players,202699,Tobias Harris,Tobias,1610612755,PHI,29.0,2,2,0,1.0,5.4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.5,0.5,0.0,0.0,3.9,80,40,1,1,7,27,25,9,54,103,79,1,91,4,134,1,57,22
+Players,1630178,Tyrese Maxey,Tyrese,1610612755,PHI,21.0,2,2,0,1.0,5.4,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.5,0.0,3.4,80,40,1,1,7,27,4,9,14,103,79,1,91,28,1,103,57,30

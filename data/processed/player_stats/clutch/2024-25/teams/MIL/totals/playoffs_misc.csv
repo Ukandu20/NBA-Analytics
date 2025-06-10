@@ -1,8 +1,8 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1629645,Kevin Porter Jr.,Kevin,1610612749,MIL,25.0,1,0,1,0.0,9.9,0,0,0,0,9,5,4,16,0,0,0,0,2.0,100,84,10,84,51,28,31,18,50,110,94,106,102,28,1,1,59,88,MIL
-Players,1626171,Bobby Portis,Bobby,1610612749,MIL,30.0,2,0,2,0.0,12.166666666666666,0,0,0,0,9,8,4,16,0,1,1,0,2.7,76,84,66,84,42,28,31,18,50,110,106,106,102,28,102,57,59,82,MIL
-Players,203081,Damian Lillard,Damian,1610612749,MIL,34.0,1,0,1,0.0,2.2666666666666666,0,3,0,0,0,3,0,0,0,0,0,0,3.0,100,84,10,84,101,28,6,18,50,1,72,1,1,28,1,1,59,75,MIL
-Players,1629018,Gary Trent Jr.,Gary,1610612749,MIL,26.0,2,0,2,0.0,12.166666666666666,0,0,0,0,9,8,4,16,0,1,1,0,14.2,76,84,66,84,42,28,31,18,50,110,106,106,102,28,102,57,59,31,MIL
-Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,30.0,2,0,2,0.0,12.166666666666666,0,1,0,4,9,8,4,16,1,0,1,2,19.9,76,84,66,84,42,28,28,18,15,110,106,106,102,8,1,57,20,22,MIL
-Players,1628398,Kyle Kuzma,Kyle,1610612749,MIL,29.0,1,0,1,0.0,2.2666666666666666,0,0,0,0,0,3,0,0,0,0,0,0,1.2,100,84,10,84,101,28,31,18,50,1,72,1,1,28,1,1,59,95,MIL
-Players,1631260,AJ Green,AJ,1610612749,MIL,25.0,1,0,1,0.0,9.9,0,0,0,0,9,5,4,16,0,0,1,0,3.0,100,84,10,84,51,28,31,18,50,110,94,106,102,28,1,57,59,75,MIL
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1631260,AJ Green,AJ,1610612749,MIL,25.0,1,0,1,0.0,9.9,0,0,0,0,9,5,4,16,0,0,1,0,3.0,100,84,10,84,51,28,31,18,50,110,94,106,102,28,1,57,59,75
+Players,1626171,Bobby Portis,Bobby,1610612749,MIL,30.0,2,0,2,0.0,12.166666666666666,0,0,0,0,9,8,4,16,0,1,1,0,2.7,76,84,66,84,42,28,31,18,50,110,106,106,102,28,102,57,59,82
+Players,203081,Damian Lillard,Damian,1610612749,MIL,34.0,1,0,1,0.0,2.2666666666666666,0,3,0,0,0,3,0,0,0,0,0,0,3.0,100,84,10,84,101,28,6,18,50,1,72,1,1,28,1,1,59,75
+Players,1629018,Gary Trent Jr.,Gary,1610612749,MIL,26.0,2,0,2,0.0,12.166666666666666,0,0,0,0,9,8,4,16,0,1,1,0,14.2,76,84,66,84,42,28,31,18,50,110,106,106,102,28,102,57,59,31
+Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,30.0,2,0,2,0.0,12.166666666666666,0,1,0,4,9,8,4,16,1,0,1,2,19.9,76,84,66,84,42,28,28,18,15,110,106,106,102,8,1,57,20,22
+Players,1629645,Kevin Porter Jr.,Kevin,1610612749,MIL,25.0,1,0,1,0.0,9.9,0,0,0,0,9,5,4,16,0,0,0,0,2.0,100,84,10,84,51,28,31,18,50,110,94,106,102,28,1,1,59,88
+Players,1628398,Kyle Kuzma,Kyle,1610612749,MIL,29.0,1,0,1,0.0,2.2666666666666666,0,0,0,0,0,3,0,0,0,0,0,0,1.2,100,84,10,84,101,28,31,18,50,1,72,1,1,28,1,1,59,95

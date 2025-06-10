@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,201937,Ricky Rubio,Ricky,1610612762,UTA,28.0,2,0,2,0.0,3.7,0.0,0.0,0.0,2.0,1.0,0.5,1.5,2.0,0.0,0.0,0.0,0.0,3.8,71,94,55,94,51,35,34,19,2,57,43,118,56,28,1,1,56,34,UTA
-Players,1628378,Donovan Mitchell,Donovan,1610612762,UTA,22.0,2,0,2,0.0,4.7,0.0,0.0,0.0,2.0,1.0,0.5,1.5,2.0,0.0,0.5,2.0,0.5,5.8,71,94,55,94,24,35,34,19,2,57,43,118,56,28,121,122,19,13,UTA
-Players,2594,Kyle Korver,Kyle,1610612762,UTA,38.0,1,0,1,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,94,20,94,112,35,34,19,53,1,1,1,94,28,1,1,56,92,UTA
-Players,203497,Rudy Gobert,Rudy,1610612762,UTA,27.0,2,0,2,0.0,4.7,0.0,0.0,0.0,0.0,1.0,0.5,1.5,2.0,1.5,0.5,1.0,0.5,5.1,71,94,55,94,24,35,34,19,53,57,43,118,56,1,121,115,19,18,UTA
-Players,203109,Jae Crowder,Jae,1610612762,UTA,28.0,2,0,2,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.5,0.0,4.8,71,94,55,94,64,35,34,19,53,57,1,1,56,28,1,88,56,20,UTA
-Players,1626220,Royce O'Neale,Royce,1610612762,UTA,26.0,2,0,2,0.0,4.6,0.0,0.0,0.0,0.0,1.0,0.5,1.5,2.0,0.0,0.0,0.5,0.0,0.6,71,94,55,94,28,35,34,19,53,57,43,118,56,28,1,88,56,87,UTA
-Players,202324,Derrick Favors,Derrick,1610612762,UTA,27.0,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,94,20,94,122,35,34,19,53,1,1,1,94,28,1,1,56,92,UTA
-Players,204060,Joe Ingles,Joe,1610612762,UTA,31.0,2,0,2,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.5,1.5,0.0,0.0,0.0,0.5,0.0,0.0,71,94,55,94,71,35,34,19,53,1,43,118,94,28,1,88,56,92,UTA
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,202324,Derrick Favors,Derrick,1610612762,UTA,27.0,1,0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,94,20,94,122,35,34,19,53,1,1,1,94,28,1,1,56,92
+Players,1628378,Donovan Mitchell,Donovan,1610612762,UTA,22.0,2,0,2,0.0,4.7,0.0,0.0,0.0,2.0,1.0,0.5,1.5,2.0,0.0,0.5,2.0,0.5,5.8,71,94,55,94,24,35,34,19,2,57,43,118,56,28,121,122,19,13
+Players,203109,Jae Crowder,Jae,1610612762,UTA,28.0,2,0,2,0.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0,0.5,0.0,4.8,71,94,55,94,64,35,34,19,53,57,1,1,56,28,1,88,56,20
+Players,204060,Joe Ingles,Joe,1610612762,UTA,31.0,2,0,2,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.5,1.5,0.0,0.0,0.0,0.5,0.0,0.0,71,94,55,94,71,35,34,19,53,1,43,118,94,28,1,88,56,92
+Players,2594,Kyle Korver,Kyle,1610612762,UTA,38.0,1,0,1,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,94,20,94,112,35,34,19,53,1,1,1,94,28,1,1,56,92
+Players,201937,Ricky Rubio,Ricky,1610612762,UTA,28.0,2,0,2,0.0,3.7,0.0,0.0,0.0,2.0,1.0,0.5,1.5,2.0,0.0,0.0,0.0,0.0,3.8,71,94,55,94,51,35,34,19,2,57,43,118,56,28,1,1,56,34
+Players,1626220,Royce O'Neale,Royce,1610612762,UTA,26.0,2,0,2,0.0,4.6,0.0,0.0,0.0,0.0,1.0,0.5,1.5,2.0,0.0,0.0,0.5,0.0,0.6,71,94,55,94,28,35,34,19,53,57,43,118,56,28,1,88,56,87
+Players,203497,Rudy Gobert,Rudy,1610612762,UTA,27.0,2,0,2,0.0,4.7,0.0,0.0,0.0,0.0,1.0,0.5,1.5,2.0,1.5,0.5,1.0,0.5,5.1,71,94,55,94,24,35,34,19,53,57,43,118,56,1,121,115,19,18

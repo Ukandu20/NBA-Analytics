@@ -1,11 +1,11 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1626192,Pat Connaughton,Pat,1610612749,MIL,29.0,4,2,2,0.5,11.296666666666669,0,0,0,0,1,6,2,8,0,0,0,1,7.1,41,40,62,51,42,27,25,9,54,67,117,104,70,28,1,1,32,57,MIL
-Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,27.0,5,3,2,0.6,13.325,0,0,0,4,3,8,2,12,1,1,2,3,9.4,23,16,62,35,39,27,25,9,13,90,127,104,100,5,116,99,13,47,MIL
-Players,1628975,Jevon Carter,Jevon,1610612749,MIL,26.0,1,0,1,0.0,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0.0,106,105,21,105,132,27,25,9,54,1,1,1,1,28,1,1,57,104,MIL
-Players,203114,Khris Middleton,Khris,1610612749,MIL,30.0,1,1,0,1.0,4.6466666666666665,0,0,0,0,2,2,0,4,0,0,0,1,2.2,106,63,1,1,98,27,25,9,54,74,47,1,42,28,1,1,32,91,MIL
-Players,1626171,Bobby Portis,Bobby,1610612749,MIL,27.0,3,3,0,1.0,6.355,0,2,0,2,0,4,0,2,0,0,1,0,11.0,57,16,1,1,85,27,13,9,27,1,90,1,27,28,1,60,57,40,MIL
-Players,202083,Wesley Matthews,Wesley,1610612749,MIL,35.0,5,3,2,0.6,16.013333333333332,0,0,0,0,3,8,2,14,0,0,1,0,2.6,23,16,62,35,29,27,25,9,54,90,127,104,110,28,1,60,57,88,MIL
-Players,201572,Brook Lopez,Brook,1610612749,MIL,34.0,4,2,2,0.5,11.901666666666667,0,2,0,8,3,4,2,12,1,1,1,3,15.4,41,40,62,51,40,27,13,9,5,90,90,104,100,5,116,60,13,24,MIL
-Players,201950,Jrue Holiday,Jrue,1610612749,MIL,32.0,5,3,2,0.6,16.253333333333334,3,0,3,4,3,8,2,14,1,2,3,1,26.0,23,16,62,35,27,5,25,2,13,90,127,104,110,5,130,118,32,6,MIL
-Players,201588,George Hill,George,1610612749,MIL,36.0,2,1,1,0.5,1.16,0,0,0,0,0,0,0,4,0,0,0,0,0.0,80,63,21,51,111,27,25,9,54,1,1,1,42,28,1,1,57,104,MIL
-Players,1628960,Grayson Allen,Grayson,1610612749,MIL,26.0,2,1,1,0.5,0.295,1,1,0,0,0,0,0,0,0,0,0,1,2.2,80,63,21,51,119,24,24,9,54,1,1,1,1,28,1,1,32,91,MIL
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1626171,Bobby Portis,Bobby,1610612749,MIL,27.0,3,3,0,1.0,6.355,0,2,0,2,0,4,0,2,0,0,1,0,11.0,57,16,1,1,85,27,13,9,27,1,90,1,27,28,1,60,57,40
+Players,201572,Brook Lopez,Brook,1610612749,MIL,34.0,4,2,2,0.5,11.901666666666667,0,2,0,8,3,4,2,12,1,1,1,3,15.4,41,40,62,51,40,27,13,9,5,90,90,104,100,5,116,60,13,24
+Players,201588,George Hill,George,1610612749,MIL,36.0,2,1,1,0.5,1.16,0,0,0,0,0,0,0,4,0,0,0,0,0.0,80,63,21,51,111,27,25,9,54,1,1,1,42,28,1,1,57,104
+Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,27.0,5,3,2,0.6,13.325,0,0,0,4,3,8,2,12,1,1,2,3,9.4,23,16,62,35,39,27,25,9,13,90,127,104,100,5,116,99,13,47
+Players,1628960,Grayson Allen,Grayson,1610612749,MIL,26.0,2,1,1,0.5,0.295,1,1,0,0,0,0,0,0,0,0,0,1,2.2,80,63,21,51,119,24,24,9,54,1,1,1,1,28,1,1,32,91
+Players,1628975,Jevon Carter,Jevon,1610612749,MIL,26.0,1,0,1,0.0,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0.0,106,105,21,105,132,27,25,9,54,1,1,1,1,28,1,1,57,104
+Players,201950,Jrue Holiday,Jrue,1610612749,MIL,32.0,5,3,2,0.6,16.253333333333334,3,0,3,4,3,8,2,14,1,2,3,1,26.0,23,16,62,35,27,5,25,2,13,90,127,104,110,5,130,118,32,6
+Players,203114,Khris Middleton,Khris,1610612749,MIL,30.0,1,1,0,1.0,4.6466666666666665,0,0,0,0,2,2,0,4,0,0,0,1,2.2,106,63,1,1,98,27,25,9,54,74,47,1,42,28,1,1,32,91
+Players,1626192,Pat Connaughton,Pat,1610612749,MIL,29.0,4,2,2,0.5,11.296666666666669,0,0,0,0,1,6,2,8,0,0,0,1,7.1,41,40,62,51,42,27,25,9,54,67,117,104,70,28,1,1,32,57
+Players,202083,Wesley Matthews,Wesley,1610612749,MIL,35.0,5,3,2,0.6,16.013333333333332,0,0,0,0,3,8,2,14,0,0,1,0,2.6,23,16,62,35,29,27,25,9,54,90,127,104,110,28,1,60,57,88

@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1629060,Rui Hachimura,Rui,1610612747,LAL,26.0,2,0,2,0.0,9.033333333333331,0,0,0,0,0,5,0,12,0,0,0,0,0.0,61,79,60,79,63,33,38,18,48,1,71,1,81,27,1,1,53,92,LAL
-Players,2544,LeBron James,LeBron,1610612747,LAL,39.0,3,0,3,0.0,9.053333333333333,2,0,2,8,0,5,0,12,0,0,1,1,15.7,47,79,91,79,60,17,38,5,6,1,71,1,81,27,1,50,36,31,LAL
-Players,1627752,Taurean Prince,Taurean,1610612747,LAL,30.0,2,0,2,0.0,0.4583333333333333,0,0,0,0,0,0,0,2,0,0,0,0,0.0,61,79,60,79,104,33,38,18,48,1,1,1,20,27,1,1,53,92,LAL
-Players,1630559,Austin Reaves,Austin,1610612747,LAL,26.0,3,0,3,0.0,9.053333333333333,0,0,2,4,0,5,0,12,0,0,1,0,10.5,47,79,91,79,60,33,38,5,19,1,71,1,81,27,1,50,53,42,LAL
-Players,203076,Anthony Davis,Anthony,1610612747,LAL,31.0,3,0,3,0.0,9.053333333333333,0,0,0,0,0,5,0,12,1,0,1,0,4.2,47,79,91,79,60,33,38,18,48,1,71,1,81,8,1,50,53,68,LAL
-Players,1629216,Gabe Vincent,Gabe,1610612747,LAL,28.0,1,0,1,0.0,0.1666666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,110,33,38,18,48,1,1,1,1,27,1,1,53,92,LAL
-Players,1626156,D'Angelo Russell,D'Angelo,1610612747,LAL,28.0,2,0,2,0.0,8.428333333333333,0,0,0,4,0,5,0,10,0,0,0,0,5.5,61,79,60,79,64,33,38,18,19,1,71,1,73,27,1,1,53,61,LAL
-Players,203915,Spencer Dinwiddie,Spencer,1610612747,LAL,31.0,1,0,1,0.0,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,118,33,38,18,48,1,1,1,1,27,1,1,53,92,LAL
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,203076,Anthony Davis,Anthony,1610612747,LAL,31.0,3,0,3,0.0,9.053333333333333,0,0,0,0,0,5,0,12,1,0,1,0,4.2,47,79,91,79,60,33,38,18,48,1,71,1,81,8,1,50,53,68
+Players,1630559,Austin Reaves,Austin,1610612747,LAL,26.0,3,0,3,0.0,9.053333333333333,0,0,2,4,0,5,0,12,0,0,1,0,10.5,47,79,91,79,60,33,38,5,19,1,71,1,81,27,1,50,53,42
+Players,1626156,D'Angelo Russell,D'Angelo,1610612747,LAL,28.0,2,0,2,0.0,8.428333333333333,0,0,0,4,0,5,0,10,0,0,0,0,5.5,61,79,60,79,64,33,38,18,19,1,71,1,73,27,1,1,53,61
+Players,1629216,Gabe Vincent,Gabe,1610612747,LAL,28.0,1,0,1,0.0,0.1666666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,110,33,38,18,48,1,1,1,1,27,1,1,53,92
+Players,2544,LeBron James,LeBron,1610612747,LAL,39.0,3,0,3,0.0,9.053333333333333,2,0,2,8,0,5,0,12,0,0,1,1,15.7,47,79,91,79,60,17,38,5,6,1,71,1,81,27,1,50,36,31
+Players,1629060,Rui Hachimura,Rui,1610612747,LAL,26.0,2,0,2,0.0,9.033333333333331,0,0,0,0,0,5,0,12,0,0,0,0,0.0,61,79,60,79,63,33,38,18,48,1,71,1,81,27,1,1,53,92
+Players,203915,Spencer Dinwiddie,Spencer,1610612747,LAL,31.0,1,0,1,0.0,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,118,33,38,18,48,1,1,1,1,27,1,1,53,92
+Players,1627752,Taurean Prince,Taurean,1610612747,LAL,30.0,2,0,2,0.0,0.4583333333333333,0,0,0,0,0,0,0,2,0,0,0,0,0.0,61,79,60,79,104,33,38,18,48,1,1,1,20,27,1,1,53,92

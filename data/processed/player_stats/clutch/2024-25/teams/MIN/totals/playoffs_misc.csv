@@ -1,10 +1,10 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1628978,Donte DiVincenzo,Donte,1610612750,MIN,28.0,4,3,1,0.75,14.075,0,0,0,2,0,0,0,4,0,1,1,1,4.2,38,29,10,19,39,28,31,18,33,1,1,1,45,28,102,57,39,66,MIN
-Players,1630162,Anthony Edwards,Anthony,1610612750,MIN,23.0,5,4,1,0.8,17.388333333333332,2,3,2,4,0,0,0,4,1,0,1,4,30.1,25,17,10,15,30,14,6,7,15,1,1,1,45,8,1,57,5,14,MIN
-Players,1630545,Terrence Shannon Jr.,Terrence,1610612750,MIN,24.0,1,0,1,0.0,0.0183333333333333,0,0,0,0,0,0,0,0,0,0,1,0,0.0,100,84,10,84,126,28,31,18,50,1,1,1,1,28,1,57,59,106,MIN
-Players,203944,Julius Randle,Julius,1610612750,MIN,30.0,5,4,1,0.8,13.935,2,2,0,4,0,0,0,2,0,0,1,2,15.2,25,17,10,15,40,14,13,18,15,1,1,1,21,28,1,57,20,29,MIN
-Players,1629638,Nickeil Alexander-Walker,Nickeil,1610612750,MIN,26.0,3,2,1,0.667,5.491666666666666,0,0,0,0,0,0,0,2,0,1,4,0,2.7,56,38,10,27,79,28,31,18,50,1,1,1,21,28,102,122,59,82,MIN
-Players,203497,Rudy Gobert,Rudy,1610612750,MIN,32.0,5,4,1,0.8,10.051666666666666,0,3,2,4,0,0,0,4,0,0,1,1,10.3,25,17,10,15,49,28,6,7,15,1,1,1,45,28,1,57,39,39,MIN
-Players,201144,Mike Conley,Mike,1610612750,MIN,37.0,2,2,0,1.0,3.7716666666666665,0,0,0,0,0,0,0,0,0,0,2,0,4.5,76,38,1,1,91,28,31,18,50,1,1,1,1,28,1,100,59,63,MIN
-Players,1630183,Jaden McDaniels,Jaden,1610612750,MIN,24.0,5,4,1,0.8,14.873333333333331,5,3,0,2,0,0,0,4,0,1,1,2,26.5,25,17,10,15,37,3,6,18,33,1,1,1,45,28,102,57,20,16,MIN
-Players,1629675,Naz Reid,Naz,1610612750,MIN,25.0,4,3,1,0.75,7.336666666666667,0,0,0,0,0,0,0,0,0,1,0,2,13.7,38,29,10,19,58,28,31,18,50,1,1,1,1,28,102,1,20,33,MIN
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1630162,Anthony Edwards,Anthony,1610612750,MIN,23.0,5,4,1,0.8,17.388333333333332,2,3,2,4,0,0,0,4,1,0,1,4,30.1,25,17,10,15,30,14,6,7,15,1,1,1,45,8,1,57,5,14
+Players,1628978,Donte DiVincenzo,Donte,1610612750,MIN,28.0,4,3,1,0.75,14.075,0,0,0,2,0,0,0,4,0,1,1,1,4.2,38,29,10,19,39,28,31,18,33,1,1,1,45,28,102,57,39,66
+Players,1630183,Jaden McDaniels,Jaden,1610612750,MIN,24.0,5,4,1,0.8,14.873333333333331,5,3,0,2,0,0,0,4,0,1,1,2,26.5,25,17,10,15,37,3,6,18,33,1,1,1,45,28,102,57,20,16
+Players,203944,Julius Randle,Julius,1610612750,MIN,30.0,5,4,1,0.8,13.935,2,2,0,4,0,0,0,2,0,0,1,2,15.2,25,17,10,15,40,14,13,18,15,1,1,1,21,28,1,57,20,29
+Players,201144,Mike Conley,Mike,1610612750,MIN,37.0,2,2,0,1.0,3.7716666666666665,0,0,0,0,0,0,0,0,0,0,2,0,4.5,76,38,1,1,91,28,31,18,50,1,1,1,1,28,1,100,59,63
+Players,1629675,Naz Reid,Naz,1610612750,MIN,25.0,4,3,1,0.75,7.336666666666667,0,0,0,0,0,0,0,0,0,1,0,2,13.7,38,29,10,19,58,28,31,18,50,1,1,1,1,28,102,1,20,33
+Players,1629638,Nickeil Alexander-Walker,Nickeil,1610612750,MIN,26.0,3,2,1,0.667,5.491666666666666,0,0,0,0,0,0,0,2,0,1,4,0,2.7,56,38,10,27,79,28,31,18,50,1,1,1,21,28,102,122,59,82
+Players,203497,Rudy Gobert,Rudy,1610612750,MIN,32.0,5,4,1,0.8,10.051666666666666,0,3,2,4,0,0,0,4,0,0,1,1,10.3,25,17,10,15,49,28,6,7,15,1,1,1,45,28,1,57,39,39
+Players,1630545,Terrence Shannon Jr.,Terrence,1610612750,MIN,24.0,1,0,1,0.0,0.0183333333333333,0,0,0,0,0,0,0,0,0,0,1,0,0.0,100,84,10,84,126,28,31,18,50,1,1,1,1,28,1,57,59,106

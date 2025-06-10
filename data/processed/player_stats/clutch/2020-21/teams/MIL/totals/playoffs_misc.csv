@@ -1,10 +1,10 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,26.0,9,7,2,0.778,44.04666666666667,11,12,4,24,5,16,0,22,2,1,6,15,62.2,2,1,69,23,1,1,1,1,1,101,130,1,122,1,113,130,1,1,MIL
-Players,1628978,Donte DiVincenzo,Donte,1610612749,MIL,24.0,1,1,0,1.0,9.55,0,0,0,0,0,3,0,2,0,1,0,0,2.4,97,54,1,1,57,21,26,9,47,1,85,1,27,20,113,1,63,81,MIL
-Players,1626192,Pat Connaughton,Pat,1610612749,MIL,28.0,8,6,2,0.75,22.89,0,0,3,0,0,9,0,14,0,0,0,1,9.8,11,5,69,27,10,21,26,2,47,1,123,1,105,20,1,1,27,39,MIL
-Players,200782,P.J. Tucker,P.J.,1610612749,MIL,36.0,9,7,2,0.778,21.828333333333333,0,0,0,0,3,13,0,16,0,0,2,1,4.8,2,1,69,23,11,21,26,9,47,92,126,1,116,20,1,93,27,66,MIL
-Players,1626171,Bobby Portis,Bobby,1610612749,MIL,26.0,2,2,0,1.0,2.4516666666666667,0,0,0,0,1,0,0,0,0,1,0,0,2.4,75,35,1,1,98,21,26,9,47,54,1,1,1,20,113,1,63,81,MIL
-Players,201572,Brook Lopez,Brook,1610612749,MIL,33.0,5,3,2,0.6,30.456666666666667,0,2,0,4,4,7,0,12,2,0,2,4,28.8,30,19,69,48,5,21,9,9,13,96,120,1,102,1,1,93,9,7,MIL
-Players,203114,Khris Middleton,Khris,1610612749,MIL,29.0,9,7,2,0.778,44.04666666666667,5,1,0,8,5,16,0,22,0,0,3,6,58.4,2,1,69,23,1,3,21,9,2,101,130,1,122,20,1,118,5,2,MIL
-Players,1627854,Bryn Forbes,Bryn,1610612749,MIL,27.0,3,1,2,0.333,0.9166666666666666,0,0,0,0,2,0,0,0,0,0,0,0,0.0,53,54,69,74,109,21,26,9,47,65,1,1,1,20,1,1,63,106,MIL
-Players,201950,Jrue Holiday,Jrue,1610612749,MIL,31.0,9,7,2,0.778,44.04666666666667,0,6,2,6,5,16,0,22,0,1,2,3,49.9,2,1,69,23,1,21,3,4,8,101,130,1,122,20,113,93,11,4,MIL
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1626171,Bobby Portis,Bobby,1610612749,MIL,26.0,2,2,0,1.0,2.4516666666666667,0,0,0,0,1,0,0,0,0,1,0,0,2.4,75,35,1,1,98,21,26,9,47,54,1,1,1,20,113,1,63,81
+Players,201572,Brook Lopez,Brook,1610612749,MIL,33.0,5,3,2,0.6,30.456666666666667,0,2,0,4,4,7,0,12,2,0,2,4,28.8,30,19,69,48,5,21,9,9,13,96,120,1,102,1,1,93,9,7
+Players,1627854,Bryn Forbes,Bryn,1610612749,MIL,27.0,3,1,2,0.333,0.9166666666666666,0,0,0,0,2,0,0,0,0,0,0,0,0.0,53,54,69,74,109,21,26,9,47,65,1,1,1,20,1,1,63,106
+Players,1628978,Donte DiVincenzo,Donte,1610612749,MIL,24.0,1,1,0,1.0,9.55,0,0,0,0,0,3,0,2,0,1,0,0,2.4,97,54,1,1,57,21,26,9,47,1,85,1,27,20,113,1,63,81
+Players,203507,Giannis Antetokounmpo,Giannis,1610612749,MIL,26.0,9,7,2,0.778,44.04666666666667,11,12,4,24,5,16,0,22,2,1,6,15,62.2,2,1,69,23,1,1,1,1,1,101,130,1,122,1,113,130,1,1
+Players,201950,Jrue Holiday,Jrue,1610612749,MIL,31.0,9,7,2,0.778,44.04666666666667,0,6,2,6,5,16,0,22,0,1,2,3,49.9,2,1,69,23,1,21,3,4,8,101,130,1,122,20,113,93,11,4
+Players,203114,Khris Middleton,Khris,1610612749,MIL,29.0,9,7,2,0.778,44.04666666666667,5,1,0,8,5,16,0,22,0,0,3,6,58.4,2,1,69,23,1,3,21,9,2,101,130,1,122,20,1,118,5,2
+Players,200782,P.J. Tucker,P.J.,1610612749,MIL,36.0,9,7,2,0.778,21.828333333333333,0,0,0,0,3,13,0,16,0,0,2,1,4.8,2,1,69,23,11,21,26,9,47,92,126,1,116,20,1,93,27,66
+Players,1626192,Pat Connaughton,Pat,1610612749,MIL,28.0,8,6,2,0.75,22.89,0,0,3,0,0,9,0,14,0,0,0,1,9.8,11,5,69,27,10,21,26,2,47,1,123,1,105,20,1,1,27,39

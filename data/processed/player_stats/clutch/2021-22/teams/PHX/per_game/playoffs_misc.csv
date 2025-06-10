@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,203109,Jae Crowder,Jae,1610612756,PHX,31.0,4,3,1,0.75,2.5,0.0,1.0,0.0,0.5,0.0,0.0,0.0,2.0,0.3,0.0,0.3,0.5,3.3,41,16,21,21,73,27,4,9,38,1,1,1,59,11,1,71,25,34,PHX
-Players,1629013,Landry Shamet,Landry,1610612756,PHX,25.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,131,27,25,9,54,1,1,1,111,28,1,1,57,104,PHX
-Players,1628470,Torrey Craig,Torrey,1610612756,PHX,31.0,1,1,0,1.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,125,27,25,9,54,1,1,1,111,28,1,1,57,104,PHX
-Players,1628969,Mikal Bridges,Mikal,1610612756,PHX,25.0,4,3,1,0.75,2.5,0.5,0.0,0.5,0.5,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.5,3.0,41,16,21,21,73,11,25,3,38,1,1,1,59,28,1,1,25,39,PHX
-Players,1626164,Devin Booker,Devin,1610612756,PHX,25.0,2,2,0,1.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,3.1,80,40,1,1,79,27,25,9,54,1,1,1,59,28,1,1,6,35,PHX
-Players,1629028,Deandre Ayton,Deandre,1610612756,PHX,23.0,3,2,1,0.667,3.3,0.0,0.0,0.0,0.7,0.0,0.0,0.0,2.7,0.0,0.0,0.3,0.0,2.4,57,40,21,29,41,27,25,9,27,1,1,1,47,28,1,82,57,52,PHX
-Players,1629661,Cameron Johnson,Cameron,1610612756,PHX,26.0,4,3,1,0.75,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,41,16,21,21,101,27,25,9,54,1,1,1,91,28,1,1,57,104,PHX
-Players,101108,Chris Paul,Chris,1610612756,PHX,37.0,4,3,1,0.75,2.5,0.5,0.0,0.0,1.5,0.0,0.0,0.0,2.0,0.0,0.0,0.3,0.8,4.7,41,16,21,21,73,11,25,9,6,1,1,1,59,28,1,71,17,16,PHX
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1629661,Cameron Johnson,Cameron,1610612756,PHX,26.0,4,3,1,0.75,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,41,16,21,21,101,27,25,9,54,1,1,1,91,28,1,1,57,104
+Players,101108,Chris Paul,Chris,1610612756,PHX,37.0,4,3,1,0.75,2.5,0.5,0.0,0.0,1.5,0.0,0.0,0.0,2.0,0.0,0.0,0.3,0.8,4.7,41,16,21,21,73,11,25,9,6,1,1,1,59,28,1,71,17,16
+Players,1629028,Deandre Ayton,Deandre,1610612756,PHX,23.0,3,2,1,0.667,3.3,0.0,0.0,0.0,0.7,0.0,0.0,0.0,2.7,0.0,0.0,0.3,0.0,2.4,57,40,21,29,41,27,25,9,27,1,1,1,47,28,1,82,57,52
+Players,1626164,Devin Booker,Devin,1610612756,PHX,25.0,2,2,0,1.0,2.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,3.1,80,40,1,1,79,27,25,9,54,1,1,1,59,28,1,1,6,35
+Players,203109,Jae Crowder,Jae,1610612756,PHX,31.0,4,3,1,0.75,2.5,0.0,1.0,0.0,0.5,0.0,0.0,0.0,2.0,0.3,0.0,0.3,0.5,3.3,41,16,21,21,73,27,4,9,38,1,1,1,59,11,1,71,25,34
+Players,1629013,Landry Shamet,Landry,1610612756,PHX,25.0,1,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,131,27,25,9,54,1,1,1,111,28,1,1,57,104
+Players,1628969,Mikal Bridges,Mikal,1610612756,PHX,25.0,4,3,1,0.75,2.5,0.5,0.0,0.5,0.5,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.5,3.0,41,16,21,21,73,11,25,3,38,1,1,1,59,28,1,1,25,39
+Players,1628470,Torrey Craig,Torrey,1610612756,PHX,31.0,1,1,0,1.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,106,63,1,1,125,27,25,9,54,1,1,1,111,28,1,1,57,104

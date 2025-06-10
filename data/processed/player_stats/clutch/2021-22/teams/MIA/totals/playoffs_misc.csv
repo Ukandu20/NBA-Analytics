@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1629622,Max Strus,Max,1610612748,MIA,26.0,6,3,3,0.5,14.086666666666666,3,3,0,0,3,3,0,6,0,0,2,0,11.7,21,16,99,51,33,5,7,9,54,90,76,1,55,28,1,99,57,34,MIA
-Players,200768,Kyle Lowry,Kyle,1610612748,MIA,36.0,4,3,1,0.75,8.983333333333333,0,0,0,0,0,0,0,0,0,0,2,1,7.9,41,16,21,21,68,27,25,9,54,1,1,1,1,28,1,99,32,52,MIA
-Players,1628389,Bam Adebayo,Bam,1610612748,MIA,24.0,7,4,3,0.571,18.18166666666667,2,0,0,4,3,3,0,8,1,0,1,3,15.9,12,10,99,46,23,12,25,9,13,90,76,1,70,5,1,60,13,23,MIA
-Players,1629639,Tyler Herro,Tyler,1610612748,MIA,22.0,4,2,2,0.5,9.241666666666667,0,0,0,0,3,3,0,8,1,0,1,0,3.2,41,40,62,51,67,27,25,9,54,90,76,1,70,5,1,60,57,82,MIA
-Players,203506,Victor Oladipo,Victor,1610612748,MIA,30.0,5,3,2,0.6,8.615,0,0,0,0,0,0,0,2,0,0,1,3,1.5,23,16,62,35,72,27,25,9,54,1,1,1,27,28,1,60,13,94,MIA
-Players,200782,P.J. Tucker,P.J.,1610612748,MIA,37.0,4,3,1,0.75,13.681666666666668,2,3,0,0,3,3,0,6,0,0,1,4,15.3,41,16,21,21,37,12,7,9,54,90,76,1,55,28,1,60,6,25,MIA
-Players,1629216,Gabe Vincent,Gabe,1610612748,MIA,26.0,4,3,1,0.75,4.62,0,0,0,0,0,0,0,2,0,0,1,0,1.2,41,16,21,21,99,27,25,9,54,1,1,1,27,28,1,60,57,95,MIA
-Players,202710,Jimmy Butler III,Jimmy,1610612748,MIA,32.0,5,2,3,0.4,13.498333333333331,2,0,0,4,3,3,0,8,0,0,0,2,20.7,23,40,99,76,38,12,25,9,13,90,76,1,70,28,1,1,22,14,MIA
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1628389,Bam Adebayo,Bam,1610612748,MIA,24.0,7,4,3,0.571,18.18166666666667,2,0,0,4,3,3,0,8,1,0,1,3,15.9,12,10,99,46,23,12,25,9,13,90,76,1,70,5,1,60,13,23
+Players,1629216,Gabe Vincent,Gabe,1610612748,MIA,26.0,4,3,1,0.75,4.62,0,0,0,0,0,0,0,2,0,0,1,0,1.2,41,16,21,21,99,27,25,9,54,1,1,1,27,28,1,60,57,95
+Players,202710,Jimmy Butler III,Jimmy,1610612748,MIA,32.0,5,2,3,0.4,13.498333333333331,2,0,0,4,3,3,0,8,0,0,0,2,20.7,23,40,99,76,38,12,25,9,13,90,76,1,70,28,1,1,22,14
+Players,200768,Kyle Lowry,Kyle,1610612748,MIA,36.0,4,3,1,0.75,8.983333333333333,0,0,0,0,0,0,0,0,0,0,2,1,7.9,41,16,21,21,68,27,25,9,54,1,1,1,1,28,1,99,32,52
+Players,1629622,Max Strus,Max,1610612748,MIA,26.0,6,3,3,0.5,14.086666666666666,3,3,0,0,3,3,0,6,0,0,2,0,11.7,21,16,99,51,33,5,7,9,54,90,76,1,55,28,1,99,57,34
+Players,200782,P.J. Tucker,P.J.,1610612748,MIA,37.0,4,3,1,0.75,13.681666666666668,2,3,0,0,3,3,0,6,0,0,1,4,15.3,41,16,21,21,37,12,7,9,54,90,76,1,55,28,1,60,6,25
+Players,1629639,Tyler Herro,Tyler,1610612748,MIA,22.0,4,2,2,0.5,9.241666666666667,0,0,0,0,3,3,0,8,1,0,1,0,3.2,41,40,62,51,67,27,25,9,54,90,76,1,70,5,1,60,57,82
+Players,203506,Victor Oladipo,Victor,1610612748,MIA,30.0,5,3,2,0.6,8.615,0,0,0,0,0,0,0,2,0,0,1,3,1.5,23,16,62,35,72,27,25,9,54,1,1,1,27,28,1,60,13,94

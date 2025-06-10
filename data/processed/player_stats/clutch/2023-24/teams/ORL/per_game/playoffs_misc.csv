@@ -1,8 +1,8 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1630591,Jalen Suggs,Jalen,1610612753,ORL,23.0,2,1,1,0.5,4.9,1.5,1.5,0.0,0.0,1.0,0.0,1.0,4.0,0.0,0.0,0.5,0.5,2.6,61,47,15,41,14,3,4,18,48,61,1,98,18,27,1,81,29,48,ORL
-Players,1628371,Jonathan Isaac,Jonathan,1610612753,ORL,26.0,2,1,1,0.5,2.9,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,1.2,61,47,15,41,66,33,38,18,48,61,1,98,42,27,1,1,53,74,ORL
-Players,1628976,Wendell Carter Jr.,Wendell,1610612753,ORL,25.0,2,1,1,0.5,4.9,0.0,0.5,0.0,0.0,1.0,0.0,1.0,4.0,0.5,0.0,0.0,1.0,4.3,61,47,15,41,14,33,16,18,48,61,1,98,18,4,1,1,7,28,ORL
-Players,204060,Joe Ingles,Joe,1610612753,ORL,36.0,1,0,1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,87,79,15,79,115,33,38,18,48,1,1,1,101,27,1,1,53,67,ORL
-Players,1630175,Cole Anthony,Cole,1610612753,ORL,24.0,1,1,0,1.0,3.9,0.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,4.4,87,47,1,1,38,33,2,18,4,1,1,1,59,27,1,102,53,27,ORL
-Players,1631094,Paolo Banchero,Paolo,1610612753,ORL,21.0,2,1,1,0.5,4.9,0.5,0.5,0.0,1.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,2.0,10.1,61,47,15,41,14,19,16,18,23,61,1,98,18,27,1,1,1,2,ORL
-Players,1630532,Franz Wagner,Franz,1610612753,ORL,22.0,2,1,1,0.5,4.9,0.0,0.0,0.0,1.0,1.0,0.0,1.0,4.0,0.0,0.5,1.0,0.5,5.6,61,47,15,41,14,33,38,18,23,61,1,98,18,27,115,102,29,17,ORL
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1630175,Cole Anthony,Cole,1610612753,ORL,24.0,1,1,0,1.0,3.9,0.0,2.0,0.0,2.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,4.4,87,47,1,1,38,33,2,18,4,1,1,1,59,27,1,102,53,27
+Players,1630532,Franz Wagner,Franz,1610612753,ORL,22.0,2,1,1,0.5,4.9,0.0,0.0,0.0,1.0,1.0,0.0,1.0,4.0,0.0,0.5,1.0,0.5,5.6,61,47,15,41,14,33,38,18,23,61,1,98,18,27,115,102,29,17
+Players,1630591,Jalen Suggs,Jalen,1610612753,ORL,23.0,2,1,1,0.5,4.9,1.5,1.5,0.0,0.0,1.0,0.0,1.0,4.0,0.0,0.0,0.5,0.5,2.6,61,47,15,41,14,3,4,18,48,61,1,98,18,27,1,81,29,48
+Players,204060,Joe Ingles,Joe,1610612753,ORL,36.0,1,0,1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,87,79,15,79,115,33,38,18,48,1,1,1,101,27,1,1,53,67
+Players,1628371,Jonathan Isaac,Jonathan,1610612753,ORL,26.0,2,1,1,0.5,2.9,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,1.2,61,47,15,41,66,33,38,18,48,61,1,98,42,27,1,1,53,74
+Players,1631094,Paolo Banchero,Paolo,1610612753,ORL,21.0,2,1,1,0.5,4.9,0.5,0.5,0.0,1.0,1.0,0.0,1.0,4.0,0.0,0.0,0.0,2.0,10.1,61,47,15,41,14,19,16,18,23,61,1,98,18,27,1,1,1,2
+Players,1628976,Wendell Carter Jr.,Wendell,1610612753,ORL,25.0,2,1,1,0.5,4.9,0.0,0.5,0.0,0.0,1.0,0.0,1.0,4.0,0.5,0.0,0.0,1.0,4.3,61,47,15,41,14,33,16,18,48,61,1,98,18,4,1,1,7,28

@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1626181,Norman Powell,Norman,1610612746,LAC,32.0,4,2,2,0.5,4.0,0.8,0.0,0.0,0.0,1.0,1.5,0.5,3.0,0.0,0.0,0.8,0.0,3.4,38,38,66,44,32,6,31,18,50,77,95,72,32,28,1,113,59,28,LAC
-Players,1627884,Derrick Jones Jr.,Derrick,1610612746,LAC,28.0,2,1,1,0.5,1.5,0.0,0.0,0.0,0.0,2.5,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,76,53,10,44,98,28,31,18,50,118,79,1,91,28,1,1,59,106,LAC
-Players,203992,Bogdan Bogdanović,Bogdan,1610612746,LAC,32.0,3,1,2,0.333,0.9,0.7,0.7,0.0,0.7,0.0,0.7,0.0,1.3,0.0,0.0,0.3,0.0,1.1,56,53,66,70,107,7,6,18,27,1,58,1,86,28,1,82,59,89,LAC
-Players,202695,Kawhi Leonard,Kawhi,1610612746,LAC,33.0,4,2,2,0.5,4.7,0.0,0.0,0.0,0.5,2.3,2.0,0.5,3.5,0.0,0.0,0.3,0.8,5.0,38,38,66,44,8,28,31,18,39,116,104,72,26,28,1,73,13,10,LAC
-Players,1627826,Ivica Zubac,Ivica,1610612746,LAC,28.0,4,2,2,0.5,4.6,0.0,0.5,0.0,1.5,1.8,2.0,0.5,3.5,0.5,0.0,0.8,0.5,4.7,38,38,66,44,10,28,13,18,7,100,104,72,26,4,1,113,16,13,LAC
-Players,1627739,Kris Dunn,Kris,1610612746,LAC,31.0,2,1,1,0.5,6.4,0.0,0.0,0.0,0.0,4.5,2.0,1.0,4.0,0.0,0.0,1.0,0.0,3.0,76,53,10,44,3,28,31,18,50,124,104,109,9,28,1,118,59,33,LAC
-Players,201935,James Harden,James,1610612746,LAC,35.0,4,2,2,0.5,4.7,1.3,0.0,1.3,1.5,2.3,2.0,0.5,3.5,0.3,0.0,0.3,0.3,4.2,38,38,66,44,8,1,31,2,7,116,104,72,26,7,1,73,46,20,LAC
-Players,201587,Nicolas Batum,Nicolas,1610612746,LAC,36.0,2,1,1,0.5,1.5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.8,76,53,10,44,99,28,31,18,50,77,79,1,91,28,1,1,59,70,LAC
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,203992,Bogdan Bogdanović,Bogdan,1610612746,LAC,32.0,3,1,2,0.333,0.9,0.7,0.7,0.0,0.7,0.0,0.7,0.0,1.3,0.0,0.0,0.3,0.0,1.1,56,53,66,70,107,7,6,18,27,1,58,1,86,28,1,82,59,89
+Players,1627884,Derrick Jones Jr.,Derrick,1610612746,LAC,28.0,2,1,1,0.5,1.5,0.0,0.0,0.0,0.0,2.5,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,76,53,10,44,98,28,31,18,50,118,79,1,91,28,1,1,59,106
+Players,1627826,Ivica Zubac,Ivica,1610612746,LAC,28.0,4,2,2,0.5,4.6,0.0,0.5,0.0,1.5,1.8,2.0,0.5,3.5,0.5,0.0,0.8,0.5,4.7,38,38,66,44,10,28,13,18,7,100,104,72,26,4,1,113,16,13
+Players,201935,James Harden,James,1610612746,LAC,35.0,4,2,2,0.5,4.7,1.3,0.0,1.3,1.5,2.3,2.0,0.5,3.5,0.3,0.0,0.3,0.3,4.2,38,38,66,44,8,1,31,2,7,116,104,72,26,7,1,73,46,20
+Players,202695,Kawhi Leonard,Kawhi,1610612746,LAC,33.0,4,2,2,0.5,4.7,0.0,0.0,0.0,0.5,2.3,2.0,0.5,3.5,0.0,0.0,0.3,0.8,5.0,38,38,66,44,8,28,31,18,39,116,104,72,26,28,1,73,13,10
+Players,1627739,Kris Dunn,Kris,1610612746,LAC,31.0,2,1,1,0.5,6.4,0.0,0.0,0.0,0.0,4.5,2.0,1.0,4.0,0.0,0.0,1.0,0.0,3.0,76,53,10,44,3,28,31,18,50,124,104,109,9,28,1,118,59,33
+Players,201587,Nicolas Batum,Nicolas,1610612746,LAC,36.0,2,1,1,0.5,1.5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.8,76,53,10,44,99,28,31,18,50,77,79,1,91,28,1,1,59,70
+Players,1626181,Norman Powell,Norman,1610612746,LAC,32.0,4,2,2,0.5,4.0,0.8,0.0,0.0,0.0,1.0,1.5,0.5,3.0,0.0,0.0,0.8,0.0,3.4,38,38,66,44,32,6,31,18,50,77,95,72,32,28,1,113,59,28

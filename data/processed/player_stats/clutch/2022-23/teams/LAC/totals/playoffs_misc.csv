@@ -1,10 +1,10 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,202695,Kawhi Leonard,Kawhi,1610612746,LAC,32.0,1,1,0,1.0,4.983333333333333,0,3,0,0,5,0,3,8,0,0,1,0,6.5,97,66,1,1,89,38,8,23,57,79,1,81,60,26,1,50,67,66,LAC
-Players,1627826,Ivica Zubac,Ivica,1610612746,LAC,26.0,1,1,0,1.0,4.6883333333333335,0,0,0,0,5,0,3,6,0,0,0,0,1.4,97,66,1,1,93,38,37,23,57,79,1,81,47,26,1,1,67,97,LAC
-Players,201569,Eric Gordon,Eric,1610612746,LAC,34.0,2,1,1,0.5,6.183333333333334,0,0,0,0,5,0,3,8,0,0,1,1,7.7,75,66,14,47,75,38,37,23,57,79,1,81,60,26,1,50,36,57,LAC
-Players,201587,Nicolas Batum,Nicolas,1610612746,LAC,34.0,2,1,1,0.5,3.09,0,0,0,0,4,0,2,4,0,0,1,0,1.2,75,66,14,47,108,38,37,23,57,60,1,62,37,26,1,50,67,98,LAC
-Players,203486,Mason Plumlee,Mason,1610612746,LAC,33.0,1,0,1,0.0,2.795,0,0,0,0,4,0,2,2,0,0,1,0,0.0,97,92,14,92,111,38,37,23,57,60,1,62,18,26,1,50,67,108,LAC
-Players,201566,Russell Westbrook,Russell,1610612746,LAC,34.0,3,1,2,0.333,8.978333333333333,0,2,0,0,9,0,5,10,1,0,1,2,19.7,61,66,56,76,63,38,15,23,57,108,1,111,67,6,1,50,22,27,LAC
-Players,1626181,Norman Powell,Norman,1610612746,LAC,30.0,2,0,2,0.0,3.995,0,0,0,0,4,0,2,2,0,0,2,2,4.0,75,92,56,92,102,38,37,23,57,60,1,62,18,26,1,91,22,78,LAC
-Players,1630538,Bones Hyland,Bones,1610612746,LAC,22.0,1,0,1,0.0,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,92,14,92,116,38,37,23,57,1,1,1,1,26,1,1,67,108,LAC
-Players,1629611,Terance Mann,Terance,1610612746,LAC,26.0,3,1,2,0.333,8.978333333333333,3,0,3,4,9,0,5,10,0,0,2,1,5.2,61,66,56,76,63,10,37,3,17,108,1,111,67,26,1,91,36,74,LAC
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1630538,Bones Hyland,Bones,1610612746,LAC,22.0,1,0,1,0.0,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,92,14,92,116,38,37,23,57,1,1,1,1,26,1,1,67,108
+Players,201569,Eric Gordon,Eric,1610612746,LAC,34.0,2,1,1,0.5,6.183333333333334,0,0,0,0,5,0,3,8,0,0,1,1,7.7,75,66,14,47,75,38,37,23,57,79,1,81,60,26,1,50,36,57
+Players,1627826,Ivica Zubac,Ivica,1610612746,LAC,26.0,1,1,0,1.0,4.6883333333333335,0,0,0,0,5,0,3,6,0,0,0,0,1.4,97,66,1,1,93,38,37,23,57,79,1,81,47,26,1,1,67,97
+Players,202695,Kawhi Leonard,Kawhi,1610612746,LAC,32.0,1,1,0,1.0,4.983333333333333,0,3,0,0,5,0,3,8,0,0,1,0,6.5,97,66,1,1,89,38,8,23,57,79,1,81,60,26,1,50,67,66
+Players,203486,Mason Plumlee,Mason,1610612746,LAC,33.0,1,0,1,0.0,2.795,0,0,0,0,4,0,2,2,0,0,1,0,0.0,97,92,14,92,111,38,37,23,57,60,1,62,18,26,1,50,67,108
+Players,201587,Nicolas Batum,Nicolas,1610612746,LAC,34.0,2,1,1,0.5,3.09,0,0,0,0,4,0,2,4,0,0,1,0,1.2,75,66,14,47,108,38,37,23,57,60,1,62,37,26,1,50,67,98
+Players,1626181,Norman Powell,Norman,1610612746,LAC,30.0,2,0,2,0.0,3.995,0,0,0,0,4,0,2,2,0,0,2,2,4.0,75,92,56,92,102,38,37,23,57,60,1,62,18,26,1,91,22,78
+Players,201566,Russell Westbrook,Russell,1610612746,LAC,34.0,3,1,2,0.333,8.978333333333333,0,2,0,0,9,0,5,10,1,0,1,2,19.7,61,66,56,76,63,38,15,23,57,108,1,111,67,6,1,50,22,27
+Players,1629611,Terance Mann,Terance,1610612746,LAC,26.0,3,1,2,0.333,8.978333333333333,3,0,3,4,9,0,5,10,0,0,2,1,5.2,61,66,56,76,63,10,37,3,17,108,1,111,67,26,1,91,36,74

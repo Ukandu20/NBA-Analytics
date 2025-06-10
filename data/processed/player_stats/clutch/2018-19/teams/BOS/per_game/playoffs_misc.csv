@@ -1,8 +1,8 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,202330,Gordon Hayward,Gordon,1610612738,BOS,29.0,4,3,1,0.75,1.7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,2.3,38,24,20,22,91,35,34,19,21,1,1,1,94,28,1,64,56,63,BOS
-Players,202694,Marcus Morris Sr.,Marcus,1610612738,BOS,29.0,2,1,1,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71,58,20,45,106,35,34,19,53,1,1,1,94,28,1,1,56,92,BOS
-Players,1626179,Terry Rozier,Terry,1610612738,BOS,25.0,1,1,0,1.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,58,1,1,98,35,34,19,53,1,1,1,94,28,1,1,56,92,BOS
-Players,1628369,Jayson Tatum,Jayson,1610612738,BOS,21.0,4,3,1,0.75,1.9,0.8,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,2.5,38,24,20,22,83,10,34,19,39,1,1,1,94,28,1,64,40,59,BOS
-Players,202681,Kyrie Irving,Kyrie,1610612738,BOS,27.0,4,3,1,0.75,1.9,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,3.4,38,24,20,22,83,14,34,19,39,1,1,1,94,28,1,1,40,39,BOS
-Players,201143,Al Horford,Al,1610612738,BOS,33.0,4,3,1,0.75,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,2.7,38,24,20,22,85,35,34,19,53,1,1,1,94,11,1,1,40,55,BOS
-Players,1627759,Jaylen Brown,Jaylen,1610612738,BOS,22.0,3,3,0,1.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,51,24,1,1,78,35,34,19,53,1,1,1,94,28,1,1,56,76,BOS
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,201143,Al Horford,Al,1610612738,BOS,33.0,4,3,1,0.75,1.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,2.7,38,24,20,22,85,35,34,19,53,1,1,1,94,11,1,1,40,55
+Players,202330,Gordon Hayward,Gordon,1610612738,BOS,29.0,4,3,1,0.75,1.7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,2.3,38,24,20,22,91,35,34,19,21,1,1,1,94,28,1,64,56,63
+Players,1627759,Jaylen Brown,Jaylen,1610612738,BOS,22.0,3,3,0,1.0,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,51,24,1,1,78,35,34,19,53,1,1,1,94,28,1,1,56,76
+Players,1628369,Jayson Tatum,Jayson,1610612738,BOS,21.0,4,3,1,0.75,1.9,0.8,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,2.5,38,24,20,22,83,10,34,19,39,1,1,1,94,28,1,64,40,59
+Players,202681,Kyrie Irving,Kyrie,1610612738,BOS,27.0,4,3,1,0.75,1.9,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,3.4,38,24,20,22,83,14,34,19,39,1,1,1,94,28,1,1,40,39
+Players,202694,Marcus Morris Sr.,Marcus,1610612738,BOS,29.0,2,1,1,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71,58,20,45,106,35,34,19,53,1,1,1,94,28,1,1,56,92
+Players,1626179,Terry Rozier,Terry,1610612738,BOS,25.0,1,1,0,1.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,58,1,1,98,35,34,19,53,1,1,1,94,28,1,1,56,92

@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1631095,Jabari Smith Jr.,Jabari,1610612745,HOU,22.0,2,0,2,0.0,1.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.5,0.0,-0.5,76,84,66,84,97,28,31,18,50,1,79,1,32,28,1,93,59,128,HOU
-Players,1630224,Jalen Green,Jalen,1610612745,HOU,23.0,3,0,3,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.7,0.0,1.3,0.0,0.0,0.0,0.0,0.0,56,84,89,84,113,28,31,18,50,1,58,1,86,28,1,1,59,106,HOU
-Players,1627832,Fred VanVleet,Fred,1610612745,HOU,31.0,3,0,3,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.7,0.0,2.7,0.0,0.3,0.0,0.0,2.0,56,84,89,84,73,28,31,18,50,1,58,1,43,28,119,1,59,61,HOU
-Players,1641708,Amen Thompson,Amen,1610612745,HOU,22.0,3,0,3,0.0,2.1,0.0,0.0,0.0,0.0,0.0,0.7,0.0,2.0,0.0,0.0,0.0,0.0,0.8,56,84,89,84,79,28,31,18,50,1,58,1,57,28,1,1,59,94,HOU
-Players,1628415,Dillon Brooks,Dillon,1610612745,HOU,29.0,3,0,3,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.3,0.7,0.3,0.7,56,84,89,84,77,28,31,18,50,1,1,1,57,28,119,111,35,97,HOU
-Players,1631106,Tari Eason,Tari,1610612745,HOU,24.0,2,0,2,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6,76,84,66,84,116,28,31,18,50,1,1,1,91,28,1,1,59,98,HOU
-Players,1630578,Alperen Sengun,Alperen,1610612745,HOU,22.0,3,0,3,0.0,2.1,0.0,0.0,0.0,0.7,0.0,0.7,0.0,2.7,0.0,0.0,0.0,0.0,2.1,56,84,89,84,81,28,31,18,27,1,58,1,43,28,1,1,59,58,HOU
-Players,203500,Steven Adams,Steven,1610612745,HOU,31.0,1,0,1,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,100,84,10,84,78,28,31,18,50,1,1,1,111,1,1,1,1,33,HOU
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1630578,Alperen Sengun,Alperen,1610612745,HOU,22.0,3,0,3,0.0,2.1,0.0,0.0,0.0,0.7,0.0,0.7,0.0,2.7,0.0,0.0,0.0,0.0,2.1,56,84,89,84,81,28,31,18,27,1,58,1,43,28,1,1,59,58
+Players,1641708,Amen Thompson,Amen,1610612745,HOU,22.0,3,0,3,0.0,2.1,0.0,0.0,0.0,0.0,0.0,0.7,0.0,2.0,0.0,0.0,0.0,0.0,0.8,56,84,89,84,79,28,31,18,50,1,58,1,57,28,1,1,59,94
+Players,1628415,Dillon Brooks,Dillon,1610612745,HOU,29.0,3,0,3,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.3,0.7,0.3,0.7,56,84,89,84,77,28,31,18,50,1,1,1,57,28,119,111,35,97
+Players,1627832,Fred VanVleet,Fred,1610612745,HOU,31.0,3,0,3,0.0,2.3,0.0,0.0,0.0,0.0,0.0,0.7,0.0,2.7,0.0,0.3,0.0,0.0,2.0,56,84,89,84,73,28,31,18,50,1,58,1,43,28,119,1,59,61
+Players,1631095,Jabari Smith Jr.,Jabari,1610612745,HOU,22.0,2,0,2,0.0,1.6,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.5,0.0,-0.5,76,84,66,84,97,28,31,18,50,1,79,1,32,28,1,93,59,128
+Players,1630224,Jalen Green,Jalen,1610612745,HOU,23.0,3,0,3,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.7,0.0,1.3,0.0,0.0,0.0,0.0,0.0,56,84,89,84,113,28,31,18,50,1,58,1,86,28,1,1,59,106
+Players,203500,Steven Adams,Steven,1610612745,HOU,31.0,1,0,1,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,100,84,10,84,78,28,31,18,50,1,1,1,111,1,1,1,1,33
+Players,1631106,Tari Eason,Tari,1610612745,HOU,24.0,2,0,2,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6,76,84,66,84,116,28,31,18,50,1,1,1,91,28,1,1,59,98

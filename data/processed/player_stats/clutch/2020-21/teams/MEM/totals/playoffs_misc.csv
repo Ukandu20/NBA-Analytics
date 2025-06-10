@@ -1,9 +1,9 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1628991,Jaren Jackson Jr.,Jaren,1610612763,MEM,21.0,1,0,1,0.0,0.0533333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,100,23,100,130,21,26,9,47,1,1,1,1,20,1,1,63,106,MEM
-Players,203937,Kyle Anderson,Kyle,1610612763,MEM,27.0,2,1,1,0.5,2.9233333333333333,0,0,0,0,2,3,0,2,0,0,2,0,1.5,75,54,23,52,93,21,26,9,47,65,85,1,27,20,1,93,63,95,MEM
-Players,1628415,Dillon Brooks,Dillon,1610612763,MEM,25.0,3,1,2,0.333,5.71,0,0,0,2,2,3,0,6,0,0,0,0,2.0,53,54,69,74,75,21,26,9,24,65,85,1,59,20,1,1,63,89,MEM
-Players,202685,Jonas Valančiūnas,Jonas,1610612763,MEM,29.0,3,1,2,0.333,5.656666666666666,0,0,0,0,2,3,0,6,0,0,2,0,3.6,53,54,69,74,78,21,26,9,47,65,85,1,59,20,1,93,63,75,MEM
-Players,1629630,Ja Morant,Ja,1610612763,MEM,21.0,3,1,2,0.333,5.71,0,0,2,6,2,3,0,6,0,2,0,2,9.4,53,54,69,74,75,21,26,4,8,65,85,1,59,20,131,1,17,40,MEM
-Players,1628960,Grayson Allen,Grayson,1610612763,MEM,25.0,3,1,2,0.333,5.71,0,0,0,0,2,3,0,6,0,0,1,0,1.2,53,54,69,74,75,21,26,9,47,65,85,1,59,20,1,58,63,98,MEM
-Players,1630217,Desmond Bane,Desmond,1610612763,MEM,23.0,1,0,1,0.0,1.0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,97,100,23,100,108,21,26,9,47,1,1,1,49,20,1,1,63,106,MEM
-Players,1629001,De'Anthony Melton,De'Anthony,1610612763,MEM,23.0,1,0,1,0.0,1.7866666666666666,0,2,0,2,0,0,0,0,0,0,0,0,3.2,97,100,23,100,101,21,9,9,24,1,1,1,1,20,1,1,63,76,MEM
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1629001,De'Anthony Melton,De'Anthony,1610612763,MEM,23.0,1,0,1,0.0,1.7866666666666666,0,2,0,2,0,0,0,0,0,0,0,0,3.2,97,100,23,100,101,21,9,9,24,1,1,1,1,20,1,1,63,76
+Players,1630217,Desmond Bane,Desmond,1610612763,MEM,23.0,1,0,1,0.0,1.0,0,0,0,0,0,0,0,4,0,0,0,0,0.0,97,100,23,100,108,21,26,9,47,1,1,1,49,20,1,1,63,106
+Players,1628415,Dillon Brooks,Dillon,1610612763,MEM,25.0,3,1,2,0.333,5.71,0,0,0,2,2,3,0,6,0,0,0,0,2.0,53,54,69,74,75,21,26,9,24,65,85,1,59,20,1,1,63,89
+Players,1628960,Grayson Allen,Grayson,1610612763,MEM,25.0,3,1,2,0.333,5.71,0,0,0,0,2,3,0,6,0,0,1,0,1.2,53,54,69,74,75,21,26,9,47,65,85,1,59,20,1,58,63,98
+Players,1629630,Ja Morant,Ja,1610612763,MEM,21.0,3,1,2,0.333,5.71,0,0,2,6,2,3,0,6,0,2,0,2,9.4,53,54,69,74,75,21,26,4,8,65,85,1,59,20,131,1,17,40
+Players,1628991,Jaren Jackson Jr.,Jaren,1610612763,MEM,21.0,1,0,1,0.0,0.0533333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,97,100,23,100,130,21,26,9,47,1,1,1,1,20,1,1,63,106
+Players,202685,Jonas Valančiūnas,Jonas,1610612763,MEM,29.0,3,1,2,0.333,5.656666666666666,0,0,0,0,2,3,0,6,0,0,2,0,3.6,53,54,69,74,78,21,26,9,47,65,85,1,59,20,1,93,63,75
+Players,203937,Kyle Anderson,Kyle,1610612763,MEM,27.0,2,1,1,0.5,2.9233333333333333,0,0,0,0,2,3,0,2,0,0,2,0,1.5,75,54,23,52,93,21,26,9,47,65,85,1,27,20,1,93,63,95

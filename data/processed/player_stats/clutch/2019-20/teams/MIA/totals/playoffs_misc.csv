@@ -1,10 +1,10 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,2738,Andre Iguodala,Andre,1610612748,MIA,36.0,7,6,1,0.857,10.06,0,0,0,0,4,6,3,10,0,0,1,1,1.7,19,7,11,12,60,39,34,16,51,76,88,101,71,25,1,38,39,80,MIA
-Players,1629639,Tyler Herro,Tyler,1610612748,MIA,20.0,14,11,3,0.786,45.235,4,9,0,2,15,18,6,28,0,0,3,5,32.6,1,1,76,14,7,6,1,16,25,114,121,113,114,25,1,96,9,12,MIA
-Players,202710,Jimmy Butler III,Jimmy,1610612748,MIA,30.0,14,11,3,0.786,49.90166666666666,9,0,2,18,15,20,6,30,2,0,3,16,85.9,1,1,76,14,5,2,34,5,1,114,122,113,119,3,1,96,1,1,MIA
-Players,1628389,Bam Adebayo,Bam,1610612748,MIA,22.0,13,10,3,0.769,49.165,0,4,2,12,13,20,6,28,1,0,4,6,42.5,3,3,76,16,6,39,6,5,3,111,122,113,114,11,1,111,5,7,MIA
-Players,203109,Jae Crowder,Jae,1610612748,MIA,29.0,12,9,3,0.75,42.715,2,3,2,2,11,16,3,22,2,0,3,2,24.8,8,4,76,17,8,18,10,5,25,106,120,101,108,3,1,96,30,20,MIA
-Players,203482,Kelly Olynyk,Kelly,1610612748,MIA,29.0,2,2,0,1.0,0.485,0,0,0,0,0,0,0,0,0,0,0,0,0.0,80,38,1,1,116,39,34,16,51,1,1,1,1,25,1,1,62,93,MIA
-Players,1627884,Derrick Jones Jr.,Derrick,1610612748,MIA,23.0,3,3,0,1.0,1.0716666666666668,0,0,0,0,2,0,0,2,0,0,1,0,0.0,61,28,1,1,108,39,34,16,51,36,1,1,22,25,1,38,62,93,MIA
-Players,1629130,Duncan Robinson,Duncan,1610612748,MIA,26.0,10,7,3,0.7,14.801666666666666,3,0,0,0,2,10,5,14,0,0,1,0,15.9,12,6,76,26,43,12,34,16,51,36,105,107,95,25,1,38,62,30,MIA
-Players,201609,Goran Dragic,Goran,1610612748,MIA,34.0,9,8,1,0.889,36.07333333333333,0,2,0,4,13,10,1,16,0,0,4,3,33.0,16,5,11,11,13,39,17,16,15,111,105,69,100,25,1,111,17,11,MIA
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,2738,Andre Iguodala,Andre,1610612748,MIA,36.0,7,6,1,0.857,10.06,0,0,0,0,4,6,3,10,0,0,1,1,1.7,19,7,11,12,60,39,34,16,51,76,88,101,71,25,1,38,39,80
+Players,1628389,Bam Adebayo,Bam,1610612748,MIA,22.0,13,10,3,0.769,49.165,0,4,2,12,13,20,6,28,1,0,4,6,42.5,3,3,76,16,6,39,6,5,3,111,122,113,114,11,1,111,5,7
+Players,1627884,Derrick Jones Jr.,Derrick,1610612748,MIA,23.0,3,3,0,1.0,1.0716666666666668,0,0,0,0,2,0,0,2,0,0,1,0,0.0,61,28,1,1,108,39,34,16,51,36,1,1,22,25,1,38,62,93
+Players,1629130,Duncan Robinson,Duncan,1610612748,MIA,26.0,10,7,3,0.7,14.801666666666666,3,0,0,0,2,10,5,14,0,0,1,0,15.9,12,6,76,26,43,12,34,16,51,36,105,107,95,25,1,38,62,30
+Players,201609,Goran Dragic,Goran,1610612748,MIA,34.0,9,8,1,0.889,36.07333333333333,0,2,0,4,13,10,1,16,0,0,4,3,33.0,16,5,11,11,13,39,17,16,15,111,105,69,100,25,1,111,17,11
+Players,203109,Jae Crowder,Jae,1610612748,MIA,29.0,12,9,3,0.75,42.715,2,3,2,2,11,16,3,22,2,0,3,2,24.8,8,4,76,17,8,18,10,5,25,106,120,101,108,3,1,96,30,20
+Players,202710,Jimmy Butler III,Jimmy,1610612748,MIA,30.0,14,11,3,0.786,49.90166666666666,9,0,2,18,15,20,6,30,2,0,3,16,85.9,1,1,76,14,5,2,34,5,1,114,122,113,119,3,1,96,1,1
+Players,203482,Kelly Olynyk,Kelly,1610612748,MIA,29.0,2,2,0,1.0,0.485,0,0,0,0,0,0,0,0,0,0,0,0,0.0,80,38,1,1,116,39,34,16,51,1,1,1,1,25,1,1,62,93
+Players,1629639,Tyler Herro,Tyler,1610612748,MIA,20.0,14,11,3,0.786,45.235,4,9,0,2,15,18,6,28,0,0,3,5,32.6,1,1,76,14,7,6,1,16,25,114,121,113,114,25,1,96,9,12

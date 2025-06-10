@@ -1,7 +1,7 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1627742,Brandon Ingram,Brandon,1610612740,NOP,26.0,2,0,2,0.0,5.783333333333333,2,0,2,2,2,0,0,2,1,0,1,0,5.2,61,79,60,79,73,17,38,5,30,50,1,1,20,8,1,50,53,63,NOP
-Players,1630530,Trey Murphy III,Trey,1610612740,NOP,24.0,2,0,2,0.0,5.783333333333333,0,0,0,0,2,0,0,2,1,0,0,0,3.0,61,79,60,79,73,33,38,18,48,50,1,1,20,8,1,1,53,75,NOP
-Players,203468,CJ McCollum,CJ,1610612740,NOP,32.0,2,0,2,0.0,5.783333333333333,0,0,0,0,2,0,0,2,0,0,2,0,7.7,61,79,60,79,73,33,38,18,48,50,1,1,20,27,1,80,53,53,NOP
-Players,202685,Jonas Valančiūnas,Jonas,1610612740,NOP,32.0,1,0,1,0.0,0.2333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,109,33,38,18,48,1,1,1,1,27,1,1,53,92,NOP
-Players,1626204,Larry Nance Jr.,Larry,1610612740,NOP,31.0,2,0,2,0.0,5.55,0,0,0,0,2,0,0,2,0,2,0,0,3.8,61,79,60,79,77,33,38,18,48,50,1,1,20,27,109,1,53,71,NOP
-Players,1630529,Herbert Jones,Herbert,1610612740,NOP,25.0,2,0,2,0.0,5.783333333333333,3,0,0,0,2,0,0,2,0,0,1,1,4.6,61,79,60,79,73,9,38,18,48,50,1,1,20,27,1,50,36,65,NOP
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1627742,Brandon Ingram,Brandon,1610612740,NOP,26.0,2,0,2,0.0,5.783333333333333,2,0,2,2,2,0,0,2,1,0,1,0,5.2,61,79,60,79,73,17,38,5,30,50,1,1,20,8,1,50,53,63
+Players,203468,CJ McCollum,CJ,1610612740,NOP,32.0,2,0,2,0.0,5.783333333333333,0,0,0,0,2,0,0,2,0,0,2,0,7.7,61,79,60,79,73,33,38,18,48,50,1,1,20,27,1,80,53,53
+Players,1630529,Herbert Jones,Herbert,1610612740,NOP,25.0,2,0,2,0.0,5.783333333333333,3,0,0,0,2,0,0,2,0,0,1,1,4.6,61,79,60,79,73,9,38,18,48,50,1,1,20,27,1,50,36,65
+Players,202685,Jonas Valančiūnas,Jonas,1610612740,NOP,32.0,1,0,1,0.0,0.2333333333333333,0,0,0,0,0,0,0,0,0,0,0,0,0.0,87,79,15,79,109,33,38,18,48,1,1,1,1,27,1,1,53,92
+Players,1626204,Larry Nance Jr.,Larry,1610612740,NOP,31.0,2,0,2,0.0,5.55,0,0,0,0,2,0,0,2,0,2,0,0,3.8,61,79,60,79,77,33,38,18,48,50,1,1,20,27,109,1,53,71
+Players,1630530,Trey Murphy III,Trey,1610612740,NOP,24.0,2,0,2,0.0,5.783333333333333,0,0,0,0,2,0,0,2,1,0,0,0,3.0,61,79,60,79,73,33,38,18,48,50,1,1,20,8,1,1,53,75

@@ -1,7 +1,7 @@
-group_set,player_id,player_name,nickname,team_id,team_abbreviation,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank,team
-Players,1628386,Jarrett Allen,Jarrett,1610612751,BKN,21.0,1,0,1,0.0,5.066666666666666,0,0,0,0,4,3,0,8,0,0,0,0,5.2,99,94,20,94,80,35,34,19,53,66,62,1,68,28,1,1,56,64,BKN
-Players,203915,Spencer Dinwiddie,Spencer,1610612751,BKN,26.0,1,0,1,0.0,5.066666666666666,0,0,0,2,4,3,0,8,0,0,0,0,2.2,99,94,20,94,80,35,34,19,34,66,62,1,68,28,1,1,56,83,BKN
-Players,1626156,D'Angelo Russell,D'Angelo,1610612751,BKN,23.0,1,0,1,0.0,4.96,3,3,0,0,4,3,0,8,0,0,0,0,3.5,99,94,20,94,89,11,18,19,53,66,62,1,68,28,1,1,56,75,BKN
-Players,1627747,Caris LeVert,Caris,1610612751,BKN,24.0,1,0,1,0.0,5.066666666666666,0,0,0,0,4,3,0,8,0,0,0,0,1.2,99,94,20,94,80,35,34,19,53,66,62,1,68,28,1,1,56,87,BKN
-Players,1626203,Treveon Graham,Treveon,1610612751,BKN,25.0,1,0,1,0.0,0.1066666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,99,94,20,94,115,35,34,19,53,1,1,1,1,28,1,1,56,92,BKN
-Players,203925,Joe Harris,Joe,1610612751,BKN,27.0,1,0,1,0.0,5.066666666666666,2,0,0,2,4,3,0,8,0,0,2,0,4.0,99,94,20,94,80,19,34,19,34,66,62,1,68,28,1,81,56,72,BKN
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+Players,1627747,Caris LeVert,Caris,1610612751,BKN,24.0,1,0,1,0.0,5.066666666666666,0,0,0,0,4,3,0,8,0,0,0,0,1.2,99,94,20,94,80,35,34,19,53,66,62,1,68,28,1,1,56,87
+Players,1626156,D'Angelo Russell,D'Angelo,1610612751,BKN,23.0,1,0,1,0.0,4.96,3,3,0,0,4,3,0,8,0,0,0,0,3.5,99,94,20,94,89,11,18,19,53,66,62,1,68,28,1,1,56,75
+Players,1628386,Jarrett Allen,Jarrett,1610612751,BKN,21.0,1,0,1,0.0,5.066666666666666,0,0,0,0,4,3,0,8,0,0,0,0,5.2,99,94,20,94,80,35,34,19,53,66,62,1,68,28,1,1,56,64
+Players,203925,Joe Harris,Joe,1610612751,BKN,27.0,1,0,1,0.0,5.066666666666666,2,0,0,2,4,3,0,8,0,0,2,0,4.0,99,94,20,94,80,19,34,19,34,66,62,1,68,28,1,81,56,72
+Players,203915,Spencer Dinwiddie,Spencer,1610612751,BKN,26.0,1,0,1,0.0,5.066666666666666,0,0,0,2,4,3,0,8,0,0,0,0,2.2,99,94,20,94,80,35,34,19,34,66,62,1,68,28,1,1,56,83
+Players,1626203,Treveon Graham,Treveon,1610612751,BKN,25.0,1,0,1,0.0,0.1066666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0.0,99,94,20,94,115,35,34,19,53,1,1,1,1,28,1,1,56,92
