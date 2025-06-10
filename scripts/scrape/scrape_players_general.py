@@ -48,11 +48,9 @@ MEASURE_MAP = {
 }
 
 SEASON_TYPES = ["Regular Season", "Playoffs"]
-PER_MODES    = [
-    "Totals",
-    "PerGame",
-    "Per48",
-]
+PER_MODES    = {
+    "Totals": "totals", "PerGame": "per_game"
+}
 
 
 def call_api(params: dict) -> pd.DataFrame:
@@ -73,7 +71,7 @@ def fetch_combo(season: str,
                 out_root: pathlib.Path) -> None:
     """Download one SeasonType × MeasureType × PerMode combo and save as CSV."""
     measure_type = MEASURE_MAP[measure_key]
-    subdir       = out_root / per_mode.lower()
+    subdir = out_root / PER_MODES[per_mode]     # "per_game" or "totals"
     subdir.mkdir(parents=True, exist_ok=True)
 
     fname = f"{season_type.lower().replace(' ', '_')}_{measure_key}.csv"

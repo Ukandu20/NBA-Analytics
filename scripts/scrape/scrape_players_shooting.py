@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-scrape_player_shot_dashboard.py
+scrape_player_shooting.py
 ================================
 Players ▸ Shot Dashboard:
 
