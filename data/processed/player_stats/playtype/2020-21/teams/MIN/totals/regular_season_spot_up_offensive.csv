@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.349,72,0.201,0.936,0.347,0.044,0.051,0.047,0.01,0.35,0.474,297,278,94,271,177,MIN
+22020,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.954,37,0.263,1.298,0.473,0.028,0.039,0.028,0.0,0.47,0.663,181,235,80,169,89,MIN
+22020,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.792,50,0.164,1.147,0.426,0.1,0.079,0.1,0.032,0.432,0.577,190,218,69,162,93,MIN
+22020,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.405,68,0.315,0.958,0.369,0.028,0.047,0.033,0.014,0.358,0.49,212,203,73,198,125,MIN
+22020,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.382,63,0.442,0.948,0.352,0.036,0.057,0.031,0.01,0.349,0.491,192,182,62,176,114,MIN
+22020,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.455,70,0.215,0.981,0.396,0.052,0.065,0.052,0.013,0.387,0.511,155,152,55,139,84,MIN
+22020,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.385,52,0.375,0.949,0.355,0.08,0.072,0.08,0.029,0.355,0.496,138,131,43,121,78,MIN
+22020,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.914,42,0.116,1.25,0.46,0.031,0.063,0.021,0.0,0.438,0.667,96,120,40,87,47,MIN
+22020,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.165,59,0.416,0.776,0.301,0.07,0.14,0.056,0.0,0.308,0.407,143,111,34,113,79,MIN
+22020,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.254,42,0.313,0.86,0.339,0.041,0.066,0.033,0.008,0.339,0.44,121,104,37,109,72,MIN
+22020,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.22,51,0.28,0.826,0.313,0.012,0.058,0.012,0.0,0.302,0.438,86,71,25,80,55,MIN
+22020,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.304,34,0.33,0.903,0.391,0.042,0.069,0.042,0.0,0.389,0.484,72,65,25,64,39,MIN
+22020,1627774,Jake Layman,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.25,45,0.336,0.853,0.344,0.08,0.093,0.08,0.027,0.347,0.43,75,64,22,64,42,MIN
+22020,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.157,64,0.051,0.765,0.333,0.176,0.059,0.176,0.118,0.353,0.367,17,13,5,15,10,MIN

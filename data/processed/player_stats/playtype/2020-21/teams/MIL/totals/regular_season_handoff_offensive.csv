@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.88,70,0.165,1.204,0.465,0.061,0.061,0.061,0.0,0.469,0.61,98,118,40,86,46,MIL
+22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.82,68,0.054,1.123,0.509,0.096,0.151,0.068,0.0,0.466,0.645,73,82,28,55,27,MIL
+22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.576,66,0.069,0.98,0.381,0.08,0.08,0.08,0.0,0.4,0.5,50,49,16,42,26,MIL
+22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.915,59,0.034,1.265,0.516,0.059,0.029,0.029,0.0,0.5,0.661,34,43,16,31,15,MIL
+22020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.907,70,0.026,1.25,0.5,0.05,0.05,0.05,0.0,0.5,0.611,20,25,9,18,9,MIL
+22020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.548,69,0.05,0.955,0.412,0.045,0.182,0.045,0.0,0.364,0.529,22,21,7,17,10,MIL
+22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.298,62,0.007,0.818,0.444,0.091,0.091,0.091,0.0,0.455,0.444,11,9,4,9,5,MIL
+22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.198,37,0.041,0.7,0.333,0.0,0.1,0.0,0.0,0.3,0.389,10,7,3,9,6,MIL

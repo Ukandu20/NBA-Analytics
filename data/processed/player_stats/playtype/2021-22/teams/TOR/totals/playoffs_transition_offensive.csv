@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.476,6,0.232,1.087,0.588,0.13,0.13,0.13,0.0,0.565,0.618,23,25,10,17,7,TOR
+42021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.988,6,0.151,1.714,0.667,0.143,0.0,0.143,0.0,0.714,0.833,14,24,8,12,4,TOR
+42021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.393,6,0.169,1.043,0.462,0.261,0.174,0.217,0.0,0.522,0.5,23,24,6,13,7,TOR
+42021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.512,4,0.182,1.1,0.4,0.5,0.0,0.4,0.0,0.7,0.4,10,11,2,5,3,TOR
+42021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.096,6,0.185,0.75,0.5,0.083,0.25,0.083,0.0,0.417,0.5,12,9,4,8,4,TOR
+42021,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,6,0.1,1.4,0.6,0.0,0.0,0.0,0.0,0.6,0.7,5,7,3,5,2,TOR
+42021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,4,0.15,0.667,0.25,0.111,0.0,0.111,0.0,0.333,0.313,9,6,2,8,6,TOR
+42021,1630625,Dalano Banton,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,4,0.4,0.5,0.0,0.5,0.5,0.5,0.0,0.5,0.0,2,1,0,0,0,TOR
+42021,1629139,Yuta Watanabe,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,4,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,TOR
+42021,1629717,Armoni Brooks,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,4,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,TOR

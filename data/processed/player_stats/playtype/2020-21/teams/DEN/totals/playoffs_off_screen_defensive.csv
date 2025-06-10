@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1628427,Vlatko Čančar,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,5,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DEN
+42020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,9,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DEN
+42020,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,3,0.04,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,DEN
+42020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,5,0.222,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,DEN
+42020,1630210,Markus Howard,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,9,0.083,1.0,0.5,0.0,0.33,0.0,0.0,0.33,0.75,3,3,1,2,1,DEN
+42020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,10,0.089,0.5,0.29,0.0,0.12,0.0,0.0,0.25,0.29,8,4,2,7,5,DEN
+42020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,10,0.041,2.0,0.67,0.33,0.0,0.33,0.33,0.67,0.83,3,6,2,3,1,DEN
+42020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,10,0.047,1.0,0.4,0.17,0.0,0.17,0.0,0.5,0.5,6,6,2,5,3,DEN
+42020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.0,10,0.071,1.286,0.5,0.14,0.0,0.14,0.0,0.57,0.67,7,9,3,6,3,DEN
+42020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.737,10,0.085,0.75,0.29,0.17,0.25,0.17,0.0,0.33,0.36,12,9,2,7,5,DEN
+42020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.211,10,0.103,1.417,0.6,0.08,0.08,0.08,0.0,0.58,0.75,12,17,6,10,4,DEN

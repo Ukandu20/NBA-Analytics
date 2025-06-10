@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1631107,Nikola Jović,1610612748,MIA,Miami Heat,Spotup,Defensive,0.0,7,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42022,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,Spotup,Defensive,0.0,8,0.4,1.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,2,2,0,1,1,MIA
+42022,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Spotup,Defensive,0.0,1,0.5,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,4,3,1,4,3,MIA
+42022,203469,Cody Zeller,1610612748,MIA,Miami Heat,Spotup,Defensive,0.438,21,0.188,1.077,0.45,0.08,0.08,0.08,0.0,0.46,0.59,13,14,5,11,6,MIA
+42022,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,Spotup,Defensive,0.911,18,0.282,0.75,0.25,0.12,0.04,0.12,0.0,0.33,0.32,24,18,5,20,15,MIA
+42022,203506,Victor Oladipo,1610612748,MIA,Miami Heat,Spotup,Defensive,0.478,2,0.731,1.053,0.35,0.11,0.0,0.11,0.0,0.42,0.53,19,20,6,17,11,MIA
+42022,201567,Kevin Love,1610612748,MIA,Miami Heat,Spotup,Defensive,0.08,20,0.191,1.571,0.55,0.1,0.0,0.1,0.05,0.57,0.78,21,33,11,20,9,MIA
+42022,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.632,23,0.464,1.0,0.4,0.06,0.08,0.06,0.02,0.39,0.52,51,51,18,45,27,MIA
+42022,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Spotup,Defensive,0.549,23,0.46,1.031,0.38,0.03,0.03,0.02,0.0,0.39,0.53,64,66,23,60,37,MIA
+42022,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Spotup,Defensive,0.788,22,0.282,0.896,0.34,0.09,0.05,0.09,0.01,0.38,0.43,77,69,23,67,44,MIA
+42022,1629622,Max Strus,1610612748,MIA,Miami Heat,Spotup,Defensive,0.451,23,0.37,1.068,0.39,0.04,0.03,0.04,0.0,0.39,0.54,74,79,27,69,42,MIA
+42022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Spotup,Defensive,0.336,23,0.229,1.137,0.42,0.07,0.08,0.07,0.03,0.41,0.59,73,83,27,64,37,MIA
+42022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Spotup,Defensive,0.796,22,0.347,0.885,0.33,0.06,0.05,0.06,0.0,0.35,0.44,96,85,28,85,57,MIA
+42022,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Spotup,Defensive,0.708,23,0.405,0.942,0.35,0.06,0.03,0.06,0.02,0.36,0.46,120,113,39,112,73,MIA

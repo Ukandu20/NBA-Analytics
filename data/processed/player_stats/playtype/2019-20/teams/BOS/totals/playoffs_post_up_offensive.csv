@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.852,17,0.055,1.083,0.526,0.208,0.042,0.167,0.042,0.58,0.526,24,26,10,19,9,BOS
+42019,202683,Enes Freedom,1610612738,BOS,Boston Celtics,Postup,Offensive,0.625,11,0.24,1.0,0.545,0.0,0.083,0.0,0.0,0.5,0.545,12,12,6,11,5,BOS
+42019,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.041,1.333,0.5,0.333,0.0,0.0,0.0,0.67,0.5,6,8,2,4,2,BOS
+42019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.019,1.4,0.75,0.2,0.2,0.2,0.2,0.6,0.75,5,7,3,4,1,BOS
+42019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.02,1.0,0.5,0.286,0.0,0.286,0.143,0.57,0.5,7,7,3,6,3,BOS
+42019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,5,0.033,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.0,2,4,1,1,0,BOS
+42019,1629605,Tacko Fall,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,2,0.5,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BOS
+42019,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.029,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BOS

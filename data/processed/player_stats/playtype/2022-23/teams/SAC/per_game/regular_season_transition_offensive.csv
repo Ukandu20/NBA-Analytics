@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.668,73,0.234,1.201,0.6,0.201,0.111,0.188,0.055,0.575,0.629,5.5,6.5,2.4,4.0,1.6,SAC
+22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.484,77,0.233,1.117,0.5,0.105,0.121,0.092,0.029,0.477,0.594,3.1,3.5,1.2,2.5,1.2,SAC
+22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.495,82,0.213,1.119,0.47,0.155,0.084,0.15,0.031,0.496,0.556,2.8,3.1,1.0,2.2,1.1,SAC
+22022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.236,80,0.236,0.995,0.39,0.082,0.039,0.077,0.024,0.401,0.5,2.6,2.6,0.9,2.3,1.4,SAC
+22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.347,75,0.185,1.048,0.48,0.059,0.107,0.053,0.0,0.455,0.571,2.5,2.6,1.0,2.1,1.1,SAC
+22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.225,79,0.136,0.989,0.62,0.22,0.247,0.204,0.043,0.511,0.631,2.4,2.3,0.8,1.4,0.5,SAC
+22022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.685,74,0.195,1.216,0.54,0.108,0.118,0.098,0.02,0.52,0.66,1.4,1.7,0.6,1.1,0.5,SAC
+22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.286,64,0.274,1.017,0.45,0.084,0.134,0.084,0.034,0.42,0.562,1.9,1.9,0.7,1.5,0.8,SAC
+22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.695,80,0.184,1.218,0.56,0.092,0.08,0.069,0.034,0.54,0.627,1.1,1.3,0.5,0.9,0.4,SAC
+22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.837,66,0.15,1.326,0.67,0.163,0.047,0.14,0.047,0.674,0.667,0.7,0.9,0.4,0.5,0.2,SAC
+22022,1630556,Kessler Edwards,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.002,22,0.238,0.4,0.21,0.1,0.25,0.1,0.05,0.2,0.214,0.9,0.4,0.1,0.6,0.5,SAC

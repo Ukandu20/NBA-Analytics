@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.973,30,0.047,0.467,0.143,0.067,0.0,0.0,0.0,0.2,0.179,0.5,0.2,0.1,0.5,0.4,DET
+22024,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.474,47,0.039,1.0,0.4,0.0,0.091,0.0,0.0,0.364,0.55,0.2,0.2,0.1,0.2,0.1,DET
+22024,203471,Dennis Schröder,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.196,27,0.037,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,0.4,0.4,0.1,0.4,0.2,DET
+22024,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.917,73,0.061,0.6,0.227,0.08,0.08,0.08,0.04,0.24,0.295,0.3,0.2,0.1,0.3,0.2,DET
+22024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.299,74,0.019,1.111,0.5,0.0,0.111,0.0,0.0,0.444,0.625,0.2,0.3,0.1,0.2,0.1,DET
+22024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.89,75,0.054,0.639,0.233,0.083,0.083,0.056,0.0,0.278,0.283,0.5,0.3,0.1,0.4,0.3,DET
+22024,1641842,Ronald Holland II,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.021,79,0.035,1.533,0.6,0.067,0.0,0.067,0.067,0.6,0.733,0.2,0.3,0.1,0.2,0.1,DET
+22024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.423,73,0.042,1.033,0.407,0.1,0.033,0.1,0.033,0.433,0.481,0.4,0.4,0.2,0.4,0.2,DET
+22024,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.113,59,0.058,1.281,0.538,0.094,0.094,0.031,0.0,0.531,0.692,0.5,0.7,0.2,0.4,0.2,DET
+22024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.524,70,0.06,0.98,0.364,0.04,0.08,0.04,0.0,0.36,0.5,0.7,0.7,0.2,0.6,0.4,DET
+22024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.291,79,0.085,1.117,0.442,0.033,0.1,0.033,0.0,0.417,0.615,0.8,0.8,0.3,0.7,0.4,DET

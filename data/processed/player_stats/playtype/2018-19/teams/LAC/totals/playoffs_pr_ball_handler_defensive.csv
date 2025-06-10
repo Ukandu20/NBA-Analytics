@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,202066,Garrett Temple,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,6,0.214,0.333,0.25,0.0,0.33,0.0,0.0,0.17,0.25,6,2,1,4,3,LAC
+42018,101150,Lou Williams,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,6,0.047,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,LAC
+42018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,2,0.429,1.333,1.0,0.0,0.33,0.0,0.0,0.67,1.0,3,4,2,2,0,LAC
+42018,201163,Wilson Chandler,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,4,0.15,2.0,1.0,0.0,0.33,0.0,0.0,0.67,1.5,3,6,2,2,0,LAC
+42018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,6,0.091,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,LAC
+42018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.0,6,0.096,1.0,0.5,0.0,0.14,0.0,0.0,0.43,0.58,7,7,3,6,3,LAC
+42018,1629013,Landry Shamet,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.795,6,0.226,0.714,0.27,0.14,0.14,0.07,0.07,0.29,0.32,14,10,3,11,8,LAC
+42018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.329,6,0.212,1.0,0.5,0.09,0.09,0.09,0.09,0.45,0.55,11,11,5,10,5,LAC
+42018,203210,JaMychal Green,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.013,6,0.275,1.455,0.5,0.09,0.0,0.0,0.0,0.55,0.65,11,16,5,10,5,LAC

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Spotup,Offensive,0.913,68,0.21,1.203,0.45,0.079,0.054,0.058,0.008,0.456,0.618,241,290,95,211,116,LAC
+22018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Spotup,Offensive,0.834,78,0.35,1.134,0.412,0.014,0.042,0.009,0.0,0.403,0.586,216,245,84,204,120,LAC
+22018,202699,Tobias Harris,1610612746,LAC,LA Clippers,Spotup,Offensive,0.966,55,0.157,1.279,0.467,0.067,0.036,0.055,0.024,0.473,0.638,165,211,71,152,81,LAC
+22018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,Spotup,Offensive,0.513,82,0.207,0.99,0.41,0.036,0.067,0.036,0.015,0.395,0.508,195,193,73,178,105,LAC
+22018,202340,Avery Bradley,1610612746,LAC,LA Clippers,Spotup,Offensive,0.734,49,0.284,1.071,0.406,0.007,0.043,0.007,0.0,0.393,0.56,140,150,54,133,79,LAC
+22018,101150,Lou Williams,1610612746,LAC,LA Clippers,Spotup,Offensive,0.734,75,0.083,1.071,0.378,0.119,0.016,0.111,0.016,0.429,0.495,126,135,42,111,69,LAC
+22018,203118,Mike Scott,1610612746,LAC,LA Clippers,Spotup,Offensive,0.79,52,0.351,1.108,0.4,0.022,0.065,0.022,0.0,0.387,0.588,93,103,34,85,51,LAC
+22018,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Spotup,Offensive,0.974,25,0.255,1.323,0.441,0.048,0.0,0.048,0.0,0.468,0.644,62,82,26,59,33,LAC
+22018,203210,JaMychal Green,1610612746,LAC,LA Clippers,Spotup,Offensive,0.656,24,0.338,1.045,0.375,0.015,0.015,0.015,0.0,0.379,0.523,66,69,24,64,40,LAC
+22018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Spotup,Offensive,0.507,62,0.214,0.983,0.469,0.1,0.083,0.083,0.0,0.483,0.51,60,59,23,49,26,LAC
+22018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Spotup,Offensive,0.471,82,0.029,0.971,0.448,0.171,0.057,0.171,0.057,0.457,0.466,35,34,13,29,16,LAC
+22018,202066,Garrett Temple,1610612746,LAC,LA Clippers,Spotup,Offensive,0.105,26,0.306,0.732,0.25,0.049,0.073,0.024,0.0,0.268,0.361,41,30,9,36,27,LAC
+22018,201163,Wilson Chandler,1610612746,LAC,LA Clippers,Spotup,Offensive,0.218,15,0.461,0.829,0.323,0.029,0.086,0.0,0.0,0.314,0.452,35,29,10,31,21,LAC
+22018,267634,Milos Teodosic,1610612746,LAC,LA Clippers,Spotup,Offensive,0.37,15,0.203,0.923,0.364,0.0,0.154,0.0,0.0,0.308,0.545,13,12,4,11,7,LAC

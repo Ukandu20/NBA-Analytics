@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.393,14,0.187,0.714,0.4,0.095,0.19,0.095,0.016,0.365,0.4,63,45,18,45,27,DEN
+42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.929,14,0.209,1.048,0.52,0.19,0.071,0.143,0.048,0.524,0.52,42,44,17,33,16,DEN
+42018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.0,14,0.119,0.75,0.38,0.0,0.0,0.0,0.0,0.375,0.38,8,6,3,8,5,DEN
+42018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.0,14,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,DEN
+42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.0,14,0.003,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0,DEN

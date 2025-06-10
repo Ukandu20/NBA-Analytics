@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.318,21,0.057,0.893,0.391,0.143,0.107,0.143,0.071,0.393,0.413,28,25,9,23,14,LAL
+42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,21,0.037,1.375,0.5,0.125,0.0,0.125,0.125,0.5,0.625,8,11,4,8,4,LAL
+42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.045,21,0.06,0.615,0.25,0.0,0.077,0.0,0.0,0.231,0.333,13,8,3,12,9,LAL
+42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,21,0.037,0.857,0.286,0.0,0.0,0.0,0.0,0.286,0.429,7,6,2,7,5,LAL
+42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,21,0.009,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,5,5,2,5,3,LAL
+42019,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,2,0.083,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,LAL
+42019,201162,Jared Dudley,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,5,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,21,0.008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,16,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.0,7,0.061,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,LAL

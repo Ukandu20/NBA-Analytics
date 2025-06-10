@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.691,75,0.271,1.099,0.403,0.043,0.032,0.04,0.016,0.407,0.553,253,278,96,238,142,CLE
+22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.875,68,0.133,1.21,0.481,0.061,0.048,0.061,0.026,0.476,0.614,229,277,101,210,109,CLE
+22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.624,77,0.383,1.071,0.389,0.017,0.05,0.017,0.004,0.378,0.558,241,258,88,226,138,CLE
+22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.863,69,0.133,1.201,0.471,0.082,0.052,0.072,0.01,0.485,0.612,194,233,80,170,90,CLE
+22022,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.403,76,0.493,0.972,0.371,0.046,0.06,0.046,0.014,0.369,0.5,217,211,73,197,124,CLE
+22022,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.726,42,0.331,1.119,0.406,0.025,0.076,0.025,0.0,0.39,0.59,118,132,43,106,63,CLE
+22022,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.636,44,0.569,1.078,0.377,0.043,0.052,0.043,0.009,0.379,0.552,116,125,40,106,66,CLE
+22022,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.19,62,0.418,0.859,0.346,0.007,0.035,0.007,0.0,0.338,0.441,142,122,47,136,89,CLE
+22022,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.037,79,0.144,0.61,0.269,0.062,0.13,0.062,0.011,0.266,0.317,177,108,39,145,106,CLE
+22022,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.198,33,0.302,0.868,0.328,0.029,0.044,0.015,0.015,0.324,0.438,68,59,21,64,43,CLE
+22022,203526,Raul Neto,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.571,48,0.313,1.043,0.419,0.043,0.022,0.022,0.0,0.435,0.523,46,48,18,43,25,CLE
+22022,201980,Danny Green,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.978,8,0.356,1.375,0.538,0.063,0.188,0.063,0.063,0.438,0.808,16,22,7,13,6,CLE
+22022,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.0,68,0.027,0.273,0.059,0.136,0.091,0.091,0.0,0.182,0.059,22,6,1,17,16,CLE

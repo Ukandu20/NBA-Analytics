@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.598,68,0.13,0.916,0.417,0.067,0.071,0.062,0.022,0.413,0.46,225,206,83,199,116,PHX
+22021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.324,65,0.111,0.778,0.33,0.046,0.037,0.037,0.009,0.343,0.38,108,84,33,100,67,PHX
+22021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.343,58,0.059,0.791,0.368,0.023,0.093,0.023,0.0,0.349,0.434,43,34,14,38,24,PHX
+22021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Isolation,Offensive,1.0,66,0.014,1.5,0.556,0.1,0.0,0.1,0.0,0.6,0.722,10,15,5,9,4,PHX
+22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.092,82,0.01,0.6,0.167,0.2,0.2,0.2,0.0,0.3,0.167,10,6,1,6,5,PHX
+22021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.012,74,0.028,0.353,0.111,0.118,0.353,0.118,0.0,0.176,0.111,17,6,1,9,8,PHX

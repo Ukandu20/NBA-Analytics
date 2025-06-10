@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.165,64,0.146,0.911,0.453,0.17,0.209,0.132,0.013,0.438,0.493,235,214,67,148,81,ATL
+22020,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.717,69,0.184,1.221,0.549,0.058,0.091,0.032,0.013,0.519,0.665,154,188,73,133,60,ATL
+22020,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.97,63,0.102,1.521,0.714,0.177,0.073,0.167,0.052,0.688,0.786,96,146,55,77,22,ATL
+22020,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.951,63,0.088,1.494,0.817,0.195,0.039,0.156,0.013,0.779,0.817,77,115,49,60,11,ATL
+22020,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.63,44,0.149,1.179,0.477,0.032,0.053,0.032,0.011,0.463,0.608,95,112,42,88,46,ATL
+22020,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.943,51,0.089,1.442,0.529,0.288,0.077,0.212,0.019,0.615,0.676,52,75,18,34,16,ATL
+22020,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.877,23,0.159,1.34,0.595,0.18,0.12,0.14,0.04,0.58,0.689,50,67,22,37,15,ATL
+22020,1629164,Brandon Goodwin,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.357,47,0.173,1.063,0.538,0.083,0.146,0.063,0.042,0.458,0.603,48,51,21,39,18,ATL
+22020,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.252,26,0.156,0.981,0.425,0.192,0.058,0.173,0.019,0.5,0.463,52,51,17,40,23,ATL
+22020,203503,Tony Snell,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.638,47,0.193,1.184,0.459,0.0,0.026,0.0,0.0,0.447,0.608,38,45,17,37,20,ATL
+22020,203524,Solomon Hill,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.055,71,0.153,0.764,0.304,0.073,0.091,0.055,0.0,0.309,0.391,55,42,14,46,32,ATL
+22020,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.937,50,0.069,1.429,0.818,0.143,0.143,0.143,0.071,0.714,0.818,14,20,9,11,2,ATL
+22020,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.066,24,0.082,0.783,0.4,0.087,0.261,0.0,0.0,0.348,0.467,23,18,6,15,9,ATL
+22020,200765,Rajon Rondo,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.002,27,0.146,0.409,0.286,0.0,0.364,0.0,0.0,0.182,0.321,22,9,4,14,10,ATL

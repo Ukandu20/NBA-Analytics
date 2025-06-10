@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.153,64,0.02,1.0,0.444,0.1,0.0,0.1,0.0,0.5,0.5,0.0,0.0,0.1,0.1,0.1,NOP
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.085,56,0.01,1.083,0.667,0.17,0.33,0.17,0.0,0.5,0.833,0.0,0.0,0.1,0.1,0.0,NOP
+22018,1629541,Dairis Bertans,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.153,12,0.29,1.0,0.5,0.11,0.21,0.11,0.05,0.421,0.571,2.0,2.0,0.6,1.2,0.6,NOP
+22018,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.25,32,0.06,0.958,0.526,0.04,0.17,0.04,0.0,0.458,0.553,1.0,1.0,0.3,0.6,0.3,NOP
+22018,202325,Wesley Johnson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.875,26,0.28,0.735,0.31,0.09,0.06,0.09,0.0,0.353,0.328,1.0,1.0,0.3,1.1,0.8,NOP
+22018,1626169,Stanley Johnson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.075,18,0.42,1.094,0.52,0.09,0.12,0.12,0.03,0.469,0.64,2.0,2.0,0.7,1.4,0.7,NOP
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.377,73,0.06,0.915,0.439,0.06,0.09,0.02,0.02,0.426,0.488,1.0,1.0,0.2,0.6,0.3,NOP
+22018,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.653,44,0.23,0.831,0.39,0.1,0.08,0.1,0.01,0.408,0.415,2.0,1.0,0.5,1.3,0.8,NOP
+22018,1629026,Kenrich Williams,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.778,46,0.24,0.795,0.424,0.08,0.17,0.08,0.0,0.398,0.439,2.0,2.0,0.6,1.4,0.8,NOP
+22018,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.877,69,0.23,0.734,0.4,0.08,0.22,0.08,0.04,0.336,0.432,2.0,1.0,0.6,1.4,0.8,NOP
+22018,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.71,53,0.33,0.817,0.43,0.13,0.2,0.11,0.04,0.397,0.457,2.0,2.0,0.8,1.8,1.0,NOP
+22018,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.184,61,0.28,0.991,0.494,0.11,0.14,0.08,0.02,0.473,0.553,2.0,2.0,0.7,1.4,0.7,NOP
+22018,204025,Tim Frazier,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.253,47,0.36,0.958,0.471,0.11,0.18,0.09,0.03,0.432,0.529,3.0,2.0,0.9,1.9,1.0,NOP
+22018,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.116,60,0.35,1.042,0.494,0.12,0.14,0.1,0.02,0.475,0.573,2.0,2.0,0.7,1.5,0.8,NOP
+22018,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.62,42,0.4,0.836,0.397,0.1,0.12,0.07,0.02,0.397,0.427,4.0,4.0,1.4,3.6,2.2,NOP
+22018,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Defensive,0.873,67,0.33,0.736,0.367,0.1,0.17,0.07,0.01,0.35,0.4,5.0,4.0,1.4,3.7,2.4,NOP

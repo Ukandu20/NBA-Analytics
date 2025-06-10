@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.581,60,0.058,0.978,0.382,0.09,0.079,0.09,0.022,0.393,0.48,89,87,29,76,47,CHI
+22019,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.495,50,0.1,0.932,0.339,0.122,0.054,0.122,0.014,0.392,0.444,74,69,21,62,41,CHI
+22019,1629632,Coby White,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.27,65,0.041,0.821,0.333,0.026,0.077,0.026,0.026,0.308,0.431,39,32,12,36,24,CHI
+22019,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.995,14,0.081,1.615,0.615,0.077,0.0,0.077,0.077,0.615,0.769,13,21,8,13,5,CHI
+22019,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.321,36,0.053,0.857,0.385,0.0,0.071,0.0,0.0,0.357,0.462,14,12,5,13,8,CHI
+22019,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.023,65,0.025,0.444,0.188,0.0,0.111,0.0,0.0,0.167,0.25,18,8,3,16,13,CHI

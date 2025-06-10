@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641757,Jordan Miller,1610612746,LAC,LA Clippers,Isolation,Defensive,0.922,24,0.079,0.6,0.429,0.0,0.3,0.0,0.0,0.3,0.429,10,6,3,7,4,LAC
+22024,1627732,Ben Simmons,1610612746,LAC,LA Clippers,Isolation,Defensive,0.972,18,0.15,0.5,0.25,0.125,0.125,0.125,0.0,0.25,0.25,16,8,3,12,9,LAC
+22024,1629234,Drew Eubanks,1610612746,LAC,LA Clippers,Isolation,Defensive,0.944,16,0.171,0.571,0.231,0.071,0.0,0.071,0.0,0.286,0.231,14,8,3,13,10,LAC
+22024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Isolation,Defensive,0.571,37,0.046,0.867,0.444,0.2,0.2,0.2,0.0,0.467,0.444,15,13,4,9,5,LAC
+22024,1629611,Terance Mann,1610612746,LAC,LA Clippers,Isolation,Defensive,0.072,34,0.065,1.2,0.5,0.267,0.067,0.2,0.0,0.6,0.55,15,18,5,10,5,LAC
+22024,1626181,Norman Powell,1610612746,LAC,LA Clippers,Isolation,Defensive,0.81,60,0.062,0.724,0.381,0.138,0.207,0.138,0.069,0.345,0.381,29,21,8,21,13,LAC
+22024,1629645,Kevin Porter Jr.,1610612746,LAC,LA Clippers,Isolation,Defensive,0.74,45,0.112,0.789,0.37,0.132,0.184,0.105,0.026,0.368,0.407,38,30,10,27,17,LAC
+22024,1627739,Kris Dunn,1610612746,LAC,LA Clippers,Isolation,Defensive,0.882,74,0.073,0.673,0.313,0.154,0.25,0.154,0.019,0.327,0.328,52,35,10,32,22,LAC
+22024,203992,Bogdan Bogdanović,1610612746,LAC,LA Clippers,Isolation,Defensive,0.055,30,0.138,1.242,0.615,0.121,0.121,0.121,0.03,0.576,0.692,33,41,16,26,10,LAC
+22024,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Isolation,Defensive,0.727,71,0.129,0.792,0.349,0.113,0.094,0.094,0.019,0.377,0.395,53,42,15,43,28,LAC
+22024,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Isolation,Defensive,0.479,69,0.093,0.92,0.41,0.14,0.12,0.14,0.04,0.42,0.462,50,46,16,39,23,LAC
+22024,1627884,Derrick Jones Jr.,1610612746,LAC,LA Clippers,Isolation,Defensive,0.625,75,0.085,0.839,0.35,0.242,0.145,0.242,0.032,0.419,0.375,62,52,14,40,26,LAC
+22024,201935,James Harden,1610612746,LAC,LA Clippers,Isolation,Defensive,0.603,79,0.126,0.847,0.367,0.135,0.099,0.135,0.045,0.387,0.4,111,94,33,90,57,LAC
+22024,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Isolation,Defensive,0.587,80,0.086,0.86,0.376,0.058,0.107,0.05,0.0,0.372,0.446,121,104,38,101,63,LAC

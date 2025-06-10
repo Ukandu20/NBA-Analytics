@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201980,Danny Green,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.328,80,0.134,0.876,0.36,0.0,0.082,0.0,0.0,0.33,0.478,1.2,1.1,0.4,1.1,0.7,TOR
+22018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.332,65,0.081,0.877,0.32,0.012,0.062,0.012,0.0,0.309,0.46,1.2,1.1,0.4,1.2,0.8,TOR
+22018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.884,60,0.041,1.136,0.519,0.119,0.051,0.102,0.051,0.525,0.558,1.0,1.1,0.5,0.9,0.4,TOR
+22018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.944,64,0.045,1.242,0.469,0.091,0.0,0.091,0.061,0.485,0.594,0.5,0.6,0.2,0.5,0.3,TOR
+22018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.776,60,0.077,1.079,0.469,0.132,0.079,0.105,0.053,0.474,0.547,0.6,0.7,0.3,0.5,0.3,TOR
+22018,101139,CJ Miles,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.302,40,0.198,0.854,0.302,0.063,0.042,0.063,0.0,0.333,0.384,1.2,1.0,0.3,1.1,0.8,TOR
+22018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.264,80,0.01,0.833,0.5,0.0,0.167,0.0,0.0,0.417,0.5,0.2,0.1,0.1,0.1,0.1,TOR

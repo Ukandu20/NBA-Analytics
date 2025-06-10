@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.894,50,0.06,1.3,0.475,0.129,0.029,0.1,0.029,0.514,0.631,70,91,29,61,32,MIN
+22020,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.19,37,0.15,0.757,0.312,0.058,0.068,0.058,0.029,0.311,0.376,103,78,29,93,64,MIN
+22020,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.214,72,0.046,0.794,0.321,0.088,0.088,0.088,0.0,0.353,0.393,68,54,18,56,38,MIN
+22020,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.267,42,0.055,0.822,0.35,0.067,0.067,0.044,0.022,0.356,0.425,45,37,14,40,26,MIN
+22020,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.71,52,0.052,1.105,0.4,0.211,0.053,0.211,0.053,0.421,0.567,19,21,6,15,9,MIN
+22020,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.476,42,0.054,0.952,0.4,0.0,0.048,0.0,0.0,0.381,0.5,21,20,8,20,12,MIN
+22020,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.976,63,0.025,1.545,0.6,0.0,0.091,0.0,0.0,0.545,0.85,11,17,6,10,4,MIN
+22020,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.397,68,0.018,0.917,0.571,0.167,0.25,0.167,0.0,0.5,0.571,12,11,4,7,3,MIN

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,4,0.083,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,DAL
+42019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,3,0.167,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.3,1.0,0.0,0.0,0.0,DAL
+42019,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,6,0.07,0.667,0.0,0.33,0.0,0.33,0.0,0.33,0.0,0.5,0.0,0.0,0.3,0.3,DAL
+42019,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,6,0.057,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.5,0.0,0.2,0.5,0.3,DAL
+42019,203077,Michael Kidd-Gilchrist,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,6,0.171,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,1.0,1.0,0.3,1.0,0.7,DAL
+42019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,3,0.118,1.75,1.0,0.25,0.0,0.25,0.0,1.0,1.0,1.3,2.0,1.0,1.0,0.0,DAL
+42019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.0,6,0.125,0.875,0.29,0.25,0.0,0.25,0.12,0.38,0.29,1.3,1.0,0.3,1.2,0.8,DAL
+42019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.793,6,0.123,0.7,0.3,0.0,0.0,0.0,0.0,0.3,0.35,1.7,1.0,0.5,1.7,1.2,DAL
+42019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.22,6,0.154,1.1,0.57,0.2,0.2,0.2,0.1,0.5,0.57,1.7,2.0,0.7,1.2,0.5,DAL
+42019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.627,6,0.222,0.833,0.4,0.22,0.11,0.22,0.17,0.39,0.43,3.0,2.0,1.0,2.5,1.5,DAL
+42019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.186,6,0.229,1.148,0.5,0.11,0.04,0.07,0.04,0.52,0.54,4.5,5.0,2.0,4.0,2.0,DAL

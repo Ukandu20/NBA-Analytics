@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.945,57,0.041,1.357,0.5,0.107,0.0,0.107,0.036,0.536,0.654,28,38,13,26,13,HOU
+22024,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.653,75,0.033,1.059,0.379,0.059,0.088,0.059,0.0,0.382,0.552,34,36,11,29,18,HOU
+22024,1630224,Jalen Green,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.227,82,0.025,0.778,0.31,0.022,0.044,0.022,0.0,0.311,0.405,45,35,13,42,29,HOU
+22024,1628988,Aaron Holiday,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.95,62,0.053,1.412,0.6,0.0,0.118,0.0,0.0,0.529,0.8,17,24,9,15,6,HOU
+22024,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.25,60,0.027,0.792,0.304,0.0,0.042,0.0,0.0,0.292,0.413,24,19,7,23,16,HOU
+22024,1642263,Reed Sheppard,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.452,52,0.064,0.944,0.353,0.0,0.056,0.0,0.0,0.333,0.5,18,17,6,17,11,HOU
+22024,1631106,Tari Eason,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.55,57,0.015,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,HOU

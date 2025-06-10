@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629604,CJ Elleby,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.373,58,0.031,1.0,0.333,0.18,0.0,0.18,0.0,0.45,0.444,0.2,0.2,0.1,0.2,0.1,POR
+22021,1630314,Brandon Williams,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.373,24,0.048,1.0,0.444,0.09,0.09,0.09,0.0,0.45,0.5,0.5,0.5,0.2,0.4,0.2,POR
+22021,1630535,Greg Brown III,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.292,48,0.051,1.083,0.333,0.17,0.08,0.08,0.0,0.42,0.5,0.3,0.3,0.1,0.2,0.1,POR
+22021,1630553,Keon Johnson,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.844,22,0.092,0.722,0.333,0.11,0.11,0.11,0.06,0.33,0.4,0.8,0.6,0.2,0.7,0.5,POR
+22021,1628404,Josh Hart,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.373,13,0.104,1.0,0.417,0.07,0.07,0.0,0.0,0.43,0.5,1.1,1.1,0.4,0.9,0.5,POR
+22021,1626204,Larry Nance Jr.,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.486,37,0.055,0.941,0.429,0.06,0.12,0.06,0.0,0.41,0.5,0.5,0.4,0.2,0.4,0.2,POR
+22021,1628372,Dennis Smith Jr.,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.163,38,0.066,1.2,0.545,0.07,0.2,0.07,0.0,0.47,0.773,0.4,0.5,0.2,0.3,0.1,POR
+22021,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.242,29,0.049,1.118,0.4,0.12,0.0,0.12,0.0,0.47,0.467,0.6,0.7,0.2,0.5,0.3,POR
+22021,203463,Ben McLemore,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.738,64,0.088,0.806,0.345,0.0,0.06,0.0,0.0,0.32,0.431,0.5,0.4,0.2,0.5,0.3,POR
+22021,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.095,36,0.052,1.292,0.571,0.04,0.08,0.04,0.0,0.5,0.738,0.7,0.9,0.3,0.6,0.3,POR
+22021,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.338,40,0.073,1.032,0.37,0.1,0.03,0.1,0.0,0.42,0.519,0.8,0.8,0.3,0.7,0.4,POR
+22021,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.238,42,0.085,1.121,0.452,0.06,0.0,0.06,0.0,0.48,0.548,0.8,0.9,0.3,0.7,0.4,POR
+22021,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.134,57,0.059,1.242,0.516,0.0,0.06,0.0,0.0,0.48,0.661,0.6,0.7,0.3,0.5,0.3,POR
+22021,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.137,48,0.069,1.235,0.5,0.03,0.03,0.0,0.0,0.5,0.625,0.7,0.9,0.3,0.7,0.3,POR

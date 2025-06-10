@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.0,9,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,HOU
+42019,201145,Jeff Green,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.0,12,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,HOU
+42019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.0,12,0.01,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,HOU
+42019,201935,James Harden,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.0,12,0.02,0.667,0.0,0.33,0.0,0.33,0.0,0.33,0.0,0.3,0.0,0.0,0.2,0.2,HOU
+42019,203496,Robert Covington,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.0,12,0.02,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,0.3,0.0,0.2,0.3,0.1,HOU

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.949,13,0.364,0.583,0.3,0.0,0.167,0.0,0.0,0.25,0.35,12,7,3,10,7,DAL
+42023,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.786,12,0.318,0.762,0.286,0.0,0.0,0.0,0.0,0.286,0.381,21,16,6,21,15,DAL
+42023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.017,13,0.423,1.636,0.6,0.045,0.045,0.045,0.0,0.591,0.875,22,36,12,20,8,DAL
+42023,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.846,21,0.342,0.709,0.275,0.036,0.055,0.036,0.018,0.273,0.363,55,39,14,51,37,DAL
+42023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.239,21,0.254,1.176,0.467,0.088,0.029,0.088,0.0,0.5,0.583,34,40,14,30,16,DAL
+42023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.556,22,0.28,0.943,0.394,0.014,0.043,0.014,0.0,0.386,0.485,70,66,26,66,40,DAL
+42023,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.094,22,0.309,1.339,0.509,0.036,0.018,0.036,0.0,0.518,0.67,56,75,27,53,26,DAL
+42023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.509,22,0.381,1.0,0.357,0.061,0.085,0.037,0.0,0.366,0.514,82,82,25,70,45,DAL
+42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.812,22,0.428,0.738,0.306,0.028,0.117,0.021,0.0,0.29,0.407,145,107,38,124,86,DAL
+42023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Spotup,Defensive,0.402,22,0.416,1.082,0.4,0.082,0.025,0.082,0.008,0.434,0.532,122,132,44,110,66,DAL

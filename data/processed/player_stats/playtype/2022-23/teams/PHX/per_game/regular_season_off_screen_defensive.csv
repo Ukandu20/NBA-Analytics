@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.903,60,0.067,0.611,0.25,0.056,0.111,0.056,0.06,0.222,0.31,0.3,0.2,0.1,0.3,0.2,PHX
+22022,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.544,48,0.059,0.938,0.36,0.063,0.063,0.063,0.0,0.375,0.5,0.3,0.3,0.1,0.3,0.2,PHX
+22022,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.605,40,0.073,0.905,0.37,0.048,0.095,0.048,0.05,0.333,0.47,0.5,0.5,0.2,0.5,0.3,PHX
+22022,1627814,Damion Lee,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.702,74,0.056,0.84,0.37,0.12,0.12,0.08,0.0,0.36,0.47,0.3,0.3,0.1,0.3,0.2,PHX
+22022,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.821,53,0.047,0.759,0.33,0.0,0.172,0.0,0.0,0.276,0.46,0.5,0.4,0.2,0.5,0.3,PHX
+22022,101108,Chris Paul,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.19,59,0.048,1.2,0.48,0.0,0.0,0.0,0.0,0.48,0.6,0.4,0.5,0.2,0.4,0.2,PHX
+22022,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.655,56,0.068,0.878,0.36,0.102,0.082,0.102,0.08,0.347,0.42,0.9,0.8,0.3,0.8,0.5,PHX
+22022,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.434,72,0.086,1.0,0.41,0.064,0.085,0.064,0.02,0.404,0.51,0.7,0.7,0.2,0.6,0.3,PHX
+22022,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.226,79,0.08,1.167,0.45,0.111,0.093,0.111,0.02,0.463,0.59,0.7,0.8,0.3,0.6,0.3,PHX

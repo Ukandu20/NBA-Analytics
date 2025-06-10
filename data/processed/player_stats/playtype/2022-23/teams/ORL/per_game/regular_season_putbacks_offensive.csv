@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.92,57,0.11,1.438,0.701,0.28,0.045,0.27,0.079,0.73,0.701,1.6,2.2,0.8,1.2,0.4,ORL
+22022,1629626,Bol Bol,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.967,70,0.094,1.533,0.815,0.08,0.033,0.067,0.017,0.783,0.815,0.9,1.3,0.6,0.8,0.1,ORL
+22022,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.432,72,0.033,1.077,0.538,0.17,0.077,0.154,0.0,0.577,0.551,0.7,0.8,0.3,0.5,0.3,ORL
+22022,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.476,57,0.07,1.105,0.536,0.21,0.105,0.211,0.053,0.553,0.536,0.7,0.7,0.3,0.5,0.2,ORL
+22022,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.74,60,0.035,1.258,0.643,0.03,0.065,0.0,0.0,0.613,0.661,0.5,0.7,0.3,0.5,0.2,ORL
+22022,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.89,17,0.297,1.407,0.727,0.22,0.037,0.222,0.074,0.704,0.727,1.6,2.2,0.9,1.3,0.4,ORL
+22022,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.28,80,0.026,0.973,0.452,0.14,0.054,0.108,0.027,0.486,0.468,0.5,0.5,0.2,0.4,0.2,ORL
+22022,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.354,40,0.125,1.031,0.5,0.19,0.031,0.156,0.031,0.563,0.5,0.8,0.8,0.3,0.7,0.3,ORL
+22022,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.363,53,0.047,1.036,0.5,0.25,0.143,0.25,0.036,0.536,0.5,0.5,0.5,0.2,0.3,0.2,ORL
+22022,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.383,60,0.027,1.048,0.5,0.14,0.048,0.143,0.048,0.524,0.5,0.4,0.4,0.2,0.3,0.2,ORL
+22022,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.994,28,0.068,1.7,0.857,0.2,0.1,0.2,0.0,0.8,1.0,0.4,0.6,0.2,0.3,0.0,ORL
+22022,1630284,Kevon Harris,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.402,34,0.111,1.063,0.545,0.25,0.125,0.25,0.063,0.563,0.545,0.5,0.5,0.2,0.3,0.1,ORL
+22022,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.539,11,0.23,1.143,0.583,0.14,0.071,0.143,0.071,0.571,0.583,1.3,1.5,0.6,1.1,0.5,ORL
+22022,1629678,Admiral Schofield,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.554,38,0.088,1.154,0.538,0.0,0.0,0.0,0.0,0.538,0.577,0.3,0.4,0.2,0.3,0.2,ORL
+22022,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.051,51,0.101,0.667,0.375,0.05,0.19,0.048,0.0,0.333,0.375,0.4,0.3,0.1,0.3,0.2,ORL

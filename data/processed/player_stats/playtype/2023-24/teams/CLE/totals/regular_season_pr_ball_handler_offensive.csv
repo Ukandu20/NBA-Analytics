@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.765,55,0.386,0.955,0.429,0.105,0.115,0.092,0.015,0.424,0.5,531,507,181,422,241,CLE
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.508,57,0.417,0.854,0.426,0.068,0.163,0.06,0.004,0.391,0.486,453,387,149,350,201,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.534,68,0.277,0.863,0.443,0.067,0.144,0.063,0.011,0.407,0.482,285,246,101,228,127,CLE
+22023,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.818,51,0.375,0.982,0.511,0.108,0.117,0.108,0.018,0.477,0.528,111,109,45,88,43,CLE
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.111,70,0.09,0.595,0.28,0.076,0.304,0.063,0.013,0.241,0.35,79,47,14,50,36,CLE
+22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.221,69,0.047,0.714,0.333,0.036,0.143,0.036,0.036,0.286,0.396,28,20,8,24,16,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.243,50,0.031,0.727,0.375,0.136,0.227,0.091,0.091,0.318,0.375,22,16,6,16,10,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.243,82,0.03,0.727,0.368,0.0,0.136,0.0,0.0,0.318,0.421,22,16,7,19,12,CLE
+22023,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.193,61,0.052,0.682,0.333,0.0,0.182,0.0,0.0,0.273,0.417,22,15,6,18,12,CLE

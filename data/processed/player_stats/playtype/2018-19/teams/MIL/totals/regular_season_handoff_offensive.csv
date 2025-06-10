@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.906,74,0.157,1.194,0.448,0.081,0.032,0.081,0.048,0.452,0.578,62,74,26,58,32,MIL
+22018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.379,77,0.051,0.861,0.39,0.069,0.111,0.056,0.0,0.389,0.441,72,62,23,59,36,MIL
+22018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.734,64,0.065,1.034,0.51,0.051,0.136,0.051,0.017,0.458,0.571,59,61,25,49,24,MIL
+22018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.877,78,0.036,1.133,0.514,0.067,0.111,0.067,0.0,0.467,0.649,45,51,19,37,18,MIL
+22018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.448,81,0.058,0.887,0.292,0.113,0.0,0.094,0.019,0.358,0.385,53,47,14,48,34,MIL
+22018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.976,72,0.018,1.394,0.593,0.212,0.061,0.182,0.091,0.606,0.685,33,46,16,27,11,MIL
+22018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.525,58,0.074,0.929,0.385,0.036,0.071,0.036,0.036,0.357,0.5,28,26,10,26,16,MIL
+22018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.031,61,0.093,0.459,0.172,0.108,0.108,0.081,0.0,0.216,0.207,37,17,5,29,24,MIL
+22018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.451,47,0.055,0.889,0.313,0.111,0.0,0.111,0.0,0.389,0.406,18,16,5,16,11,MIL
+22018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.891,48,0.039,1.167,0.417,0.0,0.0,0.0,0.0,0.417,0.583,12,14,5,12,7,MIL
+22018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.899,67,0.024,1.182,0.5,0.0,0.091,0.0,0.0,0.455,0.65,11,13,5,10,5,MIL
+22018,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.0,27,0.068,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,10,0,0,7,7,MIL

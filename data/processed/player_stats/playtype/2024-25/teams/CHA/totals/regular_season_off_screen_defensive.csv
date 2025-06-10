@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1642275,Tidjane Salaün,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.959,56,0.06,0.522,0.182,0.043,0.0,0.043,0.0,0.217,0.227,23,12,4,22,18,CHA
+22024,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.196,44,0.015,1.2,0.444,0.1,0.0,0.1,0.0,0.5,0.611,10,12,4,9,5,CHA
+22024,1641878,Damion Baugh,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.474,15,0.106,1.0,0.385,0.133,0.067,0.133,0.067,0.4,0.538,15,15,5,13,8,CHA
+22024,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.719,39,0.061,0.81,0.421,0.0,0.095,0.0,0.0,0.381,0.447,21,17,8,19,11,CHA
+22024,1642354,KJ Simpson,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.182,34,0.052,1.214,0.5,0.071,0.071,0.0,0.0,0.429,0.708,14,17,6,12,6,CHA
+22024,1631217,Moussa Diabaté,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.082,66,0.03,1.313,0.571,0.0,0.125,0.0,0.0,0.5,0.75,16,21,8,14,6,CHA
+22024,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.548,27,0.084,0.96,0.409,0.04,0.08,0.04,0.0,0.4,0.5,25,24,9,22,13,CHA
+22024,203552,Seth Curry,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.0,57,0.059,1.75,0.733,0.0,0.063,0.0,0.0,0.688,0.933,16,28,11,15,4,CHA
+22024,1641733,Nick Smith Jr.,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.76,57,0.105,0.78,0.333,0.049,0.073,0.049,0.0,0.341,0.389,41,32,12,36,24,CHA
+22024,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.288,47,0.075,1.118,0.467,0.029,0.088,0.029,0.0,0.441,0.617,34,38,14,30,16,CHA
+22024,1629610,DaQuan Jeffries,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.031,46,0.08,1.5,0.571,0.115,0.077,0.115,0.0,0.577,0.81,26,39,12,21,9,CHA
+22024,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.342,64,0.073,1.087,0.45,0.065,0.065,0.065,0.0,0.457,0.538,46,50,18,40,22,CHA
+22024,1630182,Josh Green,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.284,68,0.084,1.123,0.435,0.123,0.088,0.105,0.018,0.456,0.543,57,64,20,46,26,CHA

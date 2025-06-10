@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,201145,Jeff Green,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,DEN
+42021,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.111,0.143,0.0,0.29,0.43,0.29,0.0,0.14,0.0,1.4,0.0,0.0,0.4,0.4,DEN
+42021,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.033,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.2,0.0,0.0,0.0,0.0,DEN
+42021,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.167,0.286,0.0,0.14,0.43,0.14,0.0,0.14,0.0,1.4,0.0,0.0,0.6,0.6,DEN
+42021,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,2,0.333,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.5,2.0,0.5,0.5,0.0,DEN
+42021,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,4,0.2,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,DEN
+42021,203115,Will Barton,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.158,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,1.2,1.0,0.4,1.2,0.8,DEN
+42021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,5,0.155,1.111,0.38,0.11,0.0,0.0,0.0,0.44,0.5,1.8,2.0,0.6,1.6,1.0,DEN

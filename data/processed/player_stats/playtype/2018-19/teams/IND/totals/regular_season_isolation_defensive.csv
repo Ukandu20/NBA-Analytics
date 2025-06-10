@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.744,50,0.076,0.778,0.27,0.33,0.17,0.33,0.11,0.33,0.27,18,14,3,11,8,IND
+22018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.922,69,0.052,0.625,0.26,0.12,0.12,0.12,0.04,0.29,0.26,24,15,5,19,14,IND
+22018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.621,23,0.094,0.826,0.33,0.13,0.17,0.13,0.09,0.3,0.42,23,19,6,18,12,IND
+22018,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.038,36,0.05,1.286,0.56,0.19,0.05,0.14,0.0,0.62,0.62,21,27,9,16,7,IND
+22018,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.906,82,0.063,0.647,0.29,0.14,0.04,0.12,0.0,0.35,0.29,51,33,12,42,30,IND
+22018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.913,74,0.075,0.632,0.29,0.09,0.07,0.09,0.02,0.3,0.3,57,36,14,49,35,IND
+22018,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.397,77,0.101,0.929,0.38,0.05,0.02,0.05,0.0,0.4,0.46,42,39,15,39,24,IND
+22018,201954,Darren Collison,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.45,76,0.061,0.907,0.44,0.02,0.07,0.0,0.0,0.42,0.47,43,39,17,39,22,IND
+22018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.579,74,0.077,0.842,0.42,0.09,0.13,0.09,0.0,0.42,0.43,76,64,25,59,34,IND
+22018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.297,81,0.114,0.988,0.4,0.16,0.05,0.15,0.02,0.47,0.46,86,85,28,70,42,IND

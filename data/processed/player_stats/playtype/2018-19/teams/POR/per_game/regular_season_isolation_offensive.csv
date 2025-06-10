@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.536,80,0.137,0.865,0.326,0.147,0.056,0.11,0.023,0.391,0.372,3.3,2.9,0.9,2.7,1.8,POR
+22018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.709,70,0.113,0.957,0.434,0.087,0.043,0.07,0.019,0.453,0.458,2.3,2.2,0.9,2.0,1.2,POR
+22018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.817,73,0.082,1.02,0.537,0.082,0.102,0.08,0.02,0.51,0.537,0.7,0.7,0.3,0.6,0.3,POR
+22018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.827,81,0.034,1.04,0.474,0.2,0.12,0.2,0.08,0.48,0.474,0.3,0.3,0.1,0.2,0.1,POR
+22018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.83,27,0.096,1.042,0.435,0.042,0.0,0.04,0.0,0.458,0.5,0.9,0.9,0.4,0.9,0.5,POR
+22018,203552,Seth Curry,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.31,74,0.044,0.75,0.368,0.042,0.167,0.04,0.0,0.333,0.421,0.3,0.2,0.1,0.3,0.2,POR
+22018,203917,Nik Stauskas,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.938,44,0.049,1.143,0.5,0.071,0.071,0.07,0.0,0.5,0.583,0.3,0.4,0.1,0.3,0.1,POR
+22018,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.111,72,0.01,0.583,0.2,0.167,0.083,0.17,0.083,0.25,0.2,0.2,0.1,0.0,0.1,0.1,POR
+22018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.042,60,0.03,0.5,0.167,0.143,0.0,0.14,0.0,0.286,0.167,0.2,0.1,0.0,0.2,0.2,POR

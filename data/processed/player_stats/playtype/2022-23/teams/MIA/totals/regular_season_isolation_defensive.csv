@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Isolation,Defensive,0.969,55,0.083,0.571,0.269,0.11,0.17,0.11,0.03,0.29,0.288,35,20,7,26,19,MIA
+22022,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,Isolation,Defensive,0.827,54,0.087,0.765,0.409,0.15,0.26,0.15,0.06,0.35,0.432,34,26,9,22,13,MIA
+22022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Defensive,0.846,64,0.075,0.745,0.415,0.08,0.18,0.08,0.06,0.35,0.427,51,38,17,41,24,MIA
+22022,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Isolation,Defensive,0.01,42,0.156,1.429,0.579,0.36,0.14,0.36,0.18,0.57,0.684,28,40,11,19,8,MIA
+22022,203506,Victor Oladipo,1610612748,MIA,Miami Heat,Isolation,Defensive,0.097,42,0.09,1.184,0.5,0.16,0.08,0.16,0.03,0.53,0.583,38,45,15,30,15,MIA
+22022,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Isolation,Defensive,0.353,68,0.07,1.0,0.486,0.11,0.13,0.11,0.02,0.47,0.543,45,45,17,35,18,MIA
+22022,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Isolation,Defensive,0.671,71,0.101,0.867,0.482,0.13,0.22,0.13,0.02,0.42,0.5,83,72,27,56,29,MIA
+22022,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Defensive,0.441,67,0.109,0.961,0.446,0.12,0.08,0.11,0.05,0.45,0.469,76,73,29,65,36,MIA
+22022,1629622,Max Strus,1610612748,MIA,Miami Heat,Isolation,Defensive,0.463,80,0.123,0.955,0.403,0.17,0.1,0.16,0.05,0.43,0.448,88,84,27,67,40,MIA
+22022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Defensive,0.654,75,0.118,0.875,0.371,0.13,0.06,0.13,0.05,0.4,0.404,104,91,33,89,56,MIA

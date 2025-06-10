@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.82,51,0.074,0.714,0.44,0.07,0.286,0.07,0.0,0.286,0.56,0.3,0.2,0.1,0.2,0.1,OKC
+22018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.901,60,0.072,0.632,0.31,0.05,0.263,0.05,0.0,0.263,0.38,0.3,0.2,0.1,0.2,0.2,OKC
+22018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.032,79,0.008,1.364,0.5,0.09,0.0,0.09,0.0,0.545,0.65,0.1,0.2,0.1,0.1,0.1,OKC
+22018,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.595,31,0.116,0.864,0.5,0.14,0.273,0.14,0.05,0.409,0.54,0.7,0.6,0.2,0.5,0.2,OKC
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.743,76,0.061,0.78,0.41,0.03,0.186,0.0,0.0,0.356,0.47,0.8,0.6,0.3,0.6,0.4,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.539,79,0.062,0.889,0.42,0.07,0.13,0.07,0.04,0.389,0.47,0.7,0.6,0.2,0.6,0.3,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.351,78,0.072,1.0,0.47,0.05,0.086,0.03,0.02,0.448,0.52,0.7,0.7,0.3,0.7,0.3,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.566,73,0.116,0.878,0.41,0.07,0.146,0.07,0.0,0.39,0.48,1.1,1.0,0.4,0.9,0.5,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.725,72,0.117,0.796,0.38,0.06,0.194,0.03,0.0,0.344,0.46,1.3,1.0,0.4,1.0,0.6,OKC

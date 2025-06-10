@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.825,72,0.283,1.324,0.659,0.119,0.026,0.119,0.04,0.662,0.659,151,200,89,135,46,WAS
+22021,1626149,Montrezl Harrell,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.755,46,0.201,1.257,0.646,0.19,0.086,0.2,0.038,0.638,0.646,105,132,51,79,28,WAS
+22021,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.74,17,0.188,1.25,0.5,0.109,0.031,0.109,0.047,0.516,0.603,64,80,29,58,29,WAS
+22021,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.65,27,0.205,1.184,0.5,0.079,0.026,0.053,0.0,0.526,0.574,38,45,17,34,17,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.134,66,0.041,0.857,0.357,0.041,0.102,0.041,0.0,0.347,0.464,49,42,15,42,27,WAS
+22021,1630264,Anthony Gill,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.882,44,0.119,1.389,0.615,0.167,0.111,0.111,0.0,0.611,0.731,18,25,8,13,5,WAS
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.914,77,0.017,1.412,0.643,0.059,0.176,0.059,0.059,0.529,0.821,17,24,9,14,5,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.942,42,0.036,1.438,0.6,0.063,0.0,0.063,0.0,0.625,0.733,16,23,9,15,6,WAS
+22021,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.332,77,0.024,1.0,0.5,0.143,0.143,0.143,0.0,0.5,0.5,14,14,5,10,5,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.058,82,0.022,0.75,0.273,0.188,0.125,0.188,0.0,0.375,0.318,16,12,3,11,8,WAS

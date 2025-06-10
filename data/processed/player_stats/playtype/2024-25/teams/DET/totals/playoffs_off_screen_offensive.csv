@@ -1,0 +1,3 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.133,6,0.186,0.625,0.167,0.125,0.125,0.063,0.0,0.25,0.25,16,10,2,12,10,DET
+42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.333,6,0.133,0.818,0.3,0.091,0.091,0.091,0.091,0.273,0.4,11,9,3,10,7,DET

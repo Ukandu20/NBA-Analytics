@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.984,7,0.35,0.429,0.167,0.095,0.333,0.095,0.0,0.19,0.208,21,9,2,12,10,GSW
+42024,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.224,7,0.323,1.1,0.6,0.2,0.3,0.1,0.0,0.5,0.8,10,11,3,5,2,GSW
+42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.648,8,0.229,0.875,0.417,0.125,0.125,0.125,0.0,0.438,0.458,16,14,5,12,7,GSW
+42024,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.35,9,0.328,1.0,0.467,0.105,0.105,0.053,0.0,0.474,0.533,19,19,7,15,8,GSW
+42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.889,12,0.279,0.71,0.471,0.065,0.387,0.065,0.0,0.323,0.529,31,22,8,17,9,GSW
+42024,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.238,9,0.458,1.091,0.5,0.227,0.091,0.182,0.045,0.545,0.563,22,24,8,16,8,GSW
+42024,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.08,12,0.308,1.3,0.563,0.2,0.05,0.2,0.05,0.6,0.688,20,26,9,16,7,GSW
+42024,1627741,Buddy Hield,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.913,12,0.331,0.651,0.37,0.07,0.302,0.047,0.0,0.302,0.444,43,28,10,27,17,GSW
+42024,1642366,Quinten Post,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.119,10,0.509,1.207,0.524,0.207,0.103,0.207,0.034,0.552,0.619,29,35,11,21,10,GSW
+42024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.778,12,0.376,0.787,0.378,0.064,0.149,0.064,0.0,0.362,0.419,47,37,14,37,23,GSW
+42024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.206,11,0.315,1.114,0.464,0.114,0.086,0.029,0.0,0.486,0.589,35,39,13,28,15,GSW

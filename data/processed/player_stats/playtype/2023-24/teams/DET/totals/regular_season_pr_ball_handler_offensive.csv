@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.609,62,0.453,0.899,0.468,0.095,0.168,0.089,0.016,0.429,0.491,672,604,237,506,269,DET
+22023,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.632,71,0.486,0.908,0.438,0.062,0.157,0.046,0.01,0.395,0.51,306,278,106,242,136,DET
+22023,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.443,77,0.246,0.83,0.415,0.129,0.196,0.126,0.032,0.385,0.458,317,263,93,224,131,DET
+22023,1630201,Malachi Flynn,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.801,24,0.543,0.973,0.466,0.115,0.124,0.088,0.018,0.46,0.534,113,110,41,88,47,DET
+22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.866,28,0.197,1.0,0.52,0.086,0.21,0.076,0.01,0.448,0.593,105,105,39,75,36,DET
+22023,202692,Alec Burks,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.733,43,0.218,0.944,0.337,0.15,0.084,0.15,0.009,0.402,0.41,107,101,28,83,55,DET
+22023,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.166,42,0.361,0.654,0.375,0.079,0.189,0.055,0.024,0.323,0.385,127,83,36,96,60,DET
+22023,203095,Evan Fournier,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.599,29,0.235,0.891,0.439,0.109,0.164,0.109,0.018,0.418,0.463,55,49,18,41,23,DET
+22023,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.866,63,0.047,1.0,0.619,0.103,0.207,0.103,0.034,0.483,0.643,29,29,13,21,8,DET
+22023,1628420,Monté Morris,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.59,6,0.472,0.882,0.412,0.0,0.0,0.0,0.0,0.412,0.441,17,15,7,17,10,DET
+22023,1628972,Troy Brown Jr.,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.243,22,0.087,0.727,0.4,0.0,0.091,0.0,0.0,0.364,0.4,11,8,4,10,6,DET
+22023,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.127,16,0.06,0.615,0.308,0.0,0.0,0.0,0.0,0.308,0.308,13,8,4,13,9,DET
+22023,1629656,Quentin Grimes,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.003,6,0.241,0.154,0.0,0.077,0.231,0.077,0.0,0.077,0.0,13,2,0,9,9,DET

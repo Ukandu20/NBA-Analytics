@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641763,Julian Phillips,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.921,75,0.043,0.588,0.2,0.176,0.235,0.176,0.0,0.294,0.25,0.2,0.1,0.0,0.1,0.1,CHI
+22024,1630188,Jalen Smith,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.474,54,0.023,1.0,0.5,0.1,0.2,0.1,0.1,0.4,0.625,0.2,0.2,0.1,0.1,0.1,CHI
+22024,1628366,Lonzo Ball,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.142,35,0.041,1.25,0.417,0.083,0.0,0.083,0.083,0.417,0.583,0.3,0.4,0.1,0.3,0.2,CHI
+22024,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.474,71,0.013,1.0,0.538,0.0,0.188,0.0,0.0,0.438,0.615,0.2,0.2,0.1,0.2,0.1,CHI
+22024,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.474,70,0.052,1.0,0.368,0.095,0.0,0.095,0.0,0.429,0.447,0.3,0.3,0.1,0.3,0.2,CHI
+22024,1628989,Kevin Huerter,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.404,26,0.079,1.045,0.421,0.045,0.091,0.045,0.0,0.409,0.553,0.8,0.9,0.3,0.7,0.4,CHI
+22024,1629659,Talen Horton-Tucker,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.154,50,0.076,1.238,0.556,0.0,0.143,0.0,0.0,0.476,0.722,0.4,0.5,0.2,0.4,0.2,CHI
+22024,1641824,Matas Buzelis,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.299,77,0.049,1.111,0.435,0.111,0.037,0.111,0.0,0.481,0.543,0.4,0.4,0.1,0.3,0.2,CHI
+22024,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.474,42,0.066,1.0,0.367,0.088,0.029,0.088,0.0,0.412,0.467,0.8,0.8,0.3,0.7,0.5,CHI
+22024,1630581,Josh Giddey,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.428,69,0.042,1.03,0.44,0.091,0.152,0.091,0.0,0.424,0.54,0.5,0.5,0.2,0.4,0.2,CHI
+22024,1629632,Coby White,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.538,74,0.049,0.973,0.412,0.027,0.054,0.027,0.0,0.405,0.515,0.5,0.5,0.2,0.5,0.3,CHI
+22024,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.062,46,0.068,1.353,0.533,0.118,0.059,0.118,0.059,0.529,0.667,0.7,1.0,0.3,0.7,0.3,CHI
+22024,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.373,61,0.076,1.068,0.415,0.023,0.045,0.023,0.0,0.409,0.549,0.7,0.8,0.3,0.7,0.4,CHI

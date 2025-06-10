@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.458,64,0.372,0.821,0.446,0.058,0.195,0.042,0.018,0.38,0.48,498,409,170,381,211,DET
+22021,202709,Cory Joseph,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.381,65,0.317,0.796,0.421,0.096,0.204,0.066,0.024,0.377,0.45,167,133,51,121,70,DET
+22021,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.277,66,0.284,0.737,0.427,0.064,0.228,0.058,0.018,0.357,0.444,171,126,53,124,71,DET
+22021,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.518,82,0.109,0.844,0.382,0.116,0.15,0.109,0.014,0.388,0.432,147,124,42,110,68,DET
+22021,203924,Jerami Grant,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.238,47,0.103,0.707,0.362,0.098,0.185,0.098,0.033,0.337,0.37,92,65,25,69,44,DET
+22021,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.414,58,0.114,0.808,0.448,0.082,0.137,0.096,0.027,0.397,0.457,73,59,26,58,32,DET
+22021,1630240,Saben Lee,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.196,37,0.313,0.675,0.298,0.156,0.234,0.117,0.0,0.338,0.34,77,52,14,47,33,DET
+22021,1628402,Frank Jackson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.2,53,0.105,0.678,0.314,0.034,0.102,0.034,0.0,0.305,0.363,59,40,16,51,35,DET
+22021,1628367,Josh Jackson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.461,39,0.109,0.824,0.5,0.029,0.265,0.029,0.0,0.382,0.542,34,28,12,24,12,DET
+22021,1626168,Trey Lyles,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.955,51,0.024,1.167,0.8,0.333,0.333,0.333,0.083,0.583,0.8,12,14,4,5,1,DET
+22021,1629035,Carsen Edwards,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.307,4,0.486,0.765,0.357,0.0,0.176,0.0,0.0,0.294,0.464,17,13,5,14,9,DET
+22021,203482,Kelly Olynyk,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.089,40,0.044,0.529,0.273,0.059,0.294,0.059,0.0,0.235,0.318,17,9,3,11,8,DET
+22021,1628476,Derrick Walton Jr.,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.018,3,0.538,0.286,0.167,0.048,0.381,0.048,0.0,0.143,0.167,21,6,2,12,10,DET
+22021,203585,Rodney McGruder,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.03,51,0.042,0.364,0.182,0.0,0.0,0.0,0.0,0.182,0.182,11,4,2,11,9,DET
+22021,1629620,Justin Robinson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.009,5,0.361,0.154,0.125,0.077,0.308,0.077,0.0,0.077,0.125,13,2,1,8,7,DET

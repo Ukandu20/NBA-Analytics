@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Cut,Offensive,0.974,18,0.066,1.708,0.818,0.167,0.0,0.167,0.083,0.833,0.818,24,41,18,22,4,NYK
+42024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Cut,Offensive,0.105,18,0.152,1.0,0.48,0.156,0.063,0.156,0.0,0.531,0.48,32,32,12,25,13,NYK
+42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Cut,Offensive,0.526,18,0.058,1.222,0.647,0.0,0.056,0.0,0.0,0.611,0.647,18,22,11,17,6,NYK
+42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Cut,Offensive,0.632,18,0.05,1.333,0.714,0.067,0.0,0.067,0.0,0.667,0.714,15,20,10,14,4,NYK
+42024,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Cut,Offensive,0.368,18,0.121,1.182,0.625,0.364,0.0,0.364,0.091,0.727,0.625,11,13,5,8,3,NYK

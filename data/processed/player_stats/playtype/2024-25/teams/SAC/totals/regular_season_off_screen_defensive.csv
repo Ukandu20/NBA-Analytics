@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,1.0,68,0.01,0.0,0.0,0.182,0.182,0.182,0.0,0.0,0.0,11,0,0,7,7,SAC
+22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.749,32,0.058,0.8,0.333,0.0,0.1,0.0,0.0,0.3,0.444,20,16,6,18,12,SAC
+22024,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.474,66,0.033,1.0,0.375,0.0,0.0,0.0,0.0,0.375,0.5,16,16,6,16,10,SAC
+22024,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.7,43,0.064,0.818,0.35,0.045,0.045,0.045,0.0,0.364,0.425,22,18,7,20,13,SAC
+22024,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.772,45,0.041,0.769,0.292,0.038,0.038,0.038,0.0,0.308,0.375,26,20,7,24,17,SAC
+22024,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.534,64,0.064,0.974,0.4,0.077,0.077,0.077,0.051,0.385,0.486,39,38,14,35,21,SAC
+22024,201942,DeMar DeRozan,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.079,77,0.047,1.324,0.533,0.088,0.029,0.088,0.0,0.559,0.7,34,45,16,30,14,SAC
+22024,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.295,78,0.062,1.115,0.489,0.038,0.096,0.019,0.0,0.462,0.611,52,58,22,45,23,SAC
+22024,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.075,76,0.062,1.328,0.509,0.082,0.066,0.066,0.016,0.508,0.679,61,81,27,53,26,SAC

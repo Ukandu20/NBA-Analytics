@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.675,6,0.324,1.545,0.727,0.091,0.0,0.091,0.091,0.727,0.727,1.8,2.8,1.3,1.8,0.5,NOP
+42021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.25,6,0.132,1.25,0.583,0.083,0.0,0.083,0.083,0.583,0.583,2.0,2.5,1.2,2.0,0.8,NOP
+42021,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,6,0.18,1.111,0.625,0.0,0.111,0.0,0.0,0.556,0.625,1.5,1.7,0.8,1.3,0.5,NOP
+42021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,6,0.031,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,0.8,1.3,0.7,0.8,0.2,NOP
+42021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,6,0.081,1.0,0.333,0.4,0.0,0.4,0.0,0.6,0.333,0.8,0.8,0.2,0.5,0.3,NOP
+42021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,6,0.007,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.3,0.2,0.2,0.0,NOP
+42021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,6,0.133,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.3,0.3,0.0,0.2,0.2,NOP
+42021,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,1,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,NOP

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.503,77,0.083,0.919,0.398,0.113,0.094,0.094,0.006,0.425,0.465,160,147,51,128,77,UTA
+22018,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.654,82,0.121,0.984,0.51,0.055,0.173,0.031,0.016,0.433,0.58,127,125,51,100,49,UTA
+22018,2594,Kyle Korver,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.801,54,0.229,1.065,0.398,0.103,0.103,0.084,0.028,0.402,0.528,107,114,35,88,53,UTA
+22018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.479,68,0.125,0.904,0.446,0.112,0.112,0.104,0.032,0.44,0.475,125,113,45,101,56,UTA
+22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.399,80,0.069,0.866,0.311,0.045,0.06,0.03,0.015,0.313,0.451,67,58,19,61,42,UTA
+22018,202692,Alec Burks,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.547,17,0.118,0.941,0.417,0.176,0.118,0.176,0.0,0.471,0.5,17,16,5,12,7,UTA
+22018,1628960,Grayson Allen,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.15,38,0.097,0.652,0.278,0.13,0.13,0.13,0.043,0.304,0.306,23,15,5,18,13,UTA
+22018,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.07,82,0.047,0.55,0.333,0.0,0.25,0.0,0.0,0.25,0.367,20,11,5,15,10,UTA
+22018,203526,Raul Neto,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.189,37,0.062,0.692,0.571,0.077,0.462,0.077,0.077,0.308,0.571,13,9,4,7,3,UTA
+22018,203957,Danté Exum,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.007,42,0.051,0.294,0.143,0.0,0.176,0.0,0.0,0.118,0.179,17,5,2,14,12,UTA

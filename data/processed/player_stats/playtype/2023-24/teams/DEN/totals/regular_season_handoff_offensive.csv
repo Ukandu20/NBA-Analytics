@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.721,59,0.136,1.031,0.478,0.056,0.099,0.043,0.0,0.46,0.551,161,166,65,136,71,DEN
+22023,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.439,81,0.087,0.906,0.357,0.057,0.038,0.057,0.019,0.368,0.439,106,96,35,98,63,DEN
+22023,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.45,76,0.143,0.91,0.432,0.04,0.09,0.03,0.01,0.41,0.477,100,91,38,88,50,DEN
+22023,202704,Reggie Jackson,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.725,82,0.065,1.034,0.464,0.0,0.051,0.0,0.0,0.441,0.545,59,61,26,56,30,DEN
+22023,1631124,Julian Strawther,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.596,50,0.151,0.974,0.452,0.103,0.103,0.077,0.0,0.462,0.5,39,38,14,31,17,DEN
+22023,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.864,82,0.045,1.148,0.524,0.111,0.111,0.111,0.0,0.481,0.667,27,31,11,21,10,DEN
+22023,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Handoff,Offensive,1.0,79,0.006,1.909,0.727,0.0,0.0,0.0,0.0,0.727,0.955,11,21,8,11,3,DEN
+22023,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.294,73,0.021,0.8,0.333,0.05,0.05,0.05,0.0,0.35,0.389,20,16,6,18,12,DEN
+22023,203200,Justin Holiday,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.502,58,0.071,0.933,0.462,0.067,0.067,0.067,0.0,0.467,0.5,15,14,6,13,7,DEN
+22023,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.054,80,0.031,0.529,0.286,0.0,0.176,0.0,0.0,0.235,0.321,17,9,4,14,10,DEN

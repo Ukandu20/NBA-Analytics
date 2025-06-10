@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Postup,Offensive,0.25,6,0.157,0.769,0.385,0.0,0.0,0.0,0.0,0.385,0.385,13,10,5,13,8,DET

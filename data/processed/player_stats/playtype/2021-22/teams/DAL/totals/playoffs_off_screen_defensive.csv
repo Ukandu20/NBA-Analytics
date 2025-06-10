@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.0,16,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
+42021,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.0,18,0.05,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3,DAL
+42021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.0,12,0.11,1.25,0.67,0.25,0.25,0.25,0.25,0.5,0.67,4,5,2,3,1,DAL
+42021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.0,15,0.04,0.889,0.43,0.0,0.22,0.0,0.0,0.33,0.57,9,8,3,7,4,DAL
+42021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.818,18,0.06,0.727,0.27,0.0,0.0,0.0,0.0,0.27,0.36,11,8,3,11,8,DAL
+42021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.227,18,0.09,1.214,0.54,0.0,0.07,0.0,0.0,0.5,0.65,14,17,7,13,6,DAL
+42021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.182,18,0.1,1.24,0.55,0.12,0.04,0.08,0.04,0.56,0.59,25,31,12,22,10,DAL
+42021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.0,18,0.09,1.5,0.67,0.09,0.09,0.09,0.0,0.64,0.83,22,33,12,18,6,DAL

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.837,79,0.395,1.148,0.404,0.017,0.031,0.014,0.006,0.398,0.586,4.5,5.2,1.8,4.4,2.6,MIN
+22021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.762,74,0.2,1.105,0.455,0.114,0.089,0.102,0.028,0.458,0.575,4.4,4.9,1.6,3.6,2.0,MIN
+22021,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.495,70,0.419,0.982,0.397,0.022,0.076,0.022,0.015,0.371,0.522,3.9,3.9,1.4,3.6,2.2,MIN
+22021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.696,72,0.156,1.079,0.433,0.058,0.095,0.054,0.017,0.415,0.575,3.3,3.6,1.3,2.9,1.6,MIN
+22021,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.895,69,0.433,1.185,0.446,0.068,0.039,0.063,0.015,0.459,0.594,3.0,3.5,1.2,2.7,1.5,MIN
+22021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.519,65,0.184,0.996,0.361,0.026,0.026,0.026,0.009,0.362,0.502,3.5,3.5,1.2,3.4,2.2,MIN
+22021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.702,59,0.343,1.082,0.389,0.072,0.036,0.062,0.005,0.405,0.546,3.3,3.6,1.2,3.0,1.8,MIN
+22021,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.795,62,0.292,1.12,0.451,0.056,0.042,0.056,0.035,0.444,0.56,2.3,2.6,1.0,2.1,1.2,MIN
+22021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.326,77,0.215,0.903,0.356,0.037,0.082,0.03,0.0,0.343,0.487,1.7,1.6,0.5,1.5,1.0,MIN
+22021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.347,62,0.305,0.911,0.361,0.038,0.063,0.038,0.013,0.354,0.479,1.3,1.2,0.4,1.2,0.7,MIN
+22021,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.457,49,0.412,0.967,0.34,0.148,0.033,0.148,0.049,0.393,0.453,1.2,1.2,0.4,1.1,0.7,MIN
+22021,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.05,74,0.056,0.593,0.333,0.0,0.222,0.0,0.0,0.259,0.381,0.4,0.2,0.1,0.3,0.2,MIN

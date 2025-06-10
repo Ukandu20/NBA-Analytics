@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.524,7,0.433,0.923,0.4,0.154,0.154,0.154,0.077,0.385,0.45,1.9,1.7,0.6,1.4,0.9,BOS
+42024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.952,8,0.377,0.552,0.286,0.034,0.241,0.034,0.0,0.241,0.333,3.6,2.0,0.8,2.6,1.9,BOS
+42024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.905,10,0.482,0.675,0.364,0.075,0.125,0.05,0.025,0.325,0.379,4.0,2.7,1.2,3.3,2.1,BOS
+42024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.648,8,0.457,0.875,0.385,0.104,0.083,0.104,0.0,0.417,0.423,6.0,5.3,1.9,4.9,3.0,BOS
+42024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.73,11,0.409,0.815,0.409,0.056,0.13,0.056,0.0,0.389,0.455,4.9,4.0,1.6,4.0,2.4,BOS
+42024,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.825,11,0.378,0.763,0.347,0.085,0.085,0.068,0.0,0.373,0.378,5.4,4.1,1.5,4.5,2.9,BOS
+42024,201143,Al Horford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.881,11,0.409,0.723,0.316,0.062,0.062,0.031,0.0,0.323,0.36,5.9,4.3,1.6,5.2,3.5,BOS
+42024,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.722,10,0.642,0.82,0.418,0.0,0.098,0.0,0.0,0.377,0.455,6.1,5.0,2.3,5.5,3.2,BOS
+42024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.516,11,0.731,0.931,0.458,0.08,0.115,0.08,0.023,0.437,0.493,7.9,7.4,3.0,6.5,3.5,BOS

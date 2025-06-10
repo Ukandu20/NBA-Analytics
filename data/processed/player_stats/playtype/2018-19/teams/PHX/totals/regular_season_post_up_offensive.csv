@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.75,71,0.285,1.029,0.546,0.101,0.101,0.088,0.02,0.521,0.546,307,316,137,251,114,PHX
+22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.799,64,0.04,1.059,0.528,0.176,0.074,0.132,0.029,0.544,0.528,68,72,28,53,25,PHX
+22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.677,70,0.059,1.0,0.5,0.31,0.172,0.207,0.103,0.483,0.5,29,29,9,18,9,PHX
+22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.488,79,0.012,0.923,0.5,0.0,0.077,0.0,0.0,0.462,0.5,13,12,6,12,6,PHX
+22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.139,46,0.051,0.692,0.429,0.231,0.308,0.154,0.077,0.385,0.429,13,9,3,7,4,PHX
+22018,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.054,43,0.024,0.529,0.308,0.059,0.176,0.059,0.0,0.294,0.308,17,9,4,13,9,PHX

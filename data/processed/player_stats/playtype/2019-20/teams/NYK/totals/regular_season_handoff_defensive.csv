@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201961,Wayne Ellington,1610612752,NYK,New York Knicks,Handoff,Defensive,0.977,36,0.116,0.421,0.071,0.16,0.105,0.16,0.0,0.211,0.071,19,8,1,14,13,NYK
+22019,203090,Maurice Harkless,1610612752,NYK,New York Knicks,Handoff,Defensive,0.487,12,0.119,0.917,0.25,0.25,0.083,0.25,0.0,0.417,0.313,12,11,2,8,6,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,Handoff,Defensive,0.788,66,0.028,0.75,0.286,0.12,0.063,0.12,0.06,0.313,0.321,16,12,4,14,10,NYK
+22019,1628372,Dennis Smith Jr.,1610612752,NYK,New York Knicks,Handoff,Defensive,0.244,34,0.072,1.071,0.5,0.0,0.143,0.0,0.0,0.429,0.625,14,15,6,12,6,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,Handoff,Defensive,0.788,43,0.063,0.75,0.286,0.04,0.083,0.04,0.0,0.292,0.381,24,18,6,21,15,NYK
+22019,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.91,48,0.108,0.621,0.269,0.07,0.069,0.07,0.03,0.276,0.308,29,18,7,26,19,NYK
+22019,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,Handoff,Defensive,0.735,29,0.12,0.778,0.333,0.19,0.148,0.19,0.0,0.37,0.389,27,21,6,18,12,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,Handoff,Defensive,0.058,64,0.026,1.278,0.643,0.06,0.167,0.06,0.0,0.556,0.786,18,23,9,14,5,NYK
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Handoff,Defensive,0.774,65,0.121,0.756,0.306,0.09,0.133,0.09,0.02,0.311,0.375,45,34,11,36,25,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Handoff,Defensive,0.644,45,0.081,0.844,0.395,0.04,0.111,0.02,0.0,0.378,0.461,45,38,15,38,23,NYK
+22019,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Handoff,Defensive,0.381,57,0.097,0.977,0.515,0.09,0.182,0.07,0.02,0.455,0.561,44,43,17,33,16,NYK
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Handoff,Defensive,0.443,56,0.098,0.933,0.478,0.03,0.217,0.03,0.02,0.383,0.576,60,56,22,46,24,NYK

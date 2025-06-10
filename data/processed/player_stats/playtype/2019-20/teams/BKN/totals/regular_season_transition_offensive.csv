@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.357,64,0.139,1.052,0.456,0.167,0.104,0.167,0.036,0.469,0.527,192,202,67,147,80,BKN
+22019,1627752,Taurean Prince,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.226,64,0.186,0.982,0.465,0.083,0.161,0.071,0.012,0.429,0.554,168,165,60,129,69,BKN
+22019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.842,69,0.129,1.294,0.592,0.042,0.101,0.034,0.017,0.529,0.728,119,154,61,103,42,BKN
+22019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.848,62,0.16,1.303,0.557,0.138,0.073,0.147,0.028,0.56,0.67,109,142,49,88,39,BKN
+22019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.557,45,0.133,1.137,0.596,0.121,0.161,0.105,0.048,0.508,0.691,124,141,56,94,38,BKN
+22019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.812,48,0.219,1.267,0.554,0.187,0.08,0.16,0.013,0.573,0.652,75,95,31,56,25,BKN
+22019,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.283,20,0.154,1.013,0.492,0.114,0.127,0.089,0.013,0.481,0.541,79,80,30,61,31,BKN
+22019,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.919,70,0.077,1.392,0.703,0.255,0.078,0.196,0.059,0.686,0.703,51,71,26,37,11,BKN
+22019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.301,40,0.174,1.024,0.455,0.171,0.049,0.122,0.024,0.512,0.485,41,42,15,33,18,BKN
+22019,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.412,47,0.154,1.081,0.517,0.027,0.189,0.027,0.0,0.432,0.672,37,40,15,29,14,BKN
+22019,1628021,David Nwaba,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.689,20,0.323,1.2,0.632,0.3,0.1,0.3,0.033,0.633,0.658,30,36,12,19,7,BKN
+22019,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.803,33,0.138,1.259,0.6,0.185,0.185,0.185,0.111,0.519,0.675,27,34,12,20,8,BKN
+22019,201163,Wilson Chandler,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.573,35,0.123,1.143,0.5,0.071,0.107,0.036,0.036,0.464,0.625,28,32,12,24,12,BKN
+22019,201599,DeAndre Jordan,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.77,56,0.06,1.24,0.765,0.16,0.16,0.16,0.0,0.68,0.765,25,31,13,17,4,BKN
+22019,1629185,Chris Chiozza,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.199,18,0.185,0.958,0.5,0.042,0.208,0.042,0.0,0.417,0.583,24,23,9,18,9,BKN
+22019,204020,Tyler Johnson,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.889,8,0.151,1.357,0.556,0.214,0.143,0.214,0.0,0.571,0.722,14,19,5,9,4,BKN
+22019,202697,Iman Shumpert,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.973,13,0.154,1.5,0.583,0.0,0.0,0.0,0.0,0.583,0.75,12,18,7,12,5,BKN
+22019,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.689,15,0.152,1.2,0.714,0.1,0.2,0.1,0.0,0.6,0.786,10,12,5,7,2,BKN

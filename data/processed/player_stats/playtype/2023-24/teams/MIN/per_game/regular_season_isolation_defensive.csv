@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.986,42,0.062,0.5,0.25,0.083,0.25,0.083,0.0,0.25,0.25,0.3,0.1,0.0,0.2,0.1,MIN
+22023,1628420,Monté Morris,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.946,27,0.079,0.636,0.333,0.0,0.182,0.0,0.0,0.273,0.389,0.4,0.3,0.1,0.3,0.2,MIN
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.994,79,0.045,0.432,0.1,0.189,0.27,0.108,0.0,0.243,0.1,0.5,0.2,0.0,0.3,0.2,MIN
+22023,1628972,Troy Brown Jr.,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.071,30,0.091,1.25,0.571,0.188,0.063,0.188,0.125,0.563,0.571,0.5,0.7,0.3,0.5,0.2,MIN
+22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.898,78,0.099,0.703,0.333,0.094,0.125,0.063,0.016,0.344,0.363,0.8,0.6,0.2,0.7,0.4,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.516,72,0.062,0.932,0.383,0.169,0.085,0.136,0.051,0.424,0.394,0.8,0.8,0.3,0.7,0.4,MIN
+22023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.35,81,0.083,1.0,0.5,0.177,0.161,0.145,0.048,0.484,0.523,0.8,0.8,0.3,0.5,0.3,MIN
+22023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.87,75,0.071,0.728,0.359,0.065,0.087,0.043,0.0,0.359,0.378,1.2,0.9,0.4,1.0,0.7,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.405,81,0.113,0.987,0.424,0.187,0.053,0.173,0.027,0.48,0.475,0.9,0.9,0.3,0.7,0.4,MIN
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.238,61,0.112,1.078,0.433,0.233,0.067,0.233,0.044,0.5,0.507,1.5,1.6,0.5,1.1,0.6,MIN

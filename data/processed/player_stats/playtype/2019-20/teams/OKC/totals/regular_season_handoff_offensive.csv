@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.735,65,0.069,1.024,0.551,0.059,0.141,0.035,0.012,0.494,0.58,85,87,38,69,31,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.794,62,0.042,1.07,0.464,0.163,0.163,0.163,0.0,0.465,0.554,43,46,13,28,15,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.293,70,0.044,0.793,0.392,0.103,0.069,0.086,0.052,0.397,0.402,58,46,20,51,31,OKC
+22019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.387,56,0.077,0.85,0.353,0.05,0.1,0.05,0.0,0.35,0.441,20,17,6,17,11,OKC
+22019,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.247,55,0.07,0.739,0.4,0.0,0.13,0.0,0.0,0.348,0.425,23,17,8,20,12,OKC
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.23,70,0.019,0.727,0.429,0.091,0.273,0.045,0.0,0.364,0.429,22,16,6,14,8,OKC
+22019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.016,61,0.043,0.412,0.182,0.118,0.235,0.118,0.0,0.176,0.273,17,7,2,11,9,OKC
+22019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.078,46,0.029,0.545,0.6,0.091,0.455,0.091,0.0,0.273,0.6,11,6,3,5,2,OKC

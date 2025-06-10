@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.608,11,0.18,1.109,0.468,0.073,0.073,0.073,0.0,0.473,0.564,55,61,22,47,25,PHX
+42022,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.784,11,0.143,1.279,0.575,0.047,0.07,0.047,0.047,0.535,0.675,43,55,23,40,17,PHX
+42022,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.912,11,0.423,1.455,0.5,0.0,0.0,0.0,0.0,0.5,0.727,22,32,11,22,11,PHX
+42022,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.736,10,0.5,1.192,0.458,0.0,0.077,0.0,0.0,0.423,0.646,26,31,11,24,13,PHX
+42022,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.248,7,0.28,0.821,0.333,0.0,0.036,0.0,0.0,0.321,0.426,28,23,9,27,18,PHX
+42022,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.264,7,0.448,0.846,0.364,0.0,0.154,0.0,0.0,0.308,0.5,26,22,8,22,14,PHX
+42022,203082,Terrence Ross,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.12,6,0.786,0.682,0.238,0.0,0.045,0.0,0.0,0.227,0.357,22,15,5,21,16,PHX
+42022,1627814,Damion Lee,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.256,8,0.545,0.833,0.273,0.083,0.0,0.083,0.0,0.333,0.364,12,10,3,11,8,PHX
+42022,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.089,6,0.636,0.571,0.231,0.071,0.0,0.071,0.0,0.286,0.269,14,8,3,13,10,PHX
+42022,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.032,10,0.304,0.429,0.143,0.0,0.0,0.0,0.0,0.143,0.214,14,6,2,14,12,PHX
+42022,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,10,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42022,1629111,Jock Landale,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,7,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42022,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,PHX

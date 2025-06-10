@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.697,73,0.113,1.009,0.432,0.168,0.065,0.15,0.056,0.458,0.48,2.9,3.0,1.0,2.4,1.4,SAC
+22023,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.172,71,0.077,0.674,0.296,0.093,0.116,0.093,0.035,0.291,0.331,1.2,0.8,0.3,1.0,0.7,SAC
+22023,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.44,81,0.035,0.885,0.528,0.173,0.173,0.135,0.038,0.462,0.528,0.6,0.6,0.2,0.4,0.2,SAC
+22023,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.381,81,0.034,0.862,0.455,0.138,0.103,0.138,0.0,0.483,0.455,0.4,0.3,0.1,0.3,0.1,SAC
+22023,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.914,76,0.017,1.167,0.533,0.111,0.111,0.111,0.056,0.5,0.567,0.2,0.3,0.1,0.2,0.1,SAC
+22023,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.194,72,0.052,0.7,0.353,0.05,0.1,0.05,0.0,0.35,0.353,0.3,0.2,0.1,0.2,0.2,SAC
+22023,1630537,Chris Duarte,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.938,59,0.04,1.2,0.571,0.1,0.2,0.1,0.0,0.4,0.857,0.2,0.2,0.1,0.1,0.1,SAC

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Handoff,Defensive,0.27,69,0.011,1.071,0.385,0.143,0.0,0.143,0.071,0.429,0.462,14,15,5,13,8,NYK
+22024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,Handoff,Defensive,0.846,47,0.078,0.708,0.4,0.0,0.167,0.0,0.0,0.333,0.425,24,17,8,20,12,NYK
+22024,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Handoff,Defensive,0.003,53,0.024,1.75,0.778,0.167,0.167,0.167,0.083,0.667,1.0,12,21,7,9,2,NYK
+22024,1626166,Cameron Payne,1610612752,NYK,New York Knicks,Handoff,Defensive,0.631,66,0.091,0.862,0.32,0.069,0.069,0.069,0.0,0.345,0.44,29,25,8,25,17,NYK
+22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.778,64,0.052,0.765,0.323,0.029,0.059,0.0,0.0,0.324,0.387,34,26,10,31,21,NYK
+22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,Handoff,Defensive,0.869,63,0.081,0.694,0.302,0.061,0.061,0.061,0.0,0.327,0.326,49,34,13,43,30,NYK
+22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Handoff,Defensive,0.947,74,0.084,0.6,0.265,0.05,0.113,0.05,0.013,0.263,0.301,80,48,18,68,50,NYK
+22024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Handoff,Defensive,0.454,77,0.07,0.937,0.407,0.063,0.111,0.063,0.032,0.381,0.491,63,59,22,54,32,NYK
+22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Handoff,Defensive,0.337,80,0.116,1.0,0.456,0.099,0.084,0.092,0.053,0.443,0.5,131,131,52,114,62,NYK

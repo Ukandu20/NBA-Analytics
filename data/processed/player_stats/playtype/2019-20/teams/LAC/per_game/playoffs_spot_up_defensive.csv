@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Spotup,Defensive,0.0,3,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,LAC
+42019,202335,Patrick Patterson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.0,2,0.33,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.5,0.0,0.0,0.0,0.0,LAC
+42019,1629611,Terance Mann,1610612746,LAC,LA Clippers,Spotup,Defensive,0.0,13,0.33,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.4,0.0,0.1,0.4,0.3,LAC
+42019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Spotup,Defensive,0.0,8,0.16,1.0,0.5,0.12,0.38,0.12,0.0,0.38,0.75,1.0,1.0,0.3,0.5,0.3,LAC
+42019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Spotup,Defensive,0.775,13,0.09,0.933,0.31,0.07,0.07,0.07,0.0,0.33,0.46,1.2,1.0,0.3,1.0,0.7,LAC
+42019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.092,12,0.18,1.455,0.55,0.0,0.0,0.0,0.0,0.55,0.73,0.9,1.0,0.5,0.9,0.4,LAC
+42019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Spotup,Defensive,0.192,13,0.26,1.316,0.56,0.05,0.05,0.05,0.05,0.53,0.69,1.5,2.0,0.8,1.4,0.6,LAC
+42019,203210,JaMychal Green,1610612746,LAC,LA Clippers,Spotup,Defensive,0.85,13,0.39,0.844,0.35,0.03,0.16,0.03,0.0,0.31,0.46,2.5,2.0,0.7,2.0,1.3,LAC
+42019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Spotup,Defensive,0.783,13,0.28,0.923,0.35,0.03,0.05,0.03,0.03,0.33,0.49,3.0,3.0,1.0,2.8,1.8,LAC
+42019,101150,Lou Williams,1610612746,LAC,LA Clippers,Spotup,Defensive,0.546,13,0.33,1.077,0.43,0.05,0.0,0.05,0.0,0.46,0.54,3.0,3.0,1.2,2.8,1.6,LAC
+42019,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Defensive,0.679,13,0.27,1.0,0.36,0.04,0.07,0.04,0.02,0.35,0.5,3.5,4.0,1.2,3.2,2.1,LAC
+42019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Spotup,Defensive,0.733,13,0.36,0.967,0.39,0.05,0.1,0.05,0.0,0.38,0.52,4.6,4.0,1.5,3.9,2.4,LAC
+42019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Spotup,Defensive,0.375,13,0.22,1.173,0.42,0.08,0.04,0.08,0.04,0.42,0.57,4.0,5.0,1.5,3.7,2.2,LAC

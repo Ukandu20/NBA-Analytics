@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.677,55,0.154,1.0,0.438,0.156,0.125,0.138,0.038,0.45,0.488,160,160,53,121,68,UTA
+22023,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.414,78,0.111,0.874,0.375,0.185,0.106,0.146,0.033,0.424,0.402,151,132,42,112,70,UTA
+22023,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.742,55,0.048,1.038,0.395,0.17,0.038,0.132,0.019,0.472,0.453,53,55,17,43,26,UTA
+22023,1641718,Keyonte George,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.451,75,0.051,0.893,0.357,0.179,0.125,0.179,0.054,0.393,0.417,56,50,15,42,27,UTA
+22023,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.217,51,0.092,0.717,0.292,0.113,0.0,0.113,0.019,0.358,0.302,53,38,14,48,34,UTA
+22023,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.561,50,0.061,0.957,0.412,0.174,0.13,0.174,0.043,0.435,0.441,23,22,7,17,10,UTA
+22023,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.554,66,0.054,0.955,0.5,0.136,0.136,0.136,0.0,0.5,0.5,22,21,8,16,8,UTA
+22023,1641729,Brice Sensabaugh,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.115,32,0.046,0.615,0.364,0.0,0.154,0.0,0.0,0.308,0.364,13,8,4,11,7,UTA
+22023,1628381,John Collins,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.004,68,0.024,0.273,0.158,0.0,0.136,0.0,0.0,0.136,0.158,22,6,3,19,16,UTA

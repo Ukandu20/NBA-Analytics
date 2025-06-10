@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,200755,JJ Redick,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.806,60,0.26,1.104,0.439,0.055,0.05,0.04,0.0,0.443,0.556,3.4,3.7,1.3,3.0,1.7,NOP
+22019,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.329,62,0.066,0.862,0.325,0.096,0.096,0.096,0.011,0.351,0.422,1.5,1.3,0.4,1.2,0.8,NOP
+22019,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.207,56,0.166,0.78,0.38,0.049,0.11,0.049,0.024,0.354,0.415,1.5,1.1,0.5,1.3,0.8,NOP
+22019,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.529,65,0.061,0.95,0.343,0.075,0.05,0.075,0.0,0.375,0.457,0.6,0.6,0.2,0.5,0.4,NOP
+22019,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.491,63,0.032,0.931,0.391,0.0,0.172,0.034,0.0,0.31,0.587,0.5,0.4,0.1,0.4,0.2,NOP
+22019,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.081,61,0.03,0.605,0.258,0.053,0.132,0.053,0.0,0.263,0.306,0.6,0.4,0.1,0.5,0.4,NOP
+22019,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.213,59,0.068,0.786,0.333,0.107,0.143,0.107,0.0,0.357,0.405,0.5,0.4,0.1,0.4,0.2,NOP
+22019,1629740,Nicolo Melli,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.635,60,0.047,1.0,0.412,0.0,0.105,0.0,0.0,0.368,0.559,0.3,0.3,0.1,0.3,0.2,NOP
+22019,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.186,47,0.063,0.762,0.375,0.0,0.238,0.0,0.0,0.286,0.5,0.4,0.3,0.1,0.3,0.2,NOP

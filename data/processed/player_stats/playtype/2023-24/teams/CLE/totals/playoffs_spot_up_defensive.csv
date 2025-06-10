@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,1.0,11,0.196,0.4,0.15,0.0,0.0,0.0,0.0,0.15,0.2,20,8,3,20,17,CLE
+42023,202694,Marcus Morris Sr.,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.293,7,0.325,1.154,0.545,0.0,0.154,0.0,0.0,0.462,0.682,13,15,6,11,5,CLE
+42023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.778,11,0.278,0.778,0.333,0.0,0.111,0.0,0.0,0.296,0.438,27,21,8,24,16,CLE
+42023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.145,8,0.333,1.235,0.471,0.0,0.0,0.0,0.0,0.471,0.618,17,21,8,17,9,CLE
+42023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.701,12,0.236,0.838,0.303,0.027,0.081,0.027,0.0,0.297,0.455,37,31,10,33,23,CLE
+42023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.509,10,0.29,1.0,0.367,0.032,0.0,0.032,0.0,0.387,0.483,31,31,11,30,19,CLE
+42023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.754,12,0.281,0.8,0.327,0.0,0.109,0.0,0.0,0.291,0.449,55,44,16,49,33,CLE
+42023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Spotup,Defensive,0.726,12,0.276,0.804,0.292,0.089,0.071,0.089,0.018,0.321,0.396,56,45,14,48,34,CLE

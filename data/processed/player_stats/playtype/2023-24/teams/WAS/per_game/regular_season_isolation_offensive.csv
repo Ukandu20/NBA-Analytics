@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.262,70,0.104,0.753,0.319,0.096,0.066,0.096,0.012,0.355,0.362,2.4,1.8,0.6,2.0,1.4,WAS
+22023,1629673,Jordan Poole,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.512,78,0.078,0.929,0.404,0.124,0.133,0.124,0.044,0.398,0.472,1.4,1.3,0.5,1.1,0.7,WAS
+22023,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.529,75,0.076,0.939,0.369,0.207,0.049,0.183,0.049,0.439,0.4,1.1,1.0,0.3,0.9,0.5,WAS
+22023,1630215,Jared Butler,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.938,40,0.131,1.2,0.517,0.143,0.057,0.114,0.029,0.543,0.586,0.9,1.1,0.4,0.7,0.4,WAS
+22023,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Isolation,Offensive,1.0,80,0.015,1.5,0.7,0.214,0.143,0.143,0.071,0.643,0.9,0.2,0.3,0.1,0.1,0.0,WAS
+22023,1626145,Tyus Jones,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.775,66,0.026,1.053,0.471,0.053,0.105,0.053,0.053,0.421,0.559,0.3,0.3,0.1,0.3,0.1,WAS
+22023,1641731,Bilal Coulibaly,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.34,63,0.031,0.833,0.462,0.167,0.278,0.167,0.167,0.333,0.462,0.3,0.2,0.1,0.2,0.1,WAS
+22023,1626153,Delon Wright,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.816,33,0.089,1.077,0.4,0.231,0.077,0.231,0.077,0.462,0.45,0.4,0.4,0.1,0.3,0.2,WAS
+22023,201568,Danilo Gallinari,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.046,26,0.085,0.5,0.273,0.071,0.143,0.071,0.0,0.286,0.273,0.5,0.3,0.1,0.4,0.3,WAS
+22023,1628963,Marvin Bagley III,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.02,24,0.071,0.35,0.118,0.15,0.0,0.15,0.0,0.2,0.118,0.8,0.3,0.1,0.7,0.6,WAS

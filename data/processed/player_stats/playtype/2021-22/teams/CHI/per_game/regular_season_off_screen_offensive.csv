@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.583,67,0.067,1.0,0.382,0.079,0.059,0.089,0.03,0.386,0.5,2.0,1.5,0.5,1.3,0.8,CHI
+22021,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.507,76,0.047,0.967,0.45,0.098,0.065,0.076,0.033,0.457,0.469,1.0,1.2,0.5,1.1,0.6,CHI
+22021,1629632,Coby White,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.918,61,0.04,1.267,0.519,0.033,0.067,0.033,0.0,0.5,0.667,0.0,0.6,0.2,0.4,0.2,CHI
+22021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.261,73,0.013,0.824,0.5,0.0,0.176,0.0,0.0,0.412,0.5,0.0,0.2,0.1,0.2,0.1,CHI
+22021,1629744,Matt Thomas,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.274,40,0.08,0.833,0.273,0.083,0.0,0.083,0.0,0.333,0.318,0.0,0.3,0.1,0.3,0.2,CHI

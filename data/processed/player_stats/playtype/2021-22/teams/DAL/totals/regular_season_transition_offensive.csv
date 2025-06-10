@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.885,80,0.163,1.364,0.614,0.098,0.061,0.098,0.023,0.598,0.711,132,180,70,114,44,DAL
+22021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.439,79,0.113,1.088,0.536,0.102,0.131,0.088,0.036,0.489,0.595,137,149,59,110,51,DAL
+22021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.592,68,0.209,1.175,0.439,0.035,0.035,0.035,0.009,0.439,0.598,114,134,47,107,60,DAL
+22021,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.433,42,0.174,1.085,0.473,0.123,0.028,0.132,0.038,0.481,0.538,106,115,44,93,49,DAL
+22021,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.788,67,0.255,1.28,0.708,0.11,0.146,0.098,0.049,0.622,0.738,82,105,46,65,19,DAL
+22021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.138,65,0.061,0.888,0.507,0.121,0.284,0.121,0.034,0.397,0.568,116,103,37,73,36,DAL
+22021,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.705,35,0.104,1.227,0.519,0.152,0.076,0.152,0.045,0.53,0.62,66,81,28,54,26,DAL
+22021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.876,23,0.147,1.362,0.667,0.298,0.085,0.277,0.085,0.638,0.758,47,64,22,33,11,DAL
+22021,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.988,82,0.067,1.703,0.844,0.216,0.054,0.216,0.135,0.811,0.859,37,63,27,32,5,DAL
+22021,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.83,22,0.248,1.321,0.464,0.036,0.0,0.036,0.036,0.464,0.643,28,37,13,28,15,DAL
+22021,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.717,59,0.069,1.233,0.577,0.0,0.133,0.0,0.0,0.5,0.712,30,37,15,26,11,DAL
+22021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.064,58,0.178,0.787,0.325,0.085,0.085,0.064,0.021,0.34,0.375,47,37,13,40,27,DAL
+22021,1628425,Sterling Brown,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.088,49,0.227,0.833,0.351,0.048,0.095,0.024,0.024,0.333,0.432,42,35,13,37,24,DAL
+22021,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.258,42,0.131,1.0,0.519,0.03,0.152,0.03,0.0,0.455,0.593,33,33,14,27,13,DAL
+22021,1627737,Marquese Chriss,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.869,34,0.084,1.357,0.7,0.214,0.071,0.214,0.0,0.714,0.75,14,19,7,10,3,DAL

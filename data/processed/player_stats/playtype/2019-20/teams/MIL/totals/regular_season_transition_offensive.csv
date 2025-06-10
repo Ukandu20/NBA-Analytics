@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.552,63,0.267,1.136,0.609,0.276,0.13,0.257,0.08,0.57,0.63,463,526,190,312,122,MIL
+22019,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.296,61,0.3,1.021,0.495,0.148,0.145,0.141,0.049,0.47,0.549,283,289,106,214,108,MIL
+22019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.647,62,0.179,1.181,0.533,0.095,0.133,0.081,0.014,0.5,0.645,210,248,88,165,77,MIL
+22019,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.428,66,0.241,1.084,0.521,0.11,0.143,0.104,0.013,0.474,0.611,154,167,61,117,56,MIL
+22019,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.344,67,0.231,1.044,0.4,0.062,0.071,0.062,0.018,0.398,0.545,113,118,40,100,60,MIL
+22019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.158,68,0.13,0.924,0.32,0.067,0.019,0.067,0.01,0.352,0.438,105,97,31,97,66,MIL
+22019,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.638,59,0.158,1.173,0.556,0.067,0.093,0.04,0.0,0.533,0.627,75,88,35,63,28,MIL
+22019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.887,63,0.153,1.356,0.566,0.051,0.051,0.051,0.0,0.559,0.698,59,80,30,53,23,MIL
+22019,2594,Kyle Korver,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.258,58,0.149,1.0,0.375,0.019,0.075,0.019,0.0,0.358,0.531,53,53,18,48,30,MIL
+22019,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.136,67,0.153,0.911,0.447,0.089,0.143,0.089,0.071,0.393,0.5,56,51,21,47,26,MIL
+22019,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.027,52,0.236,0.608,0.31,0.041,0.189,0.041,0.014,0.257,0.362,74,45,18,58,40,MIL
+22019,201577,Robin Lopez,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.758,66,0.078,1.233,0.52,0.0,0.167,0.0,0.0,0.433,0.74,30,37,13,25,12,MIL
+22019,1628412,Frank Mason III,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.48,9,0.279,1.105,0.667,0.211,0.158,0.158,0.0,0.579,0.667,19,21,8,12,4,MIL

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203082,Terrence Ross,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.67,46,0.213,1.089,0.47,0.095,0.089,0.095,0.019,0.468,0.538,158,172,62,132,70,ORL
+22020,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.529,26,0.17,0.988,0.388,0.063,0.113,0.063,0.013,0.375,0.507,80,79,26,67,41,ORL
+22020,203914,Gary Harris,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.295,20,0.147,0.853,0.296,0.206,0.029,0.206,0.029,0.412,0.315,34,29,8,27,19,ORL
+22020,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.071,44,0.036,0.622,0.303,0.0,0.108,0.0,0.0,0.27,0.348,37,23,10,33,23,ORL
+22020,1628407,Dwayne Bacon,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.348,72,0.03,0.88,0.391,0.04,0.04,0.04,0.0,0.4,0.435,25,22,9,23,14,ORL
+22020,203516,James Ennis III,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.557,41,0.051,1.0,0.467,0.063,0.0,0.063,0.0,0.5,0.5,16,16,7,15,8,ORL
+22020,1626184,Chasson Randle,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.082,41,0.049,0.667,0.308,0.0,0.133,0.0,0.0,0.267,0.385,15,10,4,13,9,ORL
+22020,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.115,45,0.034,0.692,0.364,0.0,0.154,0.0,0.0,0.308,0.409,13,9,4,11,7,ORL
+22020,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.005,47,0.014,0.2,0.1,0.0,0.0,0.0,0.0,0.1,0.1,10,2,1,10,9,ORL

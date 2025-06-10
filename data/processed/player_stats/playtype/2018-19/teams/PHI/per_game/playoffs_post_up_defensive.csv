@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,7,0.083,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,PHI
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.02,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.3,0.0,0.0,0.0,0.0,PHI
+42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,10,0.016,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.0,0.0,0.0,PHI
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.042,0.5,0.0,0.25,0.25,0.25,0.0,0.25,0.0,0.3,0.0,0.0,0.0,0.0,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,11,0.023,1.25,0.5,0.5,0.0,0.5,0.0,0.75,0.5,0.4,0.0,0.0,0.0,0.0,PHI
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.88,12,0.079,0.5,0.43,0.0,0.42,0.0,0.0,0.25,0.43,1.0,0.0,1.0,1.0,0.0,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,11,0.077,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,0.5,1.0,0.0,0.0,0.0,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.148,12,0.155,1.059,0.53,0.0,0.0,0.0,0.0,0.53,0.53,1.4,2.0,0.0,1.0,1.0,PHI

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.658,56,0.248,1.187,0.627,0.206,0.103,0.206,0.065,0.598,0.637,214,254,101,161,60,POR
+22021,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.907,22,0.28,1.408,0.716,0.092,0.053,0.079,0.026,0.697,0.724,76,107,48,67,19,POR
+22021,203469,Cody Zeller,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.634,27,0.267,1.171,0.6,0.114,0.057,0.114,0.029,0.6,0.6,35,41,18,30,12,POR
+22021,1626204,Larry Nance Jr.,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.121,37,0.178,0.841,0.385,0.114,0.023,0.114,0.023,0.409,0.41,44,37,15,39,24,POR
+22021,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.171,48,0.096,0.882,0.375,0.088,0.0,0.088,0.029,0.412,0.406,34,30,12,32,20,POR
+22021,1629617,Reggie Perry,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.426,9,0.223,1.048,0.526,0.0,0.095,0.0,0.0,0.476,0.579,21,22,10,19,9,POR
+22021,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.113,48,0.061,0.84,0.35,0.0,0.2,0.0,0.0,0.28,0.525,25,21,7,20,13,POR
+22021,1630535,Greg Brown III,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.332,48,0.075,1.0,0.375,0.105,0.053,0.105,0.0,0.421,0.469,19,19,6,16,10,POR

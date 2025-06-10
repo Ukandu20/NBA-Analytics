@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.321,16,0.245,1.0,0.523,0.043,0.02,0.064,0.021,0.489,0.523,47,47,23,44,21,POR
+42018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.588,16,0.14,1.1,0.6,0.25,0.1,0.25,0.1,0.6,0.6,20,22,9,15,6,POR
+42018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.5,16,0.099,1.071,0.5,0.214,0.14,0.143,0.071,0.5,0.5,14,15,5,10,5,POR
+42018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,16,0.017,1.429,0.667,0.143,0.0,0.143,0.0,0.714,0.75,7,10,4,6,2,POR
+42018,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.321,16,0.088,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,POR
+42018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,16,0.009,1.5,1.0,0.0,0.25,0.0,0.0,0.75,1.0,4,6,3,3,0,POR
+42018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,16,0.022,1.333,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,4,1,2,1,POR
+42018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,16,0.076,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,POR
+42018,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.014,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,POR
+42018,203552,Seth Curry,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,16,0.021,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,POR

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.301,72,0.18,0.748,0.348,0.093,0.079,0.09,0.02,0.363,0.381,4.9,3.7,1.4,4.2,2.7,OKC
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.626,76,0.134,0.922,0.368,0.134,0.056,0.12,0.022,0.416,0.43,3.5,3.3,1.1,2.9,1.9,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.526,78,0.114,0.858,0.358,0.148,0.077,0.13,0.019,0.413,0.386,2.0,1.7,0.6,1.6,1.0,OKC
+22018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.997,34,0.077,1.667,0.75,0.0,0.0,0.0,0.0,0.75,0.833,0.4,0.6,0.3,0.4,0.1,OKC
+22018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.983,60,0.049,1.333,0.778,0.083,0.167,0.08,0.0,0.667,0.833,0.2,0.3,0.1,0.2,0.0,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.091,79,0.022,0.571,0.316,0.0,0.095,0.0,0.0,0.286,0.316,0.3,0.2,0.1,0.2,0.2,OKC

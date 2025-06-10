@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,203115,Will Barton,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.714,5,0.316,1.24,0.591,0.04,0.08,0.04,0.0,0.56,0.682,25,31,13,22,9,DEN
+42021,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.786,5,0.206,1.308,0.545,0.154,0.0,0.154,0.0,0.615,0.636,13,17,6,11,5,DEN
+42021,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,5,0.048,2.0,1.0,0.429,0.143,0.429,0.0,0.857,1.333,7,14,3,3,0,DEN
+42021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.131,5,0.162,0.833,0.333,0.417,0.167,0.417,0.083,0.5,0.417,12,10,2,6,4,DEN
+42021,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,5,0.143,0.714,0.286,0.0,0.0,0.0,0.0,0.286,0.357,7,5,2,7,5,DEN
+42021,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,5,0.136,1.333,1.0,0.0,0.333,0.0,0.0,0.667,1.0,3,4,2,2,0,DEN
+42021,202326,DeMarcus Cousins,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,5,0.023,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1,2,1,1,0,DEN
+42021,201145,Jeff Green,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.0,5,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DEN

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.698,70,0.104,1.04,0.513,0.1,0.13,0.09,0.02,0.485,0.557,2.9,3.0,1.2,2.3,1.1,DET
+22024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.74,82,0.119,1.063,0.405,0.09,0.063,0.09,0.028,0.41,0.552,1.8,1.9,0.6,1.5,0.9,DET
+22024,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.802,75,0.093,1.116,0.5,0.093,0.14,0.093,0.023,0.465,0.632,0.6,0.6,0.2,0.5,0.2,DET
+22024,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.766,30,0.079,1.091,0.559,0.114,0.159,0.091,0.045,0.5,0.647,1.5,1.6,0.6,1.1,0.5,DET
+22024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.221,77,0.076,0.75,0.283,0.067,0.05,0.067,0.0,0.317,0.34,0.8,0.6,0.2,0.7,0.5,DET
+22024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.677,73,0.034,1.03,0.448,0.152,0.0,0.152,0.03,0.515,0.448,0.5,0.5,0.2,0.4,0.2,DET
+22024,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.918,57,0.061,1.217,0.545,0.0,0.043,0.0,0.0,0.522,0.636,0.4,0.5,0.2,0.4,0.2,DET
+22024,203471,Dennis Schröder,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.315,28,0.103,0.824,0.333,0.176,0.059,0.147,0.029,0.382,0.389,1.2,1.0,0.3,1.0,0.6,DET
+22024,1641842,Ronald Holland II,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.221,81,0.037,0.75,0.353,0.1,0.05,0.1,0.0,0.4,0.353,0.2,0.2,0.1,0.2,0.1,DET
+22024,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.125,59,0.033,0.65,0.333,0.25,0.1,0.25,0.1,0.4,0.333,0.3,0.2,0.1,0.3,0.2,DET

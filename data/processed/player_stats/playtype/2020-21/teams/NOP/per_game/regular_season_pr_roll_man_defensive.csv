@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.934,47,0.027,0.6,0.33,0.07,0.33,0.07,0.0,0.27,0.39,0.3,0.0,0.1,0.2,0.1,NOP
+22020,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.786,46,0.034,0.833,0.33,0.17,0.17,0.08,0.08,0.33,0.39,0.3,0.0,0.1,0.2,0.1,NOP
+22020,201949,James Johnson,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.14,22,0.064,1.333,0.44,0.17,0.08,0.17,0.0,0.5,0.61,0.5,1.0,0.2,0.4,0.2,NOP
+22020,202339,Eric Bledsoe,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.151,71,0.023,1.316,0.53,0.05,0.05,0.05,0.0,0.53,0.71,0.3,0.0,0.1,0.2,0.1,NOP
+22020,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.692,61,0.051,0.893,0.36,0.18,0.07,0.18,0.04,0.43,0.41,0.5,0.0,0.1,0.4,0.2,NOP
+22020,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.593,60,0.076,0.947,0.36,0.03,0.11,0.03,0.0,0.34,0.52,0.6,1.0,0.2,0.6,0.4,NOP
+22020,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.245,47,0.061,1.233,0.5,0.03,0.03,0.03,0.0,0.5,0.62,0.6,1.0,0.3,0.6,0.3,NOP
+22020,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.861,61,0.095,0.732,0.31,0.07,0.1,0.07,0.0,0.32,0.36,1.2,1.0,0.3,1.0,0.7,NOP
+22020,203500,Steven Adams,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.287,58,0.103,1.2,0.51,0.04,0.04,0.02,0.01,0.5,0.61,1.4,2.0,0.7,1.3,0.6,NOP

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.73,69,0.282,1.072,0.411,0.094,0.032,0.094,0.018,0.44,0.504,277,297,101,246,145,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.766,66,0.134,1.084,0.441,0.058,0.065,0.045,0.006,0.442,0.555,154,167,60,136,76,ORL
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.635,62,0.022,1.0,0.478,0.038,0.077,0.038,0.0,0.462,0.522,26,26,11,23,12,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.977,57,0.021,1.462,0.7,0.077,0.154,0.0,0.0,0.615,0.9,13,19,7,10,3,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.914,72,0.014,1.214,0.6,0.143,0.143,0.071,0.0,0.571,0.7,14,17,6,10,4,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.036,62,0.033,0.469,0.185,0.031,0.125,0.031,0.0,0.188,0.241,32,15,5,27,22,ORL

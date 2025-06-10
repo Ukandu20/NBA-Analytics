@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.469,67,0.187,1.057,0.522,0.183,0.074,0.171,0.034,0.531,0.522,2.6,2.8,1.1,2.0,1.0,HOU
+22018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.596,25,0.195,1.125,0.583,0.107,0.054,0.107,0.018,0.571,0.583,2.2,2.5,1.1,1.9,0.8,HOU
+22018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.047,82,0.068,0.667,0.371,0.048,0.143,0.024,0.024,0.333,0.371,0.5,0.3,0.2,0.4,0.3,HOU
+22018,201935,James Harden,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.275,78,0.01,0.926,0.333,0.296,0.074,0.259,0.037,0.481,0.333,0.3,0.3,0.1,0.2,0.2,HOU
+22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.988,59,0.013,1.583,0.8,0.0,0.167,0.0,0.0,0.667,0.95,0.2,0.3,0.1,0.2,0.0,HOU
+22018,203516,James Ennis III,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.473,40,0.065,1.059,0.5,0.176,0.059,0.176,0.059,0.529,0.5,0.4,0.5,0.2,0.4,0.2,HOU
+22018,101123,Gerald Green,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.513,73,0.02,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.538,0.2,0.2,0.1,0.2,0.1,HOU
+22018,2403,Nene,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.744,42,0.068,1.2,0.556,0.3,0.0,0.3,0.2,0.6,0.556,0.2,0.3,0.1,0.2,0.1,HOU

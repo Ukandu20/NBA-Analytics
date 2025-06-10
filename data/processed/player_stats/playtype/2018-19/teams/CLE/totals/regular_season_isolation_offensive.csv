@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.495,81,0.135,0.834,0.4,0.075,0.075,0.06,0.005,0.412,0.409,187,156,64,160,96,CLE
+22018,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.235,82,0.119,0.689,0.322,0.083,0.094,0.08,0.006,0.344,0.336,180,124,48,149,101,CLE
+22018,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.858,45,0.125,1.06,0.419,0.09,0.03,0.09,0.045,0.433,0.5,67,71,26,62,36,CLE
+22018,202692,Alec Burks,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.502,34,0.114,0.837,0.349,0.122,0.061,0.1,0.061,0.347,0.407,49,41,15,43,28,CLE
+22018,202688,Brandon Knight,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.834,27,0.089,1.045,0.529,0.045,0.227,0.05,0.045,0.409,0.647,22,23,9,17,8,CLE
+22018,1628021,David Nwaba,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.337,51,0.066,0.773,0.267,0.273,0.045,0.27,0.0,0.455,0.267,22,17,4,15,11,CLE
+22018,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.885,36,0.05,1.067,0.545,0.2,0.133,0.07,0.067,0.533,0.545,15,16,6,11,5,CLE
+22018,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.431,23,0.043,0.813,0.308,0.125,0.063,0.12,0.0,0.375,0.346,16,13,4,13,9,CLE
+22018,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.091,43,0.043,0.571,0.3,0.0,0.048,0.0,0.0,0.286,0.3,21,12,6,20,14,CLE
+22018,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.62,14,0.09,0.917,0.417,0.0,0.0,0.0,0.0,0.417,0.458,12,11,5,12,7,CLE
+22018,1626150,Andrew Harrison,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.62,10,0.218,0.917,0.444,0.083,0.167,0.08,0.0,0.417,0.5,12,11,4,9,5,CLE
+22018,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.207,67,0.019,0.667,0.3,0.083,0.083,0.08,0.0,0.333,0.35,12,8,3,10,7,CLE

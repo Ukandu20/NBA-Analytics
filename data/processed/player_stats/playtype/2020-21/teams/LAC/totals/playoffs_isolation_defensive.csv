@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,10,0.333,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,LAC
+42020,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,17,0.051,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,8,0,0,4,4,LAC
+42020,201586,Serge Ibaka,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,2,0.111,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,LAC
+42020,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Isolation,Defensive,0.985,11,0.069,0.5,0.22,0.0,0.1,0.0,0.0,0.2,0.28,10,5,2,9,7,LAC
+42020,200765,Rajon Rondo,1610612746,LAC,LA Clippers,Isolation,Defensive,0.785,13,0.125,0.7,0.17,0.4,0.0,0.4,0.0,0.4,0.17,10,7,1,6,5,LAC
+42020,1630187,Daniel Oturu,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,8,0.571,2.0,1.0,0.25,0.0,0.25,0.0,1.0,1.17,4,8,3,3,0,LAC
+42020,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Isolation,Defensive,0.922,15,0.163,0.6,0.33,0.07,0.33,0.0,0.0,0.27,0.44,15,9,3,9,6,LAC
+42020,202326,DeMarcus Cousins,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,7,0.125,1.571,0.67,0.14,0.0,0.0,0.0,0.71,0.75,7,11,4,6,2,LAC
+42020,202331,Paul George,1610612746,LAC,LA Clippers,Isolation,Defensive,0.492,19,0.069,0.944,0.38,0.17,0.11,0.11,0.0,0.39,0.5,18,17,5,13,8,LAC
+42020,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Isolation,Defensive,0.922,19,0.171,0.6,0.27,0.02,0.05,0.02,0.0,0.28,0.31,40,24,10,37,27,LAC
+42020,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Isolation,Defensive,0.108,17,0.096,1.227,0.5,0.09,0.0,0.09,0.0,0.55,0.58,22,27,10,20,10,LAC
+42020,1629611,Terance Mann,1610612746,LAC,LA Clippers,Isolation,Defensive,0.368,19,0.159,1.0,0.44,0.04,0.04,0.04,0.0,0.44,0.52,27,27,11,25,14,LAC
+42020,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Isolation,Defensive,0.077,19,0.133,1.269,0.57,0.04,0.08,0.04,0.0,0.54,0.65,26,33,13,23,10,LAC
+42020,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Isolation,Defensive,0.368,19,0.133,1.0,0.38,0.21,0.03,0.18,0.03,0.45,0.46,33,33,10,26,16,LAC

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.225,53,0.06,1.0,0.538,0.11,0.167,0.11,0.0,0.5,0.577,18,18,7,13,6,DEN
+22022,202397,Ish Smith,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.962,31,0.311,0.606,0.28,0.121,0.152,0.091,0.03,0.303,0.28,33,20,7,25,18,DEN
+22022,1628432,Davon Reed,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.617,23,0.313,0.84,0.462,0.16,0.32,0.12,0.0,0.4,0.538,25,21,6,13,7,DEN
+22022,202704,Reggie Jackson,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.311,16,0.31,0.969,0.435,0.12,0.156,0.12,0.0,0.438,0.5,32,31,10,23,13,DEN
+22022,1628427,Vlatko Čančar,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.009,60,0.12,1.364,0.63,0.15,0.061,0.12,0.03,0.606,0.722,33,45,17,27,10,DEN
+22022,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.961,42,0.26,0.608,0.316,0.07,0.176,0.05,0.01,0.297,0.333,74,45,18,57,39,DEN
+22022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.882,62,0.16,0.747,0.429,0.09,0.187,0.08,0.03,0.373,0.429,75,56,24,56,32,DEN
+22022,201145,Jeff Green,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.05,56,0.18,1.169,0.593,0.11,0.108,0.11,0.05,0.538,0.648,65,76,32,54,22,DEN
+22022,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.698,76,0.27,0.845,0.404,0.1,0.164,0.09,0.03,0.379,0.444,116,98,36,89,53,DEN
+22022,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.632,68,0.23,0.867,0.44,0.11,0.158,0.1,0.02,0.412,0.472,165,143,55,125,70,DEN
+22022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.365,65,0.27,0.952,0.506,0.1,0.178,0.09,0.03,0.433,0.554,208,198,80,158,78,DEN
+22022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.596,77,0.34,0.877,0.439,0.11,0.182,0.1,0.01,0.419,0.475,253,222,79,180,101,DEN
+22022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.297,80,0.29,0.973,0.492,0.14,0.19,0.11,0.03,0.453,0.544,258,251,89,181,92,DEN

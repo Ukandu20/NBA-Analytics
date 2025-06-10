@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.34,64,0.223,1.015,0.434,0.137,0.086,0.137,0.03,0.457,0.503,3.1,3.1,1.1,2.5,1.4,CHA
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.752,48,0.213,1.231,0.643,0.187,0.099,0.187,0.055,0.615,0.65,1.9,2.3,0.9,1.5,0.5,CHA
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.891,66,0.077,1.367,0.604,0.1,0.067,0.1,0.05,0.583,0.689,0.9,1.2,0.5,0.8,0.3,CHA
+22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.433,66,0.169,1.081,0.633,0.145,0.097,0.145,0.032,0.581,0.633,0.9,1.0,0.5,0.7,0.3,CHA
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.249,69,0.016,0.952,0.353,0.095,0.095,0.0,0.0,0.381,0.5,0.3,0.3,0.1,0.2,0.2,CHA
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.071,44,0.031,0.731,0.391,0.0,0.115,0.0,0.0,0.346,0.413,0.6,0.4,0.2,0.5,0.3,CHA
+22020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.723,42,0.029,1.214,0.429,0.0,0.0,0.0,0.0,0.429,0.607,0.3,0.4,0.1,0.3,0.2,CHA
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.029,47,0.031,0.545,0.222,0.091,0.091,0.091,0.0,0.273,0.278,0.2,0.1,0.0,0.2,0.1,CHA
+22020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.008,55,0.016,0.231,0.077,0.0,0.0,0.0,0.0,0.077,0.115,0.2,0.1,0.0,0.2,0.2,CHA

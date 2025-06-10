@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,11,0.01,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,PHI
+42020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.044,0.333,0.0,0.33,0.0,0.33,0.0,0.33,0.0,0.3,0.0,0.0,0.2,0.2,PHI
+42020,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,5,0.1,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.0,0.2,0.2,0.0,PHI
+42020,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.015,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.0,0.1,0.2,0.1,PHI
+42020,2730,Dwight Howard,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.03,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.0,0.1,0.2,0.1,PHI
+42020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.07,0.667,0.0,0.33,0.33,0.33,0.0,0.33,0.0,0.3,0.0,0.0,0.1,0.1,PHI
+42020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.028,1.0,0.5,0.25,0.0,0.25,0.25,0.5,0.5,0.3,0.0,0.2,0.3,0.2,PHI
+42020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.125,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.5,0.0,0.2,0.5,0.3,PHI
+42020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,8,0.037,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,0.5,1.0,0.4,0.5,0.1,PHI
+42020,201588,George Hill,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.081,1.125,0.6,0.25,0.12,0.12,0.0,0.62,0.6,0.7,1.0,0.3,0.4,0.2,PHI
+42020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.0,12,0.078,1.0,0.5,0.22,0.11,0.22,0.0,0.56,0.5,0.8,1.0,0.3,0.5,0.3,PHI

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,6,0.5,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,PHX
+42022,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,6,0.143,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,0.0,0.0,0.0,0.0,0.0,PHX
+42022,1629111,Jock Landale,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,7,0.073,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,1.0,1.0,0.0,0.0,0.0,PHX
+42022,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,10,0.039,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,1.0,0.0,1.0,1.0,0.0,PHX
+42022,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,8,0.103,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,0.0,1.0,0.0,0.0,0.0,PHX
+42022,203082,Terrence Ross,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,6,0.273,1.333,0.67,0.33,0.17,0.33,0.0,0.67,0.83,1.0,1.0,0.0,0.0,0.0,PHX
+42022,1627814,Damion Lee,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.742,8,0.345,0.8,0.43,0.1,0.2,0.1,0.0,0.4,0.5,1.0,1.0,1.0,1.0,0.0,PHX
+42022,101108,Chris Paul,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.652,7,0.283,0.867,0.45,0.07,0.2,0.07,0.0,0.4,0.5,2.0,2.0,1.0,2.0,1.0,PHX
+42022,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,7,0.189,2.0,1.0,0.29,0.0,0.0,0.0,1.0,1.0,1.0,2.0,1.0,1.0,0.0,PHX
+42022,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.18,11,0.117,1.154,0.36,0.15,0.0,0.15,0.0,0.46,0.5,1.0,1.0,0.0,1.0,1.0,PHX
+42022,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.101,10,0.246,1.25,0.6,0.0,0.06,0.0,0.0,0.56,0.67,2.0,2.0,1.0,2.0,1.0,PHX
+42022,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.5,11,0.361,0.923,0.42,0.12,0.15,0.12,0.0,0.42,0.5,2.0,2.0,1.0,2.0,1.0,PHX
+42022,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.09,10,0.324,1.273,0.65,0.14,0.18,0.14,0.09,0.55,0.74,2.0,3.0,1.0,2.0,1.0,PHX
+42022,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.247,11,0.21,1.081,0.41,0.27,0.03,0.16,0.08,0.51,0.43,3.0,4.0,1.0,3.0,2.0,PHX

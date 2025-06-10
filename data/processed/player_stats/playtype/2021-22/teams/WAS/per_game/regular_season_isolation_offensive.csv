@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.539,40,0.128,0.898,0.437,0.079,0.118,0.063,0.008,0.425,0.471,3.2,2.9,1.1,2.6,1.4,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.461,66,0.081,0.866,0.429,0.031,0.103,0.031,0.0,0.402,0.464,1.5,1.3,0.5,1.3,0.7,WAS
+22021,203915,Spencer Dinwiddie,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.453,44,0.153,0.865,0.313,0.156,0.042,0.146,0.031,0.385,0.375,2.2,1.9,0.6,1.8,1.3,WAS
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.276,77,0.062,0.754,0.327,0.098,0.049,0.082,0.0,0.377,0.346,0.8,0.6,0.2,0.7,0.5,WAS
+22021,202397,Ish Smith,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.65,28,0.128,0.946,0.515,0.0,0.108,0.0,0.0,0.459,0.53,1.3,1.3,0.6,1.2,0.6,WAS
+22021,1626149,Montrezl Harrell,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.945,46,0.05,1.154,0.538,0.115,0.0,0.115,0.115,0.538,0.538,0.6,0.7,0.3,0.6,0.3,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.213,42,0.079,0.714,0.308,0.2,0.086,0.171,0.029,0.4,0.308,0.8,0.6,0.2,0.6,0.4,WAS
+22021,203526,Raul Neto,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.37,70,0.048,0.815,0.348,0.111,0.037,0.037,0.0,0.407,0.37,0.4,0.3,0.1,0.3,0.2,WAS
+22021,1628988,Aaron Holiday,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.554,41,0.075,0.9,0.4,0.15,0.1,0.15,0.0,0.45,0.467,0.5,0.4,0.1,0.4,0.2,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.374,82,0.03,0.818,0.353,0.182,0.045,0.182,0.0,0.455,0.353,0.3,0.2,0.1,0.2,0.1,WAS
+22021,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.621,17,0.041,0.929,0.455,0.071,0.143,0.071,0.0,0.429,0.5,0.8,0.8,0.3,0.6,0.4,WAS

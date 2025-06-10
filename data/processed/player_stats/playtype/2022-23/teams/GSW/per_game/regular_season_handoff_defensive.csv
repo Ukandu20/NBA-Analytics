@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203210,JaMychal Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.62,57,0.034,0.9,0.38,0.1,0.1,0.1,0.0,0.4,0.5,0.2,0.2,0.1,0.1,0.1,GSW
+22022,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.167,82,0.011,1.182,0.5,0.09,0.091,0.09,0.09,0.455,0.6,0.1,0.2,0.1,0.1,0.1,GSW
+22022,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.642,73,0.021,0.889,0.31,0.11,0.056,0.11,0.06,0.333,0.41,0.2,0.2,0.1,0.2,0.2,GSW
+22022,1629660,Ty Jerome,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.607,45,0.072,0.905,0.4,0.0,0.048,0.0,0.0,0.381,0.48,0.5,0.4,0.2,0.4,0.3,GSW
+22022,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.305,63,0.062,1.053,0.44,0.16,0.0,0.16,0.0,0.526,0.5,0.3,0.3,0.1,0.3,0.1,GSW
+22022,1630237,Anthony Lamb,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.782,62,0.067,0.8,0.39,0.07,0.167,0.07,0.0,0.367,0.46,0.5,0.4,0.1,0.4,0.2,GSW
+22022,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.21,67,0.048,1.133,0.52,0.07,0.1,0.07,0.0,0.5,0.62,0.4,0.5,0.2,0.4,0.2,GSW
+22022,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.862,56,0.085,0.74,0.32,0.02,0.1,0.02,0.0,0.3,0.39,0.9,0.7,0.3,0.8,0.5,GSW
+22022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.35,37,0.09,1.023,0.41,0.16,0.045,0.11,0.05,0.432,0.47,1.2,1.2,0.4,1.0,0.6,GSW
+22022,1628978,Donte DiVincenzo,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.599,72,0.077,0.907,0.38,0.09,0.037,0.09,0.02,0.407,0.43,0.8,0.7,0.3,0.7,0.4,GSW
+22022,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.232,82,0.07,1.109,0.45,0.09,0.109,0.09,0.0,0.455,0.58,0.7,0.7,0.2,0.5,0.3,GSW
+22022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.481,69,0.1,0.957,0.42,0.07,0.1,0.07,0.03,0.4,0.51,1.0,1.0,0.4,0.9,0.5,GSW

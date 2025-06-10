@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.205,58,0.093,0.789,0.349,0.031,0.117,0.023,0.0,0.32,0.436,128,101,38,109,71,BOS
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.576,64,0.05,1.012,0.464,0.085,0.085,0.085,0.024,0.451,0.507,82,83,32,69,37,BOS
+22020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.367,43,0.044,0.889,0.324,0.028,0.028,0.028,0.0,0.333,0.426,36,32,11,34,23,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.905,49,0.033,1.318,0.529,0.091,0.136,0.091,0.0,0.5,0.706,22,29,9,17,8,BOS
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.957,66,0.039,1.474,0.556,0.0,0.053,0.0,0.0,0.526,0.778,19,28,10,18,8,BOS
+22020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.894,16,0.102,1.3,0.5,0.0,0.0,0.0,0.0,0.5,0.65,20,26,10,20,10,BOS
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.952,46,0.079,1.471,0.563,0.0,0.059,0.0,0.0,0.529,0.781,17,25,9,16,7,BOS

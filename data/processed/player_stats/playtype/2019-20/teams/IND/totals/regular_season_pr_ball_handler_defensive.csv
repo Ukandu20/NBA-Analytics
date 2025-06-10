@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628513,Naz Mitrou-Long,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.98,4,0.667,0.5,0.25,0.0,0.143,0.0,0.0,0.214,0.292,14,7,3,12,9,IND
+22019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.053,62,0.017,1.133,0.5,0.07,0.0,0.0,0.0,0.533,0.571,15,17,7,14,7,IND
+22019,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.288,62,0.02,0.95,0.438,0.15,0.1,0.15,0.05,0.4,0.531,20,19,7,16,9,IND
+22019,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.962,19,0.322,0.586,0.317,0.07,0.241,0.05,0.02,0.276,0.329,58,34,13,41,28,IND
+22019,203926,Doug McDermott,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.844,69,0.152,0.73,0.413,0.06,0.222,0.06,0.02,0.349,0.435,63,46,19,46,27,IND
+22019,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.015,31,0.348,1.286,0.575,0.14,0.061,0.12,0.02,0.592,0.625,49,63,23,40,17,IND
+22019,203087,Jeremy Lamb,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.338,46,0.3,0.924,0.486,0.08,0.2,0.08,0.03,0.414,0.537,145,134,53,109,56,IND
+22019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.577,68,0.281,0.852,0.417,0.11,0.175,0.1,0.01,0.399,0.466,183,156,55,132,77,IND
+22019,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.796,71,0.499,0.757,0.405,0.09,0.193,0.08,0.01,0.367,0.437,218,165,64,158,94,IND
+22019,203200,Justin Holiday,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.219,73,0.258,0.984,0.464,0.14,0.124,0.11,0.05,0.456,0.51,193,190,70,151,81,IND
+22019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.806,66,0.408,0.756,0.346,0.11,0.137,0.1,0.03,0.352,0.382,270,204,73,211,138,IND
+22019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.798,54,0.509,0.757,0.364,0.08,0.143,0.06,0.02,0.35,0.398,329,249,95,261,166,IND

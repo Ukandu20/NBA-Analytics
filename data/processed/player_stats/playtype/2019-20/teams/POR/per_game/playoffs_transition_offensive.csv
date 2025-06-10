@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.988,5,0.116,1.846,0.875,0.231,0.077,0.308,0.077,0.692,1.188,2.6,4.8,1.8,2.0,0.2,POR
+42019,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.16,6,0.178,0.808,0.474,0.038,0.231,0.038,0.0,0.385,0.5,4.3,3.5,1.3,3.0,1.7,POR
+42019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.225,6,0.174,0.842,0.429,0.105,0.158,0.053,0.0,0.421,0.429,3.2,2.7,0.7,2.0,1.3,POR
+42019,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.068,1.143,0.5,0.143,0.0,0.143,0.0,0.571,0.5,1.2,1.3,0.5,1.0,0.5,POR
+42019,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.25,0.875,0.25,0.125,0.0,0.125,0.125,0.25,0.375,2.0,1.8,0.5,2.0,1.5,POR
+42019,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.037,6,0.194,0.583,0.25,0.083,0.25,0.083,0.0,0.25,0.375,2.0,1.2,0.0,1.0,1.0,POR
+42019,1626209,Mario Hezonja,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.25,0.75,0.333,0.125,0.125,0.125,0.0,0.375,0.333,1.3,1.0,0.3,1.0,0.7,POR
+42019,202355,Hassan Whiteside,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,6,0.047,1.5,1.0,0.5,0.0,0.5,0.0,1.0,1.0,0.3,0.5,0.0,0.0,0.0,POR
+42019,1629658,Jaylen Hoard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,3,0.133,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.7,0.7,0.7,1.0,0.3,POR
+42019,1629117,Wenyen Gabriel,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,5,0.13,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,0.6,0.4,-0.2,0.0,0.2,POR

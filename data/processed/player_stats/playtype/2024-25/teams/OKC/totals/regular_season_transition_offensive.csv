@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.669,69,0.202,1.199,0.579,0.171,0.089,0.171,0.041,0.579,0.621,292,350,132,228,96,OKC
+22024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.883,74,0.19,1.325,0.518,0.016,0.057,0.016,0.0,0.496,0.693,123,163,59,114,55,OKC
+22024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.639,54,0.243,1.178,0.577,0.144,0.122,0.144,0.056,0.544,0.634,90,106,41,71,30,OKC
+22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.88,69,0.189,1.325,0.623,0.091,0.052,0.091,0.039,0.61,0.696,77,102,43,69,26,OKC
+22024,1642349,Ajay Mitchell,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.153,36,0.183,0.929,0.353,0.167,0.048,0.119,0.024,0.405,0.441,42,39,12,34,22,OKC
+22024,1641794,Dillon Jones,1610612760,OKC,Oklahoma City Thunder,Transition,Offensive,0.061,54,0.166,0.828,0.476,0.103,0.207,0.069,0.034,0.414,0.476,29,24,10,21,11,OKC

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.143,5,0.405,0.683,0.298,0.133,0.083,0.117,0.0,0.35,0.309,60,41,14,47,33,UTA
+42018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.159,5,0.348,0.688,0.391,0.094,0.188,0.063,0.0,0.344,0.391,32,22,9,23,14,UTA
+42018,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,5,0.088,1.2,0.667,0.2,0.2,0.0,0.0,0.6,0.833,5,6,2,3,1,UTA
+42018,1628960,Grayson Allen,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,2,0.4,1.25,0.5,0.25,0.0,0.25,0.25,0.5,0.5,4,5,2,4,2,UTA
+42018,204060,Joe Ingles,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,5,0.178,0.625,0.5,0.0,0.5,0.0,0.0,0.25,0.625,8,5,2,4,2,UTA
+42018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,5,0.036,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,UTA
+42018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,5,0.019,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,UTA
+42018,1627777,Georges Niang,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,5,0.167,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,4,2,1,3,2,UTA
+42018,203526,Raul Neto,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.0,3,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA

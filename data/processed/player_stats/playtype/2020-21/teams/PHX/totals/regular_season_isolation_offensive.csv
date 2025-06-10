@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.81,70,0.156,1.052,0.449,0.047,0.035,0.041,0.0,0.459,0.516,172,181,71,158,87,PHX
+22020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.48,67,0.127,0.847,0.406,0.139,0.115,0.139,0.024,0.426,0.422,209,177,65,160,95,PHX
+22020,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.891,60,0.067,1.094,0.519,0.063,0.125,0.063,0.031,0.469,0.593,32,35,14,27,13,PHX
+22020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.883,72,0.014,1.091,0.556,0.091,0.091,0.091,0.0,0.545,0.556,11,12,5,9,4,PHX

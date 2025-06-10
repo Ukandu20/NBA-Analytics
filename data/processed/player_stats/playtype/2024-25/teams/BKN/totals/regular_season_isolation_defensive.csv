@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.983,33,0.105,0.385,0.15,0.077,0.154,0.077,0.0,0.192,0.175,26,10,3,20,17,BKN
+22024,1631166,Drew Timme,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.497,9,0.113,0.909,0.364,0.0,0.0,0.0,0.0,0.364,0.455,11,10,4,11,7,BKN
+22024,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.606,25,0.061,0.846,0.5,0.0,0.231,0.0,0.0,0.385,0.55,13,11,5,10,5,BKN
+22024,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.972,42,0.112,0.5,0.217,0.071,0.107,0.071,0.0,0.25,0.239,28,14,5,23,18,BKN
+22024,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.839,28,0.097,0.7,0.375,0.05,0.15,0.05,0.0,0.35,0.406,20,14,6,16,10,BKN
+22024,1629003,Shake Milton,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.094,23,0.092,1.167,0.556,0.167,0.083,0.167,0.0,0.583,0.556,12,14,5,9,4,BKN
+22024,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.975,46,0.122,0.442,0.2,0.047,0.14,0.0,0.0,0.209,0.229,43,19,7,35,28,BKN
+22024,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.508,23,0.093,0.905,0.444,0.143,0.143,0.143,0.143,0.381,0.472,21,19,8,18,10,BKN
+22024,1641736,Reece Beekman,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.508,30,0.156,0.905,0.444,0.095,0.095,0.095,0.048,0.429,0.444,21,19,8,18,10,BKN
+22024,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.785,20,0.141,0.741,0.36,0.0,0.074,0.0,0.0,0.333,0.4,27,20,9,25,16,BKN
+22024,1641787,Tosan Evbuomwan,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.545,27,0.124,0.88,0.316,0.16,0.08,0.16,0.0,0.4,0.395,25,22,6,19,13,BKN
+22024,1631213,Tyrese Martin,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.169,57,0.077,1.1,0.44,0.167,0.033,0.1,0.033,0.5,0.52,30,33,11,25,14,BKN
+22024,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.645,46,0.132,0.833,0.382,0.188,0.125,0.167,0.021,0.396,0.412,48,40,13,34,21,BKN
+22024,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.142,57,0.089,1.125,0.469,0.25,0.05,0.225,0.1,0.525,0.484,40,45,15,32,17,BKN
+22024,1630553,Keon Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.561,78,0.097,0.871,0.34,0.161,0.113,0.145,0.032,0.387,0.383,62,54,16,47,31,BKN
+22024,1630533,Ziaire Williams,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.733,64,0.144,0.79,0.377,0.123,0.136,0.123,0.012,0.395,0.393,81,64,23,61,38,BKN
+22024,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.117,78,0.099,1.143,0.5,0.232,0.054,0.214,0.071,0.518,0.534,56,64,22,44,22,BKN

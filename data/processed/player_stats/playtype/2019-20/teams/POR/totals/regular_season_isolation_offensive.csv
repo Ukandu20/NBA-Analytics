@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.87,66,0.179,1.073,0.46,0.15,0.086,0.111,0.025,0.478,0.53,314,337,114,248,134,POR
+22019,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.563,70,0.133,0.88,0.413,0.072,0.077,0.063,0.01,0.418,0.453,208,183,74,179,105,POR
+22019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.51,58,0.126,0.858,0.373,0.125,0.05,0.125,0.025,0.417,0.377,120,103,38,102,64,POR
+22019,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.8,70,0.118,1.0,0.385,0.16,0.04,0.147,0.067,0.427,0.431,75,75,25,65,40,POR
+22019,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.98,21,0.119,1.417,0.636,0.125,0.0,0.125,0.042,0.667,0.705,24,34,14,22,8,POR
+22019,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.275,61,0.062,0.767,0.345,0.0,0.033,0.0,0.0,0.333,0.397,30,23,10,29,19,POR
+22019,1626209,Mario Hezonja,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.8,53,0.049,1.0,0.444,0.214,0.143,0.214,0.0,0.5,0.444,14,14,4,9,5,POR
+22019,202355,Hassan Whiteside,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.069,67,0.016,0.533,0.333,0.0,0.2,0.0,0.0,0.267,0.333,15,8,4,12,8,POR

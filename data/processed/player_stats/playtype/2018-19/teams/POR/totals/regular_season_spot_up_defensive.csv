@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.994,27,0.177,0.455,0.143,0.06,0.09,0.06,0.0,0.18,0.214,33,15,4,28,24,POR
+22018,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.617,23,0.116,0.972,0.382,0.03,0.03,0.03,0.0,0.39,0.5,36,35,13,34,21,POR
+22018,203917,Nik Stauskas,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.043,44,0.256,1.3,0.469,0.0,0.02,0.0,0.0,0.46,0.663,50,65,23,49,26,POR
+22018,203552,Seth Curry,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.761,74,0.179,0.91,0.333,0.03,0.03,0.03,0.01,0.34,0.458,89,81,28,84,56,POR
+22018,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.794,62,0.2,0.895,0.326,0.08,0.02,0.08,0.01,0.37,0.419,95,85,28,86,58,POR
+22018,1627774,Jake Layman,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.464,71,0.268,1.029,0.398,0.06,0.08,0.06,0.02,0.39,0.532,105,108,37,93,56,POR
+22018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.38,73,0.18,1.058,0.385,0.03,0.01,0.03,0.01,0.4,0.517,121,128,45,117,72,POR
+22018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.622,61,0.249,0.97,0.379,0.06,0.07,0.06,0.01,0.39,0.509,132,128,44,116,72,POR
+22018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.775,70,0.188,0.903,0.349,0.02,0.04,0.03,0.01,0.34,0.462,155,140,51,146,95,POR
+22018,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.707,72,0.133,0.935,0.399,0.06,0.05,0.04,0.01,0.39,0.478,153,143,55,138,83,POR
+22018,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.187,77,0.211,1.137,0.435,0.09,0.05,0.08,0.03,0.45,0.573,139,158,54,124,70,POR
+22018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.289,80,0.191,1.095,0.408,0.02,0.05,0.02,0.01,0.39,0.571,179,196,69,169,100,POR
+22018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.435,81,0.246,1.04,0.401,0.03,0.05,0.02,0.0,0.4,0.537,202,210,75,187,112,POR

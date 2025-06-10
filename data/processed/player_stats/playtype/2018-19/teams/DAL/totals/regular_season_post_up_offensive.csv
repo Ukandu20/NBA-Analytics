@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.368,49,0.133,0.868,0.372,0.193,0.088,0.158,0.035,0.439,0.372,114,99,32,86,54,DAL
+22018,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.714,72,0.051,1.012,0.508,0.238,0.107,0.214,0.071,0.524,0.508,84,85,31,61,30,DAL
+22018,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.583,44,0.14,0.951,0.475,0.136,0.111,0.086,0.0,0.494,0.475,81,77,29,61,32,DAL
+22018,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.309,51,0.202,0.843,0.443,0.084,0.108,0.084,0.036,0.41,0.443,83,70,31,70,39,DAL
+22018,201599,DeAndre Jordan,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.275,50,0.127,0.821,0.486,0.239,0.254,0.164,0.015,0.463,0.486,67,55,17,35,18,DAL
+22018,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.613,71,0.063,0.967,0.5,0.167,0.167,0.167,0.0,0.5,0.5,30,29,10,20,10,DAL
+22018,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.931,19,0.052,1.188,0.5,0.25,0.0,0.25,0.125,0.563,0.5,16,19,7,14,7,DAL
+22018,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.677,73,0.023,1.0,0.636,0.188,0.188,0.188,0.063,0.5,0.636,16,16,7,11,4,DAL
+22018,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.227,77,0.021,0.786,0.375,0.286,0.214,0.286,0.071,0.429,0.375,14,11,3,8,5,DAL

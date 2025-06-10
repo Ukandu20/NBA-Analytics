@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.599,70,0.149,0.944,0.37,0.028,0.056,0.028,0.019,0.355,0.48,107,101,37,100,63,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Handoff,Offensive,0.9,54,0.058,1.17,0.477,0.043,0.043,0.043,0.021,0.447,0.614,47,55,21,44,23,LAC
+22021,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Handoff,Offensive,0.869,69,0.078,1.114,0.529,0.159,0.159,0.159,0.091,0.477,0.603,44,49,18,34,16,LAC
+22021,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Handoff,Offensive,0.225,75,0.037,0.704,0.327,0.037,0.074,0.037,0.019,0.315,0.367,54,38,16,49,33,LAC
+22021,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Offensive,0.806,31,0.04,1.061,0.542,0.121,0.152,0.121,0.0,0.515,0.625,33,35,13,24,11,LAC
+22021,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Handoff,Offensive,0.628,59,0.059,0.962,0.292,0.077,0.0,0.077,0.0,0.346,0.417,26,25,7,24,17,LAC
+22021,202339,Eric Bledsoe,1610612746,LAC,LA Clippers,Handoff,Offensive,0.488,54,0.037,0.87,0.35,0.13,0.043,0.13,0.043,0.391,0.375,23,20,7,20,13,LAC
+22021,1630527,Brandon Boston,1610612746,LAC,LA Clippers,Handoff,Offensive,0.101,51,0.085,0.545,0.261,0.091,0.212,0.091,0.0,0.273,0.261,33,18,6,23,17,LAC
+22021,1626181,Norman Powell,1610612746,LAC,LA Clippers,Handoff,Offensive,0.965,5,0.116,1.3,0.556,0.1,0.0,0.0,0.0,0.6,0.667,10,13,5,9,4,LAC
+22021,1629611,Terance Mann,1610612746,LAC,LA Clippers,Handoff,Offensive,0.111,81,0.025,0.571,0.235,0.048,0.143,0.048,0.0,0.238,0.294,21,12,4,17,13,LAC
+22021,203496,Robert Covington,1610612746,LAC,LA Clippers,Handoff,Offensive,0.135,23,0.068,0.615,0.25,0.0,0.077,0.0,0.0,0.231,0.333,13,8,3,12,9,LAC

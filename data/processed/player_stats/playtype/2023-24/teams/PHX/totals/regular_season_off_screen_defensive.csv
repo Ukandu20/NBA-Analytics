@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628966,Keita Bates-Diop,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.978,34,0.073,0.5,0.167,0.071,0.071,0.071,0.0,0.214,0.208,14,7,2,12,10,PHX
+22023,1629234,Drew Eubanks,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.908,70,0.02,0.636,0.333,0.0,0.182,0.0,0.0,0.273,0.389,11,7,3,9,6,PHX
+22023,1630692,Jordan Goodwin,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.79,35,0.049,0.8,0.286,0.2,0.2,0.2,0.1,0.3,0.357,10,8,2,7,5,PHX
+22023,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.294,30,0.061,1.2,0.5,0.0,0.067,0.0,0.0,0.467,0.643,15,18,7,14,7,PHX
+22023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.153,70,0.013,1.286,0.583,0.0,0.143,0.0,0.0,0.5,0.75,14,18,7,12,5,PHX
+22023,1629642,Nassir Little,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.063,32,0.096,1.4,0.583,0.133,0.067,0.133,0.0,0.6,0.708,15,21,7,12,5,PHX
+22023,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.172,52,0.066,1.28,0.435,0.08,0.0,0.08,0.0,0.48,0.609,25,32,10,23,13,PHX
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.223,74,0.05,1.25,0.528,0.1,0.05,0.075,0.05,0.525,0.625,40,50,19,36,17,PHX
+22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.545,74,0.064,1.0,0.418,0.033,0.082,0.033,0.016,0.393,0.527,61,61,23,55,32,PHX

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.444,23,0.339,0.901,0.431,0.068,0.141,0.073,0.016,0.398,0.487,191,172,66,153,87,MIL
+42020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.397,23,0.31,0.89,0.422,0.048,0.089,0.048,0.014,0.39,0.48,146,130,54,128,74,MIL
+42020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.429,21,0.05,0.9,0.45,0.2,0.167,0.2,0.033,0.467,0.45,30,27,9,20,11,MIL
+42020,201952,Jeff Teague,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.016,16,0.333,0.286,0.154,0.0,0.071,0.0,0.0,0.143,0.154,14,4,2,13,11,MIL
+42020,1629091,Elijah Bryant,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,11,0.455,0.2,0.111,0.0,0.1,0.0,0.0,0.1,0.111,10,2,1,9,8,MIL
+42020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,3,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,23,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,MIL
+42020,1630241,Sam Merrill,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,8,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,20,0.033,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,4,0,0,2,2,MIL
+42020,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.0,5,0.273,0.0,0.0,0.0,0.167,0.0,0.0,0.0,0.0,6,0,0,5,5,MIL

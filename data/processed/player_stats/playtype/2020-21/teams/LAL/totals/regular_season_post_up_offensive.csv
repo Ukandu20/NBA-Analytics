@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.506,69,0.23,0.944,0.5,0.133,0.139,0.122,0.039,0.467,0.5,180,170,69,138,69,LAL
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.594,36,0.22,0.988,0.511,0.117,0.088,0.105,0.018,0.509,0.511,171,169,71,139,68,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.75,45,0.14,1.052,0.575,0.163,0.163,0.131,0.065,0.523,0.575,153,161,65,113,48,LAL
+22020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.272,21,0.191,0.824,0.444,0.176,0.216,0.176,0.098,0.392,0.444,51,42,16,36,20,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.182,61,0.123,0.75,0.413,0.036,0.143,0.036,0.0,0.375,0.413,56,42,19,46,27,LAL
+22020,201188,Marc Gasol,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.069,52,0.104,0.607,0.294,0.214,0.286,0.214,0.107,0.286,0.294,28,17,5,17,12,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.963,65,0.017,1.273,0.636,0.0,0.0,0.0,0.0,0.636,0.636,11,14,7,11,4,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.319,68,0.014,0.846,0.625,0.077,0.308,0.077,0.0,0.462,0.625,13,11,5,8,3,LAL

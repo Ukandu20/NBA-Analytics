@@ -1,0 +1,22 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626174,Christian Wood,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.054,41,0.018,1.182,0.6,0.09,0.091,0.09,0.09,0.545,0.65,11,13,6,10,4,HOU
+22020,203482,Kelly Olynyk,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.0,27,0.028,1.727,0.7,0.09,0.0,0.09,0.0,0.727,0.85,11,19,7,10,3,HOU
+22020,1629017,Khyri Thomas,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.862,5,0.441,0.733,0.36,0.03,0.133,0.03,0.0,0.333,0.4,30,22,9,25,16,HOU
+22020,1629610,DaQuan Jeffries,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.087,13,0.218,1.091,0.421,0.05,0.091,0.05,0.0,0.409,0.579,22,24,8,19,11,HOU
+22020,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.501,8,0.308,0.893,0.476,0.04,0.214,0.04,0.0,0.393,0.571,28,25,10,21,11,HOU
+22020,1630222,Mason Jones,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.107,26,0.368,1.071,0.6,0.11,0.179,0.07,0.0,0.536,0.65,28,30,12,20,8,HOU
+22020,1630231,KJ Martin,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.759,45,0.15,0.789,0.345,0.11,0.158,0.11,0.03,0.342,0.379,38,30,10,29,19,HOU
+22020,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.136,20,0.21,1.033,0.5,0.07,0.133,0.03,0.0,0.467,0.563,30,31,12,24,12,HOU
+22020,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.259,20,0.261,0.971,0.519,0.0,0.229,0.0,0.0,0.4,0.63,35,34,14,27,13,HOU
+22020,1630237,Anthony Lamb,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.448,24,0.263,0.905,0.424,0.07,0.143,0.05,0.0,0.405,0.485,42,38,14,33,19,HOU
+22020,203463,Ben McLemore,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.149,32,0.305,1.022,0.529,0.11,0.217,0.09,0.07,0.435,0.618,46,47,18,34,16,HOU
+22020,202340,Avery Bradley,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.284,17,0.374,0.959,0.5,0.06,0.143,0.04,0.02,0.449,0.538,49,47,20,40,20,HOU
+22020,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.413,32,0.172,0.915,0.429,0.15,0.153,0.14,0.02,0.424,0.464,59,54,18,42,24,HOU
+22020,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.839,26,0.329,0.745,0.347,0.06,0.138,0.04,0.0,0.34,0.407,94,70,26,75,49,HOU
+22020,1628021,David Nwaba,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.657,30,0.322,0.837,0.37,0.06,0.116,0.06,0.02,0.349,0.445,86,72,27,73,46,HOU
+22020,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.503,27,0.369,0.892,0.375,0.16,0.096,0.14,0.02,0.422,0.414,83,74,24,64,40,HOU
+22020,203506,Victor Oladipo,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.711,20,0.349,0.811,0.387,0.07,0.137,0.06,0.0,0.379,0.44,95,77,29,75,46,HOU
+22020,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.063,36,0.263,1.154,0.525,0.17,0.115,0.17,0.04,0.513,0.627,78,90,31,59,28,HOU
+22020,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.189,70,0.165,1.0,0.465,0.12,0.135,0.11,0.03,0.45,0.517,111,111,40,86,46,HOU
+22020,202322,John Wall,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.923,40,0.386,0.673,0.364,0.08,0.216,0.07,0.01,0.327,0.384,171,115,44,121,77,HOU
+22020,1628425,Sterling Brown,1610612745,HOU,Houston Rockets,PRBallHandler,Defensive,0.326,51,0.295,0.94,0.467,0.1,0.143,0.08,0.03,0.436,0.514,133,125,49,105,56,HOU

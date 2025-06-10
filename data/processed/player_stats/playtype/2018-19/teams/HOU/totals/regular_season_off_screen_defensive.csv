@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.163,67,0.012,1.167,0.455,0.08,0.0,0.08,0.0,0.5,0.545,12,14,5,11,6,HOU
+22018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.036,20,0.097,1.417,0.583,0.08,0.0,0.08,0.08,0.58,0.708,12,17,7,12,5,HOU
+22018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.784,39,0.076,0.783,0.286,0.04,0.04,0.04,0.0,0.3,0.381,23,18,6,21,15,HOU
+22018,203516,James Ennis III,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.876,40,0.094,0.692,0.292,0.0,0.08,0.0,0.0,0.27,0.375,26,18,7,24,17,HOU
+22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.773,59,0.065,0.794,0.303,0.03,0.0,0.03,0.0,0.32,0.379,34,27,10,33,23,HOU
+22018,101123,Gerald Green,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.382,73,0.09,1.0,0.412,0.03,0.05,0.0,0.0,0.41,0.515,37,37,14,34,20,HOU
+22018,201935,James Harden,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.788,78,0.048,0.78,0.283,0.02,0.06,0.0,0.0,0.28,0.402,50,39,13,46,33,HOU
+22018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.227,82,0.046,1.119,0.432,0.05,0.07,0.05,0.0,0.43,0.581,42,47,16,37,21,HOU
+22018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.084,47,0.082,1.275,0.543,0.1,0.05,0.08,0.02,0.55,0.629,40,51,19,35,16,HOU
+22018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Defensive,0.05,68,0.08,1.354,0.524,0.1,0.04,0.1,0.02,0.52,0.714,48,65,22,42,20,HOU

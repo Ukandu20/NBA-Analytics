@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.947,36,0.027,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,0.3,0.0,0.1,0.3,0.2,OKC
+22019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.904,65,0.022,0.667,0.23,0.07,0.067,0.0,0.0,0.27,0.31,0.2,0.0,0.0,0.2,0.2,OKC
+22019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.832,70,0.026,0.733,0.36,0.0,0.067,0.0,0.0,0.33,0.39,0.2,0.0,0.1,0.2,0.1,OKC
+22019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.745,70,0.027,0.826,0.3,0.0,0.0,0.0,0.0,0.3,0.41,0.3,0.0,0.1,0.3,0.2,OKC
+22019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.101,56,0.029,1.375,0.53,0.06,0.063,0.06,0.06,0.5,0.7,0.3,0.0,0.1,0.3,0.1,OKC
+22019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.724,61,0.045,0.852,0.35,0.04,0.111,0.0,0.0,0.33,0.46,0.4,0.0,0.1,0.4,0.2,OKC
+22019,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.423,47,0.081,1.08,0.43,0.04,0.04,0.04,0.0,0.44,0.57,0.5,1.0,0.2,0.5,0.3,OKC
+22019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.185,62,0.047,1.222,0.52,0.0,0.074,0.0,0.0,0.48,0.66,0.4,1.0,0.2,0.4,0.2,OKC
+22019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.112,61,0.056,1.36,0.57,0.08,0.08,0.08,0.08,0.52,0.7,0.4,1.0,0.2,0.4,0.2,OKC
+22019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Defensive,0.273,63,0.066,1.185,0.5,0.02,0.031,0.0,0.0,0.49,0.61,1.0,1.0,0.5,1.0,0.5,OKC

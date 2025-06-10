@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.99,57,0.035,0.375,0.08,0.19,0.0,0.12,0.0,0.25,0.08,16,6,1,13,12,NYK
+22019,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.517,65,0.029,1.0,0.4,0.09,0.0,0.09,0.0,0.45,0.5,11,11,4,10,6,NYK
+22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.646,43,0.031,0.917,0.33,0.17,0.167,0.17,0.08,0.33,0.44,12,11,3,9,6,NYK
+22019,203901,Elfrid Payton,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.339,45,0.027,1.133,0.58,0.0,0.2,0.0,0.0,0.47,0.71,15,17,7,12,5,NYK
+22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.761,62,0.055,0.808,0.32,0.12,0.038,0.08,0.0,0.38,0.36,26,21,7,22,15,NYK
+22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.045,56,0.024,1.533,0.75,0.13,0.133,0.13,0.07,0.6,0.96,15,23,9,12,3,NYK
+22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.739,66,0.053,0.833,0.37,0.17,0.033,0.17,0.1,0.4,0.41,30,25,10,27,17,NYK
+22019,203944,Julius Randle,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.712,64,0.047,0.875,0.33,0.03,0.063,0.03,0.03,0.31,0.45,32,28,10,30,20,NYK
+22019,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRRollMan,Defensive,0.381,61,0.066,1.096,0.47,0.1,0.038,0.1,0.0,0.48,0.58,52,57,21,45,24,NYK

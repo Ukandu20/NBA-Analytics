@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.963,6,0.157,1.563,0.643,0.063,0.125,0.063,0.063,0.563,0.857,16,25,9,14,5,DAL
+42019,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.716,6,0.186,1.231,0.667,0.154,0.154,0.154,0.0,0.615,0.722,13,16,6,9,3,DAL
+42019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.111,6,0.108,0.75,0.4,0.05,0.2,0.05,0.0,0.35,0.433,20,15,6,15,9,DAL
+42019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,6,0.095,2.0,0.833,0.0,0.0,0.0,0.0,0.833,1.0,6,12,5,6,1,DAL
+42019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,6,0.127,1.125,0.6,0.125,0.25,0.125,0.0,0.5,0.7,8,9,3,5,2,DAL
+42019,1628499,Antonius Cleveland,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,2,0.2,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,DAL
+42019,1629729,Josh Reaves,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,2,0.4,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,DAL
+42019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,4,0.118,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,DAL
+42019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,6,0.082,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,DAL
+42019,203077,Michael Kidd-Gilchrist,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,6,0.111,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,DAL
+42019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Transition,Offensive,0.0,3,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL

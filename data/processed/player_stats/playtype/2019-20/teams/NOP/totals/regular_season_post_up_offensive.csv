@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.516,24,0.202,0.921,0.486,0.198,0.099,0.178,0.03,0.505,0.486,101,93,36,74,38,NOP
+22019,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.632,30,0.229,0.962,0.583,0.154,0.192,0.135,0.038,0.5,0.583,52,50,21,36,15,NOP
+22019,1629740,Nicolo Melli,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.542,60,0.109,0.932,0.484,0.227,0.091,0.114,0.023,0.523,0.484,44,41,15,31,16,NOP
+22019,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.123,62,0.033,0.702,0.361,0.106,0.191,0.106,0.064,0.319,0.361,47,33,13,36,23,NOP
+22019,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.948,61,0.012,1.133,0.533,0.067,0.0,0.067,0.067,0.533,0.533,15,17,8,15,7,NOP
+22019,202324,Derrick Favors,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.581,51,0.043,0.944,0.615,0.056,0.278,0.056,0.056,0.444,0.615,18,17,8,13,5,NOP

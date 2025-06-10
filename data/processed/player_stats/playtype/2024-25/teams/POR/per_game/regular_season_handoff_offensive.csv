@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.283,72,0.075,0.792,0.321,0.089,0.079,0.089,0.0,0.356,0.381,1.4,1.1,0.4,1.2,0.8,POR
+22024,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.806,70,0.051,1.118,0.456,0.088,0.088,0.088,0.015,0.456,0.561,1.0,1.1,0.4,0.8,0.4,POR
+22024,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.925,47,0.075,1.226,0.488,0.17,0.038,0.17,0.019,0.547,0.547,1.1,1.4,0.4,0.9,0.5,POR
+22024,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.717,66,0.061,1.051,0.465,0.153,0.136,0.102,0.017,0.475,0.558,0.9,0.9,0.3,0.7,0.3,POR
+22024,1630166,Deni Avdija,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.53,72,0.052,0.952,0.462,0.177,0.226,0.177,0.032,0.435,0.538,0.9,0.8,0.2,0.5,0.3,POR
+22024,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.681,67,0.05,1.031,0.44,0.156,0.094,0.156,0.031,0.469,0.54,0.5,0.5,0.2,0.4,0.2,POR
+22024,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.151,78,0.026,0.696,0.429,0.174,0.261,0.174,0.043,0.391,0.429,0.3,0.2,0.1,0.2,0.1,POR
+22024,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.086,69,0.061,0.571,0.333,0.095,0.238,0.095,0.048,0.238,0.367,0.3,0.2,0.1,0.2,0.1,POR

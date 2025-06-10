@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.967,27,0.035,0.5,0.2,0.0,0.0,0.0,0.0,0.2,0.25,10,5,2,10,8,PHI
+22018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.949,44,0.047,0.538,0.25,0.08,0.0,0.08,0.0,0.31,0.25,13,7,3,12,9,PHI
+22018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.648,22,0.094,0.9,0.368,0.05,0.0,0.05,0.0,0.4,0.447,20,18,7,19,12,PHI
+22018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.32,51,0.061,1.1,0.421,0.1,0.0,0.1,0.05,0.45,0.5,20,22,8,19,11,PHI
+22018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.191,79,0.021,1.211,0.471,0.16,0.0,0.16,0.05,0.53,0.559,19,23,8,17,9,PHI
+22018,203488,Mike Muscala,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.17,47,0.045,1.238,0.529,0.1,0.1,0.1,0.0,0.52,0.676,21,26,9,17,8,PHI
+22018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.036,55,0.028,1.526,0.647,0.11,0.05,0.11,0.05,0.63,0.794,19,29,11,17,6,PHI
+22018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.632,64,0.069,0.911,0.427,0.03,0.06,0.03,0.0,0.42,0.47,90,82,35,82,47,PHI

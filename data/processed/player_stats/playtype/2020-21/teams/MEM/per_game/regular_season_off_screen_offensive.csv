@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.21,67,0.077,0.789,0.349,0.074,0.063,0.074,0.011,0.368,0.386,1.4,1.1,0.4,1.2,0.8,MEM
+22020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.695,50,0.105,1.096,0.395,0.096,0.077,0.096,0.0,0.423,0.558,1.0,1.1,0.3,0.9,0.5,MEM
+22020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.105,68,0.061,0.686,0.324,0.0,0.029,0.0,0.0,0.314,0.353,0.5,0.4,0.2,0.5,0.3,MEM
+22020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.157,69,0.036,0.733,0.346,0.1,0.033,0.133,0.033,0.367,0.365,0.4,0.3,0.1,0.4,0.2,MEM
+22020,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.762,62,0.014,1.154,0.538,0.077,0.0,0.077,0.077,0.538,0.538,0.2,0.2,0.1,0.2,0.1,MEM
+22020,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.333,59,0.028,0.875,0.429,0.125,0.0,0.125,0.0,0.5,0.429,0.3,0.2,0.1,0.2,0.1,MEM
+22020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.043,63,0.017,0.545,0.375,0.045,0.227,0.045,0.0,0.273,0.375,0.3,0.2,0.1,0.3,0.2,MEM
+22020,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.386,11,0.07,0.909,0.4,0.182,0.091,0.182,0.182,0.364,0.45,1.0,0.9,0.4,0.9,0.5,MEM
+22020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.082,52,0.031,0.667,0.273,0.133,0.2,0.067,0.067,0.267,0.409,0.3,0.2,0.1,0.2,0.2,MEM

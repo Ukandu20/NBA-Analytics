@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.698,12,0.252,1.032,0.518,0.032,0.079,0.032,0.0,0.492,0.554,63,65,29,56,27,PHI
+42020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.937,12,0.242,1.175,0.526,0.025,0.025,0.0,0.0,0.525,0.605,40,47,20,38,18,PHI
+42020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.683,12,0.457,1.027,0.5,0.108,0.054,0.108,0.027,0.514,0.516,37,38,16,32,16,PHI
+42020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.714,12,0.477,1.032,0.45,0.129,0.226,0.097,0.0,0.419,0.6,31,32,9,20,11,PHI
+42020,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.6,12,0.065,1.0,0.714,0.1,0.2,0.1,0.0,0.5,0.714,10,10,5,7,2,PHI
+42020,201588,George Hill,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.095,12,0.271,0.625,0.364,0.063,0.25,0.0,0.0,0.25,0.455,16,10,4,11,7,PHI
+42020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,12,0.096,0.875,0.375,0.0,0.0,0.0,0.0,0.375,0.438,8,7,3,8,5,PHI
+42020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,8,0.075,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.625,4,5,2,4,2,PHI
+42020,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,11,0.014,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,PHI

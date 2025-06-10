@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.5,69,0.23,0.942,0.43,0.125,0.038,0.101,0.024,0.471,0.43,208,196,77,179,102,POR
+22020,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.681,72,0.152,1.028,0.573,0.065,0.139,0.056,0.028,0.509,0.573,108,111,51,89,38,POR
+22020,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.169,37,0.176,0.738,0.419,0.088,0.163,0.088,0.025,0.375,0.419,80,59,26,62,36,POR
+22020,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.888,38,0.089,1.143,0.55,0.143,0.0,0.143,0.095,0.524,0.55,21,24,11,20,9,POR
+22020,1628385,Harry Giles III,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.0,32,0.107,0.333,0.2,0.0,0.167,0.0,0.0,0.167,0.2,12,4,2,10,8,POR

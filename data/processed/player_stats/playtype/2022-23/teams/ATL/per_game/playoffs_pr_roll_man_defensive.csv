@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ATL
+42022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ATL
+42022,1628988,Aaron Holiday,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,ATL
+42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,5,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,ATL
+42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.03,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.2,0.3,0.2,ATL
+42022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.05,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.5,0.0,0.2,0.5,0.3,ATL
+42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.05,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.7,0.0,0.2,0.7,0.5,ATL
+42022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.09,0.5,0.17,0.0,0.0,0.0,0.0,0.17,0.25,1.0,0.0,0.2,1.0,0.8,ATL
+42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.05,1.6,0.75,0.2,0.2,0.2,0.2,0.6,0.88,0.8,1.0,0.5,0.7,0.2,ATL
+42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.0,6,0.08,2.25,0.75,0.0,0.0,0.0,0.0,0.75,1.12,0.7,2.0,0.5,0.7,0.2,ATL

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.259,73,0.315,0.968,0.483,0.113,0.057,0.113,0.024,0.494,0.483,3.4,3.3,1.4,2.9,1.5,ATL
+22023,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.608,55,0.182,1.167,0.621,0.131,0.107,0.131,0.024,0.595,0.621,1.5,1.8,0.7,1.2,0.5,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.509,56,0.063,1.127,0.58,0.036,0.055,0.036,0.0,0.564,0.59,1.0,1.1,0.5,0.9,0.4,ATL
+22023,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.771,45,0.135,1.27,0.63,0.243,0.054,0.243,0.027,0.676,0.63,0.8,1.0,0.4,0.6,0.2,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.219,79,0.027,0.912,0.448,0.059,0.088,0.029,0.0,0.441,0.466,0.4,0.4,0.2,0.4,0.2,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.294,78,0.013,1.0,0.474,0.13,0.043,0.13,0.0,0.522,0.474,0.3,0.3,0.1,0.2,0.1,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.294,57,0.019,1.0,0.533,0.0,0.063,0.0,0.0,0.5,0.533,0.3,0.3,0.1,0.3,0.1,ATL
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,OffRebound,Offensive,0.294,54,0.008,1.0,0.455,0.083,0.0,0.083,0.0,0.5,0.455,0.2,0.2,0.1,0.2,0.1,ATL

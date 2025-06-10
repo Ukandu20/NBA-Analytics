@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.895,73,0.09,1.193,0.486,0.034,0.059,0.034,0.008,0.471,0.61,119,142,53,109,56,CHA
+22021,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.174,76,0.056,0.783,0.288,0.067,0.067,0.067,0.0,0.317,0.385,60,47,15,52,37,CHA
+22021,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.53,49,0.058,0.977,0.429,0.091,0.114,0.091,0.0,0.432,0.529,44,43,15,35,20,CHA
+22021,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.379,80,0.031,0.894,0.342,0.106,0.085,0.085,0.0,0.383,0.447,47,42,13,38,25,CHA
+22021,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.9,75,0.019,1.194,0.444,0.065,0.065,0.032,0.0,0.452,0.611,31,37,12,27,15,CHA

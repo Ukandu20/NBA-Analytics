@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.822,66,0.089,1.328,0.527,0.148,0.031,0.125,0.04,0.563,0.627,1.9,2.6,0.9,1.7,0.8,UTA
+22022,1631117,Walker Kessler,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.801,74,0.143,1.295,0.681,0.115,0.026,0.115,0.03,0.667,0.681,1.1,1.4,0.6,0.9,0.3,UTA
+22022,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.884,68,0.064,1.358,0.643,0.17,0.113,0.17,0.08,0.604,0.714,0.8,1.1,0.4,0.6,0.2,UTA
+22022,1629020,Jarred Vanderbilt,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.641,52,0.087,1.189,0.613,0.081,0.081,0.081,0.0,0.595,0.613,0.7,0.8,0.4,0.6,0.2,UTA
+22022,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.156,61,0.018,0.833,0.304,0.042,0.0,0.042,0.0,0.333,0.391,0.4,0.3,0.1,0.4,0.3,UTA
+22022,200752,Rudy Gay,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.489,56,0.049,1.118,0.5,0.118,0.059,0.118,0.0,0.529,0.536,0.3,0.3,0.1,0.3,0.1,UTA
+22022,1627736,Malik Beasley,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.007,55,0.02,0.4,0.133,0.0,0.0,0.0,0.0,0.133,0.2,0.3,0.1,0.0,0.3,0.2,UTA

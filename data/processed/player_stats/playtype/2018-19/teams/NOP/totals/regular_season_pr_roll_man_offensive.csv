@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.384,56,0.141,1.016,0.471,0.155,0.048,0.15,0.032,0.503,0.494,187,190,73,155,82,NOP
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.921,73,0.067,1.337,0.642,0.188,0.05,0.178,0.04,0.663,0.66,101,135,52,81,29,NOP
+22018,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.583,64,0.253,1.114,0.558,0.114,0.068,0.114,0.057,0.534,0.565,88,98,43,77,34,NOP
+22018,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.838,59,0.156,1.286,0.677,0.1,0.057,0.1,0.043,0.643,0.677,70,90,42,62,20,NOP
+22018,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.307,32,0.051,0.96,0.375,0.08,0.0,0.08,0.04,0.4,0.458,25,24,9,24,15,NOP
+22018,1626174,Christian Wood,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.814,8,0.129,1.25,0.667,0.125,0.125,0.125,0.0,0.625,0.708,16,20,8,12,4,NOP
+22018,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.346,53,0.016,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,NOP

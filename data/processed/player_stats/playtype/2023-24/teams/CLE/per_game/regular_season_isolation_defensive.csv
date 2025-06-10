@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.215,44,0.097,1.087,0.471,0.217,0.087,0.217,0.043,0.522,0.5,0.5,0.6,0.2,0.4,0.2,CLE
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.228,54,0.057,1.08,0.5,0.04,0.12,0.04,0.04,0.44,0.614,0.5,0.5,0.2,0.4,0.2,CLE
+22023,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.761,54,0.127,0.8,0.394,0.05,0.125,0.05,0.0,0.375,0.424,0.7,0.6,0.2,0.6,0.4,CLE
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.629,56,0.081,0.878,0.421,0.082,0.143,0.082,0.0,0.408,0.461,0.9,0.8,0.3,0.7,0.4,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.776,66,0.085,0.789,0.4,0.105,0.105,0.07,0.0,0.386,0.411,0.9,0.7,0.3,0.7,0.4,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.844,50,0.092,0.754,0.333,0.082,0.033,0.082,0.0,0.361,0.37,1.2,0.9,0.4,1.1,0.7,CLE
+22023,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.142,35,0.165,1.146,0.486,0.122,0.073,0.122,0.049,0.488,0.557,1.2,1.3,0.5,1.0,0.5,CLE
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.847,70,0.092,0.753,0.296,0.062,0.074,0.062,0.012,0.309,0.366,1.2,0.9,0.3,1.0,0.7,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.606,82,0.122,0.889,0.397,0.173,0.099,0.16,0.049,0.432,0.421,1.0,0.9,0.3,0.8,0.5,CLE

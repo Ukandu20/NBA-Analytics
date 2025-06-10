@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.532,58,0.304,1.087,0.521,0.236,0.094,0.236,0.087,0.52,0.542,127,138,50,96,46,CHA
+22018,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.301,49,0.26,0.959,0.5,0.139,0.123,0.131,0.016,0.492,0.511,122,117,46,92,46,CHA
+22018,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.523,75,0.143,1.085,0.457,0.057,0.075,0.047,0.0,0.443,0.576,106,115,42,92,50,CHA
+22018,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.5,47,0.258,1.071,0.442,0.162,0.111,0.162,0.051,0.455,0.545,99,106,34,77,43,CHA
+22018,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.722,54,0.312,1.194,0.608,0.25,0.069,0.25,0.028,0.653,0.608,72,86,31,51,20,CHA
+22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.685,80,0.047,1.179,0.481,0.036,0.0,0.036,0.0,0.5,0.574,28,33,13,27,14,CHA
+22018,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.056,64,0.062,0.667,0.318,0.111,0.111,0.111,0.037,0.333,0.318,27,18,7,22,15,CHA
+22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.346,75,0.014,1.0,0.375,0.1,0.1,0.0,0.0,0.4,0.5,10,10,3,8,5,CHA

@@ -1,0 +1,21 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628421,Devin Robinson,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.948,8,0.5,0.733,0.231,0.13,0.07,0.13,0.07,0.27,0.308,15,11,3,13,10,WAS
+22018,2730,Dwight Howard,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.156,9,0.106,1.154,0.5,0.0,0.08,0.0,0.0,0.46,0.625,13,15,6,12,6,WAS
+22018,202325,Wesley Johnson,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.363,12,0.356,1.063,0.273,0.19,0.12,0.19,0.0,0.38,0.409,16,17,3,11,8,WAS
+22018,203895,Jordan McRae,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.813,27,0.324,0.882,0.333,0.03,0.0,0.03,0.0,0.35,0.439,34,30,11,33,22,WAS
+22018,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.01,34,0.132,1.533,0.571,0.1,0.03,0.1,0.07,0.57,0.75,30,46,16,28,12,WAS
+22018,1626171,Bobby Portis,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.603,28,0.139,0.979,0.452,0.0,0.11,0.0,0.0,0.4,0.548,47,46,19,42,23,WAS
+22018,203085,Austin Rivers,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.759,29,0.245,0.912,0.32,0.11,0.04,0.09,0.02,0.35,0.44,57,52,16,50,34,WAS
+22018,1626155,Sam Dekker,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.551,38,0.31,1.0,0.386,0.07,0.07,0.07,0.0,0.39,0.518,67,67,22,57,35,WAS
+22018,1626184,Chasson Randle,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.222,49,0.233,1.123,0.422,0.08,0.05,0.07,0.01,0.44,0.57,73,82,27,64,37,WAS
+22018,203953,Jabari Parker,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.476,25,0.367,1.024,0.411,0.06,0.08,0.06,0.02,0.4,0.534,83,85,30,73,43,WAS
+22018,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.127,34,0.195,1.176,0.444,0.09,0.05,0.09,0.0,0.47,0.603,74,87,28,63,35,WAS
+22018,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.372,29,0.32,1.06,0.416,0.02,0.05,0.02,0.0,0.41,0.545,83,88,32,77,45,WAS
+22018,1628972,Troy Brown Jr.,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.694,52,0.331,0.941,0.378,0.06,0.05,0.06,0.0,0.4,0.478,101,95,34,90,56,WAS
+22018,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.208,33,0.234,1.126,0.44,0.06,0.09,0.05,0.01,0.43,0.6,87,98,33,75,42,WAS
+22018,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.649,72,0.148,0.963,0.369,0.03,0.01,0.03,0.0,0.38,0.471,107,103,38,103,65,WAS
+22018,2772,Trevor Ariza,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.089,43,0.297,1.217,0.472,0.07,0.07,0.07,0.02,0.47,0.627,120,146,50,106,56,WAS
+22018,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.281,41,0.398,1.097,0.422,0.08,0.07,0.08,0.02,0.43,0.569,134,147,49,116,67,WAS
+22018,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.349,80,0.314,1.069,0.427,0.02,0.07,0.02,0.0,0.41,0.569,233,249,90,211,121,WAS
+22018,201145,Jeff Green,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.171,77,0.338,1.146,0.42,0.04,0.03,0.04,0.01,0.43,0.58,261,299,103,245,142,WAS
+22018,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Defensive,0.368,82,0.333,1.062,0.405,0.04,0.07,0.03,0.01,0.4,0.556,341,362,124,306,182,WAS

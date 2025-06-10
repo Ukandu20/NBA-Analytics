@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.728,49,0.113,1.02,0.512,0.04,0.12,0.04,0.02,0.44,0.581,50,51,22,43,21,LAL
+22019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.359,69,0.095,0.828,0.419,0.121,0.172,0.121,0.034,0.397,0.453,58,48,18,43,25,LAL
+22019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.21,67,0.037,0.719,0.333,0.031,0.141,0.031,0.016,0.297,0.417,64,46,18,54,36,LAL
+22019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.377,61,0.03,0.84,0.364,0.08,0.08,0.08,0.04,0.36,0.455,25,21,8,22,14,LAL
+22019,203584,Troy Daniels,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.79,41,0.089,1.067,0.4,0.0,0.0,0.0,0.0,0.4,0.533,15,16,6,15,9,LAL
+22019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.165,63,0.016,0.667,0.222,0.167,0.083,0.125,0.0,0.333,0.278,24,16,4,18,14,LAL
+22019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.183,64,0.057,0.682,0.333,0.0,0.182,0.0,0.0,0.273,0.417,22,15,6,18,12,LAL
+22019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.188,68,0.034,0.684,0.313,0.0,0.158,0.0,0.0,0.263,0.406,19,13,5,16,11,LAL
+22019,1626188,Quinn Cook,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.054,44,0.06,0.533,0.273,0.0,0.267,0.0,0.0,0.2,0.364,15,8,3,11,8,LAL

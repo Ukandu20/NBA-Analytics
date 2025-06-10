@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.647,74,0.286,0.912,0.434,0.103,0.172,0.091,0.022,0.405,0.488,407,371,132,304,172,CHI
+22024,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.785,42,0.267,0.988,0.452,0.071,0.154,0.062,0.004,0.419,0.553,241,238,85,188,103,CHI
+22024,1630581,Josh Giddey,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.426,70,0.261,0.826,0.454,0.122,0.213,0.111,0.017,0.415,0.474,287,237,89,196,107,CHI
+22024,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.909,46,0.191,1.057,0.578,0.076,0.162,0.076,0.029,0.505,0.596,105,111,48,83,35,CHI
+22024,1629659,Talen Horton-Tucker,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.792,58,0.285,0.991,0.457,0.187,0.112,0.187,0.056,0.477,0.488,107,106,37,81,44,CHI
+22024,1628366,Lonzo Ball,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.752,35,0.183,0.963,0.487,0.037,0.241,0.037,0.0,0.389,0.615,54,52,19,39,20,CHI
+22024,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.236,63,0.111,0.732,0.31,0.07,0.141,0.07,0.028,0.296,0.405,71,52,18,58,40,CHI
+22024,1630200,Tre Jones,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.733,18,0.253,0.955,0.432,0.136,0.068,0.114,0.045,0.455,0.432,44,42,16,37,21,CHI
+22024,1641824,Matas Buzelis,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.242,80,0.072,0.735,0.355,0.143,0.224,0.143,0.0,0.367,0.355,49,36,11,31,20,CHI
+22024,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.61,73,0.108,0.895,0.5,0.132,0.184,0.105,0.0,0.447,0.519,38,34,13,26,13,CHI
+22024,1628989,Kevin Huerter,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.332,26,0.114,0.789,0.414,0.0,0.237,0.0,0.0,0.316,0.517,38,30,12,29,17,CHI

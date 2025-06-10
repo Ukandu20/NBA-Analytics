@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630539,Kai Jones,1610612766,CHA,Charlotte Hornets,Postup,Defensive,1.0,47,0.06,0.385,0.2,0.08,0.15,0.08,0.0,0.23,0.2,13,5,2,10,8,CHA
+22022,1630547,James Bouknight,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.635,34,0.053,0.909,0.571,0.18,0.18,0.18,0.0,0.55,0.571,11,10,4,7,3,CHA
+22022,1630550,JT Thor,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.958,69,0.053,0.579,0.333,0.11,0.11,0.11,0.0,0.32,0.333,19,11,5,15,10,CHA
+22022,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.775,56,0.027,0.813,0.333,0.19,0.06,0.25,0.06,0.38,0.333,16,13,4,12,8,CHA
+22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.835,50,0.032,0.765,0.286,0.18,0.06,0.12,0.06,0.35,0.286,17,13,4,14,10,CHA
+22022,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.827,48,0.033,0.778,0.385,0.11,0.17,0.06,0.0,0.39,0.385,18,14,5,13,8,CHA
+22022,1630177,Theo Maledon,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.048,44,0.034,1.364,0.7,0.18,0.0,0.18,0.09,0.64,0.7,11,15,7,10,3,CHA
+22022,1628372,Dennis Smith Jr.,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.751,54,0.04,0.826,0.444,0.09,0.13,0.04,0.0,0.43,0.444,23,19,8,18,10,CHA
+22022,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.475,43,0.059,1.0,0.471,0.27,0.12,0.27,0.04,0.54,0.471,26,26,8,17,9,CHA
+22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.866,73,0.047,0.737,0.433,0.08,0.16,0.08,0.03,0.37,0.433,38,28,13,30,17,CHA
+22022,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.04,63,0.029,1.391,0.7,0.13,0.04,0.13,0.04,0.7,0.7,23,32,14,20,6,CHA
+22022,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.309,65,0.053,1.083,0.621,0.06,0.14,0.06,0.0,0.56,0.621,36,39,18,29,11,CHA
+22022,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.116,56,0.056,1.244,0.647,0.1,0.07,0.07,0.0,0.63,0.647,41,51,22,34,12,CHA

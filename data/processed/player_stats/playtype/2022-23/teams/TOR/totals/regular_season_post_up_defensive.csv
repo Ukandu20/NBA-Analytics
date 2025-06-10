@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.989,66,0.024,0.417,0.4,0.17,0.5,0.17,0.08,0.17,0.4,12,5,2,5,3,TOR
+22022,201152,Thaddeus Young,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.802,54,0.035,0.8,0.375,0.1,0.1,0.0,0.0,0.4,0.375,10,8,3,8,5,TOR
+22022,1631132,Christian Koloko,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.818,58,0.046,0.786,0.375,0.29,0.21,0.29,0.07,0.43,0.375,14,11,3,8,5,TOR
+22022,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.475,76,0.041,1.0,0.636,0.16,0.26,0.16,0.0,0.53,0.636,19,19,7,11,4,TOR
+22022,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.561,55,0.051,0.957,0.474,0.09,0.09,0.04,0.0,0.48,0.474,23,22,9,19,10,TOR
+22022,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.858,71,0.037,0.742,0.381,0.26,0.13,0.23,0.06,0.39,0.381,31,23,8,21,13,TOR
+22022,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.898,69,0.05,0.696,0.379,0.13,0.24,0.13,0.0,0.37,0.379,46,32,11,29,18,TOR
+22022,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.419,77,0.034,1.031,0.478,0.19,0.12,0.19,0.03,0.5,0.478,32,33,11,23,12,TOR
+22022,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Postup,Defensive,0.807,67,0.068,0.792,0.432,0.13,0.15,0.15,0.0,0.43,0.432,53,42,16,37,21,TOR

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.828,70,0.233,1.086,0.443,0.159,0.057,0.145,0.027,0.479,0.533,511,555,184,415,231,DAL
+22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.82,58,0.199,1.08,0.476,0.095,0.042,0.088,0.019,0.496,0.522,262,283,110,231,121,DAL
+22023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.225,73,0.106,0.721,0.28,0.131,0.082,0.131,0.033,0.328,0.33,61,44,14,50,36,DAL
+22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.328,79,0.037,0.829,0.361,0.073,0.073,0.073,0.024,0.341,0.431,41,34,13,36,23,DAL
+22023,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.811,55,0.071,1.074,0.545,0.111,0.111,0.111,0.037,0.519,0.545,27,29,12,22,10,DAL
+22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.519,57,0.033,0.933,0.545,0.067,0.2,0.067,0.0,0.467,0.591,15,14,6,11,5,DAL

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.758,69,0.236,1.043,0.517,0.22,0.103,0.211,0.069,0.523,0.517,5.1,5.3,2.0,3.8,1.8,NOP
+22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.574,64,0.124,0.962,0.484,0.126,0.119,0.107,0.025,0.478,0.492,2.5,2.4,0.9,1.9,1.0,NOP
+22023,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.398,65,0.075,0.868,0.36,0.11,0.077,0.099,0.011,0.396,0.413,1.4,1.2,0.4,1.2,0.7,NOP
+22023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.832,57,0.033,1.087,0.45,0.13,0.087,0.13,0.087,0.435,0.55,0.4,0.4,0.2,0.4,0.2,NOP
+22023,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.975,66,0.026,1.333,0.7,0.083,0.083,0.083,0.0,0.667,0.7,0.2,0.2,0.1,0.2,0.0,NOP
+22023,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.971,55,0.025,1.3,0.6,0.0,0.0,0.0,0.0,0.6,0.65,0.2,0.2,0.1,0.2,0.1,NOP
+22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.48,75,0.016,0.917,0.444,0.25,0.083,0.25,0.083,0.5,0.444,0.2,0.1,0.1,0.1,0.1,NOP
+22023,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.34,81,0.013,0.833,0.5,0.0,0.167,0.0,0.0,0.417,0.5,0.1,0.1,0.1,0.1,0.1,NOP

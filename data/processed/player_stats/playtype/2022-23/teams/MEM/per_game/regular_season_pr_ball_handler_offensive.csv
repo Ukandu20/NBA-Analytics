@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.637,61,0.477,0.927,0.446,0.157,0.117,0.148,0.037,0.455,0.472,12.8,11.8,4.3,9.7,5.4,MEM
+22022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.505,80,0.386,0.874,0.453,0.038,0.11,0.035,0.009,0.418,0.474,4.0,3.5,1.5,3.4,1.9,MEM
+22022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.692,58,0.173,0.949,0.475,0.071,0.152,0.061,0.02,0.429,0.532,3.4,3.2,1.3,2.7,1.4,MEM
+22022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.295,73,0.214,0.756,0.362,0.065,0.098,0.061,0.016,0.354,0.395,3.4,2.5,1.0,2.9,1.8,MEM
+22022,1631113,Kennedy Chandler,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.066,15,0.362,0.52,0.3,0.04,0.16,0.04,0.0,0.28,0.3,1.7,0.9,0.4,1.3,0.9,MEM
+22022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.647,63,0.026,0.929,0.348,0.179,0.036,0.179,0.036,0.429,0.391,0.4,0.4,0.1,0.4,0.2,MEM
+22022,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.228,70,0.063,0.719,0.375,0.063,0.188,0.063,0.0,0.344,0.396,0.5,0.3,0.1,0.3,0.2,MEM
+22022,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.302,38,0.104,0.76,0.4,0.04,0.2,0.04,0.04,0.32,0.45,0.7,0.5,0.2,0.5,0.3,MEM
+22022,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.957,24,0.072,1.143,0.6,0.071,0.214,0.071,0.0,0.5,0.7,0.6,0.7,0.3,0.4,0.2,MEM
+22022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.409,77,0.028,0.833,0.5,0.056,0.278,0.056,0.0,0.389,0.542,0.2,0.2,0.1,0.2,0.1,MEM

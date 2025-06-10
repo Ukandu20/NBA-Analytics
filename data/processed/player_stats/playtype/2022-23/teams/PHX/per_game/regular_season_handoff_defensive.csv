@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630240,Saben Lee,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.594,23,0.07,0.909,0.36,0.0,0.0,0.0,0.0,0.364,0.45,0.5,0.4,0.2,0.5,0.3,PHX
+22022,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.825,67,0.013,0.769,0.3,0.08,0.154,0.08,0.0,0.308,0.4,0.2,0.1,0.0,0.1,0.1,PHX
+22022,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.112,17,0.086,1.25,0.58,0.0,0.0,0.0,0.0,0.583,0.62,0.7,0.9,0.4,0.7,0.3,PHX
+22022,1630613,Duane Washington Jr.,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.296,31,0.124,1.056,0.35,0.11,0.0,0.11,0.06,0.389,0.44,0.6,0.6,0.2,0.5,0.4,PHX
+22022,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.477,40,0.087,0.96,0.43,0.08,0.12,0.08,0.04,0.4,0.5,0.6,0.6,0.2,0.5,0.3,PHX
+22022,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.106,48,0.085,1.261,0.55,0.04,0.0,0.04,0.0,0.565,0.64,0.5,0.6,0.3,0.5,0.2,PHX
+22022,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.161,60,0.1,1.185,0.52,0.11,0.037,0.11,0.07,0.519,0.56,0.5,0.5,0.2,0.4,0.2,PHX
+22022,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.491,59,0.085,0.955,0.35,0.07,0.068,0.07,0.05,0.341,0.48,0.7,0.7,0.2,0.7,0.4,PHX
+22022,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.345,72,0.079,1.023,0.42,0.09,0.047,0.09,0.02,0.442,0.49,0.6,0.6,0.2,0.5,0.3,PHX
+22022,1627814,Damion Lee,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.282,74,0.094,1.071,0.5,0.1,0.071,0.07,0.02,0.5,0.56,0.6,0.6,0.2,0.5,0.2,PHX
+22022,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.552,53,0.087,0.926,0.42,0.15,0.074,0.13,0.06,0.444,0.46,1.0,0.9,0.4,0.8,0.5,PHX
+22022,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.115,79,0.078,1.245,0.57,0.09,0.113,0.08,0.04,0.528,0.67,0.7,0.8,0.3,0.6,0.2,PHX
+22022,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Handoff,Defensive,0.504,56,0.109,0.949,0.41,0.1,0.09,0.1,0.01,0.423,0.46,1.4,1.3,0.5,1.1,0.7,PHX

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.911,5,0.412,1.357,0.5,0.0,0.0,0.0,0.0,0.5,0.679,2.8,3.8,1.4,2.8,1.4,MEM
+42020,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.277,5,0.292,0.895,0.353,0.105,0.0,0.105,0.0,0.421,0.412,3.8,3.4,1.2,3.4,2.2,MEM
+42020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.847,5,0.096,1.273,0.455,0.091,0.0,0.091,0.091,0.455,0.591,2.2,2.8,1.0,2.2,1.2,MEM
+42020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,5,0.273,2.167,0.833,0.0,0.0,0.0,0.0,0.833,1.083,1.2,2.6,1.0,1.2,0.2,MEM
+42020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.315,5,0.361,0.923,0.308,0.0,0.0,0.0,0.0,0.308,0.462,2.6,2.4,0.8,2.6,1.8,MEM
+42020,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,5,0.222,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.625,0.8,1.0,0.4,0.8,0.4,MEM
+42020,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,5,0.069,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,1.0,1.0,0.4,1.0,0.6,MEM
+42020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,5,0.167,0.625,0.25,0.0,0.0,0.0,0.0,0.25,0.313,1.6,1.0,0.4,1.6,1.2,MEM
+42020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,5,0.047,0.429,0.167,0.0,0.143,0.0,0.0,0.143,0.25,1.4,0.6,0.2,1.2,1.0,MEM
+42020,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,3,0.333,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.7,0.7,0.3,0.7,0.3,MEM
+42020,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,MEM

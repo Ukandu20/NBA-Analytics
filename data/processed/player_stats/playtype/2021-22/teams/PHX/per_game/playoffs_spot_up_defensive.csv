@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHX
+42021,1628988,Aaron Holiday,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,6,0.556,1.2,0.5,0.2,0.0,0.0,0.0,0.4,0.75,0.8,1.0,0.3,0.7,0.3,PHX
+42021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,9,0.171,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.7,1.0,0.3,0.7,0.3,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,12,0.167,1.0,0.38,0.11,0.0,0.11,0.0,0.33,0.56,0.8,1.0,0.3,0.7,0.4,PHX
+42021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,9,0.2,1.5,0.62,0.0,0.0,0.0,0.0,0.62,0.75,0.9,1.0,0.6,0.9,0.3,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.584,12,0.175,1.0,0.33,0.07,0.07,0.07,0.0,0.36,0.5,1.2,1.0,0.3,1.0,0.7,PHX
+42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.176,13,0.364,1.25,0.47,0.0,0.06,0.0,0.0,0.44,0.67,1.2,2.0,0.5,1.2,0.6,PHX
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.767,13,0.147,0.875,0.31,0.03,0.06,0.03,0.0,0.31,0.45,2.5,2.0,0.7,2.2,1.5,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.727,13,0.192,0.897,0.31,0.1,0.1,0.1,0.03,0.33,0.44,3.0,3.0,0.8,2.5,1.7,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.857,13,0.307,0.814,0.29,0.05,0.02,0.02,0.02,0.3,0.39,3.3,3.0,0.9,3.2,2.2,PHX
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.368,13,0.289,1.114,0.4,0.14,0.06,0.14,0.06,0.43,0.52,2.7,3.0,0.9,2.3,1.4,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.256,10,0.5,1.16,0.44,0.08,0.02,0.08,0.0,0.46,0.6,5.0,6.0,2.0,4.5,2.5,PHX
+42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.12,13,0.372,1.311,0.48,0.07,0.09,0.07,0.04,0.44,0.69,3.5,5.0,1.5,3.1,1.6,PHX

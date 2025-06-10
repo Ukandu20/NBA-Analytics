@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.368,79,0.049,0.856,0.387,0.093,0.144,0.093,0.01,0.381,0.453,97,83,29,75,46,MIN
+22022,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.382,54,0.077,0.863,0.418,0.11,0.137,0.123,0.014,0.397,0.464,73,63,23,55,32,MIN
+22022,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.871,79,0.034,1.2,0.6,0.067,0.1,0.067,0.0,0.567,0.68,30,36,15,25,10,MIN
+22022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.746,24,0.109,1.094,0.48,0.063,0.156,0.063,0.0,0.438,0.62,32,35,12,25,13,MIN
+22022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.432,65,0.052,0.895,0.441,0.0,0.105,0.0,0.0,0.395,0.5,38,34,15,34,19,MIN
+22022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.836,54,0.055,1.154,0.571,0.038,0.154,0.038,0.0,0.5,0.69,26,30,12,21,9,MIN
+22022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.986,29,0.033,1.526,0.786,0.105,0.158,0.053,0.0,0.684,0.893,19,29,11,14,3,MIN
+22022,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.538,69,0.026,0.947,0.385,0.316,0.105,0.316,0.105,0.474,0.385,19,18,5,13,8,MIN
+22022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.079,69,0.034,0.636,0.313,0.182,0.091,0.182,0.0,0.318,0.313,22,14,5,16,11,MIN

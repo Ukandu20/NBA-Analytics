@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1627738,Deyonta Davis,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.125,9,0.236,1.176,0.438,0.0,0.06,0.0,0.0,0.41,0.625,17,20,7,16,9,ATL
+22018,1627772,Daniel Hamilton,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.452,18,0.357,1.033,0.333,0.17,0.03,0.13,0.0,0.43,0.438,30,31,8,24,16,ATL
+22018,1627816,Alex Poythress,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.068,21,0.288,1.235,0.556,0.15,0.09,0.12,0.03,0.56,0.667,34,42,15,27,12,ATL
+22018,1629121,Jaylen Adams,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.027,33,0.233,1.387,0.556,0.03,0.1,0.03,0.0,0.52,0.778,31,43,15,27,12,ATL
+22018,1629016,Omari Spellman,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.551,45,0.27,1.0,0.386,0.01,0.05,0.01,0.0,0.38,0.518,88,88,32,83,51,ATL
+22018,202391,Jeremy Lin,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.796,51,0.284,0.894,0.347,0.03,0.07,0.03,0.01,0.33,0.474,104,93,33,95,62,ATL
+22018,203458,Alex Len,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.732,76,0.145,0.925,0.364,0.1,0.08,0.08,0.01,0.38,0.48,120,111,36,99,63,ATL
+22018,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.671,54,0.272,0.95,0.351,0.03,0.04,0.02,0.0,0.35,0.482,119,113,39,111,72,ATL
+22018,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.366,67,0.285,1.062,0.423,0.05,0.1,0.05,0.0,0.41,0.573,162,172,58,137,79,ATL
+22018,1713,Vince Carter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.403,76,0.441,1.046,0.395,0.07,0.06,0.06,0.01,0.4,0.543,173,181,60,152,92,ATL
+22018,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.335,64,0.225,1.075,0.425,0.08,0.06,0.06,0.02,0.43,0.556,173,186,65,153,88,ATL
+22018,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.474,74,0.322,1.025,0.401,0.03,0.06,0.02,0.0,0.39,0.536,200,205,73,182,109,ATL
+22018,1627761,DeAndre' Bembry,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.532,81,0.295,1.005,0.421,0.06,0.1,0.05,0.01,0.41,0.544,216,217,77,183,106,ATL
+22018,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.341,80,0.245,1.072,0.427,0.07,0.06,0.06,0.03,0.42,0.553,222,238,85,199,114,ATL
+22018,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.412,60,0.404,1.043,0.392,0.05,0.03,0.05,0.01,0.4,0.523,253,264,93,237,144,ATL

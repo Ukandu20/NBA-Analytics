@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.441,6,0.508,0.887,0.372,0.124,0.093,0.072,0.021,0.402,0.429,97,86,29,78,49,ATL
+42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.542,5,0.44,0.961,0.442,0.098,0.098,0.098,0.039,0.431,0.477,51,49,19,43,24,ATL
+42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.085,6,0.101,0.7,0.333,0.1,0.0,0.1,0.0,0.4,0.333,10,7,3,9,6,ATL
+42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,6,0.136,0.75,0.5,0.0,0.25,0.0,0.0,0.375,0.5,8,6,3,6,3,ATL
+42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,6,0.065,1.667,0.5,0.333,0.0,0.333,0.0,0.667,0.75,3,5,1,2,1,ATL
+42022,1628988,Aaron Holiday,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,ATL

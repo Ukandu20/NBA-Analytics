@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Handoff,Defensive,0.339,19,0.068,1.0,0.4,0.08,0.154,0.08,0.0,0.385,0.55,0.7,0.7,0.2,0.5,0.3,LAC
+22019,1629010,Jerome Robinson,1610612746,LAC,LA Clippers,Handoff,Defensive,0.569,42,0.079,0.875,0.25,0.19,0.063,0.12,0.0,0.375,0.333,0.4,0.3,0.1,0.3,0.2,LAC
+22019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Handoff,Defensive,0.119,17,0.081,1.154,0.6,0.15,0.154,0.15,0.08,0.538,0.65,0.8,0.9,0.4,0.6,0.2,LAC
+22019,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Defensive,0.945,48,0.058,0.556,0.217,0.04,0.111,0.04,0.0,0.222,0.283,0.6,0.3,0.1,0.5,0.4,LAC
+22019,203210,JaMychal Green,1610612746,LAC,LA Clippers,Handoff,Defensive,0.889,63,0.052,0.667,0.211,0.08,0.125,0.08,0.0,0.25,0.289,0.4,0.3,0.1,0.3,0.2,LAC
+22019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Handoff,Defensive,0.016,63,0.012,1.5,0.583,0.0,0.0,0.0,0.0,0.583,0.75,0.2,0.3,0.1,0.2,0.1,LAC
+22019,203090,Maurice Harkless,1610612746,LAC,LA Clippers,Handoff,Defensive,0.942,50,0.084,0.579,0.219,0.11,0.079,0.11,0.03,0.263,0.25,0.8,0.4,0.1,0.6,0.5,LAC
+22019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Handoff,Defensive,0.839,51,0.073,0.711,0.3,0.13,0.079,0.11,0.0,0.342,0.35,0.7,0.5,0.2,0.6,0.4,LAC
+22019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Defensive,0.699,57,0.067,0.8,0.4,0.05,0.2,0.05,0.0,0.35,0.483,0.7,0.6,0.2,0.5,0.3,LAC
+22019,101150,Lou Williams,1610612746,LAC,LA Clippers,Handoff,Defensive,0.529,65,0.085,0.896,0.415,0.02,0.125,0.02,0.0,0.375,0.512,0.7,0.7,0.3,0.6,0.4,LAC
+22019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Handoff,Defensive,0.068,56,0.111,1.27,0.563,0.14,0.054,0.14,0.05,0.541,0.641,0.7,0.8,0.3,0.6,0.3,LAC
+22019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Handoff,Defensive,0.306,53,0.129,1.026,0.46,0.07,0.118,0.05,0.01,0.434,0.548,1.4,1.5,0.5,1.2,0.6,LAC

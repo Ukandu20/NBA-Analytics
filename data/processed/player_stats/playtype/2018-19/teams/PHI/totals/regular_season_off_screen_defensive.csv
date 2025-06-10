@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.544,64,0.008,0.909,0.4,0.0,0.09,0.0,0.0,0.36,0.5,11,10,4,10,6,PHI
+22018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.969,27,0.074,0.524,0.211,0.0,0.1,0.0,0.0,0.19,0.289,21,11,4,19,15,PHI
+22018,203488,Mike Muscala,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.662,47,0.03,0.857,0.286,0.0,0.0,0.0,0.0,0.29,0.429,14,12,4,14,10,PHI
+22018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.185,27,0.06,1.154,0.5,0.08,0.15,0.08,0.0,0.46,0.65,13,15,5,10,5,PHI
+22018,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.014,20,0.145,1.583,0.545,0.17,0.0,0.17,0.08,0.58,0.727,12,19,6,11,5,PHI
+22018,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.096,13,0.08,1.25,0.467,0.0,0.06,0.0,0.0,0.44,0.667,16,20,7,15,8,PHI
+22018,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.096,48,0.067,1.25,0.571,0.0,0.12,0.0,0.0,0.5,0.714,16,20,8,14,6,PHI
+22018,201163,Wilson Chandler,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.135,36,0.061,1.2,0.421,0.05,0.0,0.05,0.0,0.45,0.579,20,24,8,19,11,PHI
+22018,1629013,Landry Shamet,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.034,54,0.052,1.429,0.632,0.05,0.05,0.05,0.0,0.62,0.737,21,30,12,19,7,PHI
+22018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.118,76,0.049,1.222,0.462,0.0,0.04,0.0,0.0,0.44,0.635,27,33,12,26,14,PHI
+22018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.601,76,0.092,0.887,0.367,0.04,0.04,0.04,0.0,0.38,0.439,53,47,18,49,31,PHI
+22018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.427,79,0.076,0.97,0.403,0.07,0.04,0.06,0.04,0.4,0.5,67,65,25,62,37,PHI
+22018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.249,55,0.103,1.101,0.466,0.06,0.12,0.06,0.01,0.43,0.595,69,76,27,58,31,PHI

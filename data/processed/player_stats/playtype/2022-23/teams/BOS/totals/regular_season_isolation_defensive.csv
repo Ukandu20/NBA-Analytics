@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.654,48,0.072,0.875,0.2,0.31,0.06,0.19,0.0,0.44,0.2,16,14,2,10,8,BOS
+22022,201933,Blake Griffin,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.779,42,0.086,0.8,0.391,0.0,0.08,0.0,0.0,0.36,0.435,25,20,9,23,14,BOS
+22022,203943,Noah Vonleh,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.145,13,0.143,1.25,0.64,0.08,0.08,0.08,0.08,0.58,0.64,12,15,7,11,4,BOS
+22022,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.857,35,0.069,0.741,0.3,0.11,0.15,0.11,0.0,0.33,0.35,27,20,6,20,14,BOS
+22022,203488,Mike Muscala,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.19,20,0.165,1.1,0.444,0.2,0.0,0.2,0.1,0.5,0.5,20,22,8,18,10,BOS
+22022,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.761,69,0.075,0.816,0.4,0.03,0.05,0.03,0.0,0.39,0.429,38,31,14,35,21,BOS
+22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.891,74,0.095,0.72,0.368,0.09,0.16,0.07,0.01,0.36,0.395,75,54,21,57,36,BOS
+22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.154,61,0.08,1.127,0.513,0.16,0.15,0.16,0.02,0.51,0.59,55,62,20,39,19,BOS
+22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.182,67,0.097,1.107,0.442,0.23,0.05,0.21,0.05,0.5,0.488,56,62,19,43,24,BOS
+22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.138,68,0.084,1.136,0.518,0.11,0.09,0.11,0.05,0.5,0.563,66,75,29,56,27,BOS
+22022,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.54,80,0.189,0.92,0.478,0.14,0.12,0.11,0.02,0.43,0.53,88,81,32,67,35,BOS
+22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.486,82,0.094,0.943,0.408,0.18,0.06,0.18,0.06,0.45,0.437,87,82,29,71,42,BOS
+22022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.325,79,0.149,1.017,0.443,0.21,0.12,0.21,0.09,0.44,0.494,117,119,39,88,49,BOS
+22022,201143,Al Horford,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.389,63,0.161,0.994,0.422,0.12,0.08,0.12,0.03,0.45,0.48,155,154,54,128,74,BOS

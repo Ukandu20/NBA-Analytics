@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.966,42,0.028,0.5,0.22,0.0,0.25,0.0,0.0,0.167,0.33,0.3,0.1,0.0,0.2,0.2,DET
+22022,202692,Alec Burks,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.909,51,0.06,0.6,0.24,0.05,0.1,0.05,0.0,0.25,0.29,0.4,0.2,0.1,0.3,0.3,DET
+22022,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.182,12,0.087,1.214,0.5,0.143,0.143,0.143,0.14,0.429,0.67,1.2,1.4,0.5,1.0,0.5,DET
+22022,203585,Rodney McGruder,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.535,32,0.108,0.944,0.5,0.056,0.167,0.056,0.0,0.444,0.54,0.6,0.5,0.2,0.4,0.2,DET
+22022,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.267,67,0.024,1.125,0.38,0.0,0.0,0.0,0.0,0.375,0.56,0.2,0.3,0.1,0.2,0.1,DET
+22022,202709,Cory Joseph,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.836,62,0.065,0.741,0.38,0.0,0.111,0.0,0.0,0.333,0.42,0.4,0.3,0.1,0.4,0.2,DET
+22022,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.021,50,0.024,1.533,0.73,0.067,0.2,0.0,0.0,0.6,0.95,0.3,0.5,0.2,0.2,0.1,DET
+22022,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.304,52,0.049,1.091,0.5,0.045,0.136,0.045,0.0,0.455,0.61,0.4,0.5,0.2,0.3,0.2,DET
+22022,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.774,56,0.082,0.8,0.32,0.133,0.133,0.133,0.0,0.367,0.36,0.5,0.4,0.1,0.4,0.3,DET
+22022,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.966,76,0.061,0.5,0.22,0.019,0.096,0.0,0.0,0.212,0.27,0.7,0.3,0.1,0.6,0.5,DET
+22022,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.539,52,0.078,0.943,0.4,0.086,0.114,0.086,0.06,0.371,0.5,0.7,0.6,0.2,0.6,0.3,DET
+22022,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.552,59,0.075,0.93,0.39,0.07,0.093,0.07,0.05,0.372,0.46,0.7,0.7,0.3,0.6,0.4,DET
+22022,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.139,74,0.064,1.244,0.52,0.067,0.044,0.067,0.04,0.511,0.62,0.6,0.8,0.3,0.6,0.3,DET

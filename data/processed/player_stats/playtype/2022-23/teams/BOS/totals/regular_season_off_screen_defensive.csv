@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.93,61,0.036,0.56,0.25,0.0,0.04,0.0,0.0,0.24,0.29,25,14,6,24,18,BOS
+22022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.675,79,0.027,0.857,0.38,0.0,0.0,0.0,0.0,0.381,0.43,21,18,8,21,13,BOS
+22022,201143,Al Horford,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.179,63,0.024,1.217,0.52,0.0,0.087,0.0,0.0,0.478,0.67,23,28,11,21,10,BOS
+22022,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.322,80,0.056,1.077,0.41,0.154,0.038,0.077,0.04,0.462,0.48,26,28,9,22,13,BOS
+22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.485,74,0.042,0.97,0.32,0.121,0.03,0.091,0.0,0.394,0.43,33,32,9,28,19,BOS
+22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.723,82,0.042,0.821,0.32,0.077,0.077,0.077,0.03,0.333,0.4,39,32,11,34,23,BOS
+22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.045,67,0.043,1.44,0.52,0.04,0.0,0.04,0.04,0.52,0.7,25,36,13,25,12,BOS
+22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.518,68,0.076,0.95,0.44,0.033,0.117,0.033,0.02,0.4,0.53,60,57,23,52,29,BOS

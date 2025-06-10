@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.789,70,0.369,0.988,0.443,0.077,0.119,0.075,0.02,0.421,0.522,496,490,181,409,228,POR
+22024,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.671,72,0.252,0.921,0.418,0.088,0.1,0.079,0.023,0.413,0.474,341,314,119,285,166,POR
+22024,1630166,Deni Avdija,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.725,72,0.217,0.954,0.503,0.165,0.242,0.154,0.05,0.435,0.572,260,248,84,167,83,POR
+22024,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.42,66,0.313,0.823,0.424,0.087,0.203,0.07,0.013,0.37,0.493,300,247,92,217,125,POR
+22024,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.154,67,0.265,0.678,0.319,0.105,0.129,0.099,0.023,0.327,0.348,171,116,43,135,92,POR
+22024,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.495,47,0.086,0.852,0.455,0.131,0.164,0.115,0.016,0.443,0.466,61,52,20,44,24,POR
+22024,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.289,78,0.028,0.76,0.389,0.04,0.24,0.04,0.0,0.32,0.5,25,19,7,18,11,POR

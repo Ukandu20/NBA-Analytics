@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.669,68,0.169,1.2,0.537,0.128,0.072,0.128,0.036,0.523,0.642,2.9,3.4,1.3,2.4,1.1,HOU
+22021,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.261,72,0.158,0.959,0.433,0.138,0.106,0.13,0.033,0.439,0.49,1.7,1.6,0.6,1.3,0.8,HOU
+22021,1630231,KJ Martin,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.805,79,0.095,1.3,0.66,0.15,0.067,0.15,0.05,0.617,0.69,0.8,1.0,0.4,0.6,0.2,HOU
+22021,1628464,Daniel Theis,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.432,26,0.311,1.056,0.491,0.127,0.099,0.127,0.028,0.493,0.561,2.7,2.9,1.1,2.2,1.1,HOU
+22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.669,78,0.053,1.2,0.571,0.1,0.1,0.1,0.04,0.54,0.631,0.6,0.8,0.3,0.5,0.2,HOU
+22021,1628021,David Nwaba,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.031,46,0.048,0.636,0.222,0.182,0.0,0.182,0.0,0.364,0.222,0.2,0.2,0.0,0.2,0.2,HOU

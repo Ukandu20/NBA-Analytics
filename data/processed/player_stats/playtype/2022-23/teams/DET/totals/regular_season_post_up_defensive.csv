@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,202692,Alec Burks,1610612765,DET,Detroit Pistons,Postup,Defensive,0.96,51,0.048,0.563,0.111,0.25,0.19,0.19,0.0,0.31,0.111,16,9,1,9,8,DET
+22022,1628995,Kevin Knox II,1610612765,DET,Detroit Pistons,Postup,Defensive,0.775,42,0.078,0.813,0.4,0.25,0.12,0.19,0.0,0.5,0.4,16,13,4,10,6,DET
+22022,203585,Rodney McGruder,1610612765,DET,Detroit Pistons,Postup,Defensive,0.176,32,0.078,1.154,0.667,0.23,0.15,0.23,0.08,0.54,0.667,13,15,6,9,3,DET
+22022,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Postup,Defensive,0.196,12,0.087,1.143,0.75,0.21,0.21,0.14,0.0,0.64,0.75,14,16,6,8,2,DET
+22022,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,Postup,Defensive,0.096,56,0.06,1.273,0.625,0.18,0.09,0.14,0.0,0.64,0.625,22,28,10,16,6,DET
+22022,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,Postup,Defensive,0.414,52,0.067,1.033,0.478,0.17,0.07,0.1,0.0,0.53,0.478,30,31,11,23,12,DET
+22022,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,Postup,Defensive,0.1,50,0.048,1.267,0.542,0.23,0.0,0.2,0.03,0.63,0.542,30,38,13,24,11,DET
+22022,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Postup,Defensive,0.538,59,0.068,0.974,0.485,0.13,0.08,0.1,0.05,0.49,0.485,39,38,16,33,17,DET
+22022,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,Postup,Defensive,0.13,42,0.075,1.219,0.696,0.16,0.16,0.12,0.03,0.62,0.696,32,39,16,23,7,DET
+22022,202709,Cory Joseph,1610612765,DET,Detroit Pistons,Postup,Defensive,0.108,62,0.081,1.265,0.692,0.15,0.15,0.12,0.06,0.62,0.692,34,43,18,26,8,DET
+22022,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,Postup,Defensive,0.222,52,0.089,1.125,0.613,0.18,0.08,0.12,0.02,0.6,0.613,40,45,19,31,12,DET
+22022,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Postup,Defensive,0.184,67,0.061,1.146,0.515,0.22,0.0,0.2,0.02,0.61,0.515,41,47,17,33,16,DET
+22022,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Postup,Defensive,0.286,74,0.061,1.093,0.556,0.28,0.12,0.23,0.02,0.58,0.556,43,47,15,27,12,DET
+22022,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,Postup,Defensive,0.614,76,0.076,0.923,0.479,0.25,0.11,0.18,0.09,0.48,0.479,65,60,23,48,25,DET

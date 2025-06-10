@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203463,Ben McLemore,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.728,21,0.398,0.933,0.325,0.11,0.02,0.09,0.02,0.36,0.45,45,42,13,40,27,LAL
+22020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.028,21,0.207,1.4,0.543,0.06,0.04,0.06,0.02,0.54,0.728,50,70,25,46,21,LAL
+22020,201188,Marc Gasol,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.065,52,0.131,1.308,0.492,0.03,0.05,0.03,0.02,0.48,0.672,65,85,30,61,31,LAL
+22020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.684,58,0.263,0.952,0.374,0.07,0.09,0.07,0.02,0.37,0.495,105,100,34,91,57,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.897,45,0.455,0.81,0.333,0.03,0.07,0.02,0.02,0.32,0.43,163,132,50,150,100,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.433,58,0.266,1.055,0.415,0.07,0.12,0.07,0.02,0.39,0.566,128,135,44,106,62,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.462,61,0.358,1.044,0.41,0.04,0.07,0.04,0.01,0.4,0.545,137,143,50,122,72,LAL
+22020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.052,69,0.162,1.327,0.531,0.04,0.09,0.02,0.02,0.49,0.719,110,146,52,98,46,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.909,68,0.312,0.798,0.327,0.04,0.09,0.04,0.0,0.32,0.425,183,146,52,159,107,LAL
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.644,36,0.36,0.974,0.382,0.03,0.08,0.03,0.01,0.37,0.515,152,148,52,136,84,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.567,67,0.256,1.006,0.412,0.07,0.09,0.06,0.01,0.4,0.544,159,160,56,136,80,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.793,65,0.371,0.895,0.333,0.04,0.05,0.03,0.01,0.34,0.452,191,171,59,177,118,LAL
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.25,61,0.279,1.145,0.457,0.03,0.06,0.03,0.02,0.43,0.598,214,245,91,199,108,LAL

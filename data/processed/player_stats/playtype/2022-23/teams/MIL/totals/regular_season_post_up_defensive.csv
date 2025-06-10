@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.87,81,0.021,0.733,0.444,0.13,0.33,0.13,0.07,0.33,0.444,15,11,4,9,5,MIL
+22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.614,63,0.017,0.923,0.667,0.23,0.31,0.23,0.0,0.54,0.667,13,12,4,6,2,MIL
+22022,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.802,35,0.057,0.8,0.417,0.07,0.13,0.0,0.0,0.4,0.417,15,12,5,12,7,MIL
+22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.895,61,0.047,0.7,0.438,0.05,0.15,0.05,0.0,0.35,0.438,20,14,7,16,9,MIL
+22022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.364,33,0.056,1.059,0.5,0.18,0.12,0.18,0.12,0.47,0.5,17,18,7,14,7,MIL
+22022,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.475,52,0.064,1.0,0.375,0.35,0.0,0.3,0.15,0.5,0.375,20,20,6,16,10,MIL
+22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.475,70,0.036,1.0,0.476,0.09,0.04,0.09,0.04,0.48,0.476,23,23,10,21,11,MIL
+22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.475,72,0.039,1.0,0.55,0.15,0.08,0.15,0.0,0.54,0.55,26,26,11,20,9,MIL
+22022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.552,67,0.056,0.964,0.513,0.2,0.15,0.18,0.05,0.51,0.513,55,53,20,39,19,MIL
+22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Defensive,0.391,78,0.039,1.046,0.473,0.18,0.03,0.17,0.06,0.52,0.473,65,68,26,55,29,MIL

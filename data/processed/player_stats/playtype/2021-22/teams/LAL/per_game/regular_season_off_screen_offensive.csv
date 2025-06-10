@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628370,Malik Monk,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.731,76,0.064,1.078,0.424,0.031,0.047,0.031,0.0,0.422,0.551,1.0,0.9,0.3,0.8,0.4,LAL
+22021,2546,Carmelo Anthony,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.927,69,0.046,1.282,0.5,0.051,0.026,0.051,0.0,0.513,0.625,1.0,0.7,0.3,0.5,0.3,LAL
+22021,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.635,56,0.022,1.029,0.4,0.059,0.059,0.059,0.0,0.412,0.5,1.0,0.6,0.2,0.5,0.3,LAL
+22021,201961,Wayne Ellington,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.146,43,0.128,0.727,0.242,0.0,0.0,0.0,0.0,0.242,0.364,1.0,0.6,0.2,0.8,0.6,LAL
+22021,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.977,62,0.041,1.438,0.6,0.0,0.063,0.0,0.0,0.563,0.767,0.0,0.4,0.1,0.2,0.1,LAL
+22021,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.689,60,0.027,1.056,0.529,0.0,0.056,0.0,0.0,0.5,0.559,0.0,0.3,0.2,0.3,0.1,LAL
+22021,201566,Russell Westbrook,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.972,78,0.007,1.417,0.667,0.0,0.0,0.0,0.0,0.667,0.708,0.0,0.2,0.1,0.2,0.1,LAL
+22021,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.098,40,0.027,0.667,0.381,0.042,0.125,0.042,0.042,0.333,0.381,1.0,0.4,0.2,0.5,0.3,LAL
+22021,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,OffScreen,Offensive,0.853,61,0.03,1.167,0.5,0.0,0.0,0.0,0.0,0.5,0.583,0.0,0.2,0.1,0.2,0.1,LAL

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.476,50,0.148,0.885,0.439,0.091,0.133,0.079,0.024,0.412,0.47,165,146,58,132,74,WAS
+22022,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.421,64,0.08,0.861,0.379,0.104,0.139,0.087,0.0,0.391,0.46,115,99,33,87,54,WAS
+22022,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.878,65,0.056,1.149,0.525,0.176,0.081,0.176,0.054,0.541,0.542,74,85,31,59,28,WAS
+22022,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.862,76,0.054,1.119,0.545,0.19,0.119,0.167,0.095,0.524,0.561,42,47,18,33,15,WAS
+22022,1628420,Monté Morris,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.768,62,0.063,1.053,0.484,0.132,0.079,0.105,0.026,0.5,0.516,38,40,15,31,16,WAS
+22022,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.913,30,0.061,1.174,0.5,0.261,0.0,0.217,0.043,0.609,0.5,23,27,9,18,9,WAS
+22022,1629134,Kendrick Nunn,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.866,31,0.1,1.125,0.526,0.083,0.167,0.083,0.042,0.458,0.658,24,27,10,19,9,WAS
+22022,203115,Will Barton,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.035,41,0.103,0.528,0.207,0.111,0.111,0.111,0.028,0.25,0.224,36,19,6,29,23,WAS
+22022,1626153,Delon Wright,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.598,50,0.053,0.947,0.5,0.105,0.211,0.105,0.053,0.421,0.536,19,18,7,14,7,WAS
+22022,1630692,Jordan Goodwin,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.256,62,0.038,0.765,0.308,0.118,0.118,0.118,0.0,0.353,0.385,17,13,4,13,9,WAS

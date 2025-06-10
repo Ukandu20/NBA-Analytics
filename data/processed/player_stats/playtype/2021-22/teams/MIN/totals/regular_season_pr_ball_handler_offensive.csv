@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.729,65,0.344,0.928,0.419,0.133,0.136,0.077,0.016,0.43,0.48,428,397,134,320,186,MIN
+22021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.53,72,0.267,0.852,0.389,0.097,0.14,0.085,0.022,0.38,0.458,413,352,126,324,198,MIN
+22021,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.914,62,0.243,1.059,0.454,0.119,0.068,0.102,0.008,0.483,0.531,118,125,44,97,53,MIN
+22021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.491,59,0.251,0.832,0.423,0.14,0.147,0.105,0.014,0.427,0.447,143,119,44,104,60,MIN
+22021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.949,79,0.055,1.16,0.467,0.04,0.06,0.04,0.0,0.46,0.611,50,58,21,45,24,MIN
+22021,1630195,Leandro Bolmaro,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.005,15,0.262,0.364,0.25,0.091,0.545,0.0,0.0,0.182,0.25,11,4,1,4,3,MIN
+22021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.233,62,0.197,0.706,0.333,0.059,0.196,0.059,0.02,0.294,0.397,51,36,13,39,26,MIN
+22021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.601,74,0.015,0.875,0.381,0.0,0.125,0.0,0.0,0.333,0.5,24,21,8,21,13,MIN
+22021,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.542,70,0.032,0.857,0.5,0.048,0.238,0.048,0.048,0.381,0.531,21,18,8,16,8,MIN
+22021,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.191,69,0.051,0.667,0.375,0.042,0.292,0.042,0.0,0.292,0.438,24,16,6,16,10,MIN

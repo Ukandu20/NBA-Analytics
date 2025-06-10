@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203937,Kyle Anderson,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.979,24,0.28,0.66,0.406,0.064,0.255,0.021,0.0,0.319,0.438,47,31,13,32,19,MIA
+22024,202692,Alec Burks,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.877,46,0.318,0.753,0.361,0.111,0.173,0.111,0.037,0.346,0.402,81,61,22,61,39,MIA
+22024,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.42,64,0.291,0.908,0.409,0.059,0.092,0.059,0.013,0.399,0.477,153,139,54,132,78,MIA
+22024,1630558,Davion Mitchell,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.608,30,0.462,0.864,0.408,0.099,0.179,0.086,0.019,0.37,0.504,162,140,49,120,71,MIA
+22024,1626179,Terry Rozier,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.258,61,0.424,0.948,0.453,0.07,0.148,0.066,0.009,0.419,0.53,229,217,82,181,99,MIA
+22024,1642276,Kel'el Ware,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.374,59,0.617,0.921,0.414,0.065,0.102,0.063,0.008,0.403,0.488,382,352,133,321,188,MIA
+22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.251,77,0.625,0.951,0.444,0.085,0.124,0.08,0.025,0.419,0.512,597,568,216,487,271,MIA

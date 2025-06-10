@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,Isolation,Defensive,0.906,67,0.051,0.625,0.263,0.08,0.125,0.08,0.0,0.292,0.316,24,15,5,19,14,MIA
+22021,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,Isolation,Defensive,0.604,56,0.06,0.857,0.368,0.05,0.048,0.05,0.0,0.381,0.447,21,18,7,19,12,MIA
+22021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Isolation,Defensive,0.912,63,0.068,0.619,0.258,0.07,0.214,0.05,0.02,0.238,0.323,42,26,8,31,23,MIA
+22021,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Isolation,Defensive,0.671,68,0.067,0.825,0.29,0.2,0.075,0.12,0.05,0.375,0.306,40,33,9,31,22,MIA
+22021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Defensive,0.194,58,0.064,1.091,0.458,0.21,0.091,0.15,0.03,0.515,0.479,33,36,11,24,13,MIA
+22021,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Isolation,Defensive,0.5,60,0.075,0.907,0.375,0.16,0.116,0.16,0.02,0.419,0.422,43,39,12,32,20,MIA
+22021,200782,P.J. Tucker,1610612748,MIA,Miami Heat,Isolation,Defensive,0.771,71,0.112,0.756,0.316,0.07,0.089,0.07,0.0,0.322,0.382,90,68,24,76,52,MIA
+22021,1629622,Max Strus,1610612748,MIA,Miami Heat,Isolation,Defensive,0.491,68,0.148,0.91,0.394,0.09,0.09,0.09,0.03,0.397,0.462,78,71,26,66,40,MIA
+22021,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Defensive,0.821,56,0.154,0.72,0.329,0.07,0.1,0.07,0.02,0.33,0.353,100,72,28,85,57,MIA
+22021,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Defensive,0.174,66,0.122,1.116,0.544,0.09,0.151,0.09,0.03,0.488,0.61,86,96,37,68,31,MIA
+22021,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Isolation,Defensive,0.08,79,0.13,1.235,0.537,0.19,0.106,0.18,0.08,0.518,0.634,85,105,36,67,31,MIA

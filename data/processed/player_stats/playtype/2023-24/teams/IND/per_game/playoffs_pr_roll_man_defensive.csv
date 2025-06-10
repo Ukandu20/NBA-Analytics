@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.875,15,0.105,0.813,0.313,0.0,0.0,0.0,0.0,0.313,0.406,1.1,0.9,0.3,1.1,0.7,IND
+42023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.063,17,0.043,1.545,0.636,0.0,0.0,0.0,0.0,0.636,0.773,0.6,1.0,0.4,0.6,0.2,IND
+42023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.375,17,0.11,1.04,0.375,0.0,0.04,0.0,0.0,0.36,0.542,1.5,1.5,0.5,1.4,0.9,IND

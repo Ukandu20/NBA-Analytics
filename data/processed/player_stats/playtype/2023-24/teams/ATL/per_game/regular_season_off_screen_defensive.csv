@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,202083,Wesley Matthews,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.901,30,0.088,0.643,0.308,0.0,0.071,0.0,0.0,0.286,0.346,0.5,0.3,0.1,0.4,0.3,ATL
+22023,1629726,Garrison Mathews,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.945,65,0.073,0.583,0.261,0.0,0.042,0.0,0.0,0.25,0.304,0.4,0.2,0.1,0.4,0.3,ATL
+22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.923,56,0.037,0.625,0.273,0.0,0.083,0.0,0.0,0.25,0.341,0.4,0.3,0.1,0.4,0.3,ATL
+22023,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.106,67,0.016,1.357,0.5,0.071,0.071,0.071,0.0,0.5,0.667,0.2,0.3,0.1,0.2,0.1,ATL
+22023,1630249,Vít Krejčí,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.007,22,0.052,1.9,0.667,0.1,0.0,0.1,0.0,0.7,0.944,0.5,0.9,0.3,0.4,0.1,ATL
+22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.923,56,0.066,0.625,0.27,0.025,0.05,0.0,0.0,0.275,0.311,0.7,0.4,0.2,0.7,0.5,ATL
+22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.956,79,0.054,0.553,0.262,0.021,0.085,0.021,0.0,0.234,0.31,0.6,0.3,0.1,0.5,0.4,ATL
+22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.612,62,0.067,0.944,0.364,0.056,0.056,0.056,0.028,0.361,0.47,0.6,0.5,0.2,0.5,0.3,ATL
+22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.245,54,0.049,1.226,0.464,0.065,0.065,0.065,0.032,0.452,0.625,0.6,0.7,0.2,0.5,0.3,ATL
+22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.641,78,0.054,0.92,0.378,0.06,0.06,0.06,0.02,0.38,0.467,0.6,0.6,0.2,0.6,0.4,ATL

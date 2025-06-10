@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.787,42,0.039,0.8,0.417,0.2,0.0,0.2,0.0,0.47,0.417,0.4,0.3,0.1,0.3,0.2,POR
+22021,203503,Tony Snell,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.388,38,0.059,1.083,0.545,0.0,0.08,0.0,0.0,0.5,0.591,0.3,0.3,0.2,0.3,0.1,POR
+22021,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.609,22,0.063,0.933,0.4,0.13,0.0,0.13,0.13,0.4,0.433,0.7,0.6,0.3,0.7,0.4,POR
+22021,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.407,48,0.03,1.067,0.429,0.07,0.0,0.07,0.0,0.47,0.536,0.3,0.3,0.1,0.3,0.2,POR
+22021,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.649,40,0.049,0.905,0.4,0.05,0.05,0.05,0.05,0.38,0.45,0.5,0.5,0.2,0.5,0.3,POR
+22021,1629604,CJ Elleby,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.043,58,0.037,1.538,0.8,0.0,0.23,0.0,0.0,0.62,1.0,0.2,0.3,0.1,0.2,0.0,POR
+22021,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.432,36,0.041,1.053,0.467,0.21,0.05,0.21,0.05,0.53,0.567,0.5,0.6,0.2,0.4,0.2,POR
+22021,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.047,57,0.028,1.5,0.615,0.19,0.06,0.19,0.06,0.62,0.731,0.3,0.4,0.1,0.2,0.1,POR
+22021,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Defensive,0.284,56,0.07,1.167,0.558,0.04,0.06,0.04,0.0,0.54,0.628,0.9,1.0,0.4,0.8,0.3,POR

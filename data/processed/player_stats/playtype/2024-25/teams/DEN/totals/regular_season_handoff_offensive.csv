@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.599,67,0.138,0.989,0.44,0.101,0.069,0.085,0.016,0.452,0.484,188,186,70,159,89,DEN
+22024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.581,77,0.129,0.975,0.384,0.044,0.05,0.044,0.013,0.384,0.493,159,155,56,146,90,DEN
+22024,1631124,Julian Strawther,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.419,65,0.142,0.892,0.386,0.084,0.072,0.084,0.0,0.41,0.436,83,74,27,70,43,DEN
+22024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.538,79,0.045,0.956,0.459,0.133,0.089,0.133,0.044,0.467,0.5,45,43,17,37,20,DEN
+22024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.348,75,0.038,0.844,0.324,0.133,0.067,0.133,0.022,0.356,0.419,45,38,12,37,25,DEN
+22024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.935,70,0.01,1.235,0.5,0.059,0.118,0.059,0.0,0.471,0.643,17,21,7,14,7,DEN
+22024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.885,51,0.025,1.188,0.385,0.188,0.0,0.188,0.0,0.5,0.538,16,19,5,13,8,DEN

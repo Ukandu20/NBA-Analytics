@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.281,47,0.059,1.067,0.4,0.133,0.2,0.133,0.0,0.4,0.55,0.3,0.3,0.1,0.2,0.1,POR
+22024,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.753,57,0.128,0.8,0.393,0.057,0.143,0.0,0.0,0.371,0.429,0.6,0.5,0.2,0.5,0.3,POR
+22024,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.605,59,0.101,0.875,0.407,0.031,0.125,0.031,0.0,0.375,0.481,0.5,0.5,0.2,0.5,0.3,POR
+22024,1630166,Deni Avdija,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.625,71,0.065,0.867,0.359,0.089,0.067,0.089,0.022,0.378,0.436,0.6,0.5,0.2,0.5,0.4,POR
+22024,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.438,66,0.099,0.945,0.449,0.018,0.109,0.018,0.018,0.4,0.52,0.8,0.8,0.3,0.7,0.4,POR
+22024,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.213,47,0.101,1.102,0.537,0.041,0.122,0.041,0.0,0.49,0.622,1.0,1.1,0.5,0.9,0.4,POR
+22024,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.753,70,0.113,0.8,0.348,0.04,0.08,0.027,0.0,0.347,0.417,1.1,0.9,0.3,0.9,0.6,POR
+22024,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.337,71,0.109,1.0,0.426,0.06,0.03,0.06,0.0,0.448,0.5,0.9,0.9,0.4,0.9,0.5,POR
+22024,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,Handoff,Defensive,0.493,78,0.09,0.924,0.391,0.101,0.139,0.101,0.051,0.367,0.492,1.0,0.9,0.3,0.8,0.5,POR

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.818,17,0.154,1.085,0.447,0.128,0.064,0.106,0.0,0.489,0.539,2.8,3.0,1.0,2.2,1.2,IND
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.182,17,0.121,0.789,0.323,0.211,0.026,0.184,0.053,0.421,0.323,2.2,1.8,0.6,1.8,1.2,IND
+42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.841,17,0.072,1.091,0.667,0.182,0.273,0.0,0.0,0.545,0.667,0.6,0.7,0.2,0.4,0.1,IND
+42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.667,17,0.051,1.0,0.4,0.091,0.0,0.091,0.0,0.455,0.5,0.6,0.6,0.2,0.6,0.4,IND
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,16,0.078,0.182,0.0,0.091,0.364,0.091,0.0,0.091,0.0,0.7,0.1,0.0,0.4,0.4,IND

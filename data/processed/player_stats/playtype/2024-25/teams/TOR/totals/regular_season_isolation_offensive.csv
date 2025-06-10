@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.437,65,0.105,0.862,0.417,0.09,0.097,0.09,0.014,0.421,0.442,145,125,50,120,70,TOR
+22024,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.437,58,0.045,0.862,0.421,0.276,0.086,0.276,0.017,0.517,0.421,58,50,16,38,22,TOR
+22024,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.478,33,0.073,0.875,0.333,0.15,0.025,0.15,0.0,0.425,0.379,40,35,11,33,22,TOR
+22024,1642347,Jamal Shead,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.694,75,0.05,0.969,0.52,0.094,0.156,0.094,0.031,0.469,0.54,32,31,13,25,12,TOR
+22024,1630558,Davion Mitchell,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.539,44,0.092,0.903,0.393,0.097,0.065,0.065,0.065,0.387,0.429,31,28,11,28,17,TOR
+22024,1642367,Jonathan Mogbo,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.758,63,0.035,1.0,0.538,0.125,0.125,0.125,0.063,0.5,0.538,16,16,7,13,6,TOR
+22024,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.372,57,0.016,0.833,0.4,0.083,0.083,0.083,0.0,0.417,0.4,12,10,4,10,6,TOR

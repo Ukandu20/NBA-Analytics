@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630164,James Wiseman,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.492,39,0.146,1.118,0.525,0.103,0.015,0.103,0.015,0.559,0.533,1.7,1.9,0.8,1.6,0.7,GSW
+22020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.764,63,0.085,1.235,0.65,0.137,0.157,0.137,0.078,0.569,0.688,0.8,1.0,0.4,0.6,0.2,GSW
+22020,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.744,40,0.115,1.227,0.611,0.114,0.091,0.136,0.045,0.568,0.667,1.1,1.4,0.6,0.9,0.4,GSW
+22020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.668,63,0.015,1.192,0.476,0.192,0.077,0.192,0.077,0.5,0.571,0.4,0.5,0.2,0.3,0.2,GSW
+22020,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.924,61,0.071,1.389,0.688,0.167,0.0,0.167,0.056,0.667,0.719,0.3,0.4,0.2,0.3,0.1,GSW
+22020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,PRRollMan,Offensive,0.165,53,0.071,0.9,0.615,0.05,0.35,0.05,0.05,0.4,0.692,0.4,0.3,0.2,0.2,0.1,GSW

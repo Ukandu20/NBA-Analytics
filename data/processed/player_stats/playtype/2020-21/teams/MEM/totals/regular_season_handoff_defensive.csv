@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.898,43,0.056,0.636,0.14,0.182,0.182,0.182,0.0,0.273,0.21,11,7,1,7,6,MEM
+22020,1626159,Justise Winslow,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.379,26,0.109,1.0,0.41,0.208,0.083,0.167,0.0,0.5,0.41,24,24,7,17,10,MEM
+22020,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.033,59,0.039,1.389,0.62,0.167,0.0,0.111,0.06,0.667,0.66,18,25,10,16,6,MEM
+22020,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.332,70,0.084,1.036,0.42,0.179,0.036,0.107,0.07,0.464,0.48,28,29,10,24,14,MEM
+22020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.339,52,0.086,1.028,0.48,0.083,0.139,0.083,0.03,0.444,0.59,36,37,14,29,15,MEM
+22020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.805,50,0.126,0.745,0.35,0.059,0.176,0.02,0.02,0.294,0.44,51,38,14,40,26,MEM
+22020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.461,69,0.068,0.956,0.46,0.067,0.156,0.044,0.0,0.422,0.54,45,43,16,35,19,MEM
+22020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.177,68,0.102,1.152,0.54,0.109,0.13,0.087,0.04,0.5,0.64,46,53,20,37,17,MEM
+22020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.692,63,0.136,0.825,0.38,0.063,0.113,0.063,0.0,0.375,0.42,80,66,25,66,41,MEM
+22020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.695,67,0.101,0.824,0.38,0.055,0.099,0.055,0.0,0.374,0.44,91,75,29,77,48,MEM

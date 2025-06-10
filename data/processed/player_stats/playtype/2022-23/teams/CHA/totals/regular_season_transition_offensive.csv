@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.338,64,0.202,1.046,0.48,0.119,0.098,0.112,0.035,0.477,0.547,285,298,113,233,120,CHA
+22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.436,73,0.159,1.092,0.49,0.098,0.065,0.098,0.016,0.495,0.567,184,201,77,157,80,CHA
+22022,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.486,48,0.186,1.117,0.51,0.134,0.061,0.117,0.056,0.514,0.552,179,200,78,154,76,CHA
+22022,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.493,56,0.288,1.119,0.52,0.169,0.09,0.153,0.056,0.531,0.557,177,198,74,141,67,CHA
+22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.881,50,0.15,1.366,0.6,0.232,0.054,0.214,0.054,0.643,0.669,112,153,52,86,34,CHA
+22022,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.232,36,0.169,0.993,0.44,0.086,0.151,0.066,0.013,0.401,0.568,152,151,52,118,66,CHA
+22022,1628372,Dennis Smith Jr.,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.37,55,0.188,1.064,0.56,0.164,0.155,0.155,0.027,0.536,0.571,110,117,44,78,34,CHA
+22022,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.733,56,0.119,1.239,0.79,0.183,0.183,0.169,0.028,0.648,0.787,71,88,37,47,10,CHA
+22022,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.952,65,0.085,1.474,0.77,0.316,0.079,0.316,0.079,0.737,0.769,38,56,20,26,6,CHA
+22022,1629004,Svi Mykhailiuk,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.616,19,0.228,1.178,0.54,0.156,0.111,0.067,0.044,0.533,0.643,45,53,19,35,16,CHA
+22022,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.981,44,0.093,1.581,0.84,0.226,0.065,0.226,0.097,0.742,0.84,31,49,21,25,4,CHA
+22022,1630539,Kai Jones,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.885,46,0.217,1.371,0.7,0.114,0.057,0.086,0.029,0.686,0.7,35,48,21,30,9,CHA
+22022,1630177,Theo Maledon,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.096,44,0.155,0.868,0.41,0.17,0.17,0.151,0.075,0.396,0.423,53,46,16,39,23,CHA
+22022,1630547,James Bouknight,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.084,34,0.226,0.852,0.42,0.111,0.167,0.111,0.019,0.389,0.488,54,46,17,40,23,CHA
+22022,1630550,JT Thor,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.05,69,0.194,0.746,0.36,0.102,0.153,0.085,0.0,0.356,0.42,59,44,16,44,28,CHA
+22022,1631121,Bryce McGowens,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.048,46,0.196,0.745,0.4,0.164,0.2,0.164,0.0,0.4,0.429,55,41,14,35,21,CHA

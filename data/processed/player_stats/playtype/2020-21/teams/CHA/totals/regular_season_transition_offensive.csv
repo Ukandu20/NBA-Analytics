@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.679,69,0.22,1.201,0.542,0.088,0.092,0.082,0.037,0.503,0.641,294,353,136,251,115,CHA
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.666,44,0.19,1.197,0.559,0.134,0.134,0.127,0.019,0.535,0.648,157,188,66,118,52,CHA
+22020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.178,51,0.215,0.927,0.469,0.157,0.209,0.126,0.047,0.429,0.531,191,177,61,130,69,CHA
+22020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.52,55,0.164,1.133,0.462,0.089,0.141,0.067,0.0,0.444,0.63,135,153,48,104,56,CHA
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.529,66,0.171,1.135,0.61,0.098,0.173,0.09,0.023,0.526,0.67,133,151,61,100,39,CHA
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.818,64,0.126,1.279,0.635,0.126,0.144,0.117,0.036,0.55,0.747,111,142,54,85,31,CHA
+22020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.567,42,0.192,1.151,0.527,0.118,0.129,0.129,0.054,0.473,0.635,93,107,39,74,35,CHA
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.71,47,0.193,1.217,0.627,0.159,0.159,0.159,0.058,0.565,0.696,69,84,32,51,19,CHA
+22020,1628997,Caleb Martin,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.539,53,0.228,1.139,0.564,0.167,0.125,0.153,0.056,0.528,0.645,72,82,31,55,24,CHA
+22020,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.52,52,0.246,1.133,0.56,0.15,0.1,0.15,0.083,0.533,0.58,60,68,28,50,22,CHA
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.484,48,0.138,1.119,0.63,0.153,0.085,0.153,0.017,0.593,0.63,59,66,29,46,17,CHA
+22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.569,66,0.126,1.152,0.618,0.196,0.109,0.196,0.043,0.609,0.618,46,53,21,34,13,CHA
+22020,202954,Brad Wanamaker,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.083,22,0.213,0.816,0.417,0.184,0.211,0.158,0.026,0.395,0.417,38,31,10,24,14,CHA

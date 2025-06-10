@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.873,58,0.03,1.205,0.459,0.0,0.051,0.0,0.0,0.436,0.635,39,47,17,37,20,MIL
+22024,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.323,73,0.095,0.844,0.302,0.0,0.044,0.0,0.0,0.289,0.442,45,38,13,43,30,MIL
+22024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.409,74,0.046,0.912,0.333,0.029,0.029,0.029,0.029,0.324,0.455,34,31,11,33,22,MIL
+22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.89,80,0.034,1.238,0.474,0.048,0.048,0.048,0.0,0.476,0.632,21,26,9,19,10,MIL

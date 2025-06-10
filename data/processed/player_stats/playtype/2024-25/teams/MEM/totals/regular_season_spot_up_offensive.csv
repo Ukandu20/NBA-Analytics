@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.648,74,0.295,1.091,0.453,0.099,0.051,0.082,0.018,0.466,0.55,453,494,178,393,215,MEM
+22024,1642377,Jaylen Wells,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.378,79,0.46,0.978,0.372,0.054,0.068,0.046,0.011,0.369,0.502,369,361,122,328,206,MEM
+22024,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.497,65,0.421,1.025,0.396,0.06,0.06,0.06,0.016,0.396,0.53,318,326,113,285,172,MEM
+22024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.824,79,0.318,1.183,0.505,0.101,0.117,0.089,0.027,0.479,0.649,257,304,105,208,103,MEM
+22024,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.707,65,0.365,1.126,0.428,0.042,0.095,0.037,0.011,0.405,0.593,190,214,71,166,95,MEM
+22024,1631222,Jake LaRavia,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.472,47,0.366,1.015,0.417,0.146,0.138,0.123,0.023,0.431,0.531,130,132,40,96,56,MEM
+22024,1631246,Vince Williams Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.215,27,0.417,0.898,0.351,0.034,0.091,0.034,0.0,0.341,0.481,88,79,27,77,50,MEM
+22024,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.052,29,0.427,0.686,0.267,0.057,0.086,0.038,0.0,0.276,0.356,105,72,24,90,66,MEM
+22024,1642285,Cam Spencer,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.158,25,0.281,0.852,0.273,0.148,0.074,0.111,0.037,0.333,0.364,27,23,6,22,16,MEM

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203109,Jae Crowder,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.003,6,0.5,1.769,0.636,0.154,0.0,0.154,0.0,0.692,0.864,13,23,7,11,4,SAC
+22024,203458,Alex Len,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.27,18,0.197,1.125,0.435,0.042,0.0,0.042,0.0,0.458,0.565,24,27,10,23,13,SAC
+22024,202685,Jonas Valančiūnas,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.173,25,0.163,1.175,0.432,0.0,0.075,0.0,0.0,0.4,0.635,40,47,16,37,21,SAC
+22024,1631222,Jake LaRavia,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.48,18,0.408,1.061,0.442,0.041,0.082,0.02,0.0,0.429,0.57,49,52,19,43,24,SAC
+22024,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.503,43,0.388,1.053,0.395,0.06,0.038,0.06,0.03,0.391,0.524,133,140,49,124,75,SAC
+22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.377,32,0.415,1.09,0.391,0.049,0.028,0.035,0.0,0.41,0.541,144,157,52,133,81,SAC
+22024,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.814,78,0.321,0.937,0.357,0.067,0.067,0.056,0.004,0.374,0.474,270,253,84,235,151,SAC
+22024,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.187,45,0.404,1.167,0.424,0.043,0.05,0.035,0.008,0.422,0.6,258,301,100,236,136,SAC
+22024,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.113,64,0.408,1.219,0.441,0.077,0.065,0.073,0.032,0.437,0.616,247,301,97,220,123,SAC
+22024,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.364,76,0.323,1.095,0.409,0.05,0.06,0.047,0.013,0.407,0.565,317,347,117,286,169,SAC

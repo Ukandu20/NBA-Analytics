@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.517,45,0.027,1.0,0.57,0.0,0.3,0.0,0.0,0.4,0.71,0.2,0.0,0.1,0.2,0.1,ORL
+22019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.369,52,0.028,1.1,0.57,0.1,0.2,0.1,0.0,0.5,0.71,0.2,0.0,0.1,0.1,0.1,ORL
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.127,69,0.023,1.333,0.7,0.0,0.167,0.0,0.0,0.58,0.8,0.2,0.0,0.1,0.1,0.0,ORL
+22019,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.018,18,0.079,1.727,0.7,0.0,0.091,0.0,0.0,0.64,0.95,0.6,1.0,0.4,0.6,0.2,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.584,34,0.061,0.952,0.39,0.14,0.0,0.1,0.0,0.48,0.42,0.6,1.0,0.2,0.5,0.3,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.369,57,0.041,1.1,0.42,0.1,0.0,0.1,0.05,0.45,0.53,0.4,0.0,0.1,0.3,0.2,ORL
+22019,203920,Khem Birch,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.322,48,0.05,1.15,0.47,0.1,0.05,0.1,0.0,0.5,0.56,0.4,0.0,0.2,0.4,0.2,ORL
+22019,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.596,62,0.069,0.943,0.37,0.03,0.0,0.03,0.03,0.37,0.46,0.6,1.0,0.2,0.6,0.4,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.07,66,0.035,1.481,0.6,0.0,0.074,0.0,0.0,0.56,0.8,0.4,1.0,0.2,0.4,0.2,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.476,72,0.052,1.023,0.45,0.09,0.023,0.09,0.0,0.47,0.53,0.6,1.0,0.2,0.5,0.3,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.087,62,0.05,1.441,0.56,0.03,0.029,0.03,0.0,0.56,0.75,0.5,1.0,0.3,0.5,0.2,ORL
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRRollMan,Defensive,0.552,62,0.072,0.987,0.44,0.04,0.052,0.04,0.03,0.42,0.52,1.2,1.0,0.5,1.2,0.6,ORL

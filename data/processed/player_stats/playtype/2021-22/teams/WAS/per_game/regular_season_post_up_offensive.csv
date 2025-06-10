@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1626149,Montrezl Harrell,1610612764,WAS,Washington Wizards,Postup,Offensive,0.734,46,0.199,1.029,0.5,0.279,0.115,0.26,0.067,0.529,0.5,2.3,2.3,0.8,1.5,0.8,WAS
+22021,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,Postup,Offensive,0.858,17,0.226,1.117,0.49,0.312,0.091,0.286,0.039,0.584,0.49,4.5,5.1,1.4,2.9,1.5,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Postup,Offensive,0.527,42,0.097,0.93,0.486,0.14,0.047,0.14,0.0,0.488,0.486,1.0,1.0,0.4,0.8,0.4,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Postup,Offensive,0.485,66,0.032,0.923,0.469,0.128,0.128,0.103,0.077,0.436,0.469,0.6,0.5,0.2,0.5,0.3,WAS
+22021,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Postup,Offensive,0.917,72,0.054,1.172,0.667,0.241,0.138,0.207,0.103,0.586,0.667,0.4,0.5,0.2,0.3,0.1,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Postup,Offensive,0.959,82,0.026,1.263,0.533,0.316,0.053,0.211,0.158,0.579,0.533,0.2,0.3,0.1,0.2,0.1,WAS
+22021,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Postup,Offensive,0.574,27,0.114,0.952,0.533,0.143,0.19,0.143,0.048,0.476,0.533,0.8,0.7,0.3,0.6,0.3,WAS
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Postup,Offensive,0.681,40,0.01,1.0,0.571,0.1,0.2,0.1,0.0,0.5,0.571,0.3,0.3,0.1,0.2,0.1,WAS

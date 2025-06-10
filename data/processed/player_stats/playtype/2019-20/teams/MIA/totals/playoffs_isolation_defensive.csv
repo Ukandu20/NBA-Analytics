@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203524,Solomon Hill,1610612748,MIA,Miami Heat,Isolation,Defensive,0.0,5,0.077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42019,203086,Meyers Leonard,1610612748,MIA,Miami Heat,Isolation,Defensive,0.0,3,0.222,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,MIA
+42019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Isolation,Defensive,0.0,17,0.063,1.143,0.33,0.14,0.0,0.14,0.0,0.43,0.42,7,8,2,6,4,MIA
+42019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Isolation,Defensive,0.0,9,0.243,1.111,0.57,0.11,0.11,0.0,0.0,0.56,0.57,9,10,4,7,3,MIA
+42019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,Isolation,Defensive,0.712,21,0.097,0.733,0.22,0.33,0.07,0.33,0.0,0.4,0.22,15,11,2,9,7,MIA
+42019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,Isolation,Defensive,0.534,15,0.173,0.923,0.43,0.31,0.15,0.23,0.0,0.46,0.5,13,12,3,7,4,MIA
+42019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Defensive,0.288,17,0.159,1.043,0.44,0.22,0.09,0.22,0.09,0.48,0.47,23,24,8,18,10,MIA
+42019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Defensive,0.365,21,0.101,1.0,0.46,0.1,0.0,0.1,0.0,0.52,0.46,29,29,12,26,14,MIA
+42019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Isolation,Defensive,0.559,21,0.176,0.921,0.41,0.16,0.08,0.16,0.0,0.47,0.45,38,35,12,29,17,MIA
+42019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Defensive,0.661,19,0.214,0.787,0.37,0.11,0.15,0.11,0.0,0.38,0.43,47,37,13,35,22,MIA
+42019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Defensive,0.102,21,0.137,1.242,0.53,0.06,0.03,0.06,0.0,0.55,0.62,33,41,16,30,14,MIA
+42019,203109,Jae Crowder,1610612748,MIA,Miami Heat,Isolation,Defensive,0.237,21,0.172,1.091,0.46,0.16,0.11,0.16,0.07,0.45,0.54,44,48,16,35,19,MIA

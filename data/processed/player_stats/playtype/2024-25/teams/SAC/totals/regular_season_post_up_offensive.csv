@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,201942,DeMar DeRozan,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.792,77,0.143,1.11,0.497,0.193,0.026,0.189,0.066,0.544,0.497,228,253,96,193,97,SAC
+22024,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.611,70,0.115,1.05,0.617,0.142,0.191,0.092,0.0,0.539,0.617,141,148,58,94,36,SAC
+22024,202685,Jonas Valančiūnas,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.583,32,0.231,1.033,0.551,0.115,0.115,0.115,0.033,0.525,0.551,61,63,27,49,22,SAC
+22024,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.931,69,0.033,1.333,0.857,0.467,0.2,0.4,0.133,0.667,0.857,15,20,6,7,1,SAC
+22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.175,32,0.016,0.8,0.444,0.0,0.1,0.0,0.0,0.4,0.444,10,8,4,9,5,SAC
+22024,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.076,45,0.009,0.7,0.4,0.2,0.3,0.1,0.0,0.4,0.4,10,7,2,5,3,SAC

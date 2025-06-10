@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.918,27,0.072,0.647,0.294,0.0,0.0,0.0,0.0,0.294,0.324,0.6,0.4,0.2,0.6,0.4,LAL
+22024,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.625,41,0.024,0.867,0.286,0.067,0.0,0.0,0.0,0.333,0.393,0.4,0.3,0.1,0.3,0.2,LAL
+22024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.475,28,0.038,0.929,0.364,0.143,0.143,0.143,0.071,0.357,0.455,0.5,0.5,0.1,0.4,0.3,LAL
+22024,1629637,Jaxson Hayes,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.023,49,0.028,1.429,0.5,0.071,0.0,0.071,0.071,0.5,0.679,0.3,0.4,0.1,0.3,0.1,LAL
+22024,1630692,Jordan Goodwin,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.139,28,0.107,1.167,0.529,0.0,0.056,0.0,0.0,0.5,0.618,0.6,0.8,0.3,0.6,0.3,LAL
+22024,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.598,32,0.15,0.879,0.407,0.061,0.121,0.061,0.0,0.394,0.463,1.0,0.9,0.3,0.8,0.5,LAL
+22024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.193,43,0.077,1.125,0.517,0.094,0.063,0.094,0.063,0.5,0.552,0.7,0.8,0.3,0.7,0.3,LAL
+22024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.056,70,0.047,1.3,0.56,0.133,0.133,0.1,0.1,0.5,0.7,0.4,0.6,0.2,0.4,0.2,LAL
+22024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.715,60,0.083,0.816,0.31,0.122,0.082,0.122,0.061,0.327,0.381,0.8,0.7,0.2,0.7,0.5,LAL
+22024,1642261,Dalton Knecht,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.261,72,0.086,1.073,0.462,0.024,0.049,0.024,0.024,0.439,0.551,0.6,0.6,0.2,0.5,0.3,LAL
+22024,1629216,Gabe Vincent,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.379,72,0.083,0.98,0.474,0.102,0.143,0.102,0.02,0.449,0.526,0.7,0.7,0.3,0.5,0.3,LAL
+22024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.376,73,0.074,0.985,0.4,0.121,0.106,0.106,0.061,0.394,0.5,0.9,0.9,0.3,0.8,0.5,LAL
+22024,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Handoff,Defensive,0.16,43,0.118,1.155,0.533,0.069,0.155,0.069,0.0,0.483,0.644,1.3,1.6,0.6,1.0,0.5,LAL

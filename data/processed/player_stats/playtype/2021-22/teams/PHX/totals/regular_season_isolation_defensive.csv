@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628988,Aaron Holiday,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.977,22,0.09,0.5,0.222,0.08,0.167,0.08,0.0,0.25,0.222,12,6,2,9,7,PHX
+22021,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.806,9,0.091,0.727,0.3,0.09,0.0,0.09,0.0,0.364,0.3,11,8,3,10,7,PHX
+22021,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.94,50,0.069,0.571,0.182,0.07,0.143,0.0,0.0,0.214,0.273,14,8,2,11,9,PHX
+22021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.927,65,0.038,0.591,0.214,0.18,0.182,0.09,0.0,0.318,0.25,22,13,3,14,11,PHX
+22021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.067,27,0.054,1.25,0.444,0.25,0.0,0.25,0.0,0.583,0.5,12,15,4,9,5,PHX
+22021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.779,58,0.069,0.75,0.381,0.11,0.143,0.07,0.0,0.357,0.405,28,21,8,21,13,PHX
+22021,1630188,Jalen Smith,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.874,29,0.172,0.677,0.32,0.13,0.097,0.1,0.03,0.323,0.34,31,21,8,25,17,PHX
+22021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.842,74,0.046,0.706,0.346,0.12,0.118,0.12,0.0,0.324,0.404,34,24,9,26,17,PHX
+22021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.124,36,0.099,1.167,0.5,0.2,0.033,0.2,0.17,0.5,0.536,30,35,14,28,14,PHX
+22021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.544,69,0.098,0.884,0.371,0.12,0.116,0.09,0.05,0.372,0.443,43,38,13,35,22,PHX
+22021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.7,67,0.081,0.808,0.366,0.12,0.096,0.12,0.0,0.404,0.402,52,42,15,41,26,PHX
+22021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.578,66,0.106,0.869,0.434,0.1,0.082,0.08,0.05,0.41,0.453,61,53,23,53,30,PHX
+22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.61,68,0.078,0.855,0.36,0.16,0.048,0.13,0.02,0.419,0.37,62,53,18,50,32,PHX
+22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.489,82,0.062,0.912,0.373,0.1,0.059,0.1,0.03,0.397,0.432,68,62,22,59,37,PHX
+22021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.42,58,0.082,0.947,0.41,0.15,0.053,0.15,0.01,0.453,0.434,75,71,25,61,36,PHX

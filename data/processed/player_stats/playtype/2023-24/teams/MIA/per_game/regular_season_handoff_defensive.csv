@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Defensive,0.848,43,0.044,0.706,0.385,0.0,0.235,0.0,0.0,0.294,0.462,0.4,0.3,0.1,0.3,0.2,MIA
+22023,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Handoff,Defensive,0.862,68,0.071,0.676,0.276,0.088,0.088,0.088,0.029,0.294,0.31,0.5,0.3,0.1,0.4,0.3,MIA
+22023,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Handoff,Defensive,0.923,60,0.068,0.6,0.281,0.025,0.175,0.025,0.0,0.25,0.359,0.7,0.4,0.1,0.5,0.4,MIA
+22023,1626179,Terry Rozier,1610612748,MIA,Miami Heat,Handoff,Defensive,0.512,31,0.073,0.931,0.423,0.034,0.069,0.034,0.0,0.414,0.481,0.9,0.9,0.4,0.8,0.5,MIA
+22023,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Handoff,Defensive,0.784,41,0.076,0.784,0.379,0.081,0.135,0.081,0.0,0.378,0.414,0.9,0.7,0.3,0.7,0.4,MIA
+22023,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,Handoff,Defensive,0.603,64,0.059,0.882,0.387,0.059,0.059,0.059,0.029,0.382,0.435,0.5,0.5,0.2,0.5,0.3,MIA
+22023,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Handoff,Defensive,0.692,75,0.065,0.84,0.35,0.12,0.08,0.12,0.0,0.4,0.388,0.7,0.6,0.2,0.5,0.3,MIA
+22023,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Handoff,Defensive,0.394,63,0.071,1.0,0.415,0.122,0.061,0.122,0.02,0.429,0.476,0.8,0.8,0.3,0.7,0.4,MIA

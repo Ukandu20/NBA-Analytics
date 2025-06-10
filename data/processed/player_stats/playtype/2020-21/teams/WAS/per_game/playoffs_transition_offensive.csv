@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.538,5,0.124,1.15,0.529,0.05,0.1,0.05,0.0,0.5,0.618,4.0,4.6,1.4,3.4,2.0,WAS
+42020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,Transition,Offensive,0.625,5,0.143,1.222,0.5,0.444,0.167,0.444,0.056,0.611,0.5,3.6,4.4,0.6,1.6,1.0,WAS
+42020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Transition,Offensive,1.0,4,0.323,2.0,0.778,0.1,0.0,0.1,0.0,0.8,1.0,2.5,5.0,2.3,2.3,0.0,WAS
+42020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Transition,Offensive,0.759,5,0.228,1.308,0.667,0.077,0.077,0.077,0.077,0.615,0.708,2.6,3.4,1.4,2.4,1.0,WAS
+42020,203526,Raul Neto,1610612764,WAS,Washington Wizards,Transition,Offensive,0.05,5,0.297,0.636,0.222,0.091,0.091,0.091,0.0,0.273,0.333,2.2,1.4,0.8,1.8,1.0,WAS
+42020,202397,Ish Smith,1610612764,WAS,Washington Wizards,Transition,Offensive,0.013,5,0.25,0.5,0.3,0.0,0.167,0.0,0.0,0.25,0.3,2.4,1.2,1.0,2.0,1.0,WAS
+42020,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.122,1.0,0.5,0.4,0.0,0.4,0.2,0.6,0.5,1.0,1.0,0.8,0.8,0.0,WAS
+42020,203458,Alex Len,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.056,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,WAS
+42020,1628990,Chandler Hutchison,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,4,0.077,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,0.5,0.3,0.3,0.0,WAS
+42020,201577,Robin Lopez,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.143,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.8,0.4,-0.2,0.8,1.0,WAS
+42020,1630264,Anthony Gill,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,4,0.167,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,WAS
+42020,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,WAS
+42020,1629067,Isaac Bonga,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.125,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,WAS

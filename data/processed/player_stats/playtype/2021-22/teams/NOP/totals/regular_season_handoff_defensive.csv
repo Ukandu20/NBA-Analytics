@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203107,Tomas Satoransky,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.63,32,0.079,0.833,0.417,0.0,0.0,0.0,0.0,0.417,0.417,12,10,5,12,7,NOP
+22021,1629109,Gary Clark,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.094,37,0.079,1.2,0.5,0.1,0.1,0.0,0.0,0.5,0.625,10,12,4,8,4,NOP
+22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.574,74,0.012,0.867,0.357,0.0,0.07,0.0,0.0,0.333,0.464,15,13,5,14,9,NOP
+22021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.934,54,0.096,0.571,0.143,0.14,0.11,0.14,0.0,0.25,0.214,28,16,3,21,18,NOP
+22021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.06,70,0.025,1.25,0.467,0.12,0.0,0.12,0.06,0.5,0.567,16,20,7,15,8,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.92,50,0.085,0.583,0.273,0.03,0.06,0.03,0.0,0.25,0.318,36,21,9,33,24,NOP
+22021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.664,62,0.113,0.815,0.292,0.07,0.04,0.04,0.0,0.333,0.354,27,22,7,24,17,NOP
+22021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.813,26,0.116,0.71,0.31,0.0,0.06,0.0,0.0,0.29,0.379,31,22,9,29,20,NOP
+22021,202066,Garrett Temple,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.493,59,0.079,0.914,0.379,0.09,0.11,0.09,0.03,0.371,0.431,35,32,11,29,18,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.48,41,0.07,0.921,0.412,0.05,0.05,0.05,0.0,0.421,0.471,38,35,14,34,20,NOP
+22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.756,55,0.101,0.761,0.317,0.02,0.11,0.02,0.02,0.283,0.415,46,35,13,41,28,NOP
+22021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.222,76,0.083,1.071,0.44,0.05,0.07,0.05,0.02,0.429,0.55,56,60,22,50,28,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.593,78,0.082,0.857,0.397,0.06,0.12,0.06,0.0,0.39,0.452,77,66,25,63,38,NOP

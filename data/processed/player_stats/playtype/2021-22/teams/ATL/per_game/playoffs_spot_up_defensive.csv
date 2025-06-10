@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,2,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,ATL
+42021,1627789,Timothe Luwawu-Cabarrot,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,4,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,ATL
+42021,1628995,Kevin Knox II,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,2,0.667,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,1.0,2.0,0.5,1.0,0.5,ATL
+42021,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,2,1.0,1.25,1.0,0.0,0.5,0.0,0.0,0.5,1.25,2.0,2.0,1.0,1.0,0.0,ATL
+42021,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.0,5,0.154,0.875,0.29,0.12,0.0,0.12,0.0,0.38,0.36,1.6,1.0,0.4,1.4,1.0,ATL
+42021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.707,5,0.239,0.909,0.44,0.0,0.18,0.0,0.0,0.36,0.56,2.2,2.0,0.8,1.8,1.0,ATL
+42021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.872,4,0.368,0.786,0.31,0.0,0.07,0.0,0.0,0.29,0.42,3.5,3.0,1.0,3.3,2.3,ATL
+42021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.15,5,0.407,1.273,0.45,0.0,0.0,0.0,0.0,0.45,0.64,2.2,3.0,1.0,2.2,1.2,ATL
+42021,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.744,5,0.432,0.895,0.33,0.0,0.05,0.0,0.0,0.32,0.47,3.8,3.0,1.2,3.6,2.4,ATL
+42021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.023,5,0.162,1.636,0.6,0.18,0.0,0.18,0.09,0.64,0.75,2.2,4.0,1.2,2.0,0.8,ATL
+42021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.038,5,0.283,1.462,0.54,0.0,0.0,0.0,0.0,0.54,0.73,2.6,4.0,1.4,2.6,1.2,ATL
+42021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Spotup,Defensive,0.053,5,0.243,1.412,0.44,0.12,0.0,0.12,0.06,0.47,0.66,3.4,5.0,1.4,3.2,1.8,ATL

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.462,41,0.136,1.257,0.651,0.109,0.079,0.109,0.04,0.624,0.651,101,127,56,86,30,ATL
+22019,203458,Alex Len,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.488,40,0.203,1.275,0.696,0.101,0.087,0.101,0.0,0.667,0.696,69,88,39,56,17,ATL
+22019,1627745,Damian Jones,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.468,55,0.245,1.262,0.659,0.23,0.066,0.23,0.016,0.689,0.659,61,77,29,44,15,ATL
+22019,203953,Jabari Parker,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.445,32,0.112,1.241,0.627,0.074,0.019,0.074,0.037,0.611,0.627,54,67,32,51,19,ATL
+22019,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.223,56,0.19,1.1,0.649,0.16,0.14,0.16,0.04,0.58,0.649,50,55,24,37,13,ATL
+22019,1627761,DeAndre' Bembry,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.352,43,0.099,1.194,0.64,0.161,0.032,0.161,0.0,0.645,0.64,31,37,16,25,9,ATL
+22019,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.48,58,0.037,1.269,0.647,0.269,0.077,0.231,0.0,0.692,0.647,26,33,11,17,6,ATL
+22019,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.662,63,0.026,1.364,0.737,0.091,0.091,0.091,0.045,0.682,0.737,22,30,14,19,5,ATL
+22019,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.082,56,0.025,1.0,0.529,0.0,0.056,0.0,0.0,0.5,0.529,18,18,9,17,8,ATL
+22019,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.178,10,0.134,1.077,0.583,0.0,0.077,0.0,0.0,0.538,0.583,13,14,7,12,5,ATL

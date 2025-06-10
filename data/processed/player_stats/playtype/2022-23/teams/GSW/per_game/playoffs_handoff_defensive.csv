@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,10,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GSW
+42022,203210,JaMychal Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,7,0.045,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,GSW
+42022,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,13,0.014,1.0,0.33,0.0,0.0,0.0,0.0,0.33,0.5,0.0,0.0,0.0,0.0,0.0,GSW
+42022,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,12,0.035,0.5,0.17,0.0,0.0,0.0,0.0,0.17,0.25,0.0,0.0,0.0,0.0,0.0,GSW
+42022,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,13,0.075,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.0,0.0,0.0,0.0,GSW
+42022,1628978,Donte DiVincenzo,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,13,0.086,0.571,0.29,0.0,0.0,0.0,0.0,0.29,0.29,1.0,0.0,1.0,1.0,0.0,GSW
+42022,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,12,0.095,0.833,0.4,0.0,0.17,0.0,0.0,0.33,0.5,0.0,0.0,0.0,0.0,0.0,GSW
+42022,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.0,12,0.096,0.714,0.33,0.14,0.0,0.14,0.0,0.43,0.33,1.0,0.0,0.0,0.0,0.0,GSW
+42022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.567,13,0.082,0.938,0.33,0.0,0.06,0.0,0.0,0.31,0.5,1.0,1.0,0.0,1.0,1.0,GSW
+42022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.367,13,0.129,1.067,0.55,0.2,0.13,0.13,0.07,0.53,0.64,1.0,1.0,1.0,1.0,0.0,GSW
+42022,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.444,13,0.101,1.0,0.4,0.06,0.0,0.06,0.0,0.44,0.5,1.0,1.0,0.0,1.0,1.0,GSW

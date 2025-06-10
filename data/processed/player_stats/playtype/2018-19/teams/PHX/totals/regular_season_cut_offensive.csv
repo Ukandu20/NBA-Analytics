@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.57,71,0.158,1.318,0.671,0.106,0.029,0.106,0.029,0.659,0.671,170,224,102,152,50,PHX
+22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.656,70,0.198,1.351,0.667,0.196,0.031,0.196,0.093,0.68,0.667,97,131,56,84,28,PHX
+22018,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.836,82,0.075,1.451,0.7,0.255,0.078,0.255,0.118,0.686,0.7,51,74,28,40,12,PHX
+22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.831,64,0.028,1.447,0.762,0.064,0.085,0.064,0.043,0.702,0.762,47,68,32,42,10,PHX
+22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.853,79,0.041,1.457,0.769,0.13,0.043,0.109,0.022,0.739,0.769,46,67,30,39,9,PHX
+22018,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.349,40,0.056,1.211,0.621,0.211,0.079,0.184,0.053,0.632,0.621,38,46,18,29,11,PHX
+22018,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.26,43,0.055,1.154,0.556,0.077,0.026,0.077,0.026,0.564,0.556,39,45,20,36,16,PHX
+22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.612,46,0.118,1.333,0.708,0.233,0.067,0.2,0.1,0.7,0.708,30,40,17,24,7,PHX
+22018,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.897,53,0.032,1.5,0.818,0.0,0.083,0.0,0.0,0.75,0.818,12,18,9,11,2,PHX
+22018,1629001,De'Anthony Melton,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.849,50,0.032,1.455,0.75,0.273,0.091,0.273,0.091,0.727,0.75,11,16,6,8,2,PHX
+22018,2772,Trevor Ariza,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.679,26,0.039,1.364,0.667,0.182,0.091,0.182,0.091,0.636,0.667,11,15,6,9,3,PHX
+22018,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.434,51,0.039,1.25,0.583,0.083,0.0,0.083,0.083,0.583,0.583,12,15,7,12,5,PHX
+22018,1629034,Ray Spalding,1610612756,PHX,Phoenix Suns,Cut,Offensive,0.043,13,0.169,0.9,0.571,0.1,0.2,0.1,0.0,0.5,0.571,10,9,4,7,3,PHX

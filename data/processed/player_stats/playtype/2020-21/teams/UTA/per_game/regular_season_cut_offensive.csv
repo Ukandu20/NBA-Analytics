@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Cut,Offensive,0.509,71,0.265,1.284,0.688,0.245,0.061,0.236,0.048,0.69,0.688,3.2,4.1,1.6,2.4,0.7,UTA
+22020,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Cut,Offensive,0.544,68,0.311,1.306,0.686,0.092,0.051,0.082,0.02,0.663,0.686,1.4,1.9,0.9,1.3,0.4,UTA
+22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Cut,Offensive,0.465,72,0.032,1.263,0.667,0.158,0.079,0.132,0.026,0.658,0.667,0.5,0.7,0.3,0.4,0.1,UTA
+22020,201144,Mike Conley,1610612762,UTA,Utah Jazz,Cut,Offensive,0.939,51,0.027,1.591,0.842,0.091,0.045,0.045,0.0,0.818,0.842,0.4,0.7,0.3,0.4,0.1,UTA
+22020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Cut,Offensive,0.985,53,0.009,1.75,0.875,0.333,0.083,0.333,0.083,0.833,0.875,0.2,0.4,0.1,0.2,0.0,UTA
+22020,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Cut,Offensive,0.802,71,0.022,1.455,0.667,0.273,0.0,0.273,0.091,0.727,0.667,0.2,0.2,0.1,0.1,0.0,UTA
+22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Cut,Offensive,0.032,68,0.01,0.769,0.5,0.077,0.308,0.077,0.0,0.385,0.5,0.2,0.1,0.1,0.1,0.1,UTA

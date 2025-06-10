@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.631,66,0.147,0.986,0.464,0.181,0.086,0.172,0.027,0.502,0.467,3.3,3.3,1.2,2.5,1.4,MEM
+22023,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.154,42,0.063,0.667,0.313,0.067,0.133,0.067,0.0,0.317,0.344,1.4,1.0,0.4,1.1,0.8,MEM
+22023,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.677,10,0.133,1.0,0.5,0.2,0.133,0.167,0.0,0.533,0.5,3.0,3.0,1.0,2.0,1.0,MEM
+22023,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.209,48,0.044,0.71,0.25,0.161,0.065,0.161,0.0,0.355,0.271,0.6,0.5,0.1,0.5,0.4,MEM
+22023,1630205,Lamar Stevens,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.779,19,0.079,1.056,0.529,0.056,0.0,0.0,0.0,0.556,0.529,0.9,1.0,0.5,0.9,0.4,MEM
+22023,203935,Marcus Smart,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.794,20,0.046,1.067,0.6,0.133,0.2,0.0,0.0,0.533,0.65,0.8,0.8,0.3,0.5,0.2,MEM
+22023,1630692,Jordan Goodwin,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.922,17,0.048,1.182,0.444,0.182,0.0,0.182,0.0,0.545,0.5,0.6,0.8,0.2,0.5,0.3,MEM
+22023,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.123,61,0.028,0.632,0.333,0.105,0.158,0.105,0.053,0.316,0.333,0.3,0.2,0.1,0.2,0.2,MEM
+22023,201565,Derrick Rose,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.154,24,0.073,0.667,0.385,0.0,0.133,0.0,0.0,0.333,0.385,0.6,0.4,0.2,0.5,0.3,MEM
+22023,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.075,21,0.039,0.545,0.167,0.273,0.182,0.273,0.0,0.364,0.167,0.5,0.3,0.0,0.3,0.2,MEM

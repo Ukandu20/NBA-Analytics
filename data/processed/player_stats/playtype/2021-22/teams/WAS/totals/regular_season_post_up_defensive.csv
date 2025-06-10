@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,Postup,Defensive,0.414,17,0.04,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,10,10,5,10,5,WAS
+22021,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Postup,Defensive,0.414,22,0.073,1.0,0.545,0.08,0.15,0.08,0.08,0.46,0.545,13,13,6,11,5,WAS
+22021,1630264,Anthony Gill,1610612764,WAS,Washington Wizards,Postup,Defensive,0.892,44,0.114,0.7,0.385,0.1,0.25,0.1,0.0,0.35,0.385,20,14,5,13,8,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Postup,Defensive,0.534,42,0.057,0.941,0.308,0.24,0.0,0.24,0.0,0.47,0.308,17,16,4,13,9,WAS
+22021,1628988,Aaron Holiday,1610612764,WAS,Washington Wizards,Postup,Defensive,0.079,41,0.053,1.286,0.667,0.07,0.07,0.07,0.0,0.64,0.667,14,18,8,12,4,WAS
+22021,202397,Ish Smith,1610612764,WAS,Washington Wizards,Postup,Defensive,0.653,28,0.12,0.875,0.429,0.29,0.25,0.29,0.12,0.42,0.429,24,21,6,14,8,WAS
+22021,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Postup,Defensive,0.305,77,0.055,1.071,0.6,0.0,0.11,0.0,0.0,0.54,0.6,28,30,15,25,10,WAS
+22021,203915,Spencer Dinwiddie,1610612764,WAS,Washington Wizards,Postup,Defensive,0.792,44,0.087,0.811,0.429,0.0,0.05,0.0,0.0,0.41,0.429,37,30,15,35,20,WAS
+22021,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Postup,Defensive,0.084,27,0.105,1.28,0.632,0.2,0.04,0.2,0.0,0.68,0.632,25,32,12,19,7,WAS
+22021,1626149,Montrezl Harrell,1610612764,WAS,Washington Wizards,Postup,Defensive,0.878,46,0.078,0.727,0.364,0.14,0.11,0.11,0.0,0.41,0.364,44,32,12,33,21,WAS
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Postup,Defensive,0.266,41,0.083,1.086,0.458,0.26,0.09,0.2,0.03,0.54,0.458,35,38,11,24,13,WAS
+22021,203526,Raul Neto,1610612764,WAS,Washington Wizards,Postup,Defensive,0.129,70,0.08,1.214,0.548,0.29,0.1,0.26,0.12,0.57,0.548,42,51,17,31,14,WAS
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,Postup,Defensive,0.589,77,0.076,0.914,0.422,0.19,0.05,0.14,0.02,0.48,0.422,58,53,19,45,26,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Postup,Defensive,0.579,66,0.095,0.924,0.463,0.12,0.09,0.11,0.03,0.47,0.463,66,61,25,54,29,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Postup,Defensive,0.189,82,0.063,1.148,0.558,0.15,0.07,0.13,0.02,0.57,0.558,54,62,24,43,19,WAS
+22021,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Postup,Defensive,0.218,72,0.088,1.116,0.569,0.26,0.1,0.23,0.1,0.55,0.569,69,77,29,51,22,WAS

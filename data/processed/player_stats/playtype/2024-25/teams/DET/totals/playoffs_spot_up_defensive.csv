@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.881,6,0.264,0.714,0.308,0.0,0.071,0.0,0.0,0.286,0.385,14,10,4,13,9,DET
+42024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.856,6,0.195,0.765,0.267,0.059,0.059,0.059,0.0,0.294,0.367,17,13,4,15,11,DET
+42024,203471,Dennis Schröder,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.607,6,0.154,0.929,0.417,0.0,0.143,0.0,0.0,0.357,0.542,14,13,5,12,7,DET
+42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.051,6,0.25,1.455,0.625,0.182,0.091,0.182,0.0,0.636,0.875,11,16,5,8,3,DET
+42024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.009,6,0.203,1.625,0.6,0.063,0.063,0.063,0.063,0.563,0.833,16,26,9,15,6,DET
+42024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Spotup,Defensive,0.424,6,0.486,1.029,0.333,0.088,0.029,0.059,0.0,0.382,0.483,34,35,10,30,20,DET

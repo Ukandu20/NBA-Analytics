@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.901,22,0.105,0.636,0.375,0.09,0.182,0.09,0.0,0.364,0.375,0.5,0.3,0.1,0.4,0.2,DAL
+22021,1627737,Marquese Chriss,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.816,34,0.104,0.722,0.353,0.06,0.056,0.06,0.06,0.333,0.382,0.5,0.4,0.2,0.5,0.3,DAL
+22021,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.212,42,0.098,1.077,0.5,0.31,0.154,0.31,0.08,0.538,0.563,0.3,0.3,0.1,0.2,0.1,DAL
+22021,1628425,Sterling Brown,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.729,49,0.091,0.789,0.375,0.05,0.105,0.05,0.0,0.368,0.406,0.4,0.3,0.1,0.3,0.2,DAL
+22021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.244,23,0.075,1.063,0.5,0.12,0.125,0.12,0.0,0.5,0.583,0.7,0.7,0.3,0.5,0.3,DAL
+22021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.85,79,0.042,0.7,0.25,0.07,0.0,0.03,0.0,0.3,0.304,0.4,0.3,0.1,0.4,0.3,DAL
+22021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.556,58,0.11,0.88,0.333,0.24,0.16,0.2,0.0,0.44,0.367,0.4,0.4,0.1,0.3,0.2,DAL
+22021,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.462,42,0.073,0.926,0.476,0.04,0.185,0.0,0.0,0.407,0.548,0.6,0.6,0.2,0.5,0.3,DAL
+22021,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.226,67,0.077,1.069,0.409,0.17,0.069,0.1,0.0,0.483,0.477,0.4,0.5,0.1,0.3,0.2,DAL
+22021,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.158,35,0.077,1.133,0.519,0.07,0.067,0.07,0.03,0.5,0.593,0.9,1.0,0.4,0.8,0.4,DAL
+22021,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.634,82,0.07,0.842,0.413,0.11,0.123,0.11,0.04,0.404,0.446,0.7,0.6,0.2,0.6,0.3,DAL
+22021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.312,68,0.098,1.017,0.49,0.07,0.068,0.07,0.0,0.492,0.52,0.9,0.9,0.4,0.8,0.4,DAL
+22021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.752,80,0.08,0.767,0.351,0.03,0.105,0.02,0.0,0.337,0.405,1.1,0.8,0.3,0.9,0.6,DAL
+22021,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.722,59,0.157,0.798,0.347,0.05,0.071,0.04,0.01,0.345,0.4,1.4,1.1,0.4,1.3,0.8,DAL
+22021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.571,65,0.116,0.874,0.392,0.11,0.057,0.09,0.02,0.414,0.419,1.3,1.2,0.4,1.1,0.7,DAL

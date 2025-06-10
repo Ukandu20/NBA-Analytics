@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.591,13,0.122,1.167,0.59,0.042,0.04,0.042,0.0,0.583,0.59,24,28,13,22,9,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,10,0.03,1.429,0.8,0.143,0.14,0.143,0.0,0.714,0.8,7,10,4,5,1,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,12,0.138,1.111,0.56,0.0,0.0,0.0,0.0,0.556,0.56,9,10,5,9,4,PHX
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,13,0.048,1.5,0.67,0.167,0.0,0.167,0.167,0.667,0.67,6,9,4,6,2,PHX
+42021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,9,0.148,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,4,6,3,4,1,PHX
+42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,13,0.022,1.667,1.0,0.333,0.0,0.333,0.0,1.0,1.0,3,5,2,2,0,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,13,0.025,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,12,0.017,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,1,3,1,1,0,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,13,0.01,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHX
+42021,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,7,0.333,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,5,2,1,4,3,PHX
+42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,13,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.0,9,0.185,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4,PHX

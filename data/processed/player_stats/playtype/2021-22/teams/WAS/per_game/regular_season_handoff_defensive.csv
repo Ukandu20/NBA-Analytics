@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.92,72,0.015,0.583,0.25,0.0,0.0,0.0,0.0,0.25,0.292,0.2,0.1,0.0,0.2,0.1,WAS
+22021,1630264,Anthony Gill,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.321,44,0.057,1.0,0.444,0.0,0.1,0.0,0.0,0.4,0.556,0.2,0.2,0.1,0.2,0.1,WAS
+22021,202397,Ish Smith,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.63,28,0.06,0.833,0.364,0.08,0.08,0.08,0.08,0.333,0.409,0.4,0.4,0.1,0.4,0.3,WAS
+22021,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.847,22,0.09,0.688,0.286,0.0,0.12,0.0,0.0,0.25,0.393,0.7,0.5,0.2,0.6,0.5,WAS
+22021,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.321,42,0.054,1.0,0.375,0.0,0.0,0.0,0.0,0.375,0.5,0.4,0.4,0.1,0.4,0.2,WAS
+22021,1628988,Aaron Holiday,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.08,41,0.103,1.222,0.542,0.0,0.11,0.0,0.0,0.481,0.688,0.7,0.8,0.3,0.6,0.3,WAS
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.159,41,0.095,1.125,0.472,0.02,0.08,0.02,0.0,0.45,0.597,1.0,1.1,0.4,0.9,0.5,WAS
+22021,203915,Spencer Dinwiddie,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.091,44,0.092,1.205,0.5,0.18,0.03,0.18,0.13,0.513,0.542,0.9,1.1,0.4,0.8,0.4,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.759,66,0.089,0.758,0.314,0.11,0.1,0.11,0.03,0.339,0.353,0.9,0.7,0.2,0.8,0.5,WAS
+22021,203526,Raul Neto,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.173,70,0.092,1.104,0.477,0.02,0.06,0.02,0.0,0.458,0.58,0.7,0.8,0.3,0.6,0.3,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.747,82,0.089,0.766,0.328,0.1,0.06,0.09,0.0,0.377,0.383,0.9,0.7,0.3,0.8,0.5,WAS
+22021,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.727,77,0.154,0.772,0.313,0.1,0.08,0.1,0.03,0.342,0.373,1.0,0.8,0.3,0.9,0.6,WAS
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,Handoff,Defensive,0.264,77,0.086,1.03,0.464,0.08,0.09,0.08,0.02,0.455,0.536,0.9,0.9,0.3,0.7,0.4,WAS

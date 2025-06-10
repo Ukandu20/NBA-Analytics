@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Offensive,0.5,80,0.269,0.926,0.494,0.083,0.115,0.046,0.016,0.468,0.494,5.4,5.0,2.2,4.4,2.2,ORL
+22018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.299,78,0.132,0.838,0.42,0.145,0.092,0.127,0.035,0.428,0.42,2.2,1.9,0.7,1.8,1.0,ORL
+22018,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,Postup,Offensive,0.139,47,0.083,0.692,0.333,0.115,0.115,0.115,0.038,0.346,0.333,0.6,0.4,0.1,0.4,0.3,ORL
+22018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Postup,Offensive,0.083,75,0.029,0.591,0.4,0.091,0.227,0.091,0.0,0.318,0.4,0.3,0.2,0.1,0.2,0.1,ORL
+22018,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,Postup,Offensive,0.871,41,0.027,1.1,0.444,0.2,0.0,0.2,0.1,0.5,0.444,0.2,0.3,0.1,0.2,0.1,ORL

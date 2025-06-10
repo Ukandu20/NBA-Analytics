@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Postup,Defensive,0.809,64,0.035,0.769,0.417,0.0,0.077,0.0,0.0,0.385,0.417,0.2,0.2,0.1,0.2,0.1,WAS
+22020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Postup,Defensive,0.009,57,0.021,1.455,1.0,0.27,0.273,0.0,0.0,0.727,1.0,0.2,0.3,0.1,0.1,0.0,WAS
+22020,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Postup,Defensive,0.5,23,0.08,0.941,0.538,0.12,0.176,0.12,0.06,0.471,0.538,0.7,0.7,0.3,0.6,0.3,WAS
+22020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Postup,Defensive,0.875,60,0.034,0.72,0.421,0.08,0.16,0.04,0.0,0.4,0.421,0.4,0.3,0.1,0.3,0.2,WAS
+22020,202397,Ish Smith,1610612764,WAS,Washington Wizards,Postup,Defensive,0.205,44,0.049,1.111,0.667,0.06,0.111,0.06,0.0,0.556,0.667,0.4,0.5,0.2,0.3,0.1,WAS
+22020,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Postup,Defensive,0.757,10,0.14,0.8,0.455,0.0,0.12,0.0,0.0,0.4,0.455,2.5,2.0,1.0,2.2,1.2,WAS
+22020,203458,Alex Len,1610612764,WAS,Washington Wizards,Postup,Defensive,0.772,57,0.054,0.793,0.4,0.24,0.103,0.24,0.03,0.448,0.4,0.5,0.4,0.1,0.4,0.2,WAS
+22020,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Postup,Defensive,0.457,54,0.054,0.962,0.474,0.23,0.038,0.23,0.0,0.5,0.474,0.5,0.5,0.2,0.4,0.2,WAS
+22020,201577,Robin Lopez,1610612764,WAS,Washington Wizards,Postup,Defensive,0.31,71,0.032,1.038,0.524,0.12,0.077,0.12,0.0,0.538,0.524,0.4,0.4,0.2,0.3,0.1,WAS
+22020,203526,Raul Neto,1610612764,WAS,Washington Wizards,Postup,Defensive,0.858,64,0.067,0.73,0.393,0.11,0.162,0.11,0.03,0.378,0.393,0.6,0.4,0.2,0.4,0.3,WAS
+22020,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,Postup,Defensive,0.034,25,0.091,1.348,0.75,0.26,0.217,0.26,0.17,0.609,0.75,0.9,1.2,0.5,0.6,0.2,WAS
+22020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Postup,Defensive,0.847,57,0.069,0.744,0.387,0.14,0.186,0.14,0.05,0.372,0.387,0.8,0.6,0.2,0.5,0.3,WAS
+22020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,Postup,Defensive,0.795,65,0.061,0.783,0.531,0.04,0.283,0.02,0.02,0.391,0.531,0.7,0.6,0.3,0.5,0.2,WAS

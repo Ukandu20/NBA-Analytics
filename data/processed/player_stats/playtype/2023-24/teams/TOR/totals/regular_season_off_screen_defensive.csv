@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203471,Dennis Schröder,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.985,50,0.052,0.367,0.2,0.0,0.167,0.0,0.0,0.167,0.22,30,11,5,25,20,TOR
+22023,1628971,Bruce Brown,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.801,34,0.047,0.786,0.385,0.0,0.071,0.0,0.0,0.357,0.423,14,11,5,13,8,TOR
+22023,1630534,Ochai Agbaji,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.099,26,0.04,1.364,0.625,0.182,0.091,0.091,0.0,0.636,0.688,11,15,5,8,3,TOR
+22023,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.78,38,0.055,0.81,0.368,0.0,0.095,0.0,0.0,0.333,0.447,21,17,7,19,12,TOR
+22023,1629667,Jalen McDaniels,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.153,42,0.068,1.286,0.7,0.143,0.214,0.071,0.071,0.571,0.75,14,18,7,10,3,TOR
+22023,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.015,45,0.047,1.727,0.667,0.182,0.0,0.182,0.0,0.727,0.833,11,19,6,9,3,TOR
+22023,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.223,32,0.04,1.25,0.438,0.0,0.0,0.0,0.0,0.438,0.625,16,20,7,16,9,TOR
+22023,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.545,39,0.05,1.0,0.4,0.0,0.091,0.0,0.0,0.364,0.55,22,22,8,20,12,TOR
+22023,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.122,27,0.055,1.316,0.471,0.053,0.053,0.053,0.0,0.474,0.676,19,25,8,17,9,TOR
+22023,1641711,Gradey Dick,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.272,58,0.056,1.217,0.45,0.13,0.0,0.13,0.0,0.522,0.575,23,28,9,20,11,TOR

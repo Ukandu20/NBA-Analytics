@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Cut,Offensive,0.823,72,0.265,1.477,0.773,0.154,0.067,0.148,0.027,0.745,0.773,149,220,92,119,27,LAC
+22020,201586,Serge Ibaka,1610612746,LAC,LA Clippers,Cut,Offensive,0.365,41,0.13,1.214,0.612,0.107,0.089,0.107,0.071,0.571,0.612,56,68,30,49,19,LAC
+22020,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Cut,Offensive,0.759,52,0.036,1.415,0.724,0.268,0.098,0.22,0.073,0.707,0.724,41,58,21,29,8,LAC
+22020,1629611,Terance Mann,1610612746,LAC,LA Clippers,Cut,Offensive,0.671,67,0.088,1.368,0.636,0.158,0.026,0.158,0.053,0.658,0.636,38,52,21,33,12,LAC
+22020,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Cut,Offensive,0.874,67,0.07,1.5,0.733,0.147,0.0,0.147,0.029,0.765,0.733,34,51,22,30,8,LAC
+22020,202331,Paul George,1610612746,LAC,LA Clippers,Cut,Offensive,0.465,54,0.015,1.263,0.688,0.105,0.105,0.105,0.053,0.632,0.688,19,24,11,16,5,LAC
+22020,202335,Patrick Patterson,1610612746,LAC,LA Clippers,Cut,Offensive,0.598,38,0.081,1.333,0.643,0.067,0.0,0.067,0.0,0.667,0.643,15,20,9,14,5,LAC
+22020,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Cut,Offensive,0.096,63,0.03,1.0,0.5,0.143,0.143,0.143,0.143,0.429,0.5,14,14,6,12,6,LAC
+22020,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Cut,Offensive,0.096,57,0.015,1.0,0.5,0.1,0.0,0.1,0.1,0.5,0.5,10,10,5,10,5,LAC

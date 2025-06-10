@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,Postup,Defensive,0.977,46,0.033,0.5,0.4,0.1,0.4,0.1,0.0,0.3,0.4,0.2,0.1,0.0,0.1,0.1,IND
+22022,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Postup,Defensive,0.926,65,0.04,0.667,0.4,0.0,0.17,0.0,0.0,0.33,0.4,0.2,0.1,0.1,0.2,0.1,IND
+22022,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Postup,Defensive,0.575,56,0.047,0.952,0.533,0.14,0.19,0.1,0.05,0.48,0.533,0.4,0.4,0.1,0.3,0.1,IND
+22022,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Postup,Defensive,0.475,68,0.042,1.0,0.5,0.14,0.14,0.14,0.05,0.48,0.5,0.3,0.3,0.1,0.2,0.1,IND
+22022,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,Postup,Defensive,0.017,24,0.083,1.5,0.733,0.12,0.0,0.12,0.06,0.75,0.733,0.7,1.0,0.5,0.6,0.2,IND
+22022,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Postup,Defensive,0.271,75,0.061,1.1,0.571,0.2,0.13,0.17,0.03,0.57,0.571,0.4,0.4,0.2,0.3,0.1,IND
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Postup,Defensive,0.136,78,0.043,1.2,0.625,0.1,0.1,0.03,0.0,0.6,0.625,0.4,0.5,0.2,0.3,0.1,IND
+22022,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Postup,Defensive,0.635,63,0.091,0.909,0.455,0.16,0.11,0.16,0.02,0.48,0.455,0.7,0.6,0.2,0.5,0.3,IND
+22022,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Defensive,0.585,62,0.062,0.941,0.489,0.04,0.06,0.04,0.02,0.47,0.489,0.8,0.8,0.4,0.8,0.4,IND
+22022,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Postup,Defensive,0.598,75,0.072,0.932,0.426,0.17,0.07,0.12,0.03,0.47,0.426,0.8,0.7,0.3,0.6,0.4,IND
+22022,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Postup,Defensive,0.125,73,0.074,1.235,0.6,0.27,0.12,0.27,0.08,0.59,0.6,0.7,0.9,0.3,0.5,0.2,IND
+22022,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Postup,Defensive,0.433,80,0.073,1.015,0.538,0.11,0.14,0.09,0.03,0.5,0.538,0.8,0.8,0.4,0.7,0.3,IND

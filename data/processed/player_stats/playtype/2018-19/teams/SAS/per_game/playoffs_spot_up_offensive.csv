@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.898,7,0.492,1.29,0.519,0.065,0.065,0.065,0.0,0.516,0.685,4.4,5.7,2.0,3.9,1.9,SAS
+42018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.694,7,0.287,1.069,0.52,0.103,0.069,0.103,0.034,0.517,0.58,4.1,4.4,1.9,3.6,1.7,SAS
+42018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.355,7,0.318,0.857,0.346,0.036,0.036,0.0,0.0,0.357,0.423,4.0,3.4,1.3,3.7,2.4,SAS
+42018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.287,7,0.2,0.793,0.409,0.069,0.172,0.069,0.0,0.379,0.455,4.1,3.3,1.3,3.1,1.9,SAS
+42018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.917,7,0.381,1.313,0.467,0.063,0.063,0.063,0.063,0.438,0.667,2.3,3.0,1.0,2.1,1.1,SAS
+42018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.766,7,0.079,1.167,0.545,0.083,0.0,0.083,0.0,0.583,0.545,1.7,2.0,0.9,1.6,0.7,SAS
+42018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.396,5,0.667,0.917,0.3,0.083,0.083,0.083,0.0,0.333,0.45,2.4,2.2,0.6,2.0,1.4,SAS
+42018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.093,7,0.24,0.583,0.25,0.0,0.0,0.0,0.0,0.25,0.292,1.7,1.0,0.4,1.7,1.3,SAS
+42018,201967,Dante Cunningham,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,5,0.667,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.4,0.6,0.2,0.4,0.2,SAS
+42018,202700,Donatas Motiejunas,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,5,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,SAS
+42018,202347,Quincy Pondexter,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,SAS
+42018,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,6,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,SAS

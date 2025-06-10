@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,2,0.048,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,LAC
+42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAC
+42022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.172,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,5,2,1,5,4,LAC
+42022,203486,Mason Plumlee,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.143,0.667,0.4,0.0,0.17,0.0,0.0,0.33,0.4,6,4,2,5,3,LAC
+42022,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.045,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.62,4,5,2,4,2,LAC
+42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,3,0.278,1.4,1.0,0.6,0.0,0.6,0.0,0.8,1.0,5,7,2,2,0,LAC
+42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.173,0.889,0.38,0.11,0.0,0.0,0.0,0.44,0.38,9,8,3,8,5,LAC
+42022,203496,Robert Covington,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,2,0.556,2.0,0.75,0.4,0.0,0.4,0.2,0.8,0.88,5,10,3,4,1,LAC
+42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.17,1.25,0.75,0.25,0.25,0.25,0.0,0.62,0.88,8,10,3,4,1,LAC
+42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.219,1.857,0.71,0.29,0.0,0.29,0.29,0.71,0.79,7,13,5,7,2,LAC
+42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Isolation,Defensive,0.143,5,0.18,1.273,0.6,0.09,0.0,0.09,0.0,0.64,0.6,11,14,6,10,4,LAC

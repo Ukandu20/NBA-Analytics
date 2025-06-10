@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201577,Robin Lopez,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.382,71,0.148,1.048,0.552,0.12,0.108,0.108,0.036,0.53,0.552,1.2,1.2,0.5,0.9,0.4,WAS
+22020,203458,Alex Len,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.79,57,0.179,1.258,0.667,0.318,0.076,0.318,0.03,0.667,0.679,1.2,1.5,0.5,0.7,0.2,WAS
+22020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.366,57,0.099,1.038,0.493,0.026,0.026,0.026,0.013,0.487,0.52,1.4,1.4,0.6,1.3,0.7,WAS
+22020,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.731,25,0.192,1.219,0.538,0.156,0.031,0.156,0.0,0.594,0.577,1.3,1.6,0.6,1.0,0.5,WAS
+22020,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.244,23,0.22,0.951,0.429,0.146,0.024,0.146,0.024,0.488,0.429,1.8,1.7,0.7,1.5,0.9,WAS
+22020,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.517,10,0.22,1.125,0.5,0.167,0.042,0.167,0.125,0.5,0.523,2.4,2.7,1.1,2.2,1.1,WAS
+22020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.11,57,0.044,0.833,0.304,0.0,0.042,0.0,0.0,0.292,0.435,0.4,0.4,0.1,0.4,0.3,WAS
+22020,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.819,54,0.03,1.273,0.545,0.091,0.0,0.091,0.091,0.545,0.636,0.2,0.3,0.1,0.2,0.1,WAS
+22020,203526,Raul Neto,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.172,64,0.02,0.909,0.4,0.091,0.0,0.091,0.0,0.455,0.45,0.2,0.2,0.1,0.2,0.1,WAS

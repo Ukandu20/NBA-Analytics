@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,5,0.093,2.111,0.778,0.111,0.0,0.111,0.111,0.778,1.0,2.0,3.8,1.4,1.8,0.4,LAC
+42022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,2,0.07,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2.0,2.0,1.0,2.0,1.0,LAC
+42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,5,0.021,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,LAC
+42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,3,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,LAC
+42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,5,0.039,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,LAC
+42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.0,5,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,LAC

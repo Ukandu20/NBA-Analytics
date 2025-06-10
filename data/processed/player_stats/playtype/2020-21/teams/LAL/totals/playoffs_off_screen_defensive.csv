@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1628035,Alfonzo McKinnie,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,2,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
+42020,203463,Ben McLemore,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,4,0.182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,LAL
+42020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,6,0.025,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,LAL
+42020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,6,0.086,0.0,0.0,0.0,0.67,0.0,0.0,0.0,0.0,3,0,0,1,1,LAL
+42020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,5,0.07,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,3,0,0,2,2,LAL
+42020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,6,0.065,0.667,0.0,0.33,0.0,0.0,0.0,0.33,0.0,3,2,0,2,2,LAL
+42020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,6,0.082,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3,LAL
+42020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,6,0.093,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,4,3,1,4,3,LAL
+42020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.0,5,0.071,1.25,0.67,0.0,0.0,0.25,0.0,0.5,0.83,4,5,2,3,1,LAL

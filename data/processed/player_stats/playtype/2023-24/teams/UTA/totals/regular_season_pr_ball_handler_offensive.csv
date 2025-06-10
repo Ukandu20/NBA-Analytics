@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641718,Keyonte George,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.391,75,0.394,0.805,0.377,0.084,0.186,0.084,0.021,0.346,0.449,431,347,122,324,202,UTA
+22023,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.814,78,0.259,0.98,0.457,0.147,0.105,0.125,0.034,0.467,0.487,353,346,126,276,150,UTA
+22023,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.342,55,0.255,0.789,0.385,0.087,0.155,0.072,0.015,0.366,0.417,265,209,79,205,126,UTA
+22023,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.436,51,0.301,0.828,0.394,0.08,0.121,0.08,0.017,0.379,0.44,174,144,56,142,86,UTA
+22023,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.202,66,0.197,0.688,0.4,0.05,0.213,0.038,0.013,0.338,0.425,80,55,24,60,36,UTA
+22023,1641729,Brice Sensabaugh,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.492,32,0.208,0.847,0.392,0.051,0.102,0.051,0.017,0.373,0.441,59,50,20,51,31,UTA
+22023,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.684,50,0.034,0.923,0.333,0.231,0.077,0.154,0.0,0.462,0.333,13,12,3,9,6,UTA
+22023,1628381,John Collins,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.337,68,0.015,0.786,0.455,0.071,0.143,0.0,0.0,0.357,0.5,14,11,5,11,6,UTA
+22023,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.046,55,0.014,0.467,0.214,0.0,0.067,0.0,0.0,0.2,0.25,15,7,3,14,11,UTA
+22023,1631323,Simone Fontecchio,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.059,50,0.024,0.5,0.222,0.0,0.1,0.0,0.0,0.2,0.278,10,5,2,9,7,UTA

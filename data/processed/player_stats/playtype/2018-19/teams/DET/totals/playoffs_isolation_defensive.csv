@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.056,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,DET
+42018,203922,Glenn Robinson III,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,3,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DET
+42018,2585,Zaza Pachulia,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,2,0.286,0.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,2,0,0,1,1,DET
+42018,204038,Langston Galloway,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.081,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,DET
+42018,101181,Jose Calderon,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,3,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,DET
+42018,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.04,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,DET
+42018,202397,Ish Smith,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.042,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,DET
+42018,1629017,Khyri Thomas,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,3,0.5,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,DET
+42018,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.067,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,DET
+42018,201933,Blake Griffin,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.12,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,3,2,1,2,1,DET
+42018,201961,Wayne Ellington,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.08,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,DET
+42018,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.0,4,0.161,1.444,0.56,0.22,0.0,0.22,0.22,0.56,0.61,9,13,5,9,4,DET

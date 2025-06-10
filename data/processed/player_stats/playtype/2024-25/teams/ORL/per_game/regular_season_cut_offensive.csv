@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Cut,Offensive,0.415,68,0.213,1.254,0.636,0.181,0.051,0.174,0.029,0.659,0.636,2.0,2.5,1.0,1.6,0.6,ORL
+22024,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Cut,Offensive,0.45,70,0.282,1.271,0.649,0.15,0.045,0.15,0.053,0.647,0.649,1.9,2.4,1.1,1.6,0.6,ORL
+22024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.748,60,0.072,1.413,0.729,0.154,0.087,0.154,0.058,0.692,0.729,1.7,2.5,1.0,1.4,0.4,ORL
+22024,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Cut,Offensive,0.763,71,0.152,1.419,0.7,0.242,0.016,0.242,0.065,0.742,0.7,0.9,1.2,0.5,0.7,0.2,ORL
+22024,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.855,30,0.165,1.491,0.75,0.228,0.07,0.228,0.07,0.719,0.75,1.9,2.8,1.1,1.5,0.4,ORL
+22024,1641783,Tristan da Silva,1610612753,ORL,Orlando Magic,Cut,Offensive,0.39,74,0.096,1.241,0.596,0.13,0.037,0.13,0.037,0.611,0.596,0.7,0.9,0.4,0.6,0.3,ORL
+22024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Cut,Offensive,0.626,46,0.033,1.35,0.733,0.2,0.075,0.2,0.025,0.725,0.733,0.9,1.2,0.5,0.7,0.2,ORL
+22024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Cut,Offensive,0.242,78,0.039,1.152,0.519,0.212,0.061,0.212,0.091,0.545,0.519,0.4,0.5,0.2,0.3,0.2,ORL
+22024,1630243,Trevelin Queen,1610612753,ORL,Orlando Magic,Cut,Offensive,0.223,31,0.078,1.143,0.538,0.071,0.0,0.071,0.0,0.571,0.538,0.5,0.5,0.2,0.4,0.2,ORL
+22024,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,Cut,Offensive,0.511,58,0.047,1.3,0.75,0.1,0.2,0.1,0.1,0.6,0.75,0.2,0.2,0.1,0.1,0.0,ORL
+22024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Cut,Offensive,0.302,67,0.014,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,0.1,0.2,0.1,0.1,0.0,ORL
+22024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,Cut,Offensive,0.167,77,0.017,1.091,0.556,0.182,0.091,0.091,0.091,0.545,0.556,0.1,0.2,0.1,0.1,0.1,ORL

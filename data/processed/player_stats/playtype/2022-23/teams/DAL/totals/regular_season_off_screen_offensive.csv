@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.952,71,0.082,1.35,0.456,0.15,0.025,0.15,0.025,0.5,0.618,80,108,31,68,37,DAL
+22022,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.342,66,0.022,0.909,0.314,0.205,0.045,0.205,0.045,0.409,0.386,44,40,11,35,24,DAL
+22022,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.974,48,0.058,1.417,0.667,0.042,0.083,0.0,0.0,0.625,0.786,24,34,14,21,7,DAL
+22022,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.934,45,0.121,1.286,0.444,0.048,0.095,0.048,0.0,0.429,0.667,21,27,8,18,10,DAL
+22022,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.727,60,0.043,1.095,0.625,0.095,0.19,0.095,0.048,0.524,0.656,21,23,10,16,6,DAL
+22022,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.606,20,0.041,1.0,0.421,0.0,0.0,0.0,0.0,0.421,0.5,19,19,8,19,11,DAL
+22022,1626174,Christian Wood,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.704,67,0.016,1.063,0.429,0.125,0.063,0.125,0.063,0.438,0.5,16,17,6,14,8,DAL
+22022,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.805,78,0.025,1.154,0.385,0.0,0.0,0.0,0.0,0.385,0.577,13,15,5,13,8,DAL
+22022,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.084,53,0.021,0.667,0.25,0.056,0.056,0.056,0.0,0.278,0.313,18,12,4,16,12,DAL

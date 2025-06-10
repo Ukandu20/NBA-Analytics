@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203926,Doug McDermott,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,4,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND
+42019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,4,0.049,0.5,0.33,0.0,0.25,0.0,0.0,0.25,0.33,4,2,1,3,2,IND
+42019,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,3,0.25,0.75,0.33,0.25,0.0,0.0,0.0,0.5,0.33,4,3,1,3,2,IND
+42019,203200,Justin Holiday,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,4,0.174,0.75,0.5,0.0,0.25,0.0,0.0,0.38,0.5,8,6,3,6,3,IND
+42019,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,4,0.15,1.167,0.6,0.0,0.17,0.0,0.0,0.5,0.7,6,7,3,5,2,IND
+42019,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,3,0.692,0.889,0.57,0.11,0.22,0.11,0.11,0.44,0.57,9,8,4,7,3,IND
+42019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.952,4,0.382,0.571,0.38,0.0,0.24,0.0,0.0,0.29,0.38,21,12,6,16,10,IND
+42019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.929,4,0.458,0.593,0.35,0.04,0.33,0.04,0.0,0.26,0.41,27,16,6,17,11,IND
+42019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.0,4,0.333,1.833,1.0,0.42,0.08,0.33,0.0,0.92,1.0,12,22,6,6,0,IND

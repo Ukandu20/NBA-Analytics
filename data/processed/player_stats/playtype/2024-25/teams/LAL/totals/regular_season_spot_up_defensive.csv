@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203458,Alex Len,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.121,9,0.226,1.214,0.429,0.0,0.0,0.0,0.0,0.429,0.607,14,17,6,14,8,LAL
+22024,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.824,34,0.294,0.93,0.341,0.123,0.123,0.088,0.018,0.368,0.466,57,53,15,44,29,LAL
+22024,1629003,Shake Milton,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.04,23,0.404,1.35,0.5,0.025,0.075,0.025,0.0,0.475,0.736,40,54,18,36,18,LAL
+22024,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.136,32,0.268,1.203,0.471,0.136,0.034,0.136,0.034,0.508,0.608,59,71,24,51,27,LAL
+22024,1630692,Jordan Goodwin,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.068,28,0.333,1.286,0.5,0.036,0.071,0.036,0.0,0.482,0.69,56,72,25,50,25,LAL
+22024,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.759,27,0.401,0.968,0.378,0.011,0.042,0.0,0.0,0.368,0.5,95,92,34,90,56,LAL
+22024,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.56,43,0.196,1.031,0.4,0.031,0.042,0.031,0.01,0.396,0.522,96,99,36,90,54,LAL
+22024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.899,43,0.28,0.879,0.358,0.026,0.069,0.026,0.009,0.345,0.462,116,102,38,106,68,LAL
+22024,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.545,41,0.196,1.041,0.4,0.041,0.058,0.041,0.008,0.397,0.527,121,126,44,110,66,LAL
+22024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.327,60,0.337,1.106,0.421,0.045,0.035,0.04,0.005,0.429,0.563,198,219,77,183,106,LAL
+22024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.726,73,0.315,0.975,0.384,0.029,0.054,0.029,0.004,0.375,0.508,280,273,99,258,159,LAL
+22024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Spotup,Defensive,0.523,70,0.48,1.046,0.399,0.046,0.065,0.042,0.01,0.394,0.543,307,321,110,276,166,LAL

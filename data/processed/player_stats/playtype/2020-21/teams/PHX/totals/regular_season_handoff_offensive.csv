@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.565,67,0.068,0.965,0.518,0.106,0.159,0.088,0.018,0.469,0.541,113,109,44,85,41,PHX
+22020,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.907,60,0.042,1.25,0.526,0.05,0.0,0.0,0.0,0.55,0.605,20,25,10,19,9,PHX
+22020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.378,70,0.026,0.862,0.5,0.034,0.207,0.0,0.0,0.414,0.523,29,25,11,22,11,PHX
+22020,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.94,60,0.071,1.294,0.563,0.0,0.059,0.0,0.0,0.529,0.688,17,22,9,16,7,PHX
+22020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.27,72,0.031,0.792,0.5,0.083,0.25,0.083,0.0,0.417,0.5,24,19,8,16,8,PHX
+22020,204038,Langston Galloway,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.89,40,0.078,1.231,0.667,0.0,0.077,0.0,0.0,0.615,0.667,13,16,8,12,4,PHX
+22020,202734,E'Twaun Moore,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.746,27,0.093,1.071,0.538,0.0,0.071,0.0,0.0,0.5,0.577,14,15,7,13,6,PHX
+22020,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.071,60,0.046,0.52,0.3,0.08,0.16,0.08,0.04,0.24,0.325,25,13,6,20,14,PHX
+22020,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.074,60,0.037,0.524,0.211,0.048,0.048,0.048,0.0,0.238,0.263,21,11,4,19,15,PHX
+22020,1627846,Abdel Nader,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.298,24,0.073,0.818,0.375,0.182,0.091,0.182,0.0,0.455,0.375,11,9,3,8,5,PHX

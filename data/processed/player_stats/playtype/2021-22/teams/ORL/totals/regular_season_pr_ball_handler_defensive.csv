@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.955,63,0.024,0.583,0.38,0.0,0.33,0.0,0.0,0.25,0.44,12,7,3,8,5,ORL
+22021,1629962,Devin Cannady,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.905,5,0.218,0.667,0.44,0.0,0.25,0.0,0.0,0.33,0.44,12,8,4,9,5,ORL
+22021,1629755,Hassani Gravett,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.937,8,0.221,0.6,0.33,0.0,0.2,0.0,0.0,0.27,0.38,15,9,4,12,8,ORL
+22021,1630288,Jeff Dowtin Jr.,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.172,4,0.355,1.0,0.5,0.09,0.18,0.0,0.0,0.45,0.56,11,11,4,8,4,ORL
+22021,1628539,Mychal Mulder,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.471,16,0.262,0.875,0.54,0.0,0.19,0.0,0.0,0.44,0.54,16,14,7,13,6,ORL
+22021,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.172,71,0.017,1.0,0.4,0.2,0.13,0.2,0.0,0.47,0.45,15,15,4,10,6,ORL
+22021,204025,Tim Frazier,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.054,10,0.313,1.133,0.45,0.13,0.13,0.13,0.0,0.47,0.59,15,17,5,11,6,ORL
+22021,1629678,Admiral Schofield,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.471,38,0.213,0.875,0.4,0.19,0.06,0.16,0.03,0.47,0.42,32,28,10,25,15,ORL
+22021,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.55,62,0.039,0.848,0.39,0.03,0.12,0.0,0.0,0.36,0.48,33,28,11,28,17,ORL
+22021,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.512,18,0.38,0.857,0.44,0.1,0.18,0.06,0.02,0.39,0.5,49,42,16,36,20,ORL
+22021,1629649,Ignas Brazdeikis,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.058,42,0.259,1.122,0.56,0.05,0.2,0.05,0.02,0.46,0.69,41,46,18,32,14,ORL
+22021,203082,Terrence Ross,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.541,63,0.297,0.852,0.42,0.06,0.11,0.06,0.02,0.38,0.47,108,92,38,91,53,ORL
+22021,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.809,48,0.356,0.756,0.35,0.06,0.1,0.05,0.02,0.34,0.39,172,130,52,147,95,ORL
+22021,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.061,70,0.216,1.121,0.54,0.08,0.09,0.06,0.02,0.52,0.58,124,139,57,105,48,ORL
+22021,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.784,79,0.251,0.769,0.39,0.06,0.14,0.04,0.0,0.36,0.42,212,163,66,171,105,ORL
+22021,1630181,R.J. Hampton,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.699,64,0.412,0.8,0.41,0.07,0.14,0.06,0.02,0.37,0.44,215,172,71,175,104,ORL
+22021,203914,Gary Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.324,61,0.369,0.927,0.45,0.04,0.13,0.04,0.01,0.4,0.51,218,202,81,182,101,ORL
+22021,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.272,66,0.386,0.948,0.44,0.07,0.12,0.06,0.01,0.42,0.51,290,275,105,238,133,ORL

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.081,34,0.238,1.0,0.556,0.048,0.081,0.048,0.0,0.516,0.556,62,62,30,54,24,MEM
+22023,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.962,48,0.052,1.611,0.833,0.139,0.056,0.111,0.028,0.806,0.833,36,58,25,30,5,MEM
+22023,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.192,61,0.076,1.137,0.614,0.078,0.078,0.059,0.02,0.588,0.614,51,58,27,44,17,MEM
+22023,202687,Bismack Biyombo,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.137,29,0.296,1.075,0.605,0.113,0.094,0.094,0.019,0.547,0.605,53,57,26,43,17,MEM
+22023,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.877,66,0.025,1.514,0.759,0.243,0.0,0.243,0.027,0.784,0.759,37,56,22,29,7,MEM
+22023,1641998,Trey Jemison III,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.186,23,0.25,1.133,0.606,0.156,0.111,0.156,0.0,0.6,0.606,45,51,20,33,13,MEM
+22023,1631246,Vince Williams Jr.,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.952,52,0.047,1.6,0.857,0.12,0.08,0.12,0.04,0.8,0.857,25,40,18,21,3,MEM
+22023,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.289,48,0.06,1.214,0.577,0.107,0.0,0.107,0.036,0.607,0.577,28,34,15,26,11,MEM
+22023,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.867,55,0.083,1.5,0.7,0.182,0.0,0.182,0.091,0.727,0.7,22,33,14,20,6,MEM
+22023,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.267,42,0.027,1.192,0.55,0.231,0.038,0.231,0.038,0.615,0.55,26,31,11,20,9,MEM
+22023,1630205,Lamar Stevens,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.387,19,0.079,1.278,0.625,0.111,0.0,0.111,0.0,0.667,0.625,18,23,10,16,6,MEM
+22023,1631222,Jake LaRavia,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.055,35,0.038,0.933,0.333,0.267,0.0,0.267,0.067,0.467,0.333,15,14,4,12,8,MEM

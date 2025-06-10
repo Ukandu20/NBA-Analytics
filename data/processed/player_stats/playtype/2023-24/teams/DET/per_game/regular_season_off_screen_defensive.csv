@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628995,Kevin Knox II,1610612765,DET,Detroit Pistons,OffScreen,Defensive,1.0,28,0.059,0.182,0.1,0.0,0.091,0.0,0.0,0.091,0.1,0.4,0.1,0.0,0.4,0.3,DET
+22023,1631204,Marcus Sasser,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.978,60,0.026,0.5,0.182,0.0,0.083,0.0,0.0,0.167,0.273,0.2,0.1,0.0,0.2,0.2,DET
+22023,1630587,Isaiah Livers,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.832,22,0.079,0.769,0.4,0.0,0.231,0.0,0.0,0.308,0.5,0.6,0.5,0.2,0.5,0.3,DET
+22023,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.294,59,0.012,1.2,0.5,0.1,0.0,0.1,0.1,0.5,0.6,0.2,0.2,0.1,0.2,0.1,DET
+22023,1630649,Stanley Umude,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.143,19,0.088,1.3,0.625,0.1,0.1,0.1,0.0,0.6,0.75,0.5,0.7,0.3,0.4,0.2,DET
+22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.282,28,0.075,1.211,0.5,0.158,0.0,0.158,0.0,0.579,0.563,0.7,0.8,0.3,0.6,0.3,DET
+22023,202692,Alec Burks,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.11,40,0.067,1.333,0.6,0.056,0.167,0.056,0.056,0.5,0.8,0.5,0.6,0.2,0.4,0.2,DET
+22023,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.388,45,0.039,1.136,0.5,0.045,0.091,0.045,0.045,0.455,0.6,0.5,0.6,0.2,0.4,0.2,DET
+22023,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.484,39,0.069,1.038,0.417,0.038,0.038,0.038,0.0,0.423,0.542,0.7,0.7,0.3,0.6,0.4,DET
+22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.582,62,0.065,0.978,0.39,0.043,0.065,0.022,0.0,0.391,0.5,0.7,0.7,0.3,0.7,0.4,DET
+22023,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.33,76,0.058,1.167,0.474,0.125,0.104,0.104,0.021,0.479,0.579,0.6,0.7,0.2,0.5,0.3,DET
+22023,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,OffScreen,Defensive,0.205,63,0.083,1.264,0.558,0.113,0.113,0.094,0.038,0.528,0.674,0.8,1.1,0.4,0.7,0.3,DET

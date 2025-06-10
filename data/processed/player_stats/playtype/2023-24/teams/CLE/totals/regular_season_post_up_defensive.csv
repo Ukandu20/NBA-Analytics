@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.611,56,0.03,0.944,0.462,0.222,0.167,0.222,0.111,0.444,0.462,18,17,6,13,7,CLE
+22023,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.819,54,0.05,0.818,0.353,0.182,0.045,0.182,0.0,0.455,0.353,22,18,6,17,11,CLE
+22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.8,69,0.042,0.828,0.36,0.138,0.034,0.138,0.034,0.414,0.36,29,24,9,25,16,CLE
+22023,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.505,51,0.07,1.0,0.6,0.143,0.179,0.143,0.036,0.5,0.6,28,28,12,20,8,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.736,50,0.051,0.853,0.37,0.147,0.059,0.147,0.0,0.441,0.37,34,29,10,27,17,CLE
+22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.237,66,0.039,1.115,0.591,0.115,0.077,0.077,0.038,0.577,0.591,26,29,13,22,9,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.443,82,0.068,1.022,0.538,0.067,0.089,0.044,0.022,0.511,0.538,45,46,21,39,18,CLE
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.408,70,0.05,1.045,0.543,0.136,0.114,0.136,0.045,0.523,0.543,44,46,19,35,16,CLE
+22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.666,76,0.059,0.908,0.491,0.077,0.138,0.077,0.031,0.446,0.491,65,59,26,53,27,CLE

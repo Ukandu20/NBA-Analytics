@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.892,19,0.062,0.688,0.308,0.12,0.06,0.12,0.0,0.38,0.308,16,11,4,13,9,MEM
+22018,202066,Garrett Temple,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.23,49,0.022,1.167,0.545,0.0,0.08,0.0,0.0,0.5,0.636,12,14,6,11,5,MEM
+22018,203998,Bruno Caboclo,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.364,34,0.05,1.077,0.417,0.08,0.0,0.08,0.0,0.46,0.542,13,14,5,12,7,MEM
+22018,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.302,41,0.06,1.111,0.438,0.06,0.06,0.06,0.0,0.44,0.563,18,20,7,16,9,MEM
+22018,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.681,70,0.029,0.87,0.304,0.0,0.0,0.0,0.0,0.3,0.435,23,20,7,23,16,MEM
+22018,203200,Justin Holiday,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.022,44,0.032,1.571,0.667,0.21,0.07,0.21,0.14,0.64,0.792,14,22,8,12,4,MEM
+22018,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.163,49,0.062,1.25,0.579,0.05,0.05,0.05,0.05,0.55,0.658,20,25,11,19,8,MEM
+22018,201149,Joakim Noah,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.469,42,0.076,1.0,0.417,0.07,0.04,0.07,0.0,0.44,0.521,27,27,10,24,14,MEM
+22018,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.567,53,0.066,0.944,0.489,0.07,0.13,0.07,0.04,0.44,0.533,54,51,22,45,23,MEM
+22018,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.563,58,0.1,0.945,0.375,0.07,0.07,0.07,0.02,0.38,0.469,55,52,18,48,30,MEM

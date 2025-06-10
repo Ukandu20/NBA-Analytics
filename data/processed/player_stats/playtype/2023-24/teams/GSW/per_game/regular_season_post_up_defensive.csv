@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.948,42,0.068,0.667,0.364,0.167,0.222,0.167,0.0,0.389,0.364,0.4,0.3,0.1,0.3,0.2,GSW
+22023,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.83,61,0.041,0.813,0.444,0.25,0.25,0.125,0.063,0.375,0.444,0.3,0.2,0.1,0.1,0.1,GSW
+22023,101108,Chris Paul,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.717,58,0.051,0.87,0.6,0.087,0.304,0.087,0.043,0.435,0.6,0.4,0.3,0.2,0.3,0.1,GSW
+22023,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.727,60,0.07,0.857,0.429,0.143,0.086,0.143,0.029,0.429,0.429,0.6,0.5,0.2,0.5,0.3,GSW
+22023,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.585,74,0.047,0.969,0.448,0.156,0.031,0.125,0.094,0.469,0.448,0.4,0.4,0.2,0.4,0.2,GSW
+22023,203967,Dario Šarić,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.352,62,0.062,1.069,0.583,0.103,0.138,0.103,0.069,0.517,0.583,0.5,0.5,0.2,0.4,0.2,GSW
+22023,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.377,71,0.049,1.059,0.533,0.088,0.088,0.088,0.059,0.5,0.533,0.5,0.5,0.2,0.4,0.2,GSW
+22023,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.807,71,0.067,0.826,0.417,0.13,0.13,0.109,0.043,0.413,0.417,0.6,0.5,0.2,0.5,0.3,GSW
+22023,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.8,55,0.09,0.828,0.432,0.138,0.138,0.138,0.034,0.431,0.432,1.1,0.9,0.3,0.8,0.5,GSW
+22023,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.556,70,0.087,0.981,0.524,0.094,0.113,0.094,0.0,0.509,0.524,0.8,0.7,0.3,0.6,0.3,GSW
+22023,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.1,74,0.081,1.214,0.644,0.143,0.089,0.143,0.036,0.607,0.644,0.8,0.9,0.4,0.6,0.2,GSW

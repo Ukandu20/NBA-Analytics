@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.36,6,0.258,1.125,0.5,0.438,0.12,0.375,0.063,0.625,0.5,16,18,4,8,4,UTA
+42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.03,2.0,0.75,0.6,0.0,0.6,0.4,0.8,0.75,5,10,3,4,1,UTA
+42021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.5,1.286,0.67,0.143,0.0,0.143,0.0,0.714,0.67,7,9,4,6,2,UTA
+42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.022,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,UTA
+42021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.063,1.5,1.0,0.5,0.0,0.5,0.0,1.0,1.0,2,3,1,1,0,UTA
+42021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,4,0.167,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,UTA
+42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.05,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,UTA
+42021,201144,Mike Conley,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.013,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,UTA
+42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.026,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA
+42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA

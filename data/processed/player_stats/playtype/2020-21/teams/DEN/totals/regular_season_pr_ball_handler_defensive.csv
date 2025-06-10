@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.97,34,0.092,0.583,0.3,0.0,0.167,0.0,0.0,0.25,0.35,12,7,3,10,7,DEN
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.0,72,0.01,1.727,1.0,0.18,0.091,0.18,0.0,0.909,1.0,11,19,8,8,0,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.937,58,0.101,0.658,0.355,0.0,0.184,0.0,0.0,0.289,0.403,38,25,11,31,20,DEN
+22020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.485,15,0.295,0.897,0.393,0.1,0.179,0.1,0.0,0.385,0.482,39,35,11,28,17,DEN
+22020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.189,17,0.377,1.0,0.5,0.1,0.15,0.05,0.0,0.475,0.567,40,40,15,30,15,DEN
+22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.8,25,0.223,0.769,0.406,0.17,0.25,0.17,0.04,0.385,0.438,52,40,13,32,19,DEN
+22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.068,57,0.087,1.135,0.5,0.11,0.108,0.11,0.03,0.486,0.6,37,42,15,30,15,DEN
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.916,61,0.129,0.685,0.408,0.07,0.274,0.05,0.01,0.329,0.439,73,50,20,49,29,DEN
+22020,203914,Gary Harris,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.51,19,0.397,0.89,0.47,0.14,0.187,0.12,0.05,0.418,0.5,91,81,31,66,35,DEN
+22020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.904,47,0.319,0.689,0.372,0.08,0.221,0.07,0.01,0.328,0.407,122,84,32,86,54,DEN
+22020,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.751,50,0.281,0.794,0.417,0.1,0.252,0.1,0.04,0.346,0.465,107,85,30,72,42,DEN
+22020,203115,Will Barton,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.427,56,0.273,0.912,0.469,0.1,0.199,0.09,0.01,0.426,0.516,136,124,45,96,51,DEN
+22020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.753,65,0.333,0.794,0.407,0.09,0.201,0.07,0.02,0.366,0.461,194,154,57,140,83,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.343,48,0.328,0.935,0.471,0.09,0.15,0.07,0.02,0.435,0.519,200,187,73,155,82,DEN

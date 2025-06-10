@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629308,Juan Toscano-Anderson,1610612762,UTA,Utah Jazz,Postup,Defensive,0.744,22,0.083,0.833,0.571,0.17,0.25,0.17,0.0,0.5,0.571,0.5,0.5,0.2,0.3,0.1,UTA
+22022,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Postup,Defensive,0.866,56,0.066,0.737,0.357,0.26,0.05,0.21,0.05,0.42,0.357,0.3,0.3,0.1,0.3,0.2,UTA
+22022,1629638,Nickeil Alexander-Walker,1610612762,UTA,Utah Jazz,Postup,Defensive,0.066,36,0.05,1.333,0.556,0.33,0.0,0.33,0.08,0.67,0.556,0.3,0.4,0.1,0.3,0.1,UTA
+22022,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Postup,Defensive,0.861,65,0.051,0.739,0.444,0.04,0.17,0.04,0.0,0.39,0.444,0.4,0.3,0.1,0.3,0.2,UTA
+22022,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,Postup,Defensive,0.703,49,0.061,0.87,0.462,0.26,0.22,0.17,0.04,0.48,0.462,0.5,0.4,0.1,0.3,0.1,UTA
+22022,1630534,Ochai Agbaji,1610612762,UTA,Utah Jazz,Postup,Defensive,0.008,59,0.031,1.571,0.75,0.29,0.0,0.14,0.14,0.79,0.75,0.2,0.4,0.2,0.2,0.1,UTA
+22022,1629020,Jarred Vanderbilt,1610612762,UTA,Utah Jazz,Postup,Defensive,0.173,52,0.042,1.158,0.6,0.21,0.0,0.16,0.0,0.63,0.6,0.4,0.4,0.2,0.3,0.1,UTA
+22022,1627736,Malik Beasley,1610612762,UTA,Utah Jazz,Postup,Defensive,0.196,55,0.052,1.143,0.526,0.19,0.05,0.19,0.14,0.52,0.526,0.4,0.4,0.2,0.3,0.2,UTA
+22022,1631117,Walker Kessler,1610612762,UTA,Utah Jazz,Postup,Defensive,0.696,75,0.042,0.875,0.424,0.1,0.1,0.1,0.02,0.42,0.424,0.5,0.5,0.2,0.4,0.3,UTA
+22022,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Postup,Defensive,0.119,61,0.061,1.242,0.692,0.15,0.09,0.12,0.03,0.61,0.692,0.5,0.7,0.3,0.4,0.1,UTA
+22022,201144,Mike Conley,1610612762,UTA,Utah Jazz,Postup,Defensive,0.258,43,0.086,1.108,0.478,0.3,0.11,0.24,0.03,0.57,0.478,0.9,1.0,0.3,0.5,0.3,UTA
+22022,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,Postup,Defensive,0.406,68,0.061,1.041,0.552,0.27,0.18,0.22,0.04,0.55,0.552,0.7,0.8,0.2,0.4,0.2,UTA
+22022,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Postup,Defensive,0.475,66,0.078,1.0,0.5,0.13,0.08,0.11,0.0,0.52,0.5,1.0,1.0,0.4,0.8,0.4,UTA

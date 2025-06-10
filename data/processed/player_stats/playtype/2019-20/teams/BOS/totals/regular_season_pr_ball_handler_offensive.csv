@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.929,56,0.485,1.088,0.471,0.084,0.107,0.073,0.017,0.456,0.575,535,582,208,442,234,BOS
+22019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.881,66,0.255,1.021,0.459,0.08,0.113,0.075,0.005,0.443,0.551,388,396,144,314,170,BOS
+22019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.868,60,0.248,1.009,0.423,0.085,0.1,0.071,0.014,0.422,0.523,211,213,74,175,101,BOS
+22019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.611,52,0.268,0.887,0.451,0.091,0.126,0.087,0.017,0.435,0.476,230,204,83,184,101,BOS
+22019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.563,57,0.131,0.871,0.419,0.102,0.116,0.102,0.014,0.415,0.453,147,128,49,117,68,BOS
+22019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.389,71,0.305,0.796,0.353,0.118,0.125,0.105,0.007,0.382,0.384,152,121,41,116,75,BOS
+22019,1629035,Carsen Edwards,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.783,25,0.217,0.957,0.368,0.043,0.13,0.043,0.0,0.348,0.5,23,22,7,19,12,BOS
+22019,1629682,Tremont Waters,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.084,11,0.448,0.567,0.217,0.067,0.167,0.033,0.0,0.233,0.283,30,17,5,23,18,BOS

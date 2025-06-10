@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.329,81,0.2,1.233,0.657,0.156,0.08,0.153,0.03,0.625,0.657,301,371,157,239,82,SAC
+22023,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.804,76,0.073,1.468,0.7,0.241,0.038,0.241,0.038,0.734,0.7,79,116,42,60,18,SAC
+22023,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.643,81,0.055,1.383,0.7,0.149,0.064,0.149,0.064,0.681,0.7,47,65,28,40,12,SAC
+22023,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.216,63,0.072,1.156,0.585,0.044,0.044,0.044,0.0,0.578,0.585,45,52,24,41,17,SAC
+22023,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.966,57,0.07,1.63,0.792,0.296,0.037,0.296,0.222,0.741,0.792,27,44,19,24,5,SAC
+22023,1628426,Sasha Vezenkov,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.709,41,0.141,1.414,0.667,0.103,0.0,0.103,0.034,0.69,0.667,29,41,18,27,9,SAC
+22023,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.466,71,0.022,1.32,0.714,0.08,0.08,0.08,0.0,0.68,0.714,25,33,15,21,6,SAC
+22023,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.695,73,0.012,1.409,0.789,0.045,0.136,0.045,0.045,0.682,0.789,22,31,15,19,4,SAC
+22023,1630537,Chris Duarte,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.081,59,0.071,1.0,0.5,0.111,0.0,0.111,0.0,0.556,0.5,18,18,8,16,8,SAC
+22023,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Cut,Offensive,0.588,72,0.029,1.364,0.778,0.091,0.091,0.091,0.0,0.727,0.778,11,15,7,9,2,SAC

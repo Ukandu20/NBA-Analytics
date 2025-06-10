@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.897,5,0.098,1.182,0.5,0.0,0.091,0.0,0.0,0.455,0.65,11,13,5,10,5,POR
+42019,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.793,6,0.082,1.083,0.3,0.25,0.0,0.25,0.083,0.417,0.45,12,13,3,10,7,POR
+42019,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.0,6,0.097,0.667,0.4,0.0,0.167,0.0,0.0,0.333,0.4,6,4,2,5,3,POR
+42019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.0,6,0.028,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,3,3,1,3,2,POR

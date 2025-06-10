@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.826,19,0.193,1.136,0.533,0.227,0.136,0.205,0.045,0.545,0.533,88,100,32,60,28,PHI
+22024,1627824,Guerschon Yabusele,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.285,70,0.107,0.868,0.519,0.118,0.197,0.105,0.026,0.447,0.519,76,66,28,54,26,PHI
+22024,202331,Paul George,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.396,41,0.062,0.932,0.488,0.023,0.068,0.023,0.023,0.455,0.488,44,41,20,41,21,PHI
+22024,203083,Andre Drummond,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.382,40,0.118,0.923,0.5,0.154,0.154,0.128,0.077,0.462,0.5,39,36,15,30,15,PHI
+22024,1641737,Adem Bona,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.944,58,0.047,1.357,0.727,0.214,0.071,0.143,0.071,0.714,0.727,14,19,8,11,3,PHI

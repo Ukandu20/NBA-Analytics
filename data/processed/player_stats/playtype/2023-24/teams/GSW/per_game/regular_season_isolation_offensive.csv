@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.84,74,0.07,1.097,0.464,0.065,0.073,0.065,0.024,0.452,0.564,1.7,1.8,0.7,1.5,0.8,GSW
+22023,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.705,74,0.073,1.012,0.453,0.21,0.111,0.21,0.111,0.457,0.469,1.1,1.1,0.4,0.9,0.5,GSW
+22023,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.885,74,0.074,1.132,0.457,0.094,0.057,0.094,0.019,0.472,0.554,0.7,0.8,0.3,0.6,0.3,GSW
+22023,101108,Chris Paul,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.783,58,0.09,1.059,0.458,0.02,0.039,0.02,0.0,0.451,0.542,0.9,0.9,0.4,0.8,0.4,GSW
+22023,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.447,71,0.055,0.887,0.364,0.151,0.038,0.132,0.019,0.434,0.398,0.7,0.7,0.2,0.6,0.4,GSW
+22023,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.677,77,0.029,1.0,0.448,0.105,0.132,0.105,0.0,0.447,0.517,0.5,0.5,0.2,0.4,0.2,GSW
+22023,203967,Dario Šarić,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.677,64,0.038,1.0,0.5,0.105,0.053,0.105,0.0,0.526,0.5,0.3,0.3,0.1,0.3,0.1,GSW
+22023,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.677,66,0.024,1.0,0.417,0.083,0.0,0.083,0.083,0.417,0.5,0.2,0.2,0.1,0.2,0.1,GSW
+22023,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.194,74,0.031,0.7,0.333,0.1,0.0,0.1,0.0,0.4,0.333,0.1,0.1,0.0,0.1,0.1,GSW

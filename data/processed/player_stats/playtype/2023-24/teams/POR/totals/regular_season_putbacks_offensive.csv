@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629028,Deandre Ayton,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.928,56,0.137,1.38,0.725,0.05,0.058,0.05,0.008,0.694,0.725,121,167,79,109,30,POR
+22023,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.491,72,0.168,1.11,0.532,0.128,0.037,0.128,0.028,0.56,0.532,109,121,50,94,44,POR
+22023,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.498,70,0.166,1.117,0.57,0.064,0.053,0.053,0.032,0.553,0.57,94,105,49,86,37,POR
+22023,1641871,Duop Reath,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.669,68,0.115,1.191,0.607,0.103,0.029,0.103,0.029,0.603,0.607,68,81,37,61,24,POR
+22023,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.485,62,0.108,1.104,0.585,0.083,0.083,0.083,0.021,0.563,0.585,48,53,24,41,17,POR
+22023,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.983,54,0.024,1.5,0.727,0.115,0.038,0.115,0.0,0.731,0.75,26,39,16,22,6,POR
+22023,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.942,32,0.041,1.391,0.632,0.217,0.0,0.174,0.043,0.696,0.632,23,32,12,19,7,POR
+22023,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.085,62,0.027,0.767,0.391,0.067,0.167,0.067,0.0,0.367,0.413,30,23,9,23,14,POR
+22023,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.387,30,0.038,1.048,0.5,0.048,0.0,0.048,0.0,0.524,0.5,21,22,10,20,10,POR
+22023,1627763,Malcolm Brogdon,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.719,39,0.021,1.231,0.583,0.077,0.0,0.077,0.0,0.615,0.583,13,16,7,12,5,POR
+22023,1630641,Ibou Badji,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.925,22,0.256,1.364,1.0,0.091,0.273,0.091,0.0,0.727,1.0,11,15,7,7,0,POR
+22023,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.294,46,0.01,1.0,0.5,0.1,0.1,0.1,0.0,0.5,0.5,10,10,4,8,4,POR
+22023,1641712,Rayan Rupert,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.112,39,0.05,0.8,0.444,0.0,0.1,0.0,0.0,0.4,0.444,10,8,4,9,5,POR
+22023,1629680,Matisse Thybulle,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.112,65,0.027,0.8,0.444,0.0,0.1,0.0,0.0,0.4,0.444,10,8,4,9,5,POR
+22023,1631303,Justin Minaya,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.034,34,0.136,0.667,0.364,0.0,0.083,0.0,0.0,0.333,0.364,12,8,4,11,7,POR

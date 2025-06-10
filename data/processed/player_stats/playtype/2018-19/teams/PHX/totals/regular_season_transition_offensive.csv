@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.62,64,0.197,1.164,0.541,0.179,0.137,0.167,0.048,0.527,0.61,336,391,133,246,113,PHX
+22018,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.824,43,0.225,1.275,0.597,0.131,0.056,0.125,0.025,0.606,0.657,160,204,80,134,54,PHX
+22018,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.626,82,0.238,1.167,0.507,0.105,0.062,0.093,0.019,0.519,0.598,162,189,70,138,68,PHX
+22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.095,79,0.182,0.837,0.496,0.139,0.228,0.139,0.005,0.426,0.531,202,169,64,129,65,PHX
+22018,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.252,40,0.221,0.987,0.496,0.113,0.113,0.107,0.033,0.48,0.521,150,148,60,121,61,PHX
+22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.86,71,0.062,1.313,0.731,0.149,0.104,0.134,0.03,0.672,0.731,67,88,38,52,14,PHX
+22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.983,70,0.086,1.595,0.771,0.262,0.0,0.262,0.095,0.786,0.771,42,67,27,35,8,PHX
+22018,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.643,53,0.138,1.173,0.658,0.115,0.192,0.096,0.038,0.558,0.684,52,61,25,38,13,PHX
+22018,2772,Trevor Ariza,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.304,26,0.214,1.017,0.385,0.083,0.083,0.067,0.033,0.383,0.51,60,61,20,52,32,PHX
+22018,2037,Jamal Crawford,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.225,64,0.107,0.968,0.476,0.065,0.258,0.065,0.0,0.387,0.643,62,60,20,42,22,PHX
+22018,1629001,De'Anthony Melton,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.035,50,0.239,0.707,0.419,0.049,0.22,0.049,0.024,0.341,0.427,82,58,26,62,36,PHX
+22018,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.934,51,0.116,1.417,0.514,0.028,0.028,0.028,0.028,0.5,0.714,36,51,18,35,17,PHX
+22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.576,46,0.106,1.148,0.565,0.037,0.111,0.0,0.0,0.519,0.63,27,31,13,23,10,PHX
+22018,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.269,19,0.153,1.0,0.4,0.08,0.12,0.04,0.0,0.4,0.525,25,25,8,20,12,PHX
+22018,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.108,13,0.178,0.857,0.4,0.036,0.071,0.036,0.0,0.393,0.44,28,24,10,25,15,PHX
+22018,1629034,Ray Spalding,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.709,13,0.237,1.214,0.8,0.143,0.214,0.143,0.071,0.643,0.8,14,17,8,10,2,PHX
+22018,201583,Ryan Anderson,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.269,15,0.139,1.0,0.444,0.091,0.091,0.091,0.0,0.455,0.556,11,11,4,9,5,PHX

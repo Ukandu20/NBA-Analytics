@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.566,82,0.07,1.319,0.683,0.116,0.072,0.116,0.058,0.652,0.683,69,91,41,60,19,MIN
+22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.678,69,0.045,1.379,0.679,0.121,0.017,0.121,0.052,0.69,0.679,58,80,36,53,17,MIN
+22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.349,80,0.05,1.218,0.64,0.073,0.055,0.055,0.036,0.6,0.64,55,67,32,50,18,MIN
+22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.896,79,0.014,1.536,0.727,0.214,0.0,0.214,0.0,0.786,0.727,28,43,16,22,6,MIN
+22024,1630545,Terrence Shannon Jr.,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.805,32,0.08,1.455,0.6,0.273,0.0,0.273,0.182,0.636,0.6,11,16,6,10,4,MIN
+22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.372,40,0.09,1.231,0.615,0.0,0.0,0.0,0.0,0.615,0.615,13,16,8,13,5,MIN
+22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.462,62,0.015,1.273,0.556,0.182,0.0,0.182,0.0,0.636,0.556,11,14,5,9,4,MIN

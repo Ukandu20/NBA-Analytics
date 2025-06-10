@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.637,64,0.125,0.925,0.397,0.207,0.113,0.17,0.028,0.451,0.424,213,197,60,151,91,PHX
+22018,2037,Jamal Crawford,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.498,64,0.126,0.836,0.355,0.082,0.068,0.05,0.0,0.384,0.403,73,61,22,62,40,PHX
+22018,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.847,43,0.059,1.048,0.471,0.19,0.048,0.19,0.048,0.524,0.485,42,44,16,34,18,PHX
+22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.145,79,0.053,0.61,0.244,0.153,0.085,0.14,0.0,0.322,0.289,59,36,11,45,34,PHX
+22018,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.962,40,0.029,1.2,0.5,0.1,0.05,0.1,0.05,0.5,0.583,20,24,9,18,9,PHX
+22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.374,71,0.027,0.793,0.393,0.034,0.034,0.03,0.034,0.379,0.393,29,23,11,28,17,PHX
+22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.851,70,0.037,1.056,0.5,0.167,0.056,0.11,0.0,0.556,0.5,18,19,7,14,7,PHX
+22018,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.675,19,0.098,0.938,0.286,0.125,0.0,0.12,0.0,0.375,0.393,16,15,4,14,10,PHX
+22018,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.069,53,0.069,0.538,0.217,0.077,0.038,0.04,0.0,0.269,0.261,26,14,5,23,18,PHX
+22018,2772,Trevor Ariza,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.385,26,0.036,0.8,0.5,0.0,0.4,0.0,0.0,0.3,0.667,10,8,3,6,3,PHX

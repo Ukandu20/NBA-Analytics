@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.819,78,0.212,1.319,0.577,0.105,0.031,0.105,0.04,0.585,0.654,229,302,120,208,88,MIL
+22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.67,70,0.144,1.221,0.533,0.051,0.066,0.051,0.02,0.507,0.639,136,166,65,122,57,MIL
+22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.457,63,0.062,1.095,0.536,0.25,0.052,0.241,0.04,0.543,0.571,116,127,45,84,39,MIL
+22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.928,61,0.076,1.417,0.556,0.056,0.0,0.056,0.06,0.556,0.681,36,51,20,36,16,MIL
+22022,203086,Meyers Leonard,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.88,9,0.359,1.357,0.545,0.214,0.071,0.143,0.07,0.571,0.682,14,19,6,11,5,MIL
+22022,203109,Jae Crowder,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.302,18,0.104,1.0,0.444,0.091,0.091,0.091,0.0,0.455,0.5,11,11,4,9,5,MIL
+22022,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.247,52,0.063,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.458,12,11,4,12,8,MIL
+22022,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.247,16,0.169,0.917,0.417,0.0,0.0,0.0,0.0,0.417,0.458,12,11,5,12,7,MIL
+22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.051,72,0.021,0.643,0.286,0.0,0.0,0.0,0.0,0.286,0.321,14,9,4,14,10,MIL

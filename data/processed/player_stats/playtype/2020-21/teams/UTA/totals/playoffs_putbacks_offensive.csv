@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.9,11,0.248,1.406,0.783,0.219,0.094,0.219,0.031,0.75,0.783,32,45,18,23,5,UTA
+42020,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,11,0.051,2.0,1.0,0.4,0.0,0.4,0.0,1.0,1.0,5,10,3,3,0,UTA
+42020,202324,Derrick Favors,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.448,11,0.303,0.9,0.5,0.1,0.1,0.1,0.0,0.5,0.5,10,9,4,8,4,UTA
+42020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,11,0.02,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,UTA
+42020,1627777,Georges Niang,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,11,0.02,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,UTA
+42020,201144,Mike Conley,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,6,0.011,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,UTA
+42020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,10,0.007,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,UTA
+42020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.0,11,0.022,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,4,0,0,1,1,UTA

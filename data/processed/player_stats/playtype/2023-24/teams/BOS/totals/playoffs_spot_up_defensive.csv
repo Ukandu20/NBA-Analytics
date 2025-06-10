@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.932,10,0.181,0.615,0.231,0.0,0.0,0.0,0.0,0.231,0.308,13,8,3,13,10,BOS
+42023,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.754,19,0.204,0.8,0.333,0.05,0.05,0.05,0.0,0.35,0.389,20,16,6,18,12,BOS
+42023,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.684,7,0.206,0.857,0.286,0.0,0.0,0.0,0.0,0.286,0.429,21,18,6,21,15,BOS
+42023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.586,17,0.237,0.926,0.308,0.037,0.0,0.0,0.0,0.333,0.442,27,25,8,26,18,BOS
+42023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.65,19,0.233,0.868,0.354,0.019,0.075,0.019,0.0,0.34,0.469,53,46,17,48,31,BOS
+42023,201143,Al Horford,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.376,19,0.152,1.114,0.432,0.045,0.0,0.045,0.045,0.432,0.545,44,49,19,44,25,BOS
+42023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.162,19,0.197,1.225,0.487,0.025,0.025,0.025,0.025,0.475,0.628,40,49,19,39,20,BOS
+42023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.47,19,0.249,1.034,0.388,0.085,0.085,0.085,0.0,0.407,0.52,59,61,19,49,30,BOS
+42023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Spotup,Defensive,0.509,19,0.272,1.0,0.408,0.026,0.065,0.026,0.013,0.39,0.521,77,77,29,71,42,BOS

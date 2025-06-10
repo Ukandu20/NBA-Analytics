@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.687,72,0.072,1.0,0.449,0.061,0.031,0.061,0.0,0.459,0.5,98,98,40,89,49,PHI
+22019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.443,55,0.118,0.875,0.4,0.115,0.104,0.104,0.0,0.427,0.427,96,84,30,75,45,PHI
+22019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.226,72,0.127,0.726,0.347,0.024,0.119,0.012,0.0,0.321,0.403,84,61,25,72,47,PHI
+22019,203526,Raul Neto,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.988,54,0.065,1.474,0.6,0.211,0.0,0.105,0.0,0.684,0.7,19,28,9,15,6,PHI
+22019,202692,Alec Burks,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.879,18,0.106,1.143,0.5,0.048,0.0,0.048,0.0,0.524,0.575,21,24,10,20,10,PHI
+22019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.463,40,0.073,0.885,0.435,0.0,0.115,0.0,0.0,0.385,0.5,26,23,10,23,13,PHI
+22019,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.81,49,0.049,1.071,0.385,0.071,0.0,0.071,0.0,0.357,0.577,14,15,5,13,8,PHI
+22019,203504,Trey Burke,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.821,25,0.083,1.083,0.5,0.0,0.0,0.0,0.0,0.5,0.542,12,13,6,12,6,PHI
+22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.835,44,0.01,1.1,0.444,0.0,0.1,0.0,0.0,0.4,0.611,10,11,4,9,5,PHI
+22019,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.165,57,0.012,0.667,0.333,0.167,0.167,0.083,0.083,0.333,0.333,12,8,3,9,6,PHI
+22019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.016,65,0.051,0.412,0.2,0.059,0.059,0.059,0.0,0.176,0.233,17,7,3,15,12,PHI

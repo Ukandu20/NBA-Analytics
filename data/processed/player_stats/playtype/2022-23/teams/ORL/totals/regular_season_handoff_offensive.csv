@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.364,80,0.092,0.855,0.355,0.107,0.076,0.092,0.023,0.382,0.395,131,112,39,110,71,ORL
+22022,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.782,53,0.075,1.114,0.462,0.045,0.114,0.045,0.045,0.409,0.603,44,49,18,39,21,ORL
+22022,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.475,60,0.068,0.923,0.375,0.096,0.038,0.077,0.058,0.385,0.427,52,48,18,48,30,ORL
+22022,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.379,72,0.032,0.86,0.417,0.16,0.14,0.16,0.02,0.44,0.458,50,43,15,36,21,ORL
+22022,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.102,42,0.184,0.667,0.37,0.016,0.127,0.016,0.0,0.333,0.37,63,42,20,54,34,ORL
+22022,203914,Gary Harris,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.29,48,0.13,0.822,0.333,0.044,0.089,0.044,0.0,0.333,0.41,45,37,13,39,26,ORL
+22022,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.258,60,0.032,0.786,0.364,0.107,0.143,0.107,0.036,0.357,0.386,28,22,8,22,14,ORL
+22022,1629626,Bol Bol,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.05,70,0.047,0.6,0.35,0.133,0.2,0.133,0.0,0.333,0.375,30,18,7,20,13,ORL
+22022,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.032,28,0.142,0.571,0.222,0.048,0.095,0.048,0.0,0.238,0.278,21,12,4,18,14,ORL
+22022,1630284,Kevon Harris,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.609,34,0.076,1.0,0.444,0.273,0.0,0.273,0.091,0.545,0.444,11,11,4,9,5,ORL
+22022,1630181,R.J. Hampton,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.102,26,0.08,0.667,0.364,0.0,0.083,0.0,0.0,0.333,0.364,12,8,4,11,7,ORL

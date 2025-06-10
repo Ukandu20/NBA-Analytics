@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.44,17,0.324,1.152,0.54,0.152,0.03,0.121,0.03,0.576,0.54,1.9,2.2,0.9,1.6,0.8,BOS
+42021,201143,Al Horford,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.16,23,0.076,0.944,0.5,0.111,0.06,0.111,0.056,0.444,0.5,0.8,0.7,0.3,0.7,0.3,BOS
+42021,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.208,24,0.025,1.0,0.5,0.125,0.06,0.125,0.063,0.5,0.5,0.7,0.7,0.3,0.6,0.3,BOS
+42021,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.591,24,0.022,1.167,0.64,0.0,0.08,0.0,0.0,0.583,0.64,0.5,0.6,0.3,0.5,0.2,BOS
+42021,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.28,21,0.036,1.077,0.54,0.0,0.0,0.0,0.0,0.538,0.54,0.6,0.7,0.3,0.6,0.3,BOS
+42021,1629684,Grant Williams,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.12,24,0.057,0.818,0.36,0.0,0.0,0.0,0.0,0.364,0.41,0.5,0.4,0.2,0.5,0.3,BOS
+42021,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.0,16,0.121,1.0,0.6,0.125,0.25,0.125,0.0,0.5,0.6,0.5,0.5,0.2,0.3,0.1,BOS
+42021,1629752,Juwan Morgan,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.0,9,0.5,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.1,0.0,0.0,0.0,BOS
+42021,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.0,15,0.048,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,BOS
+42021,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.0,24,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BOS
+42021,1628401,Derrick White,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.0,23,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,BOS

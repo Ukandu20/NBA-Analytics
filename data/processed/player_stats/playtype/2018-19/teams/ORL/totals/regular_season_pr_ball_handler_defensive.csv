@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.321,12,0.57,0.931,0.511,0.09,0.17,0.07,0.03,0.448,0.544,58,54,23,45,22,ORL
+22018,1628515,Isaiah Briscoe,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.64,39,0.48,0.833,0.395,0.13,0.15,0.1,0.03,0.398,0.414,108,90,32,81,49,ORL
+22018,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.335,41,0.36,0.927,0.432,0.1,0.11,0.09,0.02,0.413,0.477,109,101,38,88,50,ORL
+22018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.253,75,0.18,0.958,0.461,0.14,0.14,0.12,0.03,0.449,0.5,118,113,41,89,48,ORL
+22018,203082,Terrence Ross,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.755,81,0.23,0.805,0.402,0.11,0.13,0.09,0.04,0.384,0.413,159,128,51,127,76,ORL
+22018,1626170,Jerian Grant,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.394,60,0.42,0.911,0.46,0.09,0.15,0.07,0.02,0.424,0.488,158,144,57,124,67,ORL
+22018,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.281,68,0.31,0.949,0.431,0.11,0.11,0.1,0.01,0.436,0.48,156,148,53,123,70,ORL
+22018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.427,78,0.24,0.901,0.468,0.06,0.15,0.05,0.02,0.423,0.497,213,192,81,173,92,ORL
+22018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.67,81,0.44,0.827,0.421,0.06,0.13,0.06,0.01,0.393,0.456,323,267,110,261,151,ORL
+22018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.34,81,0.35,0.924,0.453,0.08,0.13,0.07,0.02,0.427,0.491,330,305,120,265,145,ORL

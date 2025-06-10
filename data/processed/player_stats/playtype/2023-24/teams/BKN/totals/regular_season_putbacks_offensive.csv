@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.586,71,0.146,1.162,0.624,0.117,0.054,0.108,0.009,0.604,0.624,111,129,58,93,35,BKN
+22023,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.765,63,0.072,1.267,0.56,0.2,0.033,0.133,0.067,0.6,0.58,30,38,14,25,11,BKN
+22023,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.502,82,0.021,1.118,0.586,0.059,0.118,0.059,0.029,0.529,0.621,34,38,17,29,12,BKN
+22023,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.078,68,0.078,0.761,0.415,0.0,0.109,0.0,0.0,0.37,0.427,46,35,17,41,24,BKN
+22023,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.788,43,0.115,1.28,0.6,0.16,0.04,0.16,0.0,0.64,0.6,25,32,12,20,8,BKN
+22023,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.99,66,0.012,1.588,0.786,0.176,0.0,0.176,0.0,0.824,0.786,17,27,11,14,3,BKN
+22023,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.911,23,0.14,1.353,0.643,0.235,0.059,0.176,0.118,0.647,0.643,17,23,9,14,5,BKN
+22023,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.608,15,0.167,1.167,0.625,0.056,0.056,0.056,0.0,0.611,0.625,18,21,10,16,6,BKN
+22023,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.294,58,0.029,1.0,0.533,0.143,0.143,0.095,0.0,0.524,0.533,21,21,8,15,7,BKN
+22023,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.452,48,0.017,1.091,0.556,0.091,0.091,0.091,0.0,0.545,0.611,11,12,5,9,4,BKN

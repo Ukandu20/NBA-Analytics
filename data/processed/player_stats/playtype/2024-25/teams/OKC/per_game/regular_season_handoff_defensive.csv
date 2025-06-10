@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1642349,Ajay Mitchell,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.337,35,0.08,1.0,0.538,0.063,0.188,0.063,0.063,0.438,0.577,0.5,0.5,0.2,0.4,0.2,OKC
+22024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.337,54,0.056,1.0,0.444,0.125,0.125,0.125,0.0,0.458,0.556,0.4,0.4,0.1,0.3,0.2,OKC
+22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.794,71,0.075,0.754,0.302,0.14,0.105,0.105,0.0,0.368,0.349,0.8,0.6,0.2,0.6,0.4,OKC
+22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.443,76,0.081,0.944,0.362,0.111,0.056,0.111,0.037,0.389,0.426,0.7,0.7,0.2,0.6,0.4,OKC

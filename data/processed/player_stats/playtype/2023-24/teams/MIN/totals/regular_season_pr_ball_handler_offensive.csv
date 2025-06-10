@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.749,79,0.286,0.95,0.449,0.127,0.148,0.113,0.033,0.432,0.498,576,547,196,437,241,MIN
+22023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.71,76,0.341,0.933,0.408,0.089,0.167,0.078,0.022,0.379,0.512,269,251,84,206,122,MIN
+22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.215,79,0.202,0.706,0.359,0.151,0.202,0.143,0.008,0.37,0.359,119,84,28,78,50,MIN
+22023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.143,82,0.164,0.632,0.338,0.066,0.198,0.057,0.019,0.302,0.363,106,67,27,80,53,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.433,72,0.053,0.825,0.471,0.025,0.125,0.025,0.0,0.425,0.471,40,33,16,34,18,MIN
+22023,1629003,Shake Milton,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.42,38,0.189,0.821,0.481,0.077,0.256,0.051,0.026,0.385,0.519,39,32,13,27,14,MIN
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.275,62,0.034,0.744,0.375,0.047,0.209,0.023,0.0,0.326,0.438,43,32,12,32,20,MIN
+22023,1628420,Monté Morris,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.528,27,0.22,0.862,0.393,0.034,0.0,0.0,0.0,0.414,0.411,29,25,11,28,17,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.961,81,0.019,1.1,0.786,0.1,0.25,0.1,0.05,0.55,0.786,20,22,11,14,3,MIN
+22023,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.866,56,0.121,1.0,0.5,0.095,0.238,0.048,0.0,0.429,0.607,21,21,7,14,7,MIN

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.993,38,0.077,0.333,0.133,0.0,0.0,0.0,0.0,0.133,0.167,15,5,2,15,13,BKN
+22023,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.982,29,0.039,0.417,0.182,0.0,0.083,0.0,0.0,0.167,0.227,12,5,2,11,9,BKN
+22023,1628372,Dennis Smith Jr.,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.857,56,0.046,0.75,0.25,0.1,0.1,0.1,0.0,0.3,0.344,20,15,4,16,12,BKN
+22023,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.099,48,0.037,1.364,0.556,0.182,0.091,0.182,0.091,0.545,0.778,11,15,5,9,4,BKN
+22023,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.762,49,0.073,0.828,0.304,0.138,0.069,0.103,0.0,0.379,0.37,29,24,7,23,16,BKN
+22023,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.688,68,0.05,0.882,0.355,0.059,0.029,0.059,0.0,0.382,0.419,34,30,11,31,20,BKN
+22023,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.835,66,0.062,0.767,0.333,0.047,0.116,0.047,0.0,0.326,0.389,43,33,12,36,24,BKN
+22023,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.19,58,0.058,1.269,0.545,0.077,0.077,0.077,0.0,0.538,0.659,26,33,12,22,10,BKN
+22023,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.441,48,0.074,1.091,0.464,0.121,0.061,0.121,0.03,0.485,0.536,33,36,13,28,15,BKN
+22023,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.011,71,0.02,1.8,0.737,0.05,0.0,0.05,0.0,0.75,0.895,20,36,14,19,5,BKN
+22023,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.313,82,0.073,1.182,0.448,0.076,0.045,0.076,0.0,0.47,0.595,66,78,26,58,32,BKN

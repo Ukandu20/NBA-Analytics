@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.982,63,0.053,1.586,0.863,0.24,0.071,0.232,0.051,0.808,0.863,99,157,63,73,10,MIL
+22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.682,78,0.093,1.23,0.609,0.11,0.05,0.11,0.03,0.61,0.621,100,123,53,87,34,MIL
+22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.277,70,0.117,0.973,0.495,0.11,0.073,0.1,0.027,0.5,0.495,110,107,46,93,47,MIL
+22022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.312,67,0.024,1.0,0.56,0.06,0.161,0.065,0.032,0.484,0.58,31,31,14,25,11,MIL
+22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.842,72,0.021,1.357,0.667,0.14,0.214,0.143,0.0,0.571,0.833,14,19,6,9,3,MIL
+22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.242,61,0.036,0.941,0.583,0.12,0.235,0.118,0.059,0.471,0.583,17,16,7,12,5,MIL
+22022,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.085,52,0.066,0.75,0.368,0.05,0.0,0.05,0.0,0.4,0.368,20,15,7,19,12,MIL
+22022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.227,33,0.029,0.933,0.462,0.07,0.067,0.067,0.0,0.467,0.462,15,14,6,13,7,MIL
+22022,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,OffRebound,Offensive,0.085,38,0.048,0.75,0.375,0.17,0.167,0.25,0.083,0.333,0.375,12,9,3,8,5,MIL

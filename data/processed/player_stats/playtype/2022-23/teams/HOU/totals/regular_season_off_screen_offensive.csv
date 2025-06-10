@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630224,Jalen Green,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.295,76,0.038,0.879,0.333,0.091,0.076,0.076,0.03,0.348,0.421,66,58,19,57,38,HOU
+22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.128,79,0.03,0.727,0.308,0.121,0.121,0.121,0.03,0.333,0.346,33,24,8,26,18,HOU
+22022,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.363,45,0.114,0.913,0.294,0.087,0.174,0.087,0.0,0.304,0.441,23,21,5,17,12,HOU
+22022,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.031,47,0.028,0.529,0.25,0.0,0.059,0.0,0.0,0.235,0.281,17,9,4,16,12,HOU
+22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.2,59,0.009,0.8,0.333,0.0,0.1,0.0,0.0,0.3,0.444,10,8,3,9,6,HOU

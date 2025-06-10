@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.451,27,0.118,0.955,0.389,0.09,0.09,0.0,0.0,0.36,0.528,22,21,7,18,11,POR
+22018,203552,Seth Curry,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.961,74,0.077,0.553,0.188,0.11,0.08,0.11,0.03,0.24,0.25,38,21,6,32,26,POR
+22018,203917,Nik Stauskas,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.608,44,0.133,0.885,0.333,0.04,0.04,0.04,0.0,0.35,0.438,26,23,8,24,16,POR
+22018,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.017,72,0.014,1.563,0.6,0.12,0.0,0.12,0.06,0.62,0.767,16,25,9,15,6,POR
+22018,1627774,Jake Layman,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.65,71,0.112,0.864,0.333,0.14,0.09,0.14,0.05,0.36,0.389,44,38,12,36,24,POR
+22018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.638,73,0.067,0.867,0.405,0.04,0.13,0.04,0.0,0.38,0.486,45,39,15,37,22,POR
+22018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.123,61,0.087,1.217,0.432,0.15,0.04,0.11,0.0,0.5,0.554,46,56,16,37,21,POR
+22018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.382,81,0.077,1.0,0.404,0.06,0.08,0.06,0.05,0.38,0.518,63,63,23,57,34,POR
+22018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.274,80,0.072,1.09,0.407,0.06,0.06,0.06,0.0,0.42,0.551,67,73,24,59,35,POR
+22018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.42,70,0.139,0.974,0.441,0.11,0.08,0.1,0.0,0.46,0.489,114,111,41,93,52,POR

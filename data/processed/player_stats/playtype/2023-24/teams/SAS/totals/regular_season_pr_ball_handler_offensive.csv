@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.707,68,0.25,0.932,0.457,0.068,0.123,0.061,0.023,0.426,0.498,310,289,118,258,140,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.775,77,0.295,0.96,0.517,0.079,0.154,0.057,0.009,0.471,0.531,227,218,91,176,85,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.717,69,0.175,0.935,0.465,0.114,0.146,0.097,0.027,0.443,0.5,185,173,66,142,76,SAS
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.296,71,0.109,0.759,0.358,0.052,0.241,0.046,0.0,0.299,0.48,174,132,44,123,79,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.218,75,0.206,0.708,0.385,0.039,0.182,0.026,0.013,0.331,0.406,154,109,47,122,75,SAS
+22023,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.365,61,0.225,0.797,0.457,0.261,0.275,0.246,0.043,0.42,0.457,69,55,16,35,19,SAS
+22023,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.078,74,0.1,0.541,0.3,0.051,0.245,0.051,0.01,0.255,0.314,98,53,21,70,49,SAS
+22023,1626224,Cedi Osman,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.413,72,0.098,0.818,0.452,0.091,0.205,0.068,0.0,0.409,0.484,44,36,14,31,17,SAS
+22023,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.174,74,0.03,0.667,0.375,0.067,0.4,0.067,0.0,0.267,0.5,15,10,3,8,5,SAS

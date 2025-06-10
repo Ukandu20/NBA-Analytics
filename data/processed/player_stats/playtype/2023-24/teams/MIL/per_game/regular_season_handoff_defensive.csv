@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,201976,Patrick Beverley,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.993,25,0.091,0.316,0.2,0.0,0.211,0.0,0.0,0.158,0.2,0.8,0.2,0.1,0.6,0.5,MIL
+22023,1641748,Andre Jackson Jr.,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.902,42,0.064,0.643,0.273,0.071,0.143,0.071,0.0,0.286,0.318,0.3,0.2,0.1,0.3,0.2,MIL
+22023,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.755,41,0.074,0.8,0.364,0.133,0.2,0.133,0.067,0.333,0.409,0.4,0.3,0.1,0.3,0.2,MIL
+22023,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.101,37,0.068,1.267,0.6,0.267,0.133,0.267,0.067,0.6,0.65,0.4,0.5,0.2,0.3,0.1,MIL
+22023,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.304,78,0.035,1.042,0.524,0.083,0.083,0.083,0.042,0.5,0.524,0.3,0.3,0.1,0.3,0.1,MIL
+22023,1626166,Cameron Payne,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.145,43,0.105,1.167,0.5,0.125,0.125,0.125,0.083,0.458,0.625,0.6,0.7,0.2,0.5,0.2,MIL
+22023,203109,Jae Crowder,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.394,49,0.077,1.0,0.417,0.067,0.133,0.033,0.0,0.4,0.542,0.6,0.6,0.2,0.5,0.3,MIL
+22023,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.721,52,0.083,0.825,0.361,0.025,0.075,0.025,0.0,0.35,0.431,0.8,0.6,0.3,0.7,0.4,MIL
+22023,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.63,75,0.086,0.873,0.396,0.073,0.091,0.073,0.036,0.382,0.438,0.7,0.6,0.3,0.6,0.4,MIL
+22023,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.33,72,0.067,1.037,0.432,0.13,0.074,0.13,0.019,0.463,0.523,0.8,0.8,0.3,0.6,0.3,MIL
+22023,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.842,71,0.122,0.713,0.352,0.03,0.099,0.03,0.0,0.337,0.381,1.4,1.0,0.4,1.2,0.8,MIL
+22023,1627736,Malik Beasley,1610612749,MIL,Milwaukee Bucks,Handoff,Defensive,0.364,78,0.13,1.017,0.44,0.067,0.05,0.067,0.025,0.442,0.505,1.5,1.6,0.6,1.4,0.8,MIL

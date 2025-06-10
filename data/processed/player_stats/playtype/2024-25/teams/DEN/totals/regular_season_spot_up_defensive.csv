@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628427,Vlatko Čančar,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.905,10,0.356,0.875,0.333,0.0,0.063,0.0,0.0,0.313,0.467,16,14,5,15,10,DEN
+22024,201599,DeAndre Jordan,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.58,34,0.136,1.024,0.366,0.024,0.0,0.0,0.0,0.381,0.5,42,43,15,41,26,DEN
+22024,1629618,Jalen Pickett,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.754,41,0.295,0.97,0.354,0.0,0.015,0.0,0.0,0.348,0.492,66,64,23,65,42,DEN
+22024,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.583,46,0.314,1.023,0.41,0.046,0.08,0.034,0.023,0.391,0.532,87,89,32,78,46,DEN
+22024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.415,50,0.35,1.081,0.419,0.076,0.047,0.076,0.023,0.43,0.539,172,186,65,155,90,DEN
+22024,1631124,Julian Strawther,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.234,63,0.378,1.149,0.429,0.048,0.032,0.048,0.011,0.436,0.58,188,216,75,175,100,DEN
+22024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.684,73,0.336,1.0,0.392,0.068,0.082,0.068,0.009,0.391,0.521,220,220,74,189,115,DEN
+22024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.819,77,0.372,0.93,0.362,0.05,0.062,0.05,0.012,0.36,0.478,258,240,84,232,148,DEN
+22024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.484,65,0.323,1.061,0.422,0.052,0.056,0.052,0.022,0.416,0.545,231,245,89,211,122,DEN
+22024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.324,67,0.373,1.107,0.428,0.048,0.033,0.048,0.012,0.435,0.559,336,372,134,313,179,DEN
+22024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Spotup,Defensive,0.078,79,0.31,1.275,0.496,0.023,0.056,0.023,0.0,0.48,0.672,306,390,140,282,142,DEN

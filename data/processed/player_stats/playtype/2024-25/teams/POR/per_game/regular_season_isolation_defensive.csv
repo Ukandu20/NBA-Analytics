@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641871,Duop Reath,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.521,34,0.086,0.895,0.417,0.158,0.211,0.158,0.0,0.421,0.458,0.6,0.5,0.1,0.4,0.2,POR
+22024,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.829,59,0.085,0.704,0.364,0.074,0.111,0.074,0.0,0.37,0.364,0.5,0.3,0.1,0.4,0.2,POR
+22024,1629057,Robert Williams III,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.479,19,0.15,0.92,0.4,0.04,0.0,0.04,0.04,0.4,0.44,1.3,1.2,0.5,1.3,0.8,POR
+22024,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.694,57,0.113,0.806,0.385,0.097,0.129,0.097,0.065,0.355,0.423,0.5,0.4,0.2,0.5,0.3,POR
+22024,1642270,Donovan Clingan,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.372,64,0.048,0.971,0.345,0.257,0.057,0.257,0.143,0.4,0.379,0.5,0.5,0.2,0.5,0.3,POR
+22024,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.571,47,0.176,0.867,0.343,0.133,0.089,0.111,0.0,0.4,0.4,1.0,0.8,0.3,0.7,0.5,POR
+22024,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.534,66,0.095,0.887,0.364,0.264,0.151,0.226,0.038,0.453,0.364,0.8,0.7,0.2,0.5,0.3,POR
+22024,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.667,71,0.099,0.82,0.383,0.115,0.131,0.098,0.016,0.393,0.404,0.9,0.7,0.3,0.7,0.4,POR
+22024,1629028,Deandre Ayton,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.305,39,0.092,1.0,0.488,0.107,0.125,0.107,0.0,0.482,0.547,1.4,1.4,0.5,1.1,0.6,POR
+22024,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.117,47,0.101,1.143,0.559,0.163,0.143,0.102,0.0,0.551,0.603,1.0,1.2,0.4,0.7,0.3,POR
+22024,1630166,Deni Avdija,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.71,71,0.108,0.8,0.339,0.173,0.093,0.16,0.013,0.387,0.366,1.1,0.8,0.3,0.8,0.5,POR
+22024,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.515,78,0.09,0.899,0.426,0.127,0.139,0.114,0.038,0.418,0.467,1.0,0.9,0.3,0.8,0.4,POR
+22024,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.305,70,0.11,1.0,0.458,0.123,0.11,0.11,0.041,0.452,0.492,1.0,1.0,0.4,0.8,0.5,POR

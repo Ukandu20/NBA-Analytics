@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.65,57,0.187,1.163,0.629,0.087,0.077,0.087,0.019,0.606,0.629,1.8,2.1,1.0,1.6,0.6,DAL
+22024,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.635,36,0.21,1.161,0.614,0.179,0.089,0.179,0.054,0.607,0.614,1.6,1.8,0.8,1.2,0.5,DAL
+22024,202691,Klay Thompson,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.831,72,0.028,1.286,0.52,0.036,0.071,0.036,0.0,0.5,0.7,0.4,0.5,0.2,0.3,0.2,DAL
+22024,203076,Anthony Davis,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.252,9,0.201,0.923,0.444,0.077,0.051,0.077,0.051,0.436,0.458,4.3,4.0,1.8,4.0,2.2,DAL
+22024,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.485,57,0.035,1.065,0.462,0.065,0.097,0.032,0.0,0.452,0.558,0.5,0.6,0.2,0.5,0.2,DAL
+22024,1630539,Kai Jones,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.992,12,0.195,1.647,0.813,0.118,0.0,0.118,0.059,0.824,0.813,1.4,2.3,1.1,1.3,0.3,DAL
+22024,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.289,34,0.125,0.938,0.385,0.125,0.063,0.125,0.0,0.438,0.5,0.5,0.4,0.1,0.4,0.2,DAL
+22024,1630230,Naji Marshall,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.042,69,0.025,0.636,0.278,0.045,0.136,0.045,0.0,0.273,0.333,0.3,0.2,0.1,0.3,0.2,DAL
+22024,1641765,Olivier-Maxence Prosper,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.85,52,0.045,1.3,0.571,0.3,0.0,0.3,0.0,0.7,0.571,0.2,0.3,0.1,0.1,0.1,DAL
+22024,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.712,55,0.101,1.2,0.667,0.0,0.1,0.0,0.0,0.6,0.667,0.2,0.2,0.1,0.2,0.1,DAL
+22024,1630556,Kessler Edwards,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.363,40,0.07,1.0,0.5,0.0,0.091,0.0,0.0,0.455,0.55,0.3,0.3,0.1,0.3,0.1,DAL
+22024,1629656,Quentin Grimes,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.363,47,0.024,1.0,0.4,0.091,0.091,0.091,0.091,0.364,0.5,0.2,0.2,0.1,0.2,0.1,DAL
+22024,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.06,50,0.014,0.688,0.214,0.063,0.063,0.063,0.0,0.25,0.321,0.3,0.2,0.1,0.3,0.2,DAL

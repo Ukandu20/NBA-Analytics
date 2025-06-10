@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627885,Shaquille Harrison,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.185,43,0.07,1.133,0.5,0.27,0.07,0.27,0.13,0.47,0.58,15,17,6,12,6,CHI
+22019,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.794,58,0.092,0.731,0.39,0.19,0.19,0.15,0.08,0.35,0.39,26,19,7,18,11,CHI
+22019,1628436,Luke Kornet,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.155,36,0.082,1.158,0.56,0.11,0.11,0.05,0.05,0.53,0.59,19,22,9,16,7,CHI
+22019,1629655,Daniel Gafford,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.109,43,0.078,1.211,0.5,0.26,0.05,0.21,0.05,0.58,0.54,19,23,7,14,7,CHI
+22019,1628990,Chandler Hutchison,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.061,29,0.099,1.316,0.65,0.11,0.11,0.11,0.11,0.58,0.74,19,25,11,17,6,CHI
+22019,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.003,36,0.099,1.625,0.67,0.31,0.0,0.25,0.06,0.75,0.83,16,26,8,12,4,CHI
+22019,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.893,51,0.077,0.667,0.26,0.13,0.1,0.1,0.03,0.31,0.29,39,26,8,31,23,CHI
+22019,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.769,60,0.074,0.75,0.27,0.15,0.08,0.12,0.0,0.35,0.34,48,36,10,37,27,CHI
+22019,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.714,65,0.089,0.78,0.43,0.08,0.18,0.08,0.0,0.4,0.46,50,39,16,37,21,CHI
+22019,1629632,Coby White,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.287,65,0.088,1.053,0.46,0.13,0.16,0.13,0.03,0.45,0.54,38,40,13,28,15,CHI
+22019,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.457,43,0.098,0.933,0.43,0.16,0.2,0.16,0.02,0.42,0.5,45,42,13,30,17,CHI
+22019,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Isolation,Defensive,0.397,50,0.149,0.975,0.45,0.09,0.11,0.09,0.02,0.42,0.52,80,78,30,66,36,CHI

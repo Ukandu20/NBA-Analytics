@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.882,6,0.122,1.364,0.57,0.27,0.09,0.27,0.0,0.64,0.714,11,15,4,7,3,POR
+42020,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,6,0.115,2.667,1.0,0.0,0.0,0.0,0.0,1.0,1.333,3,8,3,3,0,POR
+42020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,6,0.03,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,5,6,2,5,3,POR
+42020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,6,0.068,0.667,0.25,0.11,0.0,0.11,0.0,0.33,0.313,9,6,2,8,6,POR
+42020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,2,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,POR
+42020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,6,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,POR
+42020,1629833,Keljin Blevins,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,POR
+42020,1628388,T.J. Leaf,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,POR

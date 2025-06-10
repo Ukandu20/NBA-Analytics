@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630221,Josh Hall,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.847,21,0.118,0.769,0.18,0.15,0.0,0.15,0.0,0.31,0.23,13,10,2,11,9,OKC
+22020,1629650,Moses Brown,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.205,43,0.02,1.182,0.6,0.0,0.091,0.0,0.0,0.55,0.65,11,13,6,10,4,OKC
+22020,201143,Al Horford,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.026,28,0.023,1.5,0.75,0.1,0.1,0.1,0.0,0.7,0.88,10,15,6,8,2,OKC
+22020,1629660,Ty Jerome,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.404,33,0.061,1.063,0.46,0.06,0.125,0.06,0.0,0.44,0.54,16,17,6,13,7,OKC
+22020,1628382,Justin Jackson,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.627,33,0.116,0.909,0.42,0.05,0.091,0.05,0.0,0.41,0.5,22,20,8,19,11,OKC
+22020,1629004,Svi Mykhailiuk,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.712,30,0.127,0.852,0.35,0.0,0.037,0.0,0.0,0.33,0.44,27,23,9,26,17,OKC
+22020,1629676,Isaiah Roby,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.25,61,0.034,1.143,0.47,0.05,0.143,0.05,0.0,0.43,0.68,21,24,8,17,9,OKC
+22020,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.382,45,0.078,1.069,0.43,0.0,0.0,0.03,0.0,0.41,0.55,29,31,12,28,16,OKC
+22020,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.686,32,0.124,0.868,0.31,0.13,0.026,0.13,0.0,0.39,0.38,38,33,10,32,22,OKC
+22020,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.502,55,0.062,0.975,0.42,0.08,0.1,0.08,0.0,0.42,0.52,40,39,14,33,19,OKC
+22020,1630177,Theo Maledon,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.615,65,0.086,0.915,0.38,0.04,0.106,0.04,0.0,0.36,0.49,47,43,15,40,25,OKC
+22020,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.036,35,0.071,1.455,0.56,0.03,0.03,0.03,0.03,0.55,0.73,33,48,18,32,14,OKC
+22020,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.232,66,0.093,1.154,0.45,0.15,0.077,0.13,0.04,0.46,0.57,52,60,19,42,23,OKC
+22020,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.256,52,0.093,1.141,0.47,0.05,0.063,0.05,0.02,0.45,0.59,64,73,27,58,31,OKC

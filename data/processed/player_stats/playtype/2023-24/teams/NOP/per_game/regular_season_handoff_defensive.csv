@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630346,Matt Ryan,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.119,25,0.075,1.2,0.5,0.0,0.0,0.0,0.0,0.5,0.6,0.4,0.5,0.2,0.4,0.2,NOP
+22023,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.764,65,0.075,0.794,0.308,0.147,0.147,0.147,0.059,0.324,0.365,0.5,0.4,0.1,0.4,0.3,NOP
+22023,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.682,60,0.053,0.844,0.44,0.063,0.219,0.063,0.063,0.344,0.52,0.5,0.5,0.2,0.4,0.2,NOP
+22023,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.659,60,0.085,0.853,0.37,0.088,0.118,0.088,0.0,0.382,0.444,0.6,0.5,0.2,0.5,0.3,NOP
+22023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.788,56,0.097,0.783,0.3,0.043,0.087,0.043,0.0,0.304,0.388,0.8,0.6,0.2,0.7,0.5,NOP
+22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.736,74,0.06,0.813,0.3,0.063,0.104,0.063,0.0,0.313,0.425,0.6,0.5,0.2,0.5,0.4,NOP
+22023,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.394,69,0.056,1.0,0.417,0.051,0.026,0.051,0.0,0.436,0.514,0.6,0.6,0.2,0.5,0.3,NOP
+22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Handoff,Defensive,0.394,63,0.104,1.0,0.404,0.105,0.088,0.105,0.018,0.421,0.489,0.9,0.9,0.3,0.7,0.4,NOP

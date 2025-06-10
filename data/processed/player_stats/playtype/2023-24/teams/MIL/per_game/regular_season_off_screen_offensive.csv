@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627736,Malik Beasley,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.315,78,0.078,0.885,0.357,0.0,0.082,0.0,0.0,0.328,0.482,0.8,0.7,0.3,0.7,0.5,MIL
+22023,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.215,72,0.036,0.831,0.26,0.136,0.034,0.136,0.017,0.339,0.34,0.8,0.7,0.2,0.7,0.5,MIL
+22023,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.439,54,0.026,0.952,0.412,0.048,0.143,0.048,0.0,0.381,0.559,0.4,0.4,0.1,0.3,0.2,MIL
+22023,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.425,55,0.095,0.95,0.35,0.0,0.0,0.0,0.0,0.35,0.475,0.4,0.3,0.1,0.4,0.2,MIL

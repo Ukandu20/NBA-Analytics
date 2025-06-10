@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.702,63,0.402,0.901,0.439,0.113,0.162,0.108,0.025,0.414,0.492,604,544,198,451,253,CHI
+22018,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.401,46,0.52,0.782,0.419,0.057,0.175,0.051,0.012,0.372,0.444,331,259,108,258,150,CHI
+22018,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.875,81,0.361,0.995,0.483,0.131,0.126,0.11,0.026,0.471,0.517,191,190,71,147,76,CHI
+22018,1627885,Shaquille Harrison,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.498,73,0.225,0.818,0.429,0.107,0.149,0.107,0.008,0.421,0.44,121,99,39,91,52,CHI
+22018,1628469,Antonio Blakeney,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.313,57,0.287,0.742,0.372,0.068,0.083,0.061,0.008,0.371,0.381,132,98,42,113,71,CHI
+22018,1627782,Wayne Selden,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.812,43,0.181,0.959,0.484,0.041,0.11,0.041,0.0,0.452,0.524,73,70,30,62,32,CHI
+22018,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.614,15,0.326,0.872,0.422,0.064,0.128,0.064,0.013,0.397,0.469,78,68,27,64,37,CHI
+22018,1626166,Cameron Payne,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.541,31,0.319,0.836,0.5,0.03,0.209,0.03,0.015,0.403,0.51,67,56,26,52,26,CHI
+22018,203953,Jabari Parker,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.383,39,0.076,0.778,0.371,0.111,0.133,0.089,0.022,0.378,0.414,45,35,13,35,22,CHI
+22018,1627215,Walt Lemon Jr.,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.366,6,0.436,0.773,0.41,0.045,0.091,0.045,0.023,0.386,0.41,44,34,16,39,23,CHI
+22018,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.515,52,0.042,0.825,0.382,0.125,0.075,0.1,0.05,0.4,0.397,40,33,13,34,21,CHI
+22018,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.305,38,0.05,0.739,0.333,0.0,0.087,0.0,0.0,0.304,0.405,23,17,7,21,14,CHI
+22018,1628990,Chandler Hutchison,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.161,44,0.102,0.654,0.348,0.038,0.077,0.038,0.0,0.346,0.348,26,17,8,23,15,CHI
+22018,1627789,Timothe Luwawu-Cabarrot,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.898,29,0.049,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,CHI
+22018,1629102,Brandon Sampson,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.244,14,0.132,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.438,10,7,3,8,5,CHI

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.886,75,0.103,1.143,0.523,0.022,0.033,0.022,0.0,0.516,0.581,1.2,1.4,0.6,1.1,0.5,DEN
+22021,203115,Will Barton,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.426,71,0.065,0.843,0.426,0.0,0.129,0.0,0.0,0.371,0.484,1.0,0.8,0.4,0.9,0.5,DEN
+22021,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.616,69,0.069,0.959,0.366,0.061,0.102,0.061,0.0,0.367,0.488,0.7,0.7,0.2,0.6,0.4,DEN
+22021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.753,75,0.04,1.023,0.432,0.14,0.047,0.14,0.047,0.465,0.486,0.6,0.6,0.2,0.5,0.3,DEN
+22021,1627854,Bryn Forbes,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.235,35,0.111,0.71,0.333,0.032,0.097,0.032,0.0,0.323,0.37,0.9,0.6,0.3,0.8,0.5,DEN
+22021,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.833,18,0.126,1.067,0.6,0.133,0.2,0.133,0.0,0.533,0.65,0.8,0.9,0.3,0.6,0.2,DEN
+22021,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.339,65,0.05,0.8,0.316,0.0,0.05,0.0,0.0,0.3,0.421,0.3,0.2,0.1,0.3,0.2,DEN
+22021,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.441,9,0.11,0.846,0.385,0.0,0.0,0.0,0.0,0.385,0.423,1.4,1.2,0.6,1.4,0.9,DEN
+22021,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.055,67,0.061,0.423,0.125,0.154,0.231,0.154,0.0,0.231,0.156,0.4,0.2,0.0,0.2,0.2,DEN
+22021,1628432,Davon Reed,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.339,48,0.055,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,0.2,0.2,0.1,0.2,0.1,DEN

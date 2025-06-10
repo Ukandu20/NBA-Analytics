@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.746,5,0.144,1.048,0.5,0.048,0.19,0.048,0.0,0.429,0.625,4.2,4.4,1.6,3.2,1.6,BOS
+42020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.079,3,0.491,0.615,0.286,0.077,0.154,0.077,0.038,0.269,0.31,8.7,5.3,2.0,7.0,5.0,BOS
+42020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.323,5,0.135,0.833,0.364,0.083,0.083,0.083,0.083,0.333,0.409,2.4,2.0,0.8,2.2,1.4,BOS
+42020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.032,5,0.153,0.545,0.222,0.091,0.091,0.091,0.0,0.273,0.222,2.2,1.2,0.4,1.8,1.4,BOS
+42020,1629682,Tremont Waters,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,3,0.143,3.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.3,1.0,0.3,0.3,0.0,BOS
+42020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,5,0.19,0.75,0.333,0.0,0.25,0.0,0.0,0.25,0.5,0.8,0.6,0.2,0.6,0.4,BOS
+42020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,5,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,BOS
+42020,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,4,0.059,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,BOS

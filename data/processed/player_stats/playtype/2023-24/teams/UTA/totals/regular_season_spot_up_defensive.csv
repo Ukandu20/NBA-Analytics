@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630695,Micah Potter,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.003,12,0.348,1.708,0.636,0.042,0.042,0.042,0.0,0.625,0.909,24,41,14,22,8,UTA
+22023,1630209,Omer Yurtseven,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.008,31,0.152,1.543,0.594,0.029,0.057,0.029,0.0,0.571,0.813,35,54,19,32,13,UTA
+22023,1641729,Brice Sensabaugh,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.243,29,0.492,1.136,0.413,0.045,0.045,0.034,0.0,0.42,0.581,88,100,33,80,47,UTA
+22023,1641707,Taylor Hendricks,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.141,38,0.304,1.21,0.444,0.1,0.03,0.1,0.03,0.47,0.589,100,121,40,90,50,UTA
+22023,1631323,Simone Fontecchio,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.715,50,0.345,0.961,0.377,0.039,0.071,0.031,0.008,0.37,0.496,127,122,43,114,71,UTA
+22023,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.625,63,0.299,1.0,0.361,0.064,0.064,0.064,0.0,0.379,0.508,140,140,44,122,78,UTA
+22023,1631117,Walker Kessler,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.346,62,0.208,1.099,0.421,0.053,0.031,0.053,0.008,0.42,0.574,131,144,51,121,70,UTA
+22023,1630534,Ochai Agbaji,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.432,51,0.367,1.071,0.403,0.057,0.036,0.05,0.014,0.414,0.543,140,150,52,129,77,UTA
+22023,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.212,55,0.404,1.155,0.441,0.034,0.054,0.034,0.007,0.426,0.614,148,171,60,136,76,UTA
+22023,1628381,John Collins,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.139,67,0.277,1.21,0.454,0.063,0.028,0.063,0.017,0.46,0.61,176,213,74,163,89,UTA
+22023,1641718,Keyonte George,1610612762,UTA,Utah Jazz,Spotup,Defensive,0.317,74,0.28,1.108,0.415,0.015,0.059,0.015,0.0,0.399,0.585,203,225,78,188,110,UTA

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.989,80,0.018,0.364,0.22,0.0,0.18,0.0,0.0,0.18,0.22,0.1,0.0,0.0,0.1,0.1,SAC
+22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.699,63,0.029,0.9,0.44,0.0,0.1,0.0,0.0,0.4,0.5,0.2,0.0,0.1,0.1,0.1,SAC
+22022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.557,74,0.039,1.0,0.46,0.13,0.07,0.13,0.07,0.47,0.5,0.2,0.0,0.1,0.2,0.1,SAC
+22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.136,66,0.041,1.357,0.45,0.29,0.0,0.29,0.07,0.57,0.59,0.2,0.0,0.1,0.2,0.1,SAC
+22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.613,77,0.037,0.95,0.44,0.05,0.05,0.05,0.0,0.45,0.47,0.3,0.0,0.1,0.2,0.1,SAC
+22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.69,73,0.024,0.909,0.44,0.05,0.14,0.05,0.0,0.41,0.5,0.3,0.0,0.1,0.2,0.1,SAC
+22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.332,75,0.027,1.15,0.5,0.15,0.05,0.15,0.0,0.55,0.56,0.3,0.0,0.1,0.2,0.1,SAC
+22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.765,82,0.035,0.853,0.38,0.03,0.03,0.03,0.0,0.38,0.44,0.4,0.0,0.1,0.4,0.2,SAC
+22022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.029,80,0.031,1.571,0.65,0.24,0.1,0.19,0.14,0.62,0.82,0.3,0.0,0.1,0.2,0.1,SAC
+22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.375,79,0.069,1.12,0.49,0.07,0.06,0.06,0.04,0.48,0.57,1.1,1.0,0.5,0.9,0.5,SAC

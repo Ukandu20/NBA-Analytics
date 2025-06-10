@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.87,74,0.321,1.171,0.436,0.007,0.046,0.007,0.004,0.418,0.613,280,328,116,266,150,ATL
+22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.882,66,0.373,1.179,0.439,0.049,0.034,0.046,0.011,0.445,0.588,263,310,107,244,137,ATL
+22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.886,63,0.284,1.181,0.449,0.035,0.035,0.035,0.012,0.446,0.6,260,307,110,245,135,ATL
+22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.574,53,0.326,1.013,0.404,0.068,0.064,0.056,0.004,0.406,0.522,234,237,82,203,121,ATL
+22021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.977,76,0.069,1.343,0.525,0.133,0.049,0.112,0.035,0.538,0.652,143,192,64,122,58,ATL
+22021,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.337,54,0.226,0.909,0.36,0.04,0.057,0.034,0.011,0.358,0.466,176,160,58,161,103,ATL
+22021,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.8,34,0.247,1.124,0.4,0.048,0.048,0.048,0.0,0.41,0.579,105,118,38,95,57,ATL
+22021,1627789,Timothe Luwawu-Cabarrot,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.514,52,0.496,0.991,0.347,0.054,0.063,0.054,0.0,0.36,0.495,111,110,34,98,64,ATL
+22021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.781,77,0.277,1.116,0.424,0.063,0.042,0.053,0.0,0.442,0.559,95,106,36,85,49,ATL
+22021,203476,Gorgui Dieng,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.022,12,0.317,0.385,0.182,0.0,0.15,0.0,0.0,0.154,0.227,13,5,2,11,9,ATL
+22021,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.581,56,0.186,1.014,0.389,0.0,0.027,0.0,0.0,0.378,0.521,74,75,28,72,44,ATL
+22021,1630219,Skylar Mays,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.43,19,0.493,0.941,0.364,0.0,0.029,0.0,0.0,0.353,0.485,34,32,12,33,21,ATL
+22021,1628411,Wes Iwundu,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.889,3,0.524,1.182,0.444,0.091,0.091,0.091,0.0,0.455,0.611,11,13,4,9,5,ATL
+22021,1630602,Chaundee Brown Jr.,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.264,3,0.536,0.867,0.286,0.067,0.0,0.067,0.0,0.333,0.393,15,13,4,14,10,ATL
+22021,203524,Solomon Hill,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.052,13,0.455,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,10,6,2,10,8,ATL

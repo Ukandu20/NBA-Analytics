@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.977,55,0.042,0.455,0.2,0.0,0.091,0.0,0.0,0.182,0.25,11,5,2,10,8,SAS
+22024,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.947,26,0.097,0.6,0.182,0.133,0.133,0.067,0.0,0.267,0.227,15,9,2,11,9,SAS
+22024,1628368,De'Aaron Fox,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.833,17,0.09,0.727,0.389,0.045,0.136,0.045,0.0,0.364,0.389,22,16,7,18,11,SAS
+22024,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.98,64,0.095,0.453,0.25,0.019,0.226,0.019,0.0,0.208,0.275,53,24,10,40,30,SAS
+22024,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.013,45,0.082,1.524,0.688,0.095,0.143,0.095,0.0,0.619,0.875,21,32,11,16,5,SAS
+22024,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.531,54,0.072,0.907,0.484,0.07,0.209,0.047,0.0,0.419,0.581,43,39,15,31,16,SAS
+22024,101108,Chris Paul,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.732,81,0.078,0.808,0.326,0.019,0.096,0.019,0.0,0.308,0.435,52,42,15,46,31,SAS
+22024,203084,Harrison Barnes,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.19,81,0.058,1.128,0.545,0.026,0.128,0.026,0.0,0.487,0.636,39,44,18,33,15,SAS
+22024,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.082,77,0.092,1.24,0.5,0.08,0.08,0.08,0.04,0.48,0.625,50,62,22,44,22,SAS
+22024,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.239,81,0.09,1.092,0.466,0.031,0.077,0.031,0.0,0.446,0.569,65,71,27,58,31,SAS
+22024,1642264,Stephon Castle,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.382,81,0.099,0.977,0.392,0.102,0.057,0.102,0.0,0.432,0.459,88,86,29,74,45,SAS

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630224,Jalen Green,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.93,76,0.018,0.643,0.25,0.07,0.07,0.07,0.0,0.29,0.29,14,9,3,12,9,HOU
+22022,1630231,KJ Martin,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.557,82,0.018,1.0,0.38,0.2,0.0,0.2,0.0,0.5,0.44,10,10,3,8,5,HOU
+22022,1631106,Tari Eason,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.557,82,0.019,1.0,0.45,0.0,0.08,0.0,0.0,0.42,0.55,12,12,5,11,6,HOU
+22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.756,59,0.018,0.857,0.36,0.21,0.07,0.21,0.07,0.36,0.45,14,12,4,11,7,HOU
+22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.787,79,0.027,0.833,0.35,0.04,0.12,0.04,0.0,0.33,0.45,24,20,7,20,13,HOU
+22022,1630586,Usman Garuba,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.493,75,0.051,1.042,0.43,0.08,0.04,0.08,0.0,0.46,0.52,24,25,9,21,12,HOU
+22022,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,PRRollMan,Defensive,0.426,75,0.069,1.083,0.43,0.06,0.03,0.06,0.04,0.43,0.54,72,78,30,69,39,HOU

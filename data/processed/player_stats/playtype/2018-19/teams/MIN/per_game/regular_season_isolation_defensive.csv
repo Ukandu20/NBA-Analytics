@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201573,Jerryd Bayless,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.976,34,0.066,0.5,0.21,0.06,0.06,0.06,0.0,0.25,0.21,0.5,0.2,0.1,0.4,0.3,MIN
+22018,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.6,10,0.098,0.833,0.5,0.0,0.17,0.0,0.0,0.42,0.5,1.2,1.0,0.5,1.0,0.5,MIN
+22018,2736,Luol Deng,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.793,22,0.116,0.75,0.21,0.12,0.0,0.12,0.0,0.31,0.29,0.7,0.5,0.1,0.6,0.5,MIN
+22018,203496,Robert Covington,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.527,22,0.057,0.867,0.31,0.13,0.0,0.13,0.0,0.4,0.35,0.7,0.6,0.2,0.6,0.4,MIN
+22018,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.965,51,0.053,0.538,0.24,0.08,0.12,0.08,0.0,0.27,0.26,0.5,0.3,0.1,0.4,0.3,MIN
+22018,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.889,68,0.05,0.667,0.25,0.17,0.04,0.17,0.04,0.33,0.25,0.4,0.2,0.1,0.3,0.2,MIN
+22018,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.646,42,0.064,0.815,0.39,0.11,0.22,0.11,0.0,0.37,0.44,0.6,0.5,0.2,0.4,0.3,MIN
+22018,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.009,32,0.099,1.5,0.6,0.06,0.11,0.06,0.0,0.56,0.8,0.6,0.8,0.3,0.5,0.2,MIN
+22018,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.909,74,0.069,0.64,0.3,0.1,0.18,0.04,0.02,0.28,0.35,0.7,0.4,0.1,0.5,0.4,MIN
+22018,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.423,76,0.071,0.917,0.42,0.0,0.0,0.0,0.0,0.42,0.46,0.5,0.4,0.2,0.5,0.3,MIN
+22018,201229,Anthony Tolliver,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.759,65,0.147,0.766,0.37,0.11,0.11,0.06,0.02,0.38,0.39,0.7,0.6,0.2,0.6,0.4,MIN
+22018,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.799,73,0.068,0.746,0.35,0.08,0.14,0.07,0.0,0.36,0.37,0.8,0.6,0.2,0.6,0.4,MIN
+22018,203967,Dario Šarić,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.544,68,0.102,0.86,0.41,0.07,0.14,0.07,0.02,0.39,0.49,0.8,0.7,0.3,0.7,0.4,MIN
+22018,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.153,71,0.089,1.111,0.51,0.17,0.09,0.17,0.02,0.5,0.61,0.8,0.8,0.3,0.6,0.3,MIN
+22018,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.489,77,0.081,0.888,0.4,0.08,0.07,0.08,0.03,0.4,0.44,1.3,1.1,0.4,1.1,0.7,MIN

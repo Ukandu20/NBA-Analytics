@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.562,62,0.18,1.143,0.553,0.077,0.042,0.077,0.012,0.56,0.57,2.7,3.1,1.3,2.4,1.1,MEM
+22020,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.773,59,0.175,1.24,0.613,0.11,0.04,0.11,0.08,0.6,0.613,1.7,2.1,1.0,1.6,0.6,MEM
+22020,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.702,59,0.217,1.203,0.622,0.038,0.038,0.038,0.013,0.608,0.622,1.3,1.6,0.8,1.3,0.5,MEM
+22020,203476,Gorgui Dieng,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.996,22,0.193,1.517,0.609,0.207,0.0,0.207,0.0,0.69,0.739,1.3,2.0,0.6,1.0,0.4,MEM
+22020,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.139,11,0.134,0.857,0.368,0.048,0.048,0.048,0.0,0.381,0.421,1.9,1.6,0.6,1.7,1.1,MEM
+22020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.3,69,0.012,1.0,0.444,0.1,0.0,0.1,0.0,0.5,0.5,0.1,0.1,0.1,0.1,0.1,MEM

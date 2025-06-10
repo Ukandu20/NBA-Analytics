@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.272,55,0.14,0.751,0.319,0.164,0.096,0.124,0.023,0.384,0.33,3.2,2.4,0.8,2.5,1.7,NOP
+22021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.759,26,0.128,1.0,0.485,0.092,0.066,0.092,0.053,0.474,0.507,2.9,2.9,1.3,2.6,1.3,NOP
+22021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.181,76,0.049,0.688,0.289,0.104,0.125,0.104,0.021,0.313,0.342,0.6,0.4,0.1,0.5,0.4,NOP
+22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.13,74,0.025,0.645,0.24,0.129,0.097,0.129,0.032,0.29,0.26,0.4,0.3,0.1,0.3,0.3,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.925,41,0.031,1.118,0.5,0.176,0.118,0.176,0.0,0.529,0.542,0.4,0.5,0.1,0.3,0.1,NOP
+22021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.877,55,0.039,1.071,0.538,0.0,0.071,0.0,0.0,0.5,0.577,0.3,0.3,0.1,0.2,0.1,NOP
+22021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.63,54,0.042,0.933,0.429,0.067,0.0,0.067,0.0,0.467,0.429,0.3,0.3,0.1,0.3,0.1,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.031,50,0.038,0.448,0.182,0.103,0.138,0.103,0.0,0.241,0.205,0.6,0.3,0.1,0.4,0.4,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.198,78,0.013,0.7,0.333,0.2,0.2,0.2,0.0,0.4,0.333,0.1,0.1,0.0,0.1,0.1,NOP

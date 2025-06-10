@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.868,56,0.469,1.044,0.475,0.111,0.131,0.101,0.038,0.448,0.561,495,517,187,394,207,IND
+22022,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.585,75,0.482,0.91,0.511,0.069,0.169,0.06,0.033,0.44,0.521,332,302,135,264,129,IND
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.455,78,0.189,0.848,0.383,0.169,0.132,0.16,0.041,0.403,0.414,243,206,69,180,111,IND
+22022,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.237,75,0.326,0.726,0.395,0.039,0.162,0.027,0.012,0.347,0.414,259,188,83,210,127,IND
+22022,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.625,80,0.091,0.918,0.465,0.045,0.191,0.045,0.018,0.391,0.552,110,101,40,86,46,IND
+22022,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.277,46,0.186,0.747,0.303,0.08,0.053,0.067,0.013,0.333,0.356,75,56,20,66,46,IND
+22022,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.945,24,0.128,1.132,0.529,0.053,0.105,0.053,0.053,0.474,0.603,38,43,18,34,16,IND
+22022,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.616,73,0.05,0.917,0.483,0.083,0.139,0.083,0.028,0.444,0.517,36,33,14,29,15,IND
+22022,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.957,65,0.05,1.143,0.438,0.286,0.0,0.286,0.048,0.524,0.531,21,24,7,16,9,IND
+22022,201588,George Hill,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.363,11,0.222,0.8,0.333,0.2,0.2,0.2,0.0,0.4,0.333,10,8,2,6,4,IND

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.953,60,0.028,0.636,0.333,0.091,0.182,0.091,0.091,0.273,0.333,11,7,3,9,6,NOP
+22023,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.758,65,0.04,0.889,0.333,0.056,0.0,0.056,0.056,0.333,0.417,18,16,6,18,12,NOP
+22023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.531,56,0.032,1.067,0.429,0.133,0.0,0.133,0.067,0.467,0.536,15,16,6,14,8,NOP
+22023,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.242,57,0.033,1.267,0.533,0.0,0.0,0.0,0.0,0.533,0.633,15,19,8,15,7,NOP
+22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.397,63,0.033,1.167,0.529,0.0,0.056,0.0,0.0,0.5,0.618,18,21,9,17,8,NOP
+22023,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.588,69,0.043,1.033,0.481,0.033,0.1,0.033,0.033,0.433,0.556,30,31,13,27,14,NOP
+22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.377,74,0.034,1.185,0.5,0.111,0.185,0.111,0.037,0.444,0.65,27,32,10,20,10,NOP
+22023,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.154,65,0.037,1.346,0.542,0.077,0.0,0.077,0.0,0.577,0.646,26,35,13,24,11,NOP
+22023,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,PRRollMan,Defensive,0.833,75,0.084,0.818,0.361,0.03,0.045,0.015,0.0,0.364,0.41,66,54,22,61,39,NOP

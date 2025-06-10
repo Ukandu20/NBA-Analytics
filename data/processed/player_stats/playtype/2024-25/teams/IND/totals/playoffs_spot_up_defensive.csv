@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.805,10,0.128,0.818,0.3,0.091,0.091,0.091,0.091,0.273,0.4,11,9,3,10,7,IND
+42024,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.077,14,0.123,1.4,0.5,0.0,0.0,0.0,0.0,0.5,0.7,10,14,5,10,5,IND
+42024,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.104,7,0.262,1.364,0.5,0.091,0.0,0.091,0.0,0.455,0.75,11,15,5,10,5,IND
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.136,13,0.152,1.357,0.583,0.071,0.071,0.0,0.0,0.571,0.708,14,19,7,12,5,IND
+42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.701,17,0.27,0.867,0.286,0.033,0.033,0.033,0.0,0.3,0.429,30,26,8,28,20,IND
+42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.486,15,0.318,1.0,0.36,0.037,0.037,0.037,0.0,0.37,0.5,27,27,9,25,16,IND
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.737,17,0.307,0.847,0.333,0.068,0.085,0.068,0.017,0.339,0.441,59,50,17,51,34,IND
+42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.186,16,0.169,1.267,0.465,0.044,0.0,0.044,0.0,0.489,0.616,45,57,20,43,23,IND
+42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.339,17,0.25,1.115,0.404,0.077,0.019,0.058,0.0,0.442,0.574,52,58,19,47,28,IND
+42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.486,17,0.267,1.0,0.368,0.032,0.048,0.032,0.0,0.371,0.518,62,62,21,57,36,IND
+42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.169,17,0.222,1.296,0.479,0.056,0.056,0.056,0.0,0.463,0.688,54,70,23,48,25,IND

@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Transition,Offensive,0.363,67,0.19,1.053,0.503,0.133,0.089,0.12,0.027,0.511,0.541,225,237,91,181,90,HOU
+22021,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Transition,Offensive,0.12,61,0.204,0.868,0.437,0.127,0.173,0.118,0.018,0.405,0.503,220,191,69,158,89,HOU
+22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Transition,Offensive,0.443,78,0.181,1.089,0.631,0.178,0.213,0.148,0.047,0.533,0.658,169,184,70,111,41,HOU
+22021,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Transition,Offensive,0.792,79,0.185,1.282,0.667,0.222,0.077,0.222,0.043,0.675,0.684,117,150,58,87,29,HOU
+22021,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Transition,Offensive,0.212,74,0.229,0.954,0.6,0.085,0.261,0.092,0.013,0.464,0.635,153,146,60,100,40,HOU
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Transition,Offensive,0.218,68,0.128,0.959,0.52,0.162,0.176,0.162,0.034,0.466,0.574,148,142,53,102,49,HOU
+22021,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Transition,Offensive,0.851,57,0.14,1.333,0.541,0.078,0.098,0.069,0.0,0.52,0.729,102,136,46,85,39,HOU
+22021,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,Transition,Offensive,0.537,65,0.159,1.146,0.424,0.202,0.09,0.18,0.034,0.483,0.53,89,102,28,66,38,HOU
+22021,1628021,David Nwaba,1610612745,HOU,Houston Rockets,Transition,Offensive,0.323,46,0.283,1.031,0.553,0.185,0.123,0.169,0.031,0.523,0.574,65,67,26,47,21,HOU
+22021,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Transition,Offensive,0.084,72,0.064,0.82,0.5,0.14,0.28,0.12,0.02,0.42,0.5,50,41,15,30,15,HOU
+22021,203471,Dennis Schröder,1610612745,HOU,Houston Rockets,Transition,Offensive,0.369,15,0.185,1.056,0.478,0.167,0.194,0.139,0.0,0.472,0.565,36,38,11,23,12,HOU
+22021,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,Transition,Offensive,0.369,41,0.129,1.056,0.452,0.056,0.111,0.028,0.028,0.417,0.565,36,38,14,31,17,HOU
+22021,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,Transition,Offensive,0.427,34,0.123,1.083,0.563,0.083,0.25,0.0,0.0,0.458,0.719,24,26,9,16,7,HOU
+22021,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Transition,Offensive,0.068,16,0.248,0.8,0.333,0.08,0.2,0.08,0.0,0.32,0.444,25,20,6,18,12,HOU
+22021,1630227,Daishen Nix,1610612745,HOU,Houston Rockets,Transition,Offensive,0.04,24,0.255,0.741,0.5,0.185,0.37,0.185,0.0,0.37,0.542,27,20,6,12,6,HOU
+22021,1628464,Daniel Theis,1610612745,HOU,Houston Rockets,Transition,Offensive,0.384,26,0.07,1.063,0.615,0.0,0.188,0.0,0.0,0.5,0.654,16,17,8,13,5,HOU

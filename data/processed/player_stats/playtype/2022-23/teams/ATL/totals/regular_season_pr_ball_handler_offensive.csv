@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.668,73,0.472,0.935,0.431,0.14,0.157,0.098,0.022,0.428,0.482,927,867,289,671,382,ATL
+22022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.729,74,0.375,0.964,0.482,0.048,0.087,0.048,0.017,0.455,0.506,584,563,248,515,267,ATL
+22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.778,67,0.147,0.986,0.474,0.122,0.109,0.109,0.02,0.476,0.496,147,145,55,116,61,ATL
+22022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.554,54,0.216,0.895,0.433,0.052,0.17,0.052,0.007,0.386,0.504,153,137,52,120,68,ATL
+22022,1628988,Aaron Holiday,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.652,63,0.275,0.932,0.435,0.068,0.108,0.054,0.014,0.419,0.484,74,69,27,62,35,ATL
+22022,1631100,AJ Griffin,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.677,72,0.084,0.94,0.465,0.02,0.12,0.02,0.0,0.42,0.523,50,47,20,43,23,ATL
+22022,1630235,Trent Forrest,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.043,24,0.364,0.5,0.304,0.0,0.179,0.0,0.0,0.25,0.304,28,14,7,23,16,ATL
+22022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.483,25,0.054,0.857,0.273,0.214,0.0,0.214,0.0,0.429,0.318,14,12,3,11,8,ATL
+22022,203200,Justin Holiday,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.006,28,0.072,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,10,4,2,10,8,ATL

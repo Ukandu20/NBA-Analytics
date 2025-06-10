@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.801,76,0.513,0.967,0.447,0.101,0.152,0.055,0.011,0.428,0.522,1066,1031,361,808,447,ATL
+22021,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.753,56,0.412,0.939,0.437,0.116,0.134,0.085,0.018,0.433,0.468,164,154,55,126,71,ATL
+22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.464,63,0.196,0.827,0.392,0.039,0.101,0.034,0.0,0.374,0.448,179,148,60,153,93,ATL
+22021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.443,74,0.197,0.82,0.413,0.035,0.14,0.035,0.006,0.372,0.455,172,141,59,143,84,ATL
+22021,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.512,34,0.28,0.84,0.383,0.109,0.134,0.101,0.034,0.378,0.42,119,100,36,94,58,ATL
+22021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.565,77,0.292,0.87,0.395,0.09,0.16,0.07,0.01,0.38,0.467,100,87,30,76,46,ATL
+22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.61,53,0.103,0.878,0.433,0.095,0.122,0.095,0.027,0.419,0.458,74,65,26,60,34,ATL
+22021,1630219,Skylar Mays,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,1.0,19,0.188,1.538,0.889,0.231,0.154,0.154,0.077,0.769,0.889,13,20,8,9,1,ATL
+22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.161,66,0.06,0.643,0.289,0.024,0.071,0.0,0.0,0.286,0.329,42,27,11,38,27,ATL
+22021,1627789,Timothe Luwawu-Cabarrot,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.113,52,0.054,0.583,0.222,0.083,0.167,0.083,0.0,0.25,0.333,12,7,2,9,7,ATL

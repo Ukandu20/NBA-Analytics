@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1713,Vince Carter,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.994,60,0.072,0.235,0.077,0.06,0.18,0.0,0.0,0.12,0.077,0.3,0.1,0.0,0.2,0.2,ATL
+22019,1628981,Bruno Fernando,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.856,56,0.024,0.7,0.222,0.1,0.0,0.1,0.0,0.3,0.278,0.2,0.1,0.0,0.2,0.1,ATL
+22019,1627745,Damian Jones,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.574,55,0.022,0.909,0.5,0.0,0.27,0.0,0.0,0.36,0.625,0.2,0.2,0.1,0.1,0.1,ATL
+22019,203953,Jabari Parker,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.567,32,0.038,0.917,0.455,0.0,0.08,0.0,0.0,0.42,0.5,0.4,0.3,0.2,0.3,0.2,ATL
+22019,1629164,Brandon Goodwin,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.113,35,0.059,1.273,0.556,0.09,0.09,0.0,0.0,0.55,0.667,0.3,0.4,0.1,0.3,0.1,ATL
+22019,1628381,John Collins,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.637,41,0.028,0.875,0.333,0.06,0.0,0.06,0.0,0.38,0.4,0.4,0.3,0.1,0.4,0.2,ATL
+22019,1627761,DeAndre' Bembry,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.841,43,0.091,0.724,0.259,0.1,0.0,0.07,0.03,0.31,0.315,0.7,0.5,0.2,0.6,0.5,ATL
+22019,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.364,60,0.059,1.049,0.41,0.05,0.02,0.05,0.02,0.41,0.538,0.7,0.7,0.3,0.7,0.4,ATL
+22019,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.411,58,0.082,1.021,0.425,0.1,0.08,0.1,0.02,0.44,0.538,0.8,0.8,0.3,0.7,0.4,ATL
+22019,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.212,56,0.084,1.156,0.476,0.07,0.0,0.07,0.0,0.51,0.583,0.8,0.9,0.4,0.8,0.4,ATL
+22019,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.1,63,0.102,1.284,0.54,0.07,0.09,0.07,0.01,0.51,0.698,1.2,1.5,0.5,1.0,0.5,ATL

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.856,30,0.075,0.7,0.3,0.0,0.0,0.0,0.0,0.3,0.35,10,7,3,10,7,DAL
+22019,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.956,57,0.069,0.478,0.188,0.13,0.17,0.13,0.0,0.26,0.188,23,11,3,16,13,DAL
+22019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.637,57,0.018,0.875,0.286,0.12,0.0,0.12,0.0,0.38,0.393,16,14,4,14,10,DAL
+22019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.922,65,0.076,0.6,0.25,0.04,0.0,0.04,0.0,0.28,0.271,25,15,6,24,18,DAL
+22019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.359,74,0.022,1.056,0.471,0.0,0.06,0.0,0.0,0.44,0.559,18,19,8,17,9,DAL
+22019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.441,61,0.046,1.0,0.393,0.03,0.03,0.03,0.03,0.38,0.5,29,29,11,28,17,DAL
+22019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.678,73,0.082,0.848,0.341,0.02,0.11,0.02,0.02,0.3,0.463,46,39,14,41,27,DAL
+22019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.542,64,0.097,0.935,0.381,0.07,0.04,0.04,0.02,0.39,0.476,46,43,16,42,26,DAL
+22019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.748,71,0.089,0.805,0.313,0.08,0.05,0.05,0.0,0.35,0.381,77,62,21,67,46,DAL
+22019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.062,71,0.095,1.329,0.483,0.1,0.04,0.1,0.0,0.51,0.642,70,93,29,60,31,DAL

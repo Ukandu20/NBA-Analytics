@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.779,63,0.127,1.28,0.591,0.151,0.07,0.134,0.048,0.591,0.643,3.0,3.8,1.4,2.4,1.0,LAL
+22019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.834,68,0.116,1.326,0.667,0.196,0.043,0.217,0.043,0.674,0.667,0.7,0.9,0.4,0.5,0.2,LAL
+22019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.797,69,0.088,1.3,0.677,0.25,0.025,0.225,0.05,0.675,0.694,0.6,0.8,0.3,0.4,0.1,LAL
+22019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.322,61,0.033,1.0,0.478,0.074,0.111,0.074,0.037,0.444,0.543,0.4,0.4,0.2,0.4,0.2,LAL
+22019,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.986,49,0.023,1.7,0.778,0.0,0.1,0.0,0.0,0.7,0.944,0.2,0.3,0.1,0.2,0.0,LAL
+22019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.498,67,0.008,1.077,0.417,0.077,0.077,0.077,0.077,0.385,0.542,0.2,0.2,0.1,0.2,0.1,LAL
+22019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.157,64,0.034,0.846,0.455,0.077,0.154,0.077,0.077,0.385,0.5,0.2,0.2,0.1,0.2,0.1,LAL
+22019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.046,69,0.02,0.667,0.364,0.0,0.083,0.0,0.0,0.333,0.364,0.2,0.1,0.1,0.2,0.1,LAL

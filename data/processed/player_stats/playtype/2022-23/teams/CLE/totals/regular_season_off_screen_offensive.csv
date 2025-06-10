@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.252,68,0.074,0.85,0.35,0.047,0.031,0.047,0.0,0.37,0.415,127,108,41,117,76,CLE
+22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.938,69,0.056,1.293,0.536,0.122,0.073,0.122,0.037,0.524,0.667,82,106,37,69,32,CLE
+22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.463,77,0.064,0.95,0.433,0.1,0.15,0.05,0.0,0.425,0.533,40,38,13,30,17,CLE
+22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.811,75,0.034,1.156,0.5,0.094,0.094,0.063,0.0,0.5,0.615,32,37,13,26,13,CLE
+22022,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.422,42,0.042,0.933,0.308,0.133,0.067,0.067,0.067,0.333,0.423,15,14,4,13,9,CLE

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,1.0,67,0.034,0.231,0.1,0.0,0.23,0.0,0.0,0.08,0.15,13,3,1,10,9,DEN
+22021,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.663,67,0.019,0.9,0.444,0.1,0.1,0.1,0.1,0.4,0.5,10,9,4,9,5,DEN
+22021,202326,DeMarcus Cousins,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.871,31,0.08,0.706,0.333,0.12,0.24,0.12,0.06,0.29,0.417,17,12,4,12,8,DEN
+22021,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.134,69,0.027,1.333,0.5,0.33,0.0,0.33,0.17,0.58,0.55,12,16,5,10,5,DEN
+22021,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.407,65,0.034,1.067,0.4,0.13,0.2,0.07,0.0,0.4,0.6,15,16,4,10,6,DEN
+22021,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.766,75,0.03,0.81,0.368,0.0,0.1,0.0,0.0,0.33,0.447,21,17,7,19,12,DEN
+22021,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.047,41,0.048,1.5,0.8,0.33,0.25,0.33,0.0,0.67,1.1,12,18,4,5,1,DEN
+22021,203115,Will Barton,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.525,71,0.029,1.0,0.438,0.06,0.11,0.06,0.06,0.39,0.531,18,18,7,16,9,DEN
+22021,201145,Jeff Green,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.684,75,0.038,0.88,0.409,0.04,0.08,0.04,0.0,0.4,0.455,25,22,9,22,13,DEN
+22021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.737,75,0.034,0.833,0.286,0.03,0.03,0.03,0.0,0.3,0.411,30,25,8,28,20,DEN
+22021,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Defensive,0.576,74,0.078,0.958,0.42,0.05,0.03,0.05,0.01,0.43,0.477,95,91,37,88,51,DEN

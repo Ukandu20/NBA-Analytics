@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,2,0.25,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0,POR
+42020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,6,0.111,0.5,0.5,0.0,0.5,0.0,0.0,0.25,0.5,4,2,1,2,1,POR
+42020,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,6,0.05,0.5,0.0,0.5,0.0,0.5,0.0,0.25,0.0,4,2,0,2,2,POR
+42020,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,6,0.089,1.0,0.67,0.25,0.25,0.25,0.25,0.5,0.67,4,4,2,3,1,POR
+42020,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,6,0.114,0.75,0.4,0.12,0.25,0.12,0.0,0.38,0.4,8,6,2,5,3,POR
+42020,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.552,5,0.213,0.8,0.43,0.1,0.2,0.1,0.0,0.4,0.43,10,8,3,7,4,POR
+42020,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.719,6,0.137,0.722,0.38,0.06,0.11,0.06,0.06,0.33,0.38,18,13,6,16,10,POR
+42020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,Postup,Defensive,0.0,6,0.206,1.429,0.8,0.14,0.14,0.07,0.0,0.71,0.8,14,20,8,10,2,POR

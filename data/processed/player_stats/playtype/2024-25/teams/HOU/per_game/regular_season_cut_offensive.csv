@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,Cut,Offensive,0.638,69,0.175,1.361,0.693,0.139,0.048,0.133,0.03,0.687,0.693,2.4,3.3,1.4,2.0,0.6,HOU
+22024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Cut,Offensive,0.239,76,0.094,1.146,0.574,0.097,0.014,0.097,0.007,0.597,0.574,1.9,2.2,1.0,1.7,0.7,HOU
+22024,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Cut,Offensive,0.629,57,0.088,1.356,0.72,0.119,0.068,0.119,0.034,0.695,0.72,1.0,1.4,0.6,0.9,0.2,HOU
+22024,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Cut,Offensive,0.356,57,0.079,1.222,0.63,0.111,0.056,0.111,0.019,0.63,0.63,0.9,1.2,0.5,0.8,0.3,HOU
+22024,203500,Steven Adams,1610612745,HOU,Houston Rockets,Cut,Offensive,0.44,57,0.155,1.268,0.714,0.22,0.049,0.22,0.122,0.634,0.714,0.7,0.9,0.4,0.6,0.2,HOU
+22024,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,Cut,Offensive,0.937,75,0.029,1.6,0.786,0.067,0.0,0.067,0.0,0.8,0.786,0.4,0.6,0.3,0.4,0.1,HOU
+22024,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Cut,Offensive,0.483,82,0.017,1.29,0.652,0.194,0.065,0.194,0.0,0.677,0.652,0.4,0.5,0.2,0.3,0.1,HOU
+22024,1629111,Jock Landale,1610612745,HOU,Houston Rockets,Cut,Offensive,0.087,42,0.168,1.0,0.48,0.188,0.063,0.188,0.031,0.531,0.48,0.8,0.8,0.3,0.6,0.3,HOU
+22024,1641715,Cam Whitmore,1610612745,HOU,Houston Rockets,Cut,Offensive,0.344,51,0.048,1.217,0.591,0.13,0.0,0.13,0.087,0.565,0.591,0.5,0.5,0.3,0.4,0.2,HOU
+22024,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Cut,Offensive,0.087,52,0.111,1.0,0.5,0.095,0.095,0.095,0.048,0.476,0.5,0.4,0.4,0.2,0.3,0.2,HOU

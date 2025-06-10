@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.82,70,0.036,1.183,0.456,0.05,0.017,0.033,0.017,0.467,0.579,60,71,26,57,31,PHI
+22023,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.28,70,0.034,0.872,0.343,0.128,0.0,0.077,0.026,0.359,0.414,39,34,12,35,23,PHI
+22023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.407,68,0.028,0.933,0.423,0.067,0.1,0.067,0.033,0.4,0.519,30,28,11,26,15,PHI
+22023,1627741,Buddy Hield,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.15,32,0.091,0.771,0.37,0.0,0.229,0.0,0.0,0.286,0.5,35,27,10,27,17,PHI
+22023,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.31,38,0.06,0.885,0.346,0.0,0.0,0.0,0.0,0.346,0.442,26,23,9,26,17,PHI
+22023,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.722,39,0.014,1.118,0.4,0.118,0.0,0.118,0.0,0.471,0.5,17,19,6,15,9,PHI

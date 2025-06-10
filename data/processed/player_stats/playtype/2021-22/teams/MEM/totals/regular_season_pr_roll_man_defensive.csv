@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.987,62,0.02,0.3,0.111,0.1,0.1,0.1,0.1,0.1,0.111,10,3,1,9,8,MEM
+22021,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.838,73,0.027,0.75,0.273,0.08,0.0,0.08,0.0,0.33,0.364,12,9,3,11,8,MEM
+22021,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.609,64,0.033,0.933,0.429,0.0,0.07,0.0,0.0,0.4,0.5,15,14,6,14,8,MEM
+22021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.047,33,0.024,1.5,0.625,0.2,0.0,0.2,0.0,0.7,0.688,10,15,5,8,3,MEM
+22021,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.525,57,0.025,1.0,0.462,0.07,0.13,0.07,0.07,0.4,0.577,15,15,6,13,7,MEM
+22021,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.325,73,0.025,1.133,0.583,0.07,0.13,0.07,0.0,0.53,0.667,15,17,7,12,5,MEM
+22021,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.047,72,0.027,1.5,0.727,0.08,0.08,0.08,0.08,0.67,0.818,12,18,8,11,3,MEM
+22021,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.254,53,0.046,1.2,0.538,0.13,0.13,0.13,0.13,0.47,0.615,15,18,7,13,6,MEM
+22021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.737,69,0.048,0.833,0.348,0.04,0.04,0.04,0.04,0.33,0.413,24,20,8,23,15,MEM
+22021,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.47,76,0.032,1.038,0.375,0.08,0.04,0.08,0.04,0.38,0.5,26,27,9,24,15,MEM
+22021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.694,78,0.049,0.875,0.389,0.02,0.08,0.0,0.0,0.38,0.472,40,35,14,36,22,MEM
+22021,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,PRRollMan,Defensive,0.559,76,0.073,0.987,0.416,0.04,0.01,0.04,0.03,0.42,0.487,79,78,32,77,45,MEM

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,203914,Gary Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.35,5,0.414,1.0,0.667,0.167,0.333,0.167,0.0,0.5,0.667,12,12,4,6,2,ORL
+42024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.246,5,0.333,1.077,0.6,0.0,0.231,0.0,0.0,0.462,0.7,13,14,6,10,4,ORL
+42024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.111,5,0.239,1.273,0.714,0.091,0.273,0.091,0.0,0.545,0.929,11,14,5,7,2,ORL
+42024,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.0,5,0.448,1.462,0.667,0.385,0.154,0.308,0.0,0.692,0.75,13,19,4,6,2,ORL
+42024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.571,5,0.421,0.917,0.357,0.208,0.208,0.125,0.0,0.417,0.464,24,22,5,14,9,ORL
+42024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.183,5,0.301,1.136,0.6,0.091,0.273,0.091,0.045,0.455,0.767,22,25,9,15,6,ORL
+42024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.254,5,0.36,1.074,0.5,0.148,0.222,0.148,0.037,0.444,0.611,27,29,9,18,9,ORL

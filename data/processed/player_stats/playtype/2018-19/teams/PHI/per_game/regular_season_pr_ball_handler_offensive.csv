@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.538,55,0.252,0.835,0.383,0.124,0.107,0.099,0.008,0.405,0.404,4.4,3.7,1.3,3.4,2.1,PHI
+22018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.574,76,0.389,0.858,0.488,0.029,0.147,0.029,0.01,0.426,0.488,2.7,2.3,1.1,2.2,1.1,PHI
+22018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.821,79,0.125,0.961,0.556,0.18,0.163,0.157,0.051,0.506,0.556,2.3,2.2,0.9,1.6,0.7,PHI
+22018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.942,76,0.1,1.057,0.458,0.074,0.066,0.074,0.016,0.459,0.537,1.6,1.7,0.6,1.4,0.8,PHI
+22018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.717,27,0.188,0.912,0.473,0.066,0.121,0.066,0.0,0.44,0.5,3.4,3.1,1.3,2.7,1.4,PHI
+22018,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.714,19,0.34,0.91,0.5,0.09,0.119,0.09,0.015,0.478,0.5,3.5,3.2,1.4,2.8,1.4,PHI
+22018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.824,64,0.03,0.962,0.474,0.154,0.154,0.154,0.038,0.462,0.513,0.8,0.8,0.3,0.6,0.3,PHI
+22018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.979,15,0.279,1.167,0.5,0.25,0.042,0.25,0.042,0.583,0.556,1.6,1.9,0.6,1.2,0.6,PHI
+22018,1629013,Landry Shamet,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.827,54,0.069,0.963,0.385,0.037,0.0,0.037,0.0,0.407,0.481,0.5,0.5,0.2,0.5,0.3,PHI
+22018,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.681,48,0.066,0.895,0.389,0.105,0.0,0.105,0.053,0.421,0.417,0.4,0.4,0.1,0.4,0.2,PHI
+22018,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.043,20,0.116,0.455,0.2,0.091,0.0,0.091,0.0,0.273,0.2,0.6,0.3,0.1,0.5,0.4,PHI

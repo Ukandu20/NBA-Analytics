@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.913,65,0.214,1.11,0.473,0.154,0.098,0.115,0.034,0.48,0.571,6.3,7.0,2.3,4.9,2.6,DAL
+22021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.654,79,0.124,0.947,0.457,0.087,0.073,0.073,0.02,0.46,0.477,1.9,1.8,0.7,1.6,0.9,DAL
+22021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.941,23,0.209,1.149,0.46,0.239,0.075,0.239,0.06,0.507,0.56,2.9,3.3,1.0,2.2,1.2,DAL
+22021,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.532,42,0.048,0.897,0.36,0.069,0.103,0.069,0.034,0.345,0.46,0.7,0.6,0.2,0.6,0.4,DAL
+22021,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.13,42,0.123,0.645,0.3,0.0,0.032,0.0,0.0,0.29,0.333,0.7,0.5,0.2,0.7,0.5,DAL
+22021,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.66,35,0.03,0.947,0.538,0.105,0.211,0.105,0.0,0.474,0.538,0.5,0.5,0.2,0.4,0.2,DAL
+22021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.153,58,0.045,0.667,0.375,0.083,0.25,0.083,0.0,0.333,0.375,0.2,0.1,0.1,0.1,0.1,DAL

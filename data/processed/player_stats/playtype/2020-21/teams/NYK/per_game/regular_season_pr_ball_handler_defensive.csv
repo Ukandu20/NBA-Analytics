@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203457,Nerlens Noel,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.389,64,0.021,0.923,0.364,0.08,0.077,0.08,0.0,0.385,0.455,0.2,0.2,0.1,0.2,0.1,NYK
+22020,1630167,Obi Toppin,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.189,62,0.078,1.0,0.375,0.16,0.0,0.16,0.0,0.474,0.469,0.3,0.3,0.1,0.3,0.2,NYK
+22020,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.824,32,0.308,0.758,0.476,0.06,0.303,0.06,0.0,0.364,0.476,1.0,0.8,0.3,0.7,0.3,NYK
+22020,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.077,42,0.215,1.107,0.6,0.14,0.214,0.14,0.07,0.5,0.625,0.7,0.7,0.3,0.5,0.2,NYK
+22020,203085,Austin Rivers,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.55,21,0.445,0.877,0.462,0.11,0.192,0.07,0.01,0.425,0.51,3.5,3.0,1.1,2.5,1.3,NYK
+22020,203944,Julius Randle,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.541,71,0.082,0.882,0.435,0.11,0.132,0.11,0.05,0.408,0.452,1.1,0.9,0.4,0.9,0.5,NYK
+22020,201565,Derrick Rose,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.268,35,0.381,0.968,0.434,0.15,0.096,0.14,0.04,0.456,0.475,3.6,3.5,1.2,2.8,1.6,NYK
+22020,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.379,64,0.333,0.926,0.443,0.1,0.133,0.1,0.02,0.422,0.5,2.1,2.0,0.7,1.7,0.9,NYK
+22020,1629628,RJ Barrett,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.599,72,0.186,0.862,0.408,0.13,0.138,0.11,0.03,0.409,0.454,2.2,1.9,0.7,1.7,1.0,NYK
+22020,202692,Alec Burks,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.417,49,0.347,0.914,0.427,0.17,0.132,0.14,0.03,0.444,0.473,3.1,2.8,1.0,2.2,1.3,NYK
+22020,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.713,65,0.328,0.81,0.404,0.1,0.177,0.08,0.01,0.376,0.443,3.5,2.8,1.0,2.6,1.5,NYK
+22020,203901,Elfrid Payton,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.683,63,0.423,0.826,0.393,0.08,0.155,0.07,0.0,0.376,0.444,4.1,3.4,1.2,3.1,1.9,NYK

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629028,Deandre Ayton,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.857,54,0.013,0.75,0.333,0.0,0.0,0.0,0.0,0.333,0.375,0.2,0.2,0.1,0.2,0.1,POR
+22023,1641712,Rayan Rupert,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.775,30,0.066,0.818,0.3,0.273,0.0,0.273,0.182,0.364,0.3,0.4,0.3,0.1,0.3,0.2,POR
+22023,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.809,46,0.049,0.783,0.421,0.043,0.13,0.043,0.0,0.391,0.447,0.5,0.4,0.2,0.4,0.2,POR
+22023,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.886,54,0.058,0.677,0.276,0.032,0.065,0.032,0.032,0.258,0.345,0.6,0.4,0.1,0.5,0.4,POR
+22023,1629680,Matisse Thybulle,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.681,64,0.054,0.885,0.391,0.115,0.038,0.077,0.038,0.385,0.435,0.4,0.4,0.1,0.4,0.2,POR
+22023,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.545,70,0.041,1.0,0.381,0.087,0.043,0.087,0.043,0.391,0.476,0.3,0.3,0.1,0.3,0.2,POR
+22023,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.545,31,0.071,1.0,0.429,0.0,0.087,0.0,0.0,0.391,0.548,0.7,0.7,0.3,0.7,0.4,POR
+22023,1627763,Malcolm Brogdon,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.153,38,0.07,1.286,0.556,0.095,0.048,0.095,0.0,0.571,0.667,0.6,0.7,0.3,0.5,0.2,POR
+22023,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.319,51,0.09,1.179,0.481,0.0,0.036,0.0,0.0,0.464,0.611,0.5,0.6,0.3,0.5,0.3,POR
+22023,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.201,61,0.05,1.265,0.519,0.118,0.088,0.088,0.0,0.529,0.648,0.6,0.7,0.2,0.4,0.2,POR
+22023,1641739,Toumani Camara,1610612757,POR,Portland Trail Blazers,OffScreen,Defensive,0.095,69,0.061,1.368,0.528,0.079,0.0,0.079,0.026,0.553,0.653,0.6,0.8,0.3,0.5,0.2,POR

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.961,82,0.02,0.462,0.273,0.0,0.15,0.0,0.0,0.23,0.273,13,6,3,11,8,DET
+22021,1626168,Trey Lyles,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.888,51,0.041,0.688,0.385,0.06,0.19,0.06,0.06,0.31,0.385,16,11,5,13,8,DET
+22021,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.754,64,0.023,0.824,0.385,0.12,0.12,0.12,0.0,0.41,0.385,17,14,5,13,8,DET
+22021,1630568,Luka Garza,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.219,32,0.066,1.231,0.5,0.08,0.0,0.08,0.0,0.54,0.583,13,16,6,12,6,DET
+22021,202709,Cory Joseph,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.677,65,0.033,0.889,0.231,0.28,0.06,0.28,0.06,0.39,0.308,18,16,3,13,10,DET
+22021,203924,Jerami Grant,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.007,47,0.025,1.727,0.727,0.0,0.0,0.0,0.0,0.73,0.864,11,19,8,11,3,DET
+22021,1630165,Killian Hayes,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.301,66,0.029,1.15,0.5,0.1,0.1,0.1,0.0,0.5,0.625,20,23,8,16,8,DET
+22021,203482,Kelly Olynyk,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.017,40,0.039,1.667,0.909,0.13,0.13,0.13,0.0,0.73,1.091,15,25,10,11,1,DET
+22021,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,PRRollMan,Defensive,0.787,71,0.053,0.8,0.341,0.12,0.04,0.12,0.04,0.38,0.375,50,40,15,44,29,DET

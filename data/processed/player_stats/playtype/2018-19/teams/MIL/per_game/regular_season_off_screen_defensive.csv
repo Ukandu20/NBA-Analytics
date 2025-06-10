@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.901,81,0.008,0.667,0.273,0.0,0.08,0.0,0.0,0.25,0.364,0.1,0.1,0.0,0.1,0.1,MIL
+22018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.958,48,0.037,0.563,0.231,0.06,0.12,0.06,0.0,0.25,0.269,0.3,0.2,0.1,0.3,0.2,MIL
+22018,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.726,28,0.11,0.824,0.353,0.0,0.0,0.0,0.0,0.35,0.412,0.6,0.5,0.2,0.6,0.4,MIL
+22018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.482,67,0.03,0.944,0.353,0.06,0.0,0.06,0.0,0.39,0.412,0.3,0.3,0.1,0.3,0.2,MIL
+22018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.441,47,0.066,0.962,0.4,0.08,0.15,0.04,0.0,0.38,0.525,0.6,0.5,0.2,0.4,0.3,MIL
+22018,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.773,74,0.078,0.794,0.31,0.06,0.09,0.06,0.0,0.32,0.397,0.5,0.4,0.1,0.4,0.3,MIL
+22018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.219,58,0.076,1.12,0.409,0.08,0.08,0.04,0.04,0.4,0.568,0.4,0.5,0.2,0.4,0.2,MIL
+22018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.534,72,0.043,0.912,0.355,0.0,0.09,0.0,0.0,0.32,0.5,0.5,0.4,0.2,0.4,0.3,MIL
+22018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.737,61,0.117,0.817,0.327,0.08,0.12,0.08,0.02,0.33,0.418,1.0,0.8,0.3,0.8,0.5,MIL
+22018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.353,78,0.055,1.02,0.364,0.04,0.06,0.02,0.0,0.37,0.523,0.6,0.6,0.2,0.6,0.4,MIL
+22018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.585,77,0.079,0.893,0.34,0.02,0.04,0.02,0.0,0.34,0.453,0.7,0.6,0.2,0.7,0.5,MIL
+22018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.335,64,0.103,1.028,0.448,0.04,0.03,0.04,0.0,0.44,0.53,1.1,1.2,0.5,1.0,0.6,MIL

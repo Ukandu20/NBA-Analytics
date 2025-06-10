@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.784,9,0.139,1.206,0.467,0.088,0.029,0.059,0.0,0.5,0.6,34,41,14,30,16,CLE
+42024,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.645,8,0.248,1.111,0.458,0.037,0.074,0.037,0.0,0.444,0.604,27,30,11,24,13,CLE
+42024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.936,8,0.419,1.5,0.529,0.0,0.056,0.0,0.0,0.5,0.794,18,27,9,17,8,CLE
+42024,1629631,De'Andre Hunter,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.555,8,0.244,1.05,0.368,0.05,0.0,0.05,0.0,0.4,0.5,20,21,7,19,12,CLE
+42024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.207,9,0.26,0.808,0.28,0.0,0.038,0.0,0.0,0.269,0.42,26,21,7,25,18,CLE
+42024,1629660,Ty Jerome,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.324,9,0.173,0.895,0.353,0.053,0.053,0.0,0.0,0.368,0.441,19,17,6,17,11,CLE
+42024,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.618,5,0.125,1.083,0.455,0.0,0.083,0.0,0.0,0.417,0.591,12,13,5,11,6,CLE
+42024,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.279,9,0.395,0.867,0.357,0.0,0.067,0.0,0.0,0.333,0.464,15,13,5,14,9,CLE
+42024,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Spotup,Offensive,0.009,9,0.476,0.3,0.111,0.0,0.1,0.0,0.0,0.1,0.167,10,3,1,9,8,CLE

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.995,65,0.026,1.677,0.692,0.065,0.129,0.065,0.032,0.613,0.942,31,52,18,26,8,SAC
+22024,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.55,76,0.043,1.0,0.405,0.026,0.026,0.026,0.0,0.41,0.5,39,39,15,37,22,SAC
+22024,201942,DeMar DeRozan,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.255,77,0.031,0.796,0.333,0.122,0.0,0.122,0.041,0.388,0.333,49,39,15,45,30,SAC
+22024,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,1.0,80,0.018,2.2,0.8,0.1,0.0,0.1,0.1,0.8,1.05,10,22,8,10,2,SAC
+22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.923,32,0.027,1.294,0.438,0.118,0.0,0.118,0.059,0.471,0.594,17,22,7,16,9,SAC
+22024,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.216,43,0.061,0.773,0.333,0.0,0.045,0.0,0.0,0.318,0.405,22,17,7,21,14,SAC
+22024,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.263,45,0.009,0.8,0.222,0.2,0.0,0.2,0.1,0.3,0.278,10,8,2,9,7,SAC

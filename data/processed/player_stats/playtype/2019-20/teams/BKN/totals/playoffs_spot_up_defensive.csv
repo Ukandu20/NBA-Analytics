@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,202498,Lance Thomas,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.6,0.667,0.0,0.33,0.0,0.0,0.0,0.33,0.0,3,2,0,2,2,BKN
+42019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,2,0.27,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,BKN
+42019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,BKN
+42019,1629743,Donta Hall,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.56,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,5,6,2,5,3,BKN
+42019,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.32,0.857,0.29,0.0,0.0,0.0,0.0,0.29,0.43,7,6,2,7,5,BKN
+42019,1626147,Justin Anderson,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.5,2.25,0.75,0.0,0.0,0.0,0.0,0.75,1.12,4,9,3,4,1,BKN
+42019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.15,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.9,5,9,3,5,2,BKN
+42019,1629725,Jeremiah Martin,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.56,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.9,5,9,3,5,2,BKN
+42019,1629185,Chris Chiozza,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.29,1.5,0.6,0.0,0.17,0.0,0.0,0.5,0.9,6,9,3,5,2,BKN
+42019,204020,Tyler Johnson,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.31,1.125,0.5,0.0,0.0,0.0,0.0,0.5,0.56,8,9,4,8,4,BKN
+42019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.521,4,0.32,1.083,0.45,0.0,0.08,0.0,0.0,0.42,0.59,12,13,5,11,6,BKN
+42019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.679,4,0.29,1.0,0.42,0.07,0.14,0.07,0.07,0.36,0.54,14,14,5,12,7,BKN
+42019,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.267,4,0.39,1.241,0.46,0.03,0.0,0.03,0.0,0.48,0.61,29,36,13,28,15,BKN

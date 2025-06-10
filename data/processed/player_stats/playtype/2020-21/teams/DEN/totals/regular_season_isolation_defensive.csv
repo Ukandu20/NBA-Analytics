@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.993,47,0.076,0.345,0.18,0.034,0.21,0.034,0.0,0.172,0.18,29,10,4,22,18,DEN
+22020,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.891,19,0.074,0.647,0.29,0.059,0.12,0.059,0.0,0.294,0.32,17,11,4,14,10,DEN
+22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.072,25,0.082,1.211,0.53,0.105,0.05,0.053,0.05,0.526,0.59,19,23,9,17,8,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.923,48,0.074,0.6,0.31,0.022,0.2,0.022,0.0,0.267,0.36,45,27,11,35,24,DEN
+22020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.231,34,0.198,1.077,0.526,0.192,0.15,0.19,0.08,0.5,0.553,26,28,10,19,9,DEN
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.872,61,0.072,0.683,0.26,0.122,0.05,0.122,0.0,0.341,0.28,41,28,9,34,25,DEN
+22020,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.229,50,0.081,1.065,0.5,0.161,0.03,0.161,0.03,0.548,0.54,31,33,13,26,13,DEN
+22020,203115,Will Barton,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.034,56,0.054,1.296,0.74,0.074,0.22,0.037,0.0,0.593,0.82,27,35,14,19,5,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.293,58,0.098,1.027,0.44,0.27,0.08,0.243,0.03,0.486,0.48,37,38,11,25,14,DEN
+22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.7,57,0.112,0.792,0.34,0.125,0.08,0.125,0.0,0.396,0.36,48,38,13,38,25,DEN
+22020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.384,65,0.07,0.976,0.39,0.22,0.12,0.171,0.02,0.463,0.43,41,40,11,28,17,DEN
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.906,72,0.06,0.625,0.29,0.047,0.09,0.016,0.0,0.297,0.31,64,40,16,55,39,DEN

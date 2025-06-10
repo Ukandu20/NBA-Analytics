@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630544,Tre Mann,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.903,13,0.101,0.636,0.25,0.182,0.091,0.182,0.0,0.364,0.313,0.8,0.5,0.2,0.6,0.5,CHA
+22024,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.953,39,0.073,0.52,0.227,0.08,0.04,0.08,0.0,0.28,0.227,0.6,0.3,0.1,0.6,0.4,CHA
+22024,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.571,27,0.051,0.867,0.333,0.267,0.0,0.267,0.067,0.467,0.333,0.6,0.5,0.1,0.4,0.3,CHA
+22024,203552,Seth Curry,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.807,57,0.081,0.727,0.278,0.182,0.0,0.182,0.0,0.409,0.278,0.4,0.3,0.1,0.3,0.2,CHA
+22024,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.421,21,0.071,0.947,0.4,0.158,0.105,0.158,0.053,0.421,0.467,0.9,0.9,0.3,0.7,0.4,CHA
+22024,203995,Vasilije Micić,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.305,35,0.092,1.0,0.545,0.211,0.211,0.158,0.0,0.526,0.591,0.5,0.5,0.2,0.3,0.1,CHA
+22024,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.839,47,0.066,0.7,0.368,0.167,0.2,0.133,0.0,0.367,0.395,0.6,0.4,0.1,0.4,0.3,CHA
+22024,1629610,DaQuan Jeffries,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.163,46,0.058,1.105,0.4,0.158,0.053,0.158,0.0,0.474,0.5,0.4,0.5,0.1,0.3,0.2,CHA
+22024,1629684,Grant Williams,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.645,16,0.14,0.833,0.292,0.133,0.067,0.133,0.0,0.367,0.333,1.9,1.6,0.4,1.5,1.1,CHA
+22024,1642354,KJ Simpson,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.397,34,0.101,0.963,0.429,0.148,0.074,0.148,0.0,0.481,0.5,0.8,0.8,0.3,0.6,0.4,CHA
+22024,1641733,Nick Smith Jr.,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.088,57,0.084,1.182,0.5,0.182,0.03,0.152,0.061,0.545,0.536,0.6,0.7,0.2,0.5,0.2,CHA
+22024,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.265,64,0.062,1.026,0.441,0.103,0.051,0.103,0.026,0.462,0.5,0.6,0.6,0.2,0.5,0.3,CHA
+22024,1642275,Tidjane Salaün,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.399,56,0.128,0.959,0.45,0.122,0.082,0.122,0.02,0.469,0.488,0.9,0.8,0.3,0.7,0.4,CHA
+22024,1630182,Josh Green,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.305,68,0.072,1.0,0.415,0.143,0.061,0.122,0.041,0.449,0.463,0.7,0.7,0.2,0.6,0.4,CHA
+22024,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.014,44,0.054,1.4,0.593,0.229,0.057,0.2,0.057,0.629,0.667,0.8,1.1,0.4,0.6,0.3,CHA
+22024,1631217,Moussa Diabaté,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.441,66,0.145,0.936,0.446,0.103,0.115,0.103,0.051,0.41,0.5,1.2,1.1,0.4,1.0,0.5,CHA

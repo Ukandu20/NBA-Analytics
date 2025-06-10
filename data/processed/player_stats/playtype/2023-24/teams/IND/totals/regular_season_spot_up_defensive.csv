@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.948,12,0.276,0.75,0.286,0.063,0.063,0.063,0.0,0.313,0.393,16,12,4,14,10,IND
+22023,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.84,25,0.239,0.885,0.286,0.115,0.077,0.077,0.0,0.346,0.405,26,23,6,21,15,IND
+22023,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.095,14,0.381,1.25,0.476,0.042,0.083,0.042,0.0,0.458,0.667,24,30,10,21,11,IND
+22023,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.298,48,0.207,1.115,0.442,0.115,0.082,0.098,0.049,0.426,0.558,61,68,23,52,29,IND
+22023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.861,63,0.203,0.862,0.35,0.046,0.034,0.046,0.0,0.356,0.438,87,75,28,80,52,IND
+22023,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.081,41,0.152,1.279,0.455,0.098,0.016,0.066,0.016,0.492,0.618,61,78,25,55,30,IND
+22023,1628971,Bruce Brown,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.184,32,0.191,1.182,0.452,0.065,0.013,0.065,0.026,0.468,0.575,77,91,33,73,40,IND
+22023,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.241,57,0.178,1.14,0.447,0.081,0.058,0.081,0.023,0.453,0.572,86,98,34,76,42,IND
+22023,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.293,58,0.273,1.117,0.461,0.075,0.092,0.075,0.017,0.45,0.598,120,134,47,102,55,IND
+22023,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.72,50,0.285,0.959,0.383,0.014,0.076,0.014,0.007,0.359,0.511,145,139,51,133,82,IND
+22023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.356,80,0.261,1.095,0.415,0.066,0.058,0.058,0.022,0.416,0.549,137,150,51,123,72,IND
+22023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.589,74,0.145,1.013,0.392,0.044,0.032,0.044,0.013,0.399,0.507,158,160,58,148,90,IND
+22023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.516,68,0.303,1.038,0.41,0.038,0.043,0.038,0.016,0.405,0.523,185,192,71,173,102,IND
+22023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.707,71,0.252,0.963,0.362,0.06,0.041,0.06,0.018,0.373,0.48,217,209,72,199,127,IND

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.509,30,0.237,0.892,0.46,0.199,0.145,0.193,0.024,0.476,0.46,5.5,4.9,1.7,3.8,2.0,NOP
+22024,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.627,56,0.066,0.936,0.415,0.103,0.09,0.103,0.026,0.423,0.454,1.4,1.3,0.5,1.2,0.7,NOP
+22024,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.483,18,0.153,0.877,0.4,0.154,0.092,0.154,0.015,0.446,0.4,3.6,3.2,1.1,2.8,1.7,NOP
+22024,1627749,Dejounte Murray,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.134,31,0.129,0.667,0.317,0.119,0.143,0.107,0.012,0.345,0.325,2.7,1.8,0.6,2.0,1.4,NOP
+22024,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.192,53,0.067,0.729,0.273,0.143,0.1,0.114,0.029,0.314,0.336,1.3,1.0,0.3,1.0,0.8,NOP
+22024,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.974,56,0.058,1.216,0.484,0.135,0.054,0.135,0.027,0.514,0.597,0.7,0.8,0.3,0.6,0.3,NOP
+22024,1630527,Brandon Boston,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.089,42,0.079,0.568,0.226,0.081,0.081,0.081,0.0,0.27,0.242,0.9,0.5,0.2,0.7,0.6,NOP
+22024,203482,Kelly Olynyk,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.956,20,0.05,1.182,0.571,0.273,0.091,0.182,0.0,0.636,0.571,0.6,0.7,0.2,0.4,0.2,NOP
+22024,1628971,Bruce Brown,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.758,23,0.056,1.0,0.455,0.083,0.0,0.083,0.0,0.5,0.5,0.5,0.5,0.2,0.5,0.3,NOP
+22024,1641810,Antonio Reeves,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.041,44,0.051,0.467,0.214,0.0,0.067,0.0,0.0,0.2,0.25,0.3,0.2,0.1,0.3,0.3,NOP
+22024,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.022,56,0.029,0.368,0.083,0.158,0.211,0.105,0.0,0.211,0.125,0.3,0.1,0.0,0.2,0.2,NOP
+22024,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.103,18,0.065,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,0.6,0.3,0.2,0.5,0.3,NOP

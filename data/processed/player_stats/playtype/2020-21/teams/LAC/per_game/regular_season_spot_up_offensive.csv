@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Spotup,Offensive,0.99,57,0.404,1.426,0.524,0.048,0.055,0.044,0.015,0.511,0.736,4.8,6.8,2.3,4.4,2.1,LAC
+22020,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Spotup,Offensive,0.837,67,0.488,1.176,0.427,0.021,0.042,0.021,0.017,0.412,0.601,3.6,4.2,1.4,3.4,1.9,LAC
+22020,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Spotup,Offensive,0.952,67,0.301,1.297,0.459,0.019,0.014,0.019,0.014,0.455,0.654,3.1,4.0,1.4,3.1,1.7,LAC
+22020,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Spotup,Offensive,0.95,63,0.355,1.292,0.481,0.018,0.03,0.018,0.0,0.476,0.663,2.7,3.4,1.2,2.5,1.3,LAC
+22020,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Offensive,0.96,54,0.13,1.313,0.486,0.038,0.038,0.031,0.0,0.488,0.679,3.0,3.9,1.3,2.7,1.4,LAC
+22020,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Spotup,Offensive,0.956,52,0.14,1.302,0.48,0.057,0.025,0.05,0.025,0.484,0.65,3.1,4.0,1.4,2.9,1.5,LAC
+22020,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Spotup,Offensive,0.817,37,0.465,1.164,0.413,0.023,0.031,0.016,0.0,0.414,0.591,3.5,4.0,1.4,3.3,1.9,LAC
+22020,1629611,Terance Mann,1610612746,LAC,LA Clippers,Spotup,Offensive,0.593,67,0.26,1.045,0.434,0.054,0.071,0.036,0.009,0.42,0.545,1.7,1.7,0.6,1.5,0.8,LAC
+22020,101150,Lou Williams,1610612746,LAC,LA Clippers,Spotup,Offensive,0.768,42,0.15,1.134,0.446,0.146,0.085,0.122,0.024,0.476,0.554,2.0,2.2,0.7,1.5,0.9,LAC
+22020,202335,Patrick Patterson,1610612746,LAC,LA Clippers,Spotup,Offensive,0.53,38,0.481,1.011,0.369,0.011,0.045,0.011,0.0,0.36,0.53,2.3,2.4,0.8,2.2,1.4,LAC
+22020,201586,Serge Ibaka,1610612746,LAC,LA Clippers,Spotup,Offensive,0.579,41,0.179,1.039,0.392,0.039,0.013,0.039,0.013,0.403,0.514,1.9,2.0,0.7,1.8,1.1,LAC
+22020,200765,Rajon Rondo,1610612746,LAC,LA Clippers,Spotup,Offensive,0.968,18,0.211,1.344,0.571,0.0,0.125,0.0,0.0,0.5,0.768,1.8,2.4,0.9,1.6,0.7,LAC
+22020,202326,DeMarcus Cousins,1610612746,LAC,LA Clippers,Spotup,Offensive,0.94,16,0.107,1.286,0.538,0.0,0.071,0.0,0.0,0.5,0.692,0.9,1.1,0.4,0.8,0.4,LAC

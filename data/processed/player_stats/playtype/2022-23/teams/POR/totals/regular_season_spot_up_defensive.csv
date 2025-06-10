@@ -1,0 +1,22 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630219,Skylar Mays,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.823,6,0.271,0.923,0.27,0.15,0.0,0.15,0.0,0.385,0.41,13,12,3,11,8,POR
+22022,1631303,Justin Minaya,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.952,4,0.405,0.8,0.29,0.07,0.0,0.07,0.0,0.333,0.39,15,12,4,14,10,POR
+22022,1627853,Ryan Arcidiacono,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.073,9,0.5,1.294,0.47,0.0,0.0,0.0,0.0,0.471,0.65,17,22,8,17,9,POR
+22022,1631466,Nate Williams,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.157,5,0.435,1.2,0.35,0.2,0.0,0.2,0.05,0.45,0.5,20,24,6,17,11,POR
+22022,1628995,Kevin Knox II,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.212,21,0.389,1.162,0.44,0.08,0.027,0.08,0.03,0.459,0.57,37,43,15,34,19,POR
+22022,1631219,John Butler Jr.,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.344,19,0.519,1.095,0.38,0.17,0.048,0.17,0.02,0.452,0.49,42,46,13,34,21,POR
+22022,1627780,Gary Payton II,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.0,15,0.268,1.885,0.71,0.04,0.038,0.04,0.0,0.692,1.0,26,49,17,24,7,POR
+22022,1630553,Keon Johnson,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.724,40,0.357,0.961,0.39,0.04,0.098,0.0,0.0,0.373,0.51,51,49,17,44,27,POR
+22022,1629680,Matisse Thybulle,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.925,22,0.376,0.831,0.32,0.04,0.078,0.03,0.0,0.325,0.44,77,64,22,68,46,POR
+22022,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.524,56,0.323,1.032,0.44,0.05,0.079,0.03,0.0,0.429,0.55,63,65,24,55,31,POR
+22022,1629629,Cam Reddish,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.838,20,0.477,0.917,0.35,0.06,0.095,0.05,0.01,0.345,0.48,84,77,25,72,47,POR
+22022,1626159,Justise Winslow,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.548,29,0.411,1.022,0.39,0.11,0.109,0.09,0.0,0.413,0.53,92,94,28,72,44,POR
+22022,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.671,52,0.149,0.981,0.4,0.07,0.087,0.06,0.0,0.394,0.53,104,102,35,88,53,POR
+22022,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.14,54,0.415,1.213,0.45,0.03,0.031,0.03,0.02,0.441,0.62,127,154,54,121,67,POR
+22022,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.06,62,0.326,1.326,0.53,0.03,0.051,0.03,0.01,0.507,0.68,138,183,68,129,61,POR
+22022,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.396,78,0.252,1.077,0.42,0.07,0.044,0.07,0.01,0.426,0.55,183,197,69,164,95,POR
+22022,1628404,Josh Hart,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.5,51,0.356,1.04,0.39,0.06,0.08,0.06,0.03,0.382,0.54,199,207,69,176,107,POR
+22022,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.175,59,0.349,1.188,0.44,0.06,0.044,0.05,0.02,0.442,0.6,181,215,73,166,93,POR
+22022,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.856,63,0.342,0.908,0.35,0.05,0.054,0.05,0.01,0.351,0.47,239,217,76,217,141,POR
+22022,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.227,63,0.29,1.153,0.45,0.03,0.059,0.02,0.0,0.438,0.6,203,234,83,185,102,POR
+22022,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Spotup,Defensive,0.115,80,0.379,1.242,0.45,0.08,0.048,0.07,0.01,0.468,0.63,231,287,92,203,111,POR

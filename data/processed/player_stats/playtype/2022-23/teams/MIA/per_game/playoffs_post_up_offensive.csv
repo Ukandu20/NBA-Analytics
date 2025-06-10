@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.52,23,0.114,1.039,0.561,0.137,0.157,0.118,0.098,0.49,0.561,2.2,2.3,1.0,1.8,0.8,MIA
+42022,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.36,22,0.068,0.868,0.4,0.132,0.079,0.132,0.0,0.447,0.4,1.7,1.5,0.5,1.4,0.8,MIA
+42022,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,23,0.017,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1,MIA
+42022,201567,Kevin Love,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,20,0.074,0.4,0.111,0.1,0.0,0.0,0.0,0.2,0.111,0.5,0.2,0.1,0.5,0.4,MIA
+42022,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,23,0.004,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.1,0.0,0.0,0.0,MIA
+42022,203469,Cody Zeller,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,21,0.018,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.1,0.0,0.0,0.0,MIA
+42022,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,8,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,MIA

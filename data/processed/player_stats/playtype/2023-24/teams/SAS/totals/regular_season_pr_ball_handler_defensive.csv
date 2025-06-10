@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630561,David Duke Jr.,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.985,3,0.611,0.545,0.125,0.182,0.091,0.182,0.0,0.273,0.125,11,6,1,8,7,SAS
+22023,1631321,Sidy Cissoko,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.926,9,0.313,0.733,0.25,0.067,0.133,0.067,0.0,0.267,0.375,15,11,3,12,9,SAS
+22023,1628984,Devonte' Graham,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.972,18,0.5,0.615,0.273,0.077,0.077,0.077,0.0,0.308,0.288,39,24,9,33,24,SAS
+22023,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.284,15,0.608,0.966,0.477,0.119,0.136,0.102,0.0,0.475,0.523,59,57,21,44,23,SAS
+22023,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.67,45,0.299,0.866,0.404,0.09,0.119,0.09,0.06,0.373,0.465,67,58,23,57,34,SAS
+22023,1626224,Cedi Osman,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.058,70,0.272,1.099,0.553,0.05,0.119,0.04,0.01,0.505,0.618,101,111,47,85,38,SAS
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.901,68,0.408,0.759,0.404,0.077,0.191,0.064,0.0,0.373,0.429,220,167,65,161,96,SAS
+22023,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.348,55,0.482,0.95,0.426,0.134,0.112,0.128,0.034,0.43,0.468,179,170,60,141,81,SAS
+22023,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.193,72,0.375,1.0,0.479,0.071,0.133,0.066,0.005,0.45,0.541,211,211,81,169,88,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.076,69,0.456,1.077,0.526,0.131,0.122,0.117,0.032,0.5,0.564,222,239,91,173,82,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.353,77,0.489,0.947,0.453,0.073,0.121,0.068,0.02,0.427,0.508,396,375,148,327,179,SAS
+22023,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.472,74,0.431,0.922,0.458,0.087,0.147,0.087,0.021,0.424,0.507,436,402,157,343,186,SAS
+22023,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.33,66,0.594,0.956,0.471,0.084,0.116,0.076,0.023,0.446,0.508,475,454,184,391,207,SAS
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.602,71,0.576,0.887,0.431,0.053,0.119,0.048,0.011,0.402,0.478,564,500,204,473,269,SAS

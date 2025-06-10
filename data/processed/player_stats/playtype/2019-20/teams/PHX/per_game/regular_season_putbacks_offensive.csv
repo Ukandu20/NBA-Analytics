@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.485,38,0.147,1.079,0.56,0.069,0.059,0.069,0.03,0.545,0.56,2.7,2.9,1.3,2.4,1.1,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.795,66,0.067,1.261,0.622,0.174,0.087,0.174,0.065,0.609,0.622,0.7,0.9,0.3,0.6,0.2,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.522,56,0.05,1.098,0.565,0.059,0.039,0.059,0.0,0.549,0.565,0.9,1.0,0.5,0.8,0.4,PHX
+22019,203382,Aron Baynes,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.184,42,0.116,0.889,0.442,0.037,0.019,0.037,0.019,0.444,0.442,1.3,1.1,0.5,1.2,0.7,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.925,73,0.044,1.37,0.762,0.148,0.148,0.148,0.074,0.667,0.762,0.4,0.5,0.2,0.3,0.1,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.952,57,0.048,1.409,0.667,0.227,0.045,0.227,0.091,0.682,0.667,0.4,0.5,0.2,0.3,0.1,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.863,39,0.042,1.313,0.625,0.063,0.0,0.063,0.063,0.625,0.625,0.4,0.5,0.3,0.4,0.2,PHX
+22019,1627767,Cheick Diallo,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.712,47,0.078,1.2,0.615,0.067,0.067,0.067,0.0,0.6,0.615,0.3,0.4,0.2,0.3,0.1,PHX
+22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.177,65,0.018,0.882,0.438,0.0,0.059,0.0,0.0,0.412,0.469,0.3,0.2,0.1,0.2,0.1,PHX
+22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.948,58,0.035,1.4,0.667,0.0,0.1,0.0,0.0,0.6,0.778,0.2,0.2,0.1,0.2,0.1,PHX
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.33,71,0.007,1.0,0.5,0.0,0.077,0.0,0.0,0.462,0.542,0.2,0.2,0.1,0.2,0.1,PHX

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203953,Jabari Parker,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.91,39,0.042,0.625,0.25,0.12,0.125,0.06,0.0,0.313,0.33,0.4,0.3,0.1,0.3,0.2,CHI
+22018,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.16,74,0.014,1.143,0.5,0.21,0.0,0.21,0.07,0.5,0.54,0.2,0.2,0.1,0.2,0.1,CHI
+22018,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.0,15,0.081,1.75,0.75,0.0,0.0,0.0,0.0,0.75,0.88,0.8,1.4,0.6,0.8,0.2,CHI
+22018,1627789,Timothe Luwawu-Cabarrot,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.099,29,0.114,1.222,0.53,0.06,0.0,0.06,0.0,0.556,0.59,0.6,0.8,0.3,0.6,0.3,CHI
+22018,1629102,Brandon Sampson,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.084,14,0.268,1.263,0.56,0.11,0.105,0.11,0.05,0.526,0.69,1.4,1.7,0.6,1.1,0.5,CHI
+22018,1627782,Wayne Selden,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.038,43,0.06,1.35,0.58,0.05,0.05,0.05,0.05,0.55,0.71,0.5,0.6,0.3,0.4,0.2,CHI
+22018,1626166,Cameron Payne,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.064,31,0.121,1.286,0.5,0.1,0.048,0.1,0.0,0.524,0.64,0.7,0.9,0.3,0.6,0.3,CHI
+22018,1628469,Antonio Blakeney,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.351,57,0.124,1.0,0.5,0.11,0.259,0.11,0.04,0.407,0.64,0.5,0.5,0.2,0.3,0.2,CHI
+22018,1628990,Chandler Hutchison,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.225,44,0.097,1.074,0.44,0.04,0.0,0.04,0.04,0.444,0.54,0.6,0.7,0.3,0.6,0.3,CHI
+22018,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.737,52,0.063,0.784,0.29,0.05,0.027,0.05,0.0,0.324,0.38,0.7,0.6,0.2,0.7,0.5,CHI
+22018,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.546,38,0.096,0.886,0.39,0.07,0.068,0.07,0.0,0.409,0.45,1.2,1.0,0.4,1.0,0.6,CHI
+22018,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.665,46,0.099,0.833,0.42,0.04,0.13,0.04,0.0,0.37,0.48,1.2,1.0,0.4,1.0,0.6,CHI
+22018,1627885,Shaquille Harrison,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.529,73,0.102,0.9,0.42,0.07,0.117,0.07,0.02,0.4,0.48,0.8,0.7,0.3,0.7,0.4,CHI
+22018,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.127,81,0.085,1.17,0.5,0.09,0.094,0.06,0.02,0.491,0.6,0.7,0.8,0.3,0.5,0.3,CHI
+22018,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Handoff,Defensive,0.543,63,0.131,0.888,0.4,0.03,0.101,0.01,0.0,0.382,0.47,1.4,1.3,0.5,1.2,0.7,CHI

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.922,76,0.352,1.262,0.443,0.029,0.025,0.029,0.0,0.446,0.633,408,515,171,386,215,BOS
+22024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.896,80,0.331,1.245,0.446,0.021,0.034,0.021,0.012,0.436,0.639,326,406,139,312,173,BOS
+22024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.972,71,0.401,1.35,0.48,0.005,0.005,0.0,0.0,0.48,0.677,200,270,95,198,103,BOS
+22024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.588,62,0.354,1.066,0.397,0.037,0.041,0.033,0.004,0.401,0.54,242,258,89,224,135,BOS
+22024,201143,Al Horford,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.705,60,0.425,1.126,0.402,0.004,0.04,0.004,0.004,0.386,0.584,223,251,86,214,128,BOS
+22024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.72,72,0.1,1.13,0.439,0.049,0.07,0.043,0.005,0.432,0.591,185,209,72,164,92,BOS
+22024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.71,42,0.196,1.128,0.406,0.028,0.035,0.021,0.007,0.404,0.571,141,159,54,133,79,BOS
+22024,1631248,Baylor Scheierman,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.945,31,0.375,1.292,0.467,0.042,0.021,0.021,0.0,0.479,0.656,48,62,21,45,24,BOS
+22024,1628470,Torrey Craig,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.332,17,0.421,0.958,0.348,0.0,0.042,0.0,0.0,0.333,0.5,24,23,8,23,15,BOS
+22024,1630531,Jaden Springer,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.434,26,0.396,1.0,0.333,0.053,0.0,0.053,0.0,0.368,0.472,19,19,6,18,12,BOS

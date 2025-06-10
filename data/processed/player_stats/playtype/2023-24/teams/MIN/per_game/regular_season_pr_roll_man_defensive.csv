@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.654,42,0.051,1.0,0.5,0.0,0.2,0.0,0.0,0.4,0.625,0.2,0.2,0.1,0.2,0.1,MIN
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.569,79,0.023,1.053,0.444,0.0,0.053,0.0,0.0,0.421,0.556,0.2,0.3,0.1,0.2,0.1,MIN
+22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.486,78,0.031,1.1,0.556,0.0,0.1,0.0,0.0,0.5,0.611,0.3,0.3,0.1,0.2,0.1,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.123,72,0.018,1.412,0.571,0.118,0.059,0.118,0.0,0.588,0.714,0.2,0.3,0.1,0.2,0.1,MIN
+22023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.381,81,0.03,1.182,0.5,0.045,0.045,0.0,0.0,0.5,0.625,0.3,0.3,0.1,0.2,0.1,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.358,81,0.047,1.194,0.5,0.097,0.097,0.097,0.032,0.484,0.615,0.4,0.5,0.2,0.3,0.2,MIN
+22023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.308,76,0.048,1.226,0.536,0.0,0.097,0.0,0.0,0.484,0.679,0.4,0.5,0.2,0.4,0.2,MIN
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.246,61,0.061,1.265,0.467,0.082,0.02,0.082,0.02,0.49,0.644,0.8,1.0,0.3,0.7,0.4,MIN
+22023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.45,75,0.079,1.127,0.472,0.088,0.049,0.088,0.01,0.49,0.567,1.4,1.5,0.6,1.2,0.6,MIN

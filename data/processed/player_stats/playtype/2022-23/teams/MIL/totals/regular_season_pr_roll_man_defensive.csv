@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.993,81,0.014,0.2,0.1,0.0,0.0,0.0,0.0,0.1,0.1,10,2,1,10,9,MIL
+22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.996,61,0.047,0.15,0.05,0.0,0.0,0.0,0.0,0.05,0.08,20,3,1,20,19,MIL
+22022,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.277,38,0.06,1.182,0.75,0.09,0.27,0.09,0.09,0.55,0.81,11,13,6,8,2,MIL
+22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.893,72,0.033,0.727,0.27,0.0,0.0,0.0,0.0,0.27,0.36,22,16,6,22,16,MIL
+22022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.684,67,0.023,0.913,0.43,0.04,0.09,0.04,0.04,0.39,0.5,23,21,9,21,12,MIL
+22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.853,63,0.044,0.758,0.31,0.03,0.09,0.03,0.0,0.3,0.4,33,25,9,29,20,MIL
+22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.389,70,0.059,1.105,0.48,0.05,0.13,0.05,0.05,0.42,0.62,38,42,16,33,17,MIL
+22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.478,78,0.078,1.062,0.45,0.05,0.05,0.05,0.02,0.45,0.54,130,138,54,120,66,MIL

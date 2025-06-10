@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.603,12,0.327,0.905,0.397,0.162,0.095,0.135,0.041,0.432,0.414,6.2,5.6,1.9,4.8,2.9,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.683,12,0.265,0.923,0.513,0.096,0.154,0.077,0.019,0.462,0.513,4.3,4.0,1.7,3.3,1.6,PHI
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.968,12,0.092,1.357,0.455,0.143,0.071,0.143,0.0,0.5,0.636,1.2,1.6,0.4,0.9,0.5,PHI
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.286,12,0.133,0.773,0.571,0.091,0.318,0.091,0.045,0.409,0.571,1.8,1.4,0.7,1.2,0.5,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.344,7,0.263,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,1.4,1.1,0.6,1.4,0.9,PHI
+42018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.344,9,0.357,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,1.1,0.9,0.4,1.1,0.7,PHI
+42018,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,4,0.381,0.625,0.25,0.125,0.0,0.125,0.125,0.25,0.313,2.0,1.3,0.5,2.0,1.5,PHI
+42018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,10,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,11,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.0,11,0.021,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.2,0.2,PHI

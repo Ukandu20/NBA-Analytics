@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.266,58,0.098,0.778,0.37,0.151,0.135,0.135,0.016,0.373,0.413,2.2,1.7,0.6,1.6,1.0,TOR
+22024,1630193,Immanuel Quickley,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.625,33,0.113,1.0,0.389,0.048,0.081,0.048,0.0,0.387,0.519,1.9,1.9,0.6,1.6,1.0,TOR
+22024,1641711,Gradey Dick,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.176,54,0.094,0.707,0.295,0.08,0.107,0.08,0.0,0.32,0.352,1.4,1.0,0.3,1.1,0.8,TOR
+22024,1642266,Ja'Kobe Walter,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.824,52,0.067,1.125,0.448,0.063,0.031,0.063,0.0,0.469,0.552,0.6,0.7,0.3,0.6,0.3,TOR
+22024,1642419,Jamison Battle,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.982,59,0.066,1.4,0.619,0.04,0.12,0.04,0.0,0.56,0.786,0.4,0.6,0.2,0.4,0.1,TOR
+22024,1630534,Ochai Agbaji,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.258,64,0.069,0.762,0.316,0.024,0.071,0.024,0.0,0.31,0.408,0.7,0.5,0.2,0.6,0.4,TOR
+22024,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.211,65,0.031,0.744,0.324,0.116,0.116,0.116,0.023,0.326,0.368,0.7,0.5,0.2,0.5,0.4,TOR
+22024,1642347,Jamal Shead,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.082,75,0.071,0.543,0.22,0.065,0.065,0.065,0.022,0.239,0.244,0.6,0.3,0.1,0.5,0.4,TOR
+22024,1630558,Davion Mitchell,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.505,44,0.051,0.941,0.5,0.059,0.176,0.059,0.059,0.412,0.571,0.4,0.4,0.2,0.3,0.2,TOR
+22024,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.473,50,0.032,0.929,0.417,0.071,0.071,0.071,0.0,0.429,0.458,0.3,0.3,0.1,0.2,0.1,TOR
+22024,1630639,A.J. Lawson,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.354,26,0.056,0.846,0.444,0.154,0.231,0.154,0.077,0.385,0.5,0.5,0.4,0.2,0.3,0.2,TOR
+22024,1631197,Jared Rhoden,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.047,10,0.111,0.455,0.25,0.0,0.273,0.0,0.0,0.182,0.313,1.1,0.5,0.2,0.8,0.6,TOR

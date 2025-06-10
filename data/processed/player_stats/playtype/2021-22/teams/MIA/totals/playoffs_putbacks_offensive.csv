@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,OffRebound,Offensive,1.0,18,0.106,1.808,0.84,0.192,0.0,0.192,0.154,0.846,0.84,26,47,21,25,4,MIA
+42021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.75,17,0.05,1.2,0.53,0.2,0.05,0.15,0.0,0.6,0.53,20,24,8,15,7,MIA
+42021,1629622,Max Strus,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,18,0.033,1.857,1.0,0.0,0.14,0.0,0.0,0.857,1.08,7,13,6,6,0,MIA
+42021,200782,P.J. Tucker,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.75,18,0.077,1.2,0.62,0.2,0.0,0.1,0.0,0.6,0.62,10,12,5,8,3,MIA
+42021,1628997,Caleb Martin,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,17,0.066,1.5,0.8,0.167,0.17,0.167,0.167,0.667,0.8,6,9,4,5,1,MIA
+42021,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.08,14,0.193,0.727,0.33,0.182,0.0,0.091,0.0,0.455,0.33,11,8,3,9,6,MIA
+42021,1629639,Tyler Herro,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,15,0.023,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,MIA
+42021,203506,Victor Oladipo,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,15,0.005,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1,0,0,0,0,MIA
+42021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,10,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42021,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,9,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA
+42021,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,18,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,MIA
+42021,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,8,0.2,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,MIA

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.672,81,0.499,0.893,0.44,0.052,0.136,0.041,0.007,0.403,0.496,11.4,10.1,4.1,9.3,5.2,BKN
+22018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.854,68,0.374,0.986,0.47,0.204,0.171,0.181,0.048,0.466,0.521,6.2,6.1,2.0,4.2,2.2,BKN
+22018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.763,40,0.38,0.934,0.441,0.109,0.127,0.096,0.017,0.437,0.5,5.7,5.3,2.0,4.5,2.5,BKN
+22018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.553,56,0.398,0.843,0.354,0.126,0.143,0.103,0.004,0.381,0.412,4.0,3.4,1.0,2.9,1.9,BKN
+22018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.447,76,0.032,0.8,0.368,0.133,0.233,0.133,0.0,0.367,0.421,0.4,0.3,0.1,0.3,0.2,BKN
+22018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.107,67,0.05,0.579,0.241,0.105,0.132,0.079,0.0,0.289,0.259,0.6,0.3,0.1,0.4,0.3,BKN
+22018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.76,63,0.027,0.933,0.385,0.067,0.067,0.067,0.0,0.4,0.462,0.2,0.2,0.1,0.2,0.1,BKN
+22018,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.055,18,0.26,0.5,0.188,0.154,0.231,0.115,0.0,0.269,0.219,1.4,0.7,0.2,0.9,0.7,BKN
+22018,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.101,43,0.032,0.571,0.2,0.071,0.214,0.071,0.0,0.214,0.3,0.3,0.2,0.0,0.2,0.2,BKN
+22018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,PRBallHandler,Offensive,0.009,59,0.025,0.25,0.0,0.125,0.375,0.125,0.0,0.125,0.0,0.3,0.1,0.0,0.1,0.1,BKN

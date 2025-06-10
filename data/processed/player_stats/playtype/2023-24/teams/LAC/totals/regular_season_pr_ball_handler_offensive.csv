@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,201935,James Harden,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.759,72,0.335,0.953,0.42,0.126,0.189,0.118,0.034,0.391,0.511,381,363,115,274,159,LAC
+22023,202331,Paul George,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.948,74,0.186,1.09,0.505,0.104,0.143,0.093,0.029,0.466,0.599,279,304,110,218,108,LAC
+22023,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.876,69,0.164,1.004,0.492,0.079,0.14,0.07,0.017,0.454,0.546,229,230,90,183,93,LAC
+22023,1626181,Norman Powell,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.401,76,0.125,0.814,0.361,0.097,0.071,0.088,0.027,0.381,0.387,113,92,35,97,62,LAC
+22023,1630538,Bones Hyland,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.678,37,0.292,0.921,0.457,0.034,0.191,0.022,0.011,0.382,0.55,89,82,32,70,38,LAC
+22023,201566,Russell Westbrook,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.147,68,0.115,0.634,0.379,0.079,0.277,0.079,0.01,0.317,0.394,101,64,25,66,41,LAC
+22023,1629599,Amir Coffey,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.612,70,0.072,0.9,0.429,0.067,0.067,0.067,0.067,0.4,0.446,30,27,12,28,16,LAC
+22023,1630527,Brandon Boston,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.382,32,0.15,0.8,0.333,0.133,0.067,0.1,0.0,0.4,0.354,30,24,8,24,16,LAC
+22023,1629611,Terance Mann,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.922,75,0.029,1.059,0.429,0.118,0.059,0.118,0.0,0.471,0.536,17,18,6,14,8,LAC

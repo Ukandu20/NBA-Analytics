@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.727,5,0.269,1.051,0.414,0.179,0.077,0.179,0.0,0.487,0.483,39,41,12,29,17,LAL
+42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.667,5,0.145,1.0,0.4,0.118,0.0,0.118,0.0,0.471,0.467,17,17,6,15,9,LAL
+42024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.667,5,0.111,1.0,0.571,0.0,0.3,0.0,0.0,0.4,0.714,10,10,4,7,3,LAL

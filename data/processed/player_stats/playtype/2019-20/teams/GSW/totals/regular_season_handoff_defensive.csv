@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.663,12,0.076,0.833,0.429,0.17,0.25,0.08,0.0,0.417,0.429,12,10,3,7,4,GSW
+22019,1628980,Jacob Evans,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.227,27,0.073,1.077,0.714,0.08,0.385,0.08,0.0,0.462,0.786,13,14,5,7,2,GSW
+22019,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.487,43,0.048,0.917,0.316,0.17,0.042,0.17,0.0,0.417,0.368,24,22,6,19,13,GSW
+22019,1629065,Ky Bowman,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.217,45,0.061,1.08,0.476,0.12,0.08,0.12,0.04,0.48,0.5,25,27,10,21,11,GSW
+22019,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.287,60,0.058,1.037,0.409,0.11,0.111,0.07,0.04,0.407,0.568,27,28,9,22,13,GSW
+22019,1626156,D'Angelo Russell,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.084,33,0.077,1.231,0.476,0.19,0.115,0.15,0.12,0.462,0.571,26,32,10,21,11,GSW
+22019,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.339,57,0.099,1.0,0.464,0.03,0.121,0.03,0.0,0.424,0.554,33,33,13,28,15,GSW
+22019,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.469,49,0.08,0.923,0.469,0.05,0.154,0.03,0.03,0.41,0.531,39,36,15,32,17,GSW
+22019,202692,Alec Burks,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.165,48,0.082,1.108,0.469,0.11,0.027,0.08,0.0,0.514,0.531,37,41,15,32,17,GSW
+22019,203922,Glenn Robinson III,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.048,48,0.071,1.302,0.6,0.09,0.116,0.09,0.02,0.558,0.729,43,56,21,35,14,GSW

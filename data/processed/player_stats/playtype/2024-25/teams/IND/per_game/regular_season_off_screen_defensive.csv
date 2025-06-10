@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631245,Quenton Jackson,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.317,23,0.058,1.1,0.25,0.4,0.2,0.3,0.0,0.5,0.375,0.4,0.5,0.0,0.2,0.1,IND
+22024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.7,78,0.045,0.818,0.368,0.091,0.091,0.091,0.045,0.364,0.421,0.3,0.2,0.1,0.2,0.2,IND
+22024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.801,64,0.07,0.75,0.304,0.071,0.107,0.071,0.0,0.321,0.37,0.9,0.7,0.2,0.7,0.5,IND
+22024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.089,73,0.055,1.31,0.463,0.024,0.0,0.024,0.0,0.476,0.646,0.6,0.8,0.3,0.6,0.3,IND

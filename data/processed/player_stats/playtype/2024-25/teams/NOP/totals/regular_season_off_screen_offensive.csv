@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.614,56,0.097,1.035,0.412,0.078,0.052,0.07,0.017,0.426,0.52,115,119,42,102,60,NOP
+22024,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.241,56,0.127,0.783,0.312,0.012,0.06,0.012,0.0,0.301,0.403,83,65,24,77,53,NOP
+22024,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.361,53,0.066,0.87,0.362,0.058,0.101,0.058,0.0,0.362,0.448,69,60,21,58,37,NOP
+22024,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.382,18,0.068,0.897,0.423,0.034,0.069,0.0,0.0,0.379,0.5,29,26,11,26,15,NOP
+22024,1630527,Brandon Boston,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.832,42,0.036,1.176,0.4,0.118,0.0,0.059,0.0,0.471,0.533,17,20,6,15,9,NOP
+22024,1641810,Antonio Reeves,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.75,44,0.061,1.111,0.467,0.056,0.111,0.056,0.0,0.444,0.633,18,20,7,15,8,NOP
+22024,1627749,Dejounte Murray,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.111,31,0.022,0.714,0.333,0.071,0.071,0.071,0.0,0.357,0.333,14,10,4,12,8,NOP
+22024,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.036,56,0.017,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,11,6,2,10,8,NOP

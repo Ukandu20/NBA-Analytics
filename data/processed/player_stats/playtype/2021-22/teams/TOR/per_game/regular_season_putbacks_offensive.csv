@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.35,80,0.203,1.007,0.458,0.15,0.028,0.147,0.021,0.517,0.458,1.8,1.8,0.7,1.5,0.8,TOR
+22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.804,74,0.091,1.274,0.641,0.11,0.038,0.113,0.019,0.642,0.652,1.4,1.8,0.8,1.2,0.4,TOR
+22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.181,73,0.118,0.886,0.462,0.1,0.034,0.114,0.034,0.455,0.462,1.2,1.1,0.5,1.1,0.6,TOR
+22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.273,68,0.048,0.96,0.464,0.11,0.04,0.093,0.067,0.467,0.464,1.1,1.1,0.5,1.0,0.5,TOR
+22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.56,48,0.055,1.13,0.559,0.24,0.087,0.217,0.065,0.543,0.574,1.0,1.1,0.4,0.7,0.3,TOR
+22021,203920,Khem Birch,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.19,55,0.212,0.891,0.413,0.15,0.055,0.145,0.036,0.436,0.413,1.0,0.9,0.3,0.8,0.5,TOR
+22021,1630625,Dalano Banton,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.376,64,0.084,1.043,0.579,0.09,0.087,0.087,0.0,0.565,0.579,0.4,0.4,0.2,0.3,0.1,TOR
+22021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.423,65,0.011,1.067,0.385,0.13,0.067,0.133,0.067,0.4,0.5,0.2,0.2,0.1,0.2,0.1,TOR
+22021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.648,70,0.009,1.182,0.5,0.09,0.091,0.091,0.091,0.455,0.6,0.2,0.2,0.1,0.1,0.1,TOR
+22021,1629004,Svi Mykhailiuk,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.116,56,0.039,0.818,0.375,0.18,0.091,0.182,0.0,0.455,0.375,0.2,0.2,0.1,0.1,0.1,TOR

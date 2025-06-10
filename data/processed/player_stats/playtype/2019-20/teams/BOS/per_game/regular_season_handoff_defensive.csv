@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.932,69,0.022,0.6,0.167,0.2,0.2,0.2,0.0,0.3,0.25,0.1,0.1,0.0,0.1,0.1,BOS
+22019,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.955,69,0.058,0.524,0.25,0.05,0.19,0.0,0.0,0.238,0.281,0.3,0.2,0.1,0.2,0.2,BOS
+22019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.771,56,0.063,0.756,0.333,0.07,0.122,0.07,0.0,0.341,0.394,0.7,0.6,0.2,0.6,0.4,BOS
+22019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.644,71,0.089,0.844,0.333,0.2,0.133,0.16,0.0,0.422,0.383,0.6,0.5,0.1,0.4,0.3,BOS
+22019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.693,52,0.099,0.809,0.368,0.02,0.17,0.02,0.0,0.319,0.474,0.9,0.7,0.3,0.7,0.5,BOS
+22019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.587,57,0.076,0.87,0.395,0.09,0.13,0.09,0.02,0.389,0.453,0.9,0.8,0.3,0.8,0.5,BOS
+22019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.481,66,0.095,0.921,0.4,0.1,0.111,0.1,0.08,0.365,0.464,1.0,0.9,0.3,0.8,0.5,BOS
+22019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.319,60,0.092,1.015,0.389,0.09,0.106,0.08,0.02,0.394,0.528,1.1,1.1,0.4,0.9,0.6,BOS

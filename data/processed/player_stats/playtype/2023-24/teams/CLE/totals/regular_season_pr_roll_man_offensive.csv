@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.705,77,0.245,1.271,0.661,0.162,0.064,0.158,0.045,0.639,0.661,266,338,144,218,74,CLE
+22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.347,50,0.17,1.008,0.527,0.148,0.107,0.131,0.016,0.533,0.527,122,123,49,93,44,CLE
+22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.598,70,0.041,1.194,0.469,0.028,0.083,0.028,0.0,0.444,0.656,36,43,15,32,17,CLE
+22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.355,82,0.056,1.024,0.447,0.024,0.049,0.024,0.0,0.439,0.539,41,42,17,38,21,CLE
+22023,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.482,49,0.158,1.111,0.682,0.037,0.148,0.037,0.0,0.556,0.682,27,30,15,22,7,CLE
+22023,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.691,61,0.045,1.263,0.421,0.053,0.0,0.053,0.053,0.421,0.605,19,24,8,19,11,CLE
+22023,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.112,54,0.091,0.792,0.238,0.125,0.0,0.125,0.0,0.333,0.333,24,19,5,21,16,CLE

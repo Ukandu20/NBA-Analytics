@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.599,68,0.302,1.047,0.391,0.025,0.044,0.025,0.007,0.385,0.539,275,288,101,258,157,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.7,67,0.372,1.096,0.419,0.035,0.088,0.035,0.013,0.395,0.586,228,250,85,203,118,LAL
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.591,61,0.198,1.044,0.391,0.049,0.029,0.044,0.015,0.4,0.521,205,214,75,192,117,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.288,61,0.39,0.893,0.315,0.034,0.04,0.034,0.006,0.322,0.442,177,158,52,165,113,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.738,58,0.306,1.112,0.414,0.032,0.08,0.032,0.0,0.4,0.599,125,139,46,111,65,LAL
+22020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.609,58,0.449,1.053,0.342,0.061,0.031,0.061,0.008,0.366,0.5,131,138,41,120,79,LAL
+22020,201188,Marc Gasol,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.903,52,0.306,1.244,0.44,0.037,0.061,0.012,0.012,0.427,0.653,82,102,33,75,42,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.843,45,0.074,1.185,0.446,0.049,0.062,0.049,0.025,0.42,0.622,81,96,33,74,41,LAL
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.189,36,0.135,0.8,0.32,0.048,0.038,0.048,0.01,0.333,0.392,105,84,31,97,66,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.097,65,0.179,0.681,0.277,0.078,0.069,0.078,0.017,0.293,0.332,116,79,28,101,73,LAL
+22020,203463,Ben McLemore,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.625,21,0.395,1.063,0.383,0.0,0.063,0.0,0.0,0.359,0.567,64,68,23,60,37,LAL
+22020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.573,69,0.036,1.036,0.435,0.214,0.036,0.214,0.071,0.5,0.435,28,29,10,23,13,LAL
+22020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.129,21,0.067,0.722,0.357,0.278,0.111,0.278,0.167,0.333,0.357,18,13,5,14,9,LAL

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.826,67,0.033,0.722,0.333,0.0,0.167,0.0,0.0,0.278,0.433,0.3,0.2,0.1,0.2,0.1,SAS
+22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.168,63,0.042,1.105,0.438,0.11,0.105,0.11,0.05,0.421,0.531,0.3,0.3,0.1,0.3,0.1,SAS
+22019,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.865,61,0.11,0.686,0.323,0.03,0.086,0.03,0.0,0.314,0.371,0.6,0.4,0.2,0.5,0.3,SAS
+22019,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.061,57,0.094,1.273,0.55,0.05,0.045,0.0,0.0,0.5,0.7,0.4,0.5,0.2,0.4,0.2,SAS
+22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.739,66,0.075,0.775,0.4,0.02,0.1,0.02,0.0,0.375,0.414,0.6,0.5,0.2,0.5,0.3,SAS
+22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.51,66,0.076,0.906,0.432,0.06,0.113,0.04,0.0,0.415,0.5,0.8,0.7,0.3,0.7,0.4,SAS
+22019,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.674,68,0.093,0.828,0.36,0.07,0.069,0.07,0.0,0.379,0.42,0.9,0.7,0.3,0.7,0.5,SAS
+22019,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.494,63,0.107,0.915,0.385,0.05,0.068,0.03,0.0,0.39,0.462,0.9,0.9,0.3,0.8,0.5,SAS
+22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.187,68,0.075,1.094,0.453,0.08,0.125,0.08,0.03,0.422,0.585,0.9,1.0,0.4,0.8,0.4,SAS

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHX
+42021,1628988,Aaron Holiday,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,6,0.556,1.2,0.5,0.2,0.0,0.0,0.0,0.4,0.75,5,6,2,4,2,PHX
+42021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,9,0.171,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,6,9,3,6,3,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,12,0.167,1.0,0.38,0.11,0.0,0.11,0.0,0.33,0.56,9,9,3,8,5,PHX
+42021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.0,9,0.2,1.5,0.62,0.0,0.0,0.0,0.0,0.62,0.75,8,12,5,8,3,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.584,12,0.175,1.0,0.33,0.07,0.07,0.07,0.0,0.36,0.5,14,14,4,12,8,PHX
+42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.176,13,0.364,1.25,0.47,0.0,0.06,0.0,0.0,0.44,0.67,16,20,7,15,8,PHX
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.767,13,0.147,0.875,0.31,0.03,0.06,0.03,0.0,0.31,0.45,32,28,9,29,20,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.727,13,0.192,0.897,0.31,0.1,0.1,0.1,0.03,0.33,0.44,39,35,10,32,22,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.857,13,0.307,0.814,0.29,0.05,0.02,0.02,0.02,0.3,0.39,43,35,12,41,29,PHX
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.368,13,0.289,1.114,0.4,0.14,0.06,0.14,0.06,0.43,0.52,35,39,12,30,18,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.256,10,0.5,1.16,0.44,0.08,0.02,0.08,0.0,0.46,0.6,50,58,20,45,25,PHX
+42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Spotup,Defensive,0.12,13,0.372,1.311,0.48,0.07,0.09,0.07,0.04,0.44,0.69,45,59,19,40,21,PHX

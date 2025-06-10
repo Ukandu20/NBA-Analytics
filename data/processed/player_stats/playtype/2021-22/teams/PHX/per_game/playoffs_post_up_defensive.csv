@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,13,0.017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,PHX
+42021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,9,0.025,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.0,0.0,0.0,0.0,PHX
+42021,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,7,0.4,1.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.3,0.0,0.0,0.1,0.1,PHX
+42021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,9,0.057,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.0,0.2,0.2,0.0,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,12,0.056,1.333,1.0,0.33,0.33,0.33,0.0,0.67,1.0,0.3,0.0,0.1,0.1,0.0,PHX
+42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,13,0.091,1.5,0.67,0.25,0.0,0.0,0.0,0.75,0.67,0.3,0.0,0.2,0.2,0.1,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,13,0.044,0.889,0.29,0.22,0.0,0.11,0.0,0.44,0.29,0.7,1.0,0.2,0.5,0.4,PHX
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.696,13,0.091,0.818,0.44,0.09,0.18,0.09,0.09,0.36,0.44,0.8,1.0,0.3,0.7,0.4,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,10,0.08,1.25,0.4,0.38,0.0,0.25,0.0,0.62,0.4,0.8,1.0,0.2,0.5,0.3,PHX
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.174,13,0.05,1.182,0.5,0.27,0.0,0.27,0.0,0.64,0.5,0.8,1.0,0.3,0.6,0.3,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,12,0.125,1.6,0.67,0.6,0.0,0.4,0.2,0.8,0.67,0.8,1.0,0.3,0.5,0.2,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.565,13,0.15,0.905,0.5,0.14,0.14,0.1,0.05,0.48,0.5,1.6,1.0,0.6,1.2,0.6,PHX

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.029,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
+42022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
+42022,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,2,0.333,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,BKN
+42022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.125,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,1,0,3,3,BKN
+42022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.016,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,BKN

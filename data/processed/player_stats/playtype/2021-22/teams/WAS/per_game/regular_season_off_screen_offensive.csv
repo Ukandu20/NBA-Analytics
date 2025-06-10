@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203484,Kentavious Caldwell-Pope,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.817,77,0.096,1.147,0.5,0.042,0.042,0.032,0.011,0.495,0.585,1.0,1.4,0.6,1.1,0.6,WAS
+22021,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.292,40,0.089,0.841,0.38,0.08,0.102,0.08,0.0,0.386,0.43,2.0,1.9,0.7,1.8,1.1,WAS
+22021,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.234,66,0.05,0.817,0.358,0.017,0.1,0.017,0.0,0.333,0.453,1.0,0.7,0.3,0.8,0.5,WAS
+22021,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.288,34,0.256,0.84,0.298,0.02,0.04,0.0,0.0,0.3,0.426,1.0,1.2,0.4,1.4,1.0,WAS
+22021,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.119,77,0.08,0.681,0.273,0.021,0.064,0.021,0.021,0.255,0.352,1.0,0.4,0.2,0.6,0.4,WAS
+22021,204001,Kristaps Porziņģis,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.834,17,0.038,1.154,0.417,0.077,0.0,0.077,0.0,0.462,0.542,1.0,0.9,0.3,0.7,0.4,WAS
+22021,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.324,82,0.021,0.867,0.667,0.0,0.4,0.0,0.0,0.4,0.722,0.0,0.2,0.1,0.1,0.0,WAS
+22021,203526,Raul Neto,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.06,70,0.026,0.6,0.308,0.067,0.067,0.0,0.0,0.333,0.308,0.0,0.1,0.1,0.2,0.1,WAS

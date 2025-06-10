@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.012,5,0.393,1.545,0.6,0.09,0.0,0.09,0.0,0.636,0.8,11,17,6,10,4,GSW
+22019,1627733,Dragan Bender,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.319,9,0.223,1.08,0.417,0.04,0.0,0.04,0.0,0.44,0.521,25,27,10,24,14,GSW
+22019,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.092,7,0.384,1.25,0.5,0.07,0.0,0.07,0.07,0.5,0.589,28,35,14,28,14,GSW
+22019,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.818,20,0.336,0.884,0.333,0.07,0.023,0.07,0.0,0.372,0.423,43,38,13,39,26,GSW
+22019,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.004,13,0.258,1.739,0.722,0.13,0.087,0.13,0.0,0.696,0.972,23,40,13,18,5,GSW
+22019,1628980,Jacob Evans,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.356,27,0.254,1.067,0.4,0.07,0.067,0.07,0.02,0.4,0.538,45,48,16,40,24,GSW
+22019,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.114,12,0.335,1.226,0.469,0.02,0.075,0.02,0.02,0.434,0.653,53,65,23,49,26,GSW
+22019,1629016,Omari Spellman,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.086,49,0.197,1.261,0.492,0.04,0.072,0.04,0.03,0.464,0.675,69,87,31,63,32,GSW
+22019,1626161,Willie Cauley-Stein,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.171,41,0.169,1.175,0.451,0.04,0.075,0.04,0.0,0.438,0.634,80,94,32,71,39,GSW
+22019,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.768,57,0.324,0.917,0.371,0.04,0.083,0.03,0.02,0.352,0.485,108,99,36,97,61,GSW
+22019,1627737,Marquese Chriss,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.116,59,0.165,1.224,0.461,0.03,0.061,0.03,0.0,0.449,0.646,98,120,41,89,48,GSW
+22019,1629065,Ky Bowman,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.173,45,0.251,1.175,0.448,0.04,0.058,0.04,0.03,0.427,0.609,103,121,43,96,53,GSW
+22019,202692,Alec Burks,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.591,48,0.274,0.984,0.365,0.04,0.04,0.04,0.01,0.371,0.487,124,122,42,115,73,GSW
+22019,203922,Glenn Robinson III,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.628,48,0.25,0.974,0.381,0.01,0.079,0.01,0.0,0.355,0.525,152,148,53,139,86,GSW
+22019,1626156,D'Angelo Russell,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.082,33,0.37,1.272,0.5,0.04,0.088,0.04,0.01,0.472,0.691,125,159,55,110,55,GSW
+22019,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.494,60,0.353,1.012,0.395,0.02,0.061,0.02,0.01,0.378,0.53,164,166,60,152,92,GSW
+22019,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.804,43,0.381,0.895,0.353,0.03,0.073,0.03,0.01,0.34,0.465,191,171,61,173,112,GSW
+22019,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Spotup,Defensive,0.241,49,0.361,1.12,0.422,0.03,0.057,0.03,0.01,0.411,0.578,175,196,68,161,93,GSW

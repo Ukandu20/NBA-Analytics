@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626159,Justise Winslow,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.986,29,0.049,0.455,0.222,0.09,0.09,0.09,0.0,0.27,0.222,11,5,2,9,7,POR
+22022,1629629,Cam Reddish,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.255,20,0.102,1.056,0.4,0.39,0.11,0.28,0.06,0.56,0.4,18,19,4,10,6,POR
+22022,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.851,56,0.159,0.742,0.348,0.16,0.13,0.13,0.03,0.39,0.37,31,23,8,23,15,POR
+22022,1628404,Josh Hart,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.808,51,0.072,0.775,0.355,0.18,0.08,0.18,0.02,0.42,0.355,40,31,11,31,20,POR
+22022,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.121,54,0.105,1.156,0.52,0.22,0.03,0.12,0.03,0.56,0.54,32,37,13,25,12,POR
+22022,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.843,80,0.085,0.75,0.3,0.19,0.23,0.13,0.0,0.37,0.35,52,39,9,30,21,POR
+22022,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.353,59,0.085,1.0,0.481,0.25,0.16,0.23,0.02,0.5,0.519,44,44,13,27,14,POR
+22022,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.157,52,0.069,1.125,0.5,0.06,0.04,0.06,0.06,0.48,0.554,48,54,23,46,23,POR
+22022,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.633,63,0.089,0.887,0.404,0.16,0.16,0.15,0.08,0.39,0.426,62,55,19,47,28,POR
+22022,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.211,62,0.132,1.089,0.5,0.16,0.09,0.16,0.04,0.52,0.545,56,61,22,44,22,POR
+22022,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.393,63,0.099,0.986,0.446,0.16,0.07,0.13,0.04,0.48,0.455,69,68,25,56,31,POR
+22022,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.424,78,0.129,0.968,0.416,0.15,0.07,0.15,0.04,0.44,0.468,94,91,32,77,45,POR

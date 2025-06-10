@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.911,74,0.216,1.17,0.629,0.149,0.144,0.118,0.055,0.571,0.629,5.2,6.0,2.5,3.9,1.5,DEN
+22021,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.604,75,0.147,0.968,0.527,0.096,0.102,0.07,0.019,0.49,0.527,2.1,2.0,0.9,1.7,0.8,DEN
+22021,201145,Jeff Green,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.852,75,0.126,1.116,0.547,0.186,0.105,0.186,0.047,0.547,0.547,1.1,1.3,0.5,0.9,0.4,DEN
+22021,202326,DeMarcus Cousins,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.681,31,0.156,1.0,0.714,0.143,0.286,0.143,0.0,0.531,0.714,1.6,1.6,0.6,0.9,0.3,DEN
+22021,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.822,67,0.056,1.083,0.533,0.25,0.167,0.208,0.042,0.542,0.533,0.4,0.4,0.1,0.2,0.1,DEN
+22021,203115,Will Barton,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.024,71,0.009,0.4,0.222,0.1,0.0,0.1,0.0,0.2,0.222,0.1,0.1,0.0,0.1,0.1,DEN

@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629216,Gabe Vincent,1610612748,MIA,Miami Heat,Spotup,Defensive,0.132,4,0.769,1.2,0.4,0.0,0.0,0.0,0.0,0.4,0.6,10,12,4,10,6,MIA
+22019,203524,Solomon Hill,1610612748,MIA,Miami Heat,Spotup,Defensive,0.047,11,0.492,1.345,0.483,0.03,0.0,0.03,0.03,0.483,0.672,29,39,14,29,15,MIA
+22019,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Spotup,Defensive,0.459,11,0.308,1.025,0.385,0.02,0.025,0.02,0.02,0.375,0.513,40,41,15,39,24,MIA
+22019,1629735,Chris Silva,1610612748,MIA,Miami Heat,Spotup,Defensive,0.113,19,0.286,1.273,0.47,0.18,0.0,0.18,0.05,0.55,0.63,22,28,9,19,10,MIA
+22019,201949,James Johnson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.888,18,0.496,0.81,0.308,0.02,0.086,0.0,0.0,0.293,0.442,58,47,16,52,36,MIA
+22019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,Spotup,Defensive,0.798,21,0.39,0.9,0.345,0.03,0.05,0.03,0.0,0.35,0.455,60,54,19,55,36,MIA
+22019,203109,Jae Crowder,1610612748,MIA,Miami Heat,Spotup,Defensive,0.182,20,0.39,1.169,0.465,0.1,0.084,0.08,0.04,0.446,0.62,83,97,33,71,38,MIA
+22019,203086,Meyers Leonard,1610612748,MIA,Miami Heat,Spotup,Defensive,0.386,51,0.224,1.054,0.414,0.07,0.063,0.07,0.03,0.405,0.535,111,117,41,99,58,MIA
+22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Spotup,Defensive,0.849,59,0.386,0.858,0.355,0.03,0.079,0.03,0.02,0.337,0.451,190,163,61,172,111,MIA
+22019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Spotup,Defensive,0.598,67,0.322,0.983,0.376,0.04,0.064,0.04,0.01,0.37,0.506,173,170,59,157,98,MIA
+22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Spotup,Defensive,0.52,55,0.383,1.005,0.38,0.05,0.065,0.04,0.01,0.386,0.518,184,185,62,163,101,MIA
+22019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Spotup,Defensive,0.771,59,0.347,0.916,0.337,0.1,0.05,0.09,0.01,0.376,0.434,202,185,59,175,116,MIA
+22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Spotup,Defensive,0.927,58,0.364,0.764,0.284,0.04,0.051,0.04,0.01,0.295,0.381,254,194,66,232,166,MIA
+22019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Spotup,Defensive,0.402,72,0.249,1.048,0.396,0.08,0.06,0.06,0.01,0.407,0.539,248,260,86,217,131,MIA
+22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,Spotup,Defensive,0.19,67,0.317,1.157,0.411,0.06,0.022,0.06,0.01,0.424,0.572,229,265,88,214,126,MIA
+22019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Spotup,Defensive,0.773,73,0.393,0.916,0.361,0.04,0.078,0.04,0.0,0.355,0.481,296,271,95,263,168,MIA

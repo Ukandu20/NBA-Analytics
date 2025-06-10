@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.793,17,0.364,1.208,0.448,0.042,0.028,0.042,0.0,0.458,0.604,72,87,30,67,37,IND
+42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.856,17,0.225,1.327,0.5,0.038,0.038,0.038,0.0,0.5,0.677,52,69,24,48,24,IND
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.73,17,0.173,1.148,0.48,0.019,0.056,0.0,0.0,0.463,0.61,54,62,24,50,26,IND
+42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.739,17,0.364,1.154,0.458,0.019,0.058,0.019,0.0,0.442,0.615,52,60,22,48,26,IND
+42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.225,17,0.269,0.828,0.327,0.017,0.034,0.0,0.0,0.328,0.418,58,48,18,55,37,IND
+42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.297,17,0.134,0.878,0.353,0.122,0.073,0.122,0.024,0.39,0.426,41,36,12,34,22,IND
+42024,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.882,15,0.545,1.375,0.522,0.0,0.042,0.0,0.0,0.5,0.717,24,33,12,23,11,IND
+42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.982,17,0.112,1.647,0.688,0.0,0.059,0.0,0.0,0.647,0.875,17,28,11,16,5,IND
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.694,16,0.17,1.125,0.389,0.167,0.125,0.125,0.042,0.417,0.528,24,27,7,18,11,IND
+42024,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.901,12,0.326,1.429,0.5,0.0,0.0,0.0,0.0,0.5,0.714,14,20,7,14,7,IND
+42024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.936,14,0.286,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,12,18,6,12,6,IND

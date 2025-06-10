@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.222,78,0.129,0.821,0.407,0.13,0.103,0.13,0.022,0.429,0.407,2.4,1.9,0.8,1.9,1.1,MIA
+22024,203952,Andrew Wiggins,1610612748,MIA,Miami Heat,Postup,Offensive,0.889,17,0.102,1.212,0.652,0.273,0.091,0.212,0.061,0.636,0.652,1.9,2.4,0.9,1.4,0.5,MIA
+22024,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.861,25,0.072,1.154,0.5,0.231,0.077,0.192,0.077,0.538,0.5,1.0,1.2,0.4,0.8,0.4,MIA
+22024,1631107,Nikola Jović,1610612748,MIA,Miami Heat,Postup,Offensive,0.5,46,0.061,1.0,0.591,0.103,0.172,0.103,0.034,0.483,0.591,0.6,0.6,0.3,0.5,0.2,MIA
+22024,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Postup,Offensive,0.153,66,0.052,0.781,0.409,0.125,0.219,0.094,0.031,0.375,0.409,0.5,0.4,0.1,0.3,0.2,MIA
+22024,1642276,Kel'el Ware,1610612748,MIA,Miami Heat,Postup,Offensive,0.5,64,0.034,1.0,0.471,0.105,0.053,0.105,0.053,0.474,0.471,0.3,0.3,0.1,0.3,0.1,MIA
+22024,201567,Kevin Love,1610612748,MIA,Miami Heat,Postup,Offensive,0.734,23,0.086,1.083,0.5,0.25,0.083,0.167,0.0,0.583,0.5,0.5,0.6,0.2,0.3,0.2,MIA

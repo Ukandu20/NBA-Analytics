@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.471,66,0.045,0.921,0.534,0.135,0.247,0.124,0.034,0.438,0.595,89,82,31,58,27,DAL
+22022,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.446,71,0.053,0.902,0.317,0.098,0.098,0.098,0.0,0.353,0.439,51,46,13,41,28,DAL
+22022,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.186,60,0.063,0.742,0.421,0.129,0.258,0.097,0.0,0.387,0.421,31,23,8,19,11,DAL
+22022,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.664,20,0.046,1.048,0.5,0.048,0.095,0.048,0.0,0.476,0.556,21,22,9,18,9,DAL
+22022,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.321,48,0.06,0.84,0.364,0.08,0.04,0.08,0.0,0.4,0.409,25,21,8,22,14,DAL
+22022,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.609,53,0.017,1.0,0.357,0.067,0.0,0.0,0.0,0.4,0.464,15,15,5,14,9,DAL
+22022,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.102,47,0.068,0.667,0.444,0.0,0.25,0.0,0.0,0.333,0.444,12,8,4,9,5,DAL

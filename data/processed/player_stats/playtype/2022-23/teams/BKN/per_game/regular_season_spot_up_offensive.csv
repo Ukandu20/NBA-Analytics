@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.538,76,0.463,1.029,0.374,0.035,0.05,0.029,0.003,0.375,0.535,4.5,4.6,1.5,4.1,2.6,BKN
+22022,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.734,74,0.443,1.12,0.41,0.014,0.065,0.009,0.0,0.392,0.593,2.9,3.3,1.1,2.7,1.6,BKN
+22022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.771,61,0.33,1.14,0.463,0.023,0.047,0.023,0.006,0.45,0.584,2.8,3.2,1.2,2.6,1.4,BKN
+22022,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.986,39,0.138,1.43,0.584,0.163,0.067,0.141,0.067,0.585,0.712,3.5,4.9,1.7,2.9,1.2,BKN
+22022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.796,27,0.247,1.155,0.422,0.084,0.058,0.077,0.013,0.439,0.57,5.7,6.6,2.1,5.0,2.9,BKN
+22022,1629139,Yuta Watanabe,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.904,58,0.495,1.234,0.465,0.029,0.051,0.029,0.007,0.453,0.646,2.4,2.9,1.0,2.2,1.2,BKN
+22022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.703,25,0.403,1.11,0.399,0.068,0.014,0.055,0.027,0.418,0.54,5.8,6.5,2.2,5.5,3.3,BKN
+22022,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.845,40,0.12,1.188,0.477,0.034,0.043,0.034,0.009,0.47,0.606,2.9,3.5,1.3,2.7,1.4,BKN
+22022,1628410,Edmond Sumner,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.405,53,0.321,0.974,0.385,0.077,0.103,0.077,0.0,0.393,0.5,2.2,2.2,0.7,1.8,1.1,BKN
+22022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.515,57,0.171,1.02,0.418,0.109,0.119,0.099,0.01,0.426,0.5,1.8,1.8,0.6,1.4,0.8,BKN
+22022,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.11,26,0.484,0.78,0.293,0.037,0.064,0.037,0.009,0.294,0.394,4.2,3.3,1.1,3.8,2.7,BKN
+22022,201988,Patty Mills,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.526,40,0.324,1.025,0.373,0.037,0.049,0.037,0.012,0.37,0.513,2.0,2.1,0.7,1.9,1.2,BKN
+22022,203933,T.J. Warren,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.384,27,0.364,0.964,0.42,0.036,0.024,0.036,0.024,0.405,0.488,3.1,3.0,1.3,3.0,1.7,BKN
+22022,1630561,David Duke Jr.,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.062,9,0.333,0.615,0.364,0.0,0.154,0.0,0.0,0.308,0.364,1.4,0.9,0.4,1.2,0.8,BKN
+22022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.301,26,0.143,0.924,0.322,0.091,0.03,0.076,0.015,0.364,0.432,2.5,2.3,0.7,2.3,1.5,BKN
+22022,202693,Markieff Morris,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.937,27,0.46,1.283,0.457,0.0,0.0,0.0,0.0,0.457,0.641,1.7,2.2,0.8,1.7,0.9,BKN
+22022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.781,76,0.052,1.146,0.613,0.244,0.073,0.244,0.073,0.634,0.613,0.5,0.6,0.3,0.4,0.2,BKN
+22022,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.076,42,0.065,0.696,0.467,0.087,0.217,0.087,0.0,0.348,0.467,0.5,0.4,0.2,0.4,0.2,BKN

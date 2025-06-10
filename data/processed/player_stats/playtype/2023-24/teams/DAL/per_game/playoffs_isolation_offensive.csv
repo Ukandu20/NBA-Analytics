@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.583,22,0.198,1.023,0.459,0.107,0.107,0.099,0.046,0.435,0.532,6.0,6.1,2.3,5.0,2.7,DAL
+42023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.444,22,0.252,0.942,0.451,0.067,0.1,0.058,0.017,0.425,0.505,5.5,5.1,2.1,4.6,2.5,DAL
+42023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.057,19,0.159,0.462,0.182,0.154,0.0,0.154,0.0,0.308,0.182,0.7,0.3,0.1,0.6,0.5,DAL

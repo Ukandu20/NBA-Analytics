@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.477,7,0.115,0.895,0.385,0.263,0.105,0.263,0.053,0.474,0.385,19,17,5,13,8,HOU
+42024,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.159,7,0.224,0.708,0.333,0.0,0.125,0.0,0.0,0.292,0.405,24,17,7,21,14,HOU
+42024,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.953,7,0.088,1.3,0.625,0.2,0.1,0.2,0.1,0.6,0.625,10,13,5,8,3,HOU
+42024,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.795,7,0.105,1.083,0.545,0.083,0.0,0.0,0.0,0.583,0.545,12,13,6,11,5,HOU

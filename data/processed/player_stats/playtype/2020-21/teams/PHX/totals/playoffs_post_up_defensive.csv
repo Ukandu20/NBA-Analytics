@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1627846,Abdel Nader,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,5,0.167,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0,PHX
+42020,202734,E'Twaun Moore,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,7,0.083,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHX
+42020,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,10,0.154,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,PHX
+42020,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,22,0.106,0.667,0.33,0.11,0.0,0.11,0.11,0.33,0.33,9,6,3,9,6,PHX
+42020,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.0,22,0.048,1.143,0.6,0.14,0.14,0.14,0.0,0.57,0.6,7,8,3,5,2,PHX
+42020,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.25,20,0.076,1.0,0.5,0.1,0.1,0.0,0.0,0.5,0.5,10,10,4,8,4,PHX
+42020,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.188,21,0.094,1.083,0.56,0.17,0.17,0.17,0.08,0.5,0.56,12,13,5,9,4,PHX
+42020,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.156,22,0.058,1.143,0.58,0.14,0.07,0.07,0.07,0.57,0.58,14,16,7,12,5,PHX
+42020,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.406,22,0.08,0.955,0.57,0.14,0.23,0.05,0.0,0.5,0.57,22,21,8,14,6,PHX
+42020,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.656,22,0.101,0.75,0.41,0.11,0.11,0.07,0.0,0.39,0.41,28,21,9,22,13,PHX
+42020,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.25,14,0.253,1.0,0.47,0.21,0.12,0.17,0.04,0.5,0.47,24,24,8,17,9,PHX
+42020,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Defensive,0.625,22,0.073,0.758,0.44,0.15,0.15,0.15,0.06,0.39,0.44,33,25,11,25,14,PHX

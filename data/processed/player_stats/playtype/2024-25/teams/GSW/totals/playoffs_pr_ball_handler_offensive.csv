@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.649,8,0.269,1.0,0.5,0.089,0.267,0.067,0.022,0.4,0.633,45,45,15,30,15,GSW
+42024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.603,11,0.215,0.977,0.417,0.209,0.047,0.209,0.093,0.465,0.431,43,42,15,36,21,GSW
+42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.793,12,0.148,1.083,0.421,0.125,0.083,0.125,0.0,0.458,0.553,24,26,8,19,11,GSW
+42024,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.123,8,0.149,0.667,0.286,0.111,0.111,0.111,0.0,0.333,0.286,18,12,4,14,10,GSW
+42024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.103,12,0.067,0.6,0.286,0.1,0.2,0.0,0.0,0.3,0.286,10,6,2,7,5,GSW

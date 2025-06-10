@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.318,79,0.194,0.957,0.542,0.077,0.126,0.063,0.005,0.493,0.542,2.6,2.5,1.1,2.1,1.0,OKC
+22018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.572,77,0.23,1.108,0.548,0.108,0.024,0.072,0.012,0.578,0.548,1.1,1.2,0.5,0.9,0.4,OKC
+22018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.894,79,0.045,1.302,0.605,0.14,0.0,0.14,0.023,0.651,0.618,0.5,0.7,0.3,0.5,0.2,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.781,72,0.022,1.227,0.639,0.136,0.068,0.136,0.023,0.636,0.639,0.6,0.8,0.3,0.5,0.2,OKC
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.213,76,0.025,0.88,0.447,0.14,0.14,0.12,0.04,0.42,0.461,0.7,0.6,0.2,0.5,0.3,OKC
+22018,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.141,51,0.135,0.786,0.417,0.071,0.071,0.071,0.0,0.429,0.417,0.5,0.4,0.2,0.5,0.3,OKC
+22018,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.053,62,0.1,0.68,0.316,0.12,0.12,0.12,0.0,0.36,0.316,0.4,0.3,0.1,0.3,0.2,OKC
+22018,202693,Markieff Morris,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.088,23,0.088,0.733,0.357,0.067,0.0,0.067,0.0,0.4,0.357,0.7,0.5,0.2,0.6,0.4,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.233,73,0.02,0.9,0.444,0.1,0.0,0.1,0.0,0.5,0.444,0.1,0.1,0.1,0.1,0.1,OKC

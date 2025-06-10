@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,9,0.04,1.556,0.833,0.222,0.111,0.222,0.0,0.778,0.833,1.0,1.6,0.7,0.7,0.0,PHI
+42022,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.106,1.8,0.8,0.2,0.0,0.2,0.2,0.8,0.8,0.5,0.8,0.5,0.5,0.0,PHI
+42022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.034,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,0.5,0.5,0.5,0.5,0.0,PHI
+42022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.105,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.5,0.5,0.5,0.5,0.0,PHI
+42022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.032,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,0.3,0.4,0.3,0.3,0.0,PHI
+42022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.009,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.2,0.2,0.0,PHI
+42022,1629667,Jalen McDaniels,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,8,0.125,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,0.4,0.3,0.3,0.3,0.0,PHI
+42022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.0,PHI

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628035,Alfonzo McKinnie,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.974,40,0.11,0.455,0.167,0.09,0.091,0.09,0.0,0.227,0.167,22,10,3,18,15,CLE
+22019,203957,Danté Exum,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.721,24,0.126,0.789,0.313,0.11,0.053,0.11,0.0,0.368,0.375,19,15,5,16,11,CLE
+22019,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.903,29,0.148,0.645,0.259,0.1,0.065,0.1,0.03,0.29,0.278,31,20,7,27,20,CLE
+22019,1629645,Kevin Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.968,50,0.095,0.488,0.2,0.12,0.186,0.09,0.0,0.256,0.217,43,21,6,30,24,CLE
+22019,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.197,56,0.036,1.087,0.476,0.04,0.043,0.04,0.0,0.478,0.548,23,25,10,21,11,CLE
+22019,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.148,57,0.088,1.12,0.545,0.04,0.08,0.04,0.0,0.52,0.591,25,28,12,22,10,CLE
+22019,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.252,56,0.063,1.069,0.538,0.03,0.069,0.03,0.0,0.483,0.596,29,31,14,26,12,CLE
+22019,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.013,57,0.036,1.548,0.621,0.1,0.032,0.1,0.06,0.613,0.776,31,48,18,29,11,CLE
+22019,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.558,65,0.112,0.882,0.394,0.06,0.118,0.06,0.01,0.376,0.479,85,75,28,71,43,CLE
+22019,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Handoff,Defensive,0.213,59,0.118,1.081,0.478,0.03,0.041,0.03,0.0,0.473,0.558,74,80,33,69,36,CLE

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629682,Tremont Waters,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.963,9,0.4,0.583,0.333,0.17,0.33,0.08,0.0,0.333,0.333,12,7,2,6,4,BOS
+22020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.772,54,0.029,0.778,0.375,0.06,0.111,0.06,0.06,0.333,0.406,18,14,6,16,10,BOS
+22020,203953,Jabari Parker,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.04,10,0.23,1.214,0.417,0.14,0.0,0.14,0.0,0.5,0.542,14,17,5,12,7,BOS
+22020,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.9,18,0.296,0.69,0.318,0.14,0.103,0.14,0.0,0.379,0.318,29,20,7,22,15,BOS
+22020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.67,16,0.268,0.833,0.406,0.1,0.143,0.07,0.0,0.405,0.438,42,35,13,32,19,BOS
+22020,1629750,Javonte Green,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.028,25,0.23,1.276,0.5,0.24,0.0,0.17,0.07,0.586,0.563,29,37,12,24,12,BOS
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.294,46,0.196,0.955,0.447,0.09,0.068,0.07,0.02,0.432,0.487,44,42,17,38,21,BOS
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.911,63,0.148,0.687,0.308,0.1,0.134,0.1,0.01,0.313,0.337,67,46,16,52,36,BOS
+22020,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.4,56,0.226,0.92,0.473,0.11,0.173,0.09,0.01,0.44,0.527,75,69,26,55,29,BOS
+22020,201952,Jeff Teague,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.664,34,0.402,0.835,0.427,0.05,0.165,0.05,0.01,0.379,0.476,103,86,35,82,47,BOS
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.634,66,0.327,0.847,0.37,0.13,0.129,0.1,0.01,0.395,0.424,124,105,34,92,58,BOS
+22020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.543,43,0.279,0.881,0.447,0.1,0.189,0.09,0.01,0.406,0.505,143,126,46,103,57,BOS
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.727,64,0.292,0.803,0.395,0.09,0.208,0.07,0.02,0.348,0.453,178,143,51,129,78,BOS
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.622,49,0.395,0.851,0.416,0.1,0.167,0.09,0.02,0.392,0.47,222,189,69,166,97,BOS
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.315,58,0.3,0.946,0.478,0.09,0.157,0.09,0.02,0.436,0.519,204,193,76,159,83,BOS

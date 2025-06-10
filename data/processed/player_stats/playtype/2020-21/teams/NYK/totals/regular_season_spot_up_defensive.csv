@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203085,Austin Rivers,1610612752,NYK,New York Knicks,Spotup,Defensive,0.795,21,0.232,0.895,0.314,0.05,0.03,0.05,0.0,0.34,0.443,38,34,11,35,24,NYK
+22020,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,Spotup,Defensive,0.931,42,0.377,0.755,0.25,0.1,0.04,0.08,0.04,0.29,0.341,49,37,11,44,33,NYK
+22020,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Spotup,Defensive,0.15,32,0.308,1.212,0.44,0.15,0.09,0.09,0.0,0.48,0.64,33,40,11,25,14,NYK
+22020,201959,Taj Gibson,1610612752,NYK,New York Knicks,Spotup,Defensive,0.942,45,0.171,0.732,0.254,0.1,0.07,0.08,0.0,0.31,0.339,71,52,15,59,44,NYK
+22020,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Spotup,Defensive,0.659,31,0.198,0.961,0.356,0.03,0.03,0.03,0.0,0.36,0.479,77,74,26,73,47,NYK
+22020,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Spotup,Defensive,0.89,62,0.377,0.815,0.299,0.03,0.03,0.03,0.01,0.29,0.425,92,75,26,87,61,NYK
+22020,203457,Nerlens Noel,1610612752,NYK,New York Knicks,Spotup,Defensive,0.937,64,0.197,0.744,0.299,0.04,0.08,0.04,0.01,0.3,0.379,121,90,32,107,75,NYK
+22020,201565,Derrick Rose,1610612752,NYK,New York Knicks,Spotup,Defensive,0.851,35,0.323,0.858,0.323,0.03,0.08,0.03,0.01,0.31,0.448,106,91,31,96,65,NYK
+22020,202692,Alec Burks,1610612752,NYK,New York Knicks,Spotup,Defensive,0.711,49,0.313,0.941,0.352,0.04,0.04,0.04,0.01,0.35,0.48,136,128,44,125,81,NYK
+22020,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Spotup,Defensive,0.308,64,0.368,1.114,0.409,0.05,0.03,0.05,0.01,0.42,0.558,149,166,56,137,81,NYK
+22020,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,Spotup,Defensive,0.603,65,0.275,0.995,0.401,0.04,0.05,0.04,0.03,0.39,0.511,189,188,71,177,106,NYK
+22020,203901,Elfrid Payton,1610612752,NYK,New York Knicks,Spotup,Defensive,0.341,63,0.315,1.099,0.403,0.02,0.04,0.02,0.01,0.4,0.569,192,211,73,181,108,NYK
+22020,203944,Julius Randle,1610612752,NYK,New York Knicks,Spotup,Defensive,0.675,71,0.359,0.955,0.358,0.04,0.06,0.04,0.01,0.36,0.492,334,319,108,302,194,NYK
+22020,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Spotup,Defensive,0.588,72,0.489,1.0,0.37,0.05,0.04,0.04,0.01,0.38,0.506,419,419,143,386,243,NYK

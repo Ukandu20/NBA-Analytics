@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.646,80,0.095,1.035,0.468,0.043,0.148,0.043,0.009,0.417,0.58,1.4,1.5,0.6,1.2,0.6,IND
+22022,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.571,78,0.062,0.988,0.426,0.188,0.1,0.188,0.063,0.45,0.475,1.0,1.0,0.3,0.8,0.4,IND
+22022,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.743,56,0.043,1.089,0.514,0.111,0.156,0.067,0.044,0.467,0.6,0.8,0.9,0.3,0.6,0.3,IND
+22022,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.636,75,0.068,1.021,0.553,0.043,0.17,0.043,0.021,0.468,0.592,0.6,0.6,0.3,0.5,0.2,IND
+22022,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.821,73,0.048,1.143,0.5,0.057,0.143,0.057,0.0,0.457,0.643,0.5,0.5,0.2,0.4,0.2,IND
+22022,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.414,75,0.054,0.884,0.438,0.07,0.186,0.023,0.0,0.395,0.531,0.6,0.5,0.2,0.4,0.2,IND
+22022,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.243,46,0.077,0.774,0.296,0.097,0.065,0.097,0.032,0.323,0.352,0.7,0.5,0.2,0.6,0.4,IND
+22022,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.954,62,0.017,1.313,0.467,0.063,0.0,0.063,0.0,0.5,0.633,0.3,0.3,0.1,0.2,0.1,IND
+22022,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.455,65,0.053,0.909,0.412,0.091,0.136,0.091,0.0,0.409,0.5,0.3,0.3,0.1,0.3,0.2,IND
+22022,1629670,Jordan Nwora,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.423,24,0.061,0.889,0.357,0.111,0.111,0.111,0.0,0.389,0.464,0.8,0.7,0.2,0.6,0.4,IND

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MEM
+42022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,6,0.08,1.5,0.0,1.0,0.0,0.5,0.0,1.0,0.0,2,3,0,0,0,MEM
+42022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,6,0.098,0.375,0.2,0.12,0.25,0.12,0.0,0.25,0.2,8,3,1,5,4,MEM
+42022,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.053,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,MEM
+42022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,6,0.079,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.5,5,6,2,4,2,MEM
+42022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.966,6,0.126,0.5,0.25,0.08,0.25,0.08,0.0,0.25,0.25,12,6,2,8,6,MEM
+42022,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,6,0.132,1.6,1.0,0.4,0.2,0.2,0.0,0.8,1.0,5,8,2,2,0,MEM
+42022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.607,6,0.161,0.9,0.44,0.1,0.0,0.1,0.0,0.5,0.44,10,9,4,9,5,MEM

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.952,22,0.157,1.284,0.455,0.091,0.045,0.091,0.011,0.477,0.623,4.0,5.1,1.6,3.5,1.9,GSW
+42018,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.667,21,0.227,1.16,0.465,0.032,0.064,0.032,0.011,0.447,0.593,4.0,5.2,1.9,4.1,2.2,GSW
+42018,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,1.0,12,0.073,1.542,0.6,0.125,0.083,0.125,0.042,0.583,0.775,2.0,3.1,1.0,1.7,0.7,GSW
+42018,1628035,Alfonzo McKinnie,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,22,0.043,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.833,0.0,0.2,0.1,0.1,0.0,GSW
+42018,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,21,0.044,0.444,0.2,0.111,0.333,0.111,0.0,0.222,0.3,0.0,0.2,0.0,0.2,0.2,GSW
+42018,201973,Jonas Jerebko,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,16,0.021,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.0,GSW
+42018,202326,DeMarcus Cousins,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,8,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,GSW
+42018,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.0,17,0.078,0.0,0.0,0.0,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,GSW

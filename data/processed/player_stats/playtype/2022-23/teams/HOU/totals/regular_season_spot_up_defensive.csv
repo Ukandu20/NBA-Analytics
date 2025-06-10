@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628981,Bruno Fernando,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.085,31,0.155,1.276,0.48,0.03,0.034,0.03,0.0,0.483,0.67,29,37,13,27,14,HOU
+22022,1631102,TyTy Washington Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.746,31,0.281,0.953,0.34,0.05,0.07,0.05,0.0,0.349,0.49,43,41,13,38,25,HOU
+22022,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.979,45,0.466,0.719,0.3,0.06,0.112,0.06,0.03,0.281,0.39,89,64,23,77,54,HOU
+22022,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.946,47,0.232,0.805,0.29,0.07,0.085,0.06,0.0,0.317,0.4,82,66,20,69,49,HOU
+22022,1630586,Usman Garuba,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.813,75,0.203,0.927,0.33,0.06,0.021,0.06,0.01,0.344,0.45,96,89,29,89,60,HOU
+22022,1630227,Daishen Nix,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.735,57,0.289,0.958,0.36,0.04,0.063,0.04,0.01,0.358,0.5,95,91,31,86,55,HOU
+22022,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.431,31,0.337,1.064,0.4,0.04,0.074,0.04,0.0,0.394,0.55,94,100,33,83,50,HOU
+22022,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.579,64,0.361,1.01,0.39,0.06,0.079,0.06,0.01,0.386,0.52,101,102,34,88,54,HOU
+22022,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.658,75,0.154,0.988,0.39,0.05,0.037,0.04,0.01,0.398,0.49,161,159,57,148,91,HOU
+22022,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.529,82,0.359,1.031,0.37,0.06,0.061,0.06,0.02,0.373,0.52,228,235,77,206,129,HOU
+22022,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.688,76,0.349,0.974,0.36,0.06,0.06,0.06,0.01,0.366,0.49,268,261,85,239,154,HOU
+22022,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.142,82,0.444,1.212,0.44,0.04,0.037,0.03,0.01,0.44,0.62,241,292,99,225,126,HOU
+22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.327,59,0.341,1.11,0.42,0.01,0.048,0.01,0.0,0.407,0.58,273,303,108,257,149,HOU
+22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Spotup,Defensive,0.508,79,0.342,1.036,0.38,0.04,0.04,0.04,0.0,0.386,0.52,303,314,105,279,174,HOU

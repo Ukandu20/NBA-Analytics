@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202693,Markieff Morris,1610612765,DET,Detroit Pistons,Postup,Defensive,0.98,44,0.047,0.5,0.222,0.14,0.21,0.14,0.0,0.29,0.222,0.3,0.2,0.0,0.2,0.2,DET
+22019,1628971,Bruce Brown,1610612765,DET,Detroit Pistons,Postup,Defensive,0.863,58,0.034,0.696,0.417,0.17,0.3,0.13,0.0,0.39,0.417,0.4,0.3,0.1,0.2,0.1,DET
+22019,203089,John Henson,1610612765,DET,Detroit Pistons,Postup,Defensive,0.026,11,0.115,1.417,0.75,0.25,0.08,0.25,0.0,0.75,0.75,1.1,1.5,0.5,0.7,0.2,DET
+22019,201565,Derrick Rose,1610612765,DET,Detroit Pistons,Postup,Defensive,0.198,50,0.034,1.133,0.538,0.27,0.0,0.27,0.13,0.53,0.538,0.3,0.3,0.1,0.3,0.1,DET
+22019,204038,Langston Galloway,1610612765,DET,Detroit Pistons,Postup,Defensive,0.208,66,0.028,1.125,0.615,0.06,0.12,0.0,0.0,0.56,0.615,0.2,0.3,0.1,0.2,0.1,DET
+22019,1629635,Sekou Doumbouya,1610612765,DET,Detroit Pistons,Postup,Defensive,0.286,38,0.092,1.053,0.615,0.16,0.16,0.11,0.0,0.53,0.615,0.5,0.5,0.2,0.3,0.1,DET
+22019,1629004,Svi Mykhailiuk,1610612765,DET,Detroit Pistons,Postup,Defensive,0.055,56,0.052,1.316,0.667,0.05,0.0,0.0,0.0,0.68,0.667,0.3,0.4,0.2,0.3,0.1,DET
+22019,203503,Tony Snell,1610612765,DET,Detroit Pistons,Postup,Defensive,0.102,59,0.043,1.217,0.563,0.26,0.13,0.22,0.09,0.57,0.563,0.4,0.5,0.2,0.3,0.1,DET
+22019,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Postup,Defensive,0.363,49,0.042,1.0,0.556,0.06,0.15,0.06,0.0,0.5,0.556,0.7,0.7,0.3,0.6,0.2,DET
+22019,1626174,Christian Wood,1610612765,DET,Detroit Pistons,Postup,Defensive,0.741,62,0.075,0.78,0.415,0.06,0.12,0.04,0.0,0.4,0.415,0.8,0.6,0.3,0.7,0.4,DET

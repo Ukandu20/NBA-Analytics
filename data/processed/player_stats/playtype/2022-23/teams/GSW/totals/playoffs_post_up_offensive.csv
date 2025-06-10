@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.76,13,0.073,1.125,0.545,0.313,0.063,0.313,0.063,0.563,0.545,16,18,6,11,5,GSW
+42022,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,12,0.023,1.333,0.0,0.667,0.333,0.667,0.0,0.667,0.0,3,4,0,0,0,GSW
+42022,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,10,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,GSW
+42022,1630237,Anthony Lamb,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,6,0.143,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,GSW
+42022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,13,0.008,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,GSW

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1626166,Cameron Payne,1610612752,NYK,New York Knicks,Postup,Defensive,0.397,66,0.044,1.071,0.5,0.429,0.143,0.357,0.143,0.5,0.5,0.2,0.2,0.1,0.1,0.1,NYK
+22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,Postup,Defensive,0.152,63,0.026,1.25,0.583,0.188,0.063,0.125,0.0,0.625,0.583,0.3,0.3,0.1,0.2,0.1,NYK
+22024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,Postup,Defensive,0.165,47,0.055,1.235,0.667,0.176,0.118,0.176,0.0,0.647,0.667,0.4,0.4,0.2,0.3,0.1,NYK
+22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Postup,Defensive,0.923,64,0.052,0.676,0.375,0.118,0.176,0.088,0.0,0.353,0.375,0.5,0.4,0.1,0.4,0.2,NYK
+22024,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Postup,Defensive,0.441,53,0.048,1.042,0.524,0.125,0.042,0.125,0.042,0.542,0.524,0.5,0.5,0.2,0.4,0.2,NYK
+22024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Postup,Defensive,0.728,69,0.03,0.872,0.483,0.128,0.154,0.128,0.026,0.436,0.483,0.6,0.5,0.2,0.4,0.2,NYK
+22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Postup,Defensive,0.463,80,0.03,1.029,0.556,0.118,0.088,0.118,0.0,0.529,0.556,0.4,0.4,0.2,0.3,0.2,NYK
+22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Postup,Defensive,0.419,74,0.038,1.056,0.536,0.139,0.083,0.139,0.0,0.556,0.536,0.5,0.5,0.2,0.4,0.2,NYK
+22024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Postup,Defensive,0.632,77,0.056,0.92,0.475,0.1,0.1,0.1,0.0,0.48,0.475,0.6,0.6,0.2,0.5,0.3,NYK

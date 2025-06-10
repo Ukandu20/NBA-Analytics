@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.838,60,0.036,0.75,0.222,0.08,0.17,0.08,0.0,0.25,0.333,12,9,2,9,7,UTA
+22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.822,72,0.023,0.765,0.313,0.0,0.06,0.0,0.0,0.29,0.406,17,13,5,16,11,UTA
+22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.894,77,0.019,0.684,0.313,0.0,0.16,0.0,0.0,0.26,0.406,19,13,5,16,11,UTA
+22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.134,55,0.032,1.333,0.5,0.08,0.08,0.08,0.0,0.5,0.7,12,16,5,10,5,UTA
+22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.039,67,0.018,1.545,0.636,0.0,0.0,0.0,0.0,0.64,0.773,11,17,7,11,4,UTA
+22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.849,69,0.038,0.739,0.286,0.04,0.04,0.04,0.0,0.3,0.357,23,17,6,21,15,UTA
+22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.093,79,0.031,1.4,0.526,0.1,0.0,0.1,0.05,0.55,0.684,20,28,10,19,9,UTA
+22021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.414,65,0.066,1.064,0.452,0.06,0.02,0.06,0.0,0.47,0.536,47,50,19,42,23,UTA
+22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.819,66,0.076,0.768,0.292,0.03,0.03,0.03,0.0,0.31,0.393,95,73,26,89,63,UTA

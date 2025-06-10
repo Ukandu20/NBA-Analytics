@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.909,72,0.015,0.6,0.231,0.07,0.07,0.07,0.0,0.267,0.308,0.2,0.1,0.0,0.2,0.1,NYK
+22021,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Handoff,Defensive,0.719,72,0.047,0.778,0.313,0.11,0.06,0.11,0.06,0.333,0.375,0.3,0.2,0.1,0.2,0.2,NYK
+22021,201565,Derrick Rose,1610612752,NYK,New York Knicks,Handoff,Defensive,0.86,26,0.095,0.682,0.294,0.09,0.14,0.09,0.0,0.318,0.353,0.8,0.6,0.2,0.7,0.5,NYK
+22021,202689,Kemba Walker,1610612752,NYK,New York Knicks,Handoff,Defensive,0.321,37,0.063,1.0,0.409,0.04,0.04,0.04,0.04,0.391,0.5,0.6,0.6,0.2,0.6,0.4,NYK
+22021,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,Handoff,Defensive,0.148,46,0.097,1.138,0.455,0.14,0.1,0.14,0.0,0.483,0.636,0.6,0.7,0.2,0.5,0.3,NYK
+22021,203944,Julius Randle,1610612752,NYK,New York Knicks,Handoff,Defensive,0.476,72,0.048,0.923,0.343,0.08,0.03,0.08,0.0,0.385,0.443,0.5,0.5,0.2,0.5,0.3,NYK
+22021,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Handoff,Defensive,0.651,78,0.079,0.82,0.405,0.1,0.18,0.06,0.02,0.38,0.459,0.6,0.5,0.2,0.5,0.3,NYK
+22021,202692,Alec Burks,1610612752,NYK,New York Knicks,Handoff,Defensive,0.582,81,0.07,0.864,0.409,0.08,0.17,0.05,0.0,0.39,0.466,0.7,0.6,0.2,0.5,0.3,NYK
+22021,203095,Evan Fournier,1610612752,NYK,New York Knicks,Handoff,Defensive,0.622,80,0.089,0.839,0.373,0.1,0.1,0.08,0.02,0.387,0.431,0.8,0.7,0.2,0.6,0.4,NYK
+22021,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Handoff,Defensive,0.472,70,0.069,0.926,0.377,0.13,0.12,0.13,0.03,0.397,0.443,1.0,0.9,0.3,0.8,0.5,NYK

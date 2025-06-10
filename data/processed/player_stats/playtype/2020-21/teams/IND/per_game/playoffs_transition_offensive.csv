@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.189,1.714,0.667,0.143,0.0,0.143,0.0,0.714,0.833,3.5,6.0,2.0,3.0,1.0,IND
+42020,1630199,Cassius Stanley,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.5,1.833,1.0,0.5,0.167,0.5,0.0,0.833,1.25,3.0,5.5,1.0,1.0,0.0,IND
+42020,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.3,1.5,0.8,0.167,0.167,0.167,0.167,0.667,0.8,3.0,4.5,2.0,2.5,0.5,IND
+42020,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.25,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,3.0,4.0,2.0,3.0,1.0,IND
+42020,1629103,Kelan Martin,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.276,0.625,0.25,0.0,0.0,0.0,0.0,0.25,0.313,4.0,2.5,1.0,4.0,3.0,IND
+42020,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.171,0.429,0.2,0.0,0.286,0.0,0.0,0.143,0.3,3.5,1.5,0.5,2.5,2.0,IND
+42020,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.125,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,1.0,1.0,0.5,1.0,0.5,IND
+42020,203200,Justin Holiday,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.2,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,2.0,1.0,0.5,1.5,1.0,IND
+42020,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.042,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,IND
+42020,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.071,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,IND
+42020,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,2,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,IND

@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.552,7,0.079,1.231,0.636,0.077,0.077,0.0,0.0,0.615,0.636,13,16,7,11,4,HOU
+42024,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.767,7,0.088,1.3,0.667,0.1,0.1,0.1,0.1,0.6,0.667,10,13,6,9,3,HOU
+42024,203500,Steven Adams,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.367,7,0.275,1.091,0.6,0.0,0.091,0.0,0.0,0.545,0.6,11,12,6,10,4,HOU

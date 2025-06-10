@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.99,42,0.017,0.3,0.143,0.1,0.3,0.1,0.1,0.1,0.143,10,3,1,7,6,BOS
+22024,1629674,Neemias Queta,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.0,55,0.024,1.8,0.7,0.2,0.0,0.2,0.2,0.7,0.85,10,18,7,10,3,BOS
+22024,201143,Al Horford,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.232,59,0.028,1.095,0.5,0.0,0.048,0.0,0.0,0.476,0.575,21,23,10,20,10,BOS
+22024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.648,72,0.066,0.857,0.417,0.048,0.095,0.048,0.0,0.405,0.458,42,36,15,36,21,BOS
+22024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.79,62,0.082,0.759,0.306,0.103,0.086,0.103,0.034,0.328,0.367,58,44,15,49,34,BOS
+22024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.765,78,0.086,0.789,0.392,0.018,0.105,0.018,0.018,0.351,0.431,57,45,20,51,31,BOS
+22024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.131,65,0.09,1.182,0.487,0.091,0.068,0.091,0.045,0.477,0.577,44,52,19,39,20,BOS
+22024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.278,63,0.079,1.07,0.442,0.035,0.053,0.035,0.0,0.439,0.548,57,61,23,52,29,BOS
+22024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.078,76,0.096,1.247,0.534,0.094,0.047,0.082,0.0,0.553,0.623,85,106,39,73,34,BOS

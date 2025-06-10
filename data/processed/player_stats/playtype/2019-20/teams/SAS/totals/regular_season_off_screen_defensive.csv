@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.323,17,0.114,1.083,0.417,0.0,0.0,0.0,0.0,0.42,0.542,12,13,5,12,7,SAS
+22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.741,67,0.038,0.81,0.294,0.05,0.14,0.05,0.0,0.29,0.441,21,17,5,17,12,SAS
+22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.441,53,0.022,1.0,0.5,0.0,0.05,0.0,0.0,0.48,0.525,21,21,10,20,10,SAS
+22019,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.369,57,0.09,1.048,0.368,0.05,0.05,0.05,0.0,0.38,0.526,21,22,7,19,12,SAS
+22019,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.687,61,0.082,0.846,0.333,0.0,0.08,0.0,0.0,0.31,0.458,26,22,8,24,16,SAS
+22019,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.0,66,0.019,1.846,0.667,0.23,0.0,0.23,0.15,0.69,0.833,13,24,8,12,4,SAS
+22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.558,66,0.054,0.931,0.385,0.03,0.07,0.03,0.0,0.38,0.5,29,27,10,26,16,SAS
+22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.539,63,0.071,0.938,0.346,0.09,0.09,0.09,0.0,0.38,0.442,32,30,9,26,17,SAS
+22019,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.894,68,0.095,0.644,0.275,0.07,0.08,0.05,0.02,0.29,0.333,59,38,14,51,37,SAS
+22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.277,66,0.069,1.104,0.475,0.08,0.08,0.08,0.0,0.48,0.588,48,53,19,40,21,SAS
+22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.765,68,0.079,0.794,0.316,0.09,0.09,0.07,0.01,0.34,0.377,68,54,18,57,39,SAS
+22019,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.402,63,0.122,1.03,0.435,0.03,0.04,0.03,0.0,0.43,0.516,67,69,27,62,35,SAS

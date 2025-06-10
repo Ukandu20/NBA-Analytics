@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Handoff,Defensive,0.951,60,0.023,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,0.2,0.1,0.0,0.2,0.1,MIA
+22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Handoff,Defensive,0.962,79,0.025,0.529,0.14,0.12,0.059,0.12,0.0,0.235,0.18,0.2,0.1,0.0,0.2,0.2,MIA
+22018,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Handoff,Defensive,0.195,82,0.012,1.1,0.38,0.2,0.0,0.2,0.0,0.5,0.5,0.1,0.1,0.0,0.1,0.1,MIA
+22018,201949,James Johnson,1610612748,MIA,Miami Heat,Handoff,Defensive,0.939,56,0.066,0.577,0.26,0.04,0.115,0.04,0.04,0.231,0.3,0.5,0.3,0.1,0.4,0.3,MIA
+22018,201961,Wayne Ellington,1610612748,MIA,Miami Heat,Handoff,Defensive,0.462,25,0.102,0.941,0.42,0.24,0.118,0.18,0.06,0.471,0.46,0.7,0.6,0.2,0.5,0.3,MIA
+22018,201609,Goran Dragic,1610612748,MIA,Miami Heat,Handoff,Defensive,0.922,37,0.103,0.613,0.33,0.03,0.29,0.03,0.0,0.258,0.4,0.8,0.5,0.2,0.6,0.4,MIA
+22018,203079,Dion Waiters,1610612748,MIA,Miami Heat,Handoff,Defensive,0.809,44,0.089,0.724,0.43,0.0,0.207,0.0,0.0,0.345,0.46,0.7,0.5,0.2,0.5,0.3,MIA
+22018,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Handoff,Defensive,0.82,44,0.095,0.714,0.29,0.09,0.057,0.03,0.03,0.314,0.34,0.8,0.6,0.2,0.7,0.5,MIA
+22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Handoff,Defensive,0.633,72,0.094,0.843,0.39,0.08,0.118,0.06,0.0,0.392,0.45,0.7,0.6,0.2,0.6,0.3,MIA
+22018,203585,Rodney McGruder,1610612748,MIA,Miami Heat,Handoff,Defensive,0.734,66,0.126,0.786,0.36,0.07,0.114,0.07,0.01,0.357,0.41,1.1,0.8,0.3,0.9,0.6,MIA
+22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Handoff,Defensive,0.532,66,0.094,0.896,0.42,0.06,0.104,0.04,0.01,0.403,0.47,1.0,0.9,0.4,0.9,0.5,MIA
+22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Defensive,0.324,73,0.085,1.013,0.46,0.1,0.128,0.09,0.01,0.449,0.53,1.1,1.1,0.4,0.8,0.5,MIA

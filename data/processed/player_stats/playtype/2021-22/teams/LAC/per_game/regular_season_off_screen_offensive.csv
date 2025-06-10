@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1628379,Luke Kennard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.525,70,0.175,0.976,0.381,0.056,0.071,0.056,0.024,0.365,0.504,2.0,1.8,0.6,1.6,1.0,LAC
+22021,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.717,31,0.072,1.068,0.521,0.068,0.119,0.068,0.0,0.492,0.583,2.0,2.0,0.8,1.5,0.7,LAC
+22021,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.758,54,0.038,1.097,0.484,0.0,0.0,0.0,0.0,0.484,0.548,1.0,0.6,0.3,0.6,0.3,LAC
+22021,202704,Reggie Jackson,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.945,75,0.012,1.294,0.5,0.059,0.059,0.059,0.059,0.471,0.656,0.0,0.3,0.1,0.2,0.1,LAC
+22021,1629611,Terance Mann,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.706,81,0.019,1.063,0.462,0.188,0.0,0.188,0.0,0.563,0.462,0.0,0.2,0.1,0.2,0.1,LAC
+22021,1629599,Amir Coffey,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.982,69,0.02,1.455,0.6,0.091,0.0,0.091,0.0,0.636,0.7,0.0,0.2,0.1,0.1,0.1,LAC
+22021,1630527,Brandon Boston,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.219,51,0.041,0.813,0.417,0.063,0.188,0.063,0.0,0.375,0.458,0.0,0.3,0.1,0.2,0.1,LAC
+22021,201587,Nicolas Batum,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.091,59,0.045,0.65,0.176,0.1,0.05,0.1,0.0,0.25,0.235,0.0,0.2,0.1,0.3,0.2,LAC

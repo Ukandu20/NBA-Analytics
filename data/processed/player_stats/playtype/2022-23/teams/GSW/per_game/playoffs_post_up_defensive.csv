@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,203210,JaMychal Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,7,0.091,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1,GSW
+42022,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,12,0.041,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.5,0.5,GSW
+42022,1628978,Donte DiVincenzo,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,13,0.025,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.0,0.1,0.2,0.1,GSW
+42022,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,13,0.05,0.5,0.0,0.25,0.25,0.25,0.0,0.25,0.0,0.3,0.0,0.0,0.2,0.2,GSW
+42022,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,12,0.063,1.75,1.0,0.25,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.3,0.3,0.0,GSW
+42022,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.931,13,0.082,0.538,0.27,0.08,0.08,0.08,0.0,0.31,0.27,1.0,1.0,0.2,0.8,0.6,GSW
+42022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.793,13,0.103,0.667,0.36,0.0,0.0,0.08,0.0,0.33,0.36,0.9,1.0,0.3,0.8,0.5,GSW
+42022,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,12,0.068,1.8,1.0,0.6,0.0,0.6,0.0,1.0,1.0,0.4,1.0,0.2,0.2,0.0,GSW
+42022,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.552,13,0.052,0.909,0.62,0.0,0.27,0.0,0.0,0.45,0.62,0.8,1.0,0.4,0.6,0.2,GSW
+42022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,13,0.102,1.45,0.82,0.4,0.15,0.4,0.1,0.75,0.82,1.5,2.0,0.7,0.8,0.2,GSW

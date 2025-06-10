@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.834,77,0.019,0.7,0.222,0.1,0.0,0.1,0.0,0.3,0.278,0.1,0.1,0.0,0.1,0.1,MIN
+22021,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.834,49,0.095,0.7,0.313,0.1,0.1,0.1,0.0,0.35,0.375,0.4,0.3,0.1,0.3,0.2,MIN
+22021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.903,62,0.072,0.609,0.222,0.13,0.13,0.13,0.04,0.261,0.25,0.4,0.2,0.1,0.3,0.2,MIN
+22021,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.321,62,0.056,1.0,0.357,0.12,0.06,0.12,0.06,0.375,0.464,0.3,0.3,0.1,0.2,0.1,MIN
+22021,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.824,69,0.064,0.704,0.318,0.07,0.11,0.04,0.0,0.333,0.364,0.4,0.3,0.1,0.3,0.2,MIN
+22021,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.938,70,0.065,0.568,0.257,0.07,0.16,0.07,0.02,0.25,0.314,0.6,0.4,0.1,0.5,0.4,MIN
+22021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.766,59,0.104,0.75,0.308,0.1,0.13,0.1,0.0,0.327,0.359,0.9,0.7,0.2,0.7,0.5,MIN
+22021,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.447,74,0.075,0.935,0.371,0.17,0.11,0.17,0.04,0.413,0.429,0.6,0.6,0.2,0.5,0.3,MIN
+22021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.52,79,0.094,0.898,0.429,0.08,0.08,0.06,0.02,0.429,0.476,0.6,0.6,0.2,0.5,0.3,MIN
+22021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.664,65,0.08,0.815,0.364,0.09,0.09,0.09,0.0,0.389,0.375,0.8,0.7,0.2,0.7,0.4,MIN
+22021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.809,72,0.086,0.714,0.321,0.05,0.1,0.05,0.03,0.286,0.393,0.9,0.6,0.3,0.8,0.5,MIN

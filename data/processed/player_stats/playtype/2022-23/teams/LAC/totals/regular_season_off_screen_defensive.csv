@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203496,Robert Covington,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.708,48,0.04,0.833,0.22,0.25,0.0,0.167,0.0,0.417,0.22,12,10,2,9,7,LAC
+22022,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.867,76,0.014,0.688,0.29,0.125,0.063,0.125,0.06,0.313,0.36,16,11,4,14,10,LAC
+22022,1628379,Luke Kennard,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.434,35,0.054,1.0,0.36,0.083,0.0,0.083,0.0,0.417,0.45,12,12,4,11,7,LAC
+22022,201569,Eric Gordon,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.743,22,0.119,0.813,0.42,0.063,0.188,0.063,0.0,0.375,0.46,16,13,5,12,7,LAC
+22022,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.87,60,0.058,0.68,0.27,0.04,0.08,0.0,0.0,0.28,0.34,25,17,6,22,16,LAC
+22022,1629599,Amir Coffey,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.036,50,0.063,1.462,0.6,0.308,0.077,0.308,0.15,0.615,0.7,13,19,6,10,4,LAC
+22022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.434,78,0.035,1.0,0.39,0.053,0.0,0.053,0.0,0.421,0.44,19,19,7,18,11,LAC
+22022,202704,Reggie Jackson,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.434,52,0.038,1.0,0.41,0.05,0.1,0.05,0.0,0.4,0.5,20,20,7,17,10,LAC
+22022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.327,65,0.053,1.074,0.44,0.037,0.037,0.037,0.0,0.444,0.54,27,29,11,25,14,LAC
+22022,1629611,Terance Mann,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.355,81,0.051,1.057,0.44,0.057,0.029,0.057,0.0,0.457,0.52,35,37,14,32,18,LAC
+22022,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.509,52,0.084,0.953,0.38,0.07,0.023,0.07,0.02,0.395,0.45,43,41,15,40,25,LAC
+22022,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.239,56,0.068,1.159,0.45,0.068,0.045,0.068,0.02,0.455,0.58,44,51,18,40,22,LAC

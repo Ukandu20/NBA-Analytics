@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.768,54,0.076,0.793,0.333,0.172,0.103,0.172,0.0,0.414,0.333,0.5,0.4,0.1,0.4,0.3,DAL
+22023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.394,29,0.078,1.0,0.417,0.08,0.0,0.08,0.04,0.44,0.479,0.9,0.9,0.3,0.8,0.5,DAL
+22023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.237,63,0.073,1.087,0.45,0.087,0.043,0.087,0.0,0.478,0.525,0.4,0.4,0.1,0.3,0.2,DAL
+22023,1629684,Grant Williams,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.579,44,0.063,0.897,0.4,0.069,0.103,0.069,0.034,0.379,0.48,0.7,0.6,0.2,0.6,0.3,DAL
+22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.297,78,0.071,1.043,0.488,0.043,0.087,0.043,0.022,0.457,0.561,0.6,0.6,0.3,0.5,0.3,DAL
+22023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.761,75,0.092,0.797,0.368,0.063,0.063,0.063,0.016,0.375,0.404,0.9,0.7,0.3,0.8,0.5,DAL
+22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.114,70,0.052,1.222,0.538,0.067,0.067,0.067,0.0,0.533,0.641,0.6,0.8,0.3,0.6,0.3,DAL
+22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.135,58,0.088,1.184,0.618,0.122,0.224,0.122,0.041,0.51,0.721,0.8,1.0,0.4,0.6,0.2,DAL
+22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Handoff,Defensive,0.175,57,0.093,1.13,0.543,0.056,0.111,0.056,0.019,0.481,0.62,0.9,1.1,0.4,0.8,0.4,DAL

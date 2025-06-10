@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.573,74,0.162,0.971,0.358,0.038,0.067,0.038,0.01,0.352,0.495,105,102,34,95,61,OKC
+22024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.645,69,0.06,1.011,0.528,0.057,0.115,0.057,0.0,0.494,0.563,87,88,38,72,34,OKC
+22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.943,76,0.023,1.25,0.571,0.125,0.063,0.125,0.063,0.563,0.619,48,60,24,42,18,OKC
+22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.968,76,0.041,1.294,0.636,0.0,0.029,0.0,0.0,0.618,0.667,34,44,21,33,12,OKC
+22024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.74,68,0.057,1.063,0.519,0.031,0.125,0.031,0.0,0.469,0.611,32,34,14,27,13,OKC
+22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.097,71,0.02,0.615,0.231,0.0,0.0,0.0,0.0,0.231,0.308,13,8,3,13,10,OKC
+22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.156,69,0.025,0.7,0.375,0.1,0.2,0.1,0.1,0.3,0.375,10,7,3,8,5,OKC
+22024,1642349,Ajay Mitchell,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.036,36,0.061,0.429,0.182,0.071,0.143,0.071,0.0,0.214,0.182,14,6,2,11,9,OKC

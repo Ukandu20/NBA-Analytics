@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Transition,Offensive,0.607,5,0.133,1.2,0.692,0.0,0.133,0.0,0.0,0.6,0.692,3.0,3.6,1.8,2.6,0.8,MIA
+42023,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Transition,Offensive,0.437,5,0.22,1.091,0.5,0.091,0.091,0.091,0.091,0.455,0.55,2.2,2.4,1.0,2.0,1.0,MIA
+42023,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Transition,Offensive,0.314,5,0.104,1.0,0.429,0.1,0.2,0.1,0.0,0.4,0.571,2.0,2.0,0.6,1.4,0.8,MIA

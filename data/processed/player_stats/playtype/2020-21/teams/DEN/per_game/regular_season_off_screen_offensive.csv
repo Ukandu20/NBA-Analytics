@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.719,72,0.058,1.112,0.542,0.082,0.082,0.082,0.01,0.531,0.572,1.4,1.5,0.6,1.2,0.5,DEN
+22020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.633,61,0.093,1.057,0.434,0.023,0.045,0.023,0.011,0.42,0.542,1.4,1.5,0.6,1.4,0.8,DEN
+22020,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.333,48,0.042,0.875,0.387,0.075,0.15,0.075,0.0,0.35,0.5,0.8,0.7,0.3,0.6,0.4,DEN
+22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.557,58,0.022,1.0,0.375,0.2,0.0,0.2,0.0,0.4,0.563,0.2,0.2,0.1,0.1,0.1,DEN

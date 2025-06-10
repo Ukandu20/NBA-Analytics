@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203463,Ben McLemore,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.951,71,0.456,1.285,0.446,0.014,0.032,0.011,0.0,0.44,0.659,284,365,121,271,150,HOU
+22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.571,72,0.575,1.007,0.374,0.0,0.06,0.0,0.0,0.351,0.536,299,301,105,281,176,HOU
+22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.527,63,0.448,0.996,0.349,0.039,0.046,0.035,0.007,0.353,0.504,283,282,91,261,170,HOU
+22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.324,57,0.146,0.883,0.407,0.065,0.121,0.061,0.012,0.389,0.478,247,218,83,204,121,HOU
+22019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.547,68,0.314,1.0,0.376,0.053,0.048,0.043,0.011,0.38,0.506,187,187,64,170,106,HOU
+22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.365,36,0.303,0.91,0.325,0.054,0.024,0.054,0.024,0.337,0.443,166,151,51,157,106,HOU
+22019,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.934,68,0.049,1.257,0.488,0.143,0.076,0.143,0.038,0.505,0.64,105,132,42,86,44,HOU
+22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.284,22,0.571,0.863,0.316,0.052,0.078,0.046,0.02,0.314,0.445,153,132,43,136,93,HOU
+22019,201145,Jeff Green,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.865,18,0.364,1.188,0.448,0.047,0.063,0.031,0.016,0.438,0.612,64,76,26,58,32,HOU
+22019,200757,Thabo Sefolosha,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.09,42,0.5,0.655,0.271,0.0,0.127,0.0,0.0,0.236,0.375,55,36,13,48,35,HOU
+22019,1629109,Gary Clark,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.377,18,0.554,0.917,0.314,0.028,0.028,0.028,0.028,0.306,0.457,36,33,11,35,24,HOU
+22019,201960,DeMarre Carroll,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.337,9,0.352,0.895,0.333,0.105,0.105,0.105,0.0,0.368,0.433,19,17,5,15,10,HOU
+22019,1626187,Michael Frazier II,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.07,13,0.415,0.588,0.188,0.059,0.0,0.059,0.0,0.235,0.281,17,10,3,16,13,HOU

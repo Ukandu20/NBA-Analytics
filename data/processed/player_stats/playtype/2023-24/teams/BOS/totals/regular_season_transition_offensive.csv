@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.593,69,0.273,1.176,0.564,0.147,0.094,0.143,0.034,0.553,0.627,414,487,185,328,143,BOS
+22023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Transition,Offensive,0.253,72,0.205,1.005,0.463,0.094,0.123,0.084,0.015,0.448,0.543,203,204,75,162,87,BOS
+22023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Transition,Offensive,0.473,68,0.193,1.124,0.526,0.025,0.149,0.019,0.012,0.453,0.652,161,181,71,135,64,BOS
+22023,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Transition,Offensive,0.849,78,0.202,1.319,0.505,0.017,0.05,0.008,0.0,0.487,0.689,119,157,56,111,55,BOS
+22023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Transition,Offensive,0.453,81,0.19,1.118,0.5,0.051,0.074,0.037,0.007,0.478,0.596,136,152,60,120,60,BOS
+22023,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.777,64,0.156,1.27,0.529,0.0,0.081,0.0,0.0,0.486,0.691,74,94,36,68,32,BOS
+22023,1629052,Oshae Brissett,1610612738,BOS,Boston Celtics,Transition,Offensive,0.929,55,0.185,1.41,0.679,0.282,0.051,0.282,0.051,0.692,0.732,39,55,19,28,9,BOS
+22023,1629004,Svi Mykhailiuk,1610612738,BOS,Boston Celtics,Transition,Offensive,0.862,41,0.201,1.323,0.625,0.032,0.194,0.032,0.0,0.516,0.833,31,41,15,24,9,BOS
+22023,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Transition,Offensive,1.0,62,0.098,1.667,0.85,0.125,0.042,0.125,0.0,0.833,0.85,24,40,17,20,3,BOS
+22023,1630205,Lamar Stevens,1610612738,BOS,Boston Celtics,Transition,Offensive,0.69,19,0.224,1.231,0.75,0.231,0.231,0.231,0.077,0.615,0.75,13,16,6,8,2,BOS
+22023,1630625,Dalano Banton,1610612738,BOS,Boston Celtics,Transition,Offensive,0.354,23,0.227,1.067,0.5,0.2,0.067,0.2,0.067,0.533,0.5,15,16,6,12,6,BOS
+22023,1629674,Neemias Queta,1610612738,BOS,Boston Celtics,Transition,Offensive,0.612,28,0.085,1.182,0.667,0.091,0.182,0.091,0.091,0.545,0.667,11,13,6,9,3,BOS

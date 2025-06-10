@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.824,24,0.113,1.407,0.667,0.111,0.0,0.111,0.0,0.704,0.667,1.1,1.6,0.7,1.0,0.3,TOR
+42018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.647,24,0.043,1.25,0.579,0.321,0.11,0.179,0.107,0.607,0.579,1.2,1.5,0.5,0.8,0.3,TOR
+42018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.676,24,0.033,1.267,0.692,0.067,0.07,0.067,0.0,0.667,0.692,0.6,0.8,0.4,0.5,0.2,TOR
+42018,201980,Danny Green,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.0,24,0.031,1.5,0.6,0.167,0.0,0.0,0.0,0.667,0.7,0.3,0.4,0.1,0.2,0.1,TOR
+42018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.0,24,0.019,0.571,0.2,0.143,0.14,0.143,0.0,0.286,0.2,0.3,0.2,0.0,0.2,0.2,TOR
+42018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.0,24,0.009,0.5,0.0,0.5,0.5,0.0,0.0,0.5,0.0,0.1,0.0,0.0,0.0,0.0,TOR
+42018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.0,24,0.005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,TOR

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1626162,Kelly Oubre Jr.,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.619,55,0.118,1.35,0.667,0.175,0.019,0.175,0.068,0.68,0.667,103,139,60,90,30,GSW
+22020,1630164,James Wiseman,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.584,39,0.188,1.33,0.707,0.136,0.034,0.136,0.023,0.682,0.707,88,117,53,75,22,GSW
+22020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.93,63,0.041,1.571,0.776,0.086,0.029,0.086,0.071,0.757,0.776,70,110,52,67,15,GSW
+22020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.645,71,0.063,1.358,0.714,0.111,0.062,0.111,0.037,0.679,0.714,81,110,50,70,20,GSW
+22020,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.302,61,0.344,1.172,0.623,0.172,0.069,0.172,0.034,0.609,0.623,87,102,43,69,26,GSW
+22020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.09,63,0.119,0.986,0.559,0.069,0.139,0.069,0.028,0.5,0.559,72,71,33,59,26,GSW
+22020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.695,53,0.171,1.375,0.744,0.125,0.083,0.125,0.021,0.688,0.744,48,66,29,39,10,GSW
+22020,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.344,40,0.118,1.2,0.618,0.222,0.089,0.222,0.067,0.622,0.618,45,54,21,34,13,GSW
+22020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.142,67,0.077,1.051,0.654,0.128,0.205,0.103,0.0,0.538,0.654,39,41,17,26,9,GSW
+22020,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.922,51,0.044,1.56,0.737,0.32,0.04,0.32,0.12,0.76,0.737,25,39,14,19,5,GSW
+22020,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.974,57,0.053,1.706,0.929,0.118,0.118,0.118,0.059,0.824,0.929,17,29,13,14,1,GSW
+22020,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,Cut,Offensive,0.243,60,0.052,1.133,0.778,0.133,0.267,0.133,0.0,0.6,0.778,15,17,7,9,2,GSW

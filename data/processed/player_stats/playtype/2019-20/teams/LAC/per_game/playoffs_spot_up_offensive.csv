@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Spotup,Offensive,0.8,13,0.441,1.304,0.463,0.054,0.018,0.036,0.036,0.464,0.63,4.3,5.6,1.9,4.2,2.2,LAC
+42019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Spotup,Offensive,0.635,13,0.135,1.174,0.455,0.043,0.0,0.0,0.0,0.478,0.568,3.5,4.2,1.5,3.4,1.8,LAC
+42019,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Offensive,0.609,13,0.153,1.163,0.4,0.047,0.023,0.047,0.0,0.419,0.575,3.3,3.8,1.2,3.1,1.8,LAC
+42019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Spotup,Offensive,0.852,12,0.453,1.375,0.478,0.0,0.042,0.0,0.0,0.458,0.717,2.0,2.8,0.9,1.9,1.0,LAC
+42019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Spotup,Offensive,0.212,13,0.48,0.833,0.367,0.028,0.139,0.028,0.0,0.333,0.483,2.8,2.3,0.8,2.3,1.5,LAC
+42019,101150,Lou Williams,1610612746,LAC,LA Clippers,Spotup,Offensive,0.148,13,0.189,0.794,0.3,0.147,0.029,0.118,0.059,0.353,0.333,2.6,2.1,0.7,2.3,1.6,LAC
+42019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Spotup,Offensive,0.526,8,0.417,1.1,0.421,0.0,0.05,0.0,0.0,0.4,0.579,2.5,2.8,1.0,2.4,1.4,LAC
+42019,203210,JaMychal Green,1610612746,LAC,LA Clippers,Spotup,Offensive,0.456,13,0.292,1.053,0.389,0.0,0.053,0.0,0.0,0.368,0.556,1.5,1.5,0.5,1.4,0.8,LAC
+42019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Spotup,Offensive,0.0,13,0.032,1.75,0.75,0.0,0.0,0.0,0.0,0.75,0.875,0.3,0.5,0.2,0.3,0.1,LAC
+42019,202335,Patrick Patterson,1610612746,LAC,LA Clippers,Spotup,Offensive,0.0,2,0.667,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,1.0,3.0,1.0,1.0,0.0,LAC
+42019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Spotup,Offensive,0.0,5,0.4,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.4,0.6,0.2,0.4,0.2,LAC
+42019,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Spotup,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,LAC
+42019,1629611,Terance Mann,1610612746,LAC,LA Clippers,Spotup,Offensive,0.0,13,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,LAC

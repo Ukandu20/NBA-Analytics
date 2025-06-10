@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.915,70,0.04,0.625,0.267,0.0,0.063,0.0,0.0,0.25,0.333,0.2,0.1,0.1,0.2,0.2,CHI
+22024,1641763,Julian Phillips,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.678,75,0.043,0.882,0.267,0.118,0.0,0.118,0.0,0.353,0.367,0.2,0.2,0.1,0.2,0.1,CHI
+22024,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.463,46,0.028,1.071,0.429,0.0,0.0,0.0,0.0,0.429,0.536,0.3,0.3,0.1,0.3,0.2,CHI
+22024,1641824,Matas Buzelis,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.668,77,0.034,0.895,0.333,0.053,0.0,0.053,0.0,0.368,0.417,0.2,0.2,0.1,0.2,0.2,CHI
+22024,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.774,61,0.04,0.783,0.368,0.043,0.13,0.043,0.0,0.348,0.421,0.4,0.3,0.1,0.3,0.2,CHI
+22024,1629659,Talen Horton-Tucker,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.004,50,0.044,1.917,0.667,0.0,0.0,0.0,0.0,0.667,0.958,0.2,0.5,0.2,0.2,0.1,CHI
+22024,1628380,Zach Collins,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.759,25,0.115,0.806,0.345,0.065,0.032,0.065,0.032,0.355,0.379,1.2,1.0,0.4,1.2,0.8,CHI
+22024,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.197,42,0.043,1.318,0.5,0.045,0.045,0.0,0.0,0.5,0.675,0.5,0.7,0.2,0.5,0.2,CHI
+22024,1630581,Josh Giddey,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.418,69,0.036,1.107,0.44,0.036,0.071,0.036,0.0,0.429,0.6,0.4,0.4,0.2,0.4,0.2,CHI
+22024,1630188,Jalen Smith,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.38,54,0.069,1.133,0.444,0.067,0.067,0.067,0.033,0.433,0.593,0.6,0.6,0.2,0.5,0.3,CHI
+22024,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.442,74,0.055,1.098,0.459,0.073,0.049,0.073,0.024,0.463,0.554,0.6,0.6,0.2,0.5,0.3,CHI
+22024,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.588,71,0.087,0.962,0.392,0.067,0.019,0.067,0.019,0.413,0.469,1.5,1.4,0.5,1.4,0.8,CHI

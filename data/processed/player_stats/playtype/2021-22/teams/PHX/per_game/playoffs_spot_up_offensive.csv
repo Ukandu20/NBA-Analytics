@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.734,13,0.448,1.161,0.429,0.071,0.054,0.054,0.0,0.446,0.582,4.3,5.0,1.6,3.8,2.2,PHX
+42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.565,13,0.325,1.038,0.396,0.075,0.038,0.075,0.019,0.415,0.521,4.1,4.2,1.5,3.7,2.2,PHX
+42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.29,13,0.455,0.836,0.345,0.082,0.049,0.082,0.033,0.361,0.409,4.7,3.9,1.5,4.2,2.8,PHX
+42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.597,10,0.165,1.053,0.389,0.053,0.026,0.053,0.026,0.395,0.5,3.8,4.0,1.4,3.6,2.2,PHX
+42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.823,12,0.458,1.259,0.52,0.037,0.037,0.037,0.0,0.519,0.64,2.3,2.8,1.1,2.1,1.0,PHX
+42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.903,13,0.109,1.318,0.526,0.045,0.091,0.045,0.0,0.5,0.684,1.7,2.2,0.8,1.5,0.7,PHX
+42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.024,13,0.236,0.476,0.222,0.048,0.095,0.048,0.0,0.238,0.25,1.6,0.8,0.3,1.4,1.1,PHX
+42021,1628988,Aaron Holiday,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,6,0.357,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.9,0.8,1.5,0.5,0.8,0.3,PHX
+42021,1630688,Ish Wainright,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,7,0.4,1.333,0.5,0.0,0.0,0.0,0.0,0.5,0.667,0.9,1.1,0.4,0.9,0.4,PHX
+42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.106,13,0.056,0.636,0.333,0.091,0.091,0.091,0.0,0.273,0.389,0.8,0.5,0.2,0.7,0.5,PHX
+42021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.049,9,0.407,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,1.2,0.7,0.2,1.1,0.9,PHX
+42021,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.5,1.0,0.5,0.5,0.0,PHX
+42021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.0,12,0.046,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,0.3,0.2,0.1,0.3,0.2,PHX

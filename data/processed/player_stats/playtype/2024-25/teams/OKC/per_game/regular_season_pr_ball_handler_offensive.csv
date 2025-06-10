@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.943,76,0.342,1.105,0.51,0.165,0.114,0.147,0.036,0.514,0.553,9.6,10.6,3.7,7.2,3.5,OKC
+22024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.547,69,0.345,0.87,0.431,0.128,0.138,0.118,0.02,0.423,0.448,7.2,6.3,2.3,5.4,3.1,OKC
+22024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.474,68,0.148,0.843,0.486,0.024,0.145,0.024,0.012,0.422,0.493,1.2,1.0,0.5,1.0,0.5,OKC
+22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.347,76,0.105,0.795,0.439,0.068,0.182,0.045,0.0,0.386,0.462,1.2,0.9,0.4,0.9,0.5,OKC
+22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.906,69,0.088,1.056,0.5,0.139,0.083,0.139,0.056,0.472,0.55,0.5,0.6,0.2,0.4,0.2,OKC
+22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.583,71,0.039,0.885,0.391,0.077,0.038,0.077,0.0,0.385,0.457,0.4,0.3,0.1,0.3,0.2,OKC
+22024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.118,74,0.048,0.645,0.318,0.065,0.226,0.032,0.0,0.258,0.432,0.4,0.3,0.1,0.3,0.2,OKC
+22024,1631172,Ousmane Dieng,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.085,37,0.12,0.611,0.444,0.056,0.444,0.056,0.0,0.278,0.5,0.5,0.3,0.1,0.2,0.1,OKC
+22024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.445,32,0.026,0.833,0.5,0.25,0.25,0.25,0.0,0.5,0.5,0.4,0.3,0.1,0.2,0.1,OKC
+22024,1641794,Dillon Jones,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.069,54,0.091,0.563,0.333,0.188,0.25,0.188,0.0,0.313,0.389,0.3,0.2,0.1,0.2,0.1,OKC

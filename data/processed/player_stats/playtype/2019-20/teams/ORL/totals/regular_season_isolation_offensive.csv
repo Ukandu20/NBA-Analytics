@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.259,62,0.055,0.755,0.31,0.189,0.057,0.189,0.038,0.396,0.321,53,40,13,42,29,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.295,66,0.038,0.773,0.438,0.068,0.227,0.068,0.023,0.364,0.453,44,34,14,32,18,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.105,57,0.061,0.595,0.16,0.162,0.189,0.135,0.027,0.243,0.22,37,22,4,25,21,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.486,72,0.02,0.85,0.615,0.05,0.35,0.05,0.05,0.4,0.615,20,17,8,13,5,ORL
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.166,69,0.027,0.654,0.333,0.038,0.154,0.0,0.0,0.308,0.357,26,17,7,21,14,ORL
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.361,45,0.056,0.8,0.316,0.15,0.0,0.1,0.1,0.35,0.316,20,16,6,19,13,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.8,34,0.026,1.0,0.455,0.0,0.0,0.0,0.0,0.455,0.5,11,11,5,11,6,ORL

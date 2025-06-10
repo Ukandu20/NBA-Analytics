@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.927,58,0.398,1.073,0.453,0.153,0.138,0.141,0.017,0.463,0.534,523,561,172,380,208,MIL
+22024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.823,67,0.114,1.0,0.53,0.178,0.139,0.163,0.043,0.495,0.556,208,208,80,151,71,MIL
+22024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.912,30,0.415,1.058,0.515,0.137,0.18,0.137,0.029,0.475,0.566,139,147,51,99,48,MIL
+22024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.843,74,0.118,1.011,0.479,0.057,0.126,0.057,0.0,0.448,0.556,87,88,34,71,37,MIL
+22024,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.64,23,0.292,0.91,0.435,0.064,0.154,0.051,0.013,0.397,0.508,78,71,27,62,35,MIL
+22024,1631157,Ryan Rollins,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.408,56,0.243,0.819,0.466,0.096,0.253,0.084,0.048,0.373,0.509,83,68,27,58,31,MIL
+22024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.628,33,0.123,0.905,0.531,0.063,0.175,0.063,0.016,0.46,0.541,63,57,26,49,23,MIL
+22024,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.823,41,0.154,1.0,0.565,0.091,0.242,0.061,0.03,0.455,0.652,33,33,13,23,10,MIL
+22024,1626153,Delon Wright,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.027,26,0.358,0.447,0.222,0.105,0.184,0.079,0.0,0.263,0.222,38,17,6,27,21,MIL
+22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.018,80,0.068,0.357,0.219,0.024,0.214,0.024,0.0,0.167,0.234,42,15,7,32,25,MIL
+22024,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.039,73,0.059,0.5,0.227,0.0,0.214,0.0,0.0,0.179,0.318,28,14,5,22,17,MIL

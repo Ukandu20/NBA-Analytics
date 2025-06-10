@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.962,52,0.027,1.476,0.556,0.048,0.095,0.048,0.0,0.524,0.806,0.4,0.6,0.2,0.3,0.2,OKC
+22020,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.771,45,0.036,1.158,0.429,0.105,0.158,0.105,0.0,0.421,0.643,0.4,0.5,0.1,0.3,0.2,OKC
+22020,1629004,Svi Mykhailiuk,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.397,30,0.07,0.917,0.429,0.042,0.083,0.042,0.0,0.417,0.5,0.8,0.7,0.3,0.7,0.4,OKC
+22020,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.971,35,0.018,1.5,0.615,0.0,0.071,0.0,0.0,0.571,0.808,0.4,0.6,0.2,0.4,0.1,OKC
+22020,1629660,Ty Jerome,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.457,33,0.049,0.941,0.353,0.0,0.0,0.0,0.0,0.353,0.471,0.5,0.5,0.2,0.5,0.3,OKC
+22020,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.082,55,0.024,0.667,0.2,0.19,0.095,0.143,0.0,0.333,0.233,0.4,0.3,0.1,0.3,0.2,OKC
+22020,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.805,66,0.021,1.182,0.75,0.0,0.273,0.0,0.0,0.545,0.813,0.2,0.2,0.1,0.1,0.0,OKC

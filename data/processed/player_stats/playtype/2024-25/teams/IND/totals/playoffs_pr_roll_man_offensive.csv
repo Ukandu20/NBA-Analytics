@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.692,17,0.268,1.242,0.571,0.161,0.081,0.161,0.032,0.581,0.622,62,77,28,49,21,IND
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.308,17,0.153,0.979,0.422,0.042,0.021,0.042,0.0,0.417,0.5,48,47,19,45,26,IND
+42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.385,17,0.086,1.059,0.438,0.0,0.059,0.0,0.0,0.412,0.563,17,18,7,16,9,IND
+42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.2,17,0.07,0.9,0.5,0.0,0.2,0.0,0.0,0.4,0.563,10,9,4,8,4,IND

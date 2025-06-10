@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,3,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,MIL
+42019,1628412,Frank Mason III,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,MIL
+42019,2594,Kyle Korver,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,10,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,MIL
+42019,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,10,0.01,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.0,0.0,0.0,0.0,MIL
+42019,101107,Marvin Williams,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,10,0.05,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.4,0.0,0.1,0.4,0.3,MIL
+42019,201577,Robin Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,3,0.05,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,MIL
+42019,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,9,0.02,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.5,0.2,0.0,0.1,0.1,0.0,MIL
+42019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,10,0.04,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,0.5,0.0,0.2,0.5,0.3,MIL
+42019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,9,0.04,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.62,0.4,1.0,0.2,0.4,0.2,MIL
+42019,201588,George Hill,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.0,10,0.04,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.4,1.0,0.4,0.4,0.0,MIL
+42019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,PRRollMan,Defensive,0.053,10,0.13,1.448,0.57,0.03,0.0,0.03,0.0,0.59,0.73,2.9,4.0,1.6,2.8,1.2,MIL

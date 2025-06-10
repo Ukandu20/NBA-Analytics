@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,5,0.308,0.25,0.0,0.25,0.25,0.25,0.0,0.25,0.0,0.8,0.0,0.0,0.4,0.4,BOS
+42020,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,2,0.333,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,1.0,1.0,0.5,0.5,0.0,BOS
+42020,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,3,0.278,0.8,0.33,0.2,0.2,0.0,0.0,0.4,0.5,1.7,1.0,0.3,1.0,0.7,BOS
+42020,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,2,0.75,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,1.5,2.0,1.0,1.5,0.5,BOS
+42020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,5,0.429,0.833,0.33,0.0,0.0,0.0,0.0,0.33,0.42,1.2,1.0,0.4,1.2,0.8,BOS
+42020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,3,0.24,1.167,0.4,0.33,0.0,0.33,0.17,0.5,0.4,2.0,2.0,0.7,1.7,1.0,BOS
+42020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.0,5,0.089,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,1.0,2.0,0.6,0.8,0.2,BOS
+42020,203953,Jabari Parker,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.738,4,0.6,0.733,0.31,0.07,0.07,0.07,0.0,0.33,0.35,3.8,3.0,1.0,3.3,2.3,BOS
+42020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.125,5,0.179,1.2,0.43,0.3,0.0,0.3,0.0,0.6,0.43,2.0,2.0,0.6,1.4,0.8,BOS
+42020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.154,5,0.343,1.167,0.5,0.17,0.0,0.17,0.0,0.58,0.5,2.4,3.0,1.0,2.0,1.0,BOS
+42020,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.246,4,0.326,1.071,0.5,0.07,0.07,0.07,0.0,0.5,0.58,3.5,4.0,1.5,3.0,1.5,BOS
+42020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.015,5,0.479,1.522,0.6,0.09,0.04,0.09,0.0,0.61,0.78,4.6,7.0,2.4,4.0,1.6,BOS
+42020,203095,Evan Fournier,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.031,5,0.443,1.481,0.59,0.26,0.07,0.26,0.15,0.59,0.66,5.4,8.0,2.6,4.4,1.8,BOS

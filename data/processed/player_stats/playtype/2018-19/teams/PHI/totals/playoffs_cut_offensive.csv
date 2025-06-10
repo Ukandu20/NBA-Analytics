@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.842,12,0.205,1.5,0.786,0.206,0.088,0.176,0.118,0.706,0.786,34,51,22,28,6,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.154,11,0.084,1.05,0.538,0.25,0.2,0.25,0.1,0.5,0.538,20,21,7,13,6,PHI
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.141,1.556,0.857,0.111,0.111,0.111,0.0,0.778,0.857,9,14,6,7,1,PHI
+42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,10,0.164,1.556,0.875,0.0,0.111,0.0,0.0,0.778,0.875,9,14,7,8,1,PHI
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.541,12,0.049,1.273,0.5,0.273,0.0,0.273,0.0,0.636,0.5,11,14,4,8,4,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,12,0.046,1.111,0.556,0.0,0.0,0.0,0.0,0.556,0.556,9,10,5,9,4,PHI
+42018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,9,0.179,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,5,8,4,5,1,PHI
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,12,0.026,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,4,4,2,2,0,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,11,0.072,0.667,0.4,0.0,0.167,0.0,0.0,0.333,0.4,6,4,2,5,3,PHI
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,10,0.146,0.429,0.167,0.143,0.0,0.0,0.0,0.286,0.167,7,3,1,6,5,PHI
+42018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,4,0.2,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.0,7,0.026,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI

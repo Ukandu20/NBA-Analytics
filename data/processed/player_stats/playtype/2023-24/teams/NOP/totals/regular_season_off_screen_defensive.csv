@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.055,75,0.014,1.455,0.545,0.091,0.0,0.091,0.091,0.545,0.682,11,16,6,11,5,NOP
+22023,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.473,60,0.053,1.048,0.381,0.0,0.0,0.0,0.0,0.381,0.524,21,22,8,21,13,NOP
+22023,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.7,60,0.053,0.875,0.31,0.094,0.063,0.094,0.063,0.313,0.414,32,28,9,29,20,NOP
+22023,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.0,69,0.03,2.048,0.737,0.095,0.048,0.095,0.048,0.714,1.053,21,43,14,19,5,NOP
+22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.59,63,0.091,0.96,0.375,0.04,0.04,0.04,0.04,0.36,0.479,50,48,18,48,30,NOP
+22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,OffScreen,Defensive,0.414,74,0.067,1.113,0.457,0.057,0.094,0.057,0.019,0.434,0.587,53,59,21,46,25,NOP

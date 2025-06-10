@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Cut,Offensive,0.744,78,0.172,1.412,0.79,0.243,0.066,0.228,0.044,0.735,0.79,136,192,79,100,21,DET
+22024,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,Cut,Offensive,0.522,59,0.175,1.302,0.681,0.113,0.038,0.104,0.009,0.689,0.681,106,138,62,91,29,DET
+22024,1630191,Isaiah Stewart,1610612765,DET,Detroit Pistons,Cut,Offensive,0.695,72,0.19,1.388,0.77,0.2,0.088,0.2,0.05,0.725,0.77,80,111,47,61,14,DET
+22024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Cut,Offensive,0.535,73,0.06,1.31,0.638,0.172,0.034,0.172,0.017,0.672,0.638,58,76,30,47,17,DET
+22024,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Cut,Offensive,0.959,30,0.043,1.667,0.8,0.208,0.0,0.208,0.042,0.833,0.8,24,40,16,20,4,DET
+22024,1641842,Ronald Holland II,1610612765,DET,Detroit Pistons,Cut,Offensive,0.602,81,0.056,1.333,0.762,0.233,0.067,0.233,0.0,0.733,0.762,30,40,16,21,5,DET
+22024,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,Cut,Offensive,0.619,75,0.05,1.348,0.619,0.13,0.0,0.13,0.043,0.652,0.619,23,31,13,21,8,DET
+22024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Cut,Offensive,0.56,70,0.011,1.318,0.632,0.182,0.045,0.182,0.091,0.636,0.632,22,29,12,19,7,DET
+22024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,Cut,Offensive,0.057,82,0.009,0.909,0.556,0.091,0.182,0.091,0.091,0.455,0.556,11,10,5,9,4,DET

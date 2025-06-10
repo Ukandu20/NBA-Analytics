@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.556,4,0.139,1.1,0.333,0.5,0.1,0.4,0.2,0.5,0.333,10,11,2,6,4,PHI
+42019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.325,4,0.16,0.917,0.429,0.333,0.167,0.25,0.083,0.5,0.429,12,11,3,7,4,PHI
+42019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.078,0.778,0.333,0.111,0.222,0.0,0.0,0.333,0.417,9,7,2,6,4,PHI
+42019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.143,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,PHI
+42019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.075,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,PHI
+42019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
+42019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.111,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,PHI
+42019,203526,Raul Neto,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,2,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,PHI
+42019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,PHI
+42019,202692,Alec Burks,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,4,0.054,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2,PHI

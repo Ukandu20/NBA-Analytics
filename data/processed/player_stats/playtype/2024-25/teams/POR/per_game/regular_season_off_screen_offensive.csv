@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.386,70,0.06,0.901,0.347,0.012,0.062,0.012,0.0,0.333,0.467,1.2,1.0,0.4,1.1,0.7,POR
+22024,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.282,72,0.058,0.823,0.379,0.063,0.114,0.063,0.013,0.367,0.455,1.1,0.9,0.3,0.9,0.6,POR
+22024,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.068,47,0.092,0.646,0.273,0.092,0.077,0.092,0.015,0.308,0.309,1.4,0.9,0.3,1.2,0.9,POR
+22024,1630166,Deni Avdija,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.982,72,0.022,1.538,0.667,0.269,0.154,0.269,0.115,0.577,0.917,0.4,0.6,0.2,0.3,0.1,POR
+22024,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.161,66,0.017,0.75,0.364,0.125,0.188,0.063,0.0,0.313,0.455,0.2,0.2,0.1,0.2,0.1,POR

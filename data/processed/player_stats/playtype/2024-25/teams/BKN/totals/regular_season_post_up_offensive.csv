@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.833,44,0.088,1.14,0.528,0.209,0.047,0.209,0.093,0.558,0.528,43,49,19,36,17,BKN
+22024,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.292,50,0.094,0.872,0.448,0.154,0.128,0.128,0.026,0.436,0.448,39,34,13,29,16,BKN
+22024,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.194,70,0.052,0.816,0.4,0.184,0.079,0.158,0.053,0.421,0.4,38,31,12,30,18,BKN
+22024,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.083,33,0.089,0.708,0.389,0.083,0.208,0.083,0.042,0.333,0.389,24,17,7,18,11,BKN
+22024,1631166,Drew Timme,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.049,9,0.098,0.583,0.286,0.167,0.25,0.167,0.0,0.333,0.286,12,7,2,7,5,BKN

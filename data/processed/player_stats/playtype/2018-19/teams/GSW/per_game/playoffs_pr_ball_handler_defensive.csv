@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1628980,Jacob Evans,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,7,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,GSW
+42018,202326,DeMarcus Cousins,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,8,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,GSW
+42018,201973,Jonas Jerebko,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,16,0.121,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.2,0.2,GSW
+42018,1628395,Jordan Bell,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,15,0.039,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.0,0.1,0.1,0.1,GSW
+42018,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.0,21,0.016,1.25,0.33,0.5,0.0,0.5,0.25,0.5,0.33,0.2,0.0,0.0,0.1,0.1,GSW
+42018,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,1.0,22,0.14,0.385,0.25,0.08,0.31,0.08,0.0,0.23,0.25,0.6,0.0,0.1,0.4,0.3,GSW
+42018,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.747,12,0.185,0.773,0.38,0.09,0.18,0.09,0.0,0.36,0.41,1.8,1.0,0.5,1.3,0.8,GSW
+42018,1628035,Alfonzo McKinnie,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.613,22,0.271,0.826,0.26,0.13,0.04,0.09,0.0,0.35,0.34,1.0,1.0,0.2,0.9,0.6,GSW
+42018,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.027,17,0.333,1.368,0.73,0.05,0.16,0.0,0.0,0.63,0.8,1.1,2.0,0.6,0.9,0.2,GSW
+42018,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.267,22,0.132,1.059,0.48,0.24,0.21,0.21,0.06,0.47,0.55,1.5,2.0,0.5,1.0,0.5,GSW
+42018,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.16,22,0.152,1.128,0.48,0.1,0.18,0.1,0.03,0.44,0.6,1.8,2.0,0.6,1.3,0.7,GSW
+42018,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.707,21,0.398,0.804,0.42,0.15,0.25,0.13,0.04,0.37,0.48,4.9,4.0,1.3,3.0,1.8,GSW
+42018,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.44,21,0.341,0.919,0.43,0.12,0.14,0.1,0.02,0.42,0.47,4.7,4.0,1.5,3.6,2.0,GSW

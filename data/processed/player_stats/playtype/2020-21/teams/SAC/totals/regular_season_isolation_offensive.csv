@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.516,58,0.116,0.865,0.384,0.159,0.059,0.159,0.035,0.435,0.406,170,147,53,138,85,SAC
+22020,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.66,58,0.07,0.949,0.467,0.119,0.119,0.119,0.0,0.475,0.511,59,56,21,45,24,SAC
+22020,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.964,71,0.025,1.241,0.556,0.034,0.069,0.034,0.034,0.517,0.648,29,36,15,27,12,SAC
+22020,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.327,43,0.053,0.781,0.333,0.281,0.063,0.281,0.0,0.469,0.357,32,25,7,21,14,SAC
+22020,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.266,58,0.037,0.704,0.333,0.074,0.148,0.037,0.0,0.333,0.381,27,19,7,21,14,SAC
+22020,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.847,61,0.019,1.071,0.545,0.143,0.071,0.143,0.0,0.571,0.545,14,15,6,11,5,SAC
+22020,202709,Cory Joseph,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.609,44,0.041,0.923,0.462,0.0,0.0,0.0,0.0,0.462,0.462,13,12,6,13,7,SAC
+22020,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.243,36,0.07,0.688,0.308,0.125,0.063,0.063,0.0,0.375,0.308,16,11,4,13,9,SAC
+22020,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.28,27,0.037,0.727,0.375,0.091,0.182,0.0,0.0,0.364,0.375,11,8,3,8,5,SAC
+22020,1626153,Delon Wright,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.106,27,0.047,0.538,0.2,0.077,0.154,0.077,0.0,0.231,0.25,13,7,2,10,8,SAC

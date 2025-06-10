@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.467,5,0.105,1.0,0.4,0.0,0.091,0.0,0.0,0.364,0.55,2.2,2.2,0.8,2.0,1.2,LAL

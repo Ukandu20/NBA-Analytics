@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.844,66,0.119,1.136,0.547,0.268,0.06,0.264,0.06,0.6,0.547,3.6,4.0,1.4,2.6,1.2,DAL
+22022,1626174,Christian Wood,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.659,67,0.111,1.036,0.6,0.17,0.179,0.143,0.018,0.55,0.6,1.7,1.7,0.7,1.1,0.4,DAL
+22022,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.988,53,0.028,1.417,0.647,0.292,0.083,0.292,0.083,0.67,0.647,0.5,0.6,0.2,0.3,0.1,DAL

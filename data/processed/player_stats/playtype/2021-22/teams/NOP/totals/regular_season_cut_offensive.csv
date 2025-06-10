@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.637,74,0.129,1.348,0.669,0.149,0.056,0.149,0.031,0.671,0.669,161,217,89,133,44,NOP
+22021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.694,70,0.23,1.385,0.688,0.254,0.041,0.254,0.057,0.705,0.688,122,169,64,93,29,NOP
+22021,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.394,50,0.203,1.225,0.611,0.18,0.045,0.18,0.034,0.629,0.611,89,109,44,72,28,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.72,78,0.099,1.392,0.683,0.203,0.027,0.203,0.041,0.703,0.683,74,103,41,60,19,NOP
+22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.6,55,0.024,1.323,0.643,0.129,0.032,0.129,0.065,0.645,0.643,31,41,18,28,10,NOP
+22021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.178,55,0.073,1.077,0.522,0.077,0.038,0.077,0.0,0.538,0.522,26,28,12,23,11,NOP
+22021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.457,54,0.053,1.263,0.643,0.211,0.158,0.211,0.105,0.579,0.643,19,24,9,14,5,NOP
+22021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.264,62,0.064,1.15,0.462,0.35,0.05,0.35,0.05,0.6,0.462,20,23,6,13,7,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.852,41,0.028,1.467,0.846,0.0,0.133,0.0,0.0,0.733,0.846,15,22,11,13,2,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.137,50,0.026,1.05,0.625,0.05,0.2,0.05,0.05,0.5,0.625,20,21,10,16,6,NOP
+22021,202066,Garrett Temple,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.357,59,0.042,1.2,0.583,0.2,0.0,0.133,0.0,0.667,0.583,15,18,7,12,5,NOP
+22021,203107,Tomas Satoransky,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.896,32,0.071,1.5,0.7,0.1,0.0,0.1,0.1,0.7,0.7,10,15,7,10,3,NOP

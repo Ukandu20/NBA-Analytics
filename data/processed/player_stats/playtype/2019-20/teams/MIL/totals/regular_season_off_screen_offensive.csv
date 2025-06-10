@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.793,62,0.061,1.097,0.468,0.042,0.111,0.042,0.014,0.431,0.589,72,79,29,62,33,MIL
+22019,2594,Kyle Korver,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.694,58,0.2,1.042,0.413,0.028,0.099,0.014,0.014,0.38,0.571,71,74,26,63,37,MIL
+22019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.459,63,0.035,0.917,0.392,0.083,0.083,0.083,0.017,0.4,0.48,60,55,20,51,31,MIL
+22019,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.667,67,0.1,1.02,0.404,0.02,0.041,0.02,0.02,0.388,0.532,49,50,19,47,28,MIL
+22019,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.333,61,0.031,0.862,0.4,0.069,0.103,0.069,0.034,0.379,0.46,29,25,10,25,15,MIL
+22019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.991,68,0.019,1.6,0.615,0.133,0.0,0.133,0.0,0.667,0.731,15,24,8,13,5,MIL
+22019,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.353,67,0.063,0.87,0.391,0.0,0.0,0.0,0.0,0.391,0.435,23,20,9,23,14,MIL
+22019,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.338,66,0.034,0.864,0.368,0.045,0.091,0.0,0.0,0.364,0.474,22,19,7,19,12,MIL
+22019,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.635,52,0.048,1.0,0.545,0.0,0.267,0.0,0.0,0.4,0.682,15,15,6,11,5,MIL
+22019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.434,63,0.028,0.909,0.444,0.0,0.182,0.0,0.0,0.364,0.556,11,10,4,9,5,MIL
+22019,201588,George Hill,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.149,59,0.023,0.727,0.286,0.091,0.273,0.091,0.0,0.273,0.429,11,8,2,7,5,MIL

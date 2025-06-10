@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.417,74,0.359,1.034,0.482,0.095,0.063,0.092,0.026,0.481,0.526,349,361,146,303,157,IND
+22018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.509,74,0.304,1.076,0.542,0.146,0.07,0.14,0.043,0.548,0.552,301,324,135,249,114,IND
+22018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.037,81,0.01,0.615,0.25,0.0,0.077,0.0,0.0,0.231,0.333,13,8,3,12,9,IND

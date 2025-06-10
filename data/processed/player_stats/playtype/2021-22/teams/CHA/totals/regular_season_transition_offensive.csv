@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.503,75,0.188,1.123,0.509,0.113,0.163,0.09,0.03,0.467,0.631,300,337,115,226,111,CHA
+22021,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.409,73,0.211,1.072,0.452,0.075,0.065,0.068,0.029,0.448,0.542,279,299,112,248,136,CHA
+22021,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.619,80,0.167,1.187,0.589,0.155,0.124,0.135,0.02,0.566,0.638,251,298,109,185,76,CHA
+22021,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.549,76,0.218,1.149,0.515,0.128,0.064,0.119,0.017,0.515,0.606,235,270,100,194,94,CHA
+22021,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.539,49,0.207,1.146,0.54,0.134,0.108,0.134,0.032,0.529,0.609,157,180,67,124,57,CHA
+22021,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.729,71,0.253,1.239,0.602,0.149,0.097,0.119,0.015,0.597,0.65,134,166,62,103,41,CHA
+22021,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.701,65,0.163,1.226,0.562,0.057,0.113,0.057,0.009,0.519,0.691,106,130,50,89,39,CHA
+22021,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.776,55,0.204,1.273,0.653,0.167,0.136,0.167,0.045,0.591,0.714,66,84,32,49,17,CHA
+22021,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.888,73,0.12,1.367,0.86,0.133,0.167,0.133,0.017,0.733,0.86,60,82,37,43,6,CHA
+22021,1626149,Montrezl Harrell,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.944,25,0.125,1.483,0.72,0.172,0.0,0.172,0.034,0.759,0.72,29,43,18,25,7,CHA
+22021,1630547,James Bouknight,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.12,30,0.22,0.865,0.344,0.108,0.054,0.081,0.027,0.378,0.406,37,32,11,32,21,CHA
+22021,202397,Ish Smith,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.014,37,0.192,0.591,0.343,0.045,0.182,0.045,0.023,0.295,0.343,44,26,12,35,23,CHA
+22021,202738,Isaiah Thomas,1610612766,CHA,Charlotte Hornets,Transition,Offensive,0.345,17,0.161,1.045,0.368,0.091,0.045,0.091,0.0,0.409,0.5,22,23,7,19,12,CHA

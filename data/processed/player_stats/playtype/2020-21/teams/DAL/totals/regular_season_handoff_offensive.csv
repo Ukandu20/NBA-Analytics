@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.912,70,0.09,1.255,0.458,0.106,0.032,0.096,0.021,0.489,0.608,94,118,38,83,45,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.671,66,0.049,1.033,0.522,0.1,0.189,0.1,0.033,0.433,0.612,90,93,35,67,32,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.7,59,0.081,1.05,0.469,0.117,0.1,0.1,0.033,0.467,0.541,60,63,23,49,26,DAL
+22020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.353,68,0.069,0.849,0.467,0.019,0.132,0.0,0.0,0.415,0.489,53,45,21,45,24,DAL
+22020,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.265,62,0.046,0.789,0.313,0.105,0.053,0.105,0.0,0.368,0.375,19,15,5,16,11,DAL
+22020,200755,JJ Redick,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.255,13,0.212,0.786,0.364,0.0,0.214,0.0,0.0,0.286,0.5,14,11,4,11,7,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.168,60,0.023,0.667,0.333,0.083,0.25,0.083,0.083,0.25,0.389,12,8,3,9,6,DAL
+22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.131,44,0.016,0.615,0.2,0.231,0.154,0.231,0.154,0.231,0.2,13,8,2,10,8,DAL
+22020,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.046,39,0.109,0.462,0.2,0.077,0.154,0.077,0.0,0.231,0.2,13,6,2,10,8,DAL

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.762,71,0.498,1.152,0.422,0.009,0.058,0.006,0.0,0.4,0.61,330,380,130,308,178,OKC
+22024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.821,74,0.324,1.181,0.418,0.024,0.033,0.024,0.014,0.41,0.604,210,248,84,201,117,OKC
+22024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.487,68,0.317,1.023,0.371,0.011,0.028,0.006,0.0,0.367,0.524,177,181,63,170,107,OKC
+22024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.712,32,0.221,1.129,0.446,0.04,0.059,0.04,0.01,0.426,0.592,101,114,41,92,51,OKC
+22024,1641794,Dillon Jones,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.088,54,0.366,0.781,0.288,0.016,0.063,0.016,0.0,0.281,0.415,64,50,17,59,42,OKC
+22024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,57,0.051,0.375,0.2,0.0,0.063,0.0,0.0,0.188,0.2,32,12,6,30,24,OKC

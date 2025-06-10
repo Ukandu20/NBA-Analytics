@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.79,62,0.071,0.81,0.33,0.14,0.143,0.14,0.0,0.38,0.37,21,17,5,15,10,DAL
+22020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.591,68,0.048,0.923,0.38,0.04,0.077,0.04,0.04,0.35,0.48,26,24,9,24,15,DAL
+22020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.141,50,0.04,1.25,0.52,0.08,0.0,0.08,0.04,0.54,0.61,24,30,12,23,11,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.227,66,0.041,1.161,0.43,0.06,0.032,0.06,0.06,0.42,0.57,31,36,13,30,17,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.77,60,0.059,0.826,0.33,0.07,0.043,0.07,0.02,0.35,0.39,46,38,14,42,28,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.498,59,0.078,0.979,0.38,0.08,0.104,0.08,0.0,0.4,0.5,48,47,15,39,24,DAL
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.395,70,0.065,1.065,0.39,0.04,0.065,0.02,0.0,0.39,0.55,46,49,16,41,25,DAL

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.73,74,0.144,1.235,0.606,0.15,0.028,0.134,0.039,0.62,0.606,179,221,94,155,61,NOP
+22021,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.166,50,0.237,0.865,0.409,0.1,0.019,0.087,0.01,0.452,0.409,104,90,38,93,55,NOP
+22021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.496,70,0.153,1.099,0.594,0.06,0.099,0.062,0.012,0.556,0.594,81,89,41,69,28,NOP
+22021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.433,78,0.054,1.075,0.556,0.2,0.15,0.2,0.025,0.55,0.556,40,43,15,27,12,NOP
+22021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.908,62,0.08,1.36,0.632,0.24,0.04,0.24,0.04,0.68,0.632,25,34,12,19,7,NOP
+22021,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.317,41,0.046,1.0,0.5,0.24,0.12,0.16,0.0,0.56,0.5,25,25,8,16,8,NOP
+22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.399,55,0.014,1.056,0.438,0.11,0.0,0.111,0.0,0.5,0.438,18,19,7,16,9,NOP
+22021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.077,55,0.059,0.762,0.357,0.19,0.143,0.19,0.0,0.429,0.357,21,16,5,14,9,NOP
+22021,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.059,50,0.024,0.722,0.267,0.17,0.0,0.167,0.0,0.389,0.267,18,13,4,15,11,NOP
+22021,202066,Garrett Temple,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.474,59,0.031,1.091,0.6,0.0,0.091,0.0,0.0,0.545,0.6,11,12,6,10,4,NOP
+22021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.317,76,0.011,1.0,0.5,0.09,0.091,0.091,0.091,0.455,0.5,11,11,5,10,5,NOP

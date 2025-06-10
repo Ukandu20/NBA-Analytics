@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.866,56,0.108,1.287,0.636,0.154,0.056,0.133,0.035,0.636,0.636,143,184,75,118,43,NOP
+22018,203944,Julius Randle,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.639,73,0.086,1.154,0.559,0.208,0.069,0.192,0.062,0.585,0.559,130,150,57,102,45,NOP
+22018,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.588,59,0.127,1.123,0.563,0.123,0.053,0.105,0.018,0.579,0.563,57,64,27,48,21,NOP
+22018,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.619,64,0.124,1.14,0.611,0.07,0.093,0.07,0.0,0.581,0.611,43,49,22,36,14,NOP
+22018,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.375,67,0.022,1.0,0.538,0.094,0.094,0.031,0.0,0.531,0.538,32,32,14,26,12,NOP
+22018,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.95,53,0.031,1.421,0.733,0.263,0.0,0.263,0.053,0.789,0.733,19,27,11,15,4,NOP
+22018,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.233,32,0.062,0.9,0.333,0.2,0.1,0.2,0.0,0.433,0.357,30,27,7,21,14,NOP
+22018,203901,Elfrid Payton,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.375,42,0.043,1.0,0.522,0.042,0.042,0.042,0.042,0.5,0.522,24,24,12,23,11,NOP
+22018,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.508,44,0.063,1.071,0.667,0.143,0.214,0.143,0.0,0.571,0.667,14,15,6,9,3,NOP
+22018,1626174,Christian Wood,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.94,8,0.081,1.4,0.571,0.4,0.0,0.4,0.1,0.7,0.571,10,14,4,7,3,NOP
+22018,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.677,61,0.023,1.167,0.583,0.0,0.0,0.0,0.0,0.583,0.583,12,14,7,12,5,NOP
+22018,1629026,Kenrich Williams,1610612740,NOP,New Orleans Pelicans,OffRebound,Offensive,0.006,46,0.05,0.375,0.231,0.0,0.188,0.0,0.0,0.188,0.231,16,6,3,13,10,NOP

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1629139,Yuta Watanabe,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.986,23,0.162,0.5,0.182,0.167,0.222,0.167,0.0,0.278,0.227,18,9,2,11,9,PHX
+22023,1629006,Josh Okogie,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.915,52,0.051,0.684,0.313,0.053,0.105,0.053,0.0,0.316,0.344,19,13,5,16,11,PHX
+22023,1629642,Nassir Little,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.011,32,0.064,1.5,0.667,0.4,0.1,0.4,0.1,0.7,0.667,10,15,4,6,2,PHX
+22023,1630692,Jordan Goodwin,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.003,35,0.059,1.833,0.714,0.417,0.0,0.333,0.0,0.833,0.857,12,22,5,7,2,PHX
+22023,1629626,Bol Bol,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.722,35,0.159,0.821,0.421,0.107,0.214,0.107,0.0,0.357,0.5,28,23,8,19,11,PHX
+22023,1628966,Keita Bates-Diop,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.193,34,0.109,1.095,0.556,0.095,0.048,0.095,0.0,0.571,0.556,21,23,10,18,8,PHX
+22023,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.643,30,0.126,0.871,0.4,0.0,0.032,0.0,0.0,0.387,0.45,31,27,12,30,18,PHX
+22023,201569,Eric Gordon,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.839,67,0.082,0.757,0.343,0.054,0.027,0.054,0.027,0.351,0.371,37,28,12,35,23,PHX
+22023,1629002,Chimezie Metu,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.088,29,0.145,1.208,0.478,0.125,0.0,0.083,0.083,0.5,0.543,24,29,11,23,12,PHX
+22023,1629234,Drew Eubanks,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.48,70,0.093,0.942,0.386,0.154,0.058,0.154,0.058,0.423,0.432,52,49,17,44,27,PHX
+22023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.411,70,0.061,0.984,0.466,0.063,0.048,0.063,0.032,0.46,0.491,63,62,27,58,31,PHX
+22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.805,74,0.11,0.773,0.319,0.102,0.125,0.102,0.011,0.341,0.384,88,68,22,69,47,PHX
+22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.754,74,0.117,0.802,0.374,0.054,0.063,0.054,0.009,0.378,0.399,111,89,37,99,62,PHX

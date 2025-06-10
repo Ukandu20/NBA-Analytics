@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,5,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,LAC
+42019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,LAC
+42019,203210,JaMychal Green,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.024,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.2,0.0,0.0,0.1,0.1,LAC
+42019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,8,0.082,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.5,0.0,0.1,0.5,0.4,LAC
+42019,101150,Lou Williams,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.051,0.333,0.2,0.0,0.17,0.0,0.0,0.17,0.2,0.5,0.0,0.1,0.4,0.3,LAC
+42019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.043,0.333,0.2,0.0,0.17,0.0,0.0,0.17,0.2,0.5,0.0,0.1,0.4,0.3,LAC
+42019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.004,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.1,0.0,0.1,0.1,0.0,LAC
+42019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,12,0.067,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,0.3,0.0,0.2,0.3,0.1,LAC
+42019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Handoff,Defensive,0.0,13,0.11,1.125,0.67,0.25,0.38,0.25,0.0,0.5,0.83,0.6,1.0,0.2,0.2,0.1,LAC
+42019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Defensive,0.75,13,0.132,0.636,0.35,0.05,0.18,0.05,0.0,0.32,0.35,1.7,1.0,0.5,1.3,0.8,LAC
+42019,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Defensive,0.042,13,0.124,1.238,0.59,0.05,0.14,0.0,0.0,0.52,0.71,1.6,2.0,0.8,1.3,0.5,LAC

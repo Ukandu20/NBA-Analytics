@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.555,74,0.172,0.925,0.349,0.15,0.086,0.141,0.012,0.409,0.422,347,321,94,269,175,BOS
+22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.539,67,0.099,0.912,0.427,0.099,0.094,0.099,0.029,0.421,0.469,171,156,61,143,82,BOS
+22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.626,67,0.09,0.963,0.455,0.122,0.098,0.122,0.024,0.463,0.485,82,79,30,66,36,BOS
+22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.261,61,0.065,0.769,0.441,0.115,0.231,0.115,0.0,0.385,0.456,52,40,15,34,19,BOS
+22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.445,82,0.033,0.871,0.393,0.065,0.065,0.065,0.032,0.387,0.429,31,27,11,28,17,BOS
+22022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.965,79,0.028,1.294,0.714,0.118,0.118,0.118,0.059,0.647,0.714,17,22,10,14,4,BOS
+22022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.13,48,0.051,0.667,0.267,0.0,0.0,0.0,0.0,0.267,0.333,15,10,4,15,11,BOS

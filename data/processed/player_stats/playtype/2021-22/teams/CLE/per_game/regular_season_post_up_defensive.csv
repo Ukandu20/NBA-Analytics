@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.844,51,0.063,0.762,0.353,0.1,0.1,0.1,0.0,0.38,0.353,0.4,0.3,0.1,0.3,0.2,CLE
+22021,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.623,74,0.027,0.895,0.583,0.16,0.26,0.16,0.05,0.47,0.583,0.3,0.2,0.1,0.2,0.1,CLE
+22021,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.414,67,0.03,1.0,0.474,0.09,0.05,0.09,0.0,0.5,0.474,0.3,0.3,0.1,0.3,0.1,CLE
+22021,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.095,63,0.055,1.273,0.625,0.23,0.09,0.23,0.05,0.64,0.625,0.3,0.4,0.2,0.3,0.1,CLE
+22021,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.314,68,0.042,1.067,0.52,0.13,0.1,0.13,0.07,0.5,0.52,0.4,0.5,0.2,0.4,0.2,CLE
+22021,1628374,Lauri Markkanen,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.463,61,0.057,0.976,0.581,0.1,0.2,0.1,0.05,0.46,0.581,0.7,0.7,0.3,0.5,0.2,CLE
+22021,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.826,57,0.073,0.781,0.471,0.03,0.17,0.03,0.0,0.41,0.471,1.1,0.9,0.4,0.9,0.5,CLE
+22021,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.658,69,0.07,0.873,0.423,0.13,0.1,0.13,0.05,0.43,0.423,0.9,0.8,0.3,0.8,0.4,CLE

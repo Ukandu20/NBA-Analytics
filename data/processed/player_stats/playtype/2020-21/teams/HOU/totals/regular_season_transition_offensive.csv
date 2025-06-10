@@ -1,0 +1,24 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202322,John Wall,1610612745,HOU,Houston Rockets,Transition,Offensive,0.209,40,0.173,0.952,0.464,0.2,0.164,0.194,0.042,0.461,0.504,165,157,52,112,60,HOU
+22020,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Transition,Offensive,0.541,70,0.163,1.141,0.615,0.156,0.117,0.141,0.023,0.57,0.641,128,146,59,96,37,HOU
+22020,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Transition,Offensive,0.649,41,0.145,1.188,0.602,0.179,0.085,0.171,0.06,0.573,0.651,117,139,56,93,37,HOU
+22020,203506,Victor Oladipo,1610612745,HOU,Houston Rockets,Transition,Offensive,0.51,20,0.182,1.129,0.557,0.129,0.165,0.106,0.012,0.518,0.623,85,96,34,61,27,HOU
+22020,1628425,Sterling Brown,1610612745,HOU,Houston Rockets,Transition,Offensive,0.882,51,0.179,1.348,0.556,0.014,0.072,0.0,0.0,0.522,0.722,69,93,35,63,28,HOU
+22020,1628021,David Nwaba,1610612745,HOU,Houston Rockets,Transition,Offensive,0.467,30,0.304,1.112,0.554,0.188,0.05,0.188,0.05,0.563,0.562,80,89,36,65,29,HOU
+22020,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Transition,Offensive,0.345,36,0.249,1.048,0.456,0.12,0.084,0.12,0.024,0.458,0.544,83,87,31,68,37,HOU
+22020,203482,Kelly Olynyk,1610612745,HOU,Houston Rockets,Transition,Offensive,0.703,27,0.158,1.214,0.517,0.114,0.086,0.114,0.029,0.514,0.603,70,85,30,58,28,HOU
+22020,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Transition,Offensive,0.402,45,0.19,1.079,0.547,0.066,0.105,0.053,0.013,0.5,0.586,76,82,35,64,29,HOU
+22020,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Transition,Offensive,0.106,26,0.179,0.844,0.482,0.178,0.222,0.167,0.022,0.433,0.5,90,76,27,56,29,HOU
+22020,203463,Ben McLemore,1610612745,HOU,Houston Rockets,Transition,Offensive,0.23,32,0.239,0.968,0.418,0.048,0.095,0.048,0.016,0.397,0.527,63,61,23,55,32,HOU
+22020,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Transition,Offensive,0.155,27,0.141,0.908,0.388,0.123,0.169,0.123,0.046,0.369,0.49,65,59,19,49,30,HOU
+22020,201935,James Harden,1610612745,HOU,Houston Rockets,Transition,Offensive,0.318,8,0.196,1.026,0.44,0.158,0.211,0.158,0.026,0.421,0.54,38,39,11,25,14,HOU
+22020,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,Transition,Offensive,0.318,20,0.174,1.026,0.429,0.0,0.079,0.0,0.0,0.395,0.557,38,39,15,35,20,HOU
+22020,202326,DeMarcus Cousins,1610612745,HOU,Houston Rockets,Transition,Offensive,0.27,25,0.087,1.0,0.533,0.167,0.25,0.125,0.042,0.458,0.633,24,24,8,15,7,HOU
+22020,1630222,Mason Jones,1610612745,HOU,Houston Rockets,Transition,Offensive,0.049,26,0.186,0.742,0.353,0.226,0.258,0.194,0.032,0.387,0.441,31,23,6,17,11,HOU
+22020,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,Transition,Offensive,0.342,20,0.104,1.048,0.353,0.143,0.048,0.143,0.0,0.429,0.471,21,22,6,17,11,HOU
+22020,1629017,Khyri Thomas,1610612745,HOU,Houston Rockets,Transition,Offensive,0.962,5,0.184,1.5,0.636,0.143,0.071,0.143,0.0,0.643,0.773,14,21,7,11,4,HOU
+22020,1628391,D.J. Wilson,1610612745,HOU,Houston Rockets,Transition,Offensive,0.051,23,0.131,0.75,0.333,0.1,0.15,0.05,0.0,0.35,0.367,20,15,5,15,10,HOU
+22020,1630237,Anthony Lamb,1610612745,HOU,Houston Rockets,Transition,Offensive,0.017,24,0.135,0.65,0.25,0.15,0.25,0.15,0.0,0.3,0.333,20,13,3,12,9,HOU
+22020,1629610,DaQuan Jeffries,1610612745,HOU,Houston Rockets,Transition,Offensive,0.424,13,0.159,1.091,0.556,0.0,0.182,0.0,0.0,0.455,0.667,11,12,5,9,4,HOU
+22020,202340,Avery Bradley,1610612745,HOU,Houston Rockets,Transition,Offensive,0.159,17,0.087,0.909,0.4,0.0,0.091,0.0,0.0,0.364,0.5,11,10,4,10,6,HOU
+22020,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Transition,Offensive,0.006,32,0.087,0.467,0.3,0.0,0.333,0.0,0.0,0.2,0.35,15,7,3,10,7,HOU

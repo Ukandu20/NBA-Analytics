@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Transition,Offensive,0.568,21,0.125,1.109,0.543,0.291,0.109,0.291,0.036,0.6,0.557,55,61,19,35,16,MIA
+42019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Transition,Offensive,0.481,21,0.154,1.057,0.457,0.075,0.075,0.057,0.019,0.453,0.543,53,56,21,46,25,MIA
+42019,203109,Jae Crowder,1610612748,MIA,Miami Heat,Transition,Offensive,0.408,21,0.169,1.0,0.438,0.075,0.125,0.05,0.0,0.425,0.531,40,40,14,32,18,MIA
+42019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Transition,Offensive,0.408,19,0.109,1.0,0.545,0.229,0.229,0.229,0.086,0.486,0.545,35,35,12,22,10,MIA
+42019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Transition,Offensive,0.272,17,0.102,0.882,0.433,0.088,0.059,0.059,0.029,0.441,0.45,34,30,13,30,17,MIA
+42019,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Transition,Offensive,0.531,21,0.118,1.083,0.364,0.083,0.0,0.083,0.0,0.417,0.477,24,26,8,22,14,MIA
+42019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,Transition,Offensive,0.408,15,0.157,1.0,0.5,0.059,0.235,0.059,0.0,0.412,0.625,17,17,6,12,6,MIA
+42019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Transition,Offensive,0.84,17,0.092,1.364,0.7,0.0,0.091,0.0,0.0,0.636,0.75,11,15,7,10,3,MIA
+42019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,21,0.095,1.375,0.714,0.0,0.125,0.0,0.0,0.625,0.786,8,11,5,7,2,MIA
+42019,203524,Solomon Hill,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,4,0.333,2.667,1.0,0.0,0.0,0.0,0.0,1.0,1.333,3,8,3,3,0,MIA
+42019,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Transition,Offensive,0.0,9,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA

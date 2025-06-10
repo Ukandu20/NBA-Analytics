@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Postup,Defensive,0.936,56,0.075,0.68,0.444,0.08,0.24,0.08,0.04,0.32,0.444,25,17,8,18,10,ORL
+22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Postup,Defensive,0.858,72,0.036,0.786,0.36,0.071,0.036,0.071,0.0,0.393,0.36,28,22,9,25,16,ORL
+22023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Postup,Defensive,0.216,81,0.034,1.125,0.438,0.292,0.042,0.208,0.0,0.583,0.438,24,27,7,16,9,ORL
+22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Postup,Defensive,0.055,57,0.048,1.318,0.75,0.136,0.136,0.136,0.0,0.682,0.75,22,29,12,16,4,ORL
+22023,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Postup,Defensive,0.505,42,0.068,1.0,0.536,0.061,0.121,0.061,0.03,0.485,0.536,33,33,15,28,13,ORL
+22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Postup,Defensive,0.598,80,0.053,0.957,0.5,0.085,0.085,0.085,0.021,0.489,0.5,47,45,20,40,20,ORL
+22023,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Postup,Defensive,0.285,76,0.058,1.095,0.714,0.095,0.238,0.095,0.0,0.571,0.714,42,46,20,28,8,ORL
+22023,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Postup,Defensive,0.36,52,0.068,1.067,0.526,0.133,0.067,0.133,0.044,0.533,0.526,45,48,20,38,18,ORL
+22023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Postup,Defensive,0.309,73,0.06,1.085,0.588,0.17,0.17,0.17,0.064,0.511,0.588,47,51,20,34,14,ORL

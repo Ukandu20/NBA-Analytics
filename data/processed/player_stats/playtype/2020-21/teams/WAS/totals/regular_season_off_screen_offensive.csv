@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.67,60,0.136,1.089,0.444,0.152,0.055,0.135,0.034,0.485,0.513,237,258,87,196,109,WAS
+22020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.829,57,0.239,1.221,0.395,0.076,0.031,0.069,0.015,0.42,0.592,131,160,47,119,72,WAS
+22020,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.476,64,0.075,0.952,0.333,0.095,0.048,0.095,0.0,0.381,0.444,21,20,6,18,12,WAS

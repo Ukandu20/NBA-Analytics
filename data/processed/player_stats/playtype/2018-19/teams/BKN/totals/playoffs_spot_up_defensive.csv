@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.2,0.0,0.0,0.0,0.67,0.0,0.0,0.0,0.0,3,0,0,1,1,BKN
+42018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.29,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,BKN
+42018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.17,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,3,5,2,3,1,BKN
+42018,1626203,Treveon Graham,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,5,0.19,1.0,0.5,0.0,0.2,0.0,0.0,0.4,0.62,5,5,2,4,2,BKN
+42018,202334,Ed Davis,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,3,0.26,0.75,0.29,0.12,0.0,0.12,0.0,0.38,0.29,8,6,2,7,5,BKN
+42018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.966,5,0.47,0.571,0.21,0.0,0.0,0.0,0.0,0.21,0.29,14,8,3,14,11,BKN
+42018,201162,Jared Dudley,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.65,4,0.3,0.9,0.38,0.1,0.1,0.1,0.0,0.4,0.44,10,9,3,8,5,BKN
+42018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,4,0.18,1.375,0.71,0.0,0.12,0.0,0.0,0.62,0.79,8,11,5,7,2,BKN
+42018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,5,0.18,1.375,0.5,0.0,0.0,0.0,0.0,0.5,0.69,8,11,4,8,4,BKN
+42018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.59,5,0.41,0.929,0.36,0.0,0.0,0.0,0.0,0.36,0.46,14,13,5,14,9,BKN
+42018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.112,5,0.23,1.4,0.5,0.0,0.0,0.0,0.0,0.5,0.7,10,14,5,10,5,BKN
+42018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.0,5,0.21,2.125,0.71,0.12,0.0,0.12,0.0,0.75,1.07,8,17,5,7,2,BKN
+42018,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Spotup,Defensive,0.333,5,0.33,1.091,0.42,0.14,0.05,0.14,0.05,0.45,0.5,22,24,8,19,11,BKN

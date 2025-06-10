@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,12,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,GSW
+42021,203490,Otto Porter Jr.,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,19,0.03,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,GSW
+42021,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,13,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,GSW
+42021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,16,0.05,0.333,0.0,0.33,0.0,0.0,0.0,0.33,0.0,0.2,0.0,0.0,0.0,0.0,GSW
+42021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,15,0.01,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.0,0.0,0.0,0.0,GSW
+42021,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,7,0.08,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.3,0.0,0.0,0.0,0.0,GSW
+42021,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,22,0.03,0.714,0.2,0.14,0.14,0.14,0.0,0.29,0.3,0.3,0.0,0.0,0.0,0.0,GSW
+42021,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,16,0.09,1.75,1.0,0.0,0.25,0.0,0.0,0.75,1.17,0.3,0.0,0.0,0.0,0.0,GSW
+42021,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.762,22,0.04,0.75,0.3,0.08,0.08,0.08,0.0,0.33,0.35,0.5,0.0,0.0,0.0,0.0,GSW
+42021,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.0,22,0.03,1.429,0.6,0.14,0.14,0.14,0.0,0.57,0.9,0.3,0.0,0.0,0.0,0.0,GSW
+42021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.273,22,0.05,1.2,0.4,0.1,0.0,0.1,0.1,0.4,0.6,0.5,1.0,0.0,0.0,0.0,GSW
+42021,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.318,22,0.05,1.154,0.42,0.15,0.0,0.15,0.08,0.38,0.58,0.6,1.0,1.0,1.0,0.0,GSW
+42021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.136,22,0.07,1.292,0.55,0.04,0.12,0.04,0.0,0.5,0.72,1.1,1.0,1.0,1.0,0.0,GSW

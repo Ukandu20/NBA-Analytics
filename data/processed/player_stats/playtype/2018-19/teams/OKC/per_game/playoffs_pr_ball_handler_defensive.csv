@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.0,5,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,OKC
+42018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.0,5,0.083,1.0,0.5,0.0,0.2,0.0,0.0,0.4,0.62,1.0,1.0,0.4,0.8,0.4,OKC
+42018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.0,5,0.286,0.833,0.5,0.0,0.33,0.0,0.0,0.33,0.62,1.2,1.0,0.4,0.8,0.4,OKC
+42018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.56,5,0.356,0.857,0.44,0.0,0.14,0.0,0.0,0.38,0.5,4.2,4.0,1.6,3.6,2.0,OKC
+42018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.413,5,0.408,0.931,0.38,0.14,0.14,0.1,0.0,0.41,0.5,5.8,5.0,1.6,4.2,2.6,OKC
+42018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.107,5,0.443,1.222,0.38,0.19,0.04,0.15,0.0,0.48,0.55,5.4,7.0,1.6,4.2,2.6,OKC
+42018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Defensive,0.187,5,0.5,1.111,0.55,0.06,0.17,0.06,0.03,0.47,0.66,7.2,8.0,3.2,5.8,2.6,OKC

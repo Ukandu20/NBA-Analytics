@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.646,59,0.097,0.976,0.479,0.047,0.129,0.047,0.012,0.435,0.535,1.4,1.4,0.6,1.2,0.6,CLE
+22019,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.268,65,0.075,0.765,0.338,0.108,0.196,0.088,0.0,0.343,0.401,1.6,1.2,0.4,1.1,0.7,CLE
+22019,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.584,56,0.057,0.944,0.333,0.056,0.111,0.056,0.0,0.333,0.478,1.0,0.9,0.3,0.8,0.5,CLE
+22019,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.687,29,0.109,1.0,0.371,0.163,0.07,0.116,0.047,0.419,0.471,1.5,1.5,0.4,1.2,0.8,CLE
+22019,1629645,Kevin Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.216,50,0.065,0.722,0.31,0.083,0.111,0.056,0.0,0.306,0.379,0.7,0.5,0.2,0.6,0.4,CLE
+22019,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.508,57,0.084,0.905,0.438,0.095,0.143,0.095,0.0,0.429,0.5,0.4,0.3,0.1,0.3,0.2,CLE
+22019,202688,Brandon Knight,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.039,16,0.094,0.5,0.222,0.0,0.1,0.0,0.0,0.2,0.278,0.6,0.3,0.1,0.6,0.4,CLE

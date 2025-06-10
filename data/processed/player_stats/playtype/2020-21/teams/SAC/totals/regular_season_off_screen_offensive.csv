@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.405,71,0.169,0.918,0.335,0.01,0.041,0.005,0.0,0.328,0.47,195,179,62,185,123,SAC
+22020,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.9,27,0.064,1.316,0.529,0.0,0.105,0.0,0.0,0.474,0.735,19,25,9,17,8,SAC
+22020,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.856,58,0.016,1.25,0.625,0.167,0.25,0.167,0.083,0.5,0.813,12,15,5,8,3,SAC
+22020,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.038,58,0.027,0.478,0.2,0.087,0.087,0.087,0.043,0.217,0.225,23,11,4,20,16,SAC
+22020,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.124,43,0.016,0.7,0.375,0.1,0.1,0.1,0.0,0.4,0.375,10,7,3,8,5,SAC

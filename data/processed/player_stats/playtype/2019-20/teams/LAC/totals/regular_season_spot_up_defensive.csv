@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1628476,Derrick Walton Jr.,1610612746,LAC,LA Clippers,Spotup,Defensive,0.997,21,0.235,0.188,0.09,0.06,0.25,0.06,0.0,0.125,0.09,16,3,1,11,10,LAC
+22019,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.676,17,0.281,0.956,0.333,0.0,0.0,0.0,0.0,0.333,0.478,45,43,15,45,30,LAC
+22019,1629010,Jerome Robinson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.808,42,0.277,0.893,0.356,0.05,0.143,0.04,0.0,0.339,0.489,56,50,16,45,29,LAC
+22019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Spotup,Defensive,0.745,56,0.192,0.922,0.333,0.08,0.016,0.08,0.03,0.359,0.433,64,59,20,60,40,LAC
+22019,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Spotup,Defensive,0.159,19,0.305,1.19,0.434,0.05,0.034,0.05,0.0,0.448,0.604,58,69,23,53,30,LAC
+22019,202335,Patrick Patterson,1610612746,LAC,LA Clippers,Spotup,Defensive,0.462,59,0.297,1.024,0.377,0.05,0.036,0.05,0.0,0.393,0.526,84,86,29,77,48,LAC
+22019,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Spotup,Defensive,0.967,63,0.142,0.697,0.258,0.03,0.062,0.02,0.0,0.262,0.356,145,101,34,132,98,LAC
+22019,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Spotup,Defensive,0.596,72,0.144,0.983,0.373,0.03,0.059,0.03,0.02,0.361,0.509,119,117,41,110,69,LAC
+22019,203210,JaMychal Green,1610612746,LAC,LA Clippers,Spotup,Defensive,0.857,63,0.307,0.851,0.318,0.04,0.05,0.03,0.0,0.326,0.43,141,120,41,129,88,LAC
+22019,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Spotup,Defensive,0.873,51,0.281,0.836,0.315,0.05,0.103,0.05,0.03,0.301,0.441,146,122,40,127,87,LAC
+22019,203090,Maurice Harkless,1610612746,LAC,LA Clippers,Spotup,Defensive,0.755,50,0.302,0.919,0.336,0.1,0.081,0.1,0.01,0.36,0.465,136,125,38,113,75,LAC
+22019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Spotup,Defensive,0.282,53,0.218,1.102,0.413,0.06,0.008,0.06,0.02,0.43,0.545,128,141,50,121,71,LAC
+22019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Spotup,Defensive,0.957,57,0.364,0.726,0.288,0.03,0.1,0.03,0.0,0.279,0.387,219,159,55,191,136,LAC
+22019,101150,Lou Williams,1610612746,LAC,LA Clippers,Spotup,Defensive,0.571,65,0.311,0.989,0.385,0.03,0.057,0.03,0.01,0.381,0.506,176,174,62,161,99,LAC
+22019,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Defensive,0.259,48,0.35,1.11,0.429,0.03,0.074,0.02,0.01,0.411,0.592,163,181,63,147,84,LAC

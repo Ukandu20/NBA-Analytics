@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.432,61,0.39,0.817,0.398,0.081,0.195,0.064,0.021,0.349,0.486,421,344,125,314,189,HOU
+22021,1630224,Jalen Green,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.417,67,0.292,0.809,0.376,0.081,0.156,0.069,0.009,0.358,0.447,346,280,100,266,166,HOU
+22021,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.506,57,0.29,0.839,0.448,0.095,0.246,0.09,0.019,0.379,0.517,211,177,64,143,79,HOU
+22021,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.589,74,0.214,0.874,0.465,0.126,0.189,0.084,0.007,0.427,0.505,143,125,46,99,53,HOU
+22021,203471,Dennis Schröder,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.223,15,0.379,0.703,0.404,0.027,0.203,0.041,0.014,0.324,0.439,74,52,23,57,34,HOU
+22021,201571,D.J. Augustin,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.128,34,0.4,0.615,0.267,0.115,0.308,0.077,0.0,0.269,0.356,78,48,12,45,33,HOU
+22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.496,78,0.051,0.833,0.563,0.021,0.313,0.021,0.0,0.396,0.594,48,40,18,32,14,HOU
+22021,1630227,Daishen Nix,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.467,24,0.274,0.828,0.429,0.069,0.241,0.069,0.034,0.345,0.5,29,24,9,21,12,HOU
+22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.902,68,0.018,1.048,0.471,0.143,0.143,0.143,0.095,0.429,0.588,21,22,8,17,9,HOU
+22021,1629717,Armoni Brooks,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.137,41,0.125,0.629,0.276,0.0,0.171,0.0,0.0,0.229,0.379,35,22,8,29,21,HOU
+22021,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.994,65,0.027,1.333,0.4,0.267,0.133,0.267,0.067,0.467,0.6,15,20,4,10,6,HOU
+22021,1628021,David Nwaba,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.436,46,0.048,0.818,0.5,0.182,0.182,0.182,0.091,0.455,0.5,11,9,4,8,4,HOU
+22021,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.395,16,0.099,0.8,0.6,0.1,0.4,0.1,0.0,0.4,0.6,10,8,3,5,2,HOU

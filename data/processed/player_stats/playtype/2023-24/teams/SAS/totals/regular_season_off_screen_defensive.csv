@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.952,66,0.02,0.563,0.308,0.0,0.188,0.0,0.0,0.25,0.346,16,9,4,13,9,SAS
+22023,203926,Doug McDermott,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.153,45,0.063,1.286,0.583,0.0,0.143,0.0,0.0,0.5,0.75,14,18,7,12,5,SAS
+22023,1631103,Malaki Branham,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.674,69,0.057,0.893,0.333,0.036,0.0,0.036,0.0,0.357,0.444,28,25,9,27,18,SAS
+22023,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.223,71,0.02,1.25,0.471,0.15,0.0,0.15,0.0,0.55,0.559,20,25,8,17,9,SAS
+22023,1626224,Cedi Osman,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.122,70,0.051,1.316,0.615,0.263,0.053,0.211,0.0,0.632,0.769,19,25,8,13,5,SAS
+22023,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.743,77,0.047,0.842,0.333,0.026,0.026,0.026,0.0,0.342,0.431,38,32,12,36,24,SAS
+22023,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.708,68,0.083,0.867,0.375,0.0,0.111,0.0,0.0,0.333,0.488,45,39,15,40,25,SAS
+22023,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.696,72,0.087,0.878,0.372,0.041,0.082,0.041,0.0,0.367,0.465,49,43,16,43,27,SAS
+22023,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.407,69,0.078,1.118,0.467,0.078,0.059,0.078,0.02,0.471,0.556,51,57,21,45,24,SAS
+22023,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.601,74,0.063,0.953,0.433,0.016,0.047,0.016,0.0,0.422,0.492,64,61,26,60,34,SAS

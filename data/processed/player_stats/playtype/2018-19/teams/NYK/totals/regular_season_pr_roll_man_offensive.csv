@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.986,66,0.275,1.462,0.742,0.16,0.009,0.151,0.047,0.736,0.742,106,155,69,93,24,NYK
+22018,202683,Enes Freedom,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.544,44,0.179,1.093,0.516,0.13,0.046,0.12,0.056,0.528,0.542,108,118,49,95,46,NYK
+22018,1628436,Luke Kornet,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.412,46,0.218,1.028,0.403,0.014,0.056,0.014,0.0,0.389,0.537,72,74,27,67,40,NYK
+22018,203943,Noah Vonleh,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.346,68,0.123,1.0,0.414,0.122,0.122,0.095,0.027,0.419,0.517,74,74,24,58,34,NYK
+22018,201599,DeAndre Jordan,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.916,19,0.185,1.333,0.72,0.25,0.083,0.25,0.028,0.722,0.72,36,48,18,25,7,NYK
+22018,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.009,46,0.059,0.5,0.231,0.071,0.0,0.071,0.0,0.286,0.231,14,7,3,13,10,NYK
+22018,1628995,Kevin Knox II,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.005,75,0.019,0.286,0.111,0.0,0.143,0.0,0.0,0.095,0.167,21,6,2,18,16,NYK

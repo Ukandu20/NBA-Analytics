@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,1630177,Theo Maledon,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.417,65,0.065,0.887,0.452,0.075,0.151,0.075,0.019,0.396,0.512,0.8,0.7,0.3,0.6,0.4,OKC
+22020,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.279,52,0.056,0.795,0.324,0.091,0.091,0.091,0.023,0.341,0.392,0.8,0.7,0.2,0.7,0.5,OKC
+22020,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.452,55,0.039,0.914,0.37,0.2,0.086,0.2,0.057,0.429,0.407,0.6,0.6,0.2,0.5,0.3,OKC
+22020,1629004,Svi Mykhailiuk,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.41,30,0.096,0.879,0.444,0.0,0.182,0.0,0.0,0.364,0.537,1.1,1.0,0.4,0.9,0.5,OKC
+22020,1628382,Justin Jackson,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.481,33,0.105,0.926,0.455,0.111,0.111,0.074,0.037,0.444,0.5,0.8,0.8,0.3,0.7,0.4,OKC
+22020,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.12,45,0.072,0.605,0.321,0.053,0.211,0.026,0.0,0.289,0.357,0.8,0.5,0.2,0.6,0.4,OKC
+22020,1629660,Ty Jerome,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.624,33,0.06,1.0,0.389,0.048,0.048,0.095,0.0,0.381,0.528,0.6,0.6,0.2,0.5,0.3,OKC
+22020,201588,George Hill,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.841,14,0.106,1.133,0.538,0.067,0.067,0.067,0.0,0.533,0.577,1.1,1.2,0.5,0.9,0.4,OKC
+22020,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.357,32,0.049,0.85,0.5,0.1,0.2,0.1,0.0,0.45,0.5,0.6,0.5,0.2,0.4,0.2,OKC
+22020,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.11,66,0.048,0.6,0.316,0.12,0.12,0.12,0.0,0.28,0.342,0.4,0.2,0.1,0.3,0.2,OKC
+22020,1629676,Isaiah Roby,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.216,61,0.027,0.75,0.5,0.063,0.313,0.063,0.0,0.375,0.5,0.3,0.2,0.1,0.2,0.1,OKC
+22020,1630221,Josh Hall,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.057,21,0.084,0.5,0.375,0.083,0.25,0.083,0.0,0.25,0.375,0.6,0.3,0.1,0.4,0.2,OKC

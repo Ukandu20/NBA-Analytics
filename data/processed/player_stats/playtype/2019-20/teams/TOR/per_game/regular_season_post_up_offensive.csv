@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.5,60,0.122,0.917,0.478,0.101,0.107,0.089,0.018,0.464,0.478,2.8,2.6,1.1,2.3,1.2,TOR
+22019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.645,55,0.067,0.964,0.489,0.125,0.107,0.089,0.036,0.482,0.489,1.0,1.0,0.4,0.8,0.4,TOR
+22019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.368,44,0.128,0.87,0.528,0.022,0.196,0.022,0.0,0.435,0.528,1.0,0.9,0.4,0.8,0.4,TOR
+22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.387,60,0.095,0.884,0.481,0.256,0.186,0.209,0.07,0.442,0.481,0.7,0.6,0.2,0.5,0.2,TOR
+22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.09,69,0.051,0.657,0.4,0.057,0.257,0.029,0.029,0.314,0.4,0.5,0.3,0.1,0.4,0.2,TOR

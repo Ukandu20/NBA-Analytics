@@ -1,0 +1,21 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.395,66,0.253,0.992,0.393,0.103,0.05,0.092,0.04,0.412,0.478,379,376,132,336,204,MEM
+22023,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.443,61,0.444,1.01,0.377,0.044,0.04,0.04,0.01,0.383,0.513,298,301,104,276,172,MEM
+22023,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.379,48,0.4,0.986,0.382,0.072,0.079,0.068,0.014,0.384,0.517,279,275,92,241,149,MEM
+22023,1631246,Vince Williams Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.469,52,0.353,1.022,0.404,0.043,0.091,0.043,0.0,0.392,0.553,186,190,65,161,96,MEM
+22023,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.955,39,0.305,1.299,0.459,0.017,0.051,0.009,0.0,0.444,0.679,117,152,50,109,59,MEM
+22023,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.267,51,0.35,0.91,0.34,0.024,0.06,0.024,0.006,0.331,0.471,166,151,52,153,101,MEM
+22023,1631222,Jake LaRavia,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.323,35,0.363,0.951,0.341,0.104,0.042,0.097,0.021,0.382,0.456,144,137,43,126,83,MEM
+22023,203935,Marcus Smart,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.603,20,0.272,1.068,0.386,0.034,0.023,0.011,0.0,0.398,0.536,88,94,32,83,51,MEM
+22023,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.179,55,0.367,0.856,0.307,0.031,0.062,0.021,0.0,0.309,0.443,97,83,27,88,61,MEM
+22023,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.701,21,0.261,1.108,0.475,0.095,0.108,0.095,0.027,0.459,0.598,74,82,29,61,32,MEM
+22023,201565,Derrick Rose,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.592,24,0.223,1.065,0.419,0.043,0.043,0.043,0.022,0.413,0.535,46,49,18,43,25,MEM
+22023,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.517,10,0.116,1.038,0.429,0.115,0.115,0.115,0.038,0.423,0.524,26,27,9,21,12,MEM
+22023,1629669,Jaylen Nowell,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.736,9,0.267,1.125,0.438,0.063,0.0,0.063,0.063,0.438,0.531,16,18,7,16,9,MEM
+22023,1641970,Maozinha Pereira,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.155,7,0.4,0.833,0.333,0.0,0.167,0.0,0.0,0.278,0.5,18,15,5,15,10,MEM
+22023,1630285,Zavier Simpson,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.035,7,0.242,0.563,0.2,0.0,0.063,0.0,0.0,0.188,0.3,16,9,3,15,12,MEM
+22023,1630610,DeJon Jarreau,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.024,9,0.266,0.529,0.231,0.0,0.235,0.0,0.0,0.176,0.346,17,9,3,13,10,MEM
+22023,1641787,Tosan Evbuomwan,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.123,4,0.625,0.8,0.333,0.0,0.1,0.0,0.0,0.3,0.444,10,8,3,9,6,MEM
+22023,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.016,6,0.231,0.467,0.214,0.0,0.067,0.0,0.0,0.2,0.25,15,7,3,14,11,MEM
+22023,1641998,Trey Jemison III,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.032,23,0.061,0.545,0.3,0.0,0.091,0.0,0.0,0.273,0.3,11,6,3,10,7,MEM
+22023,1629139,Yuta Watanabe,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.003,5,0.522,0.333,0.2,0.0,0.167,0.0,0.0,0.167,0.2,12,4,2,10,8,MEM

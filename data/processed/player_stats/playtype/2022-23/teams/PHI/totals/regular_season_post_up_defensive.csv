@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.475,60,0.023,1.0,0.462,0.07,0.0,0.07,0.0,0.5,0.462,14,14,6,13,7,PHI
+22022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.802,66,0.018,0.8,0.389,0.05,0.05,0.05,0.0,0.4,0.389,20,16,7,18,11,PHI
+22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.264,56,0.063,1.105,0.6,0.11,0.16,0.11,0.05,0.53,0.6,19,21,9,15,6,PHI
+22022,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.042,69,0.052,1.389,0.643,0.28,0.06,0.17,0.11,0.67,0.643,18,25,9,14,5,PHI
+22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.011,78,0.04,1.556,0.769,0.33,0.11,0.28,0.17,0.72,0.769,18,28,10,13,3,PHI
+22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.635,58,0.053,0.909,0.417,0.15,0.12,0.15,0.0,0.45,0.417,33,30,10,24,14,PHI
+22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.142,74,0.044,1.188,0.524,0.34,0.09,0.31,0.09,0.59,0.524,32,38,11,21,10,PHI
+22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.034,77,0.033,1.4,0.75,0.13,0.13,0.13,0.07,0.67,0.75,30,42,18,24,6,PHI
+22022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,Postup,Defensive,0.722,75,0.077,0.849,0.409,0.11,0.08,0.09,0.02,0.43,0.409,53,45,18,44,26,PHI

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.45,12,0.22,1.407,0.625,0.185,0.0,0.185,0.074,0.667,0.625,27,38,15,24,9,MIL
+42021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.025,12,0.043,0.941,0.467,0.118,0.059,0.118,0.059,0.471,0.467,17,16,7,15,8,MIL
+42021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,12,0.032,1.222,0.625,0.111,0.0,0.111,0.0,0.667,0.625,9,11,5,8,3,MIL
+42021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,12,0.062,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,6,8,4,6,2,MIL
+42021,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,12,0.081,1.0,0.6,0.0,0.167,0.0,0.0,0.5,0.6,6,6,3,5,2,MIL
+42021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,12,0.057,0.75,0.333,0.125,0.125,0.125,0.0,0.375,0.333,8,6,2,6,4,MIL
+42021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,12,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIL
+42021,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,6,0.158,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,3,2,1,3,2,MIL
+42021,203648,Thanasis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,8,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,8,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIL
+42021,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,11,0.115,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,MIL

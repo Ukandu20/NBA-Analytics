@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1631102,TyTy Washington Jr.,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.825,31,0.085,0.769,0.36,0.0,0.154,0.0,0.0,0.308,0.45,0.4,0.3,0.1,0.4,0.2,HOU
+22022,1630586,Usman Garuba,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.572,75,0.025,0.917,0.45,0.0,0.083,0.0,0.0,0.417,0.5,0.2,0.1,0.1,0.1,0.1,HOU
+22022,1629726,Garrison Mathews,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.077,45,0.073,1.286,0.58,0.07,0.071,0.07,0.0,0.571,0.67,0.3,0.4,0.2,0.3,0.1,HOU
+22022,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.496,31,0.075,0.952,0.33,0.14,0.048,0.14,0.05,0.381,0.39,0.7,0.6,0.2,0.6,0.4,HOU
+22022,1630528,Josh Christopher,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.08,64,0.064,1.278,0.5,0.11,0.056,0.11,0.06,0.5,0.62,0.3,0.4,0.1,0.3,0.1,HOU
+22022,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.699,47,0.122,0.86,0.45,0.07,0.209,0.07,0.0,0.395,0.55,0.9,0.8,0.3,0.7,0.4,HOU
+22022,1630227,Daishen Nix,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.02,57,0.076,1.52,0.59,0.16,0.04,0.16,0.08,0.6,0.73,0.4,0.7,0.2,0.4,0.2,HOU
+22022,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.218,82,0.063,1.125,0.44,0.12,0.1,0.12,0.02,0.45,0.58,0.5,0.5,0.2,0.4,0.2,HOU
+22022,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.352,82,0.087,1.021,0.42,0.09,0.085,0.09,0.02,0.426,0.52,0.6,0.6,0.2,0.5,0.3,HOU
+22022,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.664,76,0.083,0.875,0.37,0.12,0.109,0.12,0.03,0.391,0.43,0.8,0.7,0.3,0.7,0.4,HOU
+22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.603,59,0.08,0.906,0.38,0.12,0.141,0.09,0.0,0.391,0.5,1.1,1.0,0.3,0.8,0.5,HOU
+22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.063,79,0.065,1.31,0.53,0.05,0.069,0.05,0.03,0.5,0.68,0.7,1.0,0.4,0.7,0.3,HOU

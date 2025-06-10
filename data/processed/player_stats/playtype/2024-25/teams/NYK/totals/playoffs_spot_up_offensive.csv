@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Spotup,Offensive,0.432,18,0.327,0.97,0.352,0.04,0.071,0.03,0.0,0.354,0.5,99,96,31,88,57,NYK
+42024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Spotup,Offensive,0.712,18,0.177,1.141,0.414,0.125,0.0,0.125,0.031,0.469,0.526,64,73,24,58,34,NYK
+42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Spotup,Offensive,0.351,18,0.218,0.91,0.361,0.045,0.045,0.045,0.0,0.358,0.475,67,61,22,61,39,NYK
+42024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Spotup,Offensive,0.423,18,0.276,0.966,0.365,0.034,0.069,0.034,0.0,0.362,0.519,58,56,19,52,33,NYK
+42024,1630540,Miles McBride,1610612752,NYK,New York Knicks,Spotup,Offensive,0.45,18,0.367,0.975,0.342,0.025,0.025,0.025,0.0,0.35,0.487,40,39,13,38,25,NYK
+42024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Spotup,Offensive,0.676,18,0.049,1.12,0.417,0.0,0.04,0.0,0.0,0.4,0.583,25,28,10,24,14,NYK

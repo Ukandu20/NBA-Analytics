@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.8,69,0.451,1.152,0.417,0.018,0.042,0.018,0.0,0.41,0.594,283,326,111,266,155,PHI
+22020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.778,55,0.367,1.141,0.379,0.065,0.016,0.06,0.0,0.413,0.556,184,210,64,169,105,PHI
+22020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.794,57,0.28,1.15,0.455,0.022,0.061,0.022,0.011,0.433,0.602,180,207,76,167,91,PHI
+22020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.633,63,0.222,1.069,0.432,0.074,0.085,0.064,0.021,0.426,0.562,188,201,70,162,92,PHI
+22020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.589,62,0.146,1.043,0.436,0.018,0.08,0.018,0.012,0.405,0.56,163,170,65,149,84,PHI
+22020,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.476,51,0.114,0.986,0.364,0.142,0.054,0.128,0.014,0.426,0.459,148,146,44,121,77,PHI
+22020,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.222,65,0.498,0.827,0.323,0.014,0.079,0.007,0.007,0.302,0.441,139,115,41,127,86,PHI
+22020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.423,61,0.232,0.965,0.389,0.061,0.035,0.061,0.035,0.391,0.468,115,111,42,108,66,PHI
+22020,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.21,51,0.504,0.822,0.294,0.025,0.059,0.025,0.008,0.28,0.431,118,97,32,109,77,PHI
+22020,1630198,Isaiah Joe,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.296,28,0.486,0.902,0.306,0.02,0.02,0.02,0.0,0.314,0.449,51,46,15,49,34,PHI
+22020,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.248,58,0.06,0.849,0.436,0.132,0.132,0.113,0.0,0.453,0.449,53,45,17,39,22,PHI
+22020,2730,Dwight Howard,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.716,69,0.057,1.103,0.545,0.069,0.172,0.069,0.0,0.483,0.659,29,32,12,22,10,PHI
+22020,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.038,6,0.357,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,10,6,3,9,6,PHI
+22020,201588,George Hill,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.869,16,0.229,1.208,0.526,0.125,0.167,0.125,0.083,0.458,0.684,24,29,10,19,9,PHI
+22020,1629751,Dakota Mathias,1610612755,PHI,Philadelphia 76ers,Spotup,Offensive,0.761,8,0.294,1.133,0.4,0.0,0.0,0.0,0.0,0.4,0.567,15,17,6,15,9,PHI

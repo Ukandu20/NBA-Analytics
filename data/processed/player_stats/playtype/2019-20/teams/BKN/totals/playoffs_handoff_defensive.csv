@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,3,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
+42019,1629725,Jeremiah Martin,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,3,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
+42019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.042,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,BKN
+42019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.059,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,BKN
+42019,1629185,Chris Chiozza,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.095,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,BKN
+42019,204020,Tyler Johnson,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.154,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,BKN
+42019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,Handoff,Defensive,0.0,4,0.108,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,4,3,1,4,3,BKN

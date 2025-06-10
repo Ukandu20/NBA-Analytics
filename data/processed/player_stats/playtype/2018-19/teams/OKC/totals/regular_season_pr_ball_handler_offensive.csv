@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.915,76,0.245,1.018,0.449,0.155,0.114,0.122,0.031,0.46,0.508,491,500,168,374,206,OKC
+22018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.474,78,0.427,0.807,0.424,0.092,0.15,0.078,0.028,0.39,0.433,579,467,193,455,262,OKC
+22018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.392,72,0.247,0.781,0.442,0.089,0.216,0.082,0.029,0.369,0.476,485,379,155,351,196,OKC
+22018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.305,34,0.445,0.739,0.357,0.072,0.116,0.072,0.0,0.362,0.366,69,51,20,56,36,OKC
+22018,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.988,31,0.079,1.214,0.667,0.071,0.286,0.071,0.0,0.5,0.833,14,17,6,9,3,OKC
+22018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.366,60,0.089,0.773,0.412,0.091,0.182,0.045,0.045,0.364,0.412,22,17,7,17,10,OKC
+22018,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.447,51,0.072,0.8,0.4,0.2,0.2,0.2,0.067,0.4,0.4,15,12,4,10,6,OKC
+22018,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.03,73,0.039,0.421,0.2,0.053,0.158,0.053,0.0,0.211,0.2,19,8,3,15,12,OKC

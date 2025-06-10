@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.782,51,0.086,1.242,0.584,0.242,0.04,0.253,0.071,0.606,0.591,1.9,2.4,0.9,1.5,0.6,PHI
+22019,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.44,57,0.054,1.057,0.563,0.075,0.057,0.075,0.038,0.528,0.563,0.9,1.0,0.5,0.8,0.4,PHI
+22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.379,72,0.04,1.019,0.49,0.056,0.0,0.056,0.0,0.519,0.49,0.8,0.8,0.3,0.7,0.4,PHI
+22019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.498,67,0.055,1.089,0.575,0.111,0.044,0.111,0.044,0.556,0.575,0.7,0.7,0.3,0.6,0.3,PHI
+22019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.168,68,0.082,0.875,0.464,0.031,0.094,0.031,0.0,0.438,0.464,0.5,0.4,0.2,0.4,0.2,PHI
+22019,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.117,49,0.105,0.8,0.462,0.0,0.133,0.0,0.0,0.4,0.462,0.6,0.5,0.2,0.5,0.3,PHI
+22019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.64,55,0.023,1.158,0.6,0.158,0.158,0.158,0.105,0.526,0.6,0.3,0.4,0.2,0.3,0.1,PHI
+22019,203658,Norvel Pelle,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.645,17,0.235,1.167,0.583,0.0,0.0,0.0,0.0,0.583,0.583,0.7,0.8,0.4,0.7,0.3,PHI
+22019,203124,Kyle O'Quinn,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.168,29,0.14,0.875,0.6,0.313,0.188,0.313,0.125,0.5,0.6,0.6,0.5,0.2,0.3,0.1,PHI
+22019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.507,72,0.017,1.091,0.6,0.0,0.091,0.0,0.0,0.545,0.6,0.2,0.2,0.1,0.1,0.1,PHI
+22019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.031,65,0.036,0.583,0.333,0.167,0.083,0.167,0.0,0.333,0.333,0.2,0.1,0.0,0.1,0.1,PHI

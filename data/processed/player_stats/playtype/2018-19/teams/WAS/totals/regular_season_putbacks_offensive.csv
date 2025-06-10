@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.906,72,0.124,1.316,0.686,0.079,0.053,0.079,0.053,0.645,0.686,76,100,48,70,22,WAS
+22018,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.909,82,0.02,1.317,0.595,0.098,0.024,0.073,0.024,0.61,0.662,41,54,22,37,15,WAS
+22018,201145,Jeff Green,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.856,77,0.045,1.282,0.655,0.205,0.103,0.205,0.051,0.641,0.655,39,50,19,29,10,WAS
+22018,1626171,Bobby Portis,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.431,28,0.112,1.021,0.535,0.021,0.064,0.021,0.0,0.511,0.535,47,48,23,43,20,WAS
+22018,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.656,80,0.044,1.156,0.548,0.063,0.0,0.063,0.031,0.563,0.548,32,37,17,31,14,WAS
+22018,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.925,41,0.05,1.36,0.696,0.08,0.08,0.08,0.08,0.64,0.696,25,34,16,23,7,WAS
+22018,203953,Jabari Parker,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.953,25,0.059,1.435,0.75,0.217,0.0,0.217,0.087,0.739,0.75,23,33,15,20,5,WAS
+22018,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.216,34,0.219,0.882,0.419,0.118,0.0,0.118,0.029,0.471,0.419,34,30,13,31,18,WAS
+22018,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.707,29,0.059,1.182,0.526,0.227,0.0,0.227,0.091,0.591,0.526,22,26,10,19,9,WAS
+22018,1626155,Sam Dekker,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.226,38,0.118,0.897,0.429,0.069,0.0,0.069,0.034,0.448,0.429,29,26,12,28,16,WAS
+22018,2772,Trevor Ariza,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.906,43,0.031,1.316,0.556,0.158,0.0,0.158,0.105,0.579,0.583,19,25,10,18,8,WAS
+22018,202693,Markieff Morris,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.614,34,0.054,1.136,0.611,0.091,0.091,0.045,0.0,0.591,0.611,22,25,11,18,7,WAS
+22018,2730,Dwight Howard,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.301,9,0.179,0.947,0.5,0.368,0.0,0.368,0.0,0.579,0.5,19,18,6,12,6,WAS

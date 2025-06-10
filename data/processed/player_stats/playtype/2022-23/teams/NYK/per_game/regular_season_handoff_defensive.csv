@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203095,Evan Fournier,1610612752,NYK,New York Knicks,Handoff,Defensive,0.782,28,0.075,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,0.4,0.3,0.1,0.3,0.1,NYK
+22022,1629629,Cam Reddish,1610612752,NYK,New York Knicks,Handoff,Defensive,0.761,20,0.066,0.818,0.4,0.0,0.091,0.0,0.0,0.364,0.45,0.6,0.5,0.2,0.5,0.3,NYK
+22022,1628404,Josh Hart,1610612752,NYK,New York Knicks,Handoff,Defensive,0.816,25,0.092,0.778,0.3,0.07,0.185,0.07,0.0,0.296,0.42,1.1,0.8,0.2,0.8,0.6,NYK
+22022,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Handoff,Defensive,0.805,67,0.099,0.786,0.31,0.04,0.036,0.04,0.0,0.321,0.38,0.4,0.3,0.1,0.4,0.3,NYK
+22022,1630540,Miles McBride,1610612752,NYK,New York Knicks,Handoff,Defensive,0.811,64,0.099,0.781,0.39,0.09,0.188,0.06,0.0,0.375,0.43,0.5,0.4,0.1,0.4,0.2,NYK
+22022,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Handoff,Defensive,0.628,68,0.041,0.897,0.36,0.1,0.069,0.1,0.03,0.379,0.4,0.4,0.4,0.1,0.4,0.2,NYK
+22022,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,Handoff,Defensive,0.585,71,0.063,0.912,0.44,0.11,0.193,0.11,0.02,0.404,0.54,0.8,0.7,0.3,0.6,0.3,NYK
+22022,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Handoff,Defensive,0.509,81,0.072,0.947,0.42,0.12,0.123,0.09,0.04,0.421,0.48,0.7,0.7,0.2,0.6,0.3,NYK
+22022,203944,Julius Randle,1610612752,NYK,New York Knicks,Handoff,Defensive,0.043,77,0.053,1.367,0.59,0.12,0.102,0.12,0.02,0.571,0.73,0.6,0.9,0.3,0.5,0.2,NYK
+22022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Handoff,Defensive,0.264,73,0.084,1.089,0.47,0.09,0.089,0.08,0.01,0.468,0.57,1.1,1.2,0.4,0.9,0.5,NYK

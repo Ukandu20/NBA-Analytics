@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629632,Coby White,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.514,65,0.248,0.992,0.365,0.047,0.064,0.047,0.004,0.369,0.514,236,234,77,211,134,CHI
+22019,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.475,50,0.314,0.961,0.36,0.06,0.077,0.052,0.009,0.365,0.493,233,224,73,203,130,CHI
+22019,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.339,65,0.25,0.896,0.341,0.027,0.066,0.016,0.005,0.333,0.464,183,164,57,167,110,CHI
+22019,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.454,60,0.108,0.946,0.397,0.03,0.126,0.03,0.0,0.365,0.528,167,158,56,141,85,CHI
+22019,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.518,51,0.304,0.992,0.412,0.061,0.061,0.061,0.023,0.409,0.508,132,131,49,119,70,CHI
+22019,1627853,Ryan Arcidiacono,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.614,58,0.357,1.031,0.362,0.01,0.021,0.01,0.0,0.361,0.527,97,100,34,94,60,CHI
+22019,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.966,36,0.278,1.311,0.472,0.0,0.027,0.0,0.0,0.459,0.674,74,97,34,72,38,CHI
+22019,1628990,Chandler Hutchison,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.599,28,0.377,1.022,0.455,0.18,0.101,0.157,0.022,0.472,0.538,89,91,30,66,36,CHI
+22019,1628436,Luke Kornet,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.333,36,0.292,0.887,0.317,0.0,0.032,0.0,0.0,0.306,0.458,62,55,19,60,41,CHI
+22019,1627885,Shaquille Harrison,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.44,43,0.251,0.942,0.367,0.038,0.038,0.038,0.019,0.365,0.48,52,49,18,49,31,CHI
+22019,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.955,14,0.213,1.294,0.455,0.059,0.029,0.059,0.059,0.441,0.652,34,44,15,33,18,CHI
+22019,1628976,Wendell Carter Jr.,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.252,43,0.088,0.837,0.35,0.047,0.047,0.023,0.023,0.349,0.425,43,36,14,40,26,CHI
+22019,1629690,Adam Mokoka,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.186,11,0.419,0.769,0.333,0.0,0.077,0.0,0.0,0.308,0.417,13,10,4,12,8,CHI

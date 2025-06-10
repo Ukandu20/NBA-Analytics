@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.542,44,0.229,1.135,0.489,0.038,0.025,0.034,0.013,0.485,0.578,237,269,110,225,115,ORL
+22020,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.437,46,0.27,1.081,0.411,0.091,0.02,0.091,0.02,0.444,0.528,99,107,37,90,53,ORL
+22020,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.181,22,0.299,0.911,0.438,0.089,0.038,0.089,0.051,0.443,0.452,79,72,32,73,41,ORL
+22020,203920,Khem Birch,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.445,48,0.169,1.087,0.524,0.152,0.022,0.152,0.087,0.522,0.524,46,50,22,42,20,ORL
+22020,1629743,Donta Hall,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.832,13,0.298,1.294,0.667,0.471,0.059,0.412,0.059,0.706,0.667,17,22,6,9,3,ORL
+22020,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.239,11,0.146,0.944,0.438,0.0,0.111,0.0,0.0,0.389,0.531,18,17,7,16,9,ORL
+22020,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.11,45,0.032,0.833,0.3,0.167,0.0,0.167,0.0,0.417,0.3,12,10,3,10,7,ORL

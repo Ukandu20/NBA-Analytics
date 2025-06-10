@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42023,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.473,10,0.531,0.967,0.346,0.05,0.083,0.017,0.0,0.35,0.5,60,58,18,52,34,OKC
+42023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.773,10,0.168,1.156,0.452,0.031,0.0,0.031,0.0,0.469,0.565,32,37,14,31,17,OKC
+42023,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.582,10,0.396,1.028,0.406,0.056,0.056,0.056,0.0,0.417,0.531,36,37,13,32,19,OKC
+42023,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.727,10,0.11,1.129,0.483,0.065,0.0,0.065,0.0,0.516,0.534,31,35,14,29,15,OKC
+42023,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.755,10,0.373,1.136,0.45,0.0,0.091,0.0,0.0,0.409,0.625,22,25,9,20,11,OKC
+42023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.204,10,0.209,0.75,0.3,0.031,0.031,0.031,0.0,0.313,0.383,32,24,9,30,21,OKC
+42023,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.394,10,0.41,0.92,0.375,0.04,0.04,0.04,0.04,0.36,0.458,25,23,9,24,15,OKC
+42023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.318,10,0.587,0.852,0.364,0.037,0.148,0.037,0.0,0.333,0.5,27,23,8,22,14,OKC
+42023,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.782,10,0.5,1.158,0.444,0.0,0.053,0.0,0.0,0.421,0.611,19,22,8,18,10,OKC

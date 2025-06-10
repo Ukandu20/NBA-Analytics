@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,203933,T.J. Warren,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.193,8,0.563,1.0,0.438,0.111,0.056,0.111,0.056,0.444,0.5,18,18,7,16,9,MIN
+22023,1628420,Monté Morris,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.947,27,0.486,0.691,0.339,0.088,0.103,0.088,0.015,0.338,0.357,68,47,19,56,37,MIN
+22023,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.569,42,0.456,0.899,0.438,0.112,0.191,0.101,0.022,0.404,0.492,89,80,28,64,36,MIN
+22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.81,81,0.375,0.815,0.407,0.092,0.189,0.088,0.012,0.378,0.453,249,203,74,182,108,MIN
+22023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.891,81,0.431,0.766,0.365,0.093,0.159,0.087,0.012,0.355,0.414,321,246,89,244,155,MIN
+22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.576,79,0.357,0.895,0.427,0.122,0.153,0.098,0.02,0.414,0.475,295,264,94,220,126,MIN
+22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.845,61,0.48,0.793,0.372,0.088,0.15,0.083,0.018,0.36,0.417,386,306,112,301,189,MIN
+22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.835,72,0.476,0.798,0.398,0.078,0.173,0.069,0.02,0.359,0.439,451,360,138,347,209,MIN
+22023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.726,75,0.65,0.842,0.413,0.07,0.14,0.065,0.015,0.382,0.459,840,707,279,676,397,MIN

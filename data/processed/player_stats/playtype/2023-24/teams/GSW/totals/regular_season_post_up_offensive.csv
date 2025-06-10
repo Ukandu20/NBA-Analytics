@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22023,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.43,74,0.116,0.946,0.495,0.171,0.155,0.163,0.047,0.481,0.495,129,122,46,93,47,GSW
+22023,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.47,71,0.081,0.974,0.492,0.182,0.065,0.169,0.039,0.494,0.492,77,75,30,61,31,GSW
+22023,203967,Dario Šarić,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.623,64,0.136,1.014,0.565,0.188,0.203,0.13,0.058,0.507,0.565,69,70,26,46,20,GSW
+22023,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.207,77,0.012,0.875,0.438,0.0,0.0,0.0,0.0,0.438,0.438,16,14,7,16,9,GSW
+22023,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.187,67,0.032,0.857,0.625,0.143,0.286,0.071,0.0,0.5,0.625,14,12,5,8,3,GSW
+22023,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,55,0.041,0.409,0.25,0.091,0.364,0.045,0.0,0.227,0.25,22,9,3,12,9,GSW

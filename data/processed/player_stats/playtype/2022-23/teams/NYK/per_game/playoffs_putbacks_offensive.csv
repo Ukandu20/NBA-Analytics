@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.333,11,0.473,0.886,0.52,0.229,0.057,0.2,0.0,0.486,0.52,3.2,2.8,1.2,2.3,1.1,NYK
+42022,203944,Julius Randle,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.63,10,0.049,1.1,0.429,0.3,0.0,0.3,0.0,0.6,0.429,1.0,1.1,0.3,0.7,0.4,NYK
+42022,1628404,Josh Hart,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,11,0.065,1.25,0.714,0.0,0.125,0.0,0.0,0.625,0.714,0.7,0.9,0.5,0.6,0.2,NYK
+42022,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,11,0.167,1.167,0.6,0.167,0.0,0.167,0.0,0.667,0.6,0.5,0.6,0.3,0.5,0.2,NYK
+42022,1630167,Obi Toppin,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,11,0.05,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,0.4,0.4,0.1,0.2,0.1,NYK
+42022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,11,0.005,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.2,0.1,0.1,0.0,NYK
+42022,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,8,0.023,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,0.3,0.3,0.1,0.1,0.0,NYK
+42022,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.0,9,0.033,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1,NYK

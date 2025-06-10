@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,SAS
+42020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.214,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,SAS
+42020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.333,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2.0,2.0,1.0,2.0,1.0,SAS
+42020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.4,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2.0,2.0,1.0,2.0,1.0,SAS
+42020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.556,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5.0,4.0,2.0,5.0,3.0,SAS
+42020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.0,1,0.4,0.667,0.4,0.17,0.0,0.17,0.0,0.33,0.4,6.0,4.0,2.0,5.0,3.0,SAS
+42020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRBallHandler,Defensive,0.626,1,0.75,0.917,0.56,0.0,0.25,0.0,0.0,0.42,0.61,12.0,11.0,5.0,9.0,4.0,SAS

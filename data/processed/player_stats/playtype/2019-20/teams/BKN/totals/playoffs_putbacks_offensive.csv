@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629743,Donta Hall,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,3,0.375,1.0,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,3,1,2,1,BKN
+42019,202498,Lance Thomas,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,3,0.143,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
+42019,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.042,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
+42019,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.021,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,BKN
+42019,1629058,Dzanan Musa,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,3,0.05,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,BKN
+42019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,2,0.036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
+42019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
+42019,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.0,4,0.19,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,8,0,0,4,4,BKN

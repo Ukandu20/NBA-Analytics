@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.436,40,0.205,1.061,0.526,0.112,0.056,0.101,0.039,0.531,0.529,4.5,4.8,2.0,3.9,1.9,LAL
+22021,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.93,56,0.047,1.425,0.6,0.123,0.014,0.123,0.027,0.63,0.692,1.3,1.9,0.7,1.2,0.5,LAL
+22021,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.751,60,0.178,1.254,0.667,0.254,0.068,0.254,0.034,0.644,0.702,1.0,1.2,0.5,0.7,0.2,LAL
+22021,1628370,Malik Monk,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.953,76,0.036,1.444,0.677,0.028,0.111,0.0,0.0,0.611,0.806,0.5,0.7,0.3,0.4,0.1,LAL
+22021,2546,Carmelo Anthony,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.191,69,0.057,0.896,0.325,0.104,0.063,0.104,0.0,0.375,0.413,0.7,0.6,0.2,0.6,0.4,LAL
+22021,201599,DeAndre Jordan,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.7,32,0.203,1.24,0.789,0.12,0.12,0.12,0.0,0.64,0.789,0.8,1.0,0.5,0.6,0.1,LAL
+22021,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.882,61,0.044,1.389,0.714,0.111,0.111,0.111,0.0,0.667,0.75,0.3,0.4,0.2,0.2,0.1,LAL
+22021,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.332,60,0.028,1.0,0.467,0.158,0.105,0.158,0.053,0.474,0.5,0.3,0.3,0.1,0.3,0.1,LAL
+22021,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.183,62,0.048,0.895,0.4,0.053,0.158,0.053,0.0,0.368,0.5,0.3,0.3,0.1,0.2,0.1,LAL
+22021,1629117,Wenyen Gabriel,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.125,19,0.15,0.842,0.429,0.158,0.105,0.053,0.0,0.474,0.429,1.0,0.8,0.3,0.7,0.4,LAL
+22021,1626169,Stanley Johnson,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.066,48,0.044,0.786,0.25,0.143,0.0,0.143,0.0,0.357,0.292,0.3,0.2,0.1,0.3,0.2,LAL
+22021,2772,Trevor Ariza,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.054,24,0.093,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,0.5,0.3,0.1,0.4,0.3,LAL

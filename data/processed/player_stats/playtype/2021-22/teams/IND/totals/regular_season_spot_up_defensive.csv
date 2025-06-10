@@ -1,0 +1,23 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,202954,Brad Wanamaker,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.624,22,0.297,0.97,0.367,0.03,0.06,0.03,0.0,0.36,0.517,33,32,11,30,19,IND
+22021,1629103,Kelan Martin,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.98,27,0.335,0.571,0.25,0.02,0.05,0.02,0.0,0.25,0.288,56,32,13,52,39,IND
+22021,1626208,Keifer Sykes,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.61,32,0.25,0.976,0.385,0.02,0.05,0.02,0.0,0.36,0.526,42,41,15,39,24,IND
+22021,1626147,Justin Anderson,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.08,13,0.402,1.286,0.5,0.0,0.09,0.0,0.0,0.46,0.703,35,45,16,32,16,IND
+22021,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.942,27,0.288,0.75,0.268,0.08,0.06,0.06,0.02,0.3,0.348,64,48,15,56,41,IND
+22021,203087,Jeremy Lamb,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.942,39,0.384,0.75,0.313,0.05,0.11,0.04,0.0,0.32,0.398,76,57,20,64,44,IND
+22021,1630188,Jalen Smith,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.284,22,0.27,1.093,0.4,0.02,0.06,0.02,0.0,0.39,0.57,54,59,20,50,30,IND
+22021,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.348,36,0.208,1.068,0.377,0.14,0.0,0.1,0.03,0.44,0.491,59,63,20,53,33,IND
+22021,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.269,50,0.189,1.1,0.431,0.02,0.03,0.02,0.02,0.42,0.56,60,66,25,58,33,IND
+22021,1630678,Terry Taylor,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.586,33,0.279,0.986,0.348,0.04,0.03,0.04,0.0,0.36,0.5,74,73,24,69,45,IND
+22021,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.416,36,0.192,1.049,0.397,0.01,0.04,0.01,0.01,0.38,0.538,81,85,31,78,47,IND
+22021,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.051,40,0.358,1.356,0.523,0.08,0.04,0.07,0.01,0.53,0.692,73,99,34,65,31,IND
+22021,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.073,42,0.157,1.297,0.531,0.07,0.05,0.07,0.01,0.53,0.685,91,118,43,81,38,IND
+22021,1628470,Torrey Craig,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.432,51,0.271,1.043,0.404,0.08,0.04,0.07,0.02,0.41,0.543,116,121,42,104,62,IND
+22021,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.902,47,0.216,0.819,0.339,0.1,0.1,0.1,0.03,0.35,0.419,149,122,42,124,82,IND
+22021,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.158,26,0.391,1.179,0.442,0.08,0.04,0.08,0.02,0.45,0.595,106,125,42,95,53,IND
+22021,1627747,Caris LeVert,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.374,39,0.322,1.059,0.4,0.08,0.06,0.07,0.02,0.41,0.543,119,126,42,105,63,IND
+22021,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.603,26,0.403,0.979,0.349,0.05,0.04,0.05,0.01,0.36,0.484,140,137,45,129,84,IND
+22021,203200,Justin Holiday,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.686,49,0.309,0.947,0.368,0.07,0.06,0.07,0.02,0.37,0.477,150,142,49,133,84,IND
+22021,1630613,Duane Washington Jr.,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.167,48,0.334,1.168,0.429,0.08,0.06,0.07,0.03,0.42,0.594,125,146,48,112,64,IND
+22021,1630537,Chris Duarte,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.862,55,0.368,0.852,0.331,0.03,0.07,0.03,0.0,0.33,0.441,196,167,59,178,119,IND
+22021,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.43,67,0.394,1.044,0.408,0.06,0.06,0.06,0.01,0.41,0.541,206,215,75,184,109,IND

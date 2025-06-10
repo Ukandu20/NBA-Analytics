@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.72,70,0.091,1.0,0.425,0.009,0.053,0.009,0.0,0.407,0.524,113,113,45,106,61,TOR
+22021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.588,65,0.089,0.942,0.406,0.067,0.117,0.058,0.025,0.383,0.495,120,113,41,101,60,TOR
+22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.91,68,0.031,1.184,0.571,0.122,0.061,0.122,0.041,0.571,0.595,49,58,24,42,18,TOR
+22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.294,48,0.059,0.776,0.378,0.041,0.204,0.02,0.0,0.327,0.459,49,38,14,37,23,TOR
+22021,1629004,Svi Mykhailiuk,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.566,56,0.1,0.929,0.346,0.036,0.071,0.036,0.036,0.321,0.481,28,26,9,26,17,TOR
+22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.543,74,0.02,0.913,0.412,0.174,0.087,0.13,0.0,0.435,0.5,23,21,7,17,10,TOR
+22021,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.467,44,0.068,0.857,0.364,0.143,0.071,0.071,0.0,0.429,0.409,14,12,4,11,7,TOR
+22021,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.083,80,0.017,0.5,0.111,0.167,0.083,0.167,0.0,0.25,0.167,12,6,1,9,8,TOR
+22021,1630625,Dalano Banton,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.038,64,0.051,0.357,0.091,0.143,0.143,0.071,0.071,0.143,0.091,14,5,1,11,10,TOR
+22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.035,73,0.016,0.333,0.167,0.0,0.0,0.0,0.0,0.167,0.167,12,4,2,12,10,TOR

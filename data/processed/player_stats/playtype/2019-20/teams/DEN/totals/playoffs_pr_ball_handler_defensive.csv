@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203584,Troy Daniels,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.0,6,0.083,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,DEN
+42019,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.0,19,0.023,0.5,0.0,0.5,0.5,0.5,0.0,0.5,0.0,2,1,0,0,0,DEN
+42019,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.0,19,0.01,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,3,2,1,2,1,DEN
+42019,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.536,19,0.072,0.909,0.33,0.18,0.0,0.18,0.0,0.45,0.33,11,10,3,9,6,DEN
+42019,203914,Gary Harris,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.988,14,0.282,0.364,0.21,0.06,0.21,0.03,0.0,0.18,0.21,33,12,5,24,19,DEN
+42019,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.036,19,0.075,1.364,0.75,0.0,0.27,0.0,0.0,0.55,0.94,11,15,6,8,2,DEN
+42019,1628408,PJ Dozier,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.167,12,0.422,1.158,0.64,0.11,0.21,0.11,0.05,0.53,0.71,19,22,9,14,5,DEN
+42019,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.359,19,0.3,1.0,0.42,0.09,0.0,0.06,0.03,0.45,0.47,33,33,13,31,18,DEN
+42019,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.476,19,0.439,0.941,0.45,0.15,0.19,0.15,0.03,0.43,0.5,68,64,21,47,26,DEN
+42019,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.179,19,0.26,1.156,0.57,0.11,0.14,0.11,0.08,0.5,0.64,64,74,30,53,23,DEN
+42019,203924,Jerami Grant,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.298,19,0.455,1.037,0.48,0.12,0.11,0.07,0.01,0.48,0.53,136,141,51,107,56,DEN

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203145,Kent Bazemore,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.988,25,0.07,0.267,0.143,0.0,0.07,0.0,0.0,0.13,0.143,0.6,0.2,0.1,0.6,0.5,SAC
+22019,2772,Trevor Ariza,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.95,33,0.08,0.5,0.235,0.05,0.1,0.05,0.0,0.25,0.235,0.6,0.3,0.1,0.5,0.4,SAC
+22019,1627812,Yogi Ferrell,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.047,50,0.053,1.4,0.556,0.1,0.1,0.1,0.1,0.5,0.722,0.2,0.3,0.1,0.2,0.1,SAC
+22019,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.769,72,0.036,0.793,0.348,0.03,0.17,0.0,0.0,0.31,0.478,0.4,0.3,0.1,0.3,0.2,SAC
+22019,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.203,61,0.07,1.158,0.452,0.13,0.08,0.11,0.03,0.47,0.565,0.6,0.7,0.2,0.5,0.3,SAC
+22019,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.255,51,0.062,1.128,0.469,0.1,0.1,0.08,0.03,0.46,0.594,0.8,0.9,0.3,0.6,0.3,SAC
+22019,202709,Cory Joseph,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.332,72,0.07,1.08,0.415,0.12,0.06,0.12,0.0,0.46,0.537,0.7,0.8,0.2,0.6,0.3,SAC
+22019,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.209,72,0.085,1.156,0.528,0.06,0.12,0.05,0.02,0.48,0.651,0.9,1.0,0.4,0.7,0.3,SAC
+22019,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.583,72,0.112,0.905,0.408,0.02,0.07,0.01,0.0,0.38,0.487,1.2,1.1,0.4,1.1,0.6,SAC

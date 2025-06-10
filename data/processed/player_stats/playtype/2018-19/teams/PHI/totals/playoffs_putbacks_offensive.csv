@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.971,12,0.053,1.75,0.8,0.25,0.0,0.167,0.083,0.833,0.8,12,21,8,10,2,PHI
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.879,11,0.156,1.5,0.857,0.2,0.1,0.2,0.0,0.8,0.857,10,15,6,7,1,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.545,11,0.157,1.077,0.636,0.0,0.15,0.0,0.0,0.538,0.636,13,14,7,11,4,PHI
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.545,12,0.078,1.077,0.583,0.0,0.08,0.0,0.0,0.538,0.583,13,14,7,12,5,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.152,11,0.067,0.875,0.364,0.25,0.06,0.25,0.0,0.5,0.364,16,14,4,11,7,PHI
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.118,10,0.229,0.818,0.364,0.091,0.0,0.091,0.091,0.364,0.364,11,9,4,11,7,PHI
+42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.036,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.0,2,4,1,1,0,PHI
+42018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.097,1.0,1.0,0.333,0.33,0.333,0.0,0.667,1.0,3,3,1,1,0,PHI
+42018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,4,0.2,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,7,0.079,0.667,0.5,0.0,0.33,0.0,0.0,0.333,0.5,3,2,1,2,1,PHI
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,12,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,12,0.02,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,4,0,0,3,3,PHI

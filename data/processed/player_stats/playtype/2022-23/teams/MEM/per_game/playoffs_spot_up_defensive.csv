@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.0,5,0.222,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.8,0.8,MEM
+42022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.0,6,0.28,0.429,0.17,0.0,0.14,0.0,0.0,0.14,0.25,1.2,0.0,0.2,1.0,0.8,MEM
+42022,1631254,Kenneth Lofton Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.0,4,0.5,2.0,0.67,0.0,0.0,0.0,0.0,0.67,1.0,0.8,2.0,0.5,0.8,0.3,MEM
+42022,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.0,5,0.237,0.667,0.22,0.0,0.0,0.0,0.0,0.22,0.33,1.8,1.0,0.4,1.8,1.4,MEM
+42022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.632,5,0.233,1.0,0.36,0.0,0.0,0.0,0.0,0.36,0.5,2.8,3.0,1.0,2.8,1.8,MEM
+42022,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.133,6,0.368,1.429,0.5,0.0,0.0,0.0,0.0,0.5,0.71,2.3,3.0,1.2,2.3,1.2,MEM
+42022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.239,6,0.168,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.62,2.7,3.0,1.3,2.7,1.3,MEM
+42022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.143,6,0.238,1.4,0.5,0.0,0.07,0.0,0.0,0.47,0.75,2.5,4.0,1.2,2.3,1.2,MEM
+42022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.893,6,0.341,0.786,0.29,0.0,0.0,0.0,0.0,0.29,0.39,4.7,4.0,1.3,4.7,3.3,MEM
+42022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.106,6,0.567,1.471,0.62,0.06,0.0,0.06,0.0,0.65,0.75,2.8,4.0,1.7,2.7,1.0,MEM
+42022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.726,6,0.435,0.926,0.32,0.04,0.04,0.04,0.0,0.33,0.48,4.5,4.0,1.3,4.2,2.8,MEM

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203516,James Ennis III,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.964,20,0.085,0.5,0.231,0.0,0.071,0.0,0.0,0.214,0.269,0.7,0.4,0.2,0.7,0.5,ORL
+22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.19,62,0.01,1.091,0.364,0.0,0.0,0.0,0.0,0.364,0.545,0.2,0.2,0.1,0.2,0.1,ORL
+22019,202329,Al-Farouq Aminu,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.032,18,0.072,1.4,0.625,0.1,0.2,0.1,0.1,0.5,0.813,0.6,0.8,0.3,0.4,0.2,ORL
+22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.0,34,0.038,1.923,0.818,0.08,0.077,0.08,0.0,0.769,1.045,0.4,0.7,0.3,0.3,0.1,ORL
+22019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.788,52,0.099,0.75,0.31,0.03,0.167,0.03,0.0,0.278,0.431,0.7,0.5,0.2,0.6,0.4,ORL
+22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.693,62,0.069,0.809,0.39,0.04,0.106,0.04,0.02,0.362,0.427,0.8,0.6,0.3,0.7,0.4,ORL
+22019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.816,57,0.121,0.729,0.383,0.03,0.186,0.03,0.02,0.322,0.436,1.0,0.8,0.3,0.8,0.5,ORL
+22019,203487,Michael Carter-Williams,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.181,45,0.112,1.098,0.548,0.07,0.171,0.05,0.0,0.463,0.661,0.9,1.0,0.4,0.7,0.3,ORL
+22019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.553,69,0.1,0.885,0.383,0.02,0.096,0.02,0.02,0.346,0.479,0.8,0.7,0.3,0.7,0.4,ORL
+22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.569,72,0.087,0.875,0.39,0.08,0.111,0.07,0.01,0.389,0.458,1.0,0.9,0.3,0.8,0.5,ORL
+22019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Defensive,0.171,66,0.116,1.101,0.493,0.07,0.101,0.07,0.01,0.472,0.587,1.3,1.5,0.6,1.1,0.6,ORL

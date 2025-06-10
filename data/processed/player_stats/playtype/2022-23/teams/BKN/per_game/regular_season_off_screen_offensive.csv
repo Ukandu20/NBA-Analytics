@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.551,39,0.094,0.989,0.527,0.109,0.152,0.098,0.065,0.467,0.534,2.4,2.3,1.0,1.9,0.9,BKN
+22022,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.833,74,0.092,1.178,0.455,0.022,0.022,0.022,0.022,0.444,0.591,0.6,0.7,0.3,0.6,0.3,BKN
+22022,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.767,40,0.044,1.116,0.45,0.047,0.023,0.023,0.0,0.465,0.538,1.1,1.2,0.5,1.0,0.6,BKN
+22022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.674,27,0.065,1.049,0.5,0.024,0.049,0.024,0.0,0.488,0.539,1.5,1.6,0.7,1.4,0.7,BKN
+22022,201988,Patty Mills,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.89,40,0.1,1.24,0.5,0.04,0.08,0.0,0.0,0.48,0.682,0.6,0.8,0.3,0.6,0.3,BKN
+22022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.916,57,0.034,1.25,0.588,0.05,0.15,0.05,0.05,0.5,0.706,0.4,0.4,0.2,0.3,0.1,BKN
+22022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.485,61,0.042,0.955,0.476,0.0,0.045,0.0,0.0,0.455,0.5,0.4,0.3,0.2,0.3,0.2,BKN
+22022,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.606,76,0.024,1.0,0.375,0.0,0.111,0.0,0.0,0.333,0.563,0.2,0.2,0.1,0.2,0.1,BKN
+22022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.862,25,0.039,1.214,0.545,0.071,0.143,0.071,0.0,0.5,0.727,0.6,0.7,0.2,0.4,0.2,BKN

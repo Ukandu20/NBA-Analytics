@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Cut,Offensive,0.678,82,0.106,1.379,0.706,0.034,0.034,0.034,0.007,0.69,0.706,1.8,2.4,1.2,1.7,0.5,NYK
+22024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Cut,Offensive,0.418,77,0.119,1.256,0.626,0.091,0.033,0.091,0.008,0.636,0.626,1.6,2.0,0.9,1.4,0.5,NYK
+22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Cut,Offensive,0.787,74,0.085,1.429,0.75,0.086,0.067,0.086,0.029,0.714,0.75,1.4,2.0,0.9,1.2,0.3,NYK
+22024,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Cut,Offensive,0.365,57,0.195,1.228,0.676,0.101,0.063,0.101,0.025,0.62,0.676,1.4,1.7,0.8,1.2,0.4,NYK
+22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Cut,Offensive,0.483,65,0.02,1.29,0.75,0.129,0.129,0.129,0.032,0.645,0.75,0.5,0.6,0.3,0.4,0.1,NYK
+22024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,Cut,Offensive,0.182,50,0.073,1.105,0.6,0.158,0.105,0.158,0.053,0.526,0.6,0.4,0.4,0.2,0.3,0.1,NYK
+22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,Cut,Offensive,0.072,64,0.033,0.95,0.438,0.15,0.05,0.15,0.0,0.5,0.438,0.3,0.3,0.1,0.3,0.1,NYK
+22024,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Cut,Offensive,0.259,17,0.162,1.167,0.6,0.167,0.083,0.167,0.083,0.583,0.6,0.7,0.8,0.4,0.6,0.2,NYK

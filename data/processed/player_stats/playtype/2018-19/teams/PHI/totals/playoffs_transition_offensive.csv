@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.205,12,0.271,0.933,0.6,0.089,0.244,0.09,0.0,0.49,0.6,45,42,18,30,12,PHI
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.337,12,0.146,1.03,0.5,0.212,0.121,0.21,0.06,0.52,0.5,33,34,12,24,12,PHI
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,1.0,12,0.118,1.778,0.706,0.0,0.056,0.0,0.0,0.67,0.941,18,32,12,17,5,PHI
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.476,12,0.148,1.103,0.458,0.103,0.103,0.07,0.03,0.45,0.563,29,32,11,24,13,PHI
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.494,11,0.079,1.105,0.5,0.158,0.105,0.16,0.11,0.47,0.563,19,21,8,16,8,PHI
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.747,11,0.157,1.308,0.636,0.077,0.077,0.08,0.0,0.62,0.727,13,17,7,11,4,PHI
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,7,0.184,2.143,1.0,0.286,0.0,0.29,0.0,1.0,1.2,7,15,5,5,0,PHI
+42018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.258,0.75,0.333,0.0,0.25,0.0,0.0,0.25,0.5,8,6,2,6,4,PHI
+42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.145,0.75,0.333,0.0,0.25,0.0,0.0,0.25,0.5,8,6,2,6,4,PHI
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.063,1.333,0.667,0.0,0.0,0.0,0.0,0.67,0.667,3,4,2,3,1,PHI
+42018,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,9,0.25,0.571,0.333,0.0,0.143,0.0,0.0,0.29,0.333,7,4,2,6,4,PHI
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,11,0.031,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHI

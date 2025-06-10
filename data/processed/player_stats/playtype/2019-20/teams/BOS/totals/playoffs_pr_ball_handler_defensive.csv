@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,1629750,Javonte Green,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,1,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BOS
+42019,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,17,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,BOS
+42019,1629682,Tremont Waters,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,1,1.0,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,BOS
+42019,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,13,0.139,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3,BOS
+42019,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,7,0.3,1.0,0.5,0.17,0.33,0.17,0.17,0.33,0.62,6,6,2,4,2,BOS
+42019,1629684,Grant Williams,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.0,17,0.086,1.714,0.6,0.71,0.0,0.71,0.43,0.71,0.6,7,12,3,5,2,BOS
+42019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.036,5,0.239,1.364,0.6,0.18,0.09,0.18,0.18,0.55,0.65,11,15,6,10,4,BOS
+42019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.643,17,0.35,0.829,0.41,0.17,0.2,0.17,0.0,0.43,0.43,35,29,9,22,13,BOS
+42019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.786,17,0.225,0.745,0.36,0.06,0.14,0.06,0.02,0.33,0.4,51,38,15,42,27,BOS
+42019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.81,17,0.267,0.741,0.34,0.09,0.11,0.09,0.02,0.35,0.36,54,40,15,44,29,BOS
+42019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.857,17,0.345,0.705,0.38,0.03,0.23,0.03,0.0,0.31,0.43,61,43,17,45,28,BOS
+42019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.845,17,0.328,0.722,0.32,0.09,0.16,0.1,0.01,0.32,0.37,79,57,19,59,40,BOS

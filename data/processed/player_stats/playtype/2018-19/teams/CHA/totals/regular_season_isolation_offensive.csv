@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.82,82,0.082,1.029,0.436,0.117,0.053,0.11,0.041,0.45,0.5,171,176,65,149,84,CHA
+22018,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.571,79,0.11,0.898,0.362,0.156,0.063,0.15,0.039,0.406,0.395,128,115,38,105,67,CHA
+22018,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.986,43,0.108,1.344,0.607,0.125,0.063,0.12,0.063,0.594,0.696,32,43,17,28,11,CHA
+22018,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.462,73,0.072,0.824,0.326,0.137,0.059,0.12,0.039,0.373,0.36,51,42,14,43,29,CHA
+22018,2225,Tony Parker,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.408,56,0.088,0.808,0.4,0.115,0.115,0.1,0.0,0.423,0.4,52,42,16,40,24,CHA
+22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.931,75,0.044,1.129,0.483,0.0,0.065,0.0,0.0,0.452,0.603,31,35,14,29,15,CHA
+22018,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.066,46,0.12,0.531,0.167,0.188,0.063,0.19,0.0,0.313,0.167,32,17,4,24,20,CHA
+22018,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.885,64,0.035,1.067,0.455,0.267,0.067,0.27,0.067,0.533,0.455,15,16,5,11,6,CHA
+22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.038,80,0.046,0.481,0.217,0.074,0.074,0.07,0.0,0.222,0.239,27,13,5,23,18,CHA
+22018,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.486,49,0.026,0.833,0.417,0.0,0.0,0.0,0.0,0.417,0.417,12,10,5,12,7,CHA

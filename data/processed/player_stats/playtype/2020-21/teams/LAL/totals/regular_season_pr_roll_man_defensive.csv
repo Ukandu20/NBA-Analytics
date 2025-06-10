@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202083,Wesley Matthews,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.982,58,0.043,0.353,0.12,0.06,0.0,0.06,0.0,0.12,0.19,17,6,2,16,14,LAL
+22020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.632,45,0.039,0.929,0.36,0.14,0.07,0.14,0.0,0.43,0.41,14,13,4,11,7,LAL
+22020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.875,61,0.047,0.722,0.33,0.06,0.11,0.06,0.0,0.33,0.4,18,13,5,15,10,LAL
+22020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.25,21,0.054,1.231,0.5,0.15,0.08,0.15,0.0,0.54,0.65,13,16,5,10,5,LAL
+22020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.901,36,0.078,0.697,0.28,0.09,0.03,0.09,0.0,0.33,0.31,33,23,8,29,21,LAL
+22020,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.365,58,0.046,1.136,0.56,0.0,0.18,0.0,0.0,0.45,0.69,22,25,10,18,8,LAL
+22020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.436,68,0.039,1.087,0.5,0.09,0.09,0.09,0.04,0.48,0.55,23,25,10,20,10,LAL
+22020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.498,65,0.052,1.037,0.41,0.15,0.04,0.11,0.0,0.44,0.57,27,28,9,22,13,LAL
+22020,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.304,67,0.042,1.192,0.5,0.12,0.08,0.12,0.04,0.5,0.61,26,31,11,22,11,LAL
+22020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.661,69,0.053,0.917,0.45,0.0,0.08,0.0,0.0,0.42,0.5,36,33,15,33,18,LAL
+22020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.487,61,0.048,1.054,0.46,0.0,0.05,0.0,0.0,0.43,0.56,37,39,16,35,19,LAL
+22020,201188,Marc Gasol,1610612747,LAL,Los Angeles Lakers,PRRollMan,Defensive,0.219,52,0.072,1.25,0.56,0.06,0.03,0.06,0.03,0.56,0.63,36,45,19,34,15,LAL

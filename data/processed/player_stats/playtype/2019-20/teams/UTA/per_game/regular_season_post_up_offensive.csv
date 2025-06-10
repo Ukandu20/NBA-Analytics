@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Postup,Offensive,0.897,63,0.045,1.091,0.414,0.345,0.164,0.327,0.036,0.527,0.414,0.9,1.0,0.2,0.5,0.3,UTA
+22019,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.594,68,0.043,0.947,0.65,0.263,0.263,0.237,0.053,0.5,0.65,0.6,0.5,0.2,0.3,0.1,UTA
+22019,1626144,Emmanuel Mudiay,1610612762,UTA,Utah Jazz,Postup,Offensive,0.216,54,0.032,0.786,0.417,0.071,0.071,0.071,0.0,0.429,0.417,0.3,0.2,0.1,0.2,0.1,UTA
+22019,201145,Jeff Green,1610612762,UTA,Utah Jazz,Postup,Offensive,0.216,30,0.056,0.786,0.4,0.214,0.071,0.143,0.0,0.429,0.4,0.5,0.4,0.1,0.3,0.2,UTA

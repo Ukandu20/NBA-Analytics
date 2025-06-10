@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1628396,Tony Bradley,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,CHI
+42021,202684,Tristan Thompson,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,CHI
+42021,1627884,Derrick Jones Jr.,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,CHI
+42021,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,CHI
+42021,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,4,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,CHI
+42021,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,4,0.053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.8,0.8,CHI
+42021,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.095,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.0,0.2,0.4,0.2,CHI
+42021,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.107,1.0,0.5,0.0,0.33,0.0,0.0,0.33,0.75,0.6,1.0,0.2,0.4,0.2,CHI
+42021,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.061,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,0.6,1.0,0.4,0.6,0.2,CHI
+42021,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.0,5,0.072,1.429,0.57,0.0,0.0,0.0,0.0,0.57,0.71,1.4,2.0,0.8,1.4,0.6,CHI

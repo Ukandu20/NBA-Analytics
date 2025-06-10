@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.903,51,0.368,1.1,0.524,0.277,0.118,0.225,0.043,0.564,0.524,422,464,143,273,130,PHI
+22019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.406,67,0.237,0.887,0.476,0.062,0.118,0.041,0.021,0.441,0.476,195,173,78,164,86,PHI
+22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.626,72,0.114,0.961,0.5,0.123,0.097,0.097,0.032,0.49,0.5,155,149,63,126,63,PHI
+22019,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.394,57,0.113,0.884,0.512,0.107,0.161,0.089,0.018,0.455,0.512,112,99,43,84,41,PHI
+22019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.182,68,0.071,0.75,0.348,0.143,0.036,0.143,0.0,0.429,0.348,28,21,8,23,15,PHI

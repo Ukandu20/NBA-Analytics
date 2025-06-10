@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.581,44,0.069,1.145,0.547,0.055,0.018,0.055,0.036,0.545,0.557,1.3,1.4,0.7,1.2,0.5,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.586,60,0.09,1.146,0.619,0.042,0.083,0.063,0.021,0.563,0.619,0.8,0.9,0.4,0.7,0.3,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.591,66,0.022,1.146,0.516,0.244,0.049,0.244,0.049,0.585,0.532,0.6,0.7,0.2,0.5,0.2,DAL
+22020,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.546,53,0.134,1.121,0.6,0.03,0.091,0.03,0.03,0.545,0.6,0.6,0.7,0.3,0.6,0.2,DAL
+22020,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.677,58,0.103,1.2,0.667,0.233,0.167,0.267,0.033,0.6,0.667,0.5,0.6,0.2,0.3,0.1,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.543,59,0.034,1.12,0.545,0.08,0.04,0.08,0.0,0.56,0.545,0.4,0.5,0.2,0.4,0.2,DAL
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffRebound,Offensive,0.194,70,0.013,0.929,0.417,0.143,0.0,0.143,0.0,0.5,0.458,0.2,0.2,0.1,0.2,0.1,DAL

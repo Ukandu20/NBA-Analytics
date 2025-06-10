@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.5,46,0.103,1.0,0.592,0.143,0.196,0.107,0.018,0.527,0.592,112,112,45,76,31,SAS
+22024,203084,Harrison Barnes,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.806,82,0.061,1.12,0.525,0.18,0.06,0.18,0.04,0.54,0.525,50,56,21,40,19,SAS
+22024,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.5,54,0.039,1.0,0.588,0.083,0.208,0.042,0.0,0.5,0.588,24,24,10,17,7,SAS
+22024,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.993,61,0.03,1.6,0.857,0.4,0.0,0.4,0.1,0.9,0.857,10,16,6,7,1,SAS
+22024,1642264,Stephon Castle,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.5,81,0.01,1.0,0.444,0.308,0.0,0.308,0.0,0.615,0.444,13,13,4,9,5,SAS
+22024,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.361,77,0.012,0.909,0.444,0.091,0.091,0.0,0.0,0.455,0.444,11,10,4,9,5,SAS
+22024,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.091,36,0.083,0.714,0.714,0.0,0.5,0.0,0.0,0.357,0.714,14,10,5,7,2,SAS

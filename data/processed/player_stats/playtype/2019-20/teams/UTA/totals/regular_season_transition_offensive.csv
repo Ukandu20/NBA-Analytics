@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Transition,Offensive,0.608,63,0.162,1.163,0.525,0.061,0.122,0.061,0.005,0.48,0.653,196,228,84,160,76,UTA
+22019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Transition,Offensive,0.095,69,0.126,0.856,0.416,0.11,0.148,0.091,0.029,0.402,0.447,209,179,67,161,94,UTA
+22019,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.834,72,0.123,1.286,0.547,0.033,0.143,0.011,0.0,0.484,0.747,91,117,41,75,34,UTA
+22019,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Transition,Offensive,0.306,71,0.232,1.029,0.46,0.095,0.105,0.076,0.029,0.448,0.546,105,108,40,87,47,UTA
+22019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.611,42,0.145,1.165,0.5,0.077,0.088,0.066,0.022,0.473,0.628,91,106,39,78,39,UTA
+22019,201144,Mike Conley,1610612762,UTA,Utah Jazz,Transition,Offensive,0.633,47,0.115,1.171,0.533,0.11,0.171,0.061,0.012,0.488,0.675,82,96,32,60,28,UTA
+22019,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.857,68,0.075,1.318,0.825,0.288,0.167,0.273,0.061,0.712,0.825,66,87,33,40,7,UTA
+22019,1626144,Emmanuel Mudiay,1610612762,UTA,Utah Jazz,Transition,Offensive,0.165,54,0.185,0.927,0.5,0.085,0.183,0.073,0.024,0.439,0.516,82,76,31,62,31,UTA
+22019,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Transition,Offensive,0.364,66,0.196,1.056,0.443,0.056,0.085,0.056,0.0,0.437,0.557,71,75,27,61,34,UTA
+22019,201145,Jeff Green,1610612762,UTA,Utah Jazz,Transition,Offensive,0.477,30,0.19,1.104,0.484,0.25,0.146,0.25,0.042,0.521,0.532,48,53,15,31,16,UTA
+22019,1628396,Tony Bradley,1610612762,UTA,Utah Jazz,Transition,Offensive,0.618,58,0.075,1.167,0.714,0.111,0.111,0.111,0.0,0.611,0.714,18,21,10,14,4,UTA

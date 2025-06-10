@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.585,74,0.198,1.148,0.591,0.08,0.041,0.082,0.025,0.582,0.591,122,140,65,110,45,PHX
+22021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.548,58,0.123,1.125,0.618,0.05,0.096,0.058,0.01,0.567,0.618,104,117,55,89,34,PHX
+22021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.259,36,0.177,0.944,0.5,0.14,0.083,0.111,0.056,0.5,0.5,36,34,15,30,15,PHX
+22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.259,82,0.036,0.944,0.452,0.14,0.056,0.139,0.056,0.472,0.452,36,34,14,31,17,PHX
+22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.57,68,0.017,1.138,0.522,0.24,0.069,0.207,0.103,0.552,0.522,29,33,12,23,11,PHX
+22021,1630188,Jalen Smith,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.317,29,0.181,1.0,0.56,0.09,0.152,0.091,0.0,0.515,0.56,33,33,14,25,11,PHX
+22021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.964,66,0.027,1.474,0.688,0.21,0.053,0.211,0.105,0.684,0.688,19,28,11,16,5,PHX
+22021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.14,58,0.017,0.833,0.417,0.0,0.0,0.0,0.0,0.417,0.417,12,10,5,12,7,PHX
+22021,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.14,51,0.051,0.833,0.556,0.0,0.25,0.0,0.0,0.417,0.556,12,10,5,9,4,PHX
+22021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.083,67,0.02,0.769,0.4,0.08,0.154,0.077,0.0,0.385,0.45,13,10,4,10,6,PHX
+22021,1628470,Torrey Craig,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.068,27,0.062,0.75,0.444,0.08,0.167,0.083,0.0,0.417,0.444,12,9,4,9,5,PHX

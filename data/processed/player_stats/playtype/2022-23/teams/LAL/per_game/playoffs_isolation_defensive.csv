@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42022,1628972,Troy Brown Jr.,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,12,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,LAL
+42022,1627736,Malik Beasley,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,11,0.036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,LAL
+42022,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,9,0.2,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.0,0.1,0.2,0.1,LAL
+42022,202684,Tristan Thompson,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,6,0.176,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.5,0.0,0.2,0.5,0.3,LAL
+42022,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,16,0.029,0.5,0.33,0.0,0.25,0.0,0.0,0.25,0.33,0.3,0.0,0.1,0.2,0.1,LAL
+42022,1629117,Wenyen Gabriel,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,10,0.118,1.5,0.5,0.5,0.0,0.5,0.5,0.5,0.5,0.2,0.0,0.1,0.2,0.1,LAL
+42022,1629022,Lonnie Walker IV,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,13,0.133,0.667,0.2,0.17,0.0,0.17,0.0,0.33,0.3,0.5,0.0,0.1,0.4,0.3,LAL
+42022,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,15,0.083,0.556,0.29,0.11,0.11,0.11,0.0,0.33,0.29,0.6,0.0,0.1,0.5,0.3,LAL
+42022,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.965,16,0.09,0.417,0.2,0.0,0.17,0.0,0.0,0.17,0.25,0.8,0.0,0.1,0.6,0.5,LAL
+42022,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,16,0.041,1.0,0.43,0.12,0.0,0.12,0.0,0.5,0.43,0.5,0.0,0.2,0.4,0.3,LAL
+42022,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,16,0.046,0.889,0.38,0.11,0.0,0.11,0.0,0.44,0.38,0.6,0.0,0.2,0.5,0.3,LAL
+42022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.0,16,0.058,1.111,0.5,0.22,0.11,0.22,0.0,0.56,0.5,0.6,1.0,0.2,0.4,0.2,LAL
+42022,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.491,16,0.061,0.938,0.46,0.06,0.12,0.0,0.0,0.44,0.54,1.0,1.0,0.4,0.8,0.4,LAL

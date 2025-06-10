@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.368,61,0.107,0.833,0.353,0.218,0.08,0.207,0.063,0.408,0.368,2.9,2.4,0.8,2.2,1.4,MEM
+22022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.87,63,0.051,1.13,0.486,0.352,0.13,0.333,0.13,0.537,0.5,0.9,1.0,0.3,0.6,0.3,MEM
+22022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.339,73,0.063,0.822,0.393,0.096,0.082,0.096,0.014,0.397,0.426,1.0,0.8,0.3,0.8,0.5,MEM
+22022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.115,58,0.035,0.65,0.333,0.075,0.125,0.025,0.025,0.325,0.333,0.7,0.4,0.2,0.6,0.4,MEM
+22022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.146,80,0.027,0.682,0.35,0.0,0.091,0.0,0.0,0.318,0.375,0.3,0.2,0.1,0.3,0.2,MEM
+22022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.925,61,0.026,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,0.2,0.2,0.1,0.2,0.1,MEM

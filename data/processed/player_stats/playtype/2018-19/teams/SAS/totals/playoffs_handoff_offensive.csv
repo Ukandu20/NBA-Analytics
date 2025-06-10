@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.167,1.0,0.429,0.0,0.0,0.0,0.0,0.429,0.5,7,7,3,7,4,SAS
+42018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.069,0.857,0.5,0.0,0.14,0.0,0.0,0.429,0.5,7,6,3,6,3,SAS
+42018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,SAS
+42018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.02,1.333,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,4,1,2,1,SAS
+42018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.079,0.8,0.25,0.2,0.0,0.2,0.0,0.4,0.375,5,4,1,4,3,SAS
+42018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.04,1.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,3,0,1,1,SAS
+42018,202347,Quincy Pondexter,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
+42018,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,6,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
+42018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,7,0.023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,SAS

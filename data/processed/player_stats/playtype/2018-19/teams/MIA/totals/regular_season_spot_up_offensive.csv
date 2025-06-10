@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Spotup,Offensive,0.792,66,0.29,1.108,0.417,0.025,0.025,0.025,0.004,0.419,0.564,277,307,110,264,154,MIA
+22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Spotup,Offensive,0.687,73,0.223,1.054,0.383,0.043,0.033,0.04,0.004,0.391,0.533,276,291,98,256,158,MIA
+22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Spotup,Offensive,0.58,79,0.288,1.009,0.382,0.06,0.074,0.056,0.019,0.38,0.524,216,218,73,191,118,MIA
+22018,203079,Dion Waiters,1610612748,MIA,Miami Heat,Spotup,Offensive,0.937,44,0.288,1.228,0.447,0.025,0.043,0.019,0.006,0.432,0.645,162,199,68,152,84,MIA
+22018,203585,Rodney McGruder,1610612748,MIA,Miami Heat,Spotup,Offensive,0.83,66,0.284,1.133,0.423,0.044,0.025,0.044,0.013,0.43,0.567,158,179,63,149,86,MIA
+22018,201949,James Johnson,1610612748,MIA,Miami Heat,Spotup,Offensive,0.457,55,0.309,0.967,0.356,0.053,0.047,0.053,0.0,0.367,0.496,150,145,48,135,87,MIA
+22018,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Spotup,Offensive,0.606,44,0.281,1.021,0.38,0.043,0.043,0.021,0.0,0.376,0.531,141,144,49,129,80,MIA
+22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Spotup,Offensive,0.689,72,0.104,1.055,0.427,0.078,0.07,0.078,0.008,0.43,0.545,128,135,47,110,63,MIA
+22018,1627884,Derrick Jones Jr.,1610612748,MIA,Miami Heat,Spotup,Offensive,0.184,60,0.303,0.797,0.312,0.078,0.086,0.078,0.016,0.328,0.417,128,102,34,109,75,MIA
+22018,201609,Goran Dragic,1610612748,MIA,Miami Heat,Spotup,Offensive,0.485,36,0.156,0.976,0.338,0.047,0.059,0.047,0.012,0.341,0.494,85,83,26,77,51,MIA
+22018,201961,Wayne Ellington,1610612748,MIA,Miami Heat,Spotup,Offensive,0.939,25,0.276,1.232,0.436,0.0,0.018,0.0,0.0,0.429,0.627,56,69,24,55,31,MIA
+22018,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Spotup,Offensive,0.267,72,0.036,0.871,0.419,0.0,0.0,0.0,0.0,0.419,0.435,31,27,13,31,18,MIA
+22018,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Spotup,Offensive,0.059,82,0.048,0.647,0.296,0.118,0.118,0.118,0.029,0.324,0.296,34,22,8,27,19,MIA
+22018,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Spotup,Offensive,0.889,15,0.327,1.176,0.412,0.0,0.0,0.0,0.0,0.412,0.588,17,20,7,17,10,MIA

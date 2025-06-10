@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22019,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.101,38,0.017,1.077,0.5,0.0,0.077,0.0,0.0,0.462,0.583,13,14,6,12,6,PHX
+22019,1626163,Frank Kaminsky,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,39,0.028,1.6,0.7,0.1,0.0,0.1,0.1,0.7,0.8,10,16,7,10,3,PHX
+22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.489,66,0.052,0.875,0.414,0.12,0.063,0.12,0.09,0.375,0.448,32,28,12,29,17,PHX
+22019,1629660,Ty Jerome,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.824,31,0.296,0.738,0.355,0.12,0.19,0.1,0.05,0.333,0.387,42,31,11,31,20,PHX
+22019,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.182,8,0.356,1.0,0.464,0.06,0.063,0.06,0.0,0.469,0.518,32,32,13,28,15,PHX
+22019,204020,Tyler Johnson,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.295,31,0.335,0.946,0.447,0.07,0.125,0.05,0.04,0.411,0.521,56,53,21,47,26,PHX
+22019,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.282,57,0.226,0.953,0.457,0.09,0.106,0.09,0.02,0.447,0.507,85,81,32,70,38,PHX
+22019,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.025,55,0.375,1.265,0.597,0.12,0.102,0.09,0.01,0.582,0.688,98,124,46,77,31,PHX
+22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.239,58,0.467,0.97,0.429,0.14,0.128,0.12,0.04,0.433,0.488,164,159,54,126,72,PHX
+22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.312,56,0.301,0.943,0.46,0.11,0.184,0.1,0.02,0.425,0.524,174,164,58,126,68,PHX
+22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.605,71,0.308,0.846,0.414,0.13,0.15,0.1,0.02,0.411,0.439,246,208,75,181,106,PHX
+22019,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.471,73,0.354,0.882,0.393,0.13,0.121,0.11,0.04,0.404,0.427,280,247,86,219,133,PHX
+22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.645,65,0.429,0.832,0.423,0.09,0.165,0.08,0.01,0.397,0.455,310,258,99,234,135,PHX

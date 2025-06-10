@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.047,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.2,0.0,0.0,0.1,0.1,PHI
+42020,201229,Anthony Tolliver,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,1,0.5,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,2.0,0.0,0.0,0.0,PHI
+42020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,8,0.028,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.4,0.0,0.1,0.4,0.3,PHI
+42020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.044,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.3,0.0,0.1,0.3,0.2,PHI
+42020,201588,George Hill,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.04,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,0.3,0.0,0.1,0.3,0.3,PHI
+42020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.104,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,0.4,0.0,0.1,0.4,0.3,PHI
+42020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.034,0.6,0.5,0.2,0.4,0.2,0.0,0.2,0.75,0.4,0.0,0.1,0.2,0.1,PHI
+42020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.017,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.0,0.2,0.2,0.0,PHI
+42020,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.0,12,0.059,0.75,0.33,0.12,0.12,0.12,0.0,0.38,0.33,0.7,0.0,0.2,0.5,0.3,PHI
+42020,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Handoff,Defensive,0.5,12,0.067,0.909,0.5,0.0,0.09,0.0,0.0,0.45,0.5,0.9,1.0,0.4,0.8,0.4,PHI

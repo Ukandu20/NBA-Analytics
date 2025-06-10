@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22022,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.591,61,0.276,0.911,0.451,0.094,0.177,0.086,0.008,0.416,0.508,361,329,120,266,146,UTA
+22022,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.366,65,0.361,0.804,0.423,0.113,0.172,0.11,0.024,0.399,0.447,291,234,91,215,124,UTA
+22022,201144,Mike Conley,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.572,43,0.462,0.902,0.415,0.107,0.183,0.094,0.022,0.388,0.488,224,202,68,164,96,UTA
+22022,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.763,48,0.235,0.98,0.454,0.187,0.12,0.167,0.027,0.48,0.472,150,147,49,108,59,UTA
+22022,1627736,Malik Beasley,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.732,55,0.156,0.966,0.39,0.034,0.069,0.034,0.009,0.379,0.505,116,112,41,105,64,UTA
+22022,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.926,22,0.316,1.103,0.588,0.092,0.138,0.08,0.011,0.54,0.61,87,96,40,68,28,UTA
+22022,1629638,Nickeil Alexander-Walker,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.588,36,0.338,0.91,0.52,0.103,0.282,0.077,0.026,0.41,0.59,78,71,26,50,24,UTA
+22022,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.498,66,0.042,0.867,0.378,0.117,0.133,0.117,0.017,0.383,0.433,60,52,17,45,28,UTA
+22022,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.354,68,0.07,0.793,0.516,0.155,0.345,0.138,0.034,0.379,0.548,58,46,16,31,15,UTA
+22022,1630534,Ochai Agbaji,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.172,59,0.089,0.683,0.323,0.073,0.171,0.073,0.0,0.317,0.371,41,28,10,31,21,UTA
+22022,200752,Rudy Gay,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.932,56,0.049,1.118,0.538,0.118,0.118,0.118,0.0,0.529,0.615,17,19,7,13,6,UTA
+22022,1631323,Simone Fontecchio,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.071,52,0.062,0.565,0.3,0.0,0.13,0.0,0.0,0.261,0.325,23,13,6,20,14,UTA
+22022,1630548,Johnny Juzang,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.328,18,0.13,0.786,0.417,0.071,0.071,0.071,0.0,0.357,0.458,14,11,5,12,7,UTA

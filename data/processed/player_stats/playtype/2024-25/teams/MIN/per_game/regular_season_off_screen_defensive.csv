@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.99,71,0.012,0.333,0.133,0.0,0.0,0.0,0.0,0.133,0.167,0.2,0.1,0.0,0.2,0.2,MIN
+22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.383,36,0.075,1.063,0.429,0.188,0.0,0.125,0.063,0.438,0.5,0.4,0.5,0.2,0.4,0.2,MIN
+22024,1642265,Rob Dillingham,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.107,36,0.079,1.286,0.417,0.143,0.0,0.143,0.0,0.5,0.583,0.4,0.5,0.1,0.3,0.2,MIN
+22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.866,80,0.035,0.655,0.304,0.034,0.172,0.034,0.0,0.276,0.391,0.4,0.2,0.1,0.3,0.2,MIN
+22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.88,62,0.076,0.647,0.212,0.088,0.0,0.088,0.059,0.235,0.258,0.5,0.4,0.1,0.5,0.4,MIN
+22024,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.644,82,0.052,0.872,0.343,0.077,0.051,0.051,0.026,0.359,0.414,0.5,0.4,0.1,0.4,0.3,MIN
+22024,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.236,71,0.067,1.167,0.441,0.083,0.028,0.083,0.056,0.444,0.574,0.5,0.6,0.2,0.5,0.3,MIN
+22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.168,69,0.052,1.22,0.462,0.073,0.0,0.073,0.024,0.488,0.577,0.6,0.7,0.3,0.6,0.3,MIN
+22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.038,79,0.05,1.474,0.588,0.026,0.079,0.026,0.0,0.553,0.809,0.5,0.7,0.3,0.4,0.2,MIN
+22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.219,81,0.076,1.192,0.441,0.103,0.051,0.09,0.026,0.462,0.581,1.0,1.1,0.4,0.8,0.5,MIN

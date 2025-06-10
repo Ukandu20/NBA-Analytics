@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.693,72,0.238,1.201,0.597,0.142,0.053,0.142,0.047,0.604,0.601,169,203,86,144,58,POR
+22020,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.529,37,0.308,1.129,0.557,0.171,0.064,0.179,0.064,0.564,0.574,140,158,64,115,51,POR
+22020,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.16,69,0.074,0.896,0.328,0.03,0.015,0.03,0.0,0.343,0.445,67,60,21,64,43,POR
+22020,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.185,70,0.097,0.914,0.327,0.034,0.017,0.034,0.0,0.345,0.455,58,53,18,55,37,POR
+22020,1627884,Derrick Jones Jr.,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.992,58,0.042,1.5,0.75,0.188,0.125,0.188,0.063,0.688,0.833,16,24,9,12,3,POR
+22020,1628385,Harry Giles III,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.06,32,0.179,0.65,0.25,0.1,0.1,0.1,0.0,0.3,0.313,20,13,4,16,12,POR

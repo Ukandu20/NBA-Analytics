@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,Transition,Offensive,0.938,4,0.183,1.533,0.667,0.267,0.067,0.267,0.133,0.667,0.708,15,23,8,12,4,IND
+42019,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Transition,Offensive,0.086,4,0.244,0.684,0.364,0.105,0.316,0.105,0.0,0.316,0.409,19,13,4,11,7,IND
+42019,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.08,1.429,0.6,0.143,0.143,0.143,0.0,0.571,0.8,7,10,3,5,2,IND
+42019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.098,1.167,0.75,0.0,0.333,0.0,0.0,0.5,0.875,6,7,3,4,1,IND
+42019,203200,Justin Holiday,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.12,2.0,0.667,0.0,0.0,0.0,0.0,0.667,1.0,3,6,2,3,1,IND
+42019,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,3,0.5,1.2,0.667,0.2,0.2,0.0,0.0,0.6,0.667,5,6,2,3,1,IND
+42019,203960,JaKarr Sampson,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.222,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,IND
+42019,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.259,0.571,0.333,0.0,0.143,0.0,0.0,0.286,0.333,7,4,2,6,4,IND
+42019,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,4,0.25,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,IND

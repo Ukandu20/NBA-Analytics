@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22018,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.8,49,0.251,1.116,0.416,0.06,0.028,0.06,0.023,0.421,0.557,216,241,84,202,118,DAL
+22018,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.699,71,0.421,1.06,0.399,0.04,0.055,0.04,0.01,0.395,0.552,200,212,73,183,110,DAL
+22018,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.352,81,0.357,0.913,0.337,0.082,0.082,0.065,0.013,0.355,0.464,231,211,66,196,130,DAL
+22018,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.572,72,0.107,1.006,0.373,0.108,0.045,0.08,0.006,0.403,0.507,176,177,56,150,94,DAL
+22018,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.709,73,0.219,1.065,0.427,0.039,0.052,0.039,0.019,0.416,0.545,154,164,61,143,82,DAL
+22018,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.626,68,0.344,1.032,0.367,0.095,0.032,0.089,0.013,0.405,0.504,158,163,51,139,88,DAL
+22018,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.64,51,0.377,1.039,0.358,0.019,0.006,0.019,0.0,0.368,0.51,155,161,54,151,97,DAL
+22018,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.621,44,0.229,1.03,0.364,0.045,0.045,0.038,0.008,0.371,0.521,132,136,44,121,77,DAL
+22018,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.576,77,0.205,1.007,0.381,0.096,0.059,0.096,0.03,0.4,0.504,135,136,45,118,73,DAL
+22018,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.869,29,0.423,1.148,0.456,0.045,0.057,0.045,0.0,0.455,0.595,88,101,36,79,43,DAL
+22018,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.357,19,0.235,0.917,0.309,0.042,0.014,0.042,0.0,0.333,0.449,72,66,21,68,47,DAL
+22018,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.596,32,0.124,1.016,0.426,0.0,0.115,0.0,0.0,0.377,0.574,61,62,23,54,31,DAL
+22018,1629151,Ryan Broekhoff,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.945,42,0.327,1.245,0.447,0.0,0.041,0.0,0.0,0.429,0.649,49,61,21,47,26,DAL
+22018,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.741,25,0.167,1.077,0.389,0.051,0.026,0.051,0.0,0.41,0.528,39,42,14,36,22,DAL
+22018,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.716,36,0.204,1.067,0.357,0.067,0.0,0.067,0.0,0.4,0.518,30,32,10,28,18,DAL
+22018,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.079,38,0.088,0.698,0.256,0.047,0.07,0.047,0.023,0.256,0.346,43,30,10,39,29,DAL
+22018,201584,Courtney Lee,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.389,22,0.326,0.935,0.357,0.032,0.065,0.032,0.0,0.355,0.5,31,29,10,28,18,DAL

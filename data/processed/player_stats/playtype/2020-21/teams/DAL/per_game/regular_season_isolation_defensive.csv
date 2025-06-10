@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+22020,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.995,62,0.041,0.333,0.18,0.083,0.08,0.083,0.08,0.167,0.18,0.2,0.1,0.0,0.2,0.1,DAL
+22020,201949,James Johnson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.894,29,0.081,0.643,0.33,0.0,0.14,0.0,0.0,0.286,0.38,0.5,0.3,0.1,0.4,0.3,DAL
+22020,1629740,Nicolo Melli,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.322,23,0.248,1.0,0.43,0.12,0.04,0.12,0.0,0.48,0.48,1.1,1.1,0.4,0.9,0.5,DAL
+22020,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.884,58,0.074,0.667,0.28,0.128,0.15,0.128,0.03,0.308,0.31,0.7,0.4,0.1,0.5,0.4,DAL
+22020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.281,68,0.056,1.033,0.52,0.133,0.1,0.1,0.0,0.533,0.54,0.4,0.5,0.2,0.3,0.2,DAL
+22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.202,59,0.055,1.088,0.44,0.294,0.06,0.265,0.09,0.529,0.46,0.6,0.6,0.2,0.4,0.2,DAL
+22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.143,70,0.053,1.135,0.53,0.108,0.08,0.108,0.05,0.514,0.59,0.5,0.6,0.2,0.5,0.2,DAL
+22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.207,43,0.078,1.083,0.49,0.104,0.08,0.104,0.04,0.458,0.57,1.1,1.2,0.5,1.0,0.5,DAL
+22020,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.374,53,0.109,0.982,0.38,0.143,0.04,0.143,0.02,0.446,0.44,1.1,1.0,0.3,0.9,0.5,DAL
+22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.599,60,0.085,0.848,0.35,0.091,0.02,0.091,0.02,0.379,0.41,1.1,0.9,0.4,1.0,0.7,DAL
+22020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.667,50,0.157,0.809,0.37,0.053,0.04,0.053,0.01,0.383,0.4,1.9,1.5,0.6,1.7,1.1,DAL
+22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.14,66,0.135,1.139,0.52,0.119,0.07,0.119,0.03,0.515,0.58,1.5,1.7,0.7,1.3,0.6,DAL

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
+42021,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,16,0.045,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,GSW
+42021,203490,Otto Porter Jr.,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,19,0.067,1.0,0.67,0.29,0.29,0.29,0.0,0.57,0.67,7,7,2,3,1,GSW
+42021,202357,Nemanja Bjelica,1610612744,GSW,Golden State Warriors,Postup,Defensive,1.0,15,0.159,0.538,0.3,0.15,0.08,0.15,0.0,0.31,0.3,13,7,3,10,7,GSW
+42021,1627780,Gary Payton II,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,12,0.049,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,5,8,3,4,1,GSW
+42021,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.0,7,0.208,2.0,1.0,0.4,0.0,0.4,0.2,1.0,1.0,5,10,4,4,0,GSW
+42021,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.261,16,0.169,1.1,0.8,0.2,0.3,0.1,0.0,0.6,0.8,10,11,4,5,1,GSW
+42021,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.957,22,0.075,0.579,0.33,0.16,0.37,0.11,0.0,0.32,0.33,19,11,3,9,6,GSW
+42021,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.087,22,0.051,1.273,0.86,0.27,0.27,0.27,0.18,0.64,0.86,11,14,6,7,1,GSW
+42021,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.217,22,0.069,1.143,0.45,0.36,0.0,0.36,0.14,0.57,0.45,14,16,5,11,6,GSW
+42021,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.739,22,0.07,0.792,0.32,0.25,0.04,0.17,0.08,0.42,0.32,24,19,6,19,13,GSW
+42021,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.333,22,0.099,1.0,0.47,0.14,0.05,0.14,0.0,0.52,0.47,21,21,8,17,9,GSW
+42021,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.435,22,0.089,0.96,0.48,0.12,0.08,0.12,0.04,0.48,0.48,25,24,10,21,11,GSW
