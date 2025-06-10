@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42024,1610612748,MIA,Miami Heat,Transition,Defensive,0.267,4,0.14,1.224,0.531,0.103,0.069,0.086,0.017,0.534,0.633,58,71,26,49,23
+42024,1610612753,ORL,Orlando Magic,Transition,Defensive,0.533,5,0.155,1.154,0.525,0.128,0.128,0.128,0.013,0.513,0.61,78,90,31,59,28
+42024,1610612747,LAL,Los Angeles Lakers,Transition,Defensive,0.133,5,0.153,1.232,0.529,0.159,0.061,0.159,0.073,0.537,0.614,82,101,37,70,33
+42024,1610612763,MEM,Memphis Grizzlies,Transition,Defensive,0.8,4,0.207,1.072,0.519,0.103,0.093,0.103,0.031,0.495,0.568,97,104,42,81,39
+42024,1610612749,MIL,Milwaukee Bucks,Transition,Defensive,0.0,5,0.167,1.348,0.667,0.135,0.112,0.135,0.022,0.618,0.732,89,120,46,69,23
+42024,1610612765,DET,Detroit Pistons,Transition,Defensive,0.933,6,0.2,1.0,0.439,0.121,0.076,0.106,0.008,0.462,0.509,132,132,47,107,60
+42024,1610612746,LAC,LA Clippers,Transition,Defensive,0.6,7,0.155,1.147,0.543,0.121,0.095,0.112,0.026,0.517,0.622,116,133,51,94,43
+42024,1610612745,HOU,Houston Rockets,Transition,Defensive,0.067,7,0.151,1.313,0.598,0.098,0.071,0.098,0.036,0.58,0.691,112,147,58,97,39
+42024,1610612739,CLE,Cleveland Cavaliers,Transition,Defensive,0.2,9,0.158,1.225,0.596,0.159,0.119,0.139,0.033,0.563,0.671,151,185,68,114,46
+42024,1610612738,BOS,Boston Celtics,Transition,Defensive,0.867,11,0.154,1.038,0.462,0.143,0.099,0.132,0.038,0.473,0.534,182,189,67,145,78
+42024,1610612744,GSW,Golden State Warriors,Transition,Defensive,0.667,12,0.159,1.097,0.561,0.141,0.17,0.126,0.029,0.51,0.628,206,226,83,148,65
+42024,1610612760,OKC,Oklahoma City Thunder,Transition,Defensive,0.733,17,0.135,1.087,0.497,0.158,0.125,0.143,0.026,0.498,0.566,265,288,98,197,99
+42024,1610612750,MIN,Minnesota Timberwolves,Transition,Defensive,0.4,15,0.152,1.18,0.577,0.148,0.148,0.139,0.041,0.533,0.665,244,288,105,182,77
+42024,1610612754,IND,Indiana Pacers,Transition,Defensive,1.0,17,0.161,0.958,0.416,0.199,0.122,0.174,0.048,0.441,0.476,311,298,94,226,132
+42024,1610612743,DEN,Denver Nuggets,Transition,Defensive,0.333,14,0.194,1.191,0.547,0.144,0.06,0.127,0.023,0.555,0.608,299,356,134,245,111
+42024,1610612752,NYK,New York Knicks,Transition,Defensive,0.467,18,0.193,1.158,0.524,0.142,0.119,0.121,0.021,0.517,0.615,379,439,151,288,137

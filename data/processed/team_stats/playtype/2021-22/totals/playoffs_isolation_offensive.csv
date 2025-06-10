@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42021,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.533,18,0.159,0.951,0.42,0.129,0.111,0.122,0.021,0.436,0.478,287,273,94,224,130
+42021,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.267,24,0.088,0.862,0.429,0.08,0.138,0.085,0.004,0.402,0.483,224,193,75,175,100
+42021,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.333,12,0.167,0.902,0.383,0.152,0.127,0.142,0.034,0.407,0.438,204,184,59,154,95
+42021,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.6,22,0.067,0.956,0.477,0.094,0.106,0.075,0.025,0.456,0.508,160,153,63,132,69
+42021,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.0,12,0.132,0.737,0.369,0.086,0.12,0.074,0.011,0.366,0.379,175,129,52,141,89
+42021,1610612748,MIA,Miami Heat,Isolation,Offensive,1.0,18,0.057,1.064,0.489,0.147,0.083,0.147,0.073,0.477,0.533,109,116,45,92,47
+42021,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.933,12,0.06,1.036,0.466,0.107,0.06,0.095,0.036,0.476,0.514,84,87,34,73,39
+42021,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.867,13,0.057,0.974,0.462,0.091,0.078,0.078,0.013,0.468,0.5,77,75,30,65,35
+42021,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.467,6,0.126,0.937,0.435,0.101,0.051,0.101,0.025,0.456,0.442,79,74,30,69,39
+42021,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.133,6,0.124,0.819,0.41,0.108,0.169,0.096,0.012,0.386,0.459,83,68,25,61,36
+42021,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.4,6,0.098,0.923,0.442,0.123,0.092,0.092,0.015,0.462,0.471,65,60,23,52,29
+42021,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.2,4,0.137,0.825,0.31,0.14,0.105,0.123,0.0,0.368,0.345,57,47,13,42,29
+42021,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.667,6,0.078,0.958,0.417,0.167,0.125,0.125,0.042,0.438,0.458,48,46,15,36,21
+42021,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.8,5,0.068,0.973,0.467,0.135,0.081,0.135,0.027,0.486,0.467,37,36,14,30,16
+42021,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.733,5,0.062,0.971,0.444,0.118,0.118,0.118,0.029,0.441,0.481,34,33,12,27,15
+42021,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.067,5,0.077,0.775,0.367,0.075,0.175,0.075,0.0,0.35,0.417,40,31,11,30,19

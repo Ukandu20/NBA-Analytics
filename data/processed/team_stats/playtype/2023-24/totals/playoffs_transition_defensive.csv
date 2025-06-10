@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42023,1610612756,PHX,Phoenix Suns,Transition,Defensive,0.267,4,0.123,1.185,0.5,0.204,0.056,0.204,0.037,0.556,0.571,54,64,21,42,21
+42023,1610612740,NOP,New Orleans Pelicans,Transition,Defensive,0.4,4,0.195,1.15,0.531,0.088,0.138,0.088,0.025,0.488,0.625,80,92,34,64,30
+42023,1610612747,LAL,Los Angeles Lakers,Transition,Defensive,0.8,5,0.159,1.081,0.527,0.047,0.105,0.035,0.012,0.488,0.581,86,93,39,74,35
+42023,1610612748,MIA,Miami Heat,Transition,Defensive,0.867,5,0.175,1.08,0.514,0.114,0.102,0.102,0.011,0.489,0.593,88,95,36,70,34
+42023,1610612746,LAC,LA Clippers,Transition,Defensive,0.667,6,0.162,1.129,0.581,0.158,0.139,0.158,0.03,0.545,0.635,101,114,43,74,31
+42023,1610612749,MIL,Milwaukee Bucks,Transition,Defensive,0.333,6,0.167,1.16,0.578,0.151,0.113,0.151,0.047,0.528,0.645,106,123,48,83,35
+42023,1610612755,PHI,Philadelphia 76ers,Transition,Defensive,0.133,6,0.156,1.214,0.535,0.097,0.097,0.087,0.029,0.515,0.645,103,125,46,86,40
+42023,1610612753,ORL,Orlando Magic,Transition,Defensive,0.467,7,0.16,1.137,0.542,0.103,0.094,0.085,0.017,0.53,0.594,117,133,52,96,44
+42023,1610612760,OKC,Oklahoma City Thunder,Transition,Defensive,1.0,10,0.156,0.87,0.442,0.065,0.142,0.059,0.024,0.402,0.482,169,147,61,138,77
+42023,1610612739,CLE,Cleveland Cavaliers,Transition,Defensive,0.2,12,0.146,1.196,0.533,0.158,0.065,0.147,0.038,0.549,0.593,184,220,80,150,70
+42023,1610612743,DEN,Denver Nuggets,Transition,Defensive,0.067,12,0.16,1.215,0.547,0.149,0.072,0.138,0.036,0.554,0.619,195,237,87,159,72
+42023,1610612750,MIN,Minnesota Timberwolves,Transition,Defensive,0.733,16,0.17,1.098,0.552,0.127,0.167,0.109,0.022,0.504,0.627,276,303,111,201,90
+42023,1610612738,BOS,Boston Celtics,Transition,Defensive,0.533,19,0.144,1.133,0.551,0.09,0.129,0.09,0.029,0.507,0.611,278,315,124,225,101
+42023,1610612752,NYK,New York Knicks,Transition,Defensive,0.0,13,0.175,1.328,0.617,0.101,0.097,0.092,0.042,0.571,0.724,238,316,124,201,77
+42023,1610612754,IND,Indiana Pacers,Transition,Defensive,0.6,17,0.158,1.132,0.507,0.16,0.097,0.156,0.038,0.514,0.587,288,326,114,225,111
+42023,1610612742,DAL,Dallas Mavericks,Transition,Defensive,0.933,22,0.157,1.028,0.48,0.119,0.114,0.108,0.011,0.479,0.546,361,371,135,281,146

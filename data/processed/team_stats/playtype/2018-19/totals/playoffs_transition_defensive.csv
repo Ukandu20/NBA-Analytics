@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42018,1610612760,OKC,Oklahoma City Thunder,Transition,Defensive,0.733,5,0.109,1.048,0.5,0.145,0.081,0.113,0.032,0.484,0.56,62,65,25,50,25
+42018,1610612754,IND,Indiana Pacers,Transition,Defensive,0.133,4,0.136,1.175,0.55,0.053,0.105,0.07,0.0,0.509,0.67,57,67,26,47,21
+42018,1610612753,ORL,Orlando Magic,Transition,Defensive,0.933,5,0.165,1.012,0.46,0.129,0.071,0.118,0.035,0.471,0.51,85,86,33,71,38
+42018,1610612751,BKN,Brooklyn Nets,Transition,Defensive,1.0,5,0.158,1.0,0.51,0.105,0.168,0.095,0.032,0.463,0.57,95,95,37,72,35
+42018,1610612762,UTA,Utah Jazz,Transition,Defensive,0.067,5,0.167,1.198,0.56,0.132,0.154,0.121,0.033,0.516,0.68,91,109,38,68,30
+42018,1610612759,SAS,San Antonio Spurs,Transition,Defensive,0.0,7,0.123,1.267,0.54,0.189,0.067,0.189,0.022,0.556,0.66,90,114,37,69,32
+42018,1610612765,DET,Detroit Pistons,Transition,Defensive,0.467,4,0.238,1.124,0.52,0.21,0.105,0.2,0.067,0.505,0.59,105,118,41,79,38
+42018,1610612746,LAC,LA Clippers,Transition,Defensive,0.2,6,0.154,1.162,0.52,0.238,0.162,0.181,0.019,0.533,0.61,105,122,34,65,31
+42018,1610612743,DEN,Denver Nuggets,Transition,Defensive,0.6,14,0.101,1.071,0.5,0.155,0.084,0.135,0.032,0.51,0.54,155,166,61,123,62
+42018,1610612745,HOU,Houston Rockets,Transition,Defensive,0.8,11,0.157,1.021,0.51,0.108,0.139,0.098,0.021,0.469,0.57,194,198,76,150,74
+42018,1610612738,BOS,Boston Celtics,Transition,Defensive,0.267,9,0.213,1.152,0.51,0.138,0.095,0.133,0.014,0.505,0.61,210,242,83,164,81
+42018,1610612755,PHI,Philadelphia 76ers,Transition,Defensive,0.333,12,0.182,1.133,0.49,0.188,0.108,0.175,0.017,0.525,0.57,240,272,85,172,87
+42018,1610612757,POR,Portland Trail Blazers,Transition,Defensive,0.867,16,0.158,1.017,0.49,0.139,0.101,0.129,0.035,0.481,0.54,287,292,110,226,116
+42018,1610612749,MIL,Milwaukee Bucks,Transition,Defensive,0.4,15,0.163,1.131,0.49,0.157,0.088,0.139,0.033,0.507,0.57,274,310,106,216,110
+42018,1610612744,GSW,Golden State Warriors,Transition,Defensive,0.533,22,0.151,1.1,0.51,0.127,0.127,0.122,0.035,0.482,0.6,369,406,146,287,141
+42018,1610612761,TOR,Toronto Raptors,Transition,Defensive,0.667,24,0.157,1.071,0.51,0.136,0.117,0.136,0.024,0.487,0.58,411,440,159,314,155

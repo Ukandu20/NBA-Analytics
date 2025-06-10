@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,1.0,6,0.081,0.636,0.279,0.127,0.109,0.127,0.018,0.327,0.291,55,35,12,43,31
+42022,1610612758,SAC,Sacramento Kings,Isolation,Defensive,0.933,7,0.066,0.667,0.304,0.111,0.056,0.093,0.019,0.333,0.304,54,36,14,46,32
+42022,1610612750,MIN,Minnesota Timberwolves,Isolation,Defensive,0.2,5,0.07,1.0,0.536,0.105,0.158,0.053,0.0,0.474,0.607,38,38,15,28,13
+42022,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.133,5,0.079,1.023,0.5,0.136,0.136,0.114,0.091,0.455,0.514,44,45,18,36,18
+42022,1610612752,NYK,New York Knicks,Isolation,Defensive,0.533,11,0.052,0.883,0.396,0.1,0.117,0.083,0.017,0.4,0.438,60,53,19,48,29
+42022,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.667,5,0.12,0.877,0.368,0.092,0.046,0.062,0.015,0.4,0.412,65,57,21,57,36
+42022,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.8,4,0.18,0.787,0.359,0.053,0.107,0.04,0.013,0.347,0.406,75,59,23,64,41
+42022,1610612737,ATL,Atlanta Hawks,Isolation,Defensive,0.067,6,0.088,1.103,0.5,0.086,0.086,0.069,0.0,0.5,0.573,58,64,24,48,24
+42022,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.867,16,0.045,0.78,0.353,0.098,0.085,0.085,0.012,0.378,0.382,82,64,24,68,44
+42022,1610612746,LAC,LA Clippers,Isolation,Defensive,0.0,5,0.112,1.177,0.54,0.177,0.065,0.161,0.048,0.548,0.58,62,73,27,50,23
+42022,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.733,11,0.096,0.863,0.4,0.094,0.068,0.085,0.017,0.41,0.43,117,101,40,100,60
+42022,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.333,13,0.072,0.963,0.469,0.167,0.111,0.157,0.028,0.481,0.488,108,104,38,81,43
+42022,1610612755,PHI,Philadelphia 76ers,Isolation,Defensive,0.4,11,0.115,0.922,0.427,0.094,0.117,0.086,0.023,0.414,0.485,128,118,44,103,59
+42022,1610612748,MIA,Miami Heat,Isolation,Defensive,0.267,23,0.067,0.976,0.473,0.116,0.104,0.11,0.018,0.47,0.511,164,160,62,131,69
+42022,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.467,20,0.087,0.918,0.373,0.148,0.06,0.148,0.027,0.421,0.417,183,168,56,150,94
+42022,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.6,20,0.128,0.88,0.399,0.098,0.073,0.105,0.007,0.422,0.434,275,242,91,228,137

@@ -1,0 +1,21 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42020,1610612766,CHA,Charlotte Hornets,Isolation,Defensive,0.0,1,0.047,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,6,4,2,6,4
+42020,1610612763,MEM,Memphis Grizzlies,Isolation,Defensive,0.933,5,0.054,0.6,0.24,0.067,0.1,0.033,0.0,0.267,0.28,30,18,6,25,19
+42020,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,1,0.082,0.667,0.5,0.0,0.33,0.0,0.0,0.333,0.5,9,6,3,6,3
+42020,1610612752,NYK,New York Knicks,Isolation,Defensive,1.0,5,0.08,0.585,0.21,0.073,0.0,0.049,0.0,0.268,0.24,41,24,8,38,30
+42020,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.667,6,0.05,0.871,0.3,0.226,0.03,0.161,0.0,0.419,0.33,31,27,7,23,16
+42020,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.765,2,0.063,0.8,0.5,0.13,0.27,0.13,0.07,0.4,0.55,15,12,5,10,5
+42020,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.8,6,0.072,0.729,0.33,0.042,0.08,0.042,0.0,0.333,0.37,48,35,14,42,28
+42020,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.235,2,0.097,1.043,0.389,0.22,0.0,0.22,0.0,0.522,0.417,23,24,7,18,11
+42020,1610612764,WAS,Washington Wizards,Isolation,Defensive,0.067,5,0.06,1.206,0.61,0.176,0.12,0.176,0.12,0.559,0.62,34,41,17,28,11
+42020,1610612748,MIA,Miami Heat,Isolation,Defensive,0.467,4,0.109,0.962,0.44,0.154,0.12,0.154,0.02,0.462,0.47,52,50,17,39,22
+42020,1610612755,PHI,Philadelphia 76ers,Isolation,Defensive,0.6,12,0.072,0.906,0.46,0.104,0.12,0.083,0.0,0.438,0.49,96,87,34,74,40
+42020,1610612742,DAL,Dallas Mavericks,Isolation,Defensive,0.2,7,0.129,1.011,0.46,0.143,0.07,0.143,0.0,0.505,0.49,91,92,33,71,38
+42020,1610612737,ATL,Atlanta Hawks,Isolation,Defensive,0.867,18,0.094,0.643,0.3,0.092,0.11,0.086,0.02,0.303,0.32,185,119,45,151,106
+42020,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.267,11,0.103,0.992,0.44,0.098,0.08,0.074,0.02,0.443,0.5,122,121,45,102,57
+42020,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.0,10,0.098,1.406,0.56,0.189,0.03,0.142,0.05,0.604,0.65,106,149,49,88,39
+42020,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.133,5,0.247,1.205,0.5,0.159,0.06,0.152,0.04,0.53,0.57,132,159,54,108,54
+42020,1610612756,PHX,Phoenix Suns,Isolation,Defensive,0.733,22,0.092,0.834,0.39,0.106,0.1,0.101,0.02,0.396,0.42,217,181,69,176,107
+42020,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,0.4,12,0.145,0.969,0.42,0.135,0.09,0.13,0.02,0.448,0.47,192,186,65,153,88
+42020,1610612746,LAC,LA Clippers,Isolation,Defensive,0.533,19,0.112,0.91,0.4,0.099,0.09,0.081,0.0,0.408,0.47,223,203,73,183,110
+42020,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.333,23,0.093,0.983,0.43,0.134,0.1,0.13,0.02,0.45,0.48,231,227,78,182,104

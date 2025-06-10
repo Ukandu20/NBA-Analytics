@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42019,1610612754,IND,Indiana Pacers,Transition,Defensive,0.625,4,0.109,1.043,0.39,0.191,0.043,0.17,0.04,0.468,0.43,47,49,15,38,23
+42019,1610612755,PHI,Philadelphia 76ers,Transition,Defensive,0.5,4,0.182,1.051,0.48,0.154,0.141,0.13,0.04,0.474,0.56,78,82,28,58,30
+42019,1610612753,ORL,Orlando Magic,Transition,Defensive,1.0,5,0.175,0.848,0.41,0.081,0.121,0.08,0.03,0.374,0.48,99,84,33,81,48
+42019,1610612751,BKN,Brooklyn Nets,Transition,Defensive,0.438,4,0.21,1.106,0.48,0.149,0.096,0.14,0.03,0.479,0.58,94,104,35,73,38
+42019,1610612762,UTA,Utah Jazz,Transition,Defensive,0.563,7,0.135,1.051,0.47,0.101,0.121,0.08,0.0,0.465,0.56,99,104,36,77,41
+42019,1610612749,MIL,Milwaukee Bucks,Transition,Defensive,0.938,10,0.114,0.881,0.43,0.103,0.167,0.1,0.02,0.405,0.48,126,111,40,94,54
+42019,1610612757,POR,Portland Trail Blazers,Transition,Defensive,0.813,6,0.175,0.942,0.46,0.14,0.116,0.14,0.02,0.446,0.52,121,114,41,90,49
+42019,1610612742,DAL,Dallas Mavericks,Transition,Defensive,0.0,6,0.166,1.239,0.54,0.186,0.124,0.16,0.02,0.54,0.7,113,140,43,79,36
+42019,1610612760,OKC,Oklahoma City Thunder,Transition,Defensive,0.313,7,0.16,1.129,0.53,0.089,0.129,0.09,0.03,0.492,0.63,124,140,54,101,47
+42019,1610612746,LAC,LA Clippers,Transition,Defensive,0.25,13,0.113,1.164,0.55,0.119,0.113,0.11,0.01,0.541,0.64,159,185,68,123,55
+42019,1610612761,TOR,Toronto Raptors,Transition,Defensive,0.375,11,0.14,1.124,0.53,0.135,0.129,0.11,0.03,0.494,0.62,170,191,69,130,61
+42019,1610612745,HOU,Houston Rockets,Transition,Defensive,0.688,12,0.159,1.019,0.5,0.11,0.144,0.1,0.03,0.464,0.56,209,213,81,163,82
+42019,1610612738,BOS,Boston Celtics,Transition,Defensive,0.875,17,0.142,0.939,0.42,0.156,0.13,0.13,0.03,0.439,0.48,262,246,82,194,112
+42019,1610612747,LAL,Los Angeles Lakers,Transition,Defensive,0.75,21,0.148,1.015,0.47,0.136,0.127,0.13,0.02,0.461,0.54,330,335,118,249,131
+42019,1610612743,DEN,Denver Nuggets,Transition,Defensive,0.063,19,0.138,1.224,0.57,0.155,0.097,0.14,0.04,0.552,0.64,277,339,124,218,94
+42019,1610612748,MIA,Miami Heat,Transition,Defensive,0.125,21,0.151,1.172,0.57,0.157,0.134,0.14,0.06,0.525,0.64,343,402,149,263,114

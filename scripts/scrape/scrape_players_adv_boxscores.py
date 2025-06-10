@@ -40,7 +40,7 @@ API_HEADERS = {
 }
 
 ENDPOINT   = "https://stats.nba.com/stats/playergamelogs"
-DATA_ROOT  = pathlib.Path("data/raw/player_stats/adv_box_scores")
+DATA_ROOT  = pathlib.Path("data/raw/player_stats/adv_boxscores")
 
 # ─── Five measure families under the player game‐logs UI ────────────────────
 MEASURE_MAP = {

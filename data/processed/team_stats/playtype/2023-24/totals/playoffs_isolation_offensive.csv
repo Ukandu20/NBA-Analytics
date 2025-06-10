@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42023,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.533,22,0.122,0.929,0.43,0.093,0.1,0.085,0.028,0.416,0.487,281,261,101,235,134
+42023,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.333,19,0.139,0.911,0.406,0.129,0.103,0.122,0.033,0.417,0.447,271,247,88,217,129
+42023,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.867,10,0.131,1.08,0.491,0.131,0.044,0.117,0.022,0.526,0.53,137,148,57,116,59
+42023,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.4,16,0.086,0.917,0.403,0.111,0.076,0.097,0.014,0.431,0.45,144,132,48,119,71
+42023,1610612752,NYK,New York Knicks,Isolation,Offensive,0.6,13,0.098,0.942,0.411,0.173,0.079,0.129,0.058,0.439,0.438,139,131,46,112,66
+42023,1610612746,LAC,LA Clippers,Isolation,Offensive,0.733,6,0.157,0.969,0.378,0.133,0.071,0.112,0.041,0.408,0.439,98,95,31,82,51
+42023,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,1.0,6,0.097,1.262,0.519,0.148,0.016,0.131,0.049,0.557,0.574,61,77,28,54,26
+42023,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.467,17,0.045,0.926,0.472,0.062,0.086,0.062,0.037,0.444,0.486,81,75,34,72,38
+42023,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.0,12,0.081,0.69,0.302,0.11,0.07,0.09,0.04,0.32,0.326,100,69,26,86,60
+42023,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.133,7,0.085,0.8,0.327,0.154,0.077,0.123,0.031,0.385,0.337,65,52,17,52,35
+42023,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.667,12,0.044,0.944,0.364,0.167,0.056,0.167,0.037,0.426,0.443,54,51,16,44,28
+42023,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.8,5,0.088,1.067,0.514,0.111,0.111,0.111,0.0,0.511,0.543,45,48,18,35,17
+42023,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.933,4,0.097,1.15,0.517,0.2,0.075,0.125,0.0,0.575,0.552,40,46,15,29,14
+42023,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.267,6,0.07,0.909,0.382,0.136,0.091,0.114,0.0,0.432,0.412,44,40,13,34,21
+42023,1610612748,MIA,Miami Heat,Isolation,Offensive,0.2,5,0.077,0.811,0.394,0.081,0.054,0.081,0.027,0.378,0.409,37,30,13,33,20
+42023,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.067,4,0.051,0.773,0.444,0.0,0.182,0.0,0.0,0.364,0.472,22,17,8,18,10

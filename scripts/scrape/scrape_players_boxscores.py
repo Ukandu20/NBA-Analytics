@@ -33,7 +33,7 @@ API_HEADERS = {
 }
 
 ENDPOINT   = "https://stats.nba.com/stats/playergamelogs"
-DATA_ROOT  = pathlib.Path("data/raw/player_stats/box_scores")
+DATA_ROOT  = pathlib.Path("data/raw/player_stats/boxscores")
 
 SEASON_TYPES = ["Regular Season", "Playoffs"]
 

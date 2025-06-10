@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,1610612763,MEM,Memphis Grizzlies,OffScreen,Defensive,0.0,6,0.009,0.333,0.167,0.0,0.0,0.0,0.0,0.167,0.167,1.0,0.3,0.2,1.0,0.8
+42022,1610612751,BKN,Brooklyn Nets,OffScreen,Defensive,0.0,4,0.014,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,2.0,0.8,0.3,2.0,1.3
+42022,1610612739,CLE,Cleveland Cavaliers,OffScreen,Defensive,0.0,5,0.011,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.5,1.0,1.2,0.4,1.0,0.8
+42022,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.333,5,0.032,0.944,0.353,0.0,0.06,0.0,0.0,0.333,0.5,4.0,3.4,1.2,3.0,2.2
+42022,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.0,5,0.027,1.2,0.636,0.13,0.13,0.13,0.0,0.6,0.682,3.0,3.6,1.4,2.0,0.8
+42022,1610612752,NYK,New York Knicks,OffScreen,Defensive,1.0,11,0.035,0.525,0.184,0.05,0.02,0.05,0.02,0.2,0.237,4.0,1.9,0.6,3.0,2.8
+42022,1610612744,GSW,Golden State Warriors,OffScreen,Defensive,0.25,13,0.015,0.957,0.368,0.13,0.04,0.13,0.0,0.435,0.447,2.0,1.7,0.5,1.0,0.9
+42022,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.75,5,0.048,0.885,0.364,0.12,0.12,0.12,0.08,0.346,0.455,5.0,4.6,1.6,4.0,2.8
+42022,1610612737,ATL,Atlanta Hawks,OffScreen,Defensive,0.5,6,0.05,0.939,0.4,0.06,0.03,0.06,0.0,0.424,0.483,6.0,5.2,2.0,5.0,3.0
+42022,1610612748,MIA,Miami Heat,OffScreen,Defensive,0.917,23,0.023,0.614,0.28,0.02,0.11,0.02,0.0,0.263,0.33,2.0,1.5,0.6,2.0,1.6
+42022,1610612756,PHX,Phoenix Suns,OffScreen,Defensive,0.167,11,0.037,1.067,0.425,0.09,0.07,0.07,0.04,0.422,0.525,4.0,4.4,1.5,4.0,2.1
+42022,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.417,11,0.046,0.941,0.409,0.08,0.08,0.08,0.02,0.373,0.511,5.0,4.4,1.6,4.0,2.4
+42022,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.083,20,0.023,1.122,0.458,0.0,0.02,0.0,0.0,0.449,0.573,2.0,2.8,1.1,2.0,1.3
+42022,1610612743,DEN,Denver Nuggets,OffScreen,Defensive,0.833,20,0.032,0.866,0.328,0.07,0.04,0.07,0.03,0.343,0.418,3.0,2.9,1.0,3.0,2.0
+42022,1610612758,SAC,Sacramento Kings,OffScreen,Defensive,0.583,7,0.083,0.912,0.355,0.06,0.07,0.06,0.04,0.338,0.468,10.0,8.9,3.1,9.0,5.7
+42022,1610612747,LAL,Los Angeles Lakers,OffScreen,Defensive,0.667,16,0.063,0.904,0.354,0.05,0.11,0.05,0.0,0.351,0.469,7.0,6.4,2.1,6.0,3.9

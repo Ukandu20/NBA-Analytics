@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,1610612751,BKN,Brooklyn Nets,Transition,Defensive,0.786,4,0.146,1.0,0.449,0.098,0.131,0.098,0.033,0.426,0.531,61,61,22,49,27
+42022,1610612749,MIL,Milwaukee Bucks,Transition,Defensive,0.0,5,0.116,1.477,0.712,0.185,0.077,0.185,0.077,0.662,0.798,65,96,37,52,15
+42022,1610612739,CLE,Cleveland Cavaliers,Transition,Defensive,0.933,5,0.185,0.96,0.5,0.16,0.17,0.16,0.03,0.47,0.521,100,96,35,70,35
+42022,1610612750,MIN,Minnesota Timberwolves,Transition,Defensive,0.133,5,0.174,1.2,0.53,0.105,0.063,0.084,0.042,0.526,0.602,95,114,44,83,39
+42022,1610612758,SAC,Sacramento Kings,Transition,Defensive,0.786,7,0.146,1.0,0.479,0.1,0.117,0.083,0.008,0.458,0.548,120,120,45,94,49
+42022,1610612746,LAC,LA Clippers,Transition,Defensive,0.067,5,0.166,1.402,0.643,0.207,0.087,0.163,0.054,0.641,0.7,92,129,45,70,25
+42022,1610612737,ATL,Atlanta Hawks,Transition,Defensive,0.467,6,0.188,1.073,0.525,0.081,0.105,0.081,0.0,0.508,0.584,124,133,53,101,48
+42022,1610612763,MEM,Memphis Grizzlies,Transition,Defensive,0.6,6,0.199,1.059,0.541,0.14,0.169,0.125,0.029,0.5,0.592,136,144,53,98,45
+42022,1610612752,NYK,New York Knicks,Transition,Defensive,0.867,11,0.133,0.967,0.439,0.118,0.079,0.112,0.007,0.461,0.492,152,147,54,123,69
+42022,1610612755,PHI,Philadelphia 76ers,Transition,Defensive,0.533,11,0.181,1.059,0.484,0.109,0.124,0.099,0.01,0.47,0.573,202,214,76,157,81
+42022,1610612756,PHX,Phoenix Suns,Transition,Defensive,0.267,11,0.166,1.133,0.513,0.138,0.099,0.118,0.025,0.517,0.581,203,230,82,160,78
+42022,1610612744,GSW,Golden State Warriors,Transition,Defensive,1.0,13,0.19,0.933,0.458,0.116,0.137,0.112,0.004,0.442,0.517,285,266,97,212,115
+42022,1610612738,BOS,Boston Celtics,Transition,Defensive,0.333,20,0.139,1.101,0.522,0.091,0.097,0.084,0.027,0.497,0.584,298,328,130,249,119
+42022,1610612747,LAL,Los Angeles Lakers,Transition,Defensive,0.4,16,0.184,1.084,0.502,0.084,0.087,0.072,0.021,0.48,0.572,333,361,142,283,141
+42022,1610612743,DEN,Denver Nuggets,Transition,Defensive,0.2,20,0.152,1.184,0.574,0.131,0.1,0.134,0.022,0.558,0.629,321,380,144,251,107
+42022,1610612748,MIA,Miami Heat,Transition,Defensive,0.667,23,0.161,1.043,0.49,0.132,0.134,0.124,0.03,0.473,0.565,395,412,148,302,154

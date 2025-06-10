@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,1610612751,BKN,Brooklyn Nets,PRBallHandler,Defensive,1.0,4,0.103,0.744,0.371,0.047,0.14,0.047,0.0,0.349,0.429,10.8,8.0,3.3,8.8,5.5
+42022,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Defensive,0.933,5,0.129,0.786,0.358,0.114,0.143,0.114,0.01,0.371,0.387,14.0,11.0,3.8,10.6,6.8
+42022,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Defensive,0.067,5,0.161,1.023,0.473,0.057,0.114,0.034,0.01,0.443,0.554,17.6,18.0,7.0,14.8,7.8
+42022,1610612746,LAC,LA Clippers,PRBallHandler,Defensive,0.467,5,0.192,0.915,0.448,0.085,0.113,0.075,0.02,0.434,0.471,21.2,19.0,7.8,17.4,9.6
+42022,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.8,6,0.164,0.866,0.47,0.08,0.188,0.063,0.01,0.42,0.5,18.7,16.0,6.5,13.8,7.3
+42022,1610612758,SAC,Sacramento Kings,PRBallHandler,Defensive,0.2,7,0.136,0.973,0.425,0.098,0.125,0.08,0.0,0.429,0.517,16.0,16.0,5.3,12.4,7.1
+42022,1610612737,ATL,Atlanta Hawks,PRBallHandler,Defensive,0.533,6,0.202,0.91,0.398,0.09,0.105,0.09,0.01,0.398,0.472,22.2,20.0,7.2,18.0,10.8
+42022,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Defensive,0.267,11,0.15,0.97,0.461,0.108,0.138,0.102,0.01,0.443,0.531,15.2,15.0,5.4,11.6,6.3
+42022,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.133,5,0.295,1.006,0.481,0.097,0.109,0.103,0.03,0.448,0.552,33.0,33.0,13.0,27.0,14.0
+42022,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.867,11,0.2,0.799,0.375,0.109,0.135,0.109,0.02,0.38,0.403,20.8,17.0,6.0,16.0,10.0
+42022,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.0,11,0.14,1.099,0.504,0.146,0.105,0.111,0.03,0.509,0.56,15.5,17.0,6.1,12.1,6.0
+42022,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.733,16,0.147,0.895,0.414,0.071,0.139,0.068,0.02,0.383,0.486,16.6,15.0,5.6,13.4,7.9
+42022,1610612744,GSW,Golden State Warriors,PRBallHandler,Defensive,0.333,13,0.193,0.934,0.436,0.093,0.1,0.066,0.01,0.441,0.475,22.3,21.0,7.9,18.2,10.2
+42022,1610612743,DEN,Denver Nuggets,PRBallHandler,Defensive,0.667,20,0.155,0.896,0.447,0.067,0.138,0.058,0.01,0.413,0.489,16.4,15.0,5.8,13.1,7.3
+42022,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.6,23,0.147,0.909,0.46,0.091,0.169,0.08,0.02,0.421,0.509,15.7,14.0,5.5,11.9,6.4
+42022,1610612738,BOS,Boston Celtics,PRBallHandler,Defensive,0.4,20,0.217,0.931,0.414,0.095,0.108,0.08,0.02,0.416,0.472,23.2,22.0,7.8,18.9,11.1

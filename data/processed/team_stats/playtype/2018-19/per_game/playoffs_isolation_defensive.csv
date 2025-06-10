@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42018,1610612751,BKN,Brooklyn Nets,Isolation,Defensive,1.0,5,0.032,0.737,0.4,0.053,0.158,0.053,0.0,0.368,0.4,3.8,2.8,1.2,3.0,1.8
+42018,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.031,1.261,0.55,0.13,0.043,0.13,0.04,0.565,0.62,3.3,4.1,1.6,3.0,1.3
+42018,1610612765,DET,Detroit Pistons,Isolation,Defensive,0.067,4,0.073,1.063,0.5,0.156,0.094,0.125,0.06,0.469,0.54,8.0,8.5,3.3,6.0,3.3
+42018,1610612753,ORL,Orlando Magic,Isolation,Defensive,0.333,5,0.072,0.973,0.47,0.027,0.081,0.027,0.03,0.432,0.51,7.4,7.2,3.2,7.0,3.6
+42018,1610612746,LAC,LA Clippers,Isolation,Defensive,0.267,6,0.066,0.978,0.41,0.111,0.089,0.111,0.07,0.4,0.47,7.5,7.3,2.7,6.0,3.8
+42018,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.733,5,0.104,0.864,0.41,0.068,0.068,0.034,0.0,0.424,0.44,11.8,10.2,4.2,10.0,6.0
+42018,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.467,4,0.153,0.906,0.42,0.047,0.047,0.047,0.02,0.422,0.47,16.0,14.5,6.3,15.0,8.5
+42018,1610612738,BOS,Boston Celtics,Isolation,Defensive,0.667,9,0.087,0.872,0.33,0.198,0.047,0.198,0.06,0.395,0.36,9.6,8.3,2.6,8.0,5.2
+42018,1610612762,UTA,Utah Jazz,Isolation,Defensive,0.8,5,0.167,0.846,0.33,0.066,0.165,0.055,0.0,0.319,0.44,18.2,15.4,4.6,14.0,9.4
+42018,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.933,15,0.071,0.75,0.34,0.1,0.125,0.092,0.02,0.35,0.37,8.0,6.0,2.1,6.0,4.2
+42018,1610612761,TOR,Toronto Raptors,Isolation,Defensive,0.867,24,0.048,0.752,0.33,0.144,0.136,0.112,0.02,0.368,0.36,5.2,3.9,1.3,4.0,2.6
+42018,1610612757,POR,Portland Trail Blazers,Isolation,Defensive,0.6,16,0.061,0.892,0.41,0.135,0.099,0.126,0.03,0.432,0.43,6.9,6.2,2.3,6.0,3.3
+42018,1610612755,PHI,Philadelphia 76ers,Isolation,Defensive,0.4,12,0.092,0.934,0.41,0.149,0.074,0.157,0.04,0.421,0.46,10.1,9.4,3.3,8.0,4.8
+42018,1610612745,HOU,Houston Rockets,Isolation,Defensive,0.133,11,0.096,1.017,0.47,0.136,0.136,0.119,0.01,0.475,0.53,10.7,10.9,3.7,8.0,4.2
+42018,1610612743,DEN,Denver Nuggets,Isolation,Defensive,0.2,14,0.082,1.008,0.45,0.151,0.048,0.143,0.01,0.508,0.48,9.0,9.1,3.3,7.0,4.0
+42018,1610612744,GSW,Golden State Warriors,Isolation,Defensive,0.533,22,0.136,0.903,0.37,0.13,0.076,0.109,0.01,0.414,0.43,15.0,13.6,4.5,12.0,7.6

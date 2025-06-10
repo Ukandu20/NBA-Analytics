@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42024,1610612749,MIL,Milwaukee Bucks,OffRebound,Defensive,1.0,5,0.0,0.75,0.429,0.0,0.125,0.0,0.0,0.375,0.429,8,6,3,7,4
+42024,1610612753,ORL,Orlando Magic,OffRebound,Defensive,0.933,5,0.046,0.913,0.471,0.174,0.174,0.174,0.087,0.435,0.471,23,21,8,17,9
+42024,1610612763,MEM,Memphis Grizzlies,OffRebound,Defensive,0.0,4,0.038,1.389,0.733,0.056,0.111,0.056,0.0,0.667,0.767,18,25,11,15,4
+42024,1610612748,MIA,Miami Heat,OffRebound,Defensive,0.133,4,0.051,1.286,0.733,0.095,0.19,0.095,0.0,0.619,0.767,21,27,11,15,4
+42024,1610612745,HOU,Houston Rockets,OffRebound,Defensive,0.867,7,0.046,0.941,0.5,0.088,0.088,0.059,0.0,0.5,0.5,34,32,14,28,14
+42024,1610612747,LAL,Los Angeles Lakers,OffRebound,Defensive,0.533,5,0.065,1.086,0.563,0.086,0.029,0.086,0.029,0.571,0.563,35,38,18,32,14
+42024,1610612765,DET,Detroit Pistons,OffRebound,Defensive,0.4,6,0.052,1.118,0.643,0.088,0.118,0.088,0.029,0.559,0.643,34,38,18,28,10
+42024,1610612739,CLE,Cleveland Cavaliers,OffRebound,Defensive,0.067,9,0.034,1.344,0.724,0.031,0.063,0.031,0.0,0.688,0.724,32,43,21,29,8
+42024,1610612746,LAC,LA Clippers,OffRebound,Defensive,0.467,7,0.069,1.096,0.568,0.115,0.058,0.096,0.019,0.558,0.568,52,57,25,44,19
+42024,1610612738,BOS,Boston Celtics,OffRebound,Defensive,0.8,11,0.068,1.025,0.542,0.163,0.125,0.138,0.025,0.538,0.542,80,82,32,59,27
+42024,1610612744,GSW,Golden State Warriors,OffRebound,Defensive,0.6,12,0.059,1.078,0.533,0.143,0.091,0.117,0.013,0.545,0.55,77,83,32,60,28
+42024,1610612750,MIN,Minnesota Timberwolves,OffRebound,Defensive,0.2,15,0.044,1.186,0.611,0.157,0.1,0.157,0.029,0.6,0.62,70,83,33,54,21
+42024,1610612743,DEN,Denver Nuggets,OffRebound,Defensive,0.333,14,0.05,1.13,0.621,0.143,0.117,0.13,0.013,0.597,0.621,77,87,36,58,22
+42024,1610612754,IND,Indiana Pacers,OffRebound,Defensive,0.667,17,0.047,1.077,0.56,0.11,0.088,0.11,0.022,0.538,0.567,91,98,42,75,33
+42024,1610612752,NYK,New York Knicks,OffRebound,Defensive,0.267,18,0.048,1.138,0.634,0.138,0.128,0.138,0.021,0.585,0.634,94,107,45,71,26
+42024,1610612760,OKC,Oklahoma City Thunder,OffRebound,Defensive,0.733,17,0.062,1.066,0.526,0.131,0.082,0.131,0.008,0.541,0.546,122,130,51,97,46

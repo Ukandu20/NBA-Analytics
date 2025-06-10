@@ -1,0 +1,21 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42020,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.467,23,0.117,0.911,0.434,0.122,0.112,0.116,0.033,0.426,0.469,303,276,105,242,137
+42020,1610612746,LAC,LA Clippers,Isolation,Offensive,0.533,19,0.135,0.962,0.449,0.103,0.087,0.095,0.011,0.452,0.488,263,253,96,214,118
+42020,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.867,12,0.166,1.1,0.464,0.156,0.085,0.147,0.033,0.488,0.533,211,232,77,166,89
+42020,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.667,22,0.088,1.045,0.47,0.114,0.065,0.1,0.015,0.483,0.515,201,210,79,168,89
+42020,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.4,18,0.08,0.838,0.333,0.117,0.058,0.11,0.013,0.377,0.376,154,129,43,129,86
+42020,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.6,11,0.096,0.965,0.394,0.097,0.08,0.062,0.009,0.416,0.479,113,109,37,94,57
+42020,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,1.0,6,0.111,1.329,0.5,0.192,0.027,0.123,0.041,0.562,0.6,73,97,30,60,30
+42020,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.8,5,0.146,1.061,0.4,0.207,0.073,0.207,0.012,0.476,0.475,82,87,24,60,36
+42020,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.2,12,0.069,0.75,0.382,0.098,0.12,0.087,0.043,0.37,0.388,92,69,29,76,47
+42020,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.267,7,0.106,0.795,0.355,0.115,0.09,0.115,0.0,0.372,0.411,78,62,22,62,40
+42020,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.133,10,0.065,0.74,0.344,0.055,0.068,0.055,0.0,0.342,0.375,73,54,22,64,42
+42020,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.333,5,0.083,0.833,0.5,0.104,0.188,0.063,0.0,0.438,0.5,48,40,17,34,17
+42020,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.067,6,0.082,0.673,0.279,0.115,0.077,0.115,0.019,0.327,0.302,52,35,12,43,31
+42020,1610612752,NYK,New York Knicks,Isolation,Offensive,0.0,5,0.104,0.536,0.213,0.071,0.089,0.071,0.0,0.25,0.245,56,30,10,47,37
+42020,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.733,5,0.035,1.05,0.438,0.15,0.05,0.1,0.0,0.5,0.469,20,21,7,16,9
+42020,1610612748,MIA,Miami Heat,Isolation,Offensive,0.933,4,0.027,1.25,0.5,0.25,0.083,0.25,0.0,0.583,0.563,12,15,4,8,4
+42020,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.944,2,0.06,1.286,0.556,0.214,0.214,0.214,0.071,0.5,0.722,14,18,5,9,4
+42020,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.722,1,0.086,1.1,0.333,0.4,0.0,0.4,0.0,0.6,0.333,10,11,2,6,4
+42020,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.056,2,0.044,0.545,0.2,0.091,0.0,0.091,0.0,0.273,0.2,11,6,2,10,8
+42020,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.0,1,0.051,0.667,0.25,0.167,0.167,0.167,0.0,0.333,0.375,6,4,1,4,3

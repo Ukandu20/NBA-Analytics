@@ -1,0 +1,17 @@
+season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42019,1610612753,ORL,Orlando Magic,OffRebound,Defensive,0.867,5,0.037,0.952,0.53,0.143,0.14,0.095,0.0,0.476,0.53,4.0,4.0,2.0,3.0,1.0
+42019,1610612755,PHI,Philadelphia 76ers,OffRebound,Defensive,0.643,4,0.049,1.0,0.56,0.19,0.1,0.19,0.048,0.524,0.56,5.0,5.0,2.0,4.0,2.0
+42019,1610612754,IND,Indiana Pacers,OffRebound,Defensive,0.0,4,0.039,1.294,0.67,0.176,0.12,0.176,0.0,0.647,0.67,4.0,6.0,2.0,3.0,1.0
+42019,1610612760,OKC,Oklahoma City Thunder,OffRebound,Defensive,0.733,7,0.034,0.962,0.52,0.038,0.08,0.038,0.0,0.5,0.52,4.0,4.0,2.0,3.0,2.0
+42019,1610612751,BKN,Brooklyn Nets,OffRebound,Defensive,0.067,4,0.047,1.238,0.58,0.095,0.05,0.095,0.048,0.571,0.61,5.0,6.0,3.0,5.0,2.0
+42019,1610612742,DAL,Dallas Mavericks,OffRebound,Defensive,0.467,6,0.047,1.063,0.56,0.094,0.09,0.094,0.031,0.531,0.56,5.0,6.0,2.0,4.0,2.0
+42019,1610612762,UTA,Utah Jazz,OffRebound,Defensive,0.643,7,0.049,1.0,0.5,0.167,0.06,0.167,0.0,0.528,0.5,5.0,5.0,2.0,4.0,2.0
+42019,1610612749,MIL,Milwaukee Bucks,OffRebound,Defensive,0.4,10,0.036,1.075,0.68,0.175,0.2,0.175,0.0,0.575,0.68,4.0,4.0,2.0,2.0,1.0
+42019,1610612761,TOR,Toronto Raptors,OffRebound,Defensive,0.8,11,0.038,0.957,0.57,0.087,0.2,0.087,0.043,0.478,0.57,4.0,4.0,2.0,3.0,1.0
+42019,1610612757,POR,Portland Trail Blazers,OffRebound,Defensive,0.333,6,0.069,1.083,0.54,0.146,0.08,0.125,0.042,0.542,0.54,8.0,9.0,4.0,6.0,3.0
+42019,1610612746,LAC,LA Clippers,OffRebound,Defensive,0.267,13,0.04,1.179,0.64,0.143,0.09,0.143,0.036,0.625,0.64,4.0,5.0,2.0,3.0,1.0
+42019,1610612738,BOS,Boston Celtics,OffRebound,Defensive,0.933,17,0.043,0.949,0.43,0.114,0.03,0.114,0.013,0.481,0.43,5.0,4.0,2.0,4.0,2.0
+42019,1610612745,HOU,Houston Rockets,OffRebound,Defensive,0.2,12,0.05,1.212,0.6,0.136,0.05,0.136,0.015,0.606,0.61,6.0,7.0,3.0,5.0,2.0
+42019,1610612743,DEN,Denver Nuggets,OffRebound,Defensive,1.0,19,0.054,0.815,0.41,0.12,0.09,0.102,0.019,0.426,0.41,6.0,5.0,2.0,5.0,3.0
+42019,1610612747,LAL,Los Angeles Lakers,OffRebound,Defensive,0.133,21,0.043,1.219,0.65,0.125,0.09,0.104,0.021,0.625,0.66,5.0,6.0,2.0,4.0,1.0
+42019,1610612748,MIA,Miami Heat,OffRebound,Defensive,0.533,21,0.054,1.041,0.52,0.106,0.09,0.098,0.033,0.512,0.53,6.0,6.0,3.0,5.0,2.0
