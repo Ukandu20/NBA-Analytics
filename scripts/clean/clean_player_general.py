@@ -81,6 +81,15 @@ def _clean_one(
         return
 
     df.columns = normalise_cols(df.columns)
+    df.rename(
+        columns={
+            "player_name": "player",
+            "player_last_team_id": "team_id",
+            "player_last_team_abbreviation": "team",
+        },
+        inplace=True,
+    )
+    
     _ensure_team(df)
     _add_season_bounds(df)
 
