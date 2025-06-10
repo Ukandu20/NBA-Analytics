@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.424,30,0.117,0.963,0.5,0.22,0.146,0.22,0.098,0.476,0.5,2.7,2.6,1.0,2.0,1.0,NOP
-22024,203482,Kelly Olynyk,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.692,20,0.131,1.069,0.545,0.138,0.103,0.103,0.0,0.552,0.545,1.5,1.6,0.6,1.1,0.5,NOP
-22024,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.299,18,0.075,0.875,0.481,0.031,0.125,0.031,0.0,0.438,0.481,1.8,1.6,0.7,1.5,0.8,NOP
-22024,1642274,Yves Missi,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.308,73,0.027,0.889,0.583,0.167,0.222,0.167,0.056,0.5,0.583,0.2,0.2,0.1,0.2,0.1,NOP
-22024,1631255,Karlo Matković,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.175,42,0.034,0.8,0.333,0.2,0.2,0.1,0.0,0.4,0.333,0.2,0.2,0.0,0.1,0.1,NOP

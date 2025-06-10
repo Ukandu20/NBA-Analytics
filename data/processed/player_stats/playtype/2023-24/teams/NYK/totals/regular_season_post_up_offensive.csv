@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203944,Julius Randle,1610612752,NYK,New York Knicks,Postup,Offensive,0.305,45,0.159,0.897,0.492,0.166,0.189,0.154,0.04,0.457,0.492,175,157,59,120,61,NYK
-22023,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Postup,Offensive,0.126,76,0.026,0.765,0.432,0.02,0.118,0.02,0.0,0.392,0.432,51,39,19,44,25,NYK
-22023,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Postup,Offensive,0.94,74,0.035,1.278,0.636,0.333,0.111,0.278,0.056,0.667,0.636,18,23,7,11,4,NYK
-22023,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Postup,Offensive,0.912,25,0.032,1.2,0.636,0.133,0.133,0.133,0.0,0.6,0.636,15,18,7,11,4,NYK
-22023,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Postup,Offensive,0.172,49,0.031,0.833,0.5,0.083,0.25,0.083,0.0,0.417,0.5,12,10,4,8,4,NYK
-22023,202711,Bojan Bogdanović,1610612752,NYK,New York Knicks,Postup,Offensive,0.313,29,0.032,0.9,0.571,0.1,0.2,0.1,0.0,0.5,0.571,10,9,4,7,3,NYK

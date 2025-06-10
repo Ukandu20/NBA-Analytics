@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.616,66,0.14,1.014,0.519,0.176,0.133,0.148,0.043,0.51,0.519,210,213,80,154,74,MEM
-22023,1641998,Trey Jemison III,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.384,23,0.133,0.917,0.5,0.0,0.083,0.0,0.0,0.458,0.5,24,22,11,22,11,MEM
-22023,203935,Marcus Smart,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.669,20,0.062,1.05,0.533,0.2,0.1,0.15,0.05,0.55,0.533,20,21,8,15,7,MEM
-22023,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.554,48,0.03,1.0,0.462,0.071,0.0,0.071,0.0,0.5,0.462,14,14,6,13,7,MEM
-22023,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.06,61,0.018,0.667,0.444,0.0,0.25,0.0,0.0,0.333,0.444,12,8,4,9,5,MEM

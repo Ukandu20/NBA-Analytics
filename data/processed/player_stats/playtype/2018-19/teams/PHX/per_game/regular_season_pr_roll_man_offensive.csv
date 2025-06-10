@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.588,71,0.211,1.115,0.583,0.101,0.093,0.101,0.018,0.559,0.583,3.2,3.6,1.5,2.6,1.1,PHX
-22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.819,70,0.329,1.255,0.609,0.161,0.025,0.149,0.043,0.64,0.609,2.3,2.9,1.2,2.0,0.8,PHX
-22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.208,46,0.196,0.9,0.41,0.18,0.06,0.18,0.02,0.44,0.462,1.1,1.0,0.3,0.8,0.5,PHX
-22018,1629034,Ray Spalding,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.176,13,0.254,0.867,0.429,0.133,0.0,0.067,0.067,0.4,0.429,1.2,1.0,0.5,1.1,0.6,PHX
-22018,203112,Quincy Acy,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.051,10,0.423,0.636,0.3,0.0,0.091,0.0,0.0,0.273,0.35,1.1,0.7,0.3,1.0,0.7,PHX

@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.25,15,0.243,0.824,0.347,0.132,0.077,0.099,0.0,0.407,0.382,91,75,25,72,47,MIN
-42024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.545,15,0.174,0.963,0.45,0.167,0.111,0.148,0.019,0.481,0.475,54,52,18,40,22,MIN

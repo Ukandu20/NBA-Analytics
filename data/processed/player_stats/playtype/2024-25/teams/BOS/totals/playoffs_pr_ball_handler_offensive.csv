@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.621,8,0.309,0.986,0.426,0.087,0.232,0.072,0.0,0.377,0.596,69,68,20,47,27,BOS
-42024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.483,11,0.178,0.894,0.517,0.149,0.255,0.085,0.021,0.426,0.569,47,42,15,29,14,BOS
-42024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,1.0,11,0.207,1.417,0.611,0.167,0.083,0.083,0.0,0.625,0.722,24,34,11,18,7,BOS
-42024,1628401,Derrick White,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.448,11,0.222,0.872,0.406,0.051,0.128,0.051,0.0,0.385,0.5,39,34,13,32,19,BOS
-42024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.276,8,0.148,0.75,0.4,0.0,0.167,0.0,0.0,0.333,0.45,12,9,4,10,6,BOS

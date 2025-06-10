@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.983,4,0.311,0.429,0.182,0.143,0.071,0.0,0.0,0.286,0.182,14,6,2,11,9,PHX
-42023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.907,2,0.6,0.667,0.333,0.0,0.25,0.0,0.0,0.25,0.444,12,8,3,9,6,PHX
-42023,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.491,4,0.355,0.909,0.455,0.0,0.0,0.0,0.0,0.455,0.455,11,10,5,11,6,PHX
-42023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.263,4,0.271,1.0,0.412,0.053,0.053,0.053,0.0,0.421,0.5,19,19,7,17,10,PHX
-42023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.712,4,0.403,0.815,0.474,0.037,0.259,0.0,0.0,0.37,0.553,27,22,9,19,10,PHX
-42023,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,PRBallHandler,Defensive,0.695,4,0.731,0.816,0.419,0.0,0.184,0.0,0.0,0.342,0.5,38,31,13,31,18,PHX

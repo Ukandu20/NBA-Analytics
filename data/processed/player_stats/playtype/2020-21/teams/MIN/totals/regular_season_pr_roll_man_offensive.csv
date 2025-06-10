@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.592,70,0.244,1.159,0.529,0.165,0.068,0.165,0.023,0.551,0.605,176,204,73,138,65,MIN
-22020,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.634,50,0.137,1.176,0.511,0.101,0.094,0.094,0.031,0.497,0.613,159,187,68,133,65,MIN
-22020,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.277,64,0.114,0.974,0.533,0.158,0.079,0.158,0.026,0.526,0.533,38,37,16,30,14,MIN
-22020,1627823,Juancho Hernangomez,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.71,52,0.079,1.207,0.538,0.138,0.0,0.138,0.034,0.586,0.615,29,35,14,26,12,MIN
-22020,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.013,63,0.044,0.316,0.143,0.105,0.158,0.105,0.0,0.158,0.179,19,6,2,14,12,MIN

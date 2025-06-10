@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.495,67,0.056,0.874,0.325,0.095,0.074,0.095,0.011,0.358,0.406,95,83,26,80,54,UTA
-22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.647,72,0.064,0.968,0.479,0.048,0.19,0.048,0.0,0.413,0.583,63,61,23,48,25,UTA
-22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.55,79,0.048,0.919,0.407,0.081,0.097,0.081,0.048,0.387,0.472,62,57,22,54,32,UTA
-22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.844,69,0.037,1.093,0.514,0.116,0.116,0.116,0.047,0.488,0.571,43,47,18,35,17,UTA
-22021,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.574,45,0.088,0.933,0.407,0.033,0.067,0.033,0.0,0.4,0.463,30,28,11,27,16,UTA

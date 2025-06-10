@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.923,68,0.139,1.133,0.513,0.215,0.067,0.215,0.072,0.544,0.519,2.9,3.3,1.2,2.3,1.1,SAS
-22019,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.385,66,0.095,0.805,0.441,0.091,0.143,0.091,0.013,0.403,0.449,1.2,0.9,0.4,0.9,0.5,SAS
-22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.328,67,0.106,0.785,0.381,0.101,0.101,0.101,0.0,0.405,0.389,1.2,0.9,0.4,0.9,0.6,SAS
-22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.361,68,0.027,0.8,0.429,0.1,0.25,0.1,0.05,0.35,0.464,0.3,0.2,0.1,0.2,0.1,SAS
-22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.211,53,0.022,0.714,0.333,0.143,0.048,0.143,0.048,0.381,0.333,0.4,0.3,0.1,0.3,0.2,SAS
-22019,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.8,61,0.03,1.0,0.462,0.0,0.0,0.0,0.0,0.462,0.5,0.2,0.2,0.1,0.2,0.1,SAS
-22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.109,66,0.022,0.6,0.273,0.067,0.2,0.067,0.0,0.267,0.318,0.2,0.1,0.0,0.2,0.1,SAS

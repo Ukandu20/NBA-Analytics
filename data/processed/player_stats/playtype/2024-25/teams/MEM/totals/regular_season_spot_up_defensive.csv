@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203935,Marcus Smart,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.743,18,0.281,0.972,0.367,0.056,0.111,0.056,0.0,0.361,0.517,36,35,11,30,19,MEM
-22024,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.138,39,0.35,1.2,0.455,0.029,0.029,0.029,0.0,0.457,0.614,70,84,30,66,36,MEM
-22024,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.447,62,0.329,1.07,0.4,0.057,0.057,0.038,0.006,0.401,0.557,157,168,56,140,84,MEM
-22024,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.631,64,0.379,1.01,0.385,0.019,0.043,0.019,0.005,0.372,0.523,207,209,75,195,120,MEM
-22024,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Spotup,Defensive,0.425,69,0.36,1.077,0.393,0.063,0.05,0.059,0.023,0.398,0.545,221,238,79,201,122,MEM

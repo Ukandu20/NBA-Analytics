@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.618,82,0.054,1.041,0.464,0.055,0.027,0.055,0.027,0.466,0.507,73,76,32,69,37,NYK
-22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.314,74,0.072,0.843,0.342,0.067,0.09,0.067,0.011,0.348,0.434,89,75,26,76,50,NYK
-22024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.636,72,0.036,1.054,0.447,0.179,0.071,0.179,0.089,0.464,0.521,56,59,21,47,26,NYK
-22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.482,65,0.03,0.957,0.465,0.022,0.043,0.022,0.0,0.435,0.512,46,44,20,43,23,NYK
-22024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.89,50,0.081,1.238,0.5,0.0,0.048,0.0,0.0,0.476,0.65,21,26,10,20,10,NYK
-22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.329,64,0.042,0.846,0.308,0.0,0.0,0.0,0.0,0.308,0.423,26,22,8,26,18,NYK
-22024,1626166,Cameron Payne,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.194,72,0.025,0.769,0.333,0.0,0.077,0.0,0.0,0.308,0.417,13,10,4,12,8,NYK

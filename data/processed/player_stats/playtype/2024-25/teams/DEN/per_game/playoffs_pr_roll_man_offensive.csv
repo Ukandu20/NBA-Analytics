@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.654,14,0.106,1.205,0.559,0.026,0.103,0.0,0.0,0.513,0.662,2.8,3.4,1.4,2.4,1.1,DEN

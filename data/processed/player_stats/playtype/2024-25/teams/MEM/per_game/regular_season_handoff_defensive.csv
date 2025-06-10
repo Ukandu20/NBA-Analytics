@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631246,Vince Williams Jr.,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.928,27,0.087,0.625,0.286,0.063,0.063,0.063,0.0,0.313,0.286,0.6,0.4,0.1,0.5,0.4,MEM
-22024,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.498,25,0.079,0.923,0.4,0.154,0.077,0.154,0.0,0.462,0.5,0.5,0.5,0.2,0.4,0.2,MEM
-22024,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.958,64,0.046,0.56,0.286,0.0,0.16,0.0,0.0,0.24,0.333,0.4,0.2,0.1,0.3,0.2,MEM
-22024,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.814,73,0.032,0.741,0.304,0.0,0.148,0.0,0.0,0.259,0.435,0.4,0.3,0.1,0.3,0.2,MEM
-22024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Handoff,Defensive,0.448,77,0.077,0.943,0.409,0.094,0.113,0.094,0.038,0.396,0.477,0.7,0.6,0.2,0.6,0.3,MEM

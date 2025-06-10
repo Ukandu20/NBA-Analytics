@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.974,76,0.301,1.288,0.555,0.072,0.094,0.061,0.022,0.522,0.691,278,358,132,238,106,BKN
-22018,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.336,43,0.297,0.877,0.342,0.038,0.054,0.038,0.015,0.338,0.45,130,114,41,120,79,BKN
-22018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.25,81,0.031,0.825,0.353,0.0,0.105,0.0,0.0,0.316,0.461,57,47,18,51,33,BKN
-22018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.286,63,0.071,0.85,0.324,0.075,0.075,0.075,0.0,0.35,0.397,40,34,11,34,23,BKN
-22018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.481,68,0.029,0.939,0.346,0.121,0.121,0.121,0.03,0.364,0.462,33,31,9,26,17,BKN
-22018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.043,67,0.069,0.547,0.19,0.132,0.094,0.132,0.019,0.264,0.25,53,29,8,42,34,BKN
-22018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.309,56,0.041,0.87,0.3,0.13,0.0,0.13,0.0,0.391,0.35,23,20,6,20,14,BKN
-22018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,OffScreen,Offensive,0.487,40,0.028,0.941,0.438,0.118,0.059,0.118,0.118,0.412,0.469,17,16,7,16,9,BKN

@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.778,17,0.048,1.1,0.556,0.0,0.1,0.0,0.0,0.5,0.611,0.6,0.6,0.3,0.5,0.2,OKC
-42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.667,17,0.088,1.143,0.417,0.071,0.071,0.0,0.0,0.429,0.583,0.8,0.9,0.3,0.7,0.4,OKC

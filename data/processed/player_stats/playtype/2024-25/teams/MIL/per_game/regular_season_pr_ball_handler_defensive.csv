@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.576,23,0.281,0.872,0.415,0.064,0.085,0.043,0.021,0.383,0.463,2.0,1.8,0.7,1.8,1.0,MIL
-22024,1626153,Delon Wright,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.765,24,0.409,0.808,0.436,0.038,0.231,0.038,0.019,0.327,0.526,2.2,1.8,0.7,1.6,0.9,MIL
-22024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.863,29,0.324,0.759,0.41,0.038,0.19,0.025,0.0,0.354,0.434,2.7,2.1,0.9,2.1,1.2,MIL
-22024,1631157,Ryan Rollins,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.15,51,0.372,1.0,0.474,0.176,0.157,0.167,0.037,0.463,0.526,2.1,2.1,0.7,1.5,0.8,MIL
-22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.602,80,0.365,0.865,0.42,0.092,0.147,0.084,0.008,0.39,0.482,3.1,2.7,1.0,2.4,1.4,MIL
-22024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Defensive,0.277,67,0.372,0.944,0.439,0.101,0.157,0.085,0.012,0.415,0.516,3.7,3.5,1.2,2.8,1.6,MIL

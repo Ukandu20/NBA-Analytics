@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.84,57,0.099,1.145,0.585,0.182,0.109,0.145,0.036,0.582,0.585,1.0,1.1,0.4,0.7,0.3,DAL
-22024,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.278,57,0.077,0.866,0.46,0.149,0.164,0.149,0.06,0.433,0.46,1.2,1.0,0.4,0.9,0.5,DAL
-22024,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.799,50,0.04,1.111,0.486,0.222,0.044,0.2,0.044,0.556,0.486,0.9,1.0,0.3,0.7,0.4,DAL
-22024,203076,Anthony Davis,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.59,9,0.124,1.042,0.5,0.208,0.083,0.208,0.042,0.5,0.5,2.7,2.8,1.0,2.0,1.0,DAL
-22024,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.881,79,0.023,1.2,0.5,0.3,0.1,0.3,0.1,0.55,0.5,0.3,0.3,0.1,0.2,0.1,DAL
-22024,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.972,36,0.052,1.5,0.769,0.071,0.071,0.071,0.071,0.714,0.769,0.4,0.6,0.3,0.4,0.1,DAL
-22024,202691,Klay Thompson,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.231,72,0.018,0.833,0.333,0.222,0.167,0.222,0.056,0.389,0.333,0.3,0.2,0.1,0.2,0.1,DAL
-22024,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.021,22,0.045,0.519,0.182,0.148,0.037,0.111,0.0,0.296,0.182,1.2,0.6,0.2,1.0,0.8,DAL

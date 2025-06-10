@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Postup,Offensive,0.251,66,0.059,0.824,0.424,0.165,0.153,0.129,0.024,0.42,0.424,1.3,1.1,0.4,0.9,0.5,UTA
-22022,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Postup,Offensive,0.886,56,0.093,1.156,0.536,0.156,0.031,0.156,0.063,0.56,0.536,0.6,0.7,0.3,0.5,0.2,UTA
-22022,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,Postup,Offensive,0.078,68,0.045,0.703,0.435,0.135,0.243,0.108,0.0,0.38,0.435,0.5,0.4,0.1,0.3,0.2,UTA
-22022,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Postup,Offensive,0.066,61,0.012,0.688,0.4,0.125,0.25,0.125,0.0,0.38,0.4,0.3,0.2,0.1,0.2,0.1,UTA
-22022,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Postup,Offensive,0.198,65,0.012,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,0.2,0.1,0.1,0.1,0.1,UTA

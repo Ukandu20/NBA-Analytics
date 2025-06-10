@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.667,16,0.215,1.044,0.451,0.154,0.077,0.132,0.011,0.495,0.507,91,95,32,71,39,MIN
-42023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.139,16,0.08,0.609,0.286,0.087,0.043,0.087,0.043,0.304,0.286,23,14,6,21,15,MIN
-42023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.2,15,0.063,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,11,8,3,10,7,MIN

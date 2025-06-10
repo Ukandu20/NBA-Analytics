@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Cut,Offensive,0.611,6,0.356,1.387,0.667,0.194,0.0,0.194,0.065,0.71,0.667,31,43,18,27,9,LAC

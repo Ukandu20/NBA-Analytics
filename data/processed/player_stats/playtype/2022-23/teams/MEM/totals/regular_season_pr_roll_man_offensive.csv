@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.924,56,0.218,1.4,0.674,0.18,0.03,0.17,0.1,0.68,0.674,100,140,60,89,29,MEM
-22022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.696,63,0.1,1.236,0.542,0.208,0.057,0.208,0.05,0.585,0.614,106,131,45,83,38,MEM
-22022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.553,61,0.171,1.149,0.655,0.134,0.09,0.134,0.04,0.582,0.655,67,77,36,55,19,MEM
-22022,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.935,42,0.11,1.455,0.769,0.159,0.023,0.136,0.07,0.727,0.769,44,64,30,39,9,MEM
-22022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.659,77,0.045,1.207,0.583,0.069,0.138,0.103,0.07,0.483,0.708,29,35,14,24,10,MEM
-22022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.378,58,0.017,1.053,0.4,0.158,0.053,0.105,0.0,0.474,0.5,19,20,6,15,9,MEM
-22022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.567,61,0.008,1.154,0.429,0.385,0.077,0.385,0.0,0.615,0.5,13,15,3,7,4,MEM

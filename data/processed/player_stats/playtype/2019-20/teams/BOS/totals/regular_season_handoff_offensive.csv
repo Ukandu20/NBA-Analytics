@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.331,66,0.061,0.815,0.385,0.087,0.087,0.087,0.022,0.391,0.404,92,75,30,78,48,BOS
-22019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.687,52,0.079,1.0,0.518,0.029,0.162,0.029,0.015,0.441,0.589,68,68,29,56,27,BOS
-22019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.607,56,0.063,0.957,0.353,0.171,0.143,0.157,0.043,0.386,0.422,70,67,18,51,33,BOS
-22019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.623,57,0.054,0.967,0.413,0.133,0.133,0.133,0.033,0.417,0.5,60,58,19,46,27,BOS
-22019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.568,60,0.038,0.938,0.414,0.063,0.063,0.031,0.031,0.406,0.483,32,30,12,29,17,BOS
-22019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.216,71,0.036,0.722,0.333,0.111,0.056,0.111,0.0,0.389,0.333,18,13,5,15,10,BOS

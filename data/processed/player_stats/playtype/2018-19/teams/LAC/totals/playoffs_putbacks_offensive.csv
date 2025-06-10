@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.11,1.333,0.75,0.0,0.11,0.0,0.0,0.667,0.75,9,12,6,8,2,LAC
-42018,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,4,0.391,1.222,0.556,0.111,0.0,0.111,0.111,0.556,0.556,9,11,5,9,4,LAC
-42018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.052,1.286,0.571,0.143,0.0,0.143,0.143,0.571,0.571,7,9,4,7,3,LAC
-42018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.033,1.5,1.0,0.5,0.0,0.0,0.0,1.0,1.0,2,3,1,1,0,LAC
-42018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.013,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,LAC
-42018,203210,JaMychal Green,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.068,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,LAC
-42018,101150,Lou Williams,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,6,0.028,0.5,0.5,0.0,0.5,0.0,0.0,0.25,0.5,4,2,1,2,1,LAC

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.548,62,0.303,1.109,0.552,0.152,0.077,0.138,0.034,0.556,0.562,349,387,155,281,126,IND
-22019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.415,62,0.267,1.035,0.438,0.126,0.055,0.136,0.04,0.457,0.515,199,206,74,169,95,IND
-22019,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.092,27,0.368,0.771,0.387,0.057,0.057,0.029,0.0,0.4,0.403,35,27,12,31,19,IND
-22019,1628388,T.J. Leaf,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.548,16,0.191,1.154,0.545,0.077,0.077,0.077,0.0,0.538,0.636,13,15,6,11,5,IND
-22019,203960,JaKarr Sampson,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.535,34,0.141,1.1,0.556,0.1,0.05,0.1,0.05,0.55,0.556,20,22,10,18,8,IND

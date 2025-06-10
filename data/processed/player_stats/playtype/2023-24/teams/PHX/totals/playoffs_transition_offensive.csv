@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.747,4,0.284,1.333,0.6,0.148,0.111,0.111,0.0,0.593,0.7,27,36,12,20,8,PHX
-42023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.534,4,0.149,1.143,0.625,0.357,0.143,0.286,0.071,0.643,0.625,14,16,5,8,3,PHX
-42023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Transition,Offensive,0.18,4,0.23,0.882,0.5,0.0,0.294,0.0,0.0,0.353,0.625,17,15,6,12,6,PHX

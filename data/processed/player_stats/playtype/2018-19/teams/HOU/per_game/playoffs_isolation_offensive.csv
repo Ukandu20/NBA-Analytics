@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,201935,James Harden,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.763,11,0.466,1.042,0.391,0.127,0.073,0.121,0.006,0.436,0.496,15.0,15.6,4.7,12.1,7.4,HOU
-42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.474,11,0.24,0.86,0.39,0.06,0.12,0.02,0.0,0.38,0.463,5.0,3.9,1.5,3.7,2.3,HOU
-42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.703,10,0.153,1.0,0.4,0.0,0.091,0.0,0.0,0.364,0.55,1.0,1.1,0.4,1.0,0.6,HOU
-42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.105,11,0.08,0.667,0.3,0.067,0.267,0.067,0.0,0.267,0.35,1.0,0.9,0.3,0.9,0.6,HOU
-42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.0,11,0.044,1.5,0.0,0.5,0.5,0.5,0.0,0.5,0.0,0.0,0.3,0.0,0.0,0.0,HOU
-42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.0,7,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,HOU
-42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.0,8,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,HOU
-42018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.0,6,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,HOU

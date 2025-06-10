@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,2,0.292,1.143,0.5,0.0,0.14,0.0,0.0,0.43,0.667,7,8,3,6,3,IND
-42020,1629103,Kelan Martin,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,2,0.103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,IND

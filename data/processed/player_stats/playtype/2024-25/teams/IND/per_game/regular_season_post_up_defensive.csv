@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Postup,Defensive,0.874,44,0.04,0.75,0.5,0.125,0.188,0.125,0.063,0.375,0.5,0.4,0.3,0.1,0.3,0.1,IND
-22024,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Postup,Defensive,0.352,69,0.027,1.091,0.556,0.091,0.091,0.091,0.0,0.545,0.556,0.2,0.2,0.1,0.1,0.1,IND
-22024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Postup,Defensive,0.336,64,0.035,1.107,0.565,0.107,0.071,0.107,0.0,0.571,0.565,0.4,0.5,0.2,0.4,0.2,IND
-22024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Postup,Defensive,0.367,78,0.041,1.081,0.567,0.108,0.108,0.108,0.027,0.541,0.567,0.5,0.5,0.2,0.4,0.2,IND
-22024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Defensive,0.785,71,0.063,0.831,0.44,0.068,0.102,0.051,0.017,0.424,0.44,0.8,0.7,0.3,0.7,0.4,IND

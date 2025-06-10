@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.852,7,0.103,1.333,0.611,0.095,0.095,0.095,0.048,0.571,0.722,21,28,11,18,7,ORL

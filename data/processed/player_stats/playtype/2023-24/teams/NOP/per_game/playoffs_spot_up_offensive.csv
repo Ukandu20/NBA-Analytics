@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.809,4,0.491,1.179,0.409,0.107,0.107,0.107,0.0,0.429,0.591,7.0,8.3,2.3,5.5,3.3,NOP
-42023,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.845,4,0.545,1.222,0.412,0.056,0.0,0.056,0.0,0.444,0.588,4.5,5.5,1.8,4.3,2.5,NOP
-42023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.836,4,0.25,1.214,0.429,0.0,0.0,0.0,0.0,0.429,0.607,3.5,4.3,1.5,3.5,2.0,NOP
-42023,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.436,4,0.165,0.933,0.429,0.0,0.067,0.0,0.0,0.4,0.5,3.8,3.5,1.5,3.5,2.0,NOP
-42023,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.0,4,0.458,0.273,0.091,0.0,0.0,0.0,0.0,0.091,0.136,2.8,0.8,0.3,2.8,2.5,NOP

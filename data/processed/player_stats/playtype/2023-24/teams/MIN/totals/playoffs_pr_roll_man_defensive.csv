@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.6,15,0.044,0.9,0.4,0.0,0.0,0.0,0.0,0.4,0.45,10,9,4,10,6,MIN
-42023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.188,16,0.098,1.211,0.471,0.053,0.053,0.053,0.0,0.474,0.618,19,23,8,17,9,MIN

@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.32,47,0.204,0.964,0.385,0.018,0.036,0.018,0.0,0.382,0.49,1.2,1.1,0.4,1.1,0.7,OKC
-22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.703,71,0.039,1.192,0.44,0.038,0.0,0.038,0.0,0.462,0.58,0.4,0.4,0.2,0.4,0.2,OKC
-22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.417,69,0.069,1.036,0.5,0.0,0.143,0.0,0.0,0.429,0.604,0.4,0.4,0.2,0.3,0.2,OKC
-22024,1631172,Ousmane Dieng,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.752,37,0.093,1.214,0.545,0.071,0.143,0.071,0.0,0.5,0.727,0.4,0.5,0.2,0.3,0.1,OKC

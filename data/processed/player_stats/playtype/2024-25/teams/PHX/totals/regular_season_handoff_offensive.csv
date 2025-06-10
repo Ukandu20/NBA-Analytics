@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.961,53,0.063,1.278,0.636,0.093,0.13,0.093,0.037,0.574,0.705,54,69,28,44,16,PHX
-22024,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.32,75,0.039,0.833,0.404,0.069,0.139,0.056,0.0,0.389,0.439,72,60,23,57,34,PHX
-22024,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.665,62,0.025,1.027,0.6,0.108,0.27,0.108,0.054,0.459,0.64,37,38,15,25,10,PHX
-22024,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.292,64,0.057,0.8,0.32,0.114,0.171,0.114,0.0,0.343,0.4,35,28,8,25,17,PHX
-22024,1626145,Tyus Jones,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.32,81,0.022,0.833,0.385,0.056,0.222,0.056,0.0,0.333,0.5,18,15,5,13,8,PHX
-22024,1642346,Ryan Dunn,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.759,74,0.024,1.077,0.462,0.0,0.0,0.0,0.0,0.462,0.538,13,14,6,13,7,PHX
-22024,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.011,75,0.019,0.25,0.125,0.0,0.333,0.0,0.0,0.083,0.188,12,3,1,8,7,PHX

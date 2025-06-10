@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.48,7,0.088,0.909,0.467,0.273,0.136,0.273,0.091,0.455,0.467,22,20,7,15,8,DAL
-42020,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.385,4,0.347,0.824,0.385,0.118,0.118,0.118,0.0,0.412,0.385,17,14,5,13,8,DAL
-42020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.385,7,0.205,0.824,0.4,0.118,0.059,0.118,0.059,0.412,0.4,17,14,6,15,9,DAL

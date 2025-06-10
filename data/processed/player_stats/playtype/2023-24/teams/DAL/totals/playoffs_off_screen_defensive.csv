@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.444,22,0.032,0.818,0.273,0.0,0.0,0.0,0.0,0.273,0.409,11,9,3,11,8,DAL
-42023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.111,21,0.112,1.133,0.5,0.133,0.067,0.133,0.0,0.533,0.583,15,17,6,12,6,DAL
-42023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.333,22,0.072,0.857,0.35,0.0,0.048,0.0,0.0,0.333,0.45,21,18,7,20,13,DAL
-42023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Defensive,0.222,22,0.096,0.917,0.381,0.083,0.042,0.042,0.0,0.417,0.429,24,22,8,21,13,DAL

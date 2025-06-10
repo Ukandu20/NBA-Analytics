@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.848,79,0.151,1.335,0.69,0.17,0.073,0.165,0.06,0.66,0.705,2.6,3.5,1.5,2.1,0.7,SAC
-22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.341,66,0.196,1.018,0.489,0.107,0.071,0.107,0.02,0.482,0.543,0.8,0.9,0.3,0.7,0.4,SAC
-22022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.498,74,0.046,1.125,0.5,0.042,0.125,0.0,0.0,0.458,0.65,0.3,0.4,0.1,0.3,0.1,SAC
-22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.989,75,0.01,1.8,0.7,0.0,0.0,0.0,0.0,0.7,0.9,0.1,0.2,0.1,0.1,0.0,SAC
-22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.091,77,0.017,0.765,0.294,0.0,0.0,0.0,0.0,0.294,0.382,0.2,0.2,0.1,0.2,0.2,SAC
-22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.156,82,0.011,0.833,0.556,0.0,0.25,0.0,0.0,0.417,0.556,0.1,0.1,0.1,0.1,0.0,SAC

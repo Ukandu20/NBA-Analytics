@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1627789,Timothe Luwawu-Cabarrot,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.664,47,0.032,0.909,0.36,0.0,0.0,0.0,0.0,0.36,0.45,11,10,4,11,7,BKN
-22019,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.664,47,0.042,0.909,0.33,0.09,0.091,0.09,0.0,0.36,0.44,11,10,3,9,6,BKN
-22019,202066,Garrett Temple,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.637,62,0.019,0.923,0.33,0.08,0.0,0.08,0.0,0.38,0.42,13,12,4,12,8,BKN
-22019,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.803,69,0.029,0.765,0.35,0.0,0.0,0.0,0.0,0.35,0.38,17,13,6,17,11,BKN
-22019,1627752,Taurean Prince,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.003,64,0.025,1.8,0.75,0.2,0.067,0.2,0.07,0.73,0.92,15,27,9,12,3,BKN
-22019,201599,DeAndre Jordan,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.517,56,0.063,1.0,0.42,0.06,0.0,0.06,0.02,0.44,0.5,50,50,20,48,28,BKN
-22019,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,PRRollMan,Defensive,0.675,70,0.06,0.897,0.38,0.04,0.015,0.04,0.03,0.38,0.45,68,61,25,66,41,BKN

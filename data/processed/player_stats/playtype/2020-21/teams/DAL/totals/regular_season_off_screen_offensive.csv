@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.914,70,0.105,1.355,0.52,0.064,0.018,0.073,0.0,0.536,0.67,110,149,52,100,48,DAL
-22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.752,66,0.025,1.152,0.452,0.109,0.022,0.087,0.043,0.478,0.548,46,53,19,42,23,DAL
-22020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.167,59,0.069,0.745,0.326,0.039,0.078,0.039,0.02,0.314,0.391,51,38,15,46,31,DAL
-22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.243,44,0.047,0.811,0.324,0.081,0.0,0.081,0.0,0.378,0.382,37,30,11,34,23,DAL
-22020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.683,68,0.029,1.091,0.474,0.091,0.045,0.091,0.0,0.5,0.579,22,24,9,19,10,DAL
-22020,200755,JJ Redick,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.238,13,0.318,0.81,0.333,0.0,0.143,0.0,0.0,0.286,0.472,21,17,6,18,12,DAL
-22020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.798,60,0.023,1.167,0.417,0.0,0.0,0.0,0.0,0.417,0.583,12,14,5,12,7,DAL

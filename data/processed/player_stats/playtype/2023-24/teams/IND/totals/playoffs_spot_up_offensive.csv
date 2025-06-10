@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.945,17,0.258,1.393,0.537,0.0,0.036,0.0,0.0,0.518,0.722,56,78,29,54,25,IND
-42023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.745,17,0.26,1.134,0.413,0.06,0.015,0.06,0.015,0.433,0.563,67,76,26,63,37,IND
-42023,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.291,17,0.458,0.841,0.343,0.061,0.085,0.061,0.0,0.354,0.421,82,69,24,70,46,IND
-42023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.873,15,0.206,1.288,0.51,0.019,0.058,0.019,0.019,0.481,0.673,52,67,25,49,24,IND
-42023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.364,17,0.165,0.891,0.377,0.036,0.018,0.036,0.018,0.364,0.453,55,49,20,53,33,IND
-42023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.394,17,0.313,0.92,0.34,0.02,0.04,0.02,0.0,0.34,0.457,50,46,16,47,31,IND
-42023,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.524,17,0.424,1.0,0.394,0.0,0.083,0.0,0.0,0.361,0.545,36,36,13,33,20,IND
-42023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.524,17,0.132,1.0,0.407,0.036,0.0,0.036,0.0,0.429,0.481,28,28,11,27,16,IND

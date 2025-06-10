@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.692,76,0.041,1.069,0.535,0.138,0.092,0.115,0.046,0.529,0.535,87,93,38,71,33,OKC
-22024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.035,32,0.044,0.55,0.231,0.15,0.2,0.15,0.0,0.3,0.231,20,11,3,13,10,OKC

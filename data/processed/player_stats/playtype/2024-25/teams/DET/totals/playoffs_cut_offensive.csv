@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,Cut,Offensive,0.5,6,0.329,1.217,0.722,0.087,0.174,0.087,0.043,0.609,0.722,23,28,13,18,5,DET
-42024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,Cut,Offensive,0.263,6,0.233,1.143,0.583,0.214,0.0,0.214,0.071,0.643,0.583,14,16,7,12,5,DET

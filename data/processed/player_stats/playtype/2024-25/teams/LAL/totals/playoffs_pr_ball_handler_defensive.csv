@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.976,5,0.217,0.5,0.25,0.2,0.4,0.2,0.0,0.3,0.25,10,5,1,4,3,LAL
-42024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,1.0,5,0.221,0.412,0.273,0.0,0.353,0.0,0.0,0.176,0.318,17,7,3,11,8,LAL
-42024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.808,5,0.155,0.769,0.444,0.077,0.308,0.077,0.077,0.308,0.5,13,10,4,9,5,LAL

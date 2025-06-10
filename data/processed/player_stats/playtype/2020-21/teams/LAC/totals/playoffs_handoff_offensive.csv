@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Offensive,0.348,19,0.031,0.875,0.364,0.125,0.188,0.125,0.0,0.375,0.5,16,14,4,11,7,LAC
-42020,1628379,Luke Kennard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,15,0.129,1.333,0.444,0.222,0.0,0.222,0.22,0.444,0.556,9,12,4,9,5,LAC
-42020,202704,Reggie Jackson,1610612746,LAC,LA Clippers,Handoff,Offensive,0.625,19,0.033,1.1,0.444,0.0,0.1,0.0,0.0,0.4,0.611,10,11,4,9,5,LAC
-42020,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,11,0.03,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,8,8,4,8,4,LAC
-42020,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,19,0.013,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,6,3,3,0,LAC
-42020,200765,Rajon Rondo,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,13,0.069,1.2,0.5,0.0,0.2,0.0,0.0,0.4,0.75,5,6,2,4,2,LAC
-42020,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Handoff,Offensive,0.0,17,0.013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAC

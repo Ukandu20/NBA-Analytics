@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.383,79,0.028,0.875,0.333,0.229,0.042,0.229,0.083,0.417,0.333,48,42,13,39,26,CHI
-22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.921,76,0.033,1.207,0.56,0.138,0.034,0.138,0.034,0.552,0.62,29,35,14,25,11,CHI
-22023,1628975,Jevon Carter,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.532,72,0.092,0.946,0.469,0.0,0.135,0.0,0.0,0.405,0.547,37,35,15,32,17,CHI
-22023,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.779,25,0.053,1.08,0.5,0.04,0.12,0.04,0.04,0.44,0.614,25,27,11,22,11,CHI
-22023,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.943,71,0.02,1.286,0.583,0.0,0.143,0.0,0.0,0.5,0.75,14,18,7,12,5,CHI
-22023,1629632,Coby White,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.132,79,0.018,0.63,0.25,0.148,0.148,0.148,0.037,0.296,0.25,27,17,5,20,15,CHI
-22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.667,43,0.027,1.0,0.556,0.083,0.167,0.0,0.0,0.5,0.556,12,12,5,9,4,CHI

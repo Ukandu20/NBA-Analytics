@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.625,7,0.167,1.0,0.5,0.222,0.222,0.167,0.0,0.5,0.5,2.6,2.6,0.3,1.0,0.7,OKC
-42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.714,7,0.211,1.063,0.615,0.125,0.125,0.125,0.063,0.56,0.615,2.3,2.4,1.3,2.0,0.7,OKC
-42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,7,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.3,0.0,0.0,0.0,OKC
-42019,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,-0.5,0.0,0.5,OKC
-42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,7,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,OKC

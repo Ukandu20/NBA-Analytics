@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.946,5,0.101,1.667,0.818,0.333,0.067,0.333,0.133,0.8,0.818,3.0,5.0,1.8,2.2,0.4,MIL

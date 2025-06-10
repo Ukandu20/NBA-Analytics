@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.786,61,0.109,1.032,0.576,0.244,0.147,0.231,0.026,0.564,0.576,156,161,57,99,42,NOP
-22020,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.575,61,0.123,0.9,0.397,0.165,0.1,0.159,0.041,0.429,0.416,170,153,52,131,79,NOP
-22020,202339,Eric Bledsoe,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.684,71,0.028,0.962,0.409,0.077,0.077,0.077,0.0,0.423,0.5,26,25,9,22,13,NOP
-22020,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.185,46,0.038,0.619,0.3,0.0,0.048,0.0,0.0,0.286,0.325,21,13,6,20,14,NOP
-22020,201949,James Johnson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.255,22,0.043,0.7,0.333,0.0,0.1,0.0,0.0,0.3,0.389,10,7,3,9,6,NOP
-22020,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.032,55,0.024,0.35,0.2,0.0,0.25,0.0,0.0,0.15,0.233,20,7,3,15,12,NOP

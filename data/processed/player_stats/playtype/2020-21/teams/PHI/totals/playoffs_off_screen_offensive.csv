@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203552,Seth Curry,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,1.0,12,0.067,2.182,0.8,0.09,0.0,0.0,0.0,0.82,1.1,11,24,8,10,2,PHI
-42020,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.667,12,0.044,1.182,0.56,0.18,0.0,0.18,0.0,0.64,0.556,11,13,5,9,4,PHI
-42020,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.0,12,0.108,0.667,0.22,0.0,0.0,0.0,0.0,0.22,0.333,9,6,2,9,7,PHI
-42020,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.0,12,0.012,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1,0,0,0,0,PHI
-42020,201980,Danny Green,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.0,8,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
-42020,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.0,12,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,PHI
-42020,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.0,11,0.007,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,PHI

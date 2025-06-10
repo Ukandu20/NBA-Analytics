@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.976,4,0.469,1.8,0.857,0.267,0.0,0.267,0.2,0.867,0.857,15,27,12,14,2,BKN
-42022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,4,0.042,0.75,0.25,0.25,0.0,0.25,0.25,0.25,0.25,4,3,1,4,3,BKN
-42022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,4,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
-42022,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,2,0.167,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,BKN
-42022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,4,0.014,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,BKN

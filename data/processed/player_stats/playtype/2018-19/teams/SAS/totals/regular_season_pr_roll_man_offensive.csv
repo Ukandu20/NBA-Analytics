@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.375,81,0.194,1.006,0.496,0.079,0.066,0.075,0.019,0.494,0.505,318,320,138,278,140,SAS
-22018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.894,77,0.206,1.321,0.712,0.141,0.064,0.141,0.051,0.667,0.712,78,103,47,66,19,SAS
-22018,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.324,27,0.256,0.968,0.462,0.097,0.065,0.097,0.0,0.484,0.5,31,30,12,26,14,SAS
-22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.13,69,0.023,0.81,0.313,0.143,0.095,0.143,0.0,0.381,0.344,21,17,5,16,11,SAS
-22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.963,76,0.019,1.4,0.556,0.1,0.0,0.1,0.0,0.6,0.722,10,14,5,9,4,SAS
-22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.009,82,0.013,0.5,0.111,0.1,0.0,0.1,0.0,0.2,0.167,10,5,1,9,8,SAS

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,3,0.058,2.333,1.0,0.0,0.0,0.0,0.0,1.0,1.167,3,7,3,3,0,DAL
-42019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.069,1.0,0.429,0.0,0.0,0.0,0.0,0.429,0.5,7,7,3,7,4,DAL
-42019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.011,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,2,6,2,2,0,DAL
-42019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.032,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,DAL
-42019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.032,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,DAL
-42019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
-42019,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.0,6,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL

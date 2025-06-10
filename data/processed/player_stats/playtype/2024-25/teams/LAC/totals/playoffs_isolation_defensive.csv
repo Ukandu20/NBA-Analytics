@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,201935,James Harden,1610612746,LAC,LA Clippers,Isolation,Defensive,0.442,7,0.145,0.909,0.667,0.091,0.364,0.091,0.0,0.455,0.667,11,10,4,6,2,LAC
-42024,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Isolation,Defensive,0.827,7,0.173,0.667,0.3,0.042,0.125,0.042,0.0,0.292,0.35,24,16,6,20,14,LAC

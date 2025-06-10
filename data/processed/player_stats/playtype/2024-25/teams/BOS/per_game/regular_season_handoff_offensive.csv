@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.568,63,0.048,0.971,0.455,0.118,0.103,0.118,0.029,0.456,0.518,1.1,1.0,0.4,0.9,0.5,BOS
-22024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.766,76,0.047,1.091,0.429,0.055,0.055,0.055,0.0,0.436,0.561,0.7,0.8,0.3,0.6,0.4,BOS
-22024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.849,71,0.08,1.15,0.405,0.025,0.05,0.0,0.0,0.4,0.595,0.6,0.6,0.2,0.5,0.3,BOS
-22024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.91,72,0.018,1.212,0.483,0.061,0.091,0.061,0.03,0.455,0.638,0.5,0.6,0.2,0.4,0.2,BOS
-22024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.792,80,0.037,1.111,0.433,0.056,0.111,0.056,0.0,0.417,0.583,0.5,0.5,0.2,0.4,0.2,BOS
-22024,1631248,Baylor Scheierman,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.0,31,0.078,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.2,0.2,BOS

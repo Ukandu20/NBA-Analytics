@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.865,82,0.289,1.308,0.685,0.168,0.076,0.164,0.044,0.66,0.685,250,327,137,200,63,CLE
-22024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.989,50,0.057,1.64,0.565,0.04,0.04,0.04,0.0,0.56,0.826,25,41,13,23,10,CLE
-22024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.462,71,0.074,1.057,0.371,0.0,0.0,0.0,0.0,0.371,0.529,35,37,13,35,22,CLE
-22024,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.41,51,0.081,1.03,0.433,0.061,0.061,0.061,0.03,0.424,0.517,33,34,13,30,17,CLE
-22024,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.842,55,0.054,1.294,0.688,0.0,0.059,0.0,0.0,0.647,0.688,17,22,11,16,5,CLE
-22024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.166,71,0.015,0.833,0.333,0.083,0.042,0.083,0.0,0.375,0.405,24,20,7,21,14,CLE

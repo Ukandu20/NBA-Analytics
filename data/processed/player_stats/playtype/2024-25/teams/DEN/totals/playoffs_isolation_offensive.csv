@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.773,14,0.1,1.081,0.483,0.108,0.108,0.108,0.0,0.486,0.552,37,40,14,29,15,DEN
-42024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.068,14,0.132,0.595,0.314,0.024,0.143,0.024,0.0,0.286,0.329,42,25,11,35,24,DEN
-42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.886,14,0.061,1.231,0.7,0.077,0.154,0.077,0.0,0.615,0.75,13,16,7,10,3,DEN
-42024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.091,13,0.072,0.615,0.333,0.308,0.385,0.308,0.154,0.308,0.333,13,8,2,6,4,DEN

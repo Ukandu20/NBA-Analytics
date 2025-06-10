@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631245,Quenton Jackson,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.344,23,0.409,0.929,0.419,0.186,0.214,0.157,0.014,0.429,0.477,70,65,18,43,25,IND
-22024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.698,44,0.356,0.833,0.385,0.118,0.146,0.111,0.021,0.382,0.422,144,120,42,109,67,IND
-22024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.341,45,0.605,0.93,0.507,0.101,0.231,0.09,0.015,0.432,0.566,199,185,69,136,67,IND
-22024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.749,78,0.309,0.812,0.394,0.096,0.152,0.082,0.014,0.376,0.44,282,229,85,216,131,IND
-22024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.55,72,0.404,0.881,0.434,0.105,0.166,0.092,0.02,0.41,0.484,295,260,96,221,125,IND
-22024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Defensive,0.685,64,0.437,0.84,0.391,0.115,0.169,0.1,0.017,0.378,0.443,349,293,100,256,156,IND

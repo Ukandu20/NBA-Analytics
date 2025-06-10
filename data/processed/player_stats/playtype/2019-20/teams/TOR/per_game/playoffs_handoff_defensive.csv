@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,TOR
-42019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,6,0.061,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.2,0.2,TOR
-42019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.01,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,TOR
-42019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.056,0.286,0.17,0.14,0.0,0.0,0.0,0.14,0.17,0.6,0.0,0.1,0.5,0.5,TOR
-42019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.019,1.0,0.5,0.0,0.33,0.0,0.0,0.33,0.75,0.3,0.0,0.1,0.2,0.1,TOR
-42019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.019,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,0.3,0.0,0.2,0.3,0.1,TOR
-42019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,11,0.049,1.25,0.57,0.25,0.12,0.25,0.25,0.5,0.64,0.7,1.0,0.4,0.6,0.3,TOR

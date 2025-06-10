@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,6,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
-42020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.038,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,DAL
-42020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.024,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,DAL
-42020,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.111,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,DAL
-42020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.056,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,DAL
-42020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.016,1.0,1.0,0.5,0.0,0.5,0.0,0.5,1.0,2,2,1,1,0,DAL
-42020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.028,2.5,1.0,0.5,0.0,0.5,0.5,1.0,1.0,2,5,2,2,0,DAL
-42020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Postup,Defensive,0.0,7,0.072,0.857,0.33,0.14,0.0,0.14,0.0,0.43,0.33,7,6,2,6,4,DAL

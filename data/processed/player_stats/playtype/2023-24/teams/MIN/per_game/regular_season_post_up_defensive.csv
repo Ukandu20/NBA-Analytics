@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.79,79,0.029,0.833,0.412,0.167,0.125,0.167,0.0,0.458,0.412,0.3,0.3,0.1,0.2,0.1,MIN
-22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.672,81,0.044,0.897,0.478,0.172,0.103,0.172,0.069,0.483,0.478,0.4,0.3,0.1,0.3,0.1,MIN
-22023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.895,75,0.028,0.75,0.419,0.083,0.111,0.056,0.056,0.361,0.419,0.5,0.4,0.2,0.4,0.2,MIN
-22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.424,61,0.034,1.037,0.5,0.222,0.148,0.148,0.037,0.519,0.5,0.4,0.5,0.1,0.3,0.1,MIN
-22023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.149,76,0.046,1.167,0.68,0.067,0.1,0.067,0.0,0.6,0.68,0.4,0.5,0.2,0.3,0.1,MIN
-22023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.669,81,0.056,0.905,0.394,0.19,0.048,0.095,0.024,0.452,0.394,0.5,0.5,0.2,0.4,0.2,MIN
-22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.161,78,0.057,1.162,0.6,0.216,0.162,0.216,0.054,0.568,0.6,0.5,0.6,0.2,0.3,0.1,MIN
-22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.016,72,0.031,1.483,0.636,0.345,0.0,0.345,0.103,0.724,0.636,0.4,0.6,0.2,0.3,0.1,MIN

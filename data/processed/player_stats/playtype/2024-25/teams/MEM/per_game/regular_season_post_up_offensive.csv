@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.674,74,0.154,1.063,0.552,0.211,0.131,0.181,0.038,0.544,0.552,3.2,3.4,1.2,2.2,1.0,MEM
-22024,1641744,Zach Edey,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.632,66,0.159,1.055,0.549,0.187,0.11,0.176,0.077,0.505,0.549,1.4,1.5,0.6,1.1,0.5,MEM
-22024,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.909,50,0.013,1.25,0.615,0.188,0.063,0.188,0.063,0.625,0.615,0.3,0.4,0.2,0.3,0.1,MEM

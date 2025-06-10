@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,201565,Derrick Rose,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.413,5,0.583,0.893,0.457,0.054,0.125,0.054,0.018,0.411,0.489,56,50,21,46,25,NYK
-42020,1629628,RJ Barrett,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.778,5,0.189,1.071,0.364,0.214,0.0,0.214,0.0,0.5,0.455,14,15,4,11,7,NYK
-42020,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.323,5,0.429,0.833,0.5,0.167,0.333,0.167,0.056,0.389,0.6,18,15,5,10,5,NYK
-42020,202692,Alec Burks,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.302,5,0.254,0.824,0.308,0.176,0.059,0.118,0.0,0.412,0.346,17,14,4,13,9,NYK
-42020,203944,Julius Randle,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.206,5,0.137,0.778,0.462,0.0,0.278,0.0,0.0,0.333,0.538,18,14,6,13,7,NYK
-42020,203493,Reggie Bullock Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.0,5,0.067,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2,NYK
-42020,203901,Elfrid Payton,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.0,2,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,NYK

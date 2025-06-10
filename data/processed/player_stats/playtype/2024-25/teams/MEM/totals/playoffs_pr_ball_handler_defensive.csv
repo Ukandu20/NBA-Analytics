@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.224,3,0.385,1.1,0.556,0.0,0.1,0.0,0.0,0.5,0.611,10,11,5,9,4,MEM
-42024,1631246,Vince Williams Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.16,3,0.545,1.167,0.455,0.083,0.0,0.083,0.0,0.5,0.545,12,14,5,11,6,MEM
-42024,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.627,4,0.487,0.895,0.333,0.158,0.053,0.105,0.0,0.421,0.4,19,17,5,15,10,MEM
-42024,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.35,4,0.477,1.0,0.471,0.095,0.095,0.095,0.0,0.476,0.5,21,21,8,17,9,MEM
-42024,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.294,4,0.408,1.05,0.444,0.15,0.05,0.15,0.1,0.45,0.472,20,21,8,18,10,MEM
-42024,1641744,Zach Edey,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.762,4,0.708,0.794,0.367,0.059,0.059,0.059,0.0,0.382,0.383,34,27,11,30,19,MEM
-42024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Defensive,0.214,4,0.529,1.108,0.5,0.189,0.108,0.162,0.054,0.514,0.536,37,41,14,28,14,MEM

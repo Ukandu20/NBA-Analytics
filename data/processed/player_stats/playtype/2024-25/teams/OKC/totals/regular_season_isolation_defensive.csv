@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.71,44,0.026,0.8,0.3,0.0,0.0,0.0,0.0,0.3,0.4,10,8,3,10,7,OKC
-22024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.865,54,0.089,0.684,0.303,0.079,0.053,0.079,0.0,0.316,0.333,38,26,10,33,23,OKC
-22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.856,71,0.055,0.69,0.353,0.095,0.119,0.095,0.024,0.333,0.368,42,29,12,34,22,OKC
-22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.409,63,0.12,0.952,0.433,0.238,0.119,0.238,0.071,0.476,0.45,42,40,13,30,17,OKC
-22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.755,76,0.067,0.764,0.344,0.182,0.273,0.182,0.036,0.345,0.406,55,42,11,32,21,OKC
-22024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.843,68,0.089,0.696,0.306,0.13,0.174,0.116,0.014,0.333,0.337,69,48,15,49,34,OKC
-22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.039,76,0.076,1.275,0.632,0.216,0.137,0.196,0.098,0.569,0.671,51,65,24,38,14,OKC

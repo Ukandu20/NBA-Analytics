@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203083,Andre Drummond,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.263,25,0.263,0.816,0.438,0.176,0.147,0.169,0.029,0.434,0.438,136,111,42,96,54,CLE
-22020,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.63,51,0.093,1.0,0.514,0.232,0.125,0.196,0.018,0.554,0.514,56,56,19,37,18,CLE
-22020,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.225,25,0.158,0.796,0.41,0.082,0.143,0.041,0.02,0.388,0.41,49,39,16,39,23,CLE
-22020,201580,JaVale McGee,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.15,33,0.151,0.721,0.387,0.163,0.116,0.093,0.0,0.395,0.387,43,31,12,31,19,CLE
-22020,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.95,40,0.066,1.25,0.545,0.167,0.0,0.167,0.083,0.583,0.545,12,15,6,11,5,CLE
-22020,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.038,35,0.088,0.484,0.25,0.065,0.161,0.032,0.0,0.258,0.25,31,15,6,24,18,CLE

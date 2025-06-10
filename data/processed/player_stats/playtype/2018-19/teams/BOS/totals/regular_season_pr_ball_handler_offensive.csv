@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.857,67,0.294,0.986,0.478,0.072,0.113,0.061,0.011,0.451,0.53,443,437,175,366,191,BOS
-22018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.617,72,0.265,0.872,0.407,0.114,0.142,0.096,0.018,0.402,0.44,219,191,68,167,99,BOS
-22018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.711,79,0.15,0.91,0.442,0.063,0.09,0.058,0.016,0.429,0.472,189,172,72,163,91,BOS
-22018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.748,79,0.218,0.929,0.419,0.059,0.071,0.059,0.006,0.414,0.48,169,157,62,148,86,BOS
-22018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.492,80,0.195,0.815,0.402,0.096,0.233,0.075,0.027,0.349,0.466,146,119,41,102,61,BOS
-22018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.559,74,0.059,0.845,0.426,0.103,0.103,0.103,0.017,0.414,0.457,58,49,20,47,27,BOS
-22018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.48,75,0.047,0.809,0.349,0.085,0.043,0.043,0.043,0.362,0.395,47,38,15,43,28,BOS

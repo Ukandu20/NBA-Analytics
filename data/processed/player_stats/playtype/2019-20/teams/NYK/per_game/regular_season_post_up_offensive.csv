@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203944,Julius Randle,1610612752,NYK,New York Knicks,Postup,Offensive,0.529,64,0.151,0.922,0.475,0.191,0.152,0.167,0.034,0.485,0.475,3.2,2.9,1.0,2.2,1.2,NYK
-22019,1626171,Bobby Portis,1610612752,NYK,New York Knicks,Postup,Offensive,0.265,66,0.205,0.813,0.457,0.111,0.181,0.083,0.021,0.424,0.457,2.2,1.8,0.7,1.6,0.9,NYK
-22019,202694,Marcus Morris Sr.,1610612752,NYK,New York Knicks,Postup,Offensive,0.348,43,0.1,0.859,0.468,0.103,0.141,0.09,0.038,0.436,0.468,1.8,1.6,0.7,1.4,0.8,NYK
-22019,201959,Taj Gibson,1610612752,NYK,New York Knicks,Postup,Offensive,0.703,62,0.117,0.976,0.594,0.048,0.214,0.048,0.024,0.476,0.594,0.7,0.7,0.3,0.5,0.2,NYK
-22019,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Postup,Offensive,0.686,56,0.037,0.972,0.478,0.333,0.167,0.278,0.139,0.5,0.478,0.6,0.6,0.2,0.4,0.2,NYK

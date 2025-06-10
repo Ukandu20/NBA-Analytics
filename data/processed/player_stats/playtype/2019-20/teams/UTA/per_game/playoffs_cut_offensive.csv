@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Cut,Offensive,0.667,7,0.314,1.375,0.64,0.219,0.0,0.219,0.094,0.688,0.64,4.6,6.0,2.6,4.0,1.4,UTA
-42019,1628396,Tony Bradley,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.313,1.4,0.67,0.4,0.2,0.4,0.2,0.6,0.67,0.8,1.0,0.3,0.5,0.2,UTA
-42019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.3,0.3,0.0,UTA
-42019,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.021,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,UTA
-42019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.019,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.1,0.3,0.1,UTA
-42019,1629752,Juwan Morgan,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.063,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.0,0.0,0.0,0.0,UTA
-42019,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.021,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,UTA

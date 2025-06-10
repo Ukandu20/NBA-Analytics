@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.786,6,0.149,1.231,0.667,0.077,0.0,0.077,0.0,0.615,0.667,2.2,2.7,1.3,2.0,0.7,LAC

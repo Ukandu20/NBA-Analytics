@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.653,68,0.085,1.034,0.446,0.088,0.041,0.088,0.007,0.473,0.504,2.0,2.3,0.9,1.9,1.1,PHX
-22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.541,82,0.084,0.988,0.436,0.084,0.012,0.084,0.036,0.458,0.468,1.0,1.0,0.4,1.0,0.5,PHX
-22021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.936,69,0.093,1.288,0.521,0.019,0.058,0.019,0.0,0.5,0.667,1.0,1.0,0.4,0.7,0.3,PHX
-22021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.812,67,0.077,1.143,0.432,0.082,0.041,0.082,0.02,0.449,0.557,1.0,0.8,0.3,0.7,0.4,PHX
-22021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.279,66,0.096,0.836,0.35,0.045,0.06,0.045,0.0,0.358,0.425,1.0,0.8,0.3,0.9,0.6,PHX

@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631157,Ryan Rollins,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.383,51,0.055,1.063,0.4,0.0,0.063,0.0,0.0,0.375,0.567,16,17,6,15,9,MIL
-22024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.678,33,0.062,0.826,0.381,0.0,0.087,0.0,0.0,0.348,0.452,23,19,8,21,13,MIL
-22024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.692,68,0.073,0.82,0.356,0.02,0.08,0.02,0.0,0.34,0.444,50,41,16,45,29,MIL
-22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.051,80,0.061,1.405,0.529,0.143,0.095,0.143,0.048,0.524,0.735,42,59,18,34,16,MIL

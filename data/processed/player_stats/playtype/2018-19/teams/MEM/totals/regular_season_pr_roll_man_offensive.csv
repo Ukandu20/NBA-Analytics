@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.329,53,0.303,0.996,0.438,0.093,0.071,0.086,0.03,0.435,0.504,269,268,102,233,131,MEM
-22018,201149,Joakim Noah,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.484,42,0.284,1.056,0.479,0.211,0.022,0.2,0.022,0.567,0.479,90,95,34,71,37,MEM
-22018,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.394,58,0.113,1.023,0.463,0.182,0.08,0.159,0.023,0.5,0.493,88,90,31,67,36,MEM
-22018,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.75,19,0.165,1.21,0.63,0.065,0.065,0.048,0.0,0.613,0.63,62,75,34,54,20,MEM
-22018,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.519,49,0.183,1.078,0.535,0.137,0.059,0.137,0.039,0.549,0.547,51,55,23,43,20,MEM
-22018,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.759,41,0.068,1.214,0.5,0.036,0.071,0.036,0.036,0.464,0.635,28,34,13,26,13,MEM
-22018,203998,Bruno Caboclo,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.767,34,0.063,1.222,0.462,0.222,0.056,0.167,0.0,0.556,0.615,18,22,6,13,7,MEM
-22018,203092,Tyler Zeller,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.088,4,0.357,0.733,0.385,0.067,0.067,0.067,0.0,0.4,0.385,15,11,5,13,8,MEM

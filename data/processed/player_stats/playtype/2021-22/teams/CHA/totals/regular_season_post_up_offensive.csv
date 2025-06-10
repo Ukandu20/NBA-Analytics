@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.586,49,0.063,0.958,0.371,0.25,0.063,0.125,0.042,0.479,0.371,48,46,13,35,22,CHA
-22021,1626149,Montrezl Harrell,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.5,25,0.172,0.925,0.467,0.175,0.125,0.175,0.05,0.475,0.467,40,37,14,30,16,CHA
-22021,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.101,80,0.038,0.649,0.342,0.123,0.228,0.123,0.018,0.333,0.342,57,37,13,38,25,CHA
-22021,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.065,73,0.07,0.543,0.353,0.171,0.343,0.171,0.0,0.314,0.353,35,19,6,17,11,CHA
-22021,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.167,65,0.037,0.75,0.5,0.042,0.208,0.042,0.0,0.375,0.5,24,18,9,18,9,CHA

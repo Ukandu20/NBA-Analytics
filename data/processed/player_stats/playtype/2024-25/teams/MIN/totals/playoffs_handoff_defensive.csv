@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.917,15,0.067,0.364,0.2,0.0,0.091,0.0,0.0,0.182,0.2,11,4,2,10,8,MIN
-42024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Handoff,Defensive,0.667,15,0.043,0.6,0.222,0.0,0.1,0.0,0.0,0.2,0.333,10,6,2,9,7,MIN

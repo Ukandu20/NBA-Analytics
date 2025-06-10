@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.081,6,0.162,0.5,0.19,0.042,0.083,0.042,0.0,0.208,0.238,4.0,2.0,0.7,3.5,2.8,LAL
-42020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.514,5,0.115,0.9,0.333,0.3,0.1,0.3,0.0,0.5,0.333,2.0,1.8,0.4,1.2,0.8,LAL
-42020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.0,6,0.105,1.0,0.6,0.167,0.167,0.167,0.167,0.5,0.6,1.0,1.0,0.5,0.8,0.3,LAL
-42020,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.0,4,0.103,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,0.8,1.0,0.5,0.8,0.3,LAL
-42020,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.0,6,0.077,0.571,0.167,0.143,0.0,0.143,0.0,0.286,0.167,1.2,0.7,0.2,1.0,0.8,LAL
-42020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Isolation,Offensive,0.0,5,0.105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,LAL

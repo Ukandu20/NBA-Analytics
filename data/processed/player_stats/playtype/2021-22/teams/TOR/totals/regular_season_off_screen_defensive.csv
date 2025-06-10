@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1629004,Svi Mykhailiuk,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.898,56,0.057,0.667,0.222,0.17,0.08,0.17,0.0,0.33,0.222,12,8,2,9,7,TOR
-22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.745,73,0.021,0.8,0.364,0.07,0.2,0.07,0.0,0.33,0.455,15,12,4,11,7,TOR
-22021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.844,65,0.043,0.722,0.357,0.0,0.22,0.0,0.0,0.28,0.464,36,26,10,28,18,TOR
-22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.851,74,0.048,0.717,0.306,0.11,0.11,0.11,0.0,0.35,0.333,46,33,11,36,25,TOR
-22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.637,48,0.078,0.878,0.314,0.1,0.07,0.1,0.02,0.34,0.429,41,36,11,35,24,TOR
-22021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.582,70,0.077,0.902,0.368,0.12,0.14,0.1,0.0,0.39,0.474,51,46,14,38,24,TOR
-22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Defensive,0.037,69,0.052,1.435,0.558,0.07,0.02,0.04,0.02,0.57,0.721,46,66,24,43,19,TOR

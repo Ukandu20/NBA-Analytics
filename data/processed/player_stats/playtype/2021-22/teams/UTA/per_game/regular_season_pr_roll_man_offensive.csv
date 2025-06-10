@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.821,66,0.271,1.32,0.714,0.253,0.084,0.236,0.022,0.693,0.714,3.4,4.5,1.7,2.3,0.7,UTA
-22021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.891,65,0.205,1.394,0.701,0.213,0.032,0.213,0.064,0.702,0.701,1.4,2.0,0.8,1.2,0.4,UTA
-22021,1628962,Udoka Azubuike,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,1.0,17,0.308,1.8,0.889,0.2,0.0,0.15,0.1,0.9,0.889,1.2,2.1,0.9,1.1,0.1,UTA
-22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.843,58,0.091,1.333,0.619,0.185,0.074,0.185,0.037,0.63,0.714,0.5,0.6,0.2,0.4,0.1,UTA
-22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.406,55,0.069,1.031,0.407,0.094,0.063,0.094,0.0,0.438,0.5,0.6,0.6,0.2,0.5,0.3,UTA
-22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.09,77,0.061,0.818,0.37,0.091,0.091,0.061,0.0,0.394,0.407,0.4,0.4,0.1,0.4,0.2,UTA
-22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.134,69,0.024,0.857,0.348,0.143,0.107,0.143,0.071,0.357,0.391,0.4,0.3,0.1,0.3,0.2,UTA
-22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.074,79,0.015,0.789,0.333,0.053,0.053,0.053,0.053,0.316,0.389,0.2,0.2,0.1,0.2,0.2,UTA

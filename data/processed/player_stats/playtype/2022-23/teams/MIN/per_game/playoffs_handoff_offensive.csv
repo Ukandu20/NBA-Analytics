@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.057,1.125,0.571,0.0,0.125,0.0,0.0,0.5,0.643,1.6,1.8,0.8,1.4,0.6,MIN
-42022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.055,2.0,0.667,0.0,0.0,0.0,0.0,0.667,1.0,0.6,1.2,0.4,0.6,0.2,MIN
-42022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,3,0.036,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,MIN
-42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.041,0.75,0.333,0.25,0.25,0.25,0.25,0.25,0.333,0.8,0.6,0.2,0.6,0.4,MIN
-42022,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.025,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,MIN
-42022,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,MIN
-42022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.069,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,MIN
-42022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,5,0.049,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,MIN

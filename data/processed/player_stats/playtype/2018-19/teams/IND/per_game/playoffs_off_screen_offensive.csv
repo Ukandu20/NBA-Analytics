@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.905,4,0.203,1.267,0.5,0.133,0.067,0.067,0.0,0.533,0.625,4.0,4.8,1.5,3.0,1.5,IND
-42018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,4,0.128,0.6,0.0,0.2,0.0,0.2,0.0,0.2,0.0,1.0,0.8,0.0,1.0,1.0,IND
-42018,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.0,3,0.273,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,IND

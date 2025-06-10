@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,19,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,DEN
-42022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Defensive,1.0,20,0.045,0.357,0.18,0.0,0.21,0.0,0.0,0.14,0.23,1.0,0.0,1.0,1.0,0.0,DEN
-42022,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.933,20,0.046,0.5,0.12,0.17,0.25,0.17,0.08,0.17,0.12,1.0,0.0,0.0,0.0,0.0,DEN
-42022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,20,0.042,0.778,0.29,0.11,0.11,0.0,0.0,0.33,0.36,0.0,0.0,0.0,0.0,0.0,DEN
-42022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,20,0.069,1.111,0.5,0.11,0.0,0.11,0.0,0.56,0.56,0.0,0.0,0.0,0.0,0.0,DEN
-42022,201145,Jeff Green,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.0,20,0.068,1.333,0.56,0.0,0.0,0.0,0.0,0.56,0.67,0.0,1.0,0.0,0.0,0.0,DEN
-42022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.444,20,0.074,1.0,0.5,0.0,0.17,0.0,0.0,0.42,0.6,1.0,1.0,0.0,0.0,0.0,DEN

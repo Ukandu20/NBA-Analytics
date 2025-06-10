@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.32,56,0.267,0.852,0.457,0.165,0.152,0.148,0.03,0.448,0.457,230,196,75,164,89,POR
-22021,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.882,48,0.073,1.154,0.611,0.192,0.115,0.192,0.0,0.615,0.611,26,30,11,18,7,POR
-22021,1626204,Larry Nance Jr.,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.083,37,0.061,0.6,0.3,0.133,0.2,0.067,0.0,0.333,0.3,15,9,3,10,7,POR
-22021,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.059,22,0.055,0.533,0.214,0.067,0.0,0.067,0.0,0.267,0.214,15,8,3,14,11,POR

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.536,68,0.206,1.105,0.609,0.177,0.088,0.171,0.028,0.58,0.609,181,200,84,138,54,UTA
-22019,1628396,Tony Bradley,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.57,58,0.276,1.121,0.583,0.045,0.045,0.045,0.0,0.561,0.583,66,74,35,60,25,UTA
-22019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.712,69,0.018,1.2,0.652,0.133,0.1,0.1,0.0,0.633,0.652,30,36,15,23,8,UTA
-22019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.948,42,0.032,1.4,0.8,0.15,0.1,0.15,0.0,0.7,0.8,20,28,12,15,3,UTA
-22019,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.898,63,0.017,1.35,0.571,0.35,0.0,0.25,0.05,0.7,0.607,20,27,8,14,6,UTA
-22019,202334,Ed Davis,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.983,28,0.246,1.5,0.714,0.188,0.0,0.125,0.063,0.75,0.714,16,24,10,14,4,UTA

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.839,62,0.041,1.49,0.732,0.255,0.078,0.235,0.137,0.706,0.732,0.8,1.2,0.5,0.7,0.2,MIN
-22023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.325,79,0.095,1.232,0.667,0.089,0.107,0.089,0.054,0.607,0.667,0.7,0.9,0.4,0.6,0.2,MIN
-22023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.509,79,0.025,1.333,0.65,0.216,0.078,0.196,0.078,0.647,0.65,0.6,0.9,0.3,0.5,0.2,MIN
-22023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.147,81,0.045,1.087,0.645,0.217,0.152,0.196,0.043,0.587,0.645,0.6,0.6,0.2,0.4,0.1,MIN
-22023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.762,72,0.044,1.455,0.815,0.061,0.121,0.061,0.0,0.727,0.815,0.5,0.7,0.3,0.4,0.1,MIN

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1629013,Landry Shamet,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.944,6,0.5,0.583,0.3,0.0,0.167,0.0,0.0,0.25,0.35,2.0,1.2,0.5,1.7,1.2,NYK
-42024,1628404,Josh Hart,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.584,18,0.263,0.909,0.406,0.114,0.159,0.091,0.0,0.409,0.516,2.4,2.2,0.7,1.8,1.1,NYK
-42024,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.817,13,0.661,0.768,0.387,0.049,0.195,0.024,0.0,0.341,0.444,6.3,4.8,1.8,4.8,2.9,NYK
-42024,1630540,Miles McBride,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.128,17,0.478,1.2,0.565,0.073,0.109,0.055,0.018,0.527,0.641,3.2,3.9,1.5,2.7,1.2,NYK
-42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.619,18,0.462,0.898,0.457,0.028,0.12,0.019,0.0,0.417,0.505,6.0,5.4,2.3,5.1,2.8,NYK
-42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.54,18,0.569,0.919,0.441,0.074,0.142,0.068,0.014,0.405,0.513,8.2,7.6,2.9,6.6,3.7,NYK
-42024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.325,18,0.449,1.007,0.455,0.081,0.103,0.066,0.007,0.449,0.536,7.6,7.6,2.8,6.2,3.4,NYK
-42024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,PRBallHandler,Defensive,0.548,18,0.592,0.918,0.443,0.065,0.13,0.049,0.005,0.413,0.51,10.2,9.4,3.7,8.3,4.6,NYK

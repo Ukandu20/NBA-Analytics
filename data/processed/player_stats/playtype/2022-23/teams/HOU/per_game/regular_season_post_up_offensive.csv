@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Postup,Offensive,0.629,75,0.2,1.004,0.558,0.143,0.139,0.112,0.022,0.52,0.558,3.0,3.0,1.2,2.2,1.0,HOU
-22022,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Postup,Offensive,0.428,79,0.072,0.923,0.492,0.115,0.141,0.09,0.013,0.47,0.492,1.0,0.9,0.4,0.7,0.4,HOU
-22022,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Postup,Offensive,0.323,31,0.085,0.885,0.533,0.154,0.269,0.115,0.0,0.46,0.533,0.8,0.7,0.3,0.5,0.2,HOU
-22022,1629645,Kevin Porter Jr.,1610612745,HOU,Houston Rockets,Postup,Offensive,0.611,59,0.009,1.0,1.0,0.2,0.4,0.1,0.0,0.6,1.0,0.2,0.2,0.1,0.1,0.0,HOU
-22022,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Postup,Offensive,0.048,82,0.015,0.667,0.444,0.0,0.25,0.0,0.0,0.33,0.444,0.1,0.1,0.0,0.1,0.1,HOU

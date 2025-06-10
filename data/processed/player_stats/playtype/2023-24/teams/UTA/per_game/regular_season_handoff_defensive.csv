@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631323,Simone Fontecchio,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.906,50,0.068,0.64,0.318,0.04,0.08,0.04,0.0,0.32,0.341,0.5,0.3,0.1,0.4,0.3,UTA
-22023,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.877,55,0.037,0.667,0.316,0.042,0.167,0.042,0.0,0.292,0.395,0.4,0.3,0.1,0.3,0.2,UTA
-22023,1628381,John Collins,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.101,67,0.024,1.267,0.533,0.0,0.0,0.0,0.0,0.533,0.633,0.2,0.3,0.1,0.2,0.1,UTA
-22023,1627739,Kris Dunn,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.394,63,0.096,1.0,0.447,0.111,0.067,0.089,0.022,0.467,0.487,0.7,0.7,0.3,0.6,0.3,UTA
-22023,1641707,Taylor Hendricks,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.044,38,0.1,1.364,0.654,0.121,0.152,0.121,0.061,0.576,0.769,0.9,1.2,0.4,0.7,0.2,UTA
-22023,1641718,Keyonte George,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.886,74,0.101,0.658,0.258,0.041,0.055,0.041,0.0,0.274,0.318,1.0,0.6,0.2,0.9,0.7,UTA
-22023,1629012,Collin Sexton,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.319,78,0.085,1.039,0.457,0.039,0.059,0.039,0.0,0.451,0.554,0.7,0.7,0.3,0.6,0.3,UTA
-22023,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Handoff,Defensive,0.319,49,0.14,1.039,0.452,0.078,0.098,0.078,0.0,0.451,0.56,1.0,1.1,0.4,0.9,0.5,UTA

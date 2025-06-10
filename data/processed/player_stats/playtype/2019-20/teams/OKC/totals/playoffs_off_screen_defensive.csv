@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.0,7,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,OKC
-42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.0,7,0.026,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,OKC
-42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.0,7,0.065,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.38,4,3,1,4,3,OKC
-42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.0,7,0.104,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,5,3,1,5,4,OKC
-42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.0,7,0.07,0.625,0.29,0.0,0.12,0.0,0.0,0.25,0.36,8,5,2,7,5,OKC

@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.536,7,0.317,0.783,0.32,0.174,0.022,0.13,0.0,0.435,0.32,46,36,12,37,25,SAS
-42018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.889,7,0.086,1.0,0.4,0.231,0.0,0.231,0.0,0.538,0.4,13,13,4,10,6,SAS
-42018,202700,Donatas Motiejunas,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,5,0.182,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,SAS
-42018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,7,0.057,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,5,2,1,5,4,SAS

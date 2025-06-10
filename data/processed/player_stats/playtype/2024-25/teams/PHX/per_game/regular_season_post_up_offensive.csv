@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.34,62,0.081,0.899,0.413,0.176,0.109,0.168,0.059,0.437,0.413,1.9,1.7,0.6,1.5,0.9,PHX
-22024,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.958,75,0.027,1.367,0.629,0.327,0.082,0.265,0.122,0.653,0.629,0.7,0.9,0.3,0.5,0.2,PHX
-22024,203994,Jusuf Nurkić,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.243,25,0.154,0.846,0.444,0.231,0.128,0.205,0.051,0.462,0.444,1.6,1.3,0.5,1.1,0.6,PHX

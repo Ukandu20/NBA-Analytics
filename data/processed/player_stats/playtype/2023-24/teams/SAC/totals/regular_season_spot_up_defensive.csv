@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628426,Sasha Vezenkov,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.194,39,0.413,1.174,0.431,0.043,0.029,0.043,0.014,0.435,0.592,69,81,28,65,37,SAC
-22023,1630537,Chris Duarte,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.204,49,0.359,1.168,0.466,0.062,0.062,0.062,0.035,0.451,0.607,113,132,48,103,55,SAC
-22023,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.654,53,0.328,0.985,0.37,0.104,0.037,0.096,0.022,0.407,0.462,135,133,44,119,75,SAC
-22023,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.476,64,0.364,1.056,0.4,0.014,0.042,0.014,0.0,0.392,0.548,143,151,54,135,81,SAC
-22023,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.495,78,0.167,1.05,0.398,0.095,0.05,0.09,0.025,0.42,0.528,200,210,70,176,106,SAC
-22023,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.309,60,0.451,1.111,0.417,0.038,0.047,0.026,0.013,0.413,0.569,235,261,91,218,127,SAC
-22023,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Spotup,Defensive,0.445,73,0.436,1.067,0.401,0.05,0.062,0.042,0.012,0.399,0.548,404,431,146,364,218,SAC

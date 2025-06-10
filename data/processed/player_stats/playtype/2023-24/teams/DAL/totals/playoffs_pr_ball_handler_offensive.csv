@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.717,22,0.402,1.004,0.452,0.155,0.128,0.14,0.034,0.453,0.523,265,266,90,199,109,DAL
-42023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.566,22,0.283,0.963,0.466,0.044,0.104,0.044,0.007,0.43,0.522,135,130,54,116,62,DAL
-42023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.811,19,0.195,1.063,0.5,0.188,0.063,0.125,0.0,0.563,0.5,16,17,6,12,6,DAL

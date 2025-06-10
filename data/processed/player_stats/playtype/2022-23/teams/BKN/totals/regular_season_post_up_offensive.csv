@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.873,39,0.082,1.15,0.63,0.175,0.188,0.15,0.038,0.56,0.63,80,92,34,54,20,BKN
-22022,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.257,42,0.082,0.828,0.48,0.034,0.103,0.034,0.0,0.41,0.48,29,24,12,25,13,BKN
-22022,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.677,76,0.027,1.048,0.5,0.19,0.048,0.19,0.095,0.52,0.5,21,22,9,18,9,BKN
-22022,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.611,40,0.012,1.0,0.5,0.083,0.083,0.083,0.0,0.5,0.5,12,12,5,10,5,BKN
-22022,203933,T.J. Warren,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.367,27,0.043,0.9,0.5,0.1,0.2,0.1,0.1,0.4,0.5,10,9,4,8,4,BKN
-22022,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.006,49,0.072,0.529,0.286,0.176,0.059,0.118,0.059,0.29,0.286,17,9,4,14,10,BKN

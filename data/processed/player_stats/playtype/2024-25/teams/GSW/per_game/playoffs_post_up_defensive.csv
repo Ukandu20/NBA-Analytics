@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,202710,Jimmy Butler III,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.16,11,0.126,1.0,0.583,0.0,0.143,0.0,0.0,0.5,0.583,1.3,1.3,0.6,1.1,0.5,GSW
-42024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Defensive,0.519,12,0.152,0.842,0.4,0.105,0.105,0.105,0.0,0.421,0.4,1.6,1.3,0.5,1.3,0.8,GSW

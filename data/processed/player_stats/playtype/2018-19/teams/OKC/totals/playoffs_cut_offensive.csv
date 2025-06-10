@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,5,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,6,12,6,6,0,OKC
-42018,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,5,0.36,1.111,0.714,0.111,0.111,0.111,0.0,0.556,0.714,9,10,5,7,2,OKC
-42018,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,5,0.12,1.167,0.6,0.167,0.0,0.167,0.0,0.667,0.6,6,7,3,5,2,OKC
-42018,202693,Markieff Morris,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,5,0.045,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,OKC
-42018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,5,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,OKC

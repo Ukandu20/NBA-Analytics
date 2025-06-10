@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.786,58,0.095,1.063,0.51,0.238,0.15,0.175,0.025,0.538,0.51,80,85,26,51,25,SAC
-22020,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.219,43,0.126,0.792,0.475,0.052,0.182,0.052,0.0,0.403,0.475,77,61,28,59,31,SAC
-22020,202355,Hassan Whiteside,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.325,36,0.197,0.847,0.489,0.068,0.136,0.068,0.0,0.458,0.489,59,50,23,47,24,SAC
-22020,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.988,26,0.082,1.313,0.7,0.375,0.125,0.375,0.125,0.688,0.7,16,21,7,10,3,SAC
-22020,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.875,58,0.011,1.125,0.5,0.125,0.0,0.125,0.0,0.563,0.5,16,18,7,14,7,SAC
-22020,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.763,61,0.024,1.059,0.571,0.059,0.118,0.0,0.0,0.529,0.571,17,18,8,14,6,SAC
-22020,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.234,36,0.066,0.8,0.417,0.067,0.133,0.067,0.0,0.4,0.417,15,12,5,12,7,SAC

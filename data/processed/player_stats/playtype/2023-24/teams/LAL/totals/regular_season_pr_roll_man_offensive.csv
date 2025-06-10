@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.554,75,0.203,1.166,0.574,0.127,0.063,0.124,0.042,0.571,0.58,331,386,162,282,120,LAL
-22023,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.709,70,0.063,1.272,0.619,0.136,0.117,0.136,0.068,0.573,0.69,103,131,52,84,32,LAL
-22023,1629637,Jaxson Hayes,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.904,69,0.251,1.444,0.796,0.175,0.111,0.159,0.063,0.714,0.796,63,91,39,49,10,LAL
-22023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.41,67,0.063,1.061,0.5,0.204,0.082,0.204,0.061,0.531,0.526,49,52,19,38,19,LAL
-22023,1626174,Christian Wood,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.294,50,0.143,1.0,0.474,0.196,0.078,0.196,0.02,0.51,0.5,51,51,18,38,20,LAL
-22023,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.721,81,0.024,1.276,0.667,0.069,0.138,0.034,0.034,0.586,0.708,29,37,16,24,8,LAL
-22023,1627752,Taurean Prince,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.88,77,0.038,1.4,0.636,0.12,0.0,0.12,0.0,0.64,0.727,25,35,14,22,8,LAL
-22023,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.438,75,0.019,1.08,0.458,0.0,0.04,0.0,0.0,0.44,0.563,25,27,11,24,13,LAL

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,101150,Lou Williams,1610612746,LAC,LA Clippers,Isolation,Offensive,0.703,6,0.099,1.0,0.417,0.143,0.0,0.143,0.0,0.5,0.458,2.0,2.3,0.8,2.0,1.2,LAC
-42018,1628983,Shai Gilgeous-Alexander,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,6,0.107,0.625,0.286,0.0,0.125,0.0,0.0,0.25,0.357,1.0,0.8,0.3,1.2,0.8,LAC
-42018,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,6,0.133,0.278,0.063,0.056,0.056,0.056,0.0,0.111,0.094,3.0,0.8,0.2,2.7,2.5,LAC
-42018,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,6,0.033,1.5,0.5,0.5,0.0,0.5,0.5,0.5,0.5,0.0,0.5,0.2,0.3,0.2,LAC
-42018,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,6,0.02,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.3,0.2,0.2,0.0,LAC
-42018,201163,Wilson Chandler,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,4,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,LAC
-42018,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,2,0.4,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.5,LAC
-42018,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,6,0.061,0.0,0.0,0.2,0.6,0.2,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.2,LAC

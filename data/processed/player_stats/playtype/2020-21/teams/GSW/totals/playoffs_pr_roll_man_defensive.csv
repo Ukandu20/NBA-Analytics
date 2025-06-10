@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.0,2,0.029,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,GSW
-42020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.0,2,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,GSW
-42020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.0,2,0.077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,GSW
-42020,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.0,2,0.056,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,GSW
-42020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.0,2,0.031,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,GSW

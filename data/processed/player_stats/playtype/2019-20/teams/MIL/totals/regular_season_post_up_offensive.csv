@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.523,63,0.117,0.921,0.556,0.182,0.212,0.143,0.049,0.478,0.556,203,187,74,133,59,MIL
-22019,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.839,68,0.177,1.049,0.535,0.126,0.091,0.119,0.014,0.531,0.535,143,150,61,114,53,MIL
-22019,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.787,62,0.083,1.01,0.58,0.031,0.153,0.031,0.01,0.5,0.58,98,99,47,81,34,MIL
-22019,201577,Robin Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.6,66,0.201,0.948,0.576,0.104,0.156,0.065,0.026,0.506,0.576,77,73,34,59,25,MIL
-22019,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.283,67,0.022,0.818,0.333,0.182,0.0,0.182,0.0,0.455,0.333,11,9,3,9,6,MIL
-22019,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.039,63,0.036,0.571,0.2,0.143,0.143,0.071,0.0,0.286,0.2,14,8,2,10,8,MIL

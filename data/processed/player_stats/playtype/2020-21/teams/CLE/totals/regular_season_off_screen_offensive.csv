@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.643,54,0.063,1.062,0.455,0.062,0.092,0.046,0.0,0.446,0.545,65,69,25,55,30,CLE
-22020,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.757,60,0.041,1.153,0.571,0.119,0.085,0.102,0.034,0.559,0.592,59,68,28,49,21,CLE
-22020,1627752,Taurean Prince,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.316,29,0.096,0.867,0.292,0.1,0.1,0.1,0.0,0.333,0.417,30,26,7,24,17,CLE
-22020,1628422,Damyean Dotson,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.31,46,0.063,0.864,0.381,0.0,0.045,0.0,0.0,0.364,0.452,22,19,8,21,13,CLE
-22020,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.148,25,0.084,0.731,0.273,0.038,0.115,0.038,0.0,0.269,0.386,26,19,6,22,16,CLE
-22020,1629685,Dylan Windler,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.929,31,0.057,1.4,0.625,0.1,0.1,0.1,0.0,0.6,0.75,10,14,5,8,3,CLE
-22020,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.25,67,0.016,0.818,0.333,0.182,0.0,0.182,0.0,0.455,0.333,11,9,3,9,6,CLE

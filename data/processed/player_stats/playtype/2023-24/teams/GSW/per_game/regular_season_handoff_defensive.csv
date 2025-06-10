@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631218,Trayce Jackson-Davis,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.949,60,0.022,0.545,0.2,0.091,0.0,0.091,0.0,0.273,0.25,0.2,0.1,0.0,0.2,0.1,GSW
-22023,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.805,55,0.026,0.765,0.267,0.118,0.059,0.118,0.059,0.294,0.333,0.3,0.2,0.1,0.3,0.2,GSW
-22023,101108,Chris Paul,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.852,58,0.081,0.703,0.29,0.054,0.108,0.054,0.0,0.297,0.355,0.6,0.4,0.2,0.5,0.4,GSW
-22023,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.458,61,0.087,0.971,0.433,0.088,0.059,0.088,0.029,0.441,0.467,0.6,0.5,0.2,0.5,0.3,GSW
-22023,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.714,74,0.091,0.825,0.365,0.048,0.127,0.048,0.0,0.349,0.452,0.9,0.7,0.3,0.7,0.4,GSW
-22023,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.36,71,0.077,1.019,0.4,0.094,0.057,0.057,0.0,0.434,0.489,0.7,0.8,0.3,0.6,0.4,GSW
-22023,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.663,77,0.098,0.851,0.393,0.09,0.09,0.09,0.015,0.403,0.429,0.9,0.7,0.3,0.7,0.4,GSW
-22023,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Handoff,Defensive,0.148,71,0.08,1.164,0.467,0.127,0.073,0.127,0.018,0.491,0.556,0.8,0.9,0.3,0.6,0.3,GSW

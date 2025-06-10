@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Postup,Offensive,0.477,62,0.171,0.914,0.532,0.117,0.198,0.102,0.03,0.462,0.532,197,180,75,141,66,IND
-22019,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Offensive,0.561,62,0.148,0.936,0.477,0.136,0.118,0.127,0.055,0.455,0.477,110,103,42,88,46,IND
-22019,203933,T.J. Warren,1610612754,IND,Indiana Pacers,Postup,Offensive,0.155,67,0.029,0.735,0.393,0.088,0.147,0.088,0.059,0.353,0.393,34,25,11,28,17,IND

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.52,15,0.107,0.94,0.452,0.14,0.08,0.1,0.06,0.46,0.452,50,47,19,42,23,DAL
-42021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.32,18,0.046,0.882,0.385,0.18,0.06,0.18,0.0,0.47,0.385,17,15,5,13,8,DAL
-42021,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,18,0.047,1.167,0.667,0.33,0.17,0.17,0.0,0.67,0.667,6,7,2,3,1,DAL
-42021,1627737,Marquese Chriss,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,8,0.167,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2,4,0,0,0,DAL
-42021,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,3,1.0,0.667,0.25,0.17,0.17,0.17,0.0,0.33,0.25,6,4,1,4,3,DAL
-42021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,18,0.008,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0,DAL

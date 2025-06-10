@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Cut,Offensive,0.287,74,0.184,1.17,0.632,0.198,0.11,0.181,0.055,0.593,0.632,182,213,86,136,50,IND
-22018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.279,74,0.143,1.158,0.586,0.18,0.072,0.18,0.058,0.583,0.586,139,161,65,111,46,IND
-22018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Cut,Offensive,0.735,81,0.067,1.386,0.687,0.08,0.011,0.08,0.034,0.693,0.687,88,122,57,83,26,IND
-22018,203926,Doug McDermott,1610612754,IND,Indiana Pacers,Cut,Offensive,0.839,77,0.152,1.453,0.723,0.12,0.027,0.12,0.013,0.733,0.723,75,109,47,65,18,IND
-22018,201954,Darren Collison,1610612754,IND,Indiana Pacers,Cut,Offensive,0.343,76,0.028,1.208,0.565,0.083,0.0,0.083,0.042,0.583,0.565,24,29,13,23,10,IND
-22018,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Cut,Offensive,0.761,82,0.026,1.412,0.706,0.0,0.0,0.0,0.0,0.706,0.706,17,24,12,17,5,IND
-22018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,Cut,Offensive,0.243,69,0.025,1.143,0.529,0.238,0.048,0.238,0.095,0.571,0.529,21,24,9,17,8,IND
-22018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,Cut,Offensive,0.298,23,0.065,1.176,0.667,0.118,0.176,0.118,0.0,0.588,0.667,17,20,8,12,4,IND

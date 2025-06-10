@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.596,19,0.233,1.196,0.658,0.147,0.108,0.137,0.029,0.598,0.684,102,122,52,79,27,BOS
-42023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Transition,Offensive,0.652,19,0.136,1.246,0.596,0.185,0.092,0.169,0.0,0.6,0.638,65,81,28,47,19,BOS
-42023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Transition,Offensive,0.562,19,0.168,1.179,0.559,0.026,0.103,0.0,0.0,0.513,0.662,39,46,19,34,15,BOS
-42023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Transition,Offensive,0.247,19,0.165,0.956,0.378,0.111,0.067,0.089,0.0,0.422,0.459,45,43,14,37,23,BOS
-42023,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.674,19,0.168,1.269,0.542,0.0,0.077,0.0,0.0,0.5,0.688,26,33,13,24,11,BOS
-42023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Transition,Offensive,0.64,19,0.208,1.231,0.542,0.0,0.077,0.0,0.0,0.5,0.667,26,32,13,24,11,BOS
-42023,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Transition,Offensive,0.989,19,0.202,1.556,0.563,0.056,0.056,0.056,0.0,0.556,0.813,18,28,9,16,7,BOS

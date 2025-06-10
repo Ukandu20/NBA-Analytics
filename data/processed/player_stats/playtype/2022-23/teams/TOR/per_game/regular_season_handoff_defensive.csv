@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1630201,Malachi Flynn,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.974,53,0.065,0.5,0.25,0.14,0.357,0.14,0.07,0.214,0.25,0.3,0.1,0.0,0.2,0.1,TOR
-22022,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.991,76,0.057,0.346,0.17,0.04,0.269,0.04,0.0,0.154,0.19,0.3,0.1,0.0,0.2,0.2,TOR
-22022,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.0,55,0.027,1.75,0.73,0.08,0.083,0.08,0.08,0.667,0.91,0.2,0.4,0.1,0.2,0.1,TOR
-22022,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.708,71,0.041,0.853,0.38,0.09,0.059,0.09,0.0,0.412,0.43,0.5,0.4,0.2,0.4,0.3,TOR
-22022,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.793,66,0.085,0.791,0.41,0.07,0.186,0.07,0.0,0.372,0.47,0.7,0.5,0.2,0.5,0.3,TOR
-22022,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.793,77,0.045,0.791,0.33,0.07,0.163,0.07,0.0,0.326,0.42,0.6,0.4,0.1,0.4,0.3,TOR
-22022,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.309,69,0.044,1.05,0.56,0.05,0.175,0.05,0.02,0.475,0.61,0.6,0.6,0.3,0.5,0.2,TOR
-22022,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Defensive,0.704,67,0.072,0.857,0.36,0.05,0.071,0.04,0.02,0.357,0.44,0.8,0.7,0.3,0.7,0.5,TOR

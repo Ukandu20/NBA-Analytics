@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.624,76,0.406,1.08,0.437,0.028,0.06,0.026,0.006,0.423,0.565,352,380,141,323,182,CHI
-22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.403,79,0.189,0.997,0.394,0.07,0.03,0.067,0.015,0.415,0.487,330,329,119,302,183,CHI
-22023,1628975,Jevon Carter,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.299,72,0.502,0.936,0.36,0.01,0.025,0.01,0.005,0.355,0.477,203,190,71,197,126,CHI
-22023,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.515,25,0.168,1.038,0.448,0.025,0.127,0.025,0.0,0.405,0.582,79,82,30,67,37,CHI
-22023,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.16,59,0.464,0.835,0.349,0.052,0.093,0.041,0.0,0.351,0.446,97,81,29,83,54,CHI
-22023,1641931,Onuralp Bitim,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.115,23,0.547,0.788,0.34,0.0,0.096,0.0,0.0,0.308,0.436,52,41,16,47,31,CHI
-22023,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.491,10,0.414,1.028,0.406,0.056,0.056,0.056,0.0,0.417,0.531,36,37,13,32,19,CHI

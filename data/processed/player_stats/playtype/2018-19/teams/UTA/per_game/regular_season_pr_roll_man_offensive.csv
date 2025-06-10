@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.931,81,0.253,1.349,0.709,0.283,0.063,0.268,0.07,0.691,0.709,3.4,4.5,1.7,2.4,0.7,UTA
-22018,202324,Derrick Favors,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.718,76,0.27,1.193,0.595,0.197,0.05,0.188,0.041,0.619,0.595,2.9,3.4,1.4,2.3,0.9,UTA
-22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.264,80,0.03,0.931,0.409,0.138,0.138,0.138,0.034,0.414,0.5,0.4,0.3,0.1,0.3,0.2,UTA

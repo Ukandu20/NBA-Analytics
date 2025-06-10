@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.756,70,0.224,1.222,0.575,0.12,0.062,0.12,0.029,0.575,0.629,275,336,134,233,99,SAC
-22024,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.211,69,0.148,0.881,0.305,0.09,0.03,0.09,0.0,0.358,0.407,67,59,18,59,41,SAC
-22024,202685,Jonas Valančiūnas,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.282,32,0.163,0.93,0.486,0.047,0.093,0.047,0.0,0.465,0.5,43,40,18,37,19,SAC
-22024,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.595,80,0.025,1.143,0.429,0.0,0.0,0.0,0.0,0.429,0.571,14,16,6,14,8,SAC
-22024,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.197,65,0.014,0.875,0.333,0.063,0.063,0.063,0.063,0.313,0.433,16,14,5,15,10,SAC
-22024,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.06,76,0.018,0.688,0.313,0.0,0.0,0.0,0.0,0.313,0.344,16,11,5,16,11,SAC
-22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.237,32,0.017,0.909,0.444,0.0,0.182,0.0,0.0,0.364,0.556,11,10,4,9,5,SAC

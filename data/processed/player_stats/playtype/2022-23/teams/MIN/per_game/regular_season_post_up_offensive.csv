@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.707,70,0.099,1.062,0.658,0.395,0.185,0.296,0.049,0.6,0.658,1.2,1.2,0.4,0.5,0.2,MIN
-22022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.503,29,0.111,0.953,0.488,0.188,0.172,0.125,0.0,0.5,0.488,2.2,2.1,0.7,1.4,0.7,MIN
-22022,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.24,69,0.073,0.811,0.486,0.113,0.226,0.094,0.038,0.4,0.486,0.8,0.6,0.3,0.5,0.3,MIN
-22022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.449,79,0.017,0.939,0.48,0.212,0.091,0.242,0.091,0.45,0.48,0.4,0.4,0.2,0.3,0.2,MIN
-22022,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.0,79,0.014,0.333,0.1,0.167,0.0,0.167,0.0,0.17,0.1,0.2,0.1,0.0,0.1,0.1,MIN

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.65,61,0.097,0.977,0.427,0.045,0.114,0.045,0.011,0.398,0.527,88,86,32,75,43,SAC
-22019,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.545,72,0.062,0.93,0.417,0.035,0.14,0.035,0.012,0.372,0.521,86,80,30,72,42,SAC
-22019,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.634,51,0.035,0.974,0.417,0.103,0.026,0.103,0.051,0.436,0.472,39,38,15,36,21,SAC
-22019,1627812,Yogi Ferrell,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.949,50,0.047,1.273,0.545,0.0,0.0,0.0,0.0,0.545,0.636,11,14,6,11,5,SAC
-22019,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.687,72,0.013,1.0,0.364,0.154,0.0,0.077,0.0,0.462,0.409,13,13,4,11,7,SAC
-22019,202709,Cory Joseph,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.152,72,0.033,0.647,0.308,0.059,0.176,0.0,0.0,0.294,0.346,17,11,4,13,9,SAC

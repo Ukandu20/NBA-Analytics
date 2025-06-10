@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.533,15,0.059,1.091,0.529,0.182,0.091,0.182,0.045,0.545,0.559,1.5,1.6,0.6,1.1,0.5,MIN
-42024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.267,15,0.107,0.765,0.417,0.0,0.294,0.0,0.0,0.294,0.542,1.1,0.9,0.3,0.8,0.5,MIN

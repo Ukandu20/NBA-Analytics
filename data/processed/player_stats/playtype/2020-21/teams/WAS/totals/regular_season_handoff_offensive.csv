@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.594,60,0.087,0.993,0.471,0.125,0.132,0.118,0.059,0.441,0.512,152,151,57,121,64,WAS
-22020,1629726,Garrison Mathews,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.975,64,0.111,1.419,0.391,0.258,0.0,0.161,0.0,0.548,0.543,31,44,9,23,14,WAS
-22020,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.401,57,0.044,0.875,0.318,0.042,0.083,0.042,0.042,0.292,0.477,24,21,7,22,15,WAS
-22020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.053,65,0.018,0.484,0.207,0.0,0.065,0.0,0.0,0.194,0.259,31,15,6,29,23,WAS
-22020,203526,Raul Neto,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.624,64,0.026,1.0,0.417,0.143,0.0,0.143,0.0,0.5,0.417,14,14,5,12,7,WAS

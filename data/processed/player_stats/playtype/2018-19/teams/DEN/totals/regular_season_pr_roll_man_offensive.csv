@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.389,80,0.141,1.018,0.457,0.062,0.08,0.058,0.022,0.442,0.525,226,230,91,199,108,DEN
-22018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.968,82,0.166,1.404,0.761,0.147,0.055,0.147,0.046,0.725,0.761,109,153,70,92,22,DEN
-22018,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.042,64,0.177,0.624,0.276,0.028,0.073,0.028,0.0,0.275,0.316,109,68,27,98,71,DEN
-22018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.472,70,0.044,1.053,0.419,0.105,0.105,0.105,0.026,0.421,0.548,38,40,13,31,18,DEN
-22018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.944,75,0.02,1.393,0.739,0.036,0.143,0.036,0.0,0.643,0.826,28,39,17,23,6,DEN
-22018,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.154,70,0.036,0.857,0.385,0.0,0.071,0.0,0.0,0.357,0.462,14,12,5,13,8,DEN

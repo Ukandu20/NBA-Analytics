@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.865,75,0.24,1.111,0.485,0.193,0.063,0.158,0.035,0.531,0.519,6.1,6.8,2.3,4.8,2.5,OKC
-22023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.5,71,0.098,0.924,0.459,0.059,0.126,0.042,0.008,0.42,0.505,1.7,1.5,0.6,1.4,0.7,OKC
-22023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.799,82,0.048,1.069,0.561,0.172,0.155,0.138,0.034,0.534,0.561,0.7,0.8,0.3,0.5,0.2,OKC
-22023,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.266,80,0.045,0.771,0.371,0.146,0.167,0.146,0.042,0.375,0.4,0.6,0.5,0.2,0.4,0.3,OKC
-22023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.075,82,0.022,0.545,0.2,0.091,0.0,0.091,0.0,0.273,0.2,0.1,0.1,0.0,0.1,0.1,OKC
-22023,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,79,0.013,0.2,0.143,0.0,0.3,0.0,0.0,0.1,0.143,0.1,0.0,0.0,0.1,0.1,OKC

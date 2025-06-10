@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.413,14,0.375,0.85,0.379,0.071,0.088,0.053,0.0,0.389,0.421,8.1,6.9,2.6,6.8,4.2,DEN
-42018,203115,Will Barton,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.556,14,0.28,0.889,0.444,0.111,0.089,0.089,0.0,0.444,0.472,3.2,2.9,1.1,2.6,1.4,DEN
-42018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.222,14,0.464,0.711,0.366,0.044,0.044,0.022,0.0,0.378,0.366,3.2,2.3,1.1,2.9,1.9,DEN
-42018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,1.0,14,0.036,1.75,1.0,0.25,0.25,0.167,0.0,0.75,1.25,0.9,1.5,0.4,0.4,0.0,DEN
-42018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.516,14,0.092,0.882,0.429,0.118,0.118,0.118,0.059,0.412,0.429,1.2,1.1,0.4,1.0,0.6,DEN
-42018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.032,14,0.089,0.5,0.25,0.0,0.2,0.0,0.0,0.2,0.313,0.7,0.4,0.1,0.6,0.4,DEN
-42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.0,14,0.04,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,0.6,0.3,0.1,0.4,0.3,DEN
-42018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.0,14,0.024,1.5,1.0,0.5,0.0,0.0,0.0,1.0,1.0,0.1,0.2,0.1,0.1,0.0,DEN

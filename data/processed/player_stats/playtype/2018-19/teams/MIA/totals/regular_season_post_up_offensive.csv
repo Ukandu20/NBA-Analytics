@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Postup,Offensive,0.181,72,0.157,0.73,0.417,0.131,0.109,0.095,0.036,0.365,0.417,137,100,45,108,63,MIA
-22018,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Postup,Offensive,0.404,72,0.073,0.889,0.434,0.122,0.067,0.111,0.033,0.456,0.434,90,80,33,76,43,MIA
-22018,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Postup,Offensive,0.907,79,0.076,1.14,0.686,0.228,0.228,0.158,0.07,0.561,0.686,57,65,24,35,11,MIA
-22018,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.358,82,0.072,0.863,0.457,0.157,0.176,0.137,0.02,0.431,0.457,51,44,16,35,19,MIA
-22018,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Postup,Offensive,0.677,73,0.011,1.0,0.583,0.0,0.143,0.0,0.0,0.5,0.583,14,14,7,12,5,MIA
-22018,201949,James Johnson,1610612748,MIA,Miami Heat,Postup,Offensive,0.098,55,0.027,0.615,0.364,0.0,0.154,0.0,0.0,0.308,0.364,13,8,4,11,7,MIA
-22018,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Postup,Offensive,0.153,66,0.01,0.7,0.429,0.1,0.2,0.1,0.0,0.4,0.429,10,7,3,7,4,MIA

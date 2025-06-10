@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Postup,Offensive,0.96,57,0.19,1.297,0.623,0.286,0.114,0.249,0.059,0.638,0.623,185,240,76,122,46,BOS
-22023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.768,73,0.103,1.092,0.524,0.201,0.06,0.19,0.049,0.554,0.524,184,201,76,145,69,BOS
-22023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.675,69,0.091,1.051,0.56,0.138,0.109,0.13,0.036,0.529,0.56,138,145,61,109,48,BOS
-22023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Postup,Offensive,0.497,68,0.077,0.984,0.574,0.078,0.203,0.078,0.016,0.484,0.574,64,63,27,47,20,BOS
-22023,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.927,64,0.095,1.244,0.618,0.178,0.089,0.178,0.022,0.622,0.618,45,56,21,34,13,BOS
-22023,1630214,Xavier Tillman,1610612738,BOS,Boston Celtics,Postup,Offensive,1.0,20,0.135,1.6,0.778,0.1,0.0,0.1,0.0,0.8,0.778,10,16,7,9,2,BOS
-22023,1629674,Neemias Queta,1610612738,BOS,Boston Celtics,Postup,Offensive,0.02,28,0.077,0.6,0.25,0.2,0.0,0.2,0.0,0.4,0.25,10,6,2,8,6,BOS

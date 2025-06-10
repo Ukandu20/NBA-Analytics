@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Cut,Offensive,0.825,6,0.258,1.625,0.889,0.5,0.0,0.5,0.063,0.813,0.889,16,26,8,9,1,UTA
-42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.029,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,3,4,2,3,1,UTA
-42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.026,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,UTA
-42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.022,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,UTA
-42021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.286,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,UTA
-42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.024,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,1,0,3,3,UTA
-42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,6,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,UTA

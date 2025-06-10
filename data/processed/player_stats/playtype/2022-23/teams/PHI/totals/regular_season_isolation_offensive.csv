@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.803,66,0.23,1.071,0.502,0.191,0.097,0.182,0.037,0.53,0.509,434,465,163,325,162,PHI
-22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.839,58,0.303,1.101,0.408,0.207,0.067,0.201,0.047,0.466,0.491,358,394,113,277,164,PHI
-22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.705,74,0.077,1.013,0.492,0.092,0.118,0.092,0.013,0.474,0.533,76,77,30,61,31,PHI
-22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.484,60,0.073,0.886,0.379,0.076,0.089,0.076,0.0,0.392,0.447,79,70,25,66,41,PHI
-22022,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.858,76,0.04,1.115,0.526,0.192,0.115,0.115,0.038,0.538,0.553,26,29,10,19,9,PHI
-22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.123,77,0.037,0.655,0.296,0.0,0.069,0.0,0.0,0.276,0.352,29,19,8,27,19,PHI

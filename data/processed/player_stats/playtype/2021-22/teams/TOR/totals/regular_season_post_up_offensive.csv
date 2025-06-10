@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.467,68,0.083,0.915,0.515,0.146,0.154,0.138,0.046,0.477,0.515,130,119,50,97,47,TOR
-22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.462,74,0.101,0.915,0.49,0.103,0.137,0.094,0.06,0.444,0.49,117,107,47,96,49,TOR
-22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.296,48,0.113,0.84,0.437,0.117,0.138,0.074,0.011,0.436,0.437,94,79,31,71,40,TOR
-22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.367,73,0.047,0.886,0.5,0.143,0.143,0.143,0.029,0.457,0.5,35,31,13,26,13,TOR

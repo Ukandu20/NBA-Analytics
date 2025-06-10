@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.784,61,0.046,1.089,0.5,0.179,0.089,0.179,0.018,0.536,0.512,56,61,21,42,21,SAS
-22020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.806,69,0.062,1.111,0.514,0.241,0.13,0.222,0.056,0.537,0.541,54,60,19,37,18,SAS
-22020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.587,60,0.078,0.982,0.44,0.055,0.036,0.036,0.0,0.455,0.49,55,54,22,50,28,SAS
-22020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.284,68,0.085,0.8,0.339,0.0,0.067,0.0,0.0,0.317,0.429,60,48,19,56,37,SAS
-22020,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.862,36,0.064,1.171,0.563,0.057,0.086,0.057,0.057,0.514,0.609,35,41,18,32,14,SAS
-22020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.876,63,0.034,1.2,0.478,0.08,0.0,0.08,0.0,0.52,0.565,25,30,11,23,12,SAS
-22020,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.686,62,0.081,1.036,0.48,0.071,0.036,0.071,0.0,0.5,0.54,28,29,12,25,13,SAS
-22020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.152,67,0.03,0.647,0.355,0.0,0.088,0.0,0.0,0.324,0.355,34,22,11,31,20,SAS

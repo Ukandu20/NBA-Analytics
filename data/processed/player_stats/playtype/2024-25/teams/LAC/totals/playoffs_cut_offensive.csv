@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Cut,Offensive,0.132,7,0.292,1.032,0.519,0.129,0.032,0.129,0.032,0.516,0.519,31,32,14,27,13,LAC
-42024,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Cut,Offensive,0.579,7,0.072,1.273,0.5,0.364,0.0,0.364,0.091,0.636,0.5,11,14,4,8,4,LAC

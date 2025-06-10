@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.172,12,0.092,0.765,0.429,0.059,0.118,0.059,0.0,0.412,0.429,17,13,6,14,8,CLE

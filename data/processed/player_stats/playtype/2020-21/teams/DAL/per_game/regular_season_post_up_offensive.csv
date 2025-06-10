@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.588,44,0.204,0.981,0.492,0.154,0.117,0.154,0.037,0.494,0.492,3.7,3.6,1.4,2.8,1.4,DAL
-22020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.838,66,0.066,1.092,0.558,0.208,0.108,0.175,0.033,0.558,0.558,1.8,2.0,0.7,1.3,0.6,DAL

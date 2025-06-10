@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631260,AJ Green,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.948,73,0.39,1.292,0.447,0.011,0.027,0.011,0.005,0.438,0.656,185,239,80,179,99,MIL
-22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.256,49,0.202,0.92,0.357,0.014,0.058,0.014,0.007,0.341,0.488,138,127,46,129,83,MIL
-22024,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.738,41,0.336,1.139,0.456,0.042,0.028,0.042,0.014,0.458,0.574,72,82,31,68,37,MIL
-22024,1641748,Andre Jackson Jr.,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.117,67,0.313,0.831,0.312,0.024,0.06,0.024,0.012,0.301,0.442,83,69,24,77,53,MIL
-22024,1626153,Delon Wright,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.312,26,0.377,0.95,0.325,0.0,0.0,0.0,0.0,0.325,0.475,40,38,13,40,27,MIL
-22024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.363,30,0.101,0.971,0.379,0.059,0.118,0.059,0.029,0.353,0.517,34,33,11,29,18,MIL

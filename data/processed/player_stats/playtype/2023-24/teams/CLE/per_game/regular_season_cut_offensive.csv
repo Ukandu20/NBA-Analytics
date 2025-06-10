@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.469,77,0.337,1.321,0.656,0.142,0.038,0.137,0.025,0.66,0.656,4.7,6.3,2.6,4.0,1.4,CLE
-22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.747,50,0.264,1.444,0.745,0.18,0.063,0.164,0.053,0.725,0.745,3.8,5.5,2.3,3.1,0.8,CLE
-22023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.597,70,0.068,1.367,0.673,0.083,0.033,0.083,0.033,0.667,0.673,0.9,1.2,0.5,0.8,0.3,CLE
-22023,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.77,69,0.059,1.457,0.7,0.2,0.029,0.2,0.086,0.714,0.7,0.5,0.7,0.3,0.4,0.1,CLE
-22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.918,82,0.04,1.552,0.778,0.069,0.034,0.069,0.034,0.759,0.778,0.4,0.5,0.3,0.3,0.1,CLE
-22023,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.182,68,0.037,1.132,0.533,0.184,0.079,0.184,0.053,0.553,0.533,0.6,0.6,0.2,0.4,0.2,CLE
-22023,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.91,51,0.037,1.545,0.889,0.091,0.091,0.091,0.0,0.818,0.889,0.2,0.3,0.2,0.2,0.0,CLE
-22023,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.202,57,0.013,1.143,0.583,0.071,0.071,0.071,0.0,0.571,0.583,0.2,0.3,0.1,0.2,0.1,CLE

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.359,58,0.244,1.013,0.5,0.155,0.077,0.155,0.058,0.51,0.516,155,157,64,128,64,CHA
-22019,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.295,58,0.19,0.979,0.435,0.135,0.078,0.128,0.028,0.454,0.483,141,138,50,115,65,CHA
-22019,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.263,53,0.249,0.949,0.474,0.184,0.071,0.163,0.031,0.49,0.474,98,93,36,76,40,CHA
-22019,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.322,31,0.197,1.0,0.567,0.077,0.154,0.077,0.0,0.487,0.6,39,39,17,30,13,CHA
-22019,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.088,65,0.059,0.717,0.283,0.094,0.057,0.075,0.019,0.321,0.337,53,38,13,46,33,CHA
-22019,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.401,41,0.125,1.031,0.467,0.0,0.063,0.0,0.0,0.438,0.55,32,33,14,30,16,CHA
-22019,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.931,63,0.01,1.455,0.6,0.0,0.091,0.0,0.0,0.545,0.8,11,16,6,10,4,CHA
-22019,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.032,55,0.02,0.583,0.25,0.083,0.0,0.083,0.083,0.25,0.292,12,7,3,12,9,CHA

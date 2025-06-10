@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.623,72,0.126,0.979,0.459,0.235,0.107,0.202,0.041,0.494,0.471,243,238,78,170,92,MIL
-22023,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.57,72,0.139,0.961,0.389,0.183,0.087,0.161,0.03,0.443,0.44,230,221,68,175,107,MIL
-22023,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.877,54,0.097,1.128,0.522,0.077,0.09,0.077,0.026,0.5,0.59,78,88,35,67,32,MIL
-22023,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.176,81,0.05,0.679,0.367,0.0,0.075,0.0,0.0,0.34,0.367,53,36,18,49,31,MIL
-22023,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.677,78,0.019,1.0,0.538,0.059,0.176,0.059,0.0,0.471,0.577,17,17,7,13,6,MIL
-22023,201976,Patrick Beverley,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.677,26,0.066,1.0,0.4,0.091,0.0,0.091,0.0,0.455,0.45,11,11,4,10,6,MIL
-22023,1627736,Malik Beasley,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.033,78,0.015,0.417,0.182,0.0,0.083,0.0,0.0,0.167,0.227,12,5,2,11,9,MIL

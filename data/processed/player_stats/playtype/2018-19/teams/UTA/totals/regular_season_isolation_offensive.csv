@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.519,77,0.081,0.853,0.357,0.109,0.083,0.09,0.0,0.391,0.409,156,133,45,126,81,UTA
-22018,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.74,82,0.032,0.971,0.444,0.029,0.176,0.0,0.0,0.382,0.574,34,33,12,27,15,UTA
-22018,203957,Danté Exum,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.545,42,0.09,0.867,0.368,0.233,0.167,0.23,0.033,0.433,0.395,30,26,7,19,12,UTA
-22018,203526,Raul Neto,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.801,37,0.062,1.0,0.455,0.077,0.077,0.08,0.0,0.462,0.5,13,13,5,11,6,UTA
-22018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.229,68,0.016,0.688,0.286,0.063,0.063,0.06,0.0,0.313,0.321,16,11,4,14,10,UTA
-22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.127,80,0.01,0.6,0.222,0.1,0.1,0.1,0.1,0.2,0.333,10,6,2,9,7,UTA

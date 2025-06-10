@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.938,63,0.029,0.6,0.23,0.07,0.067,0.07,0.0,0.27,0.27,15,9,3,13,10,SAS
-22020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.679,68,0.068,0.875,0.38,0.05,0.1,0.05,0.0,0.38,0.46,40,35,13,34,21,SAS
-22020,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.353,36,0.072,1.088,0.45,0.06,0.029,0.06,0.0,0.47,0.53,34,37,14,31,17,SAS
-22020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.459,61,0.087,1.0,0.38,0.05,0.025,0.05,0.0,0.4,0.49,40,40,14,37,23,SAS
-22020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.293,67,0.058,1.114,0.42,0.05,0.068,0.02,0.02,0.41,0.58,44,49,17,40,23,SAS
-22020,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.061,62,0.111,1.351,0.53,0.08,0.054,0.08,0.0,0.54,0.7,37,50,17,32,15,SAS
-22020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.337,60,0.098,1.094,0.47,0.11,0.057,0.09,0.02,0.47,0.57,53,58,21,45,24,SAS
-22020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,OffScreen,Defensive,0.301,69,0.076,1.113,0.49,0.04,0.0,0.04,0.0,0.51,0.56,53,59,25,51,26,SAS

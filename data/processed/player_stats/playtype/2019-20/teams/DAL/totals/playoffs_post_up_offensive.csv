@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,Postup,Offensive,1.0,6,0.389,1.214,0.636,0.143,0.071,0.143,0.0,0.64,0.636,14,17,7,11,4,DAL
-42019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,6,0.011,1.5,1.0,1.0,0.0,0.5,0.5,0.5,1.0,2,3,1,1,0,DAL
-42019,203077,Michael Kidd-Gilchrist,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,6,0.056,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,DAL
-42019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.0,3,0.115,0.167,0.0,0.167,0.167,0.167,0.0,0.17,0.0,6,1,0,4,4,DAL

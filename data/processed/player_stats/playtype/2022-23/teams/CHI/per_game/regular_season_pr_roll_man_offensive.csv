@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.438,82,0.285,1.091,0.523,0.049,0.067,0.049,0.02,0.503,0.565,4.7,5.1,2.2,4.2,2.0,CHI
-22022,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.498,67,0.236,1.125,0.676,0.177,0.146,0.177,0.03,0.583,0.676,1.4,1.6,0.7,1.0,0.3,CHI
-22022,1627884,Derrick Jones Jr.,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.942,64,0.163,1.489,0.714,0.362,0.085,0.362,0.19,0.681,0.714,0.7,1.1,0.4,0.5,0.2,CHI
-22022,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.152,82,0.056,0.826,0.447,0.022,0.152,0.022,0.0,0.391,0.487,0.6,0.5,0.2,0.5,0.3,CHI
-22022,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.92,67,0.045,1.389,0.643,0.111,0.111,0.111,0.0,0.611,0.75,0.3,0.4,0.1,0.2,0.1,CHI
-22022,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.841,77,0.007,1.333,0.455,0.083,0.0,0.083,0.0,0.5,0.636,0.2,0.2,0.1,0.1,0.1,CHI
-22022,1629750,Javonte Green,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.542,32,0.095,1.143,0.538,0.071,0.071,0.071,0.07,0.5,0.577,0.4,0.5,0.2,0.4,0.2,CHI
-22022,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.051,74,0.02,0.643,0.333,0.0,0.143,0.0,0.0,0.286,0.375,0.2,0.1,0.1,0.2,0.1,CHI

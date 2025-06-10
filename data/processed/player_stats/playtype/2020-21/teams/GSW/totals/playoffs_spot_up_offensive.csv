@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203145,Kent Bazemore,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.641,2,0.444,1.167,0.455,0.083,0.0,0.083,0.0,0.417,0.636,12,14,5,11,6,GSW
-42020,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.292,1.571,0.571,0.0,0.0,0.0,0.0,0.571,0.786,7,11,4,7,3,GSW
-42020,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.058,1.5,0.667,0.0,0.0,0.25,0.0,0.5,1.0,4,6,2,3,1,GSW
-42020,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.136,1.0,0.333,0.167,0.0,0.167,0.17,0.333,0.417,6,6,2,6,4,GSW
-42020,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.276,0.625,0.143,0.125,0.0,0.125,0.0,0.25,0.214,8,5,1,7,6,GSW
-42020,1628539,Mychal Mulder,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.364,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,GSW
-42020,1629308,Juan Toscano-Anderson,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.0,2,0.211,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,GSW

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.694,72,0.119,0.966,0.382,0.131,0.08,0.125,0.028,0.409,0.483,176,170,55,144,89,MIN
-22020,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.524,50,0.093,0.87,0.375,0.13,0.074,0.111,0.019,0.417,0.392,108,94,33,88,55,MIN
-22020,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.673,42,0.082,0.956,0.411,0.088,0.088,0.059,0.0,0.426,0.5,68,65,23,56,33,MIN
-22020,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.433,70,0.025,0.833,0.333,0.222,0.167,0.222,0.056,0.389,0.333,18,15,4,12,8,MIN
-22020,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.376,68,0.015,0.8,0.429,0.1,0.2,0.1,0.0,0.4,0.429,10,8,3,7,4,MIN
-22020,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.255,51,0.033,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.438,10,7,3,8,5,MIN
-22020,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.053,37,0.016,0.455,0.222,0.0,0.182,0.0,0.0,0.182,0.278,11,5,2,9,7,MIN

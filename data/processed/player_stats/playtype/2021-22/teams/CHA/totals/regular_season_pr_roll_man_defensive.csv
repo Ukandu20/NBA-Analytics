@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.737,49,0.029,0.833,0.4,0.08,0.08,0.08,0.0,0.42,0.4,12,10,4,10,6,CHA
-22021,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.754,71,0.025,0.824,0.333,0.0,0.12,0.0,0.0,0.29,0.467,17,14,5,15,10,CHA
-22021,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.442,76,0.032,1.05,0.375,0.25,0.0,0.25,0.05,0.5,0.438,20,21,6,16,10,CHA
-22021,203486,Mason Plumlee,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.719,73,0.041,0.848,0.385,0.09,0.12,0.09,0.0,0.39,0.462,33,28,10,26,16,CHA
-22021,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.352,73,0.033,1.115,0.522,0.0,0.12,0.0,0.0,0.46,0.63,26,29,12,23,11,CHA
-22021,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.204,65,0.037,1.24,0.591,0.08,0.04,0.08,0.0,0.6,0.659,25,31,13,22,9,CHA
-22021,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.349,80,0.034,1.121,0.577,0.06,0.18,0.06,0.03,0.48,0.673,33,37,15,26,11,CHA
-22021,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,PRRollMan,Defensive,0.03,75,0.034,1.583,0.684,0.17,0.12,0.12,0.08,0.62,0.842,24,38,13,19,6,CHA

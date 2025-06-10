@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1626174,Christian Wood,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.977,45,0.043,0.563,0.091,0.25,0.063,0.25,0.0,0.313,0.091,0.4,0.2,0.0,0.2,0.2,LAL
-22023,203915,Spencer Dinwiddie,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.081,27,0.044,1.273,0.667,0.273,0.0,0.182,0.091,0.636,0.667,0.4,0.5,0.2,0.3,0.1,LAL
-22023,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.9,70,0.038,0.739,0.375,0.13,0.174,0.087,0.0,0.391,0.375,0.3,0.2,0.1,0.2,0.1,LAL
-22023,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.826,75,0.034,0.815,0.647,0.037,0.333,0.037,0.0,0.407,0.647,0.4,0.3,0.1,0.2,0.1,LAL
-22023,1629629,Cam Reddish,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.026,44,0.043,1.412,0.714,0.176,0.059,0.176,0.059,0.706,0.714,0.4,0.5,0.2,0.3,0.1,LAL
-22023,1627752,Taurean Prince,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.505,75,0.037,1.0,0.545,0.138,0.172,0.138,0.069,0.483,0.545,0.4,0.4,0.2,0.3,0.1,LAL
-22023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.965,75,0.046,0.583,0.273,0.133,0.15,0.117,0.017,0.317,0.273,0.8,0.5,0.2,0.6,0.4,LAL
-22023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Postup,Defensive,0.569,67,0.063,0.973,0.531,0.027,0.108,0.027,0.0,0.486,0.531,0.6,0.5,0.3,0.5,0.2,LAL

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.919,62,0.021,0.643,0.17,0.14,0.0,0.07,0.0,0.29,0.21,14,9,2,12,10,MIN
-22019,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.904,42,0.031,0.667,0.29,0.0,0.067,0.0,0.0,0.27,0.36,15,10,4,14,10,MIN
-22019,201949,James Johnson,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.369,14,0.057,1.1,0.5,0.1,0.1,0.1,0.0,0.5,0.62,10,11,4,8,4,MIN
-22019,1629633,Jarrett Culver,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.646,63,0.025,0.917,0.5,0.0,0.167,0.0,0.0,0.42,0.55,12,11,5,10,5,MIN
-22019,203943,Noah Vonleh,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.517,29,0.06,1.0,0.42,0.0,0.077,0.0,0.0,0.38,0.54,13,13,5,12,7,MIN
-22019,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.969,46,0.07,0.543,0.23,0.03,0.114,0.03,0.0,0.23,0.3,35,19,7,30,23,MIN
-22019,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.011,31,0.083,1.731,0.67,0.12,0.0,0.12,0.04,0.69,0.83,26,45,16,24,8,MIN
-22019,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.462,35,0.071,1.036,0.47,0.02,0.091,0.02,0.0,0.44,0.56,55,57,23,49,26,MIN

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Offensive,0.807,60,0.153,1.072,0.449,0.277,0.084,0.277,0.072,0.518,0.466,166,178,53,118,65,MIA
-22023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Offensive,0.627,71,0.105,0.986,0.486,0.162,0.092,0.162,0.035,0.5,0.486,142,140,54,111,57,MIA
-22023,1626179,Terry Rozier,1610612748,MIA,Miami Heat,Isolation,Offensive,0.959,31,0.107,1.273,0.571,0.091,0.036,0.091,0.018,0.582,0.633,55,70,28,49,21,MIA
-22023,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Isolation,Offensive,0.426,75,0.066,0.879,0.444,0.121,0.138,0.103,0.034,0.431,0.456,58,51,20,45,25,MIA
-22023,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Offensive,0.898,43,0.038,1.152,0.593,0.152,0.091,0.152,0.061,0.576,0.593,33,38,16,27,11,MIA
-22023,1628997,Caleb Martin,1610612748,MIA,Miami Heat,Isolation,Offensive,0.094,64,0.071,0.583,0.286,0.083,0.188,0.063,0.0,0.292,0.314,48,28,10,35,25,MIA
-22023,1631107,Nikola Jović,1610612748,MIA,Miami Heat,Isolation,Offensive,0.98,46,0.032,1.364,0.714,0.182,0.182,0.182,0.0,0.636,0.857,11,15,5,7,2,MIA

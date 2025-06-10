@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.742,46,0.285,1.243,0.597,0.142,0.047,0.142,0.061,0.595,0.624,148,184,77,129,52,WAS
-22019,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.544,45,0.195,1.108,0.569,0.122,0.108,0.122,0.014,0.541,0.603,74,82,33,58,25,WAS
-22019,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.493,38,0.184,1.071,0.512,0.214,0.054,0.196,0.036,0.554,0.523,56,60,22,43,21,WAS
-22019,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.212,48,0.095,0.905,0.456,0.048,0.079,0.048,0.032,0.429,0.465,63,57,26,57,31,WAS
-22019,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.442,55,0.055,1.051,0.382,0.051,0.077,0.026,0.0,0.385,0.544,39,41,13,34,21,WAS
-22019,1628394,Anžejs Pasečņiks,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.221,27,0.206,0.914,0.419,0.114,0.029,0.114,0.029,0.457,0.419,35,32,13,31,18,WAS
-22019,1629678,Admiral Schofield,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.622,33,0.124,1.154,0.462,0.0,0.0,0.0,0.0,0.462,0.577,13,15,6,13,7,WAS

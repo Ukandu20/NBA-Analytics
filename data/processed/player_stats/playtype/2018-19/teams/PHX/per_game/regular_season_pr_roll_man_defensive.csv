@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.851,64,0.018,0.727,0.222,0.18,0.0,0.09,0.0,0.36,0.278,0.2,0.1,0.0,0.1,0.1,PHX
-22018,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.967,79,0.022,0.5,0.214,0.06,0.06,0.0,0.0,0.25,0.25,0.2,0.1,0.0,0.2,0.1,PHX
-22018,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.616,40,0.031,0.917,0.4,0.33,0.25,0.25,0.0,0.5,0.5,0.3,0.3,0.1,0.1,0.1,PHX
-22018,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.029,82,0.015,1.538,0.75,0.31,0.08,0.31,0.0,0.77,0.875,0.2,0.2,0.1,0.1,0.0,PHX
-22018,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.069,46,0.06,1.417,0.571,0.12,0.04,0.12,0.04,0.58,0.69,0.5,0.7,0.3,0.5,0.2,PHX
-22018,1626158,Richaun Holmes,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.272,70,0.053,1.147,0.484,0.12,0.03,0.12,0.06,0.5,0.532,0.5,0.6,0.2,0.4,0.2,PHX
-22018,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,PRRollMan,Defensive,0.56,71,0.052,0.952,0.424,0.05,0.03,0.05,0.03,0.42,0.475,0.9,0.8,0.4,0.8,0.5,PHX

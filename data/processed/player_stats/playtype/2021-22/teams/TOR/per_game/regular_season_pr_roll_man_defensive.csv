@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.911,48,0.023,0.667,0.364,0.0,0.08,0.0,0.0,0.33,0.364,0.3,0.2,0.1,0.2,0.1,TOR
-22021,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.754,70,0.026,0.824,0.375,0.0,0.06,0.0,0.0,0.35,0.438,0.2,0.2,0.1,0.2,0.1,TOR
-22021,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.313,80,0.026,1.143,0.455,0.14,0.07,0.0,0.0,0.5,0.545,0.2,0.2,0.1,0.1,0.1,TOR
-22021,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.093,65,0.018,1.4,0.571,0.07,0.0,0.07,0.0,0.6,0.714,0.2,0.3,0.1,0.2,0.1,TOR
-22021,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.77,69,0.029,0.808,0.375,0.0,0.08,0.0,0.0,0.35,0.438,0.4,0.3,0.1,0.3,0.2,TOR
-22021,203920,Khem Birch,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.724,55,0.059,0.846,0.348,0.04,0.08,0.04,0.0,0.35,0.457,0.5,0.4,0.1,0.4,0.3,TOR
-22021,1630173,Precious Achiuwa,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.694,73,0.057,0.875,0.424,0.05,0.12,0.05,0.0,0.4,0.485,0.5,0.5,0.2,0.5,0.3,TOR
-22021,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.625,74,0.041,0.925,0.452,0.02,0.2,0.02,0.0,0.38,0.565,0.5,0.5,0.2,0.4,0.2,TOR

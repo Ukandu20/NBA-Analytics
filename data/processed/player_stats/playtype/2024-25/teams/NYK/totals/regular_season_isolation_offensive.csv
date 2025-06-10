@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Isolation,Offensive,0.867,65,0.173,1.071,0.493,0.16,0.101,0.146,0.056,0.489,0.54,268,287,105,213,108,NYK
-22024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Isolation,Offensive,0.41,72,0.108,0.853,0.398,0.165,0.112,0.165,0.059,0.406,0.406,170,145,53,133,80,NYK
-22024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Isolation,Offensive,0.372,74,0.039,0.833,0.316,0.125,0.083,0.125,0.0,0.375,0.395,48,40,12,38,26,NYK
-22024,1628404,Josh Hart,1610612752,NYK,New York Knicks,Isolation,Offensive,0.656,77,0.039,0.95,0.441,0.1,0.1,0.1,0.05,0.425,0.471,40,38,15,34,19,NYK
-22024,1630540,Miles McBride,1610612752,NYK,New York Knicks,Isolation,Offensive,0.114,64,0.082,0.62,0.233,0.06,0.08,0.04,0.0,0.26,0.291,50,31,10,43,33,NYK
-22024,1626166,Cameron Payne,1610612752,NYK,New York Knicks,Isolation,Offensive,0.45,72,0.042,0.864,0.313,0.182,0.136,0.182,0.045,0.364,0.406,22,19,5,16,11,NYK
-22024,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,Isolation,Offensive,0.278,57,0.057,0.783,0.444,0.087,0.13,0.087,0.0,0.435,0.444,23,18,8,18,10,NYK
-22024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Isolation,Offensive,0.211,82,0.017,0.739,0.389,0.087,0.174,0.087,0.043,0.348,0.389,23,17,7,18,11,NYK

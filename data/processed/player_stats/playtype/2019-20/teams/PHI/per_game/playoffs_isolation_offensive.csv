@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.976,4,0.16,1.333,0.636,0.083,0.0,0.083,0.0,0.667,0.636,3.0,4.0,1.8,2.8,1.0,PHI
-42019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,4,0.078,1.111,0.25,0.556,0.0,0.556,0.0,0.667,0.25,2.3,2.5,0.3,1.0,0.8,PHI
-42019,202692,Alec Burks,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,4,0.161,1.0,0.5,0.222,0.111,0.222,0.0,0.556,0.583,2.3,2.3,0.8,1.5,0.8,PHI
-42019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,4,0.042,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.833,0.8,1.3,0.5,0.8,0.3,PHI
-42019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,4,0.075,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,1.0,0.5,0.3,1.0,0.8,PHI
-42019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.0,4,0.032,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.0,0.0,PHI

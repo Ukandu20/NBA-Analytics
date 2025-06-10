@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.545,17,0.057,1.04,0.45,0.16,0.08,0.16,0.04,0.48,0.5,25,26,9,20,11,BOS
-42019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.905,17,0.034,1.333,0.556,0.25,0.0,0.25,0.0,0.667,0.611,12,16,5,9,4,BOS
-42019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.273,17,0.044,0.857,0.385,0.0,0.071,0.0,0.0,0.357,0.462,14,12,5,13,8,BOS
-42019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.0,5,0.049,1.333,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,4,1,2,1,BOS
-42019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffScreen,Offensive,0.0,17,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,BOS

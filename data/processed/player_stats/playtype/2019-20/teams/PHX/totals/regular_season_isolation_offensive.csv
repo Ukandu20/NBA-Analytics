@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.68,71,0.114,0.945,0.423,0.139,0.114,0.129,0.03,0.438,0.462,201,190,66,156,90,PHX
-22019,1626162,Kelly Oubre Jr.,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.538,56,0.031,0.871,0.375,0.194,0.032,0.194,0.0,0.452,0.396,31,27,9,24,15,PHX
-22019,201937,Ricky Rubio,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.704,65,0.023,0.955,0.353,0.182,0.045,0.136,0.0,0.455,0.412,22,21,6,17,11,PHX
-22019,203967,Dario Šarić,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.242,66,0.023,0.75,0.417,0.063,0.188,0.063,0.0,0.375,0.417,16,12,5,12,7,PHX
-22019,1628975,Jevon Carter,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.8,58,0.038,1.0,0.333,0.182,0.0,0.091,0.0,0.455,0.389,11,11,3,9,6,PHX
-22019,1629059,Elie Okobo,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.02,55,0.06,0.4,0.3,0.067,0.267,0.0,0.0,0.2,0.3,15,6,3,10,7,PHX

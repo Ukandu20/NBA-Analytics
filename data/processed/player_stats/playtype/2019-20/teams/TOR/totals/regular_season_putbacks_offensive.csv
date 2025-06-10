@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.741,55,0.108,1.211,0.643,0.2,0.078,0.189,0.056,0.6,0.643,90,109,45,70,25,TOR
-22019,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.481,62,0.203,1.078,0.55,0.156,0.065,0.169,0.013,0.545,0.55,77,83,33,60,27,TOR
-22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.33,60,0.135,1.0,0.482,0.082,0.033,0.082,0.033,0.492,0.482,61,61,27,56,29,TOR
-22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.727,69,0.057,1.205,0.7,0.103,0.128,0.077,0.0,0.641,0.7,39,47,21,30,9,TOR
-22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.744,72,0.062,1.212,0.645,0.0,0.061,0.0,0.0,0.606,0.645,33,40,20,31,11,TOR
-22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.249,60,0.027,0.946,0.455,0.081,0.027,0.081,0.0,0.486,0.47,37,35,15,33,18,TOR
-22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.143,52,0.016,0.833,0.444,0.083,0.167,0.0,0.0,0.417,0.444,12,10,4,9,5,TOR

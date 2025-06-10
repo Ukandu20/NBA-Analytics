@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.414,79,0.097,0.895,0.358,0.073,0.056,0.073,0.008,0.379,0.431,124,111,39,109,70,ATL
-22023,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.489,78,0.061,0.927,0.402,0.073,0.101,0.064,0.018,0.394,0.484,109,101,37,92,55,ATL
-22023,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.339,54,0.066,0.839,0.379,0.151,0.151,0.086,0.011,0.409,0.424,93,78,25,66,41,ATL
-22023,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.393,57,0.08,0.879,0.373,0.152,0.106,0.121,0.03,0.409,0.412,66,58,19,51,32,ATL
-22023,1629726,Garrison Mathews,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.836,66,0.155,1.125,0.406,0.1,0.125,0.1,0.025,0.4,0.547,40,45,13,32,19,ATL
-22023,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.325,63,0.041,0.824,0.292,0.206,0.118,0.206,0.029,0.382,0.354,34,28,7,24,17,ATL
-22023,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.311,56,0.031,0.815,0.292,0.148,0.037,0.148,0.074,0.333,0.333,27,22,7,24,17,ATL
-22023,1641723,Kobe Bufkin,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.097,17,0.095,0.6,0.3,0.0,0.0,0.0,0.0,0.3,0.3,10,6,3,10,7,ATL

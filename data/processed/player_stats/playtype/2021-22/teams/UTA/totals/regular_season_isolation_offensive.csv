@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.827,67,0.09,1.039,0.445,0.092,0.092,0.072,0.02,0.444,0.527,153,159,57,128,71,UTA
-22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.709,79,0.117,0.974,0.417,0.125,0.118,0.112,0.033,0.421,0.483,152,148,50,120,70,UTA
-22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.759,72,0.062,1.0,0.36,0.131,0.049,0.082,0.0,0.41,0.46,61,61,18,50,32,UTA
-22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.106,69,0.05,0.603,0.255,0.069,0.138,0.069,0.017,0.259,0.298,58,35,12,47,35,UTA
-22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.524,60,0.085,0.895,0.5,0.158,0.158,0.158,0.053,0.474,0.5,19,17,7,14,7,UTA
-22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.602,58,0.041,0.917,0.25,0.333,0.083,0.333,0.083,0.417,0.313,12,11,2,8,6,UTA
-22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.004,55,0.032,0.333,0.154,0.0,0.133,0.0,0.0,0.133,0.192,15,5,2,13,11,UTA

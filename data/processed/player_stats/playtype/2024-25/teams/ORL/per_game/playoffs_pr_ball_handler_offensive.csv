@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.31,5,0.299,0.78,0.4,0.049,0.122,0.049,0.024,0.366,0.414,8.2,6.4,2.8,7.0,4.2,ORL
-42024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.241,5,0.272,0.721,0.324,0.093,0.047,0.07,0.0,0.349,0.365,8.6,6.2,2.4,7.4,5.0,ORL

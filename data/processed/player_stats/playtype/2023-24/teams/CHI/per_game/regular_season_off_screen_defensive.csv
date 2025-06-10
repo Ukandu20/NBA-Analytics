@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628975,Jevon Carter,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.96,62,0.039,0.538,0.273,0.077,0.077,0.077,0.0,0.231,0.318,0.2,0.1,0.0,0.2,0.1,CHI
-22023,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.347,73,0.012,1.154,0.417,0.154,0.0,0.077,0.077,0.462,0.542,0.2,0.2,0.1,0.2,0.1,CHI
-22023,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.883,71,0.055,0.68,0.283,0.02,0.06,0.02,0.0,0.28,0.348,0.7,0.5,0.2,0.6,0.5,CHI
-22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.451,43,0.09,1.086,0.438,0.086,0.029,0.086,0.029,0.457,0.547,0.8,0.9,0.3,0.7,0.4,CHI
-22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.637,75,0.069,0.922,0.3,0.157,0.078,0.157,0.02,0.373,0.413,0.7,0.6,0.2,0.5,0.4,CHI
-22023,1628470,Torrey Craig,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.081,53,0.085,1.382,0.586,0.118,0.059,0.118,0.029,0.588,0.707,0.6,0.9,0.3,0.5,0.2,CHI
-22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.48,79,0.061,1.043,0.425,0.065,0.065,0.065,0.0,0.435,0.538,0.6,0.6,0.2,0.5,0.3,CHI
-22023,1629632,Coby White,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.502,79,0.047,1.021,0.419,0.021,0.083,0.0,0.0,0.396,0.547,0.6,0.6,0.2,0.5,0.3,CHI

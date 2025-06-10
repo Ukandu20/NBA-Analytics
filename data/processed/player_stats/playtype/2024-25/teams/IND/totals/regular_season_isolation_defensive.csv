@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.802,72,0.056,0.732,0.343,0.098,0.049,0.098,0.0,0.39,0.357,41,30,12,35,23,IND
-22024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.74,44,0.094,0.789,0.355,0.132,0.053,0.132,0.0,0.395,0.387,38,30,11,31,20,IND
-22024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.73,64,0.078,0.79,0.375,0.081,0.145,0.065,0.0,0.371,0.427,62,49,18,48,30,IND
-22024,1641716,Jarace Walker,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.085,69,0.107,1.186,0.583,0.093,0.07,0.023,0.0,0.558,0.625,43,51,21,36,15,IND
-22024,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.108,61,0.116,1.154,0.476,0.25,0.058,0.25,0.115,0.519,0.536,52,60,20,42,22,IND
-22024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Defensive,0.383,71,0.098,0.967,0.455,0.13,0.087,0.109,0.054,0.457,0.494,92,89,35,77,42,IND

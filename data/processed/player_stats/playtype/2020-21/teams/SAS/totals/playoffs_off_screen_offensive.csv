@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,1,0.286,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,2,6,2,2,0,SAS
-42020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,1,0.13,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.833,3,5,2,3,1,SAS
-42020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,1,0.107,1.333,0.5,0.33,0.0,0.33,0.0,0.67,0.5,3,4,1,2,1,SAS
-42020,1629022,Lonnie Walker IV,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS

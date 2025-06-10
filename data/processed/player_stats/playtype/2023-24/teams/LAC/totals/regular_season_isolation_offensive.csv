@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,201935,James Harden,1610612746,LAC,LA Clippers,Isolation,Offensive,0.881,72,0.246,1.129,0.386,0.204,0.075,0.193,0.018,0.468,0.483,280,316,80,207,127,LAC
-22023,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Isolation,Offensive,0.926,69,0.181,1.198,0.558,0.107,0.063,0.083,0.024,0.56,0.595,252,302,120,215,95,LAC
-22023,202331,Paul George,1610612746,LAC,LA Clippers,Isolation,Offensive,0.73,74,0.17,1.031,0.435,0.113,0.066,0.098,0.023,0.453,0.493,256,264,94,216,122,LAC
-22023,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Isolation,Offensive,0.389,68,0.143,0.864,0.448,0.072,0.136,0.072,0.048,0.4,0.467,125,108,47,105,58,LAC
-22023,1626181,Norman Powell,1610612746,LAC,LA Clippers,Isolation,Offensive,0.787,76,0.052,1.064,0.457,0.149,0.106,0.128,0.0,0.489,0.543,47,50,16,35,19,LAC
-22023,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Isolation,Offensive,0.242,37,0.148,0.733,0.243,0.111,0.067,0.089,0.0,0.311,0.338,45,33,9,37,28,LAC
-22023,1630527,Brandon Boston,1610612746,LAC,LA Clippers,Isolation,Offensive,0.677,32,0.15,1.0,0.44,0.167,0.033,0.167,0.033,0.5,0.48,30,30,11,25,14,LAC

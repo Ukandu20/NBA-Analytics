@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.965,73,0.076,1.364,0.476,0.023,0.023,0.023,0.0,0.477,0.679,44,60,20,42,22,OKC
-22022,1630322,Lindy Waters III,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.996,42,0.103,1.6,0.579,0.0,0.05,0.0,0.0,0.55,0.842,20,32,11,19,8,OKC
-22022,1630544,Tre Mann,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.274,67,0.052,0.867,0.44,0.0,0.167,0.0,0.0,0.367,0.52,30,26,11,25,14,OKC
-22022,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.11,74,0.034,0.703,0.265,0.054,0.027,0.054,0.0,0.297,0.353,37,26,9,34,25,OKC
-22022,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.67,68,0.012,1.045,0.444,0.136,0.045,0.136,0.0,0.5,0.472,22,23,8,18,10,OKC
-22022,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.987,76,0.007,1.5,0.75,0.1,0.2,0.1,0.1,0.6,0.875,10,15,6,8,2,OKC
-22022,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.342,75,0.011,0.909,0.375,0.182,0.091,0.182,0.0,0.455,0.438,11,10,3,8,5,OKC

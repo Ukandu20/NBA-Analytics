@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.903,77,0.252,1.331,0.627,0.211,0.054,0.211,0.072,0.639,0.649,166,221,84,134,50,DAL
-22018,201599,DeAndre Jordan,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.935,50,0.225,1.353,0.735,0.235,0.092,0.218,0.025,0.706,0.735,119,161,61,83,22,DAL
-22018,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.181,51,0.165,0.868,0.387,0.029,0.059,0.029,0.0,0.382,0.452,68,59,24,62,38,DAL
-22018,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.273,71,0.101,0.938,0.395,0.063,0.083,0.063,0.042,0.375,0.488,48,45,17,43,26,DAL
-22018,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.6,36,0.224,1.121,0.593,0.182,0.061,0.152,0.061,0.545,0.611,33,37,16,27,11,DAL
-22018,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.644,49,0.029,1.16,0.458,0.04,0.04,0.04,0.04,0.44,0.583,25,29,11,24,13,DAL
-22018,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.734,81,0.015,1.2,0.5,0.1,0.0,0.1,0.1,0.5,0.55,10,12,5,10,5,DAL

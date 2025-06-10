@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.457,49,0.087,0.932,0.353,0.136,0.091,0.136,0.0,0.409,0.426,44,41,12,34,22,MIL
-22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,Isolation,Defensive,0.402,80,0.067,0.957,0.469,0.239,0.13,0.217,0.065,0.478,0.469,46,44,15,32,17,MIL

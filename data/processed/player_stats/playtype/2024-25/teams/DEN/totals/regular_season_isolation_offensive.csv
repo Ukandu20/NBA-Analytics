@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.601,67,0.098,0.925,0.421,0.045,0.053,0.045,0.008,0.421,0.471,133,123,51,121,70,DEN
-22024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.517,75,0.1,0.897,0.471,0.128,0.154,0.128,0.009,0.453,0.5,117,105,40,85,45,DEN
-22024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.712,70,0.049,0.989,0.5,0.148,0.102,0.114,0.045,0.5,0.5,88,87,35,70,35,DEN
-22024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.472,51,0.085,0.873,0.465,0.055,0.164,0.055,0.0,0.418,0.488,55,48,20,43,23,DEN
-22024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.989,79,0.018,1.333,0.667,0.222,0.111,0.222,0.0,0.667,0.708,18,24,8,12,4,DEN
-22024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.383,77,0.015,0.842,0.462,0.158,0.211,0.158,0.053,0.421,0.538,19,16,6,13,7,DEN
-22024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.758,68,0.022,1.0,0.5,0.167,0.0,0.167,0.0,0.583,0.5,12,12,5,10,5,DEN
-22024,1631124,Julian Strawther,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.037,65,0.022,0.462,0.231,0.0,0.0,0.0,0.0,0.231,0.231,13,6,3,13,10,DEN

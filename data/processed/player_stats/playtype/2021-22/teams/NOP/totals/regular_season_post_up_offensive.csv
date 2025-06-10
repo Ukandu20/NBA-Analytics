@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.627,74,0.269,0.982,0.535,0.17,0.17,0.164,0.027,0.504,0.535,335,329,123,230,107,NOP
-22021,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.343,55,0.055,0.871,0.464,0.1,0.129,0.086,0.029,0.429,0.464,70,61,26,56,30,NOP
-22021,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.189,50,0.162,0.775,0.388,0.169,0.169,0.113,0.028,0.408,0.388,71,55,19,49,30,NOP
-22021,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.905,70,0.023,1.167,0.6,0.083,0.083,0.083,0.0,0.583,0.6,12,14,6,10,4,NOP
-22021,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.012,9,0.175,0.364,0.143,0.091,0.273,0.091,0.0,0.182,0.143,11,4,1,7,6,NOP

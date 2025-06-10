@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Offensive,0.303,62,0.198,0.823,0.431,0.08,0.101,0.063,0.013,0.414,0.431,3.8,3.1,1.4,3.1,1.8,ORL
-22019,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.574,62,0.147,0.944,0.474,0.127,0.063,0.092,0.007,0.5,0.474,2.3,2.2,0.9,1.9,1.0,ORL
-22019,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Postup,Offensive,0.258,34,0.05,0.81,0.438,0.095,0.143,0.095,0.0,0.429,0.438,0.6,0.5,0.2,0.5,0.3,ORL
-22019,203920,Khem Birch,1610612753,ORL,Orlando Magic,Postup,Offensive,0.097,48,0.054,0.667,0.429,0.083,0.333,0.0,0.0,0.333,0.429,0.3,0.2,0.1,0.1,0.1,ORL
-22019,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,Postup,Offensive,0.006,62,0.049,0.353,0.25,0.0,0.294,0.0,0.0,0.176,0.25,0.3,0.1,0.0,0.2,0.1,ORL
-22019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Postup,Offensive,0.0,72,0.019,0.263,0.167,0.105,0.263,0.053,0.0,0.158,0.167,0.3,0.1,0.0,0.2,0.1,ORL

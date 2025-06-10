@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.605,24,0.176,0.948,0.408,0.138,0.06,0.129,0.043,0.44,0.434,116,110,40,98,58,TOR
-42018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.395,24,0.116,0.849,0.458,0.038,0.057,0.057,0.019,0.434,0.458,53,45,22,48,26,TOR
-42018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.211,24,0.092,0.794,0.367,0.029,0.088,0.029,0.0,0.353,0.417,34,27,11,30,19,TOR
-42018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.526,24,0.075,0.933,0.417,0.133,0.067,0.067,0.0,0.4,0.5,15,14,5,12,7,TOR
-42018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.865,23,0.068,1.1,0.444,0.1,0.1,0.1,0.1,0.4,0.556,10,11,4,9,5,TOR
-42018,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.0,24,0.017,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.375,4,3,1,4,3,TOR
-42018,201980,Danny Green,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.0,24,0.016,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,3,0,0,1,1,TOR
-42018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.0,24,0.013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,TOR

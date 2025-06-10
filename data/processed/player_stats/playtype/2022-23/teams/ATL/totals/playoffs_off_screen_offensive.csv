@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,1.0,6,0.186,1.455,0.545,0.0,0.0,0.0,0.0,0.545,0.727,11,16,6,11,5,ATL
-42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,5,0.026,2.0,0.667,0.0,0.0,0.0,0.0,0.667,1.0,3,6,2,3,1,ATL
-42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.051,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,5,2,1,5,4,ATL
-42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,ATL

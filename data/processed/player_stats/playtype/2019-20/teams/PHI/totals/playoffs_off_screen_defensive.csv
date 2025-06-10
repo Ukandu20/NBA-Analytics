@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.0,4,0.041,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,PHI
-42019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.0,4,0.043,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHI
-42019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.0,4,0.051,1.5,0.0,1.0,0.0,1.0,0.0,1.0,0.0,2,3,0,0,0,PHI
-42019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.0,4,0.05,2.0,1.0,0.5,0.0,0.5,0.0,1.0,1.0,2,4,1,1,0,PHI

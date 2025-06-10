@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.948,5,0.161,1.292,0.688,0.292,0.125,0.292,0.083,0.667,0.688,24,31,11,16,5,MIL
-42024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.123,5,0.563,0.667,0.32,0.111,0.194,0.111,0.0,0.333,0.32,36,24,8,25,17,MIL
-42024,203081,Damian Lillard,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.017,3,0.606,0.45,0.222,0.0,0.1,0.0,0.0,0.2,0.25,20,9,4,18,14,MIL

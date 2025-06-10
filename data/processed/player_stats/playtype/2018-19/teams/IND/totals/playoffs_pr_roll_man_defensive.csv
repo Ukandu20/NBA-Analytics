@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,203926,Doug McDermott,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,3,0.125,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,IND
-42018,1628988,Aaron Holiday,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,3,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND
-42018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,4,0.041,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,IND
-42018,201954,Darren Collison,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,4,0.152,0.4,0.0,0.2,0.0,0.2,0.0,0.2,0.0,5,2,0,4,4,IND
-42018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,4,0.091,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,5,3,1,5,4,IND
-42018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,4,0.063,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,3,4,2,3,1,IND
-42018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRRollMan,Defensive,0.0,4,0.111,2.0,0.8,0.0,0.0,0.0,0.0,0.8,1.0,5,10,4,5,1,IND

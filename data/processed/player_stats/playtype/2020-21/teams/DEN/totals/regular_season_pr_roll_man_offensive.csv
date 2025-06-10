@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.626,72,0.171,1.17,0.53,0.063,0.073,0.059,0.007,0.514,0.608,288,337,133,251,118,DEN
-22020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.803,58,0.177,1.263,0.473,0.075,0.038,0.075,0.038,0.475,0.635,80,101,35,74,39,DEN
-22020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.122,56,0.124,0.836,0.364,0.082,0.049,0.098,0.049,0.361,0.409,61,51,20,55,35,DEN
-22020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.995,34,0.157,1.688,0.6,0.063,0.0,0.063,0.0,0.625,0.833,16,27,9,15,6,DEN
-22020,201580,JaVale McGee,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.387,13,0.225,1.05,0.556,0.05,0.05,0.05,0.0,0.55,0.556,20,21,10,18,8,DEN
-22020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.235,25,0.067,0.941,0.538,0.118,0.118,0.118,0.0,0.529,0.538,17,16,7,13,6,DEN

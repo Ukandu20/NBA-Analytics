@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.707,49,0.06,0.976,0.487,0.024,0.024,0.024,0.0,0.488,0.487,0.8,0.8,0.4,0.8,0.4,MIL
-22024,1629645,Kevin Porter Jr.,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.646,30,0.11,0.946,0.345,0.189,0.081,0.162,0.054,0.405,0.397,1.2,1.2,0.3,1.0,0.6,MIL
-22024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.875,33,0.049,1.08,0.579,0.04,0.2,0.04,0.0,0.48,0.658,0.8,0.8,0.3,0.6,0.2,MIL
-22024,1631157,Ryan Rollins,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.808,56,0.064,1.045,0.563,0.136,0.136,0.136,0.0,0.545,0.563,0.4,0.4,0.2,0.3,0.1,MIL
-22024,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.354,23,0.064,0.824,0.4,0.0,0.118,0.0,0.0,0.353,0.467,0.7,0.6,0.3,0.7,0.4,MIL
-22024,1629018,Gary Trent Jr.,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.615,74,0.019,0.929,0.308,0.071,0.0,0.071,0.0,0.357,0.423,0.2,0.2,0.1,0.2,0.1,MIL
-22024,1627752,Taurean Prince,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.0,80,0.016,0.2,0.125,0.0,0.2,0.0,0.0,0.1,0.125,0.1,0.0,0.0,0.1,0.1,MIL

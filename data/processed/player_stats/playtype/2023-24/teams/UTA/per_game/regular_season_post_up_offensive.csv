@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628374,Lauri Markkanen,1610612762,UTA,Utah Jazz,Postup,Offensive,0.554,55,0.057,1.0,0.455,0.177,0.113,0.113,0.0,0.5,0.455,1.1,1.1,0.4,0.8,0.4,UTA
-22023,1628381,John Collins,1610612762,UTA,Utah Jazz,Postup,Offensive,0.397,68,0.073,0.925,0.453,0.119,0.104,0.104,0.015,0.463,0.453,1.0,0.9,0.4,0.8,0.4,UTA
-22023,203482,Kelly Olynyk,1610612762,UTA,Utah Jazz,Postup,Offensive,0.98,50,0.058,1.409,0.706,0.227,0.091,0.227,0.091,0.682,0.706,0.4,0.6,0.2,0.3,0.1,UTA
-22023,1630209,Omer Yurtseven,1610612762,UTA,Utah Jazz,Postup,Offensive,0.187,48,0.091,0.857,0.5,0.0,0.143,0.0,0.0,0.429,0.5,0.4,0.4,0.2,0.4,0.2,UTA
-22023,1629659,Talen Horton-Tucker,1610612762,UTA,Utah Jazz,Postup,Offensive,0.554,51,0.017,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,0.2,0.2,0.1,0.2,0.1,UTA
-22023,1631117,Walker Kessler,1610612762,UTA,Utah Jazz,Postup,Offensive,0.113,64,0.026,0.75,0.571,0.083,0.333,0.083,0.0,0.417,0.571,0.2,0.1,0.1,0.1,0.0,UTA

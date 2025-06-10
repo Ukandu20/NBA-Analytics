@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,1.0,10,0.043,1.8,0.778,0.0,0.1,0.0,0.0,0.7,1.0,1.0,1.8,0.7,0.9,0.2,PHX
-42021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.077,13,0.092,0.6,0.25,0.067,0.133,0.067,0.0,0.267,0.292,1.2,0.7,0.2,0.9,0.7,PHX
-42021,1629661,Cameron Johnson,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,13,0.04,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,0.4,0.4,0.2,0.4,0.2,PHX
-42021,203109,Jae Crowder,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,13,0.03,0.75,0.333,0.0,0.25,0.0,0.0,0.25,0.5,0.3,0.2,0.1,0.2,0.2,PHX
-42021,1626166,Cameron Payne,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,13,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHX
-42021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,13,0.005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHX
-42021,101108,Chris Paul,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,13,0.005,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,PHX
-42021,1629013,Landry Shamet,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.0,12,0.051,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,PHX

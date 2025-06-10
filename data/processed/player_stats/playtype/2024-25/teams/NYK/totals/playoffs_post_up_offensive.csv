@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,Postup,Offensive,0.7,18,0.191,0.971,0.473,0.159,0.116,0.145,0.072,0.464,0.473,69,67,26,55,29,NYK
-42024,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Postup,Offensive,0.9,18,0.047,1.083,0.55,0.125,0.083,0.083,0.042,0.542,0.55,24,26,11,20,9,NYK
-42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,Postup,Offensive,0.95,18,0.065,1.15,0.611,0.05,0.1,0.05,0.05,0.55,0.611,20,23,11,18,7,NYK
-42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,Postup,Offensive,0.2,18,0.046,0.714,0.444,0.143,0.214,0.143,0.0,0.357,0.444,14,10,4,9,5,NYK

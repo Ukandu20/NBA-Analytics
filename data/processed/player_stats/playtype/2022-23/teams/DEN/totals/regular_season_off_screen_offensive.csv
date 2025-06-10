@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.489,63,0.121,0.956,0.396,0.027,0.044,0.027,0.009,0.389,0.486,113,108,42,106,64,DEN
-22022,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.643,69,0.054,1.013,0.5,0.065,0.078,0.078,0.013,0.481,0.538,77,78,33,66,33,DEN
-22022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.449,65,0.055,0.943,0.367,0.057,0.086,0.043,0.0,0.371,0.483,70,66,22,60,38,DEN
-22022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.771,77,0.054,1.122,0.515,0.073,0.122,0.049,0.0,0.488,0.606,41,46,17,33,16,DEN
-22022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.885,80,0.018,1.235,0.5,0.0,0.059,0.0,0.0,0.471,0.656,17,21,8,16,8,DEN
-22022,1630538,Bones Hyland,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.422,43,0.028,0.933,0.385,0.0,0.133,0.0,0.0,0.333,0.538,15,14,5,13,8,DEN

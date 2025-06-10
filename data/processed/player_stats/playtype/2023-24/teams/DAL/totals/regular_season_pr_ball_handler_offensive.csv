@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.935,70,0.338,1.07,0.532,0.132,0.181,0.122,0.042,0.469,0.618,740,792,287,539,252,DAL
-22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.821,58,0.244,0.984,0.451,0.087,0.093,0.065,0.016,0.445,0.506,321,316,121,268,147,DAL
-22023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.407,73,0.264,0.816,0.403,0.066,0.118,0.046,0.0,0.395,0.44,152,124,50,124,74,DAL
-22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.805,79,0.106,0.975,0.38,0.102,0.068,0.102,0.017,0.407,0.465,118,115,38,100,62,DAL
-22023,203957,Danté Exum,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.225,55,0.15,0.719,0.381,0.088,0.175,0.088,0.0,0.368,0.405,57,41,16,42,26,DAL
-22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.229,57,0.054,0.72,0.5,0.12,0.32,0.12,0.0,0.36,0.536,25,18,7,14,7,DAL
-22023,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.324,36,0.11,0.778,0.353,0.056,0.056,0.056,0.056,0.333,0.382,18,14,6,17,11,DAL
-22023,1627884,Derrick Jones Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.866,76,0.016,1.0,0.5,0.4,0.3,0.4,0.1,0.5,0.5,10,10,2,4,2,DAL

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630164,James Wiseman,1610612765,DET,Detroit Pistons,Cut,Offensive,0.452,63,0.172,1.31,0.683,0.141,0.056,0.141,0.042,0.648,0.683,71,93,41,60,19,DET
-22023,1641709,Ausar Thompson,1610612765,DET,Detroit Pistons,Cut,Offensive,0.406,63,0.102,1.286,0.712,0.095,0.095,0.095,0.016,0.635,0.712,63,81,37,52,15,DET
-22023,1628963,Marvin Bagley III,1610612765,DET,Detroit Pistons,Cut,Offensive,0.653,26,0.206,1.388,0.692,0.163,0.061,0.143,0.02,0.694,0.692,49,68,27,39,12,DET
-22023,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,Cut,Offensive,0.555,77,0.029,1.351,0.7,0.162,0.054,0.135,0.027,0.703,0.7,37,50,21,30,9,DET
-22023,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,Cut,Offensive,0.366,62,0.013,1.263,0.647,0.105,0.053,0.105,0.053,0.632,0.647,19,24,11,17,6,DET
-22023,1628995,Kevin Knox II,1610612765,DET,Detroit Pistons,Cut,Offensive,0.164,31,0.083,1.111,0.533,0.111,0.056,0.111,0.0,0.556,0.533,18,20,8,15,7,DET
-22023,1629002,Chimezie Metu,1610612765,DET,Detroit Pistons,Cut,Offensive,0.276,14,0.068,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,10,12,6,10,4,DET
-22023,202711,Bojan Bogdanović,1610612765,DET,Detroit Pistons,Cut,Offensive,0.151,28,0.021,1.091,0.5,0.182,0.0,0.182,0.091,0.545,0.5,11,12,5,10,5,DET

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.155,66,0.077,0.743,0.322,0.02,0.089,0.01,0.0,0.307,0.394,101,75,29,90,61,MIL
-22021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.342,66,0.098,0.873,0.298,0.063,0.032,0.063,0.0,0.333,0.412,63,55,17,57,40,MIL
-22021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.583,65,0.047,1.0,0.375,0.038,0.038,0.038,0.0,0.385,0.5,26,26,9,24,15,MIL
-22021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.995,72,0.013,1.769,0.636,0.231,0.0,0.231,0.077,0.692,0.818,13,23,7,11,4,MIL
-22021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.429,62,0.047,0.92,0.364,0.08,0.04,0.08,0.0,0.4,0.432,25,23,8,22,14,MIL
-22021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.959,67,0.006,1.364,0.636,0.0,0.0,0.0,0.0,0.636,0.682,11,15,7,11,4,MIL
-22021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.32,67,0.012,0.857,0.4,0.143,0.143,0.071,0.0,0.429,0.4,14,12,4,10,6,MIL
-22021,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.203,49,0.04,0.8,0.375,0.0,0.2,0.0,0.0,0.3,0.5,10,8,3,8,5,MIL

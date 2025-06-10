@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.868,80,0.039,1.218,0.565,0.073,0.109,0.036,0.018,0.527,0.663,0.7,0.8,0.3,0.6,0.3,ORL
-22022,203082,Terrence Ross,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.317,42,0.134,0.891,0.349,0.065,0.043,0.065,0.043,0.348,0.442,1.1,1.0,0.4,1.0,0.7,ORL
-22022,203914,Gary Harris,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.792,48,0.101,1.143,0.424,0.0,0.057,0.0,0.0,0.4,0.606,0.7,0.8,0.3,0.7,0.4,ORL
-22022,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.137,72,0.022,0.735,0.333,0.088,0.029,0.059,0.0,0.382,0.35,0.5,0.3,0.1,0.4,0.3,ORL
-22022,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.606,60,0.021,1.0,0.462,0.125,0.063,0.125,0.0,0.5,0.5,0.3,0.3,0.1,0.2,0.1,ORL
-22022,1631216,Caleb Houstan,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.965,51,0.053,1.364,0.556,0.091,0.091,0.091,0.0,0.545,0.722,0.2,0.3,0.1,0.2,0.1,ORL
-22022,1629626,Bol Bol,1610612753,ORL,Orlando Magic,OffScreen,Offensive,0.151,70,0.019,0.75,0.364,0.083,0.083,0.083,0.083,0.333,0.364,0.2,0.1,0.1,0.2,0.1,ORL

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.329,58,0.148,0.836,0.463,0.136,0.164,0.118,0.027,0.427,0.463,1.9,1.6,0.6,1.4,0.7,CHA
-22019,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.89,65,0.078,1.086,0.554,0.157,0.1,0.143,0.057,0.543,0.554,1.1,1.2,0.5,0.9,0.4,CHA
-22019,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.916,41,0.176,1.111,0.529,0.222,0.089,0.156,0.067,0.533,0.529,1.1,1.2,0.4,0.8,0.4,CHA
-22019,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.671,58,0.054,0.971,0.519,0.118,0.118,0.088,0.029,0.471,0.519,0.6,0.6,0.2,0.5,0.2,CHA
-22019,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.283,31,0.167,0.818,0.391,0.182,0.121,0.182,0.0,0.424,0.391,1.1,0.9,0.3,0.7,0.5,CHA
-22019,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.764,53,0.043,1.0,0.571,0.118,0.118,0.118,0.059,0.529,0.571,0.3,0.3,0.2,0.3,0.1,CHA
-22019,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.431,39,0.033,0.9,0.5,0.3,0.3,0.2,0.2,0.4,0.5,0.3,0.2,0.1,0.2,0.1,CHA

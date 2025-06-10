@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.451,67,0.149,0.996,0.562,0.172,0.136,0.15,0.051,0.513,0.562,273,272,114,203,89,MIL
-22024,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.326,49,0.238,0.896,0.471,0.061,0.092,0.055,0.012,0.454,0.471,163,146,66,140,74,MIL
-22024,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.431,80,0.111,0.971,0.473,0.216,0.118,0.186,0.059,0.48,0.473,102,99,35,74,39,MIL
-22024,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.951,23,0.112,1.367,0.72,0.133,0.1,0.133,0.067,0.667,0.72,30,41,18,25,7,MIL
-22024,1628398,Kyle Kuzma,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.069,33,0.051,0.692,0.389,0.115,0.192,0.077,0.0,0.385,0.389,26,18,7,18,11,MIL

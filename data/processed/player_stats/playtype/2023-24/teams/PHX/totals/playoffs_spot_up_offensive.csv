@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.791,4,0.5,1.167,0.455,0.0,0.083,0.0,0.0,0.417,0.636,12,14,5,11,6,PHX
-42023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.422,4,0.189,0.929,0.364,0.071,0.143,0.071,0.0,0.357,0.5,14,13,4,11,7,PHX
-42023,201569,Eric Gordon,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.182,4,0.389,0.714,0.273,0.071,0.143,0.0,0.0,0.286,0.364,14,10,3,11,8,PHX
-42023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.155,4,0.16,0.667,0.267,0.0,0.0,0.0,0.0,0.267,0.333,15,10,4,15,11,PHX

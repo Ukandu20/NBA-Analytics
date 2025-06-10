@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.736,53,0.433,0.96,0.43,0.094,0.101,0.076,0.008,0.433,0.496,594,570,207,481,274,UTA
-22020,201144,Mike Conley,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.848,51,0.451,1.025,0.451,0.086,0.13,0.075,0.011,0.431,0.554,362,371,130,288,158,UTA
-22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.861,68,0.278,1.029,0.445,0.07,0.101,0.067,0.012,0.432,0.533,345,355,129,290,161,UTA
-22020,204060,Joe Ingles,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.739,67,0.418,0.963,0.471,0.077,0.21,0.063,0.023,0.4,0.575,300,289,104,221,117,UTA
-22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.9,72,0.079,1.065,0.522,0.14,0.161,0.075,0.022,0.495,0.567,93,99,35,67,32,UTA
-22020,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.939,30,0.416,1.119,0.708,0.167,0.286,0.167,0.024,0.548,0.708,42,47,17,24,7,UTA
-22020,1627777,Georges Niang,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.043,72,0.024,0.545,0.143,0.182,0.182,0.182,0.0,0.273,0.143,11,6,1,7,6,UTA

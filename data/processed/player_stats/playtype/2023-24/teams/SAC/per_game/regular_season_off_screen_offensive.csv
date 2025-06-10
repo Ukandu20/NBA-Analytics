@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.626,63,0.053,1.091,0.464,0.0,0.152,0.0,0.0,0.394,0.643,0.5,0.6,0.2,0.4,0.2,SAC
-22023,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.025,76,0.051,0.545,0.231,0.0,0.055,0.0,0.0,0.218,0.288,0.7,0.4,0.2,0.7,0.5,SAC
-22023,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.286,71,0.029,0.875,0.333,0.125,0.031,0.125,0.0,0.375,0.407,0.5,0.4,0.1,0.4,0.3,SAC
-22023,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.275,73,0.012,0.87,0.35,0.043,0.087,0.043,0.0,0.348,0.475,0.3,0.3,0.1,0.3,0.2,SAC
-22023,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.626,81,0.013,1.091,0.4,0.091,0.0,0.091,0.0,0.455,0.55,0.1,0.1,0.0,0.1,0.1,SAC
-22023,1628426,Sasha Vezenkov,1610612758,SAC,Sacramento Kings,OffScreen,Offensive,0.655,41,0.049,1.1,0.4,0.0,0.0,0.0,0.0,0.4,0.55,0.2,0.3,0.1,0.2,0.1,SAC

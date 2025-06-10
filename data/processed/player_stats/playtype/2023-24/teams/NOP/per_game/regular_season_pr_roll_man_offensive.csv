@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.673,81,0.179,1.258,0.597,0.086,0.043,0.08,0.012,0.601,0.639,2.0,2.5,1.1,1.8,0.7,NOP
-22023,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.39,61,0.177,1.054,0.477,0.143,0.089,0.143,0.018,0.5,0.523,0.9,1.0,0.3,0.7,0.4,NOP
-22023,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.932,57,0.05,1.486,0.517,0.171,0.0,0.143,0.0,0.6,0.707,0.6,0.9,0.3,0.5,0.2,NOP
-22023,1641722,Jordan Hawkins,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.227,67,0.03,0.938,0.4,0.0,0.063,0.0,0.0,0.375,0.5,0.2,0.2,0.1,0.2,0.1,NOP
-22023,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.092,75,0.027,0.75,0.333,0.15,0.1,0.15,0.0,0.4,0.333,0.3,0.2,0.1,0.2,0.1,NOP
-22023,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.444,65,0.01,1.083,0.4,0.167,0.0,0.167,0.0,0.417,0.55,0.2,0.2,0.1,0.2,0.1,NOP
-22023,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.008,64,0.009,0.417,0.2,0.083,0.083,0.0,0.0,0.25,0.2,0.2,0.1,0.0,0.2,0.1,NOP

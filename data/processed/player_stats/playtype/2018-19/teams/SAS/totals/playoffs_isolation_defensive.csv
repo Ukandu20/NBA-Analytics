@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
-42018,202700,Donatas Motiejunas,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,5,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
-42018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.029,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,SAS
-42018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.039,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,SAS
-42018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.067,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,SAS
-42018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,5,0.083,2.5,1.0,1.0,0.0,1.0,0.5,1.0,1.0,2,5,1,1,0,SAS
-42018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.032,1.667,0.67,0.0,0.0,0.0,0.0,0.67,0.83,3,5,2,3,1,SAS
-42018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Defensive,0.0,7,0.066,1.333,0.71,0.11,0.11,0.11,0.0,0.67,0.79,9,12,5,7,2,SAS

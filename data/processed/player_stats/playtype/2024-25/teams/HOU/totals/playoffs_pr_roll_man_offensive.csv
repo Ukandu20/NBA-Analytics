@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.269,7,0.145,0.917,0.474,0.167,0.083,0.125,0.042,0.458,0.474,24,22,9,19,10,HOU

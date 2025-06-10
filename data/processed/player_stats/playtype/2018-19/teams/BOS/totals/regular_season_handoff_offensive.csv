@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.636,67,0.089,0.978,0.454,0.06,0.142,0.045,0.007,0.418,0.532,134,131,49,108,59,BOS
-22018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.717,79,0.057,1.014,0.424,0.056,0.028,0.056,0.0,0.444,0.492,72,73,28,66,38,BOS
-22018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.864,80,0.057,1.116,0.436,0.023,0.07,0.023,0.0,0.419,0.577,43,48,17,39,22,BOS
-22018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.64,74,0.048,0.979,0.417,0.17,0.106,0.17,0.043,0.447,0.472,47,46,15,36,21,BOS
-22018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.225,72,0.069,0.737,0.34,0.07,0.07,0.07,0.018,0.351,0.37,57,42,17,50,33,BOS
-22018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.689,75,0.036,1.0,0.394,0.083,0.0,0.056,0.0,0.444,0.455,36,36,13,33,20,BOS
-22018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.024,79,0.062,0.417,0.2,0.042,0.125,0.042,0.0,0.208,0.213,48,20,8,40,32,BOS

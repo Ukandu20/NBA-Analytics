@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.45,80,0.272,0.832,0.397,0.133,0.135,0.121,0.025,0.399,0.439,519,432,156,393,237,ORL
-22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.7,72,0.262,0.93,0.465,0.134,0.136,0.128,0.031,0.454,0.487,359,334,127,273,146,ORL
-22023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.44,81,0.327,0.828,0.418,0.116,0.153,0.097,0.016,0.413,0.431,320,265,100,239,139,ORL
-22023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.368,75,0.156,0.797,0.411,0.049,0.217,0.042,0.014,0.343,0.486,143,114,44,107,63,ORL
-22023,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.358,43,0.251,0.796,0.475,0.041,0.153,0.041,0.01,0.408,0.475,98,78,38,80,42,ORL
-22023,204060,Joe Ingles,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.088,68,0.271,0.561,0.362,0.061,0.378,0.037,0.012,0.256,0.404,82,46,17,47,30,ORL
-22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.121,69,0.137,0.609,0.333,0.152,0.217,0.152,0.022,0.304,0.35,46,28,10,30,20,ORL
-22023,203914,Gary Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.997,54,0.035,1.5,0.667,0.083,0.167,0.0,0.0,0.583,0.889,12,18,6,9,3,ORL

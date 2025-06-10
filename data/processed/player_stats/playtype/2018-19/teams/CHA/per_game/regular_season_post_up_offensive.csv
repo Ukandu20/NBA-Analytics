@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.461,75,0.064,0.915,0.488,0.043,0.043,0.043,0.0,0.468,0.488,0.6,0.6,0.3,0.6,0.3,CHA
-22018,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.397,58,0.105,0.886,0.481,0.182,0.205,0.159,0.0,0.455,0.481,0.8,0.7,0.2,0.5,0.2,CHA
-22018,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.975,47,0.065,1.36,0.667,0.2,0.08,0.2,0.12,0.64,0.667,0.5,0.7,0.3,0.4,0.1,CHA
-22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.588,80,0.035,0.952,0.526,0.0,0.095,0.0,0.0,0.476,0.526,0.3,0.3,0.1,0.2,0.1,CHA
-22018,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.841,49,0.026,1.083,0.75,0.167,0.167,0.167,0.0,0.583,0.75,0.2,0.3,0.1,0.2,0.0,CHA

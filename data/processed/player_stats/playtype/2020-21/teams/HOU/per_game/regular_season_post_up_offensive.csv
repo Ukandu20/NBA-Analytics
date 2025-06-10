@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203482,Kelly Olynyk,1610612745,HOU,Houston Rockets,Postup,Offensive,0.913,27,0.137,1.164,0.667,0.197,0.23,0.148,0.066,0.557,0.667,2.3,2.6,1.0,1.4,0.5,HOU
-22020,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Postup,Offensive,0.419,41,0.083,0.91,0.458,0.224,0.119,0.209,0.06,0.478,0.458,1.6,1.5,0.5,1.2,0.6,HOU
-22020,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Postup,Offensive,0.369,70,0.057,0.889,0.586,0.111,0.267,0.089,0.022,0.444,0.586,0.6,0.6,0.2,0.4,0.2,HOU
-22020,202326,DeMarcus Cousins,1610612745,HOU,Houston Rockets,Postup,Offensive,0.182,25,0.087,0.75,0.429,0.167,0.25,0.125,0.0,0.417,0.429,1.0,0.7,0.2,0.6,0.3,HOU
-22020,202322,John Wall,1610612745,HOU,Houston Rockets,Postup,Offensive,0.075,40,0.024,0.609,0.294,0.174,0.087,0.174,0.0,0.391,0.294,0.6,0.4,0.1,0.4,0.3,HOU
-22020,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Postup,Offensive,0.63,45,0.033,1.0,0.556,0.231,0.077,0.154,0.0,0.538,0.556,0.3,0.3,0.1,0.2,0.1,HOU

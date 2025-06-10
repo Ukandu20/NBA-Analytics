@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.823,5,0.443,1.0,0.52,0.097,0.097,0.065,0.0,0.516,0.52,31,31,13,25,12,OKC
-42018,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.127,5,0.262,0.658,0.321,0.132,0.158,0.132,0.026,0.342,0.321,38,25,9,28,19,OKC
-42018,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.746,5,0.17,0.958,0.556,0.292,0.333,0.208,0.0,0.5,0.556,24,23,5,9,4,OKC
-42018,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,5,0.188,1.0,1.0,0.333,0.333,0.0,0.0,0.667,1.0,3,3,1,1,0,OKC
-42018,1627846,Abdel Nader,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,3,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,OKC

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,1.0,7,0.04,1.9,0.75,0.3,0.0,0.3,0.1,0.7,0.938,1.4,2.7,0.7,1.0,0.3,DAL
-42020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,7,0.079,1.556,0.556,0.0,0.0,0.0,0.0,0.556,0.778,1.3,2.0,0.4,1.0,0.6,DAL
-42020,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,7,0.013,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.1,0.3,0.0,0.0,0.0,DAL
-42020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,7,0.012,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.3,0.0,0.0,0.0,DAL
-42020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,7,0.038,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,-0.1,0.0,0.1,DAL
-42020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,7,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,-0.1,0.0,0.1,DAL

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.44,62,0.233,1.063,0.503,0.082,0.072,0.082,0.014,0.495,0.559,208,221,90,179,89,ORL
-22021,1628964,Mo Bamba,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.237,71,0.139,0.941,0.37,0.05,0.04,0.05,0.0,0.376,0.484,101,95,34,92,58,ORL
-22021,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.455,63,0.147,1.08,0.476,0.12,0.08,0.107,0.04,0.48,0.556,75,81,30,63,33,ORL
-22021,201577,Robin Lopez,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.568,37,0.086,1.13,0.688,0.217,0.13,0.217,0.043,0.609,0.688,23,26,11,16,5,ORL
-22021,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.167,79,0.021,0.88,0.4,0.12,0.08,0.12,0.0,0.44,0.4,25,22,8,20,12,ORL
-22021,1629643,Chuma Okeke,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.332,70,0.026,1.0,0.375,0.059,0.059,0.059,0.059,0.353,0.531,17,17,6,16,10,ORL
-22021,1629678,Admiral Schofield,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.035,38,0.092,0.643,0.308,0.0,0.071,0.0,0.0,0.286,0.346,14,9,4,13,9,ORL

@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.167,15,0.314,0.946,0.467,0.162,0.027,0.162,0.0,0.541,0.467,2.5,2.3,0.9,2.0,1.1,MIN
-42024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.6,15,0.055,1.235,0.533,0.176,0.0,0.176,0.059,0.588,0.567,1.1,1.4,0.5,1.0,0.5,MIN
-42024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.7,15,0.07,1.286,0.667,0.071,0.071,0.071,0.0,0.643,0.667,0.9,1.2,0.5,0.8,0.3,MIN

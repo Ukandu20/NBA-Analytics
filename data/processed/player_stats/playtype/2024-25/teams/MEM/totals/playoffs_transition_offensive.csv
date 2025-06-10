@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.942,4,0.265,1.538,0.538,0.0,0.0,0.0,0.0,0.538,0.769,13,20,7,13,6,MEM
-42024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.289,4,0.183,1.0,0.5,0.133,0.2,0.133,0.0,0.467,0.55,15,15,5,10,5,MEM
-42024,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.14,4,0.141,0.833,0.333,0.167,0.083,0.167,0.0,0.417,0.333,12,10,3,9,6,MEM

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.28,39,0.184,0.967,0.519,0.033,0.077,0.033,0.0,0.495,0.519,91,88,42,81,39,HOU
-22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.33,57,0.031,1.0,0.523,0.096,0.077,0.077,0.019,0.519,0.523,52,52,23,44,21,HOU
-22019,201935,James Harden,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.555,68,0.016,1.114,0.625,0.171,0.143,0.171,0.0,0.6,0.625,35,39,15,24,9,HOU
-22019,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.33,72,0.063,1.0,0.696,0.0,0.303,0.0,0.0,0.485,0.717,33,33,16,23,7,HOU
-22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.41,63,0.036,1.043,0.563,0.13,0.174,0.13,0.0,0.522,0.594,23,24,9,16,7,HOU
-22019,1628392,Isaiah Hartenstein,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.451,23,0.181,1.059,0.571,0.118,0.118,0.059,0.059,0.529,0.571,17,18,8,14,6,HOU
-22019,203496,Robert Covington,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.818,22,0.041,1.273,0.875,0.0,0.273,0.0,0.0,0.636,0.875,11,14,7,8,1,HOU

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1630696,Dru Smith,1610612748,MIA,Miami Heat,Isolation,Defensive,1.0,13,0.103,0.167,0.111,0.0,0.25,0.0,0.0,0.083,0.111,0.9,0.2,0.1,0.7,0.6,MIA
-22024,1630558,Davion Mitchell,1610612748,MIA,Miami Heat,Isolation,Defensive,0.003,30,0.046,1.563,0.7,0.375,0.063,0.313,0.063,0.75,0.8,0.5,0.8,0.2,0.3,0.1,MIA
-22024,1641796,Pelle Larsson,1610612748,MIA,Miami Heat,Isolation,Defensive,0.653,46,0.101,0.829,0.355,0.143,0.057,0.143,0.086,0.371,0.371,0.8,0.6,0.2,0.7,0.4,MIA
-22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Defensive,0.912,77,0.058,0.618,0.292,0.036,0.091,0.036,0.0,0.291,0.313,0.7,0.4,0.2,0.6,0.4,MIA
-22024,1631107,Nikola Jović,1610612748,MIA,Miami Heat,Isolation,Defensive,0.716,46,0.116,0.796,0.359,0.122,0.082,0.122,0.0,0.408,0.372,1.1,0.8,0.3,0.8,0.5,MIA
-22024,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Isolation,Defensive,0.388,74,0.12,0.966,0.5,0.153,0.186,0.136,0.017,0.475,0.55,0.8,0.8,0.3,0.5,0.3,MIA
