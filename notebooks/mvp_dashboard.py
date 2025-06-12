@@ -1,18 +1,21 @@
 from pathlib import Path
-from altair import Align
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 import streamlit as st
-import io
+from io           import BytesIO
+from PIL          import Image
+import requests
+
 
 # ────────────────────────────────────
 # Config
 # ────────────────────────────────────
 DATA_DIR = Path(__file__).resolve().parents[1] / "data" / "processed"
 MVP_CSV = DATA_DIR / "mvp_cleaned.csv"
-PLAYERS_CSV = DATA_DIR / "players_bios_cleaned.csv"
+TEAM_DATA = DATA_DIR / "teams_cleaned.csv"
+PLAYERS_CSV = DATA_DIR / "player_bios_cleaned.csv"
 ERA_BINS = [0, 1979, 1989, 1999, 2009, 3000]
 ERA_LABELS = [
     "Early Years (≤1979)",
@@ -36,9 +39,21 @@ def load_data():
     players = pd.read_csv(PLAYERS_CSV, parse_dates=["birthdate"])
     players["position_primary"] = players["position"].str.split("-").str[0]
 
-    df = mvp.merge(
-        players[["player","position_primary","height","weight","birthdate", "headshot_url"]],
-        on="player", how="left"
+    teams = pd.read_csv(TEAM_DATA)
+    
+
+    df = (
+        mvp
+          # add player‐level info
+          .merge(
+             players[["player","position_primary","height","weight","birthdate","headshot_url"]],
+             on="player", how="left"
+          )
+          # add team_id
+          .merge(
+             teams[["team_name", "team","team_id", "logo_url"]],
+             on="team", how="left"
+          )
     )
     df["age"] = df["season_start"] - df["birthdate"].dt.year
     df["era"] = pd.cut(df["season_start"], bins=ERA_BINS, labels=ERA_LABELS)
@@ -118,7 +133,8 @@ st.markdown(
 year_options = sorted(filtered["season_end"].unique())
 selected_year = st.selectbox("Choose a season", year_options, index=len(year_options)-1)
 selected_row = filtered[filtered["season_end"] == selected_year].iloc[0]
-
+team_id      = selected_row["team_id"]
+team_logo_url = selected_row.get("logo_url", None)
 
 headshot_url = selected_row.get("headshot_url", None)
 mvp_name = selected_row["player"]
@@ -127,9 +143,12 @@ col_img, col_name, col_age, col_team = st.columns([1,2,1,1])
 if headshot_url:
     col_img.image(headshot_url, width=100, caption=mvp_name)
 
+
+
 col_name.metric("MVP of " + str(selected_year), mvp_name)
 col_age.metric("Age", f"{age_val:.0f} yrs")
-col_team.metric("Team", selected_row["team"])
+if team_logo_url:
+    col_team.image(team_logo_url, width=100, caption=selected_row["team_name"])
 
 # ────────────────────────────────────
 # Advanced Stats KPIs

@@ -64,6 +64,9 @@ def main(merge: bool):
     df["nickname"]   = df["nickname"].fillna("").astype(str).str.strip()
     df["short_code"] = df["short_code"].fillna("").astype(str).str.upper()
 
+    if "short_code" in df.columns:
+        df.rename(columns={"short_code": "team"}, inplace=True)
+    
     # ── numeric coercions ───────────────────────────────────────────────
     for col in ("team_id", "first_season", "last_season", "capacity"):
         if col in df.columns:
