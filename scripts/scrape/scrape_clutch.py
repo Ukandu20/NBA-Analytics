@@ -2,40 +2,46 @@
 """
 scrape_team_clutch.py
 =====================
-Download Teams ▸ Clutch tables:
+Fetch team "Clutch" dashboard stats (Traditional, Advanced, Four Factors, Misc, Scoring, Opponent)
+for one or more NBA seasons, season-types, and per-modes,
+organizing output as:
 
-• MeasureType    ─ Traditional, Advanced, Four Factors, Misc, Scoring, Opponent  
-• PerMode        ─ Totals | PerGame  
-• SeasonType     ─ Regular Season | Playoffs  
-• SeasonSegment  ─ All Season Segments  
+    <output-root>/<season>/<perMode>/<season_type>/<measure>.csv
 
-Writes to:
-data/raw/team_stats/clutch/<season>/totals/*.csv
-data/raw/team_stats/clutch/<season>/per_game/*.csv
+By default, it fetches all PER_MODES (Totals, PerGame, Per48, Per100Possessions, Per36) and all measures.
+
+Usage:
+    python scrape_team_clutch.py \
+        --season 2022-23 2023-24 \
+        [--season-type "Regular Season" Playoffs] \
+        [--measure traditional advanced fourfactors misc scoring opponent] \
+        [--per-mode Totals PerGame] \
+        [--output-root data/raw/team_stats/clutch] \
+        [--skip-existing]
 """
-
-import time
 import argparse
-import pathlib
+import logging
+import time
+from pathlib import Path
 
-import requests
 import pandas as pd
+import requests
+from requests.adapters import HTTPAdapter, Retry
 
-# ── NBA Stats API constants ─────────────────────────────────────────────────
-HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/125.0.0.0 Safari/537.36"),
-    "Referer":            "https://www.nba.com/",
-    "Origin":             "https://www.nba.com",
+# ── CONFIGURATION ─────────────────────────────────────────────────────────
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/125.0.0.0 Safari/537.36"
+    ),
+    "Referer": "https://www.nba.com/",
+    "Origin": "https://www.nba.com",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
     "x-nba-stats-origin": "stats",
-    "x-nba-stats-token":  "true",
+    "x-nba-stats-token": "true",
 }
-
-ENDPOINT  = "https://stats.nba.com/stats/leaguedashteamclutch"
-DATA_ROOT = pathlib.Path("data/raw/team_stats/clutch")
-
-# the six measure families exposed in the Clutch UI
 MEASURE_MAP = {
     "traditional": "Base",
     "advanced":    "Advanced",
@@ -44,114 +50,149 @@ MEASURE_MAP = {
     "scoring":     "Scoring",
     "opponent":    "Opponent",
 }
+SEASON_TYPES = ["Regular Season", "Playoffs"]
+PER_MODES = ["Totals", "PerGame", "Per36", "Per48", "Per100Possessions"]
+API_URL = "https://stats.nba.com/stats/leaguedashteamclutch"
+# ────────────────────────────────────────────────────────────────────────────
 
-SEASON_TYPES    = ["Regular Season", "Playoffs"]
-PER_MODE_FOLDERS = {"Totals": "totals", "PerGame": "per_game"}
-
-
-def call_api(params: dict) -> pd.DataFrame:
-    """
-    Call the clutch endpoint with up to 3 retries on network / 5xx errors.
-    Returns a pandas DataFrame.
-    """
-    backoff = 1.0
-    for attempt in range(1, 4):
-        try:
-            resp = requests.get(ENDPOINT, headers=HEADERS,
-                                params=params, timeout=20)
-            # retry on 5xx
-            if 500 <= resp.status_code < 600:
-                raise requests.HTTPError(f"HTTP {resp.status_code}", response=resp)
-            resp.raise_for_status()
-            data = resp.json()["resultSets"][0]
-            return pd.DataFrame(data["rowSet"], columns=data["headers"])
-
-        except (requests.ConnectionError, requests.HTTPError) as err:
-            if attempt == 3:
-                # after 3rd failure, propagate to fetch_combo
-                raise
-            print(f"⚠️  attempt {attempt} failed: {err!r}, retrying in {backoff}s")
-            time.sleep(backoff)
-            backoff *= 2.0
-
-    # should never hit this
-    raise RuntimeError("Unreachable: call_api exhausted all retries")
+def create_session(headers: dict) -> requests.Session:
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    session.headers.update(headers)
+    return session
 
 
-def fetch_combo(season: str,
-                season_type: str,
-                measure_key: str,
-                per_mode: str) -> None:
-    """
-    Fetch one (SeasonType × MeasureType × PerMode) and write CSV.
-    """
-    # Build exactly: data/raw/team_stats/clutch/<season>/<totals|per_game>/
-    out_dir = DATA_ROOT / season / PER_MODE_FOLDERS[per_mode]
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    # Filename carries only season_type & measure_key
-    fname = f"{season_type.lower().replace(' ', '_')}_{measure_key}.csv"
-    fpath = out_dir / fname
-
-    # The full set of parameters the endpoint expects:
+def fetch_clutch(
+    session: requests.Session,
+    season: str,
+    season_type: str,
+    measure_key: str,
+    per_mode: str,
+) -> pd.DataFrame:
     params = {
-        "Season":         season,
-        "SeasonType":     season_type,
-        "SeasonSegment":  "",                 # all segments
-        "PerMode":        per_mode,
-        "MeasureType":    MEASURE_MAP[measure_key],
-        "LeagueID":       "00",
-        "TeamID":         "0",
-        # *** required clutch filters ***
-        "AheadBehind":    "Ahead or Behind",
-        "ClutchTime":     "Last 5 Minutes",
-        "PointDiff":      "5",
-        # blank out every other filter to avoid 400s
-        "Conference":     "",
-        "Division":       "",
-        "GameScope":      "",
-        "GameSegment":    "",
-        "LastNGames":     "0",
-        "DateFrom":       "",
-        "DateTo":         "",
-        "Location":       "",
-        "Outcome":        "",
-        "Month":          "0",
-        "OpponentTeamID": "0",
-        "PORound":        "",
-        "PaceAdjust":     "N",
-        "PlusMinus":      "N",
-        "Rank":           "N",
-        "Period":         "0",
-        "ShotClockRange": "",
-        "StarterBench":   "",
-        "VsConference":   "",
-        "VsDivision":     "",
+        "Season":        season,
+        "SeasonType":    season_type,
+        "SeasonSegment": "",  # all segments
+        "PerMode":       per_mode,
+        "MeasureType":   MEASURE_MAP[measure_key],
+        "LeagueID":      "00",
+        "TeamID":        "0",
+        # clutch-specific required filters
+        "AheadBehind":   "Ahead or Behind",
+        "ClutchTime":    "Last 5 Minutes",
+        "PointDiff":     "5",
+        # blank out other filters
+        "Conference":    "",
+        "Division":      "",
+        "GameScope":     "",
+        "GameSegment":   "",
+        "LastNGames":    "0",
+        "DateFrom":      "",
+        "DateTo":        "",
+        "Location":      "",
+        "Outcome":       "",
+        "Month":         "0",
+        "OpponentTeamID":"0",
+        "PORound":       "",
+        "PaceAdjust":    "N",
+        "PlusMinus":     "N",
+        "Rank":          "N",
+        "Period":        "0",
+        "ShotClockRange":"",
+        "StarterBench":  "",
+        "VsConference":  "",
+        "VsDivision":    "",
     }
-
-    try:
-        df = call_api(params)
-    except Exception as e:
-        print(f"🚫 {fname} → {type(e).__name__}: {e}")
-        return
-
-    df.to_csv(fpath, index=False)
-    print(f"✅ {fpath.relative_to(DATA_ROOT)}  ({len(df)} rows)")
-    time.sleep(0.6)
+    resp = session.get(API_URL, params=params, timeout=20)
+    resp.raise_for_status()
+    data = resp.json()["resultSets"][0]
+    return pd.DataFrame(data["rowSet"], columns=data["headers"])
 
 
-def main(season: str):
-    for stype in SEASON_TYPES:
-        for pmod in PER_MODE_FOLDERS:
-            for mkey in MEASURE_MAP:
-                fetch_combo(season, stype, mkey, pmod)
+def main():
+    parser = argparse.ArgumentParser(
+        description="Scrape Teams → Clutch dashboard with season-first layout."
+    )
+    parser.add_argument(
+        "--season", nargs="+", required=True,
+        help="One or more NBA seasons (format YYYY-YY), e.g. 2023-24"
+    )
+    parser.add_argument(
+        "--season-type", nargs="+", choices=SEASON_TYPES,
+        default=SEASON_TYPES,
+        help="Season types to fetch"
+    )
+    parser.add_argument(
+        "--measure", nargs="+", choices=MEASURE_MAP.keys(),
+        default=list(MEASURE_MAP.keys()),
+        help="Measure types to fetch"
+    )
+    parser.add_argument(
+        "--per-mode", nargs="+", choices=PER_MODES,
+        default=PER_MODES,
+        help="Per-mode options: fetch all modes by default"
+    )
+    parser.add_argument(
+        "--output-root", type=Path,
+        default=Path("data/raw/team_stats/clutch"),
+        help="Root directory for output CSVs"
+    )
+    parser.add_argument(
+        "--skip-existing", action="store_true",
+        help="Skip downloading if target CSV already exists"
+    )
+    parser.add_argument(
+        "--delay", type=float, default=0.6,
+        help="Seconds to sleep between requests"
+    )
+    args = parser.parse_args()
 
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)-8s %(message)s"
+    )
+    session = create_session(DEFAULT_HEADERS)
+
+    for season in args.season:
+        for per_mode in args.per_mode:
+            for season_type in args.season_type:
+                out_dir = (
+                    args.output_root
+                    / season
+                    / per_mode
+                    / season_type.lower().replace(' ', '_')
+                )
+                out_dir.mkdir(parents=True, exist_ok=True)
+
+                for measure_key in args.measure:
+                    fpath = out_dir / f"{measure_key}.csv"
+                    if args.skip_existing and fpath.exists():
+                        logging.info("Skipping %s", fpath)
+                        continue
+                    try:
+                        df = fetch_clutch(
+                            session, season, season_type, measure_key, per_mode
+                        )
+                        if df.empty:
+                            logging.warning(
+                                "No data: %s | %s | %s | %s",
+                                season, per_mode, season_type, measure_key
+                            )
+                            continue
+                        df.to_csv(fpath, index=False)
+                        logging.info("Saved %s (%d rows)", fpath, len(df))
+                    except Exception as e:
+                        logging.error(
+                            "Error %s | %s | %s | %s: %s",
+                            season, per_mode, season_type, measure_key, e
+                        )
+                    time.sleep(args.delay)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Scrape Teams ➤ Clutch dashboard"
-    )
-    parser.add_argument("--season", default="2024-25",
-                        help="NBA season (YYYY-YY), e.g. 2024-25")
-    args = parser.parse_args()
-    main(args.season)
+    main()
