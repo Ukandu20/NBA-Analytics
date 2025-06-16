@@ -44,7 +44,6 @@ DEFAULT_HEADERS = {
 MEASURE_MAP = {
     "traditional": "Base",
     "advanced":    "Advanced",
-    "fourfactors": "Four Factors",
     "scoring":     "Scoring",
     "misc":        "Misc",
 }
