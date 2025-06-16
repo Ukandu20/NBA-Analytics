@@ -36,8 +36,8 @@ sys.path.append(str(ROOT))
 from utils.clean_helpers import normalise_cols          # type: ignore
 from utils.numeric_helpers import coerce_all_numeric    # type: ignore
 
-RAW_ROOT  = ROOT / "data/raw/team_stats/adv_box_scores"
-PROC_ROOT = ROOT / "data/processed/team_stats/adv_box_scores"
+RAW_ROOT  = ROOT / "data/raw/team_stats/adv_boxscores"
+PROC_ROOT = ROOT / "data/processed/team_stats/adv_boxscores"
 
 # ────────────────────────────────────────────────────────────────────────────
 # column helpers

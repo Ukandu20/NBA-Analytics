@@ -1,292 +1,108 @@
-# config.yaml
+# Top-level environment
+env: ${env}        # dev | staging | prod
 
-# ───────────────────────────────────────────────
-# 1) Top‐level directories
-# ───────────────────────────────────────────────
+# Paths and directories
+paths:
+  raw_dir: ${RAW_DATA_DIR}
+  processed_dir: ${PROCESSED_DATA_DIR}
+  external_dir: ${EXTERNAL_DATA_DIR}
+  feature_store: ${PROCESSED_DATA_DIR}/feature_store
+  
 
-raw_dir: "data/raw"
-processed_dir: "data/processed"
-external_dir: "data/external"
-
-# ───────────────────────────────────────────────
-# 2) Raw “placeholder” CSV paths
-# ───────────────────────────────────────────────
-
+# File structure (relative to raw/processed roots)
 raw_subdirs:
-  # Basic player/ team CSV placeholders (scripts will overwrite these when scraping)
-  players_basic:    "players_basic.csv"
-  players_detailed: "players_detailed.csv"
-  teams_basic:      "teams_basic.csv"
-  teams_detailed:   "teams_detailed.csv"
-  
-  
-  
+  players:  
+    players_basic: players/players_basic.csv
+    players_detailed: players/players_detailed.csv
+
+  teams:
+    teams_basic: teams/teams_basic.csv
+    teams_detailed: teams/teams_detailed.csv
+
   awards:
-    mvp:           "awards/mvp.csv"
-    roty:           "awards/roty.csv"  # Rookie of the Year 
-    dpoy:           "awards/dpoy.csv"  # Defensive Player of the Year
-    6oty:         "awards/6oty.csv"
-    mip:           "awards/mip.csv"  # Most Improved Player
-    all_league_teams: "awards/all_league_teams.csv"
-    all_defense_teams: "awards/all_defense_teams.csv"
-    all_rookie_teams: "awards/all_rookie_teams.csv"
-
-
-
-
-  # ───────────────────────────────────────────
-  # 3) Raw “player_stats” subfolders (many nested categories)
-  # ───────────────────────────────────────────
-
+    mvp: awards/mvp.csv
+    roty: awards/roty.csv
+    dpoy: awards/dpoy.csv
+    6oty: awards/6oty.csv
+    mip: awards/mip.csv
+    all_league_teams: awards/all_league_teams.csv
+    all_defense_teams: awards/all_defense_teams.csv
+    all_rookie_teams: awards/all_rookie_teams.csv
+  
   player_stats:
-    clutch:                    "player_stats/clutch"
-    defense_dashboard:         "player_stats/defense_dashboard"
-    shot_dashboard:            "player_stats/shot_dashboard"
-    box_scores:                "player_stats/box_scores"
-    adv_box_scores:            "player_stats/adv_box_scores"
-    shooting:                  "player_stats/shooting"
-    opponent_shooting:         "player_stats/opponent_shooting"
-    general:                   "player_stats/general"
-    playtype:                  "player_stats/playtype"
-
-
-    # ─ “general” → 6 subcategories
-    general_subdirs:
-      traditional:             "player_stats/general/traditional"
-      advanced:                "player_stats/general/advanced"
-      misc:                    "player_stats/general/misc"
-      scoring:                 "player_stats/general/scoring"
-      defense:                 "player_stats/general/defense"
-      opponent:                "player_stats/general/opponent"
-      usage:                   "player_stats/general/usage"
-
-    # ─ “playtype” → 10 subcategories
-    playtype_subdirs:
-      isolation:               "player_stats/playtype/isolation"
-      post_up:                 "player_stats/playtype/post_up"
-      transition:              "player_stats/playtype/transition"
-      spot_up:                 "player_stats/playtype/spot_up"
-      pick_and_roll_ball_handler: "player_stats/playtype/pick_and_roll_ball_handler"
-      pick_and_roll_man:       "player_stats/playtype/pick_and_roll_man"
-      hand_off:                "player_stats/playtype/hand_off"
-      cuts:                    "player_stats/playtype/cuts"
-      off_screen:              "player_stats/playtype/off_screen"
-      putbacks:                "player_stats/playtype/putbacks"
-      misc:                    "player_stats/playtype/misc"
-
-    # ─ “defense_dashboard” → 7 subcategories
-    defense_dashboard_subdirs:
-      overall:                 "player_stats/defense_dashboard/overall"
-      3_pointers:              "player_stats/defense_dashboard/3_pointers"
-      2_pointers:              "player_stats/defense_dashboard/2_pointers"
-      below_6ft:               "player_stats/defense_dashboard/below_6ft"
-      6ft_to_10ft:             "player_stats/defense_dashboard/6ft_to_10ft"
-      10ft_to_16ft:            "player_stats/defense_dashboard/10ft_to_16ft"
-      16ft_to_3pt:             "player_stats/defense_dashboard/16ft_to_3pt"
-
-    # ─ “clutch” → 6 subcategories
-    clutch_subdirs:
-      traditional:             "player_stats/clutch/traditional"
-      advanced:                "player_stats/clutch/advanced"
-      misc:                    "player_stats/clutch/misc"
-      scoring:                 "player_stats/clutch/scoring"
-      opponent:                "player_stats/clutch/opponent"
-      four_factors:            "player_stats/clutch/four_factors"
-
-    # ─ “shot_dashboard” → 6 subcategories
-    shot_dashboard_subdirs:
-      general:                 "player_stats/shot_dashboard/general"
-      shotclock:               "player_stats/shot_dashboard/shotclock"
-      dribbles:                "player_stats/shot_dashboard/dribbles"
-      touch_time:              "player_stats/shot_dashboard/touch_time"
-      closest_defender:        "player_stats/shot_dashboard/closest_defender"
-      closest_defender_10ft:   "player_stats/shot_dashboard/closest_defender_10ft"
-
-    # ─ “adv_box_scores” → 5 subcategories
-    adv_box_scores_subdirs:
-      advanced:                "player_stats/adv_box_scores/advanced"
-      traditional:             "player_stats/adv_box_scores/traditional"
-      scoring:                 "player_stats/adv_box_scores/scoring"
-      misc:                    "player_stats/adv_box_scores/misc"
-      four_factors:            "player_stats/adv_box_scores/four_factors"
-
-    # ─ “shooting” → distance_range subfolders
-    shooting_distance_subdirs:
-      by_zone:                 "player_stats/shooting/distance_range/by_zone"
-      range_5ft:               "player_stats/shooting/distance_range/5ft"
-      range_8ft:               "player_stats/shooting/distance_range/8ft"
-
-    # ─ “opponent_shooting” → 6 subcategories
-    opponent_shooting_subdirs:
-      overall:                 "player_stats/opponent_shooting/overall"
-      general:                 "player_stats/opponent_shooting/general"
-      shotclock:               "player_stats/opponent_shooting/shotclock"
-      dribbles:                "player_stats/opponent_shooting/dribbles"
-      touch_time:              "player_stats/opponent_shooting/touch_time"
-      closest_defender:        "player_stats/opponent_shooting/closest_defender"
-      closest_defender_10ft:   "player_stats/opponent_shooting/closest_defender_10ft"
-
-  # ───────────────────────────────────────────
-  # 4) Raw “team_stats” subfolders (similarly nested)
-  # ───────────────────────────────────────────
+    clutch: player_stats/clutch
+    adv_boxscores: player_stats/adv_boxscores
+    boxscores: player_stats/boxscores
+    general: player_stats/general
+    playtype: player_stats/playtype
+    shooting: player_stats/shooting
+    shot_dashboard: player_stats/shot_dashboard
+    defense_dashboard: player_stats/defense_dashboard
 
   team_stats:
-    general:                  "team_stats/general"
-    clutch:                   "team_stats/clutch"
-    advanced:                 "team_stats/advanced"
-    playtype:                 "team_stats/playtype"
-    defense_dashboard:        "team_stats/defense_dashboard"
-    shot_dashboard:           "team_stats/shot_dashboard"
-    box_scores:               "team_stats/box_scores"
-    adv_box_scores:           "team_stats/adv_box_scores"
-    shooting:                 "team_stats/shooting"
-    opponent_shooting:        "team_stats/opponent_shooting"
+    clutch: team_stats/clutch
+    adv_boxscores: team_stats/adv_boxscores
+    boxscores: team_stats/boxscores
+    general: team_stats/general
+    playtype: team_stats/playtype
+    shooting: team_stats/shooting
+    shot_dashboard: team_stats/shot_dashboard
+    defense_dashboard: team_stats/defense_dashboard
+    opponent_shooting: team_stats/opponent_shooting
 
-    # ─ “general” → 6 subcategories
-    general_subdirs:
-      traditional:             "team_stats/general/traditional"
-      advanced:                "team_stats/general/advanced"
-      misc:                    "team_stats/general/misc"
-      scoring:                 "team_stats/general/scoring"
-      defense:                 "team_stats/general/defense"
-      opponent:                "team_stats/general/opponent"
-      four_factors:            "team_stats/general/four_factors"
 
-    # ─ “playtype” → 10 subcategories
-    playtype_subdirs:
-      isolation:               "team_stats/playtype/isolation"
-      post_up:                 "team_stats/playtype/post_up"
-      transition:              "team_stats/playtype/transition"
-      spot_up:                 "team_stats/playtype/spot_up"
-      pick_and_roll_ball_handler: "team_stats/playtype/pick_and_roll_ball_handler"
-      pick_and_roll_man:       "team_stats/playtype/pick_and_roll_man"
-      hand_off:                "team_stats/playtype/hand_off"
-      cuts:                    "team_stats/playtype/cuts"
-      off_screen:              "team_stats/playtype/off_screen"
-      putbacks:                "team_stats/playtype/putbacks"
-      misc:                    "team_stats/playtype/misc"
-
-    # ─ “defense_dashboard” → 7 subcategories
-    defense_dashboard_subdirs:
-      overall:                 "team_stats/defense_dashboard/overall"
-      3_pointers:              "team_stats/defense_dashboard/3_pointers"
-      2_pointers:              "team_stats/defense_dashboard/2_pointers"
-      below_6ft:               "team_stats/defense_dashboard/below_6ft"
-      6ft_to_10ft:             "team_stats/defense_dashboard/6ft_to_10ft"
-      10ft_to_16ft:            "team_stats/defense_dashboard/10ft_to_16ft"
-      16ft_to_3pt:             "team_stats/defense_dashboard/16ft_to_3pt"
-
-    # ─ “clutch” → 6 subcategories
-    clutch_subdirs:
-      traditional:             "team_stats/clutch/traditional"
-      advanced:                "team_stats/clutch/advanced"
-      misc:                    "team_stats/clutch/misc"
-      scoring:                 "team_stats/clutch/scoring"
-      opponent:                "team_stats/clutch/opponent"
-      four_factors:            "team_stats/clutch/four_factors"
-
-    # ─ “shot_dashboard” → 6 subcategories
-    shot_dashboard_subdirs:
-      general:                 "team_stats/shot_dashboard/general"
-      shotclock:               "team_stats/shot_dashboard/shotclock"
-      dribbles:                "team_stats/shot_dashboard/dribbles"
-      touch_time:              "team_stats/shot_dashboard/touch_time"
-      closest_defender:        "team_stats/shot_dashboard/closest_defender"
-      closest_defender_10ft:   "team_stats/shot_dashboard/closest_defender_10ft"
-
-    # ─ “adv_box_scores” → 5 subcategories
-    adv_box_scores_subdirs:
-      advanced:                "team_stats/adv_box_scores/advanced"
-      traditional:             "team_stats/adv_box_scores/traditional"
-      scoring:                 "team_stats/adv_box_scores/scoring"
-      misc:                    "team_stats/adv_box_scores/misc"
-      four_factors:            "team_stats/adv_box_scores/four_factors"
-
-    # ─ “shooting” → distance_range subfolders
-    shooting_distance_subdirs:
-      by_zone:                 "team_stats/shooting/distance_range/by_zone"
-      range_5ft:               "team_stats/shooting/distance_range/5ft"
-      range_8ft:               "team_stats/shooting/distance_range/8ft"
-
-    # ─ “opponent_shooting” → 6 subcategories
-    opponent_shooting_subdirs:
-      overall:                 "team_stats/opponent_shooting/overall"
-      general:                 "team_stats/opponent_shooting/general"
-      shotclock:               "team_stats/opponent_shooting/shotclock"
-      dribbles:                "team_stats/opponent_shooting/dribbles"
-      touch_time:              "team_stats/opponent_shooting/touch_time"
-      closest_defender:        "team_stats/opponent_shooting/closest_defender"
-      closest_defender_10ft:   "team_stats/opponent_shooting/closest_defender_10ft"
-
-  # ───────────────────────────────────────────
-  # 5) Raw “schedule” folders by season
-  # ───────────────────────────────────────────
-
-  seasons:
-    years: ["2019", "2020", "2021", "2022", "2023", "2024", "2025"]
-
-# ──────────────────────────────────────────────
-# 6) Processed subdirectories
-# ──────────────────────────────────────────────
 
 processed_subdirs:
-  # 6.1) per_team → 32 codes (30 franchises + “FA” + “RET”)
-  per_team:
-    ["ATL", "BOS", "BKN", "CHA", "CHI", "CLE", "DAL", "DEN", "DET", "GSW",
-      "HOU", "IND", "LAC", "LAL", "MEM", "MIA", "MIL", "MIN", "NOP", "NYK",
-      "OKC", "ORL", "PHI", "PHX", "POR", "SAC", "SAS", "TOR", "UTA", "WAS", "FA", "RET"]
+  players_bios_cleaned: players_bios_cleaned.csv
+  team_bios_cleaned: team_bios_cleaned.csv
+  mvp_cleaned: mvp_cleaned.csv
 
-  # 6.2) per_team_stats: list of seasons
-  per_team_stats: ["2019", "2020", "2021", "2022", "2023", "2024", "2025"]
-  
-  awards:
-    mvp:           "awards/mvp.csv"
-    roty:           "awards/roty.csv"  # Rookie of the Year 
-    dpoy:           "awards/dpoy.csv"  # Defensive Player of the Year
-    6oty:         "awards/6oty.csv"
-    mip:           "awards/mip.csv"  # Most Improved Player
-    all_league_teams: "awards/all_league_teams.csv"
-    all_defense_teams: "awards/all_defense_teams.csv"
-    all_rookie_teams: "awards/all_rookie_teams.csv"
-
-
-
-  # 6.3) feature_store folder under processed
-  feature_store: "${processed_dir}/feature_store"
-
-# ──────────────────────────────────────────────
-# 7) API Endpoints & Headers
-# ──────────────────────────────────────────────
-
+# Scraping configuration (no API key required)
 api:
-  common_all_players:  "https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season={season}"
-  common_player_info:  "https://stats.nba.com/stats/commonplayerinfo?PlayerID={player_id}"
-  # (You can add more NBA Stats endpoints here, e.g. boxscorestraditionalv2, etc., as needed.)
+  nba_scraper:
+    user_agent: ${NBA_USER_AGENT}
+    common_all_players: "https://stats.nba.com/stats/commonallplayers?IsOnlyCurrentSeason=0&LeagueID=00&Season={season}"
+    common_player_info: "https://stats.nba.com/stats/commonplayerinfo?PlayerID={player_id}"
+    team_game_logs: "https://stats.nba.com/stats/teamgamelogs?TeamID={team_id}&Season={season}&SeasonType={season_type}"
+    player_game_logs: "https://stats.nba.com/stats/playergamelogs?PlayerID={player_id}&Season={season}&SeasonType={season_type}"
+    league_dash_player_clutch: "https://stats.nba.com/stats/leaguedashplayerclutch?Season={season}&SeasonType={season_type}"
+    league_dash_team_clutch: "https://stats.nba.com/stats/leaguedashteamclutch?Season={season}&SeasonType={season_type}"
+    league_dash_pt_team_defend: "https://stats.nba.com/stats/leaguedashptteamdefend?Season={season}&SeasonType={season_type}"
+    league_dash_team_stats: "https://stats.nba.com/stats/leaguedashteamstats?Season={season}&SeasonType={season_type}"
+    league_dash_opp_pt_shot: "https://stats.nba.com/stats/leaguedashoppptshot?Season={season}&SeasonType={season_type}"
+    headers:
+      user_agent: "${NBA_USER_AGENT}"
+      origin: "https://www.nba.com"
+      referer: "https://www.nba.com"
+      accept: "application/json, text/plain, */*"
+      x_nba_stats_origin: stats
+      x_nba_stats_token: true
 
-  headers:
-    user_agent:        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-    origin:            "https://www.nba.com"
-    referer:           "https://www.nba.com"
-    accept:            "application/json, text/plain, */*"
-    x_nba_stats_origin: "stats"
-    x_nba_stats_token:  "true"
+# Logging configuration
+logging:
+  level: ${LOG_LEVEL}
+  path: logs/pipeline.log
 
-# ──────────────────────────────────────────────
-# 8) Defaults & Constants
-# ──────────────────────────────────────────────
+# MLflow tracking
+mlflow:
+  uri: http://localhost:5000
+  experiment: nba_analysis
 
+# Modeling / Experiment defaults
 defaults:
-  silhouette_url:   "https://cdn.nba.com/headshots/nba/latest/1040x760/fallback.png"
-  missing_birthdate: "1980-01-01"
-  undrafted_code:    "UDF"
+  seed: 42
+  n_splits: 5
+  use_gpu: ${USE_GPU}
+  n_jobs: -1
+  silhouette_url: https://cdn.nba.com/headshots/nba/latest/1040x760/fallback.png
+  missing_birthdate: 1980-01-01
+  undrafted_code: UDF
   retiree_missing_core_threshold: 4
-  free_agent_label: "FA"
+  free_agent_label: FA
 
-# ──────────────────────────────────────────────
-# 9) “files” section (cleaned outputs)
-# ──────────────────────────────────────────────
-
-files:
-  players_bios_cleaned: "players_bios_cleaned.csv"
-  team_bios_cleaned:   "team_bios_cleaned.csv"
-  mvp_cleaned:         "mvp_cleaned.csv"
+# Pipelines (optional mapping of stage names to script files)
+pipelines:
+  clean_players: clean_player.py
+  scrape_teams: scrape_nba_teams.py
+  clean_mvp: clean_mvp.py
+  # add more as needed

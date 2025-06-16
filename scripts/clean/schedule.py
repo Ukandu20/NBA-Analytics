@@ -3,7 +3,7 @@
 generate_team_schedules.py
 
 For each season/team under:
-  data/processed/team_stats/box_scores/<SEASON>/teams/<TEAM>/
+  data/processed/team_stats/boxscores/<SEASON>/teams/<TEAM>/
 
 Reads:
   - regular_season_traditional.csv
@@ -25,7 +25,7 @@ import pandas as pd
 
 # ─── Paths ─────────────────────────────────────────────────────────────
 ROOT        = Path(__file__).resolve().parents[2]
-BOX_BASE    = ROOT / "data" / "processed" / "team_stats" / "box_scores"
+BOX_BASE    = ROOT / "data" / "processed" / "team_stats" / "boxscores"
 SCHED_BASE  = ROOT / "data" / "processed" / "schedule"
 SCHED_BASE.mkdir(parents=True, exist_ok=True)
 

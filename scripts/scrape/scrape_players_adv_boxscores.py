@@ -10,7 +10,7 @@ Four Factors, Scoring, Misc) for one or more NBA seasons:
 
 Outputs
 -------
-data/raw/player_stats/adv_box_scores/<season>/
+data/raw/player_stats/adv_boxscores/<season>/
     regular_season_traditional.csv
     regular_season_advanced.csv
     ...

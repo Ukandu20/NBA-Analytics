@@ -7,7 +7,7 @@ for Regular Season & Playoffs, for one or more seasons.
 
 Outputs
 -------
-data/raw/player_stats/box_scores/<season>/
+data/raw/player_stats/boxscores/<season>/
     regular_season_traditional.csv
     playoffs_traditional.csv
 """

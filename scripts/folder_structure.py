@@ -34,8 +34,8 @@ def main():
         "data/raw/player_stats/clutch",  # clutch stats
         "data/raw/player_stats/defense_dashboard",
         "data/raw/player_stats/shot_dashboard",
-        "data/raw/player_stats/box_scores",
-        "data/raw/player_stats/adv_box_scores",
+        "data/raw/player_stats/boxscores",
+        "data/raw/player_stats/adv_boxscores",
         "data/raw/player_stats/shooting",
         "data/raw/player_stats/opponent_shooting",  # opponent shooting stats
         "data/raw/player_stats/general",
@@ -89,11 +89,11 @@ def main():
         "data/raw/player_stats/shot_dashboard/closest_defender_10ft",
         
         # Advanced Box Scores subfolders
-        "data/raw/player_stats/adv_box_scores/advanced",
-        "data/raw/player_stats/adv_box_scores/traditional",
-        "data/raw/player_stats/adv_box_scores/scoring",
-        "data/raw/player_stats/adv_box_scores/misc",
-        "data/raw/player_stats/adv_box_scores/four_factors",
+        "data/raw/player_stats/adv_boxscores/advanced",
+        "data/raw/player_stats/adv_boxscores/traditional",
+        "data/raw/player_stats/adv_boxscores/scoring",
+        "data/raw/player_stats/adv_boxscores/misc",
+        "data/raw/player_stats/adv_boxscores/four_factors",
         # Shooting (distance ranges) subfolders
         "data/raw/player_stats/shooting/distance_range/by_zone",
         "data/raw/player_stats/shooting/distance_range/5ft",
@@ -115,8 +115,8 @@ def main():
         "data/raw/team_stats/playtype",
         "data/raw/team_stats/defense_dashboard",
         "data/raw/team_stats/shot_dashboard",
-        "data/raw/team_stats/box_scores",
-        "data/raw/team_stats/adv_box_scores",
+        "data/raw/team_stats/boxscores",
+        "data/raw/team_stats/adv_boxscores",
         "data/raw/team_stats/shooting",
         "data/raw/team_stats/opponent_shooting",   
 
@@ -166,11 +166,11 @@ def main():
         "data/raw/team_stats/shot_dashboard/closest_defender_10ft",
         
         # Advanced Box Scores subfolders
-        "data/raw/team_stats/adv_box_scores/advanced",
-        "data/raw/team_stats/adv_box_scores/traditional",
-        "data/raw/team_stats/adv_box_scores/scoring",
-        "data/raw/team_stats/adv_box_scores/misc",
-        "data/raw/team_stats/adv_box_scores/four_factors",
+        "data/raw/team_stats/adv_boxscores/advanced",
+        "data/raw/team_stats/adv_boxscores/traditional",
+        "data/raw/team_stats/adv_boxscores/scoring",
+        "data/raw/team_stats/adv_boxscores/misc",
+        "data/raw/team_stats/adv_boxscores/four_factors",
         # Shooting (distance ranges) subfolders
         "data/raw/team_stats/shooting/distance_range/by_zone",
         "data/raw/team_stats/shooting/distance_range/5ft",

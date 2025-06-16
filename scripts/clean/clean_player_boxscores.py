@@ -9,7 +9,7 @@ team-keyed folder (same convention you used for the advanced logs).
 
 Cleaned layout
 --------------
-data/processed/player_stats/box_scores/<season>/
+data/processed/player_stats/boxscores/<season>/
 ├─ regular_season_traditional.csv          ← full table, cleaned
 ├─ playoffs_traditional.csv
 └─ teams/
