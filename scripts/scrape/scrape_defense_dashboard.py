@@ -52,7 +52,7 @@ DEF_CAT = {
     "gt15ft":         "Greater Than 15Ft",
 }
 SEASON_TYPES = ["Regular Season", "Playoffs"]
-PER_MODES    = ["Totals", "PerGame", "Per36", "Per48", "Per100Possessions"]
+PER_MODES    = ["Totals", "PerGame"]
 ENDPOINT     = "https://stats.nba.com/stats/leaguedashptteamdefend"
 # ────────────────────────────────────────────────────────────────────────────
 
