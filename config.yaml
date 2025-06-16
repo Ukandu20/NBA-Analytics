@@ -65,12 +65,13 @@ api:
     common_player_info: "https://stats.nba.com/stats/commonplayerinfo?PlayerID={player_id}"
     team_game_logs: "https://stats.nba.com/stats/teamgamelogs?TeamID={team_id}&Season={season}&SeasonType={season_type}"
     player_game_logs: "https://stats.nba.com/stats/playergamelogs?PlayerID={player_id}&Season={season}&SeasonType={season_type}"
-    league_dash_player_clutch: "https://stats.nba.com/stats/leaguedashplayerclutch?Season={season}&SeasonType={season_type}"
-    league_dash_team_clutch: "https://stats.nba.com/stats/leaguedashteamclutch?Season={season}&SeasonType={season_type}"
-    league_dash_pt_team_defend: "https://stats.nba.com/stats/leaguedashptteamdefend?Season={season}&SeasonType={season_type}"
+    player_clutch: "https://stats.nba.com/stats/leaguedashplayerclutch?Season={season}&SeasonType={season_type}"
+    team_clutch: "https://stats.nba.com/stats/leaguedashteamclutch?Season={season}&SeasonType={season_type}"
+    team_defend: "https://stats.nba.com/stats/leaguedashptteamdefend?Season={season}&SeasonType={season_type}"
     league_dash_team_stats: "https://stats.nba.com/stats/leaguedashteamstats?Season={season}&SeasonType={season_type}"
     league_dash_opp_pt_shot: "https://stats.nba.com/stats/leaguedashoppptshot?Season={season}&SeasonType={season_type}"
-    
+    team_general: "https://stats.nba.com/stats/leaguedashteamstats?Season={season}&SeasonType={season_type}"
+
     headers:
       user_agent: "${NBA_USER_AGENT}"
       origin: "https://www.nba.com"
