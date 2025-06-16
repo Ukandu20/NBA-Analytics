@@ -57,7 +57,7 @@ GENERAL_RANGE = {
     "lt10ft":      "Less Than 10 ft",
 }
 SEASON_TYPES = ["Regular Season", "Playoffs"]
-PER_MODES = ["Totals", "PerGame", "Per36", "Per48", "Per100Possessions"]
+PER_MODES = ["Totals", "PerGame"]
 API_URL   = "https://stats.nba.com/stats/leaguedashoppptshot"
 # ────────────────────────────────────────────────────────────────────────────
 

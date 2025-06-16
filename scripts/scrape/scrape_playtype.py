@@ -2,44 +2,52 @@
 """
 scrape_team_playtype.py
 =======================
-Teams ➤ Playtype (Synergy)
+Fetch Teams ➤ Playtype (Synergy)
 
 • PlayType       ─ isolation, transition,
                    pr_ball_handler, pr_roll_man,
                    post_up, spot_up,
                    handoff, cut,
-                   off_screen, putbacks  
-• TypeGrouping   ─ offensive | defensive  
-• PerMode        ─ Totals | PerGame  
-• SeasonType     ─ Regular Season | Playoffs  
+                   off_screen, putbacks
+• TypeGrouping   ─ offensive | defensive
+• PerMode        ─ Totals | PerGame
+• SeasonType     ─ Regular Season | Playoffs
 
-Writes CSVs to:
-  data/raw/team_stats/playtype/<season>/totals/*.csv
-  data/raw/team_stats/playtype/<season>/per_game/*.csv
+Organizes output as:
+    <output-root>/<season>/<perMode>/<season_type>/<playtype>_<group>.csv
+
+Usage:
+    python scrape_team_playtype.py \
+        --season 2022-23 2023-24 \
+        [--season-type "Regular Season" Playoffs] \
+        [--per-mode Totals PerGame] \
+        [--playtype isolation transition pr_ball_handler pr_roll_man post_up spot_up handoff cut off_screen putbacks] \
+        [--group offensive defensive] \
+        [--output-root data/raw/team_stats/playtype] \
+        [--skip-existing] \
+        [--delay 0.6]
 """
-
-import time
 import argparse
-import pathlib
+import logging
+import time
+from pathlib import Path
 
-import requests
 import pandas as pd
+import requests
+from requests.adapters import HTTPAdapter, Retry
 
-# ─── NBA Stats API constants ─────────────────────────────────────────────────
-HEADERS = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                   "AppleWebKit/537.36 (KHTML, like Gecko) "
-                   "Chrome/125.0.0.0 Safari/537.36"),
+# ── CONFIGURATION ─────────────────────────────────────────────────────────
+DEFAULT_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/125.0.0.0 Safari/537.36"
+    ),
     "Referer":            "https://www.nba.com/",
     "Origin":             "https://www.nba.com",
     "x-nba-stats-origin": "stats",
     "x-nba-stats-token":  "true",
 }
-
-ENDPOINT         = "https://stats.nba.com/stats/synergyplaytypes"
-DATA_ROOT        = pathlib.Path("data/raw/team_stats/playtype")
-
-# ─── Correct PlayType → API value map ────────────────────────────────────────
 PLAYTYPE_MAP = {
     "isolation":        "Isolation",
     "transition":       "Transition",
@@ -52,135 +60,180 @@ PLAYTYPE_MAP = {
     "off_screen":       "OffScreen",
     "putbacks":         "OffRebound",
 }
+TYPE_GROUP_KEYS = ["offensive", "defensive"]
+SEASON_TYPES    = ["Regular Season", "Playoffs"]
+PER_MODES       = ["Totals", "PerGame"]
+API_URL         = "https://stats.nba.com/stats/synergyplaytypes"
+DATA_ROOT       = Path("data/raw/team_stats/playtype")
+# ────────────────────────────────────────────────────────────────────────────
 
-TYPE_GROUP_KEYS  = ["offensive", "defensive"]
-SEASON_TYPES     = ["Regular Season", "Playoffs"]
-PER_MODE_FOLDERS = {"Totals": "totals", "PerGame": "per_game"}
+def create_session(headers: dict) -> requests.Session:
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    session.headers.update(headers)
+    return session
 
-# will hold the canonical header list
-SCHEMA: list[str] = []
 
-
-def init_schema(season: str):
+def init_schema(session: requests.Session, season: str) -> None:
     """
-    Fire one known request (Isolation/offensive/totals) to learn
-    the full CSV schema up front.
+    Pre-fetch one call to capture CSV schema headers.
     """
-    global SCHEMA
     params = {
-        "SeasonYear":     season,
-        "SeasonType":     "Regular Season",
-        "PerMode":        "Totals",
-        "LeagueID":       "00",
-        "PlayType":       PLAYTYPE_MAP["isolation"],
-        "PlayerOrTeam":   "T",
-        "TypeGrouping":   "offensive",
-        # blank everything else
-        **{key: "" for key in (
+        "SeasonYear":   season,
+        "SeasonType":   "Regular Season",
+        "PerMode":      "Totals",
+        "LeagueID":     "00",
+        "PlayType":     PLAYTYPE_MAP["isolation"],
+        "PlayerOrTeam": "T",
+        "TypeGrouping": "offensive",
+        **{k: "" for k in (
             "Conference", "Division", "GameScope", "GameSegment",
             "DateFrom", "DateTo", "Location", "Outcome", "SeasonSegment",
             "StarterBench", "ShotClockRange", "VsConference", "VsDivision"
         )},
-        "LastNGames":     "0",
-        "Month":          "0",
-        "OpponentTeamID": "0",
-        "PORound":        "",
-        "Period":         "0",
+        "LastNGames":    "0",
+        "Month":         "0",
+        "OpponentTeamID":"0",
+        "PORound":       "",
+        "Period":        "0",
     }
-    r = requests.get(ENDPOINT, headers=HEADERS, params=params, timeout=20)
+    r = session.get(API_URL, params=params, timeout=20)
     r.raise_for_status()
     data = r.json().get("resultSets", [])[0]
+    global SCHEMA
     SCHEMA = data["headers"]
 
 
-def call_api(params: dict) -> pd.DataFrame:
-    """
-    Fetch, retry on network/5xx up to 3×, immediate empty on 4xx.
-    """
-    backoff = 1.0
-    for attempt in range(1, 4):
-        try:
-            r = requests.get(ENDPOINT, headers=HEADERS, params=params, timeout=20)
-            if 500 <= r.status_code < 600:
-                raise requests.HTTPError(response=r)
-            r.raise_for_status()
-            data = r.json().get("resultSets", [])[0]
-            return pd.DataFrame(data["rowSet"], columns=data["headers"])
-        except requests.HTTPError as err:
-            code = err.response.status_code if err.response else None
-            if code and 400 <= code < 500:
-                # if the combo truly doesn't exist, return an empty DF
-                return pd.DataFrame(columns=SCHEMA)
-            if attempt == 3:
-                raise
-            time.sleep(backoff)
-            backoff *= 2.0
-        except requests.ConnectionError:
-            if attempt == 3:
-                raise
-            time.sleep(backoff)
-            backoff *= 2.0
-    raise RuntimeError("call_api exhausted retries")
-
-
-def fetch_combo(season: str,
-                season_type: str,
-                per_mode: str,
-                pt_key: str,
-                grp_key: str) -> None:
-    """
-    Download one CSV for season_type × per_mode × playtype × grouping.
-    """
-    # Only these two directories ever get created:
-    out_dir = DATA_ROOT / season / PER_MODE_FOLDERS[per_mode]
-    out_dir.mkdir(parents=True, exist_ok=True)
-
-    fname = f"{season_type.lower().replace(' ', '_')}_{pt_key}_{grp_key}.csv"
-    fpath = out_dir / fname
-
+def fetch_playtype(
+    session: requests.Session,
+    season: str,
+    season_type: str,
+    per_mode: str,
+    playtype: str,
+    group: str,
+) -> pd.DataFrame:
     params = {
-        "SeasonYear":     season,
-        "SeasonType":     season_type,
-        "PerMode":        per_mode,
-        "LeagueID":       "00",
-        "PlayType":       PLAYTYPE_MAP[pt_key],
-        "PlayerOrTeam":   "T",
-        "TypeGrouping":   grp_key,
-        **{key: "" for key in (
+        "SeasonYear":   season,
+        "SeasonType":   season_type,
+        "PerMode":      per_mode,
+        "LeagueID":     "00",
+        "PlayType":     PLAYTYPE_MAP[playtype],
+        "PlayerOrTeam": "T",
+        "TypeGrouping": group,
+        **{k: "" for k in (
             "Conference", "Division", "GameScope", "GameSegment",
             "DateFrom", "DateTo", "Location", "Outcome", "SeasonSegment",
             "StarterBench", "ShotClockRange", "VsConference", "VsDivision"
         )},
-        "LastNGames":     "0",
-        "Month":          "0",
-        "OpponentTeamID": "0",
-        "PORound":        "",
-        "Period":         "0",
+        "LastNGames":    "0",
+        "Month":         "0",
+        "OpponentTeamID":"0",
+        "PORound":       "",
+        "Period":        "0",
     }
-
-    try:
-        df = call_api(params)
-    except Exception as e:
-        print(f"🚫 {fname} → {type(e).__name__}: {e}")
-        return
-
-    df.to_csv(fpath, index=False)
-    print(f"✅ {fpath.relative_to(DATA_ROOT)}  ({len(df)} rows)")
-    time.sleep(0.6)
+    r = session.get(API_URL, params=params, timeout=20)
+    r.raise_for_status()
+    data = r.json().get("resultSets", [])[0]
+    return pd.DataFrame(data.get("rowSet", []), columns=SCHEMA)
 
 
-def main(season: str):
-    init_schema(season)
-    for season_type in SEASON_TYPES:
-        for per_mode in PER_MODE_FOLDERS:
-            for pt_key in PLAYTYPE_MAP:
-                for grp_key in TYPE_GROUP_KEYS:
-                    fetch_combo(season, season_type, per_mode, pt_key, grp_key)
+def main():
+    parser = argparse.ArgumentParser(
+        description="Scrape Teams ➤ Playtype dashboard with season-first layout."
+    )
+    parser.add_argument(
+        "--season", nargs="+", required=True,
+        help="One or more NBA seasons (format YYYY-YY)"
+    )
+    parser.add_argument(
+        "--season-type", nargs="+", choices=SEASON_TYPES,
+        default=SEASON_TYPES,
+        help="Season types to fetch"
+    )
+    parser.add_argument(
+        "--per-mode", nargs="+", choices=PER_MODES,
+        default=PER_MODES,
+        help="Per-mode options: fetch all modes by default"
+    )
+    parser.add_argument(
+        "--playtype", nargs="+", choices=PLAYTYPE_MAP.keys(),
+        default=list(PLAYTYPE_MAP.keys()),
+        help="PlayType categories to fetch"
+    )
+    parser.add_argument(
+        "--group", nargs="+", choices=TYPE_GROUP_KEYS,
+        default=TYPE_GROUP_KEYS,
+        help="Type grouping: offensive or defensive"
+    )
+    parser.add_argument(
+        "--output-root", type=Path,
+        default=DATA_ROOT,
+        help="Root directory for output CSVs"
+    )
+    parser.add_argument(
+        "--skip-existing", action="store_true",
+        help="Skip downloading if target CSV already exists"
+    )
+    parser.add_argument(
+        "--delay", type=float, default=0.6,
+        help="Seconds to sleep between requests"
+    )
+    args = parser.parse_args()
 
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)-8s %(message)s"
+    )
+    session = create_session(DEFAULT_HEADERS)
+
+    for season in args.season:
+        init_schema(session, season)
+        for per_mode in args.per_mode:
+            for season_type in args.season_type:
+                for playtype in args.playtype:
+                    for group in args.group:
+                        out_dir = (
+                            args.output_root
+                            / season
+                            / per_mode
+                            / season_type.lower().replace(" ", "_")
+                        )
+                        out_dir.mkdir(parents=True, exist_ok=True)
+                        fname = f"{playtype}_{group}.csv"
+                        fpath = out_dir / fname
+
+                        if args.skip_existing and fpath.exists():
+                            logging.info("Skipping existing %s", fpath)
+                            continue
+
+                        try:
+                            df = fetch_playtype(
+                                session, season, season_type,
+                                per_mode, playtype, group
+                            )
+                            if df.empty:
+                                logging.warning(
+                                    "No data for %s | %s | %s | %s | %s",
+                                    season, per_mode, season_type,
+                                    playtype, group
+                                )
+                                continue
+
+                            df.to_csv(fpath, index=False)
+                            logging.info("Saved %s (%d rows)", fpath, len(df))
+                        except Exception as e:
+                            logging.error(
+                                "Error %s | %s | %s | %s | %s: %s",
+                                season, per_mode, season_type,
+                                playtype, group, e
+                            )
+                        time.sleep(args.delay)
 
 if __name__ == "__main__":
-    p = argparse.ArgumentParser(description="Scrape Teams ➤ Playtype")
-    p.add_argument("--season", default="2024-25",
-                   help="NBA season (YYYY-YY), e.g. 2024-25")
-    args = p.parse_args()
-    main(args.season)
+    main()
