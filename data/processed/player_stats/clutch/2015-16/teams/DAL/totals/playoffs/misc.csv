@@ -1,8 +1,0 @@
-group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
-,2734,Devin Harris,,1610612742,DAL,33.0,2,1,1,0.5,5.5183333333333335,2,0,2,2,2,4,0,4,0,0,0,0,3.2,78,60,19,49,83,16,34,8,30,41,77,1,47,32,1,1,64,82
-,1717,Dirk Nowitzki,,1610612742,DAL,38.0,2,1,1,0.5,5.6,0,0,0,0,2,4,0,4,0,0,0,0,1.2,78,60,19,49,79,36,34,24,55,41,77,1,47,32,1,1,64,99
-,1626147,Justin Anderson,,1610612742,DAL,22.0,1,1,0,1.0,0.24,0,0,0,0,0,0,0,0,1,0,0,0,3.0,98,60,1,1,126,36,34,24,55,1,1,1,1,10,1,1,64,85
-,101109,Raymond Felton,,1610612742,DAL,32.0,2,1,1,0.5,5.6,0,0,0,2,2,4,0,4,0,1,1,2,8.6,78,60,19,49,79,36,34,24,30,41,77,1,47,32,102,52,22,49
-,1626257,Salah Mejri,,1610612742,DAL,30.0,1,1,0,1.0,4.958333333333333,0,0,0,0,2,2,0,2,0,1,0,0,0.0,98,60,1,1,84,36,34,24,55,41,44,1,23,32,102,1,64,106
-,202083,Wesley Matthews,,1610612742,DAL,29.0,2,1,1,0.5,5.6,0,0,2,2,2,4,0,4,0,0,1,0,7.7,78,60,19,49,79,36,34,8,30,41,77,1,47,32,1,52,64,53
-,2585,Zaza Pachulia,,1610612742,DAL,32.0,1,0,1,0.0,0.4833333333333333,0,0,0,0,0,2,0,2,0,0,0,0,0.0,98,99,19,99,123,36,34,24,55,1,44,1,23,32,1,1,64,106

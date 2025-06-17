@@ -1,6 +1,0 @@
-group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
-,1626224,Cedi Osman,,1610612739,CLE,28.0,1,0,1,0.0,4.283333333333333,16.8,0.0,16.8,16.8,0.0,58.8,0.0,16.8,0.0,0.0,0.0,0.0,16.8,97,92,14,92,96,2,37,2,8,1,125,1,103,26,1,1,67,84
-,1629636,Darius Garland,,1610612739,CLE,23.0,1,0,1,0.0,4.283333333333333,0.0,0.0,0.0,0.0,0.0,58.8,0.0,16.8,0.0,0.0,8.4,0.0,25.2,97,92,14,92,96,38,37,23,57,1,125,1,103,26,1,114,67,65
-,1628378,Donovan Mitchell,,1610612739,CLE,26.0,1,0,1,0.0,4.283333333333333,16.8,0.0,16.8,16.8,0.0,58.8,0.0,16.8,0.0,0.0,8.4,8.4,84.0,97,92,14,92,96,2,37,2,8,1,125,1,103,26,1,114,13,2
-,1630596,Evan Mobley,,1610612739,CLE,22.0,1,0,1,0.0,4.283333333333333,0.0,0.0,0.0,0.0,0.0,58.8,0.0,16.8,0.0,0.0,0.0,0.0,0.0,97,92,14,92,96,38,37,23,57,1,125,1,103,26,1,1,67,108
-,1628386,Jarrett Allen,,1610612739,CLE,25.0,1,0,1,0.0,4.283333333333333,0.0,16.8,0.0,33.6,0.0,58.8,0.0,16.8,0.0,0.0,0.0,0.0,53.8,97,92,14,92,96,38,3,23,3,1,125,1,103,26,1,1,67,12

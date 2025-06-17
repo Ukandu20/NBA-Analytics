@@ -33,8 +33,8 @@ from utils.clean_helpers   import normalise_cols
 from utils.numeric_helpers import coerce_all_numeric      # percent → 0-1
 
 THREADS         = 4
-EXCLUDE_NUMERIC = ["player", "team", "team_id", "note"]
-CORE_MODES_LC   = {"totals", "per36", "pergame", "per48"}   # warn if absent
+EXCLUDE_NUMERIC = ["player", "team", "team_id", "note", "nickname"]
+CORE_MODES_LC   = {"totals", "per36", "pergame", "per48", "per100possessions"}   # warn if absent
 
 # ── column helpers ----------------------------------------------------------
 def _ensure_team(df: pd.DataFrame) -> None:
@@ -105,6 +105,7 @@ def _clean_one(
         },
         inplace=True,
     )
+    df.drop(columns=["group_set"], errors="ignore", inplace=True)
     _ensure_team(df)
     _add_season_bounds(df)
 
