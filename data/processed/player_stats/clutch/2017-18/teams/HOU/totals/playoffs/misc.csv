@@ -1,0 +1,7 @@
+player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+101108,Chris Paul,Chris,1610612745,HOU,33.0,4,4,0,1.0,11.835,2,2,0,2,3,5,4,4,0,2,2,2,12.9,26,9,1,1,35,12,12,22,26,89,98,108,51,21,134,109,16,28
+203991,Clint Capela,Clint,1610612745,HOU,24.0,4,4,0,1.0,4.248333333333333,0,0,0,0,0,2,2,2,0,0,0,0,3.0,26,9,1,1,87,22,32,22,46,1,54,77,24,21,1,1,55,78
+201569,Eric Gordon,Eric,1610612745,HOU,29.0,3,3,0,1.0,11.083333333333334,2,0,0,0,3,5,4,4,1,0,1,2,16.0,53,21,1,1,43,12,32,22,46,89,98,108,51,3,1,66,16,23
+201935,James Harden,James,1610612745,HOU,28.0,4,4,0,1.0,12.866666666666667,0,0,3,4,3,5,4,4,0,0,1,0,8.5,26,9,1,1,29,22,32,3,13,89,98,108,51,21,1,66,55,45
+200782,P.J. Tucker,P.J.,1610612745,HOU,33.0,4,4,0,1.0,12.866666666666667,0,0,0,0,3,5,4,4,0,0,0,0,8.4,26,9,1,1,29,22,32,22,46,89,98,108,51,21,1,1,55,46
+2772,Trevor Ariza,Trevor,1610612745,HOU,33.0,4,4,0,1.0,11.433333333333334,0,0,0,0,3,3,2,2,0,0,0,1,5.8,26,9,1,1,39,22,32,22,46,89,77,77,24,21,1,1,30,59

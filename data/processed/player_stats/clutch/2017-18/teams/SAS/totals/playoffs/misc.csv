@@ -1,0 +1,7 @@
+player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+1627749,Dejounte Murray,Dejounte,1610612759,SAS,21.0,1,1,0,1.0,0.95,0,0,0,0,0,0,0,0,0,0,0,0,0.0,105,47,1,1,125,22,32,22,46,1,1,1,1,21,1,1,55,106
+202722,Dāvis Bertāns,Dāvis,1610612759,SAS,25.0,1,0,1,0.0,1.4,0,0,0,0,2,2,0,2,0,0,0,0,0.0,105,100,16,100,118,22,32,22,46,65,54,1,24,21,1,1,55,106
+200746,LaMarcus Aldridge,LaMarcus,1610612759,SAS,32.0,2,1,1,0.5,2.35,0,2,0,0,2,2,0,2,0,0,0,2,9.6,82,47,16,43,96,22,12,22,46,65,54,1,24,21,1,1,16,38
+1938,Manu Ginobili,Manu,1610612759,SAS,40.0,2,1,1,0.5,2.35,0,0,0,0,2,2,0,2,0,0,0,0,2.0,82,47,16,43,96,22,32,22,46,65,54,1,24,21,1,1,55,87
+201988,Patty Mills,Patty,1610612759,SAS,29.0,2,1,1,0.5,2.35,0,0,0,0,2,2,0,2,0,0,1,0,1.5,82,47,16,43,96,22,32,22,46,65,54,1,24,21,1,66,55,94
+200752,Rudy Gay,Rudy,1610612759,SAS,31.0,2,1,1,0.5,2.35,0,0,0,0,2,2,0,2,0,0,1,0,1.2,82,47,16,43,96,22,32,22,46,65,54,1,24,21,1,66,55,99

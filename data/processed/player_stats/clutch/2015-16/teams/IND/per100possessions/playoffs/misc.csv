@@ -1,0 +1,7 @@
+player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+201588,George Hill,George,1610612754,IND,30.0,3,1,2,0.333,60.9,0.0,0.0,0.0,0.0,38.5,0.0,0.0,15.4,7.7,0.0,30.8,0.0,23.1,49,60,69,81,19,36,34,24,55,119,1,1,99,7,1,124,64,84
+101133,Ian Mahinmi,Ian,1610612754,IND,29.0,2,1,1,0.5,61.8,0.0,0.0,0.0,0.0,33.3,0.0,0.0,33.3,0.0,0.0,16.7,16.7,70.0,78,60,19,49,16,36,34,24,55,113,1,1,59,32,1,117,7,20
+101145,Monta Ellis,Monta,1610612754,IND,30.0,3,1,2,0.333,60.9,0.0,0.0,0.0,0.0,38.5,0.0,0.0,15.4,0.0,0.0,0.0,0.0,-7.7,49,60,69,81,19,36,34,24,55,119,1,1,99,32,1,1,64,129
+1626167,Myles Turner,Myles,1610612754,IND,20.0,3,1,2,0.333,60.1,0.0,0.0,0.0,57.1,42.9,0.0,0.0,0.0,0.0,0.0,14.3,0.0,74.3,49,60,69,81,23,36,34,24,2,123,1,1,108,32,1,114,64,18
+202331,Paul George,Paul,1610612754,IND,26.0,3,1,2,0.333,60.9,0.0,0.0,15.4,0.0,38.5,0.0,0.0,15.4,0.0,0.0,0.0,7.7,59.2,49,60,69,81,19,36,34,4,55,119,1,1,99,32,1,1,27,26
+203524,Solomon Hill,Solomon,1610612754,IND,25.0,3,1,2,0.333,60.9,0.0,23.1,0.0,0.0,38.5,0.0,0.0,15.4,0.0,0.0,0.0,15.4,41.5,49,60,69,81,19,36,5,24,55,119,1,1,99,32,1,1,10,51

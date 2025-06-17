@@ -1,0 +1,7 @@
+player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+201143,Al Horford,Al,1610612738,BOS,38.0,6,6,0,1.0,46.4,0.0,0.0,0.0,0.0,19.2,3.8,9.6,19.2,1.9,0.0,0.0,0.0,29.8,19,1,1,1,67,33,38,18,48,89,47,97,83,23,1,1,53,68
+1628401,Derrick White,Derrick,1610612738,BOS,29.0,6,6,0,1.0,46.4,9.6,0.0,0.0,3.8,19.2,3.8,9.6,19.2,3.8,1.9,5.8,5.8,65.6,19,1,1,1,67,12,38,18,44,89,47,97,83,14,100,78,34,22
+1627759,Jaylen Brown,Jaylen,1610612738,BOS,27.0,6,6,0,1.0,46.4,9.6,3.8,0.0,15.4,19.2,3.8,9.6,19.2,1.9,1.9,0.0,9.6,64.4,19,1,1,1,67,12,28,18,19,89,47,97,83,23,100,1,19,23
+1628369,Jayson Tatum,Jayson,1610612738,BOS,26.0,6,6,0,1.0,45.7,5.8,9.6,3.8,15.4,19.2,3.8,9.6,15.4,0.0,3.8,5.8,9.6,63.7,19,1,1,1,77,19,14,13,19,89,47,97,91,27,110,78,19,24
+201950,Jrue Holiday,Jrue,1610612738,BOS,34.0,6,6,0,1.0,45.8,3.8,0.0,0.0,11.5,19.2,3.8,9.6,19.2,0.0,0.0,1.9,11.5,42.5,19,1,1,1,73,28,38,18,26,89,47,97,83,27,1,51,13,46
+1630214,Xavier Tillman,Xavier,1610612738,BOS,25.0,2,2,0,1.0,34.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,61,35,1,1,101,33,38,18,48,1,1,1,10,27,1,1,53,92

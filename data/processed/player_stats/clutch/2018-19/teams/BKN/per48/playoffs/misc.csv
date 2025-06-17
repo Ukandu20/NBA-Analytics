@@ -1,0 +1,7 @@
+player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+1627747,Caris LeVert,Caris,1610612751,BKN,24.0,1,0,1,0.0,5.066666666666666,0.0,0.0,0.0,0.0,37.9,28.4,0.0,75.8,0.0,0.0,0.0,0.0,11.4,99,94,20,94,80,35,34,19,53,108,98,1,4,28,1,1,56,88
+1626156,D'Angelo Russell,D'Angelo,1610612751,BKN,23.0,1,0,1,0.0,4.96,29.0,29.0,0.0,0.0,38.7,29.0,0.0,77.4,0.0,0.0,0.0,0.0,33.9,99,94,20,94,89,3,1,19,53,115,103,1,3,28,1,1,56,55
+1628386,Jarrett Allen,Jarrett,1610612751,BKN,21.0,1,0,1,0.0,5.066666666666666,0.0,0.0,0.0,0.0,37.9,28.4,0.0,75.8,0.0,0.0,0.0,0.0,49.3,99,94,20,94,80,35,34,19,53,108,98,1,4,28,1,1,56,32
+203925,Joe Harris,Joe,1610612751,BKN,27.0,1,0,1,0.0,5.066666666666666,18.9,0.0,0.0,18.9,37.9,28.4,0.0,75.8,0.0,0.0,18.9,0.0,37.9,99,94,20,94,80,4,34,19,14,108,98,1,4,28,1,118,56,49
+203915,Spencer Dinwiddie,Spencer,1610612751,BKN,26.0,1,0,1,0.0,5.066666666666666,0.0,0.0,0.0,18.9,37.9,28.4,0.0,75.8,0.0,0.0,0.0,0.0,20.8,99,94,20,94,80,35,34,19,14,108,98,1,4,28,1,1,56,81
+1626203,Treveon Graham,Treveon,1610612751,BKN,25.0,1,0,1,0.0,0.1066666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,99,94,20,94,115,35,34,19,53,1,1,1,94,28,1,1,56,92
