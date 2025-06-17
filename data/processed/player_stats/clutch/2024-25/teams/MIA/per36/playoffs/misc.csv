@@ -1,0 +1,6 @@
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+,1628389,Bam Adebayo,,1610612748,MIA,27.0,1,0,1,0.0,4.155,0.0,0.0,0.0,17.3,26.0,0.0,0.0,17.3,0.0,0.0,8.7,0.0,17.3,100,84,9,84,85,30,32,18,7,111,1,1,93,29,1,110,60,82
+,1630558,Davion Mitchell,,1610612748,MIA,26.0,1,0,1,0.0,4.155,0.0,0.0,0.0,0.0,26.0,0.0,0.0,17.3,0.0,0.0,0.0,0.0,13.0,100,84,9,84,85,30,32,18,50,111,1,1,93,29,1,1,60,94
+,1629312,Haywood Highsmith,,1610612748,MIA,28.0,1,0,1,0.0,4.155,0.0,0.0,0.0,0.0,26.0,0.0,0.0,17.3,0.0,0.0,8.7,0.0,0.0,100,84,9,84,85,30,32,18,50,111,1,1,93,29,1,110,60,107
+,1631107,Nikola Jović,,1610612748,MIA,22.0,1,0,1,0.0,4.155,0.0,0.0,0.0,0.0,26.0,0.0,0.0,17.3,0.0,0.0,0.0,0.0,14.7,100,84,9,84,85,30,32,18,50,111,1,1,93,29,1,1,60,90
+,1629639,Tyler Herro,,1610612748,MIA,25.0,1,0,1,0.0,4.155,0.0,0.0,17.3,17.3,26.0,0.0,0.0,17.3,0.0,0.0,0.0,0.0,34.7,100,84,9,84,85,30,32,1,7,111,1,1,93,29,1,1,60,44

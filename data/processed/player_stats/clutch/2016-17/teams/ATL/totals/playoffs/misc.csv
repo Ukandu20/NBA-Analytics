@@ -1,0 +1,8 @@
+group_set,player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
+,203471,Dennis Schröder,,1610612737,ATL,23.0,5,1,4,0.2,9.365,0,0,0,4,6,0,2,10,0,1,0,0,8.5,11,62,129,101,63,36,34,18,12,108,1,76,93,21,122,1,64,52
+,2730,Dwight Howard,,1610612737,ATL,31.0,2,1,1,0.5,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0.0,90,62,26,61,123,36,34,18,53,1,1,1,1,21,1,1,64,107
+,203145,Kent Bazemore,,1610612737,ATL,27.0,5,1,4,0.2,9.081666666666669,0,0,0,0,6,0,2,8,0,0,4,0,-0.8,11,62,129,101,66,36,34,18,53,108,1,76,79,21,1,132,64,136
+,203488,Mike Muscala,,1610612737,ATL,25.0,3,0,3,0.0,4.298333333333333,0,0,0,0,4,0,2,6,0,0,1,0,0.0,60,104,110,104,92,36,34,18,53,86,1,76,61,21,1,60,64,107
+,200794,Paul Millsap,,1610612737,ATL,32.0,4,1,3,0.25,9.015,0,2,0,2,6,0,2,10,0,2,2,0,9.7,32,62,110,95,67,36,12,18,27,108,1,76,93,21,133,95,64,46
+,1627752,Taurean Prince,,1610612737,ATL,23.0,5,1,4,0.2,5.7,0,0,2,2,2,0,0,6,0,0,0,0,2.0,11,62,129,101,78,36,34,8,27,51,1,1,61,21,1,1,64,94
+,203501,Tim Hardaway Jr.,,1610612737,ATL,25.0,3,0,3,0.0,8.465,0,0,0,2,6,0,2,10,0,0,0,0,4.7,60,104,110,104,69,36,34,18,27,108,1,76,93,21,1,1,64,70

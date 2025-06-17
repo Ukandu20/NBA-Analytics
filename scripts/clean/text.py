@@ -13,9 +13,9 @@ from __future__ import annotations
 
 import argparse, logging
 from pathlib import Path
-import pathlib
+import pathlib, sys
 import pandas as pd
-
+from typing import Iterable, List
 RAW_ROOT   = Path("data/raw/player_stats/clutch")
 PROC_ROOT  = Path("data/processed/player_stats/clutch")
 TEAM_ROOT  = Path("data/teams/player_stats/clutch")     # no season sub-dir
@@ -41,7 +41,7 @@ def _maybe_numeric(col: pd.Series) -> pd.Series:
     return numeric
 
 
-def _clean_one(src: pathlib.Path, dst_master: Path, *, force: bool = False) -> None:
+def _clean_one(src: pathlib.Path, dst_master: pathlib.Path, *, force: bool) -> None:
     """Clean one raw CSV and write master + per-team splits."""
     if not force and dst_master.exists():
         logging.info("Skip existing %s", dst_master)
@@ -52,8 +52,18 @@ def _clean_one(src: pathlib.Path, dst_master: Path, *, force: bool = False) -> N
         logging.warning("Empty %s", src)
         return
 
-    for col in df.columns:
-        df[col] = _maybe_numeric(df[col])
+    df.columns = normalise_cols(df.columns)
+    df = df.rename(columns={
+        "player_name": "player"
+        "player_last_team_id": "team_id",
+        "player_last_team_abbreviation": "team",
+        "team_abbreviation": "team",
+    }, inplace=True)
+
+    _ensure_team(df)  # create/standardise a `team` column
+    _add_season_bounds(df)  # add `season_start` and `season_end
+
+    
 
     # ── write cleaned master ───────────────────────────────────────────
     dst_master.parent.mkdir(parents=True, exist_ok=True)
