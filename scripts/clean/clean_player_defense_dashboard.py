@@ -23,10 +23,10 @@ import pandas as pd, sys
 
 # ── CONFIG (edit if you rename folders) ────────────────────────────────────
 TABLE        = "defense_dashboard"                  # table name
-CORE_MODES   = {"totals", "pergame", "per48", "per100possessions"}
+CORE_MODES   = {"totals", "pergame", "per36", "per48", "per100possessions"}
 FLAT_SYNONYM = {"per100poss": "per100possessions"}         # filename shorthands
 EXTRA_DROP   = {"group_set"}                               # always-delete cols
-EXCLUDE_NUM  = {"player", "team", "team_id", "note", "nickname", "pos",}
+EXCLUDE_NUM  = {"player", "team", "team_id", "team_name", "play_type", "type_grouping", "nickname", "pos", "season"}
 
 ROOT      = Path(__file__).resolve().parents[2]
 RAW_ROOT  = ROOT / f"data/raw/player_stats/{TABLE}"
@@ -48,12 +48,29 @@ def _ensure_team(df: pd.DataFrame) -> None:
             df["team"] = df[c].fillna("").astype(str).str.upper(); break
 
 def _add_bounds(df: pd.DataFrame) -> None:
-    if "season_year" in df.columns:
-        df.rename(columns={"season_year":"season"}, inplace=True)
+    """
+    Adds/standardises season columns:
+      • If `season` already exists (e.g. "2024-25") → derive start/end.
+      • Else if `season_year` exists                 → same.
+      • Else if `season_id` like 22024              → 2024-25 etc.
+    """
+    # 1️⃣ Normalise column names we already know
+    if "season_year" in df.columns and "season" not in df.columns:
+        df.rename(columns={"season_year": "season"}, inplace=True)
+
+    # 2️⃣ If `season_id` exists and `season` is still missing
+    if "season" not in df.columns and "season_id" in df.columns:
+        # NBA Stats encodes 2024-25 as 22024, 2023-24 as 22023, etc.
+        # Rule: drop the leading digit.
+        start = df["season_id"].astype(str).str[-4:].astype(int, errors="ignore")
+        df["season"] = start.astype(str) + "-" + ((start + 1) % 100).astype(str).str.zfill(2)
+
+    # 3️⃣ Derive numeric bounds if we now have a `season` string
     if "season" in df.columns:
-        yr=df["season"].astype(str).str.extract(r"^(\d{4})",expand=False)
-        df["season_start"]=pd.to_numeric(yr,errors="coerce")
-        df["season_end"]=df["season_start"]+1
+        start = df["season"].astype(str).str.extract(r"^(\d{4})", expand=False)
+        df["season_start"] = pd.to_numeric(start, errors="coerce")
+        df["season_end"]   = df["season_start"] + 1
+
 
 def _write(path:Path, df:pd.DataFrame, *, force:bool)->None:
     if path.exists() and not force:

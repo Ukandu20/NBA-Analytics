@@ -1,174 +1,176 @@
 #!/usr/bin/env python3
 """
-clean_player_boxscores.py
-=========================
+clean_player_adv_boxscores.py · v7
+==================================
 
-Clean the raw **player** traditional game-log CSVs created by
-`scrape_player_boxscores.py` **and** place a copy of every file under a
-team-keyed folder (same convention you used for the advanced logs).
+Handles **both** raw season layouts:
 
-Cleaned layout
---------------
-data/processed/player_stats/boxscores/<season>/
-├─ regular_season_traditional.csv          ← full table, cleaned
-├─ playoffs_traditional.csv
-└─ teams/
-   ├─ LAL/
-   │   ├─ regular_season_traditional.csv    ← rows where team == LAL
-   │   └─ playoffs_traditional.csv
-   ├─ BOS/
-   │   └─ …
-   ⋮
+1) data/raw/player_stats/adv_boxscores/<SEASON>/<MODE>/<season_type?>/*.csv
+2) data/raw/player_stats/adv_boxscores/<SEASON>/*.csv   (flat)
 
-Cleaning steps
---------------
-1. Normalise column names (utils.clean_helpers.normalise_cols)
-2. `team_abbreviation` → `team` (upper-case, NaN → "")
-3. Parse `season` (YYYY-YY) → `season_start`, `season_end`
-4. Convert every remaining column to numeric (`errors="coerce"`)
-   with utils.numeric_helpers.coerce_all_numeric
-5. Drop exact duplicate rows
-6. Write the cleaned master file **and** per-team copies
+Writes league-wide + per-team CSVs into:
 
-CLI
----
-  -s, --season   YYYY-YY          clean one season          (default 2024-25)
-  -S, --seasons  YYYY-YY …        clean multiple seasons
-  -a, --all                       clean every season folder found
-  -f, --force                     overwrite existing processed files
+data/processed/player_stats/adv_boxscores/<season>/
+    ├─ <mode>/<season_type?>/*.csv
+    └─ teams/<TEAM>/<mode>/<season_type?>/*.csv
 """
-
 from __future__ import annotations
+import argparse, logging, re
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+from typing import Iterable, List, Optional
+import pandas as pd, sys
 
-import argparse
-import pathlib
-import sys
-from typing import Iterable, List
+# ── CONFIG (edit if you rename folders) ────────────────────────────────────
+TABLE        = "boxscores"                  # table name
+CORE_MODES   = {"totals", "pergame", "per36", "per48", "per100possessions"}
+FLAT_SYNONYM = {"per100poss": "per100possessions"}         # filename shorthands
+EXTRA_DROP   = {"group_set"}                               # always-delete cols
+EXCLUDE_NUM  = {"player", "team", "team_id", "team_name", "play_type", "type_grouping", "nickname", "pos", "season", "matchup", "wl", "game_date", "min_sec" }
 
-import pandas as pd
+ROOT      = Path(__file__).resolve().parents[2]
+RAW_ROOT  = ROOT / f"data/raw/player_stats/{TABLE}"
+PROC_ROOT = ROOT / f"data/processed/player_stats/{TABLE}"
+THREADS   = 4
 
-# ── project helpers ─────────────────────────────────────────────────────────
-ROOT = pathlib.Path(__file__).resolve().parents[2]
 sys.path.append(str(ROOT))
+from utils.clean_helpers   import normalise_cols
+from utils.numeric_helpers import coerce_all_numeric
 
-from utils.clean_helpers import normalise_cols          # type: ignore
-from utils.numeric_helpers import coerce_all_numeric    # type: ignore
+# ── helpers ----------------------------------------------------------------
+_SEASON_TYPE_RE = re.compile(r"(regular[_-]?season|playoffs?)", re.I)
 
-RAW_ROOT  = ROOT / "data/raw/player_stats/boxscores"
-PROC_ROOT = ROOT / "data/processed/player_stats/boxscores"
-
-# ── column helpers ──────────────────────────────────────────────────────────
-def _standardise_team_abbrev(df: pd.DataFrame) -> None:
-    if "team_abbreviation" in df.columns:
-        df.rename(columns={"team_abbreviation": "team"}, inplace=True)
+def _ensure_team(df: pd.DataFrame) -> None:
     if "team" in df.columns:
-        df["team"] = df["team"].fillna("").astype(str).str.upper()
+        df["team"] = df["team"].fillna("").astype(str).str.upper(); return
+    for c in ("team_abbreviation", "team_name", "team_id"):
+        if c in df.columns:
+            df["team"] = df[c].fillna("").astype(str).str.upper(); break
 
-def _add_season_bounds(df: pd.DataFrame) -> None:
-    if "season_year" in df.columns:
+def _add_bounds(df: pd.DataFrame) -> None:
+    """
+    Adds/standardises season columns:
+      • If `season` already exists (e.g. "2024-25") → derive start/end.
+      • Else if `season_year` exists                 → same.
+      • Else if `season_id` like 22024              → 2024-25 etc.
+    """
+    # 1️⃣ Normalise column names we already know
+    if "season_year" in df.columns and "season" not in df.columns:
         df.rename(columns={"season_year": "season"}, inplace=True)
+
+    # 2️⃣ If `season_id` exists and `season` is still missing
+    if "season" not in df.columns and "season_id" in df.columns:
+        # NBA Stats encodes 2024-25 as 22024, 2023-24 as 22023, etc.
+        # Rule: drop the leading digit.
+        start = df["season_id"].astype(str).str[-4:].astype(int, errors="ignore")
+        df["season"] = start.astype(str) + "-" + ((start + 1) % 100).astype(str).str.zfill(2)
+
+    # 3️⃣ Derive numeric bounds if we now have a `season` string
     if "season" in df.columns:
         start = df["season"].astype(str).str.extract(r"^(\d{4})", expand=False)
         df["season_start"] = pd.to_numeric(start, errors="coerce")
         df["season_end"]   = df["season_start"] + 1
 
-# ── small I/O util ──────────────────────────────────────────────────────────
-def _write_csv(path: pathlib.Path, df: pd.DataFrame, *, force: bool) -> None:
+
+def _write(path:Path, df:pd.DataFrame, *, force:bool)->None:
     if path.exists() and not force:
-        return
+        logging.info("skip %s (exists)", path.relative_to(ROOT)); return
     path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(path, index=False)
+    logging.info("✔︎ %s (%d rows)", path.relative_to(ROOT), len(df))
 
-# ── cleaner for a single file ───────────────────────────────────────────────
-def clean_one_csv(
-    src: pathlib.Path,
-    dst_main: pathlib.Path,
-    team_root: pathlib.Path,
-    *,
-    force: bool,
-) -> pd.DataFrame | None:
-    df = pd.read_csv(src)
-    if df.empty:
-        print(f"⚠️  {src.name}: empty file — skipped")
-        return None
-
-    df.columns = normalise_cols(df.columns)
-    _standardise_team_abbrev(df)
-    _add_season_bounds(df)
-
-    exclude = set(df.select_dtypes(include=["object", "datetime"]).columns)
-    df = coerce_all_numeric(df, list(exclude))
+def _clean_one(src:Path, dst:Path, team_root:Path,
+               *, per_mode:str, season_type:Optional[str], force:bool)->None:
+    if dst.exists() and not force: return
+    df=pd.read_csv(src); 
+    if df.empty: logging.warning("⚠️  %s empty — skipped", src.name); return
+    df.columns=normalise_cols(df.columns)
+    df.rename(columns={
+        "player_name":"player","player_last_team_id":"team_id",
+        "player_last_team_abbreviation":"team","team_abbreviation":"team",
+        "player_position": "pos"}, inplace=True)
+    df.drop(columns=list(EXTRA_DROP & set(df.columns)), errors="ignore", inplace=True)
+    _ensure_team(df); _add_bounds(df)
+    df=coerce_all_numeric(df, exclude_cols=list(EXCLUDE_NUM), warn_on_loss=True)
     df.drop_duplicates(inplace=True)
+    if df.empty: return
+    _write(dst, df, force=force)
+    if "team" not in df.columns: return
+    for team, grp in df.groupby("team", sort=False):
+        tdir=team_root/str(team).upper()/per_mode/(season_type or "")
+        _write(tdir/src.name, grp, force=force)
 
-    if df.empty:
-        print(f"⚠️  {src.name}: no rows after cleaning — skipped")
-        return None
+# ── filename parsing for FLAT layout ---------------------------------------
+def _parse_flat_filename(fname:str)->tuple[Optional[str], Optional[str]]:
+    """
+    Returns (per_mode, season_type) or (None, None) if not recognised.
+    """
+    base = fname.lower().replace(".csv", "")
+    # handle synonyms
+    for short,long in FLAT_SYNONYM.items():
+        base = base.replace(short, long)
+    # extract season_type
+    stype = None
+    m=_SEASON_TYPE_RE.search(base)
+    if m:
+        stype = "regular_season" if "regular" in m.group(0) else "playoffs"
+        base = base.replace(m.group(0), "")
+        base = base.strip("_-")
+    parts = base.split("_")
+    # mode is the last token that matches CORE_MODES
+    for token in reversed(parts):
+        if token in CORE_MODES:
+            return token, stype
+    return None, None
 
-    # master file
-    _write_csv(dst_main, df, force=force)
-    print(f"✅ {dst_main.relative_to(ROOT)}  ({len(df):,} rows)")
-    return df
+# ── season driver -----------------------------------------------------------
+def _clean_season(season:str,*,force:bool,workers:int)->None:
+    raw=RAW_ROOT/season; proc=PROC_ROOT/season; team_root=proc/"teams"
+    if not raw.exists(): logging.warning("no raw data for %s", season); return
 
+    # warn core-modes (directory layout only)
+    miss = CORE_MODES - {p.name.lower() for p in raw.iterdir() if p.is_dir()}
+    if miss and any(p.is_dir() for p in raw.iterdir()):
+        logging.warning("%s missing mode folders: %s", season, ", ".join(sorted(miss)))
 
+    pool=ThreadPoolExecutor(max_workers=workers); tasks=[]
+    # 1) directory-based files
+    for mode_dir in [d for d in raw.iterdir() if d.is_dir()]:
+        per_mode=mode_dir.name.lower()
+        for csv in mode_dir.rglob("*.csv"):
+            rel=csv.relative_to(mode_dir).parts
+            stype=rel[0].lower() if len(rel)==2 else None
+            out=(proc/per_mode)/(stype or "")/csv.name
+            tasks.append(pool.submit(_clean_one, csv, out, team_root,
+                                     per_mode=per_mode, season_type=stype, force=force))
+    # 2) flat files in season root
+    for csv in raw.glob("*.csv"):
+        per_mode, stype=_parse_flat_filename(csv.name)
+        if per_mode is None:
+            logging.warning("⚠️  unable to parse mode from %s – skipped", csv.name); continue
+        out=(proc/per_mode)/(stype or "")/csv.name
+        tasks.append(pool.submit(_clean_one, csv, out, team_root,
+                                 per_mode=per_mode, season_type=stype, force=force))
+    for f in tasks: f.result()
 
-# ── season driver ───────────────────────────────────────────────────────────
-def clean_season(season: str, *, force: bool) -> None:
-    raw_dir   = RAW_ROOT  / season
-    proc_dir  = PROC_ROOT / season
+# ── CLI / entrypoint --------------------------------------------------------
+def _seasons_on_disk()->List[str]:
+    return sorted(p.name for p in RAW_ROOT.iterdir() if p.is_dir()) if RAW_ROOT.exists() else []
 
-
-    if not raw_dir.exists():
-        print(f"⚠️  no raw data for {season}")
-        return
-
-    for csv_path in raw_dir.glob("*.csv"):
-        base_name = csv_path.name
-        out_main  = proc_dir / base_name
-        
-        df = clean_one_csv(csv_path, out_main, proc_dir / "teams", force=force)
-        if df is None or df.empty:
-            continue
-
-
-                # team split
-        if "team" in df.columns:
-            for team, grp in df.groupby("team"):
-                team_file = proc_dir / "teams" / str(team).upper() / base_name  # ← str()
-                _write_csv(team_file, grp, force=force)
-
-# ── CLI plumbing ────────────────────────────────────────────────────────────
-def _all_seasons() -> List[str]:
-    if not RAW_ROOT.exists():
-        return []
-    return sorted(p.name for p in RAW_ROOT.iterdir() if p.is_dir())
-
-def _parse_cli() -> argparse.Namespace:
-    ap = argparse.ArgumentParser(
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
-        description="Clean traditional player box-score game logs.",
-    )
-    grp = ap.add_mutually_exclusive_group()
-    grp.add_argument("-s", "--season",  help="clean one season (e.g. 2024-25)")
-    grp.add_argument("-S", "--seasons", nargs="+", help="clean multiple seasons")
-    grp.add_argument("-a", "--all",     action="store_true",
-                     help="clean every season folder found")
-    ap.add_argument("-f", "--force",    action="store_true",
-                    help="overwrite existing processed files")
+def _parse()->argparse.Namespace:
+    ap=argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+         description="Clean advanced box-score tables & build per-team splits.")
+    g=ap.add_mutually_exclusive_group()
+    g.add_argument("-s","--season"); g.add_argument("-S","--seasons",nargs="+"); g.add_argument("-a","--all",action="store_true")
+    ap.add_argument("-f","--force",action="store_true"); ap.add_argument("-w","--workers",type=int,default=THREADS)
     return ap.parse_args()
 
-def _resolve_targets(args: argparse.Namespace) -> Iterable[str]:
-    if args.all:
-        return _all_seasons()
-    if args.seasons:
-        return args.seasons
-    return [args.season or "2024-25"]
+def _targets(a): return _seasons_on_disk() if a.all else (a.seasons or [a.season or "2024-25"])
 
-# ── main ────────────────────────────────────────────────────────────────────
-def main() -> None:
-    args = _parse_cli()
-    for season in _resolve_targets(args):
-        print(f"\n📂 Cleaning season {season}")
-        clean_season(season, force=args.force)
+def main()->None:
+    args=_parse(); logging.basicConfig(level=logging.INFO,format="%(asctime)s %(levelname)-8s %(message)s")
+    for s in _targets(args):
+        logging.info("📂 Cleaning season %s", s)
+        _clean_season(s, force=args.force, workers=args.workers)
 
-if __name__ == "__main__":
-    main()
+if __name__=="__main__": main()
