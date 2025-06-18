@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Cut,Offensive,0.562,68,0.271,1.353,0.707,0.114,0.043,0.109,0.011,0.685,0.707,184,249,111,157,46,LAC
-22023,1628464,Daniel Theis,1610612746,LAC,LA Clippers,Cut,Offensive,0.226,59,0.251,1.169,0.6,0.067,0.045,0.067,0.011,0.596,0.6,89,104,48,80,32,LAC
-22023,1629611,Terance Mann,1610612746,LAC,LA Clippers,Cut,Offensive,0.534,75,0.125,1.342,0.689,0.123,0.055,0.123,0.014,0.685,0.689,73,98,42,61,19,LAC
-22023,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Cut,Offensive,0.962,69,0.039,1.611,0.717,0.259,0.019,0.222,0.13,0.741,0.717,54,87,33,46,13,LAC
-22023,203486,Mason Plumlee,1610612746,LAC,LA Clippers,Cut,Offensive,0.312,46,0.247,1.224,0.61,0.241,0.086,0.241,0.034,0.638,0.61,58,71,25,41,16,LAC
-22023,1626181,Norman Powell,1610612746,LAC,LA Clippers,Cut,Offensive,0.91,76,0.024,1.545,0.789,0.136,0.045,0.136,0.045,0.773,0.789,22,34,15,19,4,LAC

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.886,29,0.181,1.156,0.605,0.23,0.164,0.197,0.057,0.574,0.605,122,141,49,81,32,NOP
-22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.591,45,0.126,0.942,0.431,0.158,0.065,0.144,0.058,0.453,0.431,139,131,50,116,66,NOP
-22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.244,75,0.075,0.754,0.368,0.098,0.123,0.09,0.0,0.369,0.389,122,92,35,95,60,NOP
-22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.559,77,0.037,0.926,0.389,0.222,0.111,0.185,0.0,0.481,0.417,27,25,7,18,11,NOP
-22022,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.163,61,0.043,0.692,0.333,0.115,0.192,0.077,0.0,0.346,0.361,26,18,6,18,12,NOP
-22022,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.413,79,0.013,0.857,0.556,0.071,0.286,0.0,0.0,0.429,0.556,14,12,5,9,4,NOP
-22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.016,79,0.014,0.385,0.222,0.077,0.231,0.077,0.0,0.231,0.222,13,5,2,9,7,NOP
-22022,1630700,Dyson Daniels,1610612740,NOP,New Orleans Pelicans,Isolation,Offensive,0.012,59,0.046,0.308,0.182,0.0,0.154,0.0,0.0,0.154,0.182,13,4,2,11,9,NOP

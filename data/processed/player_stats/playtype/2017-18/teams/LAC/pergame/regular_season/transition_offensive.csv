@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,101150,Lou Williams,1610612746,LAC,LA Clippers,Transition,Offensive,0.36,79,0.149,1.027,0.467,0.163,0.163,0.144,0.023,0.466,0.533,3.3,3.4,1.1,2.3,1.2
+22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Transition,Offensive,0.948,76,0.199,1.4,0.712,0.243,0.057,0.214,0.093,0.707,0.716,1.8,2.6,1.0,1.5,0.4
+22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Transition,Offensive,0.905,77,0.09,1.355,0.887,0.158,0.197,0.158,0.053,0.711,0.887,1.0,1.3,0.6,0.7,0.1
+22017,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Transition,Offensive,0.328,30,0.291,1.01,0.523,0.208,0.125,0.167,0.01,0.542,0.531,3.2,3.2,1.1,2.2,1.0
+22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,Transition,Offensive,0.664,33,0.104,1.185,0.636,0.272,0.21,0.247,0.025,0.568,0.693,2.5,2.9,0.8,1.3,0.5
+22017,1626155,Sam Dekker,1610612746,LAC,LA Clippers,Transition,Offensive,0.707,73,0.233,1.203,0.632,0.176,0.081,0.176,0.027,0.635,0.64,1.0,1.2,0.5,0.8,0.3
+22017,1628414,Sindarius Thornwell,1610612746,LAC,LA Clippers,Transition,Offensive,0.155,73,0.285,0.892,0.55,0.194,0.247,0.183,0.086,0.462,0.567,1.3,1.1,0.5,0.8,0.4
+22017,203085,Austin Rivers,1610612746,LAC,LA Clippers,Transition,Offensive,0.255,61,0.083,0.976,0.45,0.134,0.134,0.11,0.0,0.463,0.525,1.3,1.3,0.4,1.0,0.5
+22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,Transition,Offensive,0.363,32,0.124,1.027,0.544,0.108,0.149,0.108,0.027,0.5,0.561,2.3,2.4,1.0,1.8,0.8
+22017,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Transition,Offensive,0.113,74,0.192,0.849,0.406,0.14,0.128,0.14,0.012,0.407,0.453,1.2,1.0,0.4,0.9,0.5
+22017,1628393,Jawun Evans,1610612746,LAC,LA Clippers,Transition,Offensive,0.056,48,0.209,0.746,0.36,0.134,0.164,0.119,0.045,0.358,0.38,1.4,1.0,0.4,1.0,0.7
+22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Transition,Offensive,0.266,21,0.154,0.98,0.41,0.143,0.082,0.102,0.02,0.449,0.449,2.3,2.3,0.8,1.9,1.1
+22017,203710,C.J. Williams,1610612746,LAC,LA Clippers,Transition,Offensive,0.163,38,0.185,0.905,0.368,0.071,0.024,0.071,0.0,0.405,0.434,1.1,1.0,0.4,1.0,0.6
+22017,267634,Milos Teodosic,1610612746,LAC,LA Clippers,Transition,Offensive,0.016,45,0.105,0.58,0.37,0.04,0.42,0.0,0.0,0.24,0.481,1.1,0.6,0.2,0.6,0.4
+22017,201976,Patrick Beverley,1610612746,LAC,LA Clippers,Transition,Offensive,0.777,11,0.132,1.25,0.615,0.1,0.25,0.1,0.0,0.5,0.808,1.8,2.3,0.7,1.2,0.5
+22017,203186,Willie Reed,1610612746,LAC,LA Clippers,Transition,Offensive,0.624,39,0.073,1.167,0.625,0.25,0.083,0.25,0.0,0.667,0.625,0.3,0.4,0.1,0.2,0.1
+22017,202340,Avery Bradley,1610612746,LAC,LA Clippers,Transition,Offensive,0.303,6,0.219,1.0,0.538,0.0,0.071,0.0,0.0,0.5,0.538,2.3,2.3,1.2,2.2,1.0
+22017,203966,Jamil Wilson,1610612746,LAC,LA Clippers,Transition,Offensive,0.303,15,0.143,1.0,0.5,0.077,0.154,0.077,0.0,0.462,0.6,0.9,0.9,0.3,0.7,0.3

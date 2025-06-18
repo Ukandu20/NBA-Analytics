@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.52,78,0.06,1.082,0.563,0.106,0.071,0.106,0.012,0.541,0.563,85,92,40,71,31,IND
-22024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.77,56,0.172,1.237,0.596,0.119,0.034,0.119,0.034,0.61,0.596,59,73,31,52,21,IND
-22024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.783,79,0.051,1.243,0.63,0.189,0.081,0.189,0.0,0.649,0.63,37,46,17,27,10,IND
-22024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.027,79,0.018,0.571,0.364,0.0,0.214,0.0,0.0,0.286,0.364,14,8,4,11,7,IND

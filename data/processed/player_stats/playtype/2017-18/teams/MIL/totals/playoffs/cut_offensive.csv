@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.692,7,0.074,1.417,0.8,0.083,0.08,0.0,0.0,0.75,0.8,12,17,8,10,2
+42017,203089,John Henson,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,3,0.444,1.25,0.833,0.0,0.25,0.0,0.0,0.625,0.833,8,10,5,6,1
+42017,203498,Shabazz Muhammad,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,4,0.125,2.333,1.0,0.667,0.0,0.667,0.333,1.0,1.0,3,7,2,2,0
+42017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,7,0.095,0.857,0.5,0.0,0.14,0.0,0.0,0.429,0.5,7,6,3,6,3
+42017,203092,Tyler Zeller,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,7,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0
+42017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,7,0.007,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.922,77,0.17,1.092,0.571,0.145,0.132,0.125,0.013,0.546,0.571,2.0,2.2,0.8,1.5,0.6
+22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.397,80,0.07,0.828,0.386,0.164,0.102,0.148,0.055,0.406,0.386,1.6,1.3,0.5,1.3,0.8
+22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.902,76,0.066,1.066,0.58,0.098,0.131,0.082,0.049,0.525,0.58,0.8,0.9,0.4,0.7,0.3
+22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.912,78,0.009,1.091,0.571,0.364,0.091,0.364,0.091,0.545,0.571,0.1,0.2,0.1,0.1,0.0
+22017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.172,82,0.031,0.688,0.357,0.063,0.125,0.063,0.063,0.313,0.357,0.2,0.1,0.1,0.2,0.1
+22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.414,81,0.02,0.833,0.364,0.083,0.0,0.083,0.0,0.417,0.364,0.1,0.1,0.0,0.1,0.1

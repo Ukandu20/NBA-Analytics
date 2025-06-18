@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.6,4,0.22,1.15,0.62,0.05,0.15,0.05,0.0,0.55,0.00688,5.0,5.8,2.5,4.0,1.5
+42017,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.086,1.375,0.57,0.125,0.0,0.0,0.0,0.625,0.00714,2.0,2.8,1.0,1.8,0.8
+42017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,3,0.125,1.6,0.75,0.0,0.2,0.0,0.0,0.6,0.01,1.7,2.7,1.0,1.3,0.3
+42017,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.051,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.8,1.5,0.8,0.8,0.0
+42017,1627774,Jake Layman,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,1,0.667,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2.0,4.0,2.0,2.0,0.0
+42017,1628403,Caleb Swanigan,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,1,0.6,1.0,0.0,0.667,0.333,0.667,0.0,0.667,0.0,3.0,3.0,0.0,0.0,0.0
+42017,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.5,1.0,0.5,0.5,0.0
+42017,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.063,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.3,0.5,0.3,0.3,0.0
+42017,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,2,0.071,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.5,1.0,0.5,0.5,0.0
+42017,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.043,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.5,0.5,0.3,0.5,0.3
+42017,1626192,Pat Connaughton,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.176,0.667,0.33,0.0,0.0,0.0,0.0,0.333,0.00333,0.8,0.5,0.3,0.8,0.5
+42017,203894,Shabazz Napier,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,2,0.222,0.5,0.33,0.0,0.25,0.0,0.0,0.25,0.00333,2.0,1.0,0.5,1.5,1.0
+42017,1627735,Wade Baldwin IV,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.0,4,0.375,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0

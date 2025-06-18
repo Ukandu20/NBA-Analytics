@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.867,17,0.066,1.385,0.545,0.077,0.077,0.077,0.0,0.538,0.773,0.8,1.1,0.4,0.6,0.3,IND

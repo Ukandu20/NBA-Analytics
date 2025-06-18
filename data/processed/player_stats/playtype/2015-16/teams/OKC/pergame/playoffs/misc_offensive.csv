@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.8,18,0.178,0.862,0.667,0.483,0.31,0.034,0.0,0.552,0.006670000000000001,1.6,1.4,0.2,0.3,0.1
+42015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.639,18,0.073,0.641,0.273,0.282,0.436,0.051,0.0,0.359,0.0027300000000000002,2.2,1.4,0.2,0.6,0.4
+42015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.722,18,0.038,0.8,0.5,0.3,0.45,0.1,0.05,0.4,0.005,1.1,0.9,0.2,0.3,0.2
+42015,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.75,18,0.089,0.857,0.333,0.5,0.286,0.0,0.0,0.5,0.00333,0.8,0.7,0.1,0.2,0.1
+42015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,18,0.036,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,0.3,0.2,0.1,0.2,0.1
+42015,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,18,0.067,0.571,0.0,0.571,0.286,0.0,0.0,0.429,0.0,0.4,0.2,0.0,0.1,0.1
+42015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,14,0.063,1.5,1.0,0.0,0.5,0.0,0.0,0.5,0.015,0.1,0.2,0.1,0.1,0.0
+42015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,18,0.044,0.375,0.0,0.375,0.625,0.0,0.0,0.25,0.0,0.4,0.2,0.0,0.0,0.0
+42015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,10,0.083,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.3,0.2,0.1,0.3,0.2
+42015,200751,Randy Foye,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,16,0.093,0.4,0.0,0.2,0.6,0.0,0.0,0.2,0.0,0.3,0.1,0.0,0.1,0.1
+42015,203962,Josh Huestis,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,2,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5

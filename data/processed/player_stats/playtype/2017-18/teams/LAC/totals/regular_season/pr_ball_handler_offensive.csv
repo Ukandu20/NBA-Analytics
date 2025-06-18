@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,101150,Lou Williams,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.72,79,0.436,0.889,0.411,0.127,0.14,0.098,0.016,0.419,0.452,773,687,238,579,341
+22017,203085,Austin Rivers,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.576,61,0.395,0.838,0.413,0.087,0.159,0.075,0.018,0.38,0.475,389,326,124,300,176
+22017,267634,Milos Teodosic,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.535,45,0.422,0.816,0.428,0.035,0.209,0.015,0.0,0.358,0.497,201,164,65,152,87
+22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.822,32,0.159,0.937,0.474,0.095,0.116,0.095,0.032,0.453,0.494,95,89,37,78,41
+22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.338,33,0.112,0.724,0.32,0.103,0.057,0.08,0.023,0.356,0.347,87,63,24,75,51
+22017,1628393,Jawun Evans,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.252,48,0.275,0.682,0.386,0.023,0.182,0.011,0.0,0.33,0.407,88,60,27,70,43
+22017,201976,Patrick Beverley,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.169,11,0.368,0.625,0.31,0.071,0.179,0.036,0.0,0.304,0.333,56,35,13,42,29
+22017,202325,Wesley Johnson,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.924,74,0.069,1.032,0.433,0.065,0.0,0.032,0.032,0.452,0.483,31,32,13,30,17
+22017,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.111,30,0.148,0.551,0.289,0.061,0.163,0.061,0.0,0.286,0.289,49,27,11,38,27
+22017,203710,C.J. Williams,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.513,38,0.115,0.808,0.391,0.0,0.115,0.0,0.0,0.346,0.457,26,21,9,23,14
+22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.997,21,0.047,1.333,0.5,0.067,0.0,0.067,0.0,0.533,0.643,15,20,7,14,7
+22017,1628414,Sindarius Thornwell,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.342,73,0.067,0.727,0.417,0.227,0.273,0.182,0.045,0.364,0.417,22,16,5,12,7
+22017,202340,Avery Bradley,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.293,6,0.266,0.706,0.4,0.0,0.118,0.0,0.0,0.353,0.4,17,12,6,15,9
+22017,1626155,Sam Dekker,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.54,73,0.035,0.818,0.429,0.182,0.182,0.182,0.0,0.455,0.429,11,9,3,7,4
+22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRBallHandler,Offensive,0.28,76,0.014,0.7,0.375,0.1,0.1,0.1,0.0,0.4,0.375,10,7,3,8,5

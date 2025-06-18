@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Cut,Offensive,0.82,77,0.195,1.412,0.759,0.188,0.048,0.176,0.042,0.727,0.759,165,233,101,133,32
+22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Cut,Offensive,0.649,76,0.172,1.322,0.699,0.124,0.05,0.116,0.025,0.678,0.699,121,160,72,103,31
+22017,1626155,Sam Dekker,1610612746,LAC,LA Clippers,Cut,Offensive,0.815,73,0.18,1.404,0.745,0.07,0.053,0.07,0.018,0.702,0.745,57,80,38,51,13
+22017,203186,Willie Reed,1610612746,LAC,LA Clippers,Cut,Offensive,0.851,39,0.28,1.435,0.756,0.109,0.043,0.109,0.043,0.717,0.756,46,66,31,41,10
+22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,Cut,Offensive,0.38,33,0.049,1.211,0.679,0.158,0.132,0.105,0.026,0.632,0.679,38,46,19,28,9
+22017,1627820,Tyrone Wallace,1610612746,LAC,LA Clippers,Cut,Offensive,0.257,30,0.121,1.15,0.594,0.125,0.1,0.125,0.025,0.575,0.594,40,46,19,32,13
+22017,203085,Austin Rivers,1610612746,LAC,LA Clippers,Cut,Offensive,0.779,61,0.029,1.379,0.72,0.172,0.069,0.172,0.103,0.69,0.72,29,40,18,25,7
+22017,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Cut,Offensive,0.239,74,0.078,1.143,0.696,0.171,0.2,0.171,0.029,0.6,0.696,35,40,16,23,7
+22017,203710,C.J. Williams,1610612746,LAC,LA Clippers,Cut,Offensive,0.818,38,0.097,1.409,0.75,0.045,0.045,0.045,0.0,0.727,0.75,22,31,15,20,5
+22017,101150,Lou Williams,1610612746,LAC,LA Clippers,Cut,Offensive,0.477,79,0.014,1.25,0.619,0.083,0.042,0.083,0.0,0.625,0.619,24,30,13,21,8
+22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,Cut,Offensive,0.727,32,0.028,1.353,0.692,0.176,0.059,0.176,0.0,0.706,0.692,17,23,9,13,4
+22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Cut,Offensive,0.685,21,0.047,1.333,0.667,0.133,0.067,0.133,0.0,0.667,0.667,15,20,8,12,4
+22017,1628414,Sindarius Thornwell,1610612746,LAC,LA Clippers,Cut,Offensive,0.308,73,0.052,1.176,0.533,0.176,0.0,0.176,0.059,0.588,0.533,17,20,8,15,7

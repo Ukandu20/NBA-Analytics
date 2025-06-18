@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.457,82,0.208,0.982,0.537,0.246,0.175,0.211,0.053,0.52,0.537,2.1,2.0,0.7,1.3,0.6
+22015,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.685,61,0.264,1.086,0.485,0.014,0.064,0.014,0.007,0.457,0.573,2.3,2.5,1.0,2.1,1.1
+22015,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.606,81,0.249,1.042,0.573,0.283,0.117,0.283,0.083,0.55,0.573,1.5,1.5,0.6,1.0,0.4
+22015,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.091,78,0.183,0.719,0.346,0.078,0.125,0.078,0.016,0.328,0.385,0.8,0.6,0.2,0.7,0.4
+22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.507,82,0.04,1.0,0.379,0.139,0.083,0.139,0.028,0.417,0.483,0.4,0.4,0.1,0.4,0.2
+22015,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.761,81,0.032,1.12,0.5,0.04,0.12,0.08,0.0,0.44,0.625,0.3,0.3,0.1,0.2,0.1
+22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.009,78,0.021,0.455,0.125,0.182,0.091,0.182,0.0,0.273,0.125,0.1,0.1,0.0,0.1,0.1

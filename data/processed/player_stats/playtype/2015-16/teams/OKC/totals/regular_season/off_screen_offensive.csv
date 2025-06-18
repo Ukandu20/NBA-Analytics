@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.585,72,0.141,0.973,0.453,0.08,0.11,0.073,0.012,0.44,0.514,259,252,96,212,116
+22015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.451,78,0.07,0.889,0.429,0.11,0.11,0.095,0.0,0.43,0.459,63,56,21,49,28
+22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.796,68,0.116,1.071,0.439,0.0,0.02,0.0,0.0,0.43,0.549,42,45,18,41,23
+22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.744,80,0.01,1.05,0.5,0.0,0.1,0.0,0.0,0.45,0.583,20,21,9,18,9
+22015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.244,78,0.02,0.762,0.316,0.0,0.1,0.0,0.0,0.29,0.421,21,16,6,19,13

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Transition,Offensive,0.64,11,0.256,1.222,0.432,0.156,0.022,0.133,0.0,0.511,0.541,45,55,16,37,21,BOS
-42024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.235,11,0.212,0.929,0.447,0.161,0.179,0.161,0.018,0.446,0.487,56,52,17,38,21,BOS
-42024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Transition,Offensive,0.884,8,0.13,1.448,0.6,0.138,0.069,0.138,0.069,0.586,0.72,29,42,15,25,10,BOS
-42024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Transition,Offensive,0.372,11,0.181,1.048,0.444,0.048,0.095,0.048,0.0,0.429,0.583,21,22,8,18,10,BOS
-42024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Transition,Offensive,0.186,8,0.235,0.895,0.429,0.053,0.211,0.0,0.0,0.368,0.571,19,17,6,14,8,BOS
-42024,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.706,11,0.134,1.273,0.667,0.0,0.182,0.0,0.0,0.545,0.778,11,14,6,9,3,BOS

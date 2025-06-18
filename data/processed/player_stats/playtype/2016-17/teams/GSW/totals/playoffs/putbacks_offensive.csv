@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.545,17,0.045,1.0,0.444,0.1,0.0,0.1,0.0,0.5,0.00444,10,10,4,9,5
+42016,201580,JaVale McGee,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.391,16,0.171,0.833,0.455,0.0,0.083,0.0,0.0,0.417,0.00455,12,10,5,11,6
+42016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.318,15,0.032,0.818,0.375,0.182,0.091,0.091,0.0,0.455,0.00375,11,9,3,8,5
+42016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,17,0.017,0.857,0.25,0.286,0.143,0.286,0.0,0.429,0.0025,7,6,1,4,3
+42016,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,15,0.09,0.714,0.4,0.143,0.286,0.143,0.14,0.286,0.004,7,5,2,5,3
+42016,203949,James Michael McAdoo,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,13,0.095,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0
+42016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,16,0.016,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0
+42016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,15,0.07,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,4,4,2,4,2
+42016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,17,0.022,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,6,4,2,6,4
+42016,1627745,Damian Jones,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,4,0.25,1.5,1.0,0.5,0.0,0.5,0.0,1.0,0.01,2,3,1,1,0
+42016,2561,David West,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,17,0.014,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,14,0.028,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
+42016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.0,16,0.021,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1

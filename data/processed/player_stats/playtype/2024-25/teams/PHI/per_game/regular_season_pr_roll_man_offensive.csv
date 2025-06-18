@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627824,Guerschon Yabusele,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.564,70,0.23,1.123,0.48,0.049,0.049,0.049,0.006,0.472,0.578,2.3,2.6,1.0,2.1,1.1,PHI
-22024,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.496,19,0.247,1.071,0.47,0.15,0.124,0.15,0.009,0.487,0.542,5.9,6.4,2.1,4.4,2.3,PHI
-22024,1641737,Adem Bona,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.673,58,0.212,1.175,0.698,0.222,0.127,0.206,0.032,0.651,0.698,1.1,1.3,0.5,0.7,0.2,PHI
-22024,203083,Andre Drummond,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.342,40,0.215,0.986,0.536,0.127,0.113,0.127,0.028,0.507,0.536,1.8,1.8,0.8,1.4,0.7,PHI
-22024,1641741,Ricky Council IV,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.309,73,0.041,0.958,0.421,0.125,0.125,0.125,0.042,0.375,0.553,0.3,0.3,0.1,0.3,0.2,PHI
-22024,1642024,Alex Reese,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.955,14,0.203,1.462,0.5,0.077,0.0,0.077,0.0,0.538,0.708,0.9,1.4,0.4,0.9,0.4,PHI
-22024,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.924,60,0.015,1.385,0.636,0.231,0.077,0.231,0.154,0.538,0.773,0.2,0.3,0.1,0.2,0.1,PHI
-22024,1630231,KJ Martin,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.893,24,0.096,1.333,0.75,0.167,0.167,0.167,0.0,0.667,0.813,0.5,0.7,0.3,0.3,0.1,PHI

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22023,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.873,82,0.04,0.781,0.36,0.297,0.313,0.0,0.0,0.406,0.0044,0.8,0.6,0.1,0.3,0.2
+22023,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.963,66,0.03,0.977,0.55,0.279,0.256,0.023,0.0,0.512,0.006,0.7,0.6,0.2,0.3,0.1
+22023,1629651,Nic Claxton,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.314,71,0.091,0.377,0.667,0.333,0.623,0.043,0.0,0.275,0.006670000000000001,1.0,0.4,0.0,0.0,0.0
+22023,1630570,Trendon Watford,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.806,63,0.077,0.719,0.7,0.188,0.531,0.063,0.031,0.375,0.006999999999999999,0.5,0.4,0.1,0.2,0.0
+22023,203471,Dennis Schröder,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.852,29,0.045,0.762,0.667,0.286,0.571,0.048,0.0,0.381,0.006670000000000001,0.7,0.6,0.1,0.1,0.0
+22023,1630592,Jalen Wilson,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.975,43,0.069,1.0,0.5,0.4,0.2,0.0,0.0,0.533,0.005,0.3,0.3,0.1,0.1,0.1
+22023,1627827,Dorian Finney-Smith,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.497,68,0.047,0.5,0.6,0.179,0.643,0.0,0.0,0.25,0.006999999999999999,0.4,0.2,0.0,0.1,0.0
+22023,1630549,Day'Ron Sharpe,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.129,61,0.113,0.255,0.8,0.085,0.83,0.021,0.021,0.149,0.008,0.8,0.2,0.1,0.1,0.0
+22023,1626220,Royce O'Neale,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.096,49,0.067,0.231,0.222,0.077,0.577,0.0,0.0,0.115,0.0027800000000000004,0.5,0.1,0.0,0.2,0.1
+22023,1641730,Noah Clowney,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.329,23,0.107,0.385,0.0,0.231,0.615,0.0,0.0,0.231,0.0,0.6,0.2,0.0,0.1,0.1
+22023,1628372,Dennis Smith Jr.,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.171,56,0.032,0.286,0.0,0.214,0.5,0.071,0.0,0.214,0.0,0.3,0.1,0.0,0.1,0.1
+22023,1627732,Ben Simmons,1610612751,BKN,Brooklyn Nets,Misc,Offensive,0.034,15,0.139,0.133,0.0,0.133,0.8,0.0,0.0,0.133,0.0,1.0,0.1,0.0,0.1,0.1

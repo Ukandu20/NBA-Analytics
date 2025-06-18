@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,203082,Terrence Ross,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.0,5,0.125,0.2,0.0,0.2,0.4,0.2,0.0,0.2,0.0,5,1,0,2,2,ORL
-42019,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.0,5,0.231,0.333,0.2,0.0,0.17,0.0,0.0,0.17,0.2,6,2,1,5,4,ORL
-42019,203920,Khem Birch,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.0,5,0.108,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.75,4,6,3,4,1,ORL
-42019,1629109,Gary Clark,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.0,5,0.131,0.75,0.5,0.0,0.25,0.0,0.0,0.38,0.5,8,6,3,6,3,ORL
-42019,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.869,5,0.185,0.7,0.43,0.1,0.3,0.1,0.1,0.3,0.5,10,7,3,7,4,ORL
-42019,203516,James Ennis III,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.699,5,0.244,0.8,0.43,0.1,0.3,0.1,0.1,0.3,0.5,10,8,3,7,4,ORL
-42019,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.964,5,0.4,0.5,0.33,0.11,0.44,0.11,0.06,0.22,0.39,18,9,3,9,6,ORL
-42019,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,PRBallHandler,Defensive,0.619,5,0.396,0.842,0.47,0.05,0.16,0.05,0.0,0.42,0.5,19,16,7,15,8,ORL

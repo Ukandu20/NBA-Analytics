@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.724,68,0.103,1.031,0.429,0.131,0.069,0.131,0.062,0.438,0.5,1.9,2.0,0.7,1.6,0.9,IND
-22023,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.918,58,0.07,1.169,0.44,0.153,0.034,0.136,0.034,0.492,0.53,1.0,1.2,0.4,0.9,0.5,IND
-22023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.471,41,0.095,0.905,0.467,0.108,0.081,0.095,0.0,0.473,0.475,1.8,1.6,0.7,1.5,0.8,IND
-22023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.734,70,0.039,1.036,0.56,0.0,0.107,0.0,0.0,0.5,0.58,0.4,0.4,0.2,0.4,0.2,IND
-22023,1628971,Bruce Brown,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.947,32,0.059,1.227,0.647,0.091,0.136,0.091,0.0,0.591,0.676,0.7,0.8,0.3,0.5,0.2,IND
-22023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.275,76,0.021,0.792,0.4,0.125,0.083,0.125,0.042,0.375,0.4,0.3,0.3,0.1,0.3,0.2,IND
-22023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.463,67,0.031,0.9,0.571,0.1,0.2,0.05,0.0,0.5,0.571,0.3,0.3,0.1,0.2,0.1,IND
-22023,1627741,Buddy Hield,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.075,51,0.019,0.545,0.429,0.0,0.364,0.0,0.0,0.273,0.429,0.2,0.1,0.1,0.1,0.1,IND

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Transition,Offensive,0.173,6,0.179,0.815,0.35,0.148,0.185,0.148,0.074,0.333,0.00425,4.5,3.7,1.2,3.3,2.2
+42015,202323,Evan Turner,1610612738,BOS,Boston Celtics,Transition,Offensive,0.32,6,0.127,0.929,0.5,0.071,0.143,0.071,0.071,0.429,0.005,2.3,2.2,1.0,2.0,1.0
+42015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,6,0.106,2.0,1.0,0.2,0.0,0.2,0.0,1.0,0.01,0.8,1.7,0.7,0.7,0.0
+42015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,6,0.106,0.889,0.5,0.222,0.111,0.222,0.0,0.556,0.005,1.5,1.3,0.5,1.0,0.5
+42015,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,5,0.12,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.6,1.2,0.6,0.6,0.0
+42015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,1,0.167,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,3.0,4.0,2.0,2.0,0.0
+42015,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,6,0.132,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.0028599999999999997,1.2,0.7,0.3,1.2,0.8
+42015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,6,0.119,0.3,0.143,0.1,0.2,0.1,0.0,0.2,0.0014299999999999998,1.7,0.5,0.2,1.2,1.0
+42015,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.5,1.0,0.5,0.5,0.0
+42015,1626154,RJ Hunter,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,5,0.3,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.6,0.4,0.2,0.6,0.4
+42015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,6,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+42015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,4,0.077,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0

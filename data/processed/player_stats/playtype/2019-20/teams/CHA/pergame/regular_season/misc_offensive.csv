@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22019,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.775,63,0.049,0.679,0.22,0.304,0.375,0.0,0.0,0.357,0.0025,0.9,0.6,0.1,0.3,0.2
+22019,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.734,53,0.112,0.636,0.67,0.432,0.5,0.0,0.0,0.432,0.0067,0.8,0.5,0.0,0.1,0.0
+22019,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.703,63,0.036,0.622,0.07,0.311,0.356,0.044,0.0,0.333,0.001,0.7,0.4,0.0,0.2,0.2
+22019,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.764,41,0.117,0.667,0.29,0.3,0.467,0.0,0.0,0.333,0.0036,0.7,0.5,0.0,0.2,0.1
+22019,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.355,65,0.052,0.426,0.22,0.17,0.447,0.0,0.0,0.255,0.0022,0.7,0.3,0.1,0.3,0.2
+22019,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.166,58,0.077,0.306,0.6,0.204,0.714,0.02,0.02,0.204,0.006,0.8,0.3,0.1,0.1,0.0
+22019,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.617,55,0.041,0.56,0.23,0.2,0.36,0.12,0.08,0.24,0.0027,0.5,0.3,0.1,0.2,0.2
+22019,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.37,31,0.116,0.435,0.33,0.304,0.565,0.0,0.0,0.304,0.0033,0.7,0.3,0.0,0.1,0.1
+22019,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.091,58,0.032,0.25,0.33,0.167,0.708,0.042,0.0,0.167,0.0033,0.4,0.1,0.0,0.1,0.0
+22019,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.405,48,0.039,0.455,0.5,0.182,0.636,0.091,0.0,0.273,0.005,0.2,0.1,0.0,0.0,0.0
+22019,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.063,39,0.033,0.2,0.33,0.0,0.7,0.0,0.0,0.1,0.0033,0.3,0.1,0.0,0.1,0.1

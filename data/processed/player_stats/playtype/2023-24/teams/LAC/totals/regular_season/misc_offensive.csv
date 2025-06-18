@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22023,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Misc,Offensive,0.889,69,0.033,0.804,0.429,0.304,0.413,0.022,0.022,0.413,0.00464,46,37,6,14,8
+22023,201935,James Harden,1610612746,LAC,LA Clippers,Misc,Offensive,0.463,72,0.055,0.476,0.286,0.238,0.651,0.0,0.0,0.27,0.00357,63,30,2,7,5
+22023,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Misc,Offensive,0.194,68,0.068,0.304,0.667,0.13,0.804,0.0,0.0,0.174,0.006670000000000001,46,14,2,3,1
+22023,1626181,Norman Powell,1610612746,LAC,LA Clippers,Misc,Offensive,0.729,76,0.021,0.632,0.125,0.263,0.316,0.105,0.0,0.316,0.00188,19,12,1,8,7
+22023,1628464,Daniel Theis,1610612746,LAC,LA Clippers,Misc,Offensive,0.223,59,0.093,0.333,0.0,0.182,0.758,0.0,0.0,0.182,0.0,33,11,0,2,2
+22023,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Misc,Offensive,0.391,70,0.051,0.429,0.0,0.238,0.524,0.0,0.0,0.238,0.0,21,9,0,5,5
+22023,203486,Mason Plumlee,1610612746,LAC,LA Clippers,Misc,Offensive,0.563,46,0.064,0.533,0.75,0.2,0.533,0.0,0.0,0.267,0.0075,15,8,3,4,1
+22023,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Misc,Offensive,0.185,37,0.056,0.294,0.222,0.0,0.471,0.0,0.0,0.118,0.0027800000000000004,17,5,2,9,7
+22023,1629611,Terance Mann,1610612746,LAC,LA Clippers,Misc,Offensive,0.086,75,0.033,0.211,0.167,0.105,0.579,0.0,0.0,0.158,0.00167,19,4,1,6,5

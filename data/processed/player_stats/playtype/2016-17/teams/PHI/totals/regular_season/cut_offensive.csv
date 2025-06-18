@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.623,57,0.239,1.314,0.676,0.099,0.05,0.099,0.041,0.653,0.676,121,159,73,108,35
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.515,81,0.063,1.25,0.617,0.184,0.053,0.184,0.026,0.645,0.617,76,95,37,60,23
+22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.434,67,0.074,1.2,0.582,0.171,0.057,0.171,0.014,0.614,0.582,70,84,32,55,23
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.774,53,0.073,1.397,0.68,0.138,0.017,0.138,0.017,0.707,0.68,58,81,34,50,16
+22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.246,50,0.114,1.097,0.627,0.056,0.125,0.056,0.0,0.556,0.627,72,79,37,59,22
+22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.54,29,0.233,1.259,0.689,0.13,0.056,0.111,0.019,0.667,0.689,54,68,31,45,14
+22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.675,31,0.064,1.333,0.677,0.262,0.024,0.262,0.024,0.714,0.677,42,56,21,31,10
+22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.377,72,0.07,1.167,0.605,0.146,0.083,0.125,0.021,0.604,0.605,48,56,23,38,15
+22016,1627789,Timothe Luwawu-Cabarrot,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.533,69,0.08,1.256,0.586,0.205,0.051,0.205,0.0,0.641,0.586,39,49,17,29,12
+22016,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.323,81,0.051,1.139,0.581,0.111,0.083,0.111,0.056,0.556,0.581,36,41,18,31,13
+22016,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.877,24,0.118,1.458,0.75,0.125,0.083,0.125,0.042,0.708,0.75,24,35,15,20,5
+22016,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.543,80,0.028,1.261,0.706,0.174,0.087,0.174,0.0,0.696,0.706,23,29,12,17,5
+22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.675,18,0.13,1.333,0.692,0.222,0.111,0.222,0.056,0.667,0.692,18,24,9,13,4
+22016,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.986,31,0.073,1.692,0.833,0.077,0.0,0.077,0.0,0.846,0.833,13,22,10,12,2

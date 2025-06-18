@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.851,80,0.099,0.744,0.526,0.295,0.462,0.038,0.0,0.41,0.526,1.0,0.7,0.1,0.2,0.1
+22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.883,82,0.054,0.773,0.308,0.273,0.333,0.03,0.0,0.394,0.346,0.8,0.6,0.1,0.3,0.2
+22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.968,53,0.053,0.922,0.25,0.431,0.176,0.059,0.0,0.529,0.3,1.0,0.9,0.1,0.4,0.3
+22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.51,67,0.091,0.5,0.381,0.216,0.5,0.014,0.0,0.324,0.381,1.1,0.6,0.1,0.3,0.2
+22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.591,68,0.048,0.552,0.467,0.207,0.534,0.034,0.0,0.293,0.533,0.9,0.5,0.1,0.2,0.1
+22015,201571,D.J. Augustin,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.987,28,0.069,1.0,0.455,0.227,0.273,0.0,0.0,0.455,0.591,0.8,0.8,0.2,0.4,0.2
+22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.742,76,0.035,0.656,0.5,0.25,0.469,0.156,0.03,0.375,0.55,0.4,0.3,0.1,0.1,0.1
+22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.396,60,0.073,0.441,0.5,0.147,0.735,0.029,0.0,0.206,0.625,0.6,0.3,0.0,0.1,0.0
+22015,200751,Randy Foye,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.581,54,0.049,0.55,0.333,0.2,0.5,0.0,0.0,0.3,0.333,0.4,0.2,0.0,0.1,0.1
+22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.217,32,0.094,0.313,0.0,0.219,0.688,0.031,0.0,0.188,0.0,1.0,0.3,0.0,0.1,0.1
+22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.104,70,0.078,0.222,0.25,0.044,0.689,0.022,0.0,0.111,0.292,0.6,0.1,0.0,0.2,0.1
+22015,2749,Jameer Nelson,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.443,39,0.039,0.467,0.286,0.133,0.4,0.067,0.0,0.267,0.286,0.4,0.2,0.1,0.2,0.1
+22015,203123,Kostas Papanikolaou,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.417,26,0.118,0.455,0.5,0.182,0.636,0.0,0.0,0.273,0.5,0.4,0.2,0.0,0.1,0.0
+22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.072,20,0.072,0.182,0.5,0.091,0.727,0.091,0.0,0.091,0.5,0.6,0.1,0.1,0.1,0.1

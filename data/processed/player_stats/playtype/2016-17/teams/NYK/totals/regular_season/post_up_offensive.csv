@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Postup,Offensive,0.626,74,0.167,0.919,0.421,0.166,0.088,0.163,0.021,0.466,0.421,283,260,91,216,125
+22016,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Postup,Offensive,0.305,66,0.137,0.813,0.371,0.169,0.108,0.163,0.024,0.422,0.371,166,135,46,124,78
+22016,1626195,Willy Hernangomez,1610612752,NYK,New York Knicks,Postup,Offensive,0.126,72,0.123,0.671,0.408,0.092,0.263,0.066,0.0,0.342,0.408,76,51,20,49,29
+22016,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Postup,Offensive,0.201,79,0.061,0.75,0.417,0.094,0.156,0.063,0.0,0.406,0.417,32,24,10,24,14
+22016,1627851,Mindaugas Kuzminskas,1610612752,NYK,New York Knicks,Postup,Offensive,0.916,68,0.031,1.071,0.625,0.214,0.214,0.143,0.0,0.571,0.625,14,15,5,8,3

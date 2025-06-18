@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.815,39,0.189,1.141,0.564,0.216,0.123,0.194,0.026,0.577,0.564,5.8,6.6,2.3,4.0,1.7,PHI
-22023,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.695,70,0.128,1.055,0.527,0.152,0.09,0.138,0.014,0.538,0.527,2.1,2.2,0.8,1.6,0.8,PHI
-22023,202694,Marcus Morris Sr.,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.647,37,0.092,1.045,0.526,0.091,0.045,0.045,0.0,0.545,0.526,0.6,0.6,0.3,0.5,0.2,PHI
-22023,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.647,82,0.038,1.045,0.476,0.091,0.0,0.091,0.045,0.5,0.476,0.3,0.3,0.1,0.3,0.1,PHI
-22023,1628964,Mo Bamba,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.007,57,0.054,0.429,0.182,0.071,0.143,0.071,0.0,0.214,0.182,0.2,0.1,0.0,0.2,0.2,PHI

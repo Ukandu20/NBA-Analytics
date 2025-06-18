@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.618,79,0.105,0.983,0.396,0.085,0.085,0.068,0.034,0.393,0.495,117,115,40,101,61,DAL
-22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.85,58,0.071,1.138,0.5,0.085,0.064,0.085,0.021,0.5,0.561,94,107,41,82,41,DAL
-22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.704,70,0.045,1.02,0.479,0.092,0.194,0.071,0.031,0.418,0.589,98,100,35,73,38,DAL
-22023,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.971,36,0.14,1.348,0.5,0.13,0.043,0.13,0.043,0.522,0.625,23,31,10,20,10,DAL
-22023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.383,73,0.056,0.875,0.407,0.0,0.156,0.0,0.0,0.344,0.519,32,28,11,27,16,DAL
-22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.165,57,0.048,0.682,0.389,0.045,0.136,0.045,0.0,0.364,0.389,22,15,7,18,11,DAL

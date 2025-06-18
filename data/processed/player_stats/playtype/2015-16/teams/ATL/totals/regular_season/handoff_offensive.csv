@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.699,80,0.132,0.958,0.481,0.0,0.147,0.0,0.0,0.411,0.562,95,91,39,81,42
+22015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.89,80,0.061,1.156,0.58,0.156,0.125,0.156,0.063,0.531,0.63,64,74,29,50,21
+22015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.403,79,0.055,0.784,0.367,0.081,0.122,0.068,0.014,0.351,0.417,74,58,22,60,38
+22015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.182,75,0.068,0.683,0.304,0.111,0.175,0.095,0.016,0.317,0.37,63,43,14,46,32
+22015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.915,75,0.039,1.211,0.714,0.053,0.211,0.053,0.0,0.579,0.75,19,23,10,14,4
+22015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.623,51,0.074,0.913,0.421,0.087,0.13,0.087,0.043,0.391,0.447,23,21,8,19,11
+22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.641,81,0.009,0.923,0.364,0.077,0.077,0.077,0.0,0.385,0.455,13,12,4,11,7

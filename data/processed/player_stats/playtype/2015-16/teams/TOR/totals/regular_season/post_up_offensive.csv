@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.606,60,0.274,0.867,0.477,0.108,0.154,0.097,0.036,0.441,0.477,195,169,72,151,79
+22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.552,78,0.085,0.852,0.377,0.213,0.103,0.194,0.052,0.439,0.377,155,132,43,114,71
+22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.265,76,0.155,0.725,0.419,0.046,0.174,0.046,0.009,0.367,0.419,109,79,36,86,50
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.302,77,0.018,0.733,0.304,0.133,0.1,0.133,0.0,0.367,0.304,30,22,7,23,16
+22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.491,57,0.056,0.833,0.545,0.167,0.222,0.167,0.0,0.5,0.545,18,15,6,11,5
+22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.239,82,0.036,0.706,0.429,0.0,0.176,0.0,0.0,0.353,0.429,17,12,6,14,8
+22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.104,79,0.024,0.571,0.364,0.0,0.214,0.0,0.0,0.286,0.364,14,8,4,11,7

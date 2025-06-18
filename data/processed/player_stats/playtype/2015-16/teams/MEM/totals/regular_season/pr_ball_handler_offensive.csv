@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.734,56,0.433,0.86,0.384,0.132,0.095,0.101,0.013,0.418,0.409,378,325,114,297,183
+22015,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.79,55,0.399,0.887,0.41,0.215,0.174,0.17,0.02,0.449,0.439,247,219,64,156,92
+22015,201145,Jeff Green,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.765,53,0.186,0.875,0.416,0.141,0.094,0.141,0.023,0.445,0.441,128,112,42,101,59
+22015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.921,26,0.218,0.976,0.507,0.094,0.141,0.082,0.024,0.471,0.537,85,83,34,67,33
+22015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.621,60,0.163,0.821,0.377,0.119,0.119,0.119,0.03,0.388,0.406,67,55,20,53,33
+22015,201584,Courtney Lee,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.21,51,0.157,0.636,0.322,0.078,0.156,0.078,0.013,0.312,0.322,77,49,19,59,40
+22015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.962,12,0.377,1.043,0.488,0.022,0.087,0.0,0.0,0.457,0.561,46,48,20,41,21
+22015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.407,76,0.053,0.739,0.378,0.022,0.174,0.022,0.0,0.326,0.446,46,34,14,37,23
+22015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.91,64,0.052,0.968,0.565,0.097,0.161,0.097,0.0,0.516,0.565,31,30,13,23,10
+22015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.486,14,0.392,0.763,0.433,0.079,0.184,0.079,0.053,0.368,0.45,38,29,13,30,17
+22015,203492,Ray McCallum,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.176,10,0.33,0.613,0.364,0.065,0.226,0.065,0.0,0.323,0.386,31,19,8,22,14
+22015,203798,PJ Hairston,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.181,18,0.165,0.615,0.368,0.038,0.231,0.038,0.0,0.308,0.395,26,16,7,19,12
+22015,1627362,Briante Weber,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.142,6,0.49,0.583,0.412,0.0,0.292,0.0,0.0,0.292,0.412,24,14,7,17,10
+22015,2757,Beno Udrih,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.103,8,0.421,0.542,0.375,0.042,0.333,0.042,0.042,0.25,0.375,24,13,6,16,10

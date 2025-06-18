@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.554,79,0.196,0.909,0.395,0.119,0.126,0.109,0.012,0.407,0.476,5.1,4.7,1.6,3.9,2.4,MIN
-22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.284,69,0.134,0.785,0.359,0.151,0.186,0.134,0.017,0.378,0.38,2.5,2.0,0.6,1.7,1.1,MIN
-22024,1642265,Rob Dillingham,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.758,49,0.107,1.0,0.52,0.034,0.103,0.034,0.0,0.483,0.54,0.6,0.6,0.3,0.5,0.2,MIN
-22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.59,80,0.024,0.923,0.526,0.077,0.231,0.077,0.038,0.423,0.579,0.3,0.3,0.1,0.2,0.1,MIN
-22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.478,62,0.033,0.875,0.368,0.083,0.125,0.083,0.0,0.375,0.474,0.4,0.3,0.1,0.3,0.2,MIN
-22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.185,82,0.018,0.722,0.353,0.111,0.056,0.111,0.111,0.333,0.353,0.2,0.2,0.1,0.2,0.1,MIN
-22024,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.222,71,0.028,0.75,0.333,0.063,0.188,0.063,0.0,0.313,0.417,0.2,0.2,0.1,0.2,0.1,MIN

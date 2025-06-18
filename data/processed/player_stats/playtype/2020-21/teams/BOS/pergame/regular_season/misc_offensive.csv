@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22020,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Misc,Offensive,0.638,64,0.038,0.613,0.25,0.242,0.435,0.048,0.0,0.306,0.003,1.0,0.6,0.1,0.3,0.2
+22020,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Misc,Offensive,0.795,49,0.071,0.729,0.29,0.313,0.333,0.083,0.0,0.396,0.0034999999999999996,1.0,0.7,0.1,0.3,0.2
+22020,202684,Tristan Thompson,1610612738,BOS,Boston Celtics,Misc,Offensive,0.429,54,0.12,0.491,0.5,0.245,0.528,0.0,0.0,0.302,0.005,1.0,0.5,0.1,0.2,0.1
+22020,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Misc,Offensive,0.59,58,0.031,0.581,0.32,0.209,0.372,0.07,0.023,0.326,0.0034000000000000002,0.7,0.4,0.1,0.3,0.2
+22020,1630174,Aaron Nesmith,1610612738,BOS,Boston Celtics,Misc,Offensive,0.992,46,0.075,1.125,0.67,0.188,0.25,0.0,0.0,0.563,0.0072,0.3,0.4,0.1,0.2,0.1
+22020,202689,Kemba Walker,1610612738,BOS,Boston Celtics,Misc,Offensive,0.468,43,0.04,0.515,0.23,0.212,0.394,0.03,0.0,0.303,0.0023,0.8,0.4,0.1,0.3,0.2
+22020,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Misc,Offensive,0.777,66,0.043,0.714,0.4,0.143,0.381,0.143,0.0,0.333,0.0045000000000000005,0.3,0.2,0.1,0.2,0.1
+22020,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Misc,Offensive,0.322,63,0.115,0.405,0.33,0.189,0.649,0.027,0.0,0.243,0.0033,0.6,0.2,0.0,0.1,0.1
+22020,201952,Jeff Teague,1610612738,BOS,Boston Celtics,Misc,Offensive,0.58,34,0.075,0.579,0.25,0.263,0.526,0.211,0.0,0.316,0.0038,0.6,0.3,0.0,0.1,0.1
+22020,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Misc,Offensive,0.221,42,0.094,0.324,0.33,0.235,0.676,0.029,0.0,0.206,0.0033,0.8,0.3,0.0,0.1,0.0
+22020,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Misc,Offensive,0.127,52,0.118,0.25,0.5,0.1,0.775,0.025,0.025,0.15,0.005,0.8,0.2,0.1,0.1,0.1

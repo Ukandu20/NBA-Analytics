@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.921,69,0.216,1.02,0.433,0.085,0.133,0.082,0.023,0.411,0.542,353,360,123,284,161,GSW
-22018,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.851,78,0.19,0.98,0.46,0.101,0.132,0.092,0.02,0.443,0.513,348,341,126,274,148,GSW
-22018,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.681,74,0.267,0.895,0.432,0.03,0.09,0.023,0.008,0.398,0.483,133,119,51,118,67,GSW
-22018,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.982,78,0.04,1.206,0.561,0.032,0.063,0.032,0.0,0.524,0.649,63,76,32,57,25,GSW
-22018,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.898,64,0.092,1.0,0.556,0.16,0.16,0.16,0.04,0.52,0.556,25,25,10,18,8,GSW
-22018,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.898,66,0.027,1.0,0.583,0.118,0.235,0.118,0.059,0.471,0.583,17,17,7,12,5,GSW
-22018,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.979,32,0.082,1.167,0.444,0.25,0.083,0.167,0.083,0.5,0.5,12,14,4,9,5,GSW
-22018,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.299,68,0.05,0.737,0.357,0.105,0.211,0.105,0.053,0.316,0.429,19,14,5,14,9,GSW

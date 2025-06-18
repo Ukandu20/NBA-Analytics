@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,101108,Chris Paul,1610612746,LAC,LA Clippers,Misc,Offensive,0.96,61,0.076,0.987,0.5,0.392,0.38,0.025,0.0,0.506,0.006670000000000001,79,78,9,18,9
+22016,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Misc,Offensive,0.561,81,0.158,0.529,0.6,0.486,0.478,0.007,0.0,0.391,0.006,138,73,3,5,2
+22016,200755,JJ Redick,1610612746,LAC,LA Clippers,Misc,Offensive,0.976,78,0.048,1.02,0.58,0.451,0.333,0.02,0.02,0.549,0.006670000000000001,51,52,7,12,5
+22016,2037,Jamal Crawford,1610612746,LAC,LA Clippers,Misc,Offensive,0.771,82,0.047,0.667,0.28,0.255,0.392,0.0,0.0,0.353,0.00361,51,34,5,18,13
+22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Misc,Offensive,0.588,61,0.044,0.544,0.27,0.351,0.456,0.07,0.0,0.368,0.0027300000000000002,57,31,3,11,8
+22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Misc,Offensive,0.369,82,0.066,0.422,0.25,0.2,0.711,0.0,0.0,0.222,0.0025,45,19,1,4,3
+22016,101109,Raymond Felton,1610612746,LAC,LA Clippers,Misc,Offensive,0.388,80,0.059,0.432,0.18,0.162,0.378,0.0,0.0,0.243,0.0017599999999999998,37,16,3,17,14
+22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Misc,Offensive,0.578,52,0.051,0.538,0.67,0.154,0.615,0.077,0.0,0.308,0.008329999999999999,13,7,2,3,1
+22016,203085,Austin Rivers,1610612746,LAC,LA Clippers,Misc,Offensive,0.094,74,0.034,0.219,0.1,0.219,0.5,0.063,0.03,0.156,0.001,32,7,1,10,9
+22016,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,Misc,Offensive,0.348,80,0.033,0.4,0.33,0.133,0.467,0.0,0.0,0.267,0.00333,15,6,2,6,4
+22016,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Misc,Offensive,0.257,68,0.076,0.353,0.25,0.118,0.647,0.0,0.0,0.176,0.0025,17,6,1,4,3

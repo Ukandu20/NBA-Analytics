@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.333,10,0.225,0.957,0.5,0.043,0.0,0.043,0.0,0.48,0.005,23,22,11,22,11
+42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.429,10,0.103,1.0,0.385,0.222,0.056,0.222,0.0,0.5,0.00385,18,18,5,13,8
+42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.217,8,0.067,0.846,0.444,0.308,0.077,0.308,0.08,0.54,0.00444,13,11,4,9,5
+42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,8,0.346,1.0,0.5,0.111,0.0,0.0,0.0,0.56,0.005,9,9,4,8,4
+42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.041,0.75,0.429,0.0,0.125,0.0,0.0,0.38,0.0042899999999999995,8,6,3,7,4
+42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.07,1.333,0.5,0.333,0.0,0.333,0.0,0.67,0.005,3,4,1,2,1
+42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.07,0.571,0.333,0.0,0.143,0.0,0.0,0.29,0.00333,7,4,2,6,4
+42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.0,10,0.006,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0

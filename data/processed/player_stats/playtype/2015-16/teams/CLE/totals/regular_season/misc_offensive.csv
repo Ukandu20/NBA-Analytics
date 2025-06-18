@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.495,76,0.058,0.495,0.556,0.243,0.617,0.047,0.03,0.28,0.583,107,53,10,18,8
+22015,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.754,82,0.112,0.667,0.625,0.439,0.439,0.0,0.0,0.409,0.625,66,44,5,8,3
+22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.92,53,0.049,0.827,0.368,0.288,0.365,0.038,0.02,0.404,0.421,52,43,7,19,12
+22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.325,77,0.052,0.394,0.1,0.212,0.636,0.03,0.0,0.227,0.1,66,26,1,10,9
+22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.612,77,0.047,0.568,0.353,0.159,0.455,0.0,0.0,0.273,0.471,44,25,6,17,11
+22015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.971,41,0.069,0.923,0.667,0.269,0.5,0.0,0.0,0.423,0.833,26,24,4,6,2
+22015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.37,76,0.062,0.425,0.2,0.2,0.675,0.0,0.0,0.225,0.2,40,17,1,5,4
+22015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.239,54,0.07,0.333,0.167,0.148,0.63,0.037,0.0,0.185,0.167,27,9,1,6,5
+22015,2760,Anderson Varejao,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.716,31,0.108,0.636,1.0,0.273,0.636,0.0,0.0,0.364,1.0,11,7,1,1,0
+22015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.193,74,0.051,0.3,0.2,0.15,0.6,0.0,0.0,0.2,0.2,20,6,1,5,4
+22015,202389,Timofey Mozgov,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.019,76,0.064,0.067,0.0,0.067,0.8,0.0,0.0,0.033,0.0,30,2,0,4,4

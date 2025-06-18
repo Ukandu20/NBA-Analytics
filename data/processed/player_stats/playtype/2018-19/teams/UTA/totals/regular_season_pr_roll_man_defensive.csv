@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.91,68,0.021,0.625,0.286,0.06,0.06,0.06,0.0,0.25,0.357,16,10,4,14,10,UTA
-22018,200757,Thabo Sefolosha,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.731,50,0.067,0.846,0.385,0.0,0.0,0.0,0.0,0.38,0.423,13,11,5,13,8,UTA
-22018,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.469,77,0.022,1.0,0.429,0.06,0.12,0.06,0.0,0.41,0.571,17,17,6,14,8,UTA
-22018,203109,Jae Crowder,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.534,80,0.047,0.967,0.407,0.1,0.03,0.1,0.03,0.4,0.5,30,29,11,27,16,UTA
-22018,202324,Derrick Favors,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.513,76,0.089,0.988,0.425,0.06,0.0,0.05,0.01,0.43,0.494,84,83,34,80,46,UTA
-22018,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Defensive,0.621,81,0.095,0.915,0.4,0.02,0.03,0.02,0.0,0.4,0.466,153,140,58,145,87,UTA

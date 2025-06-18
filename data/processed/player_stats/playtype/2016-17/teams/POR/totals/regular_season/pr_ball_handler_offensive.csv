@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.934,75,0.434,1.018,0.431,0.127,0.093,0.113,0.019,0.448,0.499,826,841,284,659,375
+22016,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.805,80,0.35,0.939,0.447,0.094,0.114,0.084,0.018,0.438,0.482,605,568,219,490,271
+22016,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.578,65,0.263,0.82,0.43,0.077,0.131,0.06,0.022,0.399,0.433,183,150,64,149,85
+22016,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.488,79,0.045,0.794,0.37,0.088,0.118,0.088,0.0,0.382,0.37,34,27,10,27,17
+22016,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.189,77,0.045,0.618,0.345,0.059,0.118,0.059,0.029,0.294,0.345,34,21,10,29,19
+22016,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.993,61,0.023,1.357,0.615,0.071,0.071,0.071,0.071,0.571,0.692,14,19,8,13,5

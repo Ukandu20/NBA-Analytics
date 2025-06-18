@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.33,6,0.431,0.92,0.333,0.04,0.04,0.04,0.04,0.32,0.00458,25,23,8,24,16
+42016,1627835,Paul Zipser,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.437,6,0.409,1.0,0.353,0.056,0.0,0.056,0.0,0.389,0.00471,18,18,6,17,11
+42016,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.75,6,0.359,1.214,0.462,0.0,0.071,0.0,0.0,0.429,0.006540000000000001,14,17,6,13,7
+42016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.523,6,0.15,1.063,0.308,0.188,0.0,0.125,0.0,0.438,0.00423,16,17,4,13,9
+42016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.239,3,0.441,0.867,0.4,0.2,0.133,0.2,0.0,0.4,0.0045000000000000005,15,13,4,10,6
+42016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.437,6,0.071,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.005,10,10,4,10,6
+42016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,6,0.109,1.143,0.667,0.0,0.143,0.0,0.0,0.571,0.006670000000000001,7,8,4,6,2
+42016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,5,0.258,0.625,0.25,0.125,0.0,0.125,0.125,0.25,0.0025,8,5,2,8,6
+42016,1626166,Cameron Payne,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,1,0.333,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,1,3,1,1,0
+42016,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,4,0.25,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1
+42016,201627,Anthony Morrow,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,3,0.1,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0
+42016,200765,Rajon Rondo,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,2,0.161,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.002,5,2,1,5,4
+42016,203487,Michael Carter-Williams,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,5,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3
+42016,203530,Joffrey Lauvergne,1610612741,CHI,Chicago Bulls,Spotup,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3

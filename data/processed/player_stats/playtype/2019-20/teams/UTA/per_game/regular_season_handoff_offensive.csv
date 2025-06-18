@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.891,69,0.062,1.175,0.495,0.087,0.039,0.078,0.029,0.495,0.597,1.5,1.8,0.7,1.3,0.7,UTA
-22019,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.502,63,0.086,0.904,0.405,0.125,0.192,0.115,0.029,0.385,0.473,1.7,1.5,0.5,1.2,0.7,UTA
-22019,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.759,72,0.073,1.037,0.488,0.093,0.185,0.074,0.037,0.426,0.598,0.8,0.8,0.3,0.6,0.3,UTA
-22019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.611,42,0.079,0.96,0.432,0.04,0.1,0.04,0.02,0.4,0.523,1.2,1.1,0.5,1.0,0.6,UTA
-22019,201144,Mike Conley,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.467,47,0.061,0.886,0.412,0.114,0.114,0.114,0.0,0.432,0.471,0.9,0.8,0.3,0.7,0.4,UTA
-22019,1627777,Georges Niang,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.141,66,0.072,0.615,0.261,0.038,0.077,0.038,0.0,0.269,0.304,0.4,0.2,0.1,0.3,0.3,UTA
-22019,1626144,Emmanuel Mudiay,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.113,54,0.05,0.591,0.286,0.091,0.273,0.045,0.0,0.273,0.357,0.4,0.2,0.1,0.3,0.2,UTA
-22019,201145,Jeff Green,1610612762,UTA,Utah Jazz,Handoff,Offensive,0.533,30,0.052,0.923,0.4,0.0,0.231,0.0,0.0,0.308,0.6,0.4,0.4,0.1,0.3,0.2,UTA

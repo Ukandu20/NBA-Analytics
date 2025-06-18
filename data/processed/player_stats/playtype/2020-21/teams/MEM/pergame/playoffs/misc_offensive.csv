@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.047,0.571,0.0,0.29,0.57,0.0,0.0,0.29,0.0,1.4,0.8,0.0,0.2,0.2
+42020,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.062,0.75,0.5,0.0,0.5,0.0,0.0,0.25,0.0075,0.8,0.6,0.2,0.4,0.2
+42020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.111,0.5,0.5,0.25,0.25,0.0,0.0,0.25,0.005,0.8,0.4,0.2,0.4,0.2
+42020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,7,0.025,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.0,0.0
+42020,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,3,0.167,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0
+42020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.017,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2
+42020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.042,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2
+42020,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.0,5,0.042,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0

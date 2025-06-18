@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201609,Goran Dragic,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.794,73,0.43,0.926,0.45,0.138,0.171,0.127,0.016,0.44,0.482,637,590,202,449,247
+22016,204020,Tyler Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.387,73,0.276,0.748,0.373,0.121,0.142,0.113,0.018,0.379,0.382,282,211,79,212,133
+22016,203079,Dion Waiters,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.314,46,0.279,0.722,0.399,0.048,0.183,0.043,0.009,0.348,0.427,230,166,71,178,107
+22016,201949,James Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.453,76,0.171,0.774,0.466,0.124,0.243,0.113,0.023,0.39,0.474,177,137,54,116,62
+22016,1626196,Josh Richardson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.324,53,0.246,0.725,0.409,0.047,0.181,0.04,0.0,0.362,0.422,149,108,47,115,68
+22016,201961,Wayne Ellington,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.826,62,0.08,0.958,0.413,0.0,0.042,0.0,0.0,0.396,0.5,48,46,19,46,27
+22016,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.297,18,0.221,0.705,0.388,0.066,0.148,0.066,0.016,0.361,0.388,61,43,19,49,30
+22016,203585,Rodney McGruder,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.08,78,0.116,0.492,0.326,0.048,0.27,0.048,0.0,0.254,0.337,63,31,14,43,29

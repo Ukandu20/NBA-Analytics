@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,1.0,17,0.035,1.353,0.667,0.118,0.0,0.118,0.0,0.706,0.667,17,23,10,15,5,OKC

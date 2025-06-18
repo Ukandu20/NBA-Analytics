@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,1,0.143,1.333,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,4,1,2,1,SAS
-42020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,1,0.179,0.8,0.0,0.4,0.0,0.4,0.0,0.4,0.0,5,4,0,3,3,SAS
-42020,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,1,0.087,1.5,1.0,0.5,0.0,0.5,0.0,1.0,1.0,2,3,1,1,0,SAS

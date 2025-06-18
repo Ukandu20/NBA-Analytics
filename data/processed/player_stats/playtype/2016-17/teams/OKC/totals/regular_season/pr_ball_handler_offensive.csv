@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.714,81,0.355,0.891,0.407,0.146,0.166,0.128,0.021,0.41,0.461,967,862,278,683,405
+22016,203506,Victor Oladipo,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.568,67,0.298,0.816,0.426,0.073,0.136,0.066,0.009,0.399,0.445,331,270,113,265,152
+22016,203902,Semaj Christon,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.115,64,0.364,0.569,0.321,0.029,0.157,0.029,0.01,0.284,0.321,102,58,27,84,57
+22016,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.189,20,0.459,0.618,0.323,0.0,0.088,0.0,0.0,0.294,0.339,68,42,20,62,42
+22016,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.307,68,0.063,0.72,0.421,0.04,0.2,0.0,0.0,0.36,0.447,25,18,8,19,11
+22016,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.136,78,0.045,0.579,0.182,0.263,0.158,0.263,0.0,0.368,0.182,19,11,2,11,9
+22016,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.168,40,0.041,0.6,0.286,0.1,0.2,0.1,0.0,0.3,0.286,10,6,2,7,5
+22016,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.021,79,0.035,0.3,0.176,0.0,0.15,0.0,0.0,0.15,0.176,20,6,3,17,14

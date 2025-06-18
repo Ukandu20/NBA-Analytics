@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.967,73,0.044,0.514,0.207,0.054,0.162,0.054,0.0,0.216,0.259,37,19,6,29,23,LAC
-22023,201566,Russell Westbrook,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.242,68,0.045,1.227,0.474,0.091,0.045,0.091,0.0,0.5,0.605,22,27,9,19,10,LAC
-22023,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.153,73,0.038,1.286,0.529,0.095,0.095,0.095,0.0,0.524,0.676,21,27,9,17,8,LAC
-22023,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.187,68,0.056,1.27,0.548,0.162,0.054,0.162,0.054,0.568,0.629,37,47,17,31,14,LAC
-22023,1629599,Amir Coffey,1610612746,LAC,LA Clippers,OffScreen,Defensive,0.209,66,0.071,1.263,0.5,0.079,0.053,0.079,0.026,0.5,0.632,38,48,17,34,17,LAC

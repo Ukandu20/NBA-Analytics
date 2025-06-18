@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.641,82,0.167,1.054,0.385,0.025,0.05,0.02,0.0,0.371,0.553,202,213,72,187,115,DET
-22024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.391,77,0.131,0.903,0.337,0.097,0.058,0.097,0.049,0.35,0.435,103,93,31,92,61,DET
-22024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.936,73,0.027,1.308,0.48,0.038,0.0,0.038,0.0,0.5,0.64,26,34,12,25,13,DET
-22024,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.862,70,0.013,1.2,0.478,0.08,0.04,0.08,0.04,0.48,0.587,25,30,11,23,12,DET
-22024,1631323,Simone Fontecchio,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.5,75,0.057,0.962,0.391,0.038,0.115,0.038,0.038,0.346,0.522,26,25,9,23,14,DET
-22024,1631093,Jaden Ivey,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.423,30,0.025,0.929,0.385,0.0,0.071,0.0,0.0,0.357,0.5,14,13,5,13,8,DET

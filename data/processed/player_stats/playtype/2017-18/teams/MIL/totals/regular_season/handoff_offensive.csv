@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.681,82,0.054,0.989,0.435,0.126,0.161,0.115,0.0,0.437,0.5,87,86,27,62,35
+22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.961,71,0.029,1.316,0.6,0.053,0.026,0.026,0.0,0.605,0.671,38,50,21,35,14
+22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.409,75,0.116,0.839,0.321,0.0,0.054,0.0,0.0,0.304,0.443,56,47,17,53,36
+22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.903,75,0.019,1.162,0.567,0.081,0.135,0.081,0.027,0.514,0.633,37,43,17,30,13
+22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.875,48,0.038,1.13,0.524,0.087,0.087,0.087,0.087,0.478,0.571,23,26,11,21,10
+22017,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.969,53,0.05,1.333,0.545,0.0,0.083,0.0,0.0,0.5,0.727,12,16,6,11,5
+22017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.138,31,0.03,0.667,0.375,0.083,0.25,0.0,0.0,0.333,0.438,12,8,3,8,5
+22017,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,Handoff,Offensive,0.09,51,0.077,0.571,0.364,0.0,0.214,0.0,0.0,0.286,0.364,14,8,4,11,7

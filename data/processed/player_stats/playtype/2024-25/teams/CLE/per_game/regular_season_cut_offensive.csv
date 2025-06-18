@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.701,82,0.294,1.39,0.722,0.157,0.039,0.157,0.02,0.713,0.722,3.1,4.3,1.8,2.5,0.7,CLE
-22024,1629631,De'Andre Hunter,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.651,27,0.066,1.364,0.684,0.182,0.0,0.182,0.045,0.727,0.684,0.8,1.1,0.5,0.7,0.2,CLE
-22024,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.889,75,0.012,1.529,0.786,0.176,0.118,0.176,0.118,0.706,0.786,0.2,0.3,0.1,0.2,0.0,CLE
-22024,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Cut,Offensive,0.987,51,0.063,1.75,0.833,0.083,0.0,0.083,0.083,0.833,0.833,0.2,0.4,0.2,0.2,0.0,CLE

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.767,76,0.149,1.037,0.411,0.118,0.099,0.118,0.019,0.429,0.484,161,167,53,129,76
+22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.36,79,0.048,0.821,0.321,0.018,0.036,0.0,0.0,0.321,0.415,56,46,17,53,36
+22016,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.942,52,0.039,1.242,0.536,0.091,0.091,0.091,0.03,0.515,0.643,33,41,15,28,13
+22016,202397,Ish Smith,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.713,81,0.038,1.0,0.552,0.029,0.118,0.029,0.0,0.5,0.552,34,34,16,29,13
+22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.371,82,0.023,0.828,0.4,0.069,0.034,0.103,0.0,0.414,0.4,29,24,10,25,15
+22016,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.561,31,0.106,0.933,0.333,0.0,0.0,0.0,0.0,0.333,0.467,15,14,5,15,10
+22016,2757,Beno Udrih,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.125,39,0.073,0.611,0.25,0.111,0.056,0.111,0.056,0.278,0.25,18,11,4,16,12
+22016,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.117,77,0.033,0.6,0.308,0.0,0.133,0.0,0.0,0.267,0.346,15,9,4,13,9

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.703,81,0.189,0.847,0.389,0.159,0.113,0.141,0.024,0.422,0.406,327,277,95,244,149
+22015,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.307,76,0.407,0.69,0.357,0.155,0.243,0.12,0.013,0.356,0.363,374,258,82,230,148
+22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.369,82,0.291,0.718,0.359,0.063,0.13,0.049,0.017,0.34,0.389,347,249,102,284,182
+22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.841,82,0.069,0.915,0.478,0.085,0.136,0.085,0.0,0.441,0.511,59,54,22,46,24
+22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.241,39,0.154,0.657,0.245,0.164,0.104,0.149,0.015,0.328,0.255,67,44,12,49,37
+22015,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.093,37,0.406,0.537,0.317,0.037,0.232,0.037,0.0,0.268,0.325,82,44,19,60,41
+22015,1889,Andre Miller,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.765,26,0.356,0.875,0.647,0.125,0.375,0.094,0.031,0.438,0.647,32,28,11,17,6
+22015,2419,Tayshaun Prince,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.254,77,0.079,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,21,14,7,14,7

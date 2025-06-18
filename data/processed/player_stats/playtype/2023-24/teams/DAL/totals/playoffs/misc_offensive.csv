@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.696,22,0.042,0.7,0.0,0.4,0.4,0.0,0.0,0.4,0.0,20,14,0,4,4
+42023,1641726,Dereck Lively II,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.6,21,0.146,0.667,0.0,0.476,0.524,0.0,0.0,0.429,0.0,21,14,0,0,0
+42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.32,22,0.026,0.529,0.167,0.294,0.353,0.0,0.0,0.353,0.00167,17,9,1,6,5
+42023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.12,22,0.052,0.267,0.0,0.267,0.6,0.0,0.0,0.2,0.0,15,4,0,2,2
+42023,1629655,Daniel Gafford,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.04,22,0.093,0.188,0.2,0.188,0.563,0.063,0.063,0.063,0.002,16,3,1,5,4

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Cut,Offensive,0.234,65,0.096,1.051,0.544,0.085,0.068,0.085,0.025,0.534,0.544,118,124,56,103,47
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Cut,Offensive,0.653,78,0.122,1.292,0.649,0.191,0.022,0.18,0.045,0.674,0.649,89,115,48,74,26
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,Cut,Offensive,0.737,49,0.096,1.354,0.673,0.169,0.031,0.154,0.0,0.692,0.673,65,88,35,52,17
+22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,Cut,Offensive,0.756,72,0.046,1.368,0.673,0.175,0.0,0.158,0.035,0.702,0.673,57,78,33,49,16
+22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Cut,Offensive,0.686,79,0.045,1.308,0.625,0.231,0.077,0.231,0.077,0.635,0.625,52,68,25,40,15
+22015,203473,Dewayne Dedmon,1610612753,ORL,Orlando Magic,Cut,Offensive,0.119,58,0.244,0.983,0.469,0.186,0.051,0.169,0.068,0.492,0.469,59,58,23,49,26
+22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,Cut,Offensive,0.116,73,0.054,0.981,0.532,0.113,0.075,0.113,0.075,0.491,0.532,53,52,25,47,22
+22015,101141,Ersan Ilyasova,1610612753,ORL,Orlando Magic,Cut,Offensive,0.923,22,0.14,1.5,0.727,0.154,0.0,0.154,0.0,0.769,0.727,26,39,16,22,6
+22015,201160,Jason Smith,1610612753,ORL,Orlando Magic,Cut,Offensive,0.243,76,0.063,1.054,0.531,0.135,0.054,0.135,0.054,0.541,0.531,37,39,17,32,15
+22015,203094,Andrew Nicholson,1610612753,ORL,Orlando Magic,Cut,Offensive,0.402,56,0.05,1.158,0.529,0.211,0.0,0.211,0.105,0.526,0.529,19,22,9,17,8
+22015,101112,Channing Frye,1610612753,ORL,Orlando Magic,Cut,Offensive,0.997,44,0.054,1.75,0.778,0.417,0.0,0.333,0.167,0.833,0.778,12,21,7,9,2
+22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,Cut,Offensive,0.449,79,0.031,1.176,0.5,0.176,0.0,0.176,0.118,0.529,0.5,17,20,8,16,8

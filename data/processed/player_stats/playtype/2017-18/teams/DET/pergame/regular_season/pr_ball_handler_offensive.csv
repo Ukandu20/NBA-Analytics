@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.828,45,0.503,0.943,0.48,0.084,0.13,0.087,0.019,0.451,0.5,8.2,7.7,3.2,6.6,3.4
+22017,202397,Ish Smith,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.573,82,0.37,0.837,0.438,0.037,0.087,0.034,0.008,0.411,0.449,4.3,3.6,1.7,3.8,2.1
+22017,202699,Tobias Harris,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.939,48,0.123,1.04,0.46,0.1,0.05,0.09,0.02,0.47,0.517,2.1,2.2,0.8,1.8,1.0
+22017,202779,Dwight Buycks,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.43,29,0.482,0.774,0.391,0.113,0.194,0.113,0.008,0.379,0.425,4.3,3.3,1.2,3.0,1.8
+22017,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.42,73,0.154,0.77,0.415,0.08,0.195,0.08,0.023,0.368,0.431,1.2,0.9,0.4,0.9,0.5
+22017,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.255,69,0.139,0.684,0.329,0.102,0.133,0.102,0.01,0.347,0.342,1.4,1.0,0.4,1.1,0.7
+22017,201933,Blake Griffin,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.569,25,0.114,0.833,0.37,0.117,0.133,0.1,0.017,0.383,0.435,2.4,2.0,0.7,1.8,1.2
+22017,204038,Langston Galloway,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.354,58,0.151,0.732,0.373,0.0,0.089,0.0,0.0,0.339,0.402,1.0,0.7,0.3,0.9,0.6
+22017,202340,Avery Bradley,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.229,40,0.078,0.667,0.349,0.037,0.185,0.037,0.019,0.296,0.384,1.4,0.9,0.4,1.1,0.7
+22017,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.596,62,0.062,0.842,0.382,0.026,0.079,0.026,0.0,0.368,0.441,0.6,0.5,0.2,0.5,0.3
+22017,2749,Jameer Nelson,1610612765,DET,Detroit Pistons,PRBallHandler,Offensive,0.214,7,0.451,0.652,0.412,0.0,0.261,0.0,0.0,0.304,0.441,3.3,2.1,1.0,2.4,1.4

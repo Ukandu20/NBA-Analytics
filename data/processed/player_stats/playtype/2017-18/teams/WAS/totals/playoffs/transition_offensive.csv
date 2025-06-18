@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.776,6,0.235,1.258,0.56,0.097,0.097,0.097,0.0,0.548,0.0072,31,39,14,25,11
+42017,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.271,6,0.217,0.921,0.48,0.184,0.237,0.158,0.026,0.447,0.00522,38,35,11,23,12
+42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.235,6,0.344,0.905,0.38,0.238,0.048,0.238,0.048,0.476,0.00375,21,19,6,16,10
+42017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.17,1.5,0.62,0.0,0.0,0.0,0.0,0.625,0.0075,8,12,5,8,3
+42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,5,0.188,1.333,0.5,0.0,0.0,0.0,0.0,0.5,0.006670000000000001,6,8,3,6,3
+42017,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,6,0.135,1.143,0.5,0.429,0.143,0.429,0.143,0.571,0.005,7,8,2,4,2
+42017,203118,Mike Scott,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,6,0.102,1.4,1.0,0.0,0.4,0.0,0.0,0.6,0.01167,5,7,3,3,0
+42017,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,6,0.05,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0
+42017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,6,0.035,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
+42017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,6,0.222,0.5,0.0,0.25,0.25,0.25,0.0,0.25,0.0,4,2,0,2,2

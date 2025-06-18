@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.55,80,0.198,0.874,0.397,0.063,0.052,0.063,0.011,0.408,0.423,2.2,1.9,0.8,2.0,1.2
+22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.741,70,0.143,0.981,0.426,0.11,0.065,0.104,0.013,0.455,0.488,2.2,2.2,0.8,1.8,1.1
+22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.67,59,0.128,0.929,0.408,0.175,0.084,0.149,0.039,0.455,0.425,2.6,2.4,0.8,2.0,1.2
+22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.179,82,0.087,0.667,0.301,0.109,0.072,0.087,0.0,0.341,0.323,1.7,1.1,0.4,1.4,1.0
+22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.844,82,0.044,1.03,0.442,0.182,0.076,0.182,0.045,0.485,0.462,0.8,0.8,0.3,0.6,0.4
+22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.975,82,0.013,1.333,0.7,0.083,0.083,0.083,0.0,0.667,0.7,0.1,0.2,0.1,0.1,0.0
+22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.278,67,0.034,0.733,0.357,0.0,0.067,0.0,0.0,0.333,0.393,0.2,0.2,0.1,0.2,0.1
+22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.067,82,0.043,0.556,0.313,0.0,0.111,0.0,0.0,0.278,0.313,0.2,0.1,0.1,0.2,0.1

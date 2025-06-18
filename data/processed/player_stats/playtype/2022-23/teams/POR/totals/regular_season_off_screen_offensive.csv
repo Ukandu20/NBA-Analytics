@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.762,58,0.069,1.116,0.422,0.045,0.071,0.036,0.027,0.402,0.578,112,125,43,102,59,POR
-22022,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.478,62,0.067,0.952,0.385,0.012,0.06,0.012,0.0,0.369,0.5,84,80,30,78,48,POR
-22022,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.824,63,0.049,1.172,0.478,0.276,0.017,0.276,0.086,0.552,0.511,58,68,22,46,24,POR
-22022,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.269,80,0.064,0.86,0.37,0.04,0.04,0.04,0.0,0.38,0.446,50,43,17,46,29,POR
-22022,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.862,54,0.078,1.214,0.5,0.036,0.036,0.036,0.0,0.5,0.615,28,34,13,26,13,POR
-22022,1628995,Kevin Knox II,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.2,21,0.082,0.8,0.333,0.067,0.133,0.067,0.0,0.333,0.417,15,12,4,12,8,POR

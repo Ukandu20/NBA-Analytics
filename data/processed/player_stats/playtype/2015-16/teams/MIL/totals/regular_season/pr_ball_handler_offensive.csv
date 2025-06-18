@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.517,79,0.18,0.782,0.422,0.061,0.184,0.054,0.008,0.375,0.442,261,204,84,199,115
+22015,203487,Michael Carter-Williams,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.345,54,0.325,0.709,0.439,0.055,0.224,0.059,0.02,0.358,0.444,254,180,82,187,105
+22015,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.603,80,0.1,0.814,0.474,0.129,0.214,0.107,0.036,0.407,0.479,140,114,46,97,51
+22015,201573,Jerryd Bayless,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.541,52,0.211,0.791,0.424,0.096,0.183,0.078,0.017,0.391,0.441,115,91,36,85,49
+22015,203898,Tyler Ennis,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.528,46,0.401,0.788,0.427,0.071,0.182,0.051,0.01,0.384,0.447,99,78,32,75,43
+22015,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.324,76,0.06,0.701,0.377,0.075,0.134,0.075,0.0,0.373,0.387,67,47,20,53,33
+22015,201564,O.J. Mayo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.231,41,0.151,0.645,0.4,0.048,0.242,0.048,0.016,0.306,0.411,62,40,18,45,27
+22015,202349,Greivis Vasquez,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.117,23,0.319,0.55,0.316,0.067,0.317,0.05,0.017,0.25,0.355,60,33,12,38,26
+22015,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.111,70,0.073,0.545,0.294,0.045,0.182,0.045,0.0,0.273,0.294,22,12,5,17,12

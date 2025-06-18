@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.575,6,0.196,1.133,0.526,0.4,0.1,0.4,0.133,0.6,0.00526,5.0,6.0,1.7,3.2,1.5
+42016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.547,6,0.165,1.125,0.545,0.188,0.125,0.063,0.0,0.563,0.0059099999999999995,3.0,3.0,1.0,1.8,0.8
+42016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.904,6,0.217,1.4,0.5,0.0,0.0,0.0,0.0,0.5,0.006999999999999999,2.0,2.0,0.8,1.7,0.8
+42016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,6,0.119,1.25,0.667,0.0,0.25,0.0,0.0,0.5,0.008329999999999999,1.0,2.0,0.7,1.0,0.3
+42016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,6,0.052,1.5,1.0,0.25,0.0,0.5,0.0,0.75,0.01,1.0,1.0,0.3,0.3,0.0
+42016,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,6,0.35,0.714,0.333,0.143,0.143,0.143,0.143,0.286,0.00333,1.0,1.0,0.3,1.0,0.7
+42016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,Transition,Offensive,0.0,6,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3

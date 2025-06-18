@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.7,82,0.104,1.068,0.45,0.107,0.119,0.085,0.017,0.446,0.554,177,189,63,140,77,GSW
-22022,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.871,56,0.103,1.2,0.455,0.097,0.103,0.09,0.034,0.441,0.612,145,174,55,121,66,GSW
-22022,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.423,69,0.101,0.889,0.377,0.021,0.09,0.021,0.014,0.347,0.481,144,128,49,130,81,GSW
-22022,1628978,Donte DiVincenzo,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.301,72,0.092,0.825,0.333,0.063,0.127,0.063,0.0,0.333,0.451,63,52,17,51,34,GSW
-22022,1629660,Ty Jerome,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.8,45,0.107,1.129,0.481,0.097,0.065,0.097,0.032,0.484,0.556,31,35,13,27,14,GSW
-22022,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.643,37,0.056,1.029,0.419,0.029,0.059,0.029,0.0,0.412,0.532,34,35,13,31,18,GSW
-22022,1630541,Moses Moody,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.677,63,0.068,1.053,0.471,0.0,0.105,0.0,0.0,0.421,0.588,19,20,8,17,9,GSW
-22022,1630228,Jonathan Kuminga,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.018,67,0.027,0.5,0.2,0.056,0.111,0.056,0.0,0.167,0.3,18,9,3,15,12,GSW

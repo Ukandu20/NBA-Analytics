@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.329,67,0.225,1.0,0.442,0.108,0.132,0.104,0.009,0.439,0.537,3.2,3.2,1.1,2.4,1.4
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.849,53,0.19,1.3,0.585,0.1,0.073,0.1,0.04,0.567,0.677,2.8,3.7,1.4,2.5,1.0
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.242,81,0.151,0.945,0.426,0.126,0.137,0.121,0.038,0.412,0.493,2.2,2.1,0.7,1.7,1.0
+22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.556,72,0.171,1.12,0.505,0.145,0.068,0.128,0.043,0.521,0.552,1.6,1.8,0.7,1.3,0.7
+22016,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.366,80,0.15,1.024,0.461,0.097,0.185,0.089,0.008,0.411,0.607,1.6,1.6,0.5,1.1,0.6
+22016,1627789,Timothe Luwawu-Cabarrot,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.491,69,0.209,1.088,0.528,0.206,0.127,0.186,0.039,0.529,0.549,1.5,1.6,0.6,1.0,0.5
+22016,200771,Sergio Rodriguez,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.252,68,0.123,0.951,0.5,0.0,0.244,0.0,0.0,0.378,0.629,1.2,1.1,0.5,0.9,0.5
+22016,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.014,81,0.172,0.623,0.417,0.09,0.32,0.066,0.0,0.336,0.417,1.5,0.9,0.4,0.9,0.5
+22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.73,57,0.115,1.224,0.609,0.172,0.069,0.172,0.034,0.569,0.674,1.0,1.2,0.5,0.8,0.3
+22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.068,31,0.102,0.761,0.353,0.09,0.149,0.09,0.0,0.358,0.412,2.2,1.6,0.6,1.6,1.1
+22016,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.906,24,0.152,1.355,0.63,0.129,0.065,0.129,0.065,0.613,0.704,1.3,1.8,0.7,1.1,0.4
+22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.939,29,0.125,1.414,0.824,0.276,0.172,0.241,0.034,0.69,0.824,1.0,1.4,0.5,0.6,0.1
+22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.117,50,0.055,0.829,0.5,0.143,0.143,0.143,0.029,0.429,0.5,0.7,0.6,0.3,0.5,0.3
+22016,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.023,31,0.157,0.679,0.308,0.036,0.036,0.036,0.0,0.286,0.365,0.9,0.6,0.3,0.8,0.6
+22016,1627816,Alex Poythress,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.021,6,0.197,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,2.0,1.3,0.7,2.0,1.3

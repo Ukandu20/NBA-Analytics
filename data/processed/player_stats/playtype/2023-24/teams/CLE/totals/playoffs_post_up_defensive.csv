@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Postup,Defensive,0.385,12,0.079,1.125,0.533,0.063,0.0,0.063,0.0,0.563,0.533,16,18,8,15,7,CLE

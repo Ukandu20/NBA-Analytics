@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.909,82,0.468,1.007,0.446,0.105,0.112,0.094,0.02,0.441,0.515,971,978,347,778,431,CHA
-22018,2225,Tony Parker,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.696,56,0.566,0.899,0.477,0.107,0.131,0.077,0.024,0.455,0.477,336,302,126,264,138,CHA
-22018,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.736,79,0.244,0.923,0.41,0.134,0.088,0.13,0.028,0.437,0.434,284,262,94,229,135,CHA
-22018,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.641,75,0.222,0.88,0.441,0.063,0.209,0.057,0.019,0.373,0.517,158,139,52,118,66,CHA
-22018,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.213,73,0.184,0.687,0.34,0.061,0.214,0.046,0.015,0.298,0.387,131,90,33,97,64,CHA
-22018,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.772,46,0.297,0.937,0.431,0.101,0.114,0.089,0.038,0.418,0.5,79,74,28,65,37,CHA
-22018,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.195,43,0.166,0.673,0.293,0.082,0.102,0.082,0.02,0.306,0.341,49,33,12,41,29,CHA
-22018,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.954,80,0.04,1.083,0.5,0.083,0.042,0.083,0.042,0.5,0.545,24,26,11,22,11,CHA

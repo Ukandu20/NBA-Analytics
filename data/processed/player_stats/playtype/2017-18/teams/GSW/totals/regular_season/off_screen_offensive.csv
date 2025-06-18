@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.735,73,0.334,1.098,0.471,0.022,0.049,0.022,0.004,0.458,0.569,450,494,198,420,222
+22017,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.908,51,0.178,1.266,0.462,0.128,0.054,0.118,0.025,0.488,0.608,203,257,79,171,92
+22017,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.867,68,0.089,1.206,0.504,0.092,0.071,0.071,0.035,0.496,0.606,141,170,62,123,61
+22017,201156,Nick Young,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.675,80,0.218,1.067,0.404,0.083,0.05,0.067,0.0,0.433,0.51,120,128,42,104,62
+22017,2561,David West,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.703,73,0.073,1.083,0.576,0.056,0.028,0.056,0.0,0.556,0.576,36,39,19,33,14
+22017,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.835,33,0.078,1.174,0.545,0.0,0.043,0.0,0.0,0.522,0.614,23,27,12,22,10
+22017,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.948,64,0.042,1.333,0.5,0.111,0.056,0.056,0.056,0.5,0.656,18,24,8,16,8
+22017,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.464,56,0.068,0.947,0.389,0.0,0.053,0.0,0.0,0.368,0.5,19,18,7,18,11
+22017,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.446,70,0.019,0.941,0.353,0.059,0.0,0.059,0.059,0.353,0.441,17,16,6,17,11
+22017,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.121,72,0.033,0.714,0.333,0.071,0.071,0.071,0.0,0.357,0.333,14,10,4,12,8

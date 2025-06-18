@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.038,22,0.05,0.788,0.423,0.121,0.091,0.121,0.0,0.424,0.423,33,26,11,26,15,DAL
-42023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.577,22,0.041,1.083,0.5,0.333,0.083,0.333,0.083,0.583,0.5,12,13,4,8,4,DAL

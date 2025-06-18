@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.555,80,0.093,0.564,0.42,0.268,0.617,0.034,0.013,0.302,0.004739999999999999,149,84,8,19,11
+22018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.953,70,0.046,0.9,0.5,0.525,0.325,0.075,0.0,0.525,0.005829999999999999,40,36,3,6,3
+22018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.891,57,0.054,0.805,0.42,0.366,0.341,0.024,0.0,0.463,0.00417,41,33,5,12,7
+22018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.297,75,0.052,0.411,0.19,0.178,0.452,0.0,0.0,0.247,0.0020399999999999997,73,30,5,27,22
+22018,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.156,82,0.125,0.317,0.27,0.207,0.61,0.012,0.0,0.195,0.00267,82,26,4,15,11
+22018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.753,75,0.058,0.68,0.5,0.16,0.52,0.0,0.0,0.32,0.00625,25,17,4,8,4
+22018,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.78,70,0.052,0.7,0.6,0.25,0.55,0.1,0.05,0.35,0.006999999999999999,20,14,3,5,2
+22018,203115,Will Barton,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.721,43,0.036,0.65,0.2,0.25,0.25,0.0,0.0,0.35,0.002,20,13,2,10,8
+22018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.345,82,0.032,0.44,0.22,0.16,0.48,0.0,0.0,0.24,0.0027800000000000004,25,11,2,9,7
+22018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.19,81,0.028,0.348,0.18,0.087,0.435,0.0,0.0,0.174,0.00182,23,8,2,11,9
+22018,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.117,64,0.039,0.292,0.25,0.25,0.583,0.042,0.0,0.208,0.0025,24,7,1,4,3

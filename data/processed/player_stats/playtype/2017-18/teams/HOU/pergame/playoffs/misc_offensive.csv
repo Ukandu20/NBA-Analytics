@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,101108,Chris Paul,1610612745,HOU,Houston Rockets,Misc,Offensive,0.543,15,0.052,0.563,0.0,0.313,0.313,0.0,0.0,0.313,0.0,1.1,0.6,0.0,0.4,0.4
+42017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Misc,Offensive,0.471,17,0.085,0.545,0.0,0.273,0.636,0.0,0.0,0.273,0.0,0.6,0.4,0.0,0.1,0.1
+42017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,17,0.043,0.714,0.0,0.429,0.286,0.0,0.0,0.429,0.0,0.4,0.3,0.0,0.1,0.1
+42017,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.286,17,0.065,0.417,0.5,0.333,0.5,0.0,0.0,0.333,0.005,0.7,0.3,0.1,0.1,0.1
+42017,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.029,17,0.03,0.2,0.0,0.133,0.467,0.067,0.0,0.133,0.0,0.9,0.2,0.0,0.4,0.4
+42017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,9,0.089,0.5,0.0,0.25,0.5,0.0,0.0,0.25,0.0,0.4,0.2,0.0,0.1,0.1
+42017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,17,0.026,0.286,0.0,0.143,0.714,0.0,0.0,0.143,0.0,0.4,0.1,0.0,0.1,0.1
+42017,2207,Joe Johnson,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,8,0.05,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+42017,204028,Tarik Black,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3
+42017,101123,Gerald Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,17,0.047,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1
+42017,2403,Nene,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,11,0.219,0.0,0.0,0.0,0.857,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.1,0.1

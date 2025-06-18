@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,2730,Dwight Howard,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.811,81,0.144,1.268,0.664,0.293,0.03,0.268,0.061,0.677,0.664,2.4,3.1,1.2,1.8,0.6
+22017,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.868,74,0.048,1.303,0.643,0.121,0.03,0.121,0.0,0.667,0.643,0.4,0.6,0.2,0.4,0.1
+22017,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.172,78,0.065,0.886,0.447,0.068,0.091,0.068,0.023,0.432,0.447,0.6,0.5,0.2,0.5,0.3
+22017,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.69,64,0.036,1.2,0.577,0.133,0.0,0.067,0.0,0.633,0.577,0.5,0.6,0.2,0.4,0.2
+22017,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.306,33,0.151,1.0,0.536,0.088,0.088,0.088,0.0,0.529,0.536,1.0,1.0,0.5,0.8,0.4
+22017,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,1.0,79,0.02,1.824,0.923,0.294,0.0,0.294,0.059,0.882,0.923,0.2,0.4,0.2,0.2,0.0
+22017,1626195,Willy Hernangomez,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.306,22,0.223,1.0,0.4,0.296,0.0,0.259,0.037,0.519,0.4,1.2,1.2,0.4,0.9,0.5
+22017,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.209,80,0.026,0.923,0.462,0.0,0.0,0.0,0.0,0.462,0.462,0.3,0.3,0.2,0.3,0.2
+22017,1626203,Treveon Graham,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.139,63,0.095,0.846,0.409,0.115,0.038,0.077,0.0,0.462,0.409,0.4,0.3,0.1,0.3,0.2
+22017,203948,Johnny O'Bryant III,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.823,36,0.056,1.273,0.6,0.091,0.0,0.091,0.0,0.636,0.6,0.3,0.4,0.2,0.3,0.1
+22017,203487,Michael Carter-Williams,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.474,52,0.04,1.077,0.545,0.077,0.077,0.077,0.0,0.538,0.545,0.3,0.3,0.1,0.2,0.1
+22017,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,OffRebound,Offensive,0.027,80,0.009,0.625,0.357,0.0,0.125,0.0,0.0,0.313,0.357,0.2,0.1,0.1,0.2,0.1

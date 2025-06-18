@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Transition,Offensive,0.45,59,0.23,1.064,0.477,0.098,0.085,0.085,0.026,0.468,0.558,235,250,94,197,103
+22017,201584,Courtney Lee,1610612752,NYK,New York Knicks,Transition,Offensive,0.743,76,0.184,1.227,0.535,0.049,0.08,0.049,0.012,0.509,0.646,163,200,77,144,67
+22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,Transition,Offensive,0.534,74,0.099,1.11,0.608,0.12,0.13,0.1,0.04,0.55,0.614,100,111,48,79,31
+22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Transition,Offensive,0.561,49,0.075,1.133,0.529,0.096,0.084,0.096,0.024,0.518,0.571,83,94,37,70,33
+22017,202683,Enes Freedom,1610612752,NYK,New York Knicks,Transition,Offensive,0.953,71,0.068,1.419,0.72,0.161,0.081,0.161,0.048,0.694,0.72,62,88,36,50,14
+22017,203504,Trey Burke,1610612752,NYK,New York Knicks,Transition,Offensive,0.658,36,0.144,1.185,0.579,0.077,0.092,0.077,0.046,0.538,0.623,65,77,33,57,24
+22017,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Transition,Offensive,0.038,78,0.136,0.697,0.391,0.09,0.236,0.056,0.045,0.326,0.422,89,62,25,64,39
+22017,101127,Jarrett Jack,1610612752,NYK,New York Knicks,Transition,Offensive,0.041,62,0.139,0.707,0.386,0.085,0.244,0.085,0.024,0.329,0.412,82,58,22,57,35
+22017,203926,Doug McDermott,1610612752,NYK,New York Knicks,Transition,Offensive,0.493,55,0.123,1.085,0.462,0.106,0.085,0.106,0.021,0.468,0.564,47,51,18,39,21
+22017,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Transition,Offensive,0.921,77,0.065,1.371,0.731,0.171,0.143,0.171,0.057,0.657,0.731,35,48,19,26,7
+22017,202498,Lance Thomas,1610612752,NYK,New York Knicks,Transition,Offensive,0.64,73,0.123,1.171,0.486,0.024,0.073,0.024,0.0,0.463,0.622,41,48,18,37,19
+22017,1627786,Troy Williams,1610612752,NYK,New York Knicks,Transition,Offensive,0.736,17,0.279,1.222,0.667,0.278,0.139,0.222,0.083,0.611,0.688,36,44,16,24,8
+22017,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Transition,Offensive,0.363,44,0.2,1.027,0.469,0.135,0.081,0.135,0.081,0.459,0.484,37,38,15,32,17
+22017,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Transition,Offensive,0.104,22,0.159,0.833,0.407,0.19,0.214,0.19,0.048,0.381,0.426,42,35,11,27,16
+22017,1628436,Luke Kornet,1610612752,NYK,New York Knicks,Transition,Offensive,0.991,20,0.085,1.583,0.583,0.0,0.0,0.0,0.0,0.583,0.792,12,19,7,12,5
+22017,1628439,Isaiah Hicks,1610612752,NYK,New York Knicks,Transition,Offensive,0.777,18,0.124,1.25,0.778,0.083,0.167,0.083,0.0,0.667,0.778,12,15,7,9,2
+22017,1627758,Ron Baker,1610612752,NYK,New York Knicks,Transition,Offensive,0.009,29,0.144,0.538,0.167,0.231,0.308,0.077,0.0,0.308,0.167,13,7,1,6,5

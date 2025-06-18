@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1629052,Oshae Brissett,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,IND
-42020,1627763,Malcolm Brogdon,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,IND
-42020,1629103,Kelan Martin,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.231,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,1.0,IND
-42020,1630199,Cassius Stanley,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,IND
-42020,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.071,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,IND
-42020,203200,Justin Holiday,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.083,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,1.0,1.0,0.0,0.0,0.0,IND
-42020,1628410,Edmond Sumner,1610612754,IND,Indiana Pacers,OffScreen,Defensive,0.0,2,0.111,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.0,2.0,0.0,0.0,0.0,IND

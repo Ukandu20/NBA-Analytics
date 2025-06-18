@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.374,78,0.136,0.839,0.399,0.09,0.08,0.092,0.008,0.42,0.406,249,209,83,208,125
+22015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.687,73,0.237,1.024,0.436,0.03,0.04,0.03,0.012,0.43,0.519,165,169,68,156,88
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.455,77,0.061,0.89,0.314,0.1,0.04,0.09,0.01,0.35,0.436,100,89,27,86,59
+22015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.643,80,0.02,1.0,0.5,0.07,0.2,0.067,0.067,0.4,0.583,15,15,6,12,6
+22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.041,26,0.08,0.462,0.19,0.04,0.12,0.077,0.0,0.19,0.262,26,12,4,21,17
+22015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.073,49,0.056,0.563,0.231,0.06,0.12,0.063,0.0,0.25,0.269,16,9,3,13,10
+22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.111,57,0.04,0.615,0.273,0.0,0.15,0.0,0.0,0.23,0.364,13,8,3,11,8

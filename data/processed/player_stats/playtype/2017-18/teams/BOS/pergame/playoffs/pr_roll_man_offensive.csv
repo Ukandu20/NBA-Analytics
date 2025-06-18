@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,201143,Al Horford,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.935,19,0.196,1.585,0.744,0.151,0.094,0.094,0.057,0.698,0.00826,2.8,4.4,1.7,2.3,0.6
+42017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.548,19,0.132,1.214,0.615,0.0,0.071,0.0,0.0,0.571,0.006540000000000001,0.7,0.9,0.4,0.7,0.3
+42017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.161,19,0.074,0.85,0.375,0.15,0.05,0.15,0.0,0.45,0.00406,1.1,0.9,0.3,0.8,0.5
+42017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.129,19,0.029,0.8,0.375,0.1,0.1,0.0,0.0,0.4,0.00375,0.5,0.4,0.2,0.4,0.3
+42017,202328,Greg Monroe,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,11,0.063,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.006670000000000001,0.4,0.4,0.2,0.3,0.1
+42017,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,18,0.006,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,0.1,0.2,0.1,0.1,0.1
+42017,1627824,Guerschon Yabusele,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,12,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,17,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.729,10,0.148,1.222,0.6,0.194,0.083,0.194,0.111,0.583,0.006,36,44,18,30,12
+42017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.694,10,0.204,1.212,0.54,0.091,0.152,0.091,0.03,0.485,0.006730000000000001,33,40,14,26,12
+42017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.854,10,0.226,1.286,0.5,0.214,0.071,0.214,0.0,0.5,0.006999999999999999,14,18,5,10,5
+42017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.565,10,0.188,1.125,0.54,0.125,0.063,0.125,0.0,0.563,0.00538,16,18,7,13,6
+42017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.706,10,0.165,1.214,0.5,0.071,0.071,0.071,0.0,0.5,0.00625,14,17,6,12,6
+42017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.667,6,0.217,1.2,0.38,0.2,0.0,0.2,0.0,0.5,0.005,10,12,3,8,5
+42017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.282,10,0.133,0.923,0.44,0.077,0.154,0.154,0.0,0.385,0.005560000000000001,13,12,4,9,5
+42017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,10,0.164,1.111,0.6,0.444,0.111,0.444,0.111,0.667,0.006,9,10,3,5,2
+42017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,10,0.021,1.333,0.67,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,3,4,2,3,1
+42017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,9,0.043,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1
+42017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.0,6,0.176,0.667,0.0,0.333,0.0,0.333,0.0,0.333,0.0,3,2,0,2,2

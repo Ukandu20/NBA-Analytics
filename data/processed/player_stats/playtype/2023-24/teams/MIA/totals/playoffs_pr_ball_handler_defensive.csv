@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629639,Tyler Herro,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.932,5,0.139,0.636,0.286,0.182,0.182,0.182,0.0,0.273,0.357,11,7,2,7,5,MIA
-42023,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.017,5,0.306,1.333,0.455,0.267,0.067,0.267,0.067,0.533,0.591,15,20,5,11,6,MIA
-42023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRBallHandler,Defensive,0.218,5,0.446,1.04,0.474,0.08,0.16,0.08,0.0,0.44,0.579,25,26,9,19,10,MIA

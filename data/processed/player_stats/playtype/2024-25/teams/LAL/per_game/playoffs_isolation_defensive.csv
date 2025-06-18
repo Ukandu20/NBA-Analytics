@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.981,5,0.156,0.333,0.167,0.0,0.0,0.0,0.0,0.167,0.167,2.4,0.8,0.4,2.4,2.0,LAL
-42024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.588,5,0.369,0.833,0.333,0.083,0.042,0.083,0.0,0.375,0.381,4.8,4.0,1.4,4.2,2.8,LAL
-42024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Isolation,Defensive,0.654,5,0.357,0.8,0.292,0.167,0.033,0.133,0.0,0.4,0.333,6.0,4.8,1.4,4.8,3.4,LAL

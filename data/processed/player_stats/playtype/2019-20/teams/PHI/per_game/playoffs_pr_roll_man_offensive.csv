@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.407,4,0.25,1.069,0.45,0.276,0.034,0.207,0.0,0.55,0.475,7.3,7.8,2.3,5.0,2.8,PHI
-42019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.0,4,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,PHI
-42019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.0,4,0.065,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,PHI

@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.872,80,0.273,1.168,0.478,0.096,0.076,0.086,0.021,0.481,0.597,291,340,118,247,129
+22017,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.837,70,0.279,1.143,0.444,0.059,0.056,0.056,0.01,0.448,0.589,286,327,114,257,143
+22017,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.801,80,0.205,1.119,0.415,0.046,0.052,0.046,0.005,0.418,0.571,194,217,73,176,103
+22017,201143,Al Horford,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.944,72,0.183,1.25,0.472,0.017,0.035,0.012,0.0,0.465,0.644,172,215,77,163,86
+22017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.755,54,0.227,1.089,0.409,0.06,0.036,0.06,0.012,0.417,0.549,168,183,63,154,91
+22017,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.938,60,0.085,1.232,0.461,0.071,0.018,0.054,0.0,0.491,0.598,112,138,47,102,55
+22017,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.377,54,0.21,0.912,0.338,0.027,0.054,0.027,0.0,0.338,0.474,148,135,46,136,90
+22017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.221,73,0.478,0.809,0.307,0.009,0.073,0.009,0.0,0.282,0.441,110,89,31,101,70
+22017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.201,81,0.128,0.792,0.38,0.0,0.014,0.0,0.0,0.375,0.401,72,57,27,71,44
+22017,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.602,63,0.161,1.019,0.36,0.0,0.038,0.0,0.0,0.346,0.53,52,53,18,50,32
+22017,1627846,Abdel Nader,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.101,48,0.397,0.658,0.281,0.025,0.165,0.025,0.0,0.241,0.398,79,52,18,64,46
+22017,203499,Shane Larkin,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.283,54,0.178,0.854,0.326,0.021,0.083,0.021,0.0,0.313,0.453,48,41,14,43,29
+22017,202328,Greg Monroe,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.921,26,0.05,1.214,0.8,0.214,0.143,0.214,0.071,0.571,0.8,14,17,8,10,2

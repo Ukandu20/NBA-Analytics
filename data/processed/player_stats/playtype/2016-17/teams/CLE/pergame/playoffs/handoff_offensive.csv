@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,1.0,18,0.038,2.0,0.7,0.294,0.176,0.294,0.06,0.647,0.0085,0.9,1.4,0.4,0.6,0.2
+42016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,18,0.01,2.0,0.8,0.2,0.0,0.2,0.2,0.8,0.009000000000000001,0.3,0.5,0.2,0.3,0.1
+42016,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,18,0.043,1.0,0.4,0.2,0.0,0.2,0.2,0.4,0.006,0.3,0.3,0.1,0.3,0.2
+42016,101114,Deron Williams,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,18,0.012,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.1,0.2,0.1,0.1,0.0
+42016,202682,Derrick Williams,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,8,0.053,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.3,0.1,0.1,0.0
+42016,2563,Dahntay Jones,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,10,0.077,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.2,0.0,0.0,0.0
+42016,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,12,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42016,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,14,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42016,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,18,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1

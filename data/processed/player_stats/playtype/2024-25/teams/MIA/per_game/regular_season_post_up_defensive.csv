@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,Postup,Defensive,0.5,74,0.037,1.0,0.533,0.056,0.111,0.056,0.0,0.5,0.533,0.2,0.2,0.1,0.2,0.1,MIA
-22024,203937,Kyle Anderson,1610612748,MIA,Miami Heat,Postup,Defensive,0.051,24,0.077,1.385,0.889,0.077,0.231,0.077,0.0,0.692,0.889,0.5,0.8,0.3,0.4,0.0,MIA
-22024,1631170,Jaime Jaquez Jr.,1610612748,MIA,Miami Heat,Postup,Defensive,0.111,64,0.032,1.294,0.615,0.235,0.0,0.176,0.0,0.706,0.615,0.3,0.3,0.1,0.2,0.1,MIA
-22024,1642276,Kel'el Ware,1610612748,MIA,Miami Heat,Postup,Defensive,0.064,59,0.04,1.36,0.667,0.24,0.12,0.24,0.08,0.64,0.667,0.4,0.6,0.2,0.3,0.1,MIA

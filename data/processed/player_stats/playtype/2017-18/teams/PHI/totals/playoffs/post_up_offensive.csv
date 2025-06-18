@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.375,8,0.41,0.813,0.389,0.213,0.15,0.163,0.038,0.438,0.389,80,65,21,54,33
+42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.875,10,0.132,1.13,0.467,0.261,0.087,0.261,0.0,0.565,0.467,23,26,7,15,8
+42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.219,10,0.117,0.783,0.471,0.13,0.13,0.087,0.0,0.435,0.471,23,18,8,17,9
+42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,10,0.049,1.8,0.75,0.4,0.0,0.4,0.2,0.8,0.75,5,9,3,4,1
+42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,3,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,8,0.038,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.669,67,0.225,0.976,0.465,0.078,0.114,0.069,0.008,0.449,0.528,245,239,93,200,107
+22017,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.626,81,0.118,0.955,0.452,0.09,0.122,0.083,0.019,0.429,0.496,156,149,57,126,69
+22017,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.918,74,0.072,1.182,0.49,0.073,0.055,0.073,0.018,0.491,0.612,55,65,24,49,25
+22017,203115,Will Barton,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.416,81,0.056,0.845,0.39,0.056,0.113,0.028,0.0,0.38,0.441,71,60,23,59,36
+22017,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.754,73,0.037,1.04,0.435,0.12,0.0,0.12,0.04,0.44,0.522,25,26,10,23,13
+22017,2734,Devin Harris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.957,27,0.073,1.313,0.417,0.188,0.063,0.188,0.0,0.5,0.5,16,21,5,12,7
+22017,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.934,38,0.024,1.214,0.545,0.143,0.071,0.143,0.0,0.5,0.636,14,17,6,11,5
+22017,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.389,42,0.042,0.833,0.333,0.111,0.056,0.111,0.0,0.389,0.367,18,15,5,15,10
+22017,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.055,39,0.069,0.5,0.3,0.0,0.167,0.0,0.0,0.25,0.3,12,6,3,10,7

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.575,73,0.129,0.937,0.404,0.162,0.111,0.13,0.036,0.431,0.44,3.5,3.2,1.1,2.6,1.6,ATL
-22022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.5,74,0.164,0.891,0.418,0.086,0.098,0.086,0.016,0.418,0.446,3.5,3.1,1.2,2.9,1.7,ATL
-22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.736,67,0.059,1.034,0.469,0.136,0.085,0.136,0.051,0.475,0.52,0.9,0.9,0.3,0.7,0.4,ATL
-22022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.98,54,0.055,1.333,0.515,0.128,0.026,0.128,0.0,0.564,0.652,0.7,1.0,0.3,0.6,0.3,ATL
-22022,1628988,Aaron Holiday,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.953,63,0.067,1.278,0.625,0.056,0.111,0.056,0.056,0.556,0.688,0.3,0.4,0.2,0.3,0.1,ATL
-22022,1631100,AJ Griffin,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.783,72,0.029,1.059,0.455,0.176,0.176,0.176,0.0,0.471,0.545,0.2,0.3,0.1,0.2,0.1,ATL
-22022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.462,71,0.02,0.882,0.467,0.059,0.118,0.059,0.059,0.412,0.467,0.2,0.2,0.1,0.2,0.1,ATL
-22022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Isolation,Offensive,0.904,70,0.03,1.167,0.625,0.25,0.083,0.25,0.0,0.667,0.625,0.2,0.2,0.1,0.1,0.0,ATL

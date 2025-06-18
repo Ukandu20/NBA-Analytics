@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.996,70,0.046,0.25,0.138,0.028,0.167,0.028,0.0,0.139,0.138,36,9,4,29,25,PHI
-22023,1630531,Jaden Springer,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.545,23,0.066,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,PHI
-22023,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.375,32,0.069,1.143,0.583,0.0,0.143,0.0,0.0,0.5,0.667,14,16,7,12,5,PHI
-22023,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.545,37,0.051,1.0,0.438,0.0,0.158,0.0,0.0,0.368,0.594,19,19,7,16,9,PHI
-22023,201587,Nicolas Batum,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.801,56,0.061,0.786,0.32,0.0,0.107,0.0,0.0,0.286,0.44,28,22,8,25,17,PHI
-22023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,OffScreen,Defensive,0.545,68,0.064,1.0,0.361,0.182,0.023,0.159,0.023,0.455,0.431,44,44,13,36,23,PHI

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.801,77,0.187,1.0,0.494,0.193,0.098,0.17,0.051,0.513,0.494,4.1,4.1,1.5,3.1,1.6,SAS
-22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.751,69,0.157,0.979,0.488,0.083,0.076,0.08,0.021,0.483,0.496,2.1,2.1,0.9,1.8,0.9,SAS
-22018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.54,81,0.032,0.865,0.415,0.173,0.096,0.15,0.058,0.442,0.415,0.6,0.6,0.2,0.5,0.3,SAS
-22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.668,67,0.045,0.935,0.423,0.161,0.065,0.13,0.065,0.452,0.442,0.5,0.4,0.2,0.4,0.2,SAS
-22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.472,82,0.026,0.826,0.333,0.174,0.087,0.13,0.043,0.391,0.361,0.3,0.2,0.1,0.2,0.1,SAS
-22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.63,82,0.016,0.923,0.4,0.154,0.077,0.08,0.0,0.462,0.5,0.2,0.1,0.0,0.1,0.1,SAS

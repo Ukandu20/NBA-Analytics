@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.378,31,0.397,1.034,0.52,0.146,0.022,0.135,0.011,0.551,0.52,89,92,39,75,36,NYK
-22020,203457,Nerlens Noel,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.394,64,0.224,1.042,0.582,0.111,0.139,0.083,0.014,0.528,0.582,72,75,32,55,23,NYK
-22020,203944,Julius Randle,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.766,71,0.031,1.264,0.556,0.264,0.075,0.245,0.019,0.623,0.583,53,67,20,36,16,NYK
-22020,201959,Taj Gibson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.488,45,0.261,1.093,0.625,0.148,0.111,0.13,0.0,0.556,0.625,54,59,25,40,15,NYK
-22020,1629628,RJ Barrett,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.43,72,0.033,1.068,0.588,0.114,0.159,0.114,0.045,0.523,0.588,44,47,20,34,14,NYK
-22020,203901,Elfrid Payton,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.311,63,0.054,1.0,0.545,0.095,0.119,0.095,0.0,0.5,0.545,42,42,18,33,15,NYK
-22020,1630167,Obi Toppin,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.311,62,0.074,1.0,0.529,0.0,0.056,0.0,0.0,0.5,0.529,18,18,9,17,8,NYK

@@ -1,0 +1,2 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Misc,Offensive,0.696,7,0.088,0.7,1.0,0.3,0.6,0.0,0.0,0.4,0.015,10,7,1,1,0

@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.469,82,0.437,0.97,0.367,0.007,0.082,0.007,0.0,0.342,0.527,3.3,3.2,1.1,3.0,1.9
+22017,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.961,79,0.249,1.276,0.448,0.018,0.037,0.012,0.0,0.442,0.656,2.1,2.6,0.9,1.9,1.1
+22017,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.203,72,0.308,0.792,0.294,0.069,0.05,0.069,0.01,0.317,0.406,2.8,2.2,0.7,2.5,1.8
+22017,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.165,77,0.174,0.74,0.315,0.029,0.115,0.029,0.0,0.288,0.416,2.7,2.0,0.7,2.3,1.6
+22017,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.822,54,0.077,1.132,0.433,0.057,0.038,0.057,0.009,0.443,0.562,2.0,2.2,0.8,1.8,1.0
+22017,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.139,65,0.116,0.703,0.303,0.034,0.069,0.034,0.014,0.29,0.367,2.2,1.6,0.6,2.0,1.4
+22017,201162,Jared Dudley,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.914,48,0.44,1.205,0.446,0.068,0.055,0.041,0.014,0.438,0.623,1.5,1.8,0.6,1.4,0.8
+22017,1627755,Tyler Ulis,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.405,71,0.118,0.929,0.375,0.012,0.047,0.012,0.0,0.365,0.475,1.2,1.1,0.4,1.1,0.7
+22017,1627863,Danuel House Jr.,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.176,23,0.298,0.756,0.244,0.067,0.022,0.067,0.0,0.289,0.341,2.0,1.5,0.4,1.8,1.3
+22017,1628409,Alec Peters,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.628,20,0.39,1.031,0.367,0.031,0.031,0.031,0.0,0.344,0.55,1.6,1.6,0.6,1.5,1.0
+22017,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.29,19,0.185,0.857,0.294,0.029,0.0,0.029,0.0,0.314,0.412,1.8,1.6,0.5,1.8,1.3
+22017,1627885,Shaquille Harrison,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.37,23,0.196,0.906,0.37,0.094,0.125,0.094,0.063,0.344,0.481,1.4,1.3,0.4,1.2,0.7
+22017,1628432,Davon Reed,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.463,21,0.312,0.966,0.4,0.034,0.103,0.034,0.0,0.379,0.52,1.4,1.3,0.5,1.2,0.7
+22017,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.229,19,0.114,0.813,0.345,0.094,0.0,0.094,0.0,0.375,0.379,1.7,1.4,0.5,1.5,1.0
+22017,1628455,Mike James,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.142,32,0.068,0.704,0.269,0.0,0.037,0.0,0.0,0.259,0.365,0.8,0.6,0.2,0.8,0.6
+22017,203458,Alex Len,1610612756,PHX,Phoenix Suns,Spotup,Offensive,0.054,69,0.039,0.545,0.278,0.182,0.091,0.182,0.091,0.318,0.278,0.3,0.2,0.1,0.3,0.2

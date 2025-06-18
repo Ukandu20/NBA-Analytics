@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.735,21,0.264,1.007,0.442,0.12,0.075,0.089,0.014,0.466,0.00479,146,147,53,120,67
+42017,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.592,15,0.116,0.976,0.457,0.05,0.143,0.048,0.024,0.405,0.005430000000000001,42,41,16,35,19
+42017,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.674,21,0.073,1.0,0.52,0.04,0.107,0.036,0.036,0.464,0.005600000000000001,28,28,13,25,12
+42017,1626188,Quinn Cook,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,17,0.063,1.6,0.6,0.2,0.0,0.2,0.2,0.6,0.006999999999999999,5,8,3,5,2
+42017,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.082,21,0.116,0.438,0.133,0.12,0.0,0.125,0.063,0.188,0.00133,16,7,2,15,13
+42017,201156,Nick Young,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,20,0.052,1.667,0.5,0.33,0.0,0.333,0.0,0.667,0.0075,3,5,1,2,1
+42017,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.125,21,0.036,0.5,0.2,0.2,0.3,0.1,0.0,0.3,0.003,10,5,1,5,4
+42017,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,7,0.063,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0
+42017,201580,JaVale McGee,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,13,0.029,1.0,1.0,0.0,0.5,0.0,0.0,0.5,0.01,2,2,1,1,0
+42017,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,21,0.011,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42017,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Isolation,Offensive,0.0,15,0.026,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,3,0,0,1,1

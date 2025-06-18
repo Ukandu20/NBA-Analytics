@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.199,82,0.221,1.141,0.563,0.148,0.031,0.148,0.055,0.563,0.563,128,146,63,112,49,PHI
-22023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.643,68,0.088,1.383,0.646,0.213,0.011,0.213,0.064,0.691,0.646,94,130,51,79,28,PHI
-22023,1628964,Mo Bamba,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.315,57,0.205,1.226,0.667,0.208,0.113,0.208,0.057,0.642,0.667,53,65,26,39,13,PHI
-22023,1630231,KJ Martin,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.395,58,0.211,1.283,0.658,0.196,0.022,0.196,0.043,0.696,0.658,46,59,25,38,13,PHI
-22023,201587,Nicolas Batum,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.788,57,0.095,1.464,0.731,0.071,0.0,0.071,0.0,0.75,0.731,28,41,19,26,7,PHI
-22023,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.675,70,0.012,1.4,0.667,0.1,0.0,0.1,0.0,0.7,0.667,20,28,12,18,6,PHI
-22023,202694,Marcus Morris Sr.,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.01,37,0.075,0.833,0.412,0.056,0.0,0.056,0.0,0.444,0.412,18,15,7,17,10,PHI
-22023,1630531,Jaden Springer,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.081,32,0.069,1.0,0.5,0.273,0.182,0.273,0.0,0.545,0.5,11,11,3,6,3,PHI

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.671,35,0.056,0.818,0.3,0.182,0.0,0.091,0.091,0.364,0.3,0.3,0.3,0.1,0.3,0.2,CLE
-22024,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.497,53,0.078,0.909,0.429,0.212,0.182,0.212,0.03,0.455,0.429,0.6,0.6,0.2,0.4,0.2,CLE
-22024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.721,71,0.068,0.795,0.394,0.077,0.103,0.077,0.026,0.385,0.424,0.5,0.4,0.2,0.5,0.3,CLE
-22024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.113,50,0.104,1.146,0.512,0.125,0.083,0.104,0.063,0.5,0.573,1.0,1.1,0.4,0.8,0.4,CLE
-22024,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.579,59,0.156,0.864,0.375,0.121,0.03,0.121,0.0,0.424,0.402,1.1,1.0,0.4,0.9,0.6,CLE
-22024,1629660,Ty Jerome,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.058,69,0.114,1.241,0.643,0.138,0.155,0.138,0.017,0.586,0.679,0.8,1.0,0.4,0.6,0.2,CLE
-22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Isolation,Defensive,0.595,79,0.144,0.854,0.39,0.073,0.088,0.073,0.022,0.38,0.436,1.7,1.5,0.6,1.5,0.9,CLE

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,201935,James Harden,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.854,44,0.318,1.057,0.378,0.202,0.089,0.193,0.048,0.438,0.47,336,355,96,254,158,BKN
-22021,201142,Kevin Durant,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.898,55,0.195,1.097,0.513,0.101,0.104,0.083,0.017,0.5,0.556,288,316,120,234,114,BKN
-22021,202681,Kyrie Irving,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.78,29,0.218,1.006,0.45,0.094,0.056,0.081,0.025,0.463,0.486,160,161,63,140,77,BKN
-22021,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.673,67,0.113,0.956,0.419,0.029,0.059,0.015,0.0,0.412,0.492,68,65,26,62,36,BKN
-22021,201949,James Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.395,62,0.064,0.833,0.476,0.042,0.083,0.042,0.0,0.417,0.476,24,20,10,21,11,BKN
-22021,201988,Patty Mills,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.067,81,0.029,0.538,0.304,0.0,0.115,0.0,0.0,0.269,0.304,26,14,7,23,16,BKN
-22021,1628971,Bruce Brown,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.312,72,0.021,0.769,0.333,0.154,0.154,0.154,0.0,0.385,0.333,13,10,3,9,6,BKN
-22021,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.079,19,0.058,0.571,0.25,0.071,0.071,0.0,0.0,0.286,0.25,14,8,3,12,9,BKN

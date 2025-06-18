@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,1.0,17,0.205,1.267,0.5,0.067,0.067,0.067,0.067,0.467,0.679,15,19,7,14,7,OKC
-42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.2,17,0.043,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,15,10,5,15,10,OKC

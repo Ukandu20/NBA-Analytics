@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,1.0,16,0.051,1.333,0.636,0.083,0.083,0.083,0.083,0.583,0.727,12,16,7,11,4,LAL
-42022,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,16,0.051,0.714,0.25,0.286,0.143,0.143,0.0,0.429,0.25,7,5,1,4,3,LAL
-42022,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,16,0.017,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.667,4,4,2,3,1,LAL
-42022,1629022,Lonnie Walker IV,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,13,0.057,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,LAL
-42022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,16,0.016,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,6,4,2,6,4,LAL
-42022,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,16,0.012,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3,LAL
-42022,1628972,Troy Brown Jr.,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,12,0.036,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
-42022,1627736,Malik Beasley,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.0,11,0.051,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,LAL

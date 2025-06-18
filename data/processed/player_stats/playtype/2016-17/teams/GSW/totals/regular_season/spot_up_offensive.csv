@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.881,78,0.175,1.168,0.432,0.029,0.043,0.032,0.004,0.427,0.598,279,326,112,259,147
+22016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.972,79,0.112,1.325,0.471,0.064,0.025,0.054,0.01,0.488,0.642,203,269,88,187,99
+22016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.947,62,0.142,1.261,0.5,0.059,0.064,0.053,0.005,0.495,0.651,188,237,83,166,83
+22016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.468,76,0.252,0.945,0.341,0.034,0.068,0.034,0.008,0.335,0.495,236,223,73,214,141
+22016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.89,76,0.315,1.183,0.422,0.049,0.018,0.049,0.006,0.427,0.591,164,194,65,154,89
+22016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.794,77,0.226,1.112,0.427,0.034,0.017,0.017,0.0,0.44,0.55,116,129,47,110,63
+22016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.376,71,0.334,0.909,0.364,0.051,0.061,0.051,0.0,0.354,0.477,99,90,32,88,56
+22016,2561,David West,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.663,68,0.174,1.032,0.525,0.0,0.048,0.0,0.0,0.5,0.542,62,64,31,59,28
+22016,2440,Matt Barnes,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.649,20,0.344,1.023,0.378,0.07,0.07,0.07,0.0,0.395,0.514,43,44,14,37,23
+22016,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.174,70,0.071,0.781,0.385,0.094,0.094,0.094,0.0,0.406,0.385,32,25,10,26,16
+22016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.087,76,0.05,0.65,0.333,0.15,0.25,0.15,0.0,0.35,0.333,20,13,4,12,8

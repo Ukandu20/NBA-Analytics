@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.857,5,0.25,0.714,0.417,0.0,0.143,0.0,0.0,0.357,0.417,14,10,5,12,7,LAL
-42023,1629216,Gabe Vincent,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.84,5,0.514,0.722,0.357,0.056,0.167,0.056,0.0,0.333,0.393,18,13,5,14,9,LAL
-42023,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.059,5,0.387,1.25,0.75,0.083,0.25,0.0,0.0,0.583,0.813,12,15,6,8,2,LAL
-42023,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.672,5,0.373,0.821,0.44,0.036,0.071,0.0,0.0,0.429,0.44,28,23,11,25,14,LAL
-42023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,PRBallHandler,Defensive,0.563,5,0.476,0.88,0.439,0.08,0.1,0.04,0.0,0.44,0.451,50,44,18,41,23,LAL

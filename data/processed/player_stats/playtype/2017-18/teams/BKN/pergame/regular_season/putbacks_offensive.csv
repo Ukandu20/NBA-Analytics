@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.372,72,0.133,1.027,0.509,0.151,0.082,0.137,0.014,0.534,0.509,1.0,1.0,0.4,0.8,0.4
+22017,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.503,73,0.051,1.098,0.591,0.039,0.098,0.039,0.0,0.549,0.602,0.7,0.8,0.4,0.6,0.2
+22017,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.233,68,0.058,0.947,0.435,0.14,0.053,0.14,0.0,0.491,0.435,0.8,0.8,0.3,0.7,0.4
+22017,203092,Tyler Zeller,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.446,42,0.153,1.068,0.59,0.023,0.114,0.023,0.023,0.523,0.59,1.0,1.1,0.5,0.9,0.4
+22017,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.932,71,0.028,1.407,0.667,0.259,0.0,0.222,0.037,0.704,0.69,0.4,0.5,0.2,0.3,0.1
+22017,202344,Trevor Booker,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.602,18,0.131,1.154,0.682,0.115,0.077,0.077,0.038,0.577,0.682,1.4,1.7,0.8,1.2,0.4
+22017,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.306,78,0.037,1.0,0.458,0.143,0.036,0.143,0.036,0.5,0.458,0.4,0.4,0.1,0.3,0.2
+22017,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.782,80,0.019,1.25,0.5,0.2,0.0,0.2,0.0,0.6,0.531,0.3,0.3,0.1,0.2,0.1
+22017,202389,Timofey Mozgov,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.615,31,0.129,1.167,0.643,0.167,0.056,0.167,0.0,0.611,0.643,0.6,0.7,0.3,0.5,0.2
+22017,201967,Dante Cunningham,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.721,22,0.086,1.214,0.667,0.071,0.143,0.071,0.071,0.571,0.667,0.6,0.8,0.4,0.5,0.2
+22017,1626143,Jahlil Okafor,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.602,26,0.083,1.154,0.583,0.077,0.077,0.077,0.077,0.538,0.583,0.5,0.6,0.3,0.5,0.2
+22017,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.497,48,0.013,1.091,0.444,0.091,0.091,0.091,0.0,0.455,0.556,0.2,0.3,0.1,0.2,0.1
+22017,203112,Quincy Acy,1610612751,BKN,Brooklyn Nets,OffRebound,Offensive,0.196,70,0.024,0.909,0.5,0.364,0.364,0.364,0.091,0.455,0.5,0.2,0.1,0.0,0.1,0.0

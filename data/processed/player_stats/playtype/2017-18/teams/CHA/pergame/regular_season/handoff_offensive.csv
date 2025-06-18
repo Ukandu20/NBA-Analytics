@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.77,80,0.045,1.052,0.452,0.143,0.091,0.143,0.039,0.468,0.516,1.0,1.0,0.4,0.8,0.4
+22017,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.451,64,0.077,0.859,0.368,0.031,0.063,0.031,0.0,0.359,0.447,1.0,0.9,0.3,0.9,0.6
+22017,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.802,80,0.047,1.064,0.568,0.106,0.128,0.106,0.021,0.511,0.595,0.6,0.6,0.3,0.5,0.2
+22017,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.739,74,0.039,1.037,0.5,0.185,0.037,0.185,0.037,0.556,0.5,0.4,0.4,0.1,0.3,0.1
+22017,203487,Michael Carter-Williams,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.237,52,0.071,0.739,0.333,0.174,0.174,0.13,0.0,0.391,0.333,0.4,0.3,0.1,0.3,0.2
+22017,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.568,53,0.062,0.929,0.357,0.071,0.0,0.071,0.071,0.357,0.429,0.3,0.2,0.1,0.3,0.2
+22017,1626203,Treveon Graham,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.711,63,0.036,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1
+22017,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.518,79,0.013,0.909,0.4,0.091,0.091,0.091,0.091,0.364,0.45,0.1,0.1,0.1,0.1,0.1
+22017,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Handoff,Offensive,0.187,78,0.015,0.7,0.3,0.0,0.0,0.0,0.0,0.3,0.35,0.1,0.1,0.0,0.1,0.1

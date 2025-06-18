@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,OffRebound,Offensive,1.0,5,0.293,1.75,0.875,0.417,0.0,0.333,0.083,0.917,0.875,12,21,7,8,1,WAS
-42020,201566,Russell Westbrook,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.367,5,0.087,0.818,0.4,0.091,0.0,0.091,0.0,0.455,0.4,11,9,4,10,6,WAS
-42020,201577,Robin Lopez,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.0,5,0.107,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,3,4,2,3,1,WAS
-42020,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.0,5,0.053,1.333,1.0,0.333,0.333,0.333,0.0,0.667,1.0,3,4,1,1,0,WAS
-42020,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.0,5,0.037,0.667,0.4,0.0,0.167,0.0,0.0,0.333,0.4,6,4,2,5,3,WAS
-42020,203458,Alex Len,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.0,5,0.111,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,WAS
-42020,1630264,Anthony Gill,1610612764,WAS,Washington Wizards,OffRebound,Offensive,0.0,4,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,WAS

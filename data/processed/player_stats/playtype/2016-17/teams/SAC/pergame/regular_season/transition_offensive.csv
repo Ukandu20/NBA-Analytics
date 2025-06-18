@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201954,Darren Collison,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.512,68,0.171,1.099,0.537,0.105,0.105,0.105,0.02,0.513,0.581,2.2,2.5,1.0,1.8,0.8
+22016,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.35,55,0.084,1.015,0.548,0.198,0.214,0.176,0.053,0.473,0.583,2.4,2.4,0.8,1.5,0.7
+22016,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.711,66,0.196,1.21,0.563,0.105,0.133,0.105,0.0,0.524,0.688,1.6,1.9,0.7,1.2,0.5
+22016,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.779,61,0.179,1.258,0.544,0.14,0.065,0.14,0.054,0.548,0.633,1.5,1.9,0.7,1.3,0.6
+22016,201951,Ty Lawson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.207,69,0.162,0.926,0.5,0.132,0.165,0.116,0.025,0.455,0.523,1.8,1.6,0.6,1.2,0.6
+22016,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.692,25,0.218,1.2,0.557,0.075,0.163,0.063,0.0,0.488,0.705,3.2,3.8,1.4,2.4,1.1
+22016,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.5,30,0.153,1.092,0.524,0.184,0.126,0.172,0.046,0.517,0.563,2.9,3.2,1.1,2.1,1.0
+22016,2440,Matt Barnes,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.108,54,0.151,0.827,0.444,0.067,0.227,0.053,0.013,0.373,0.5,1.4,1.1,0.4,1.0,0.6
+22016,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.449,75,0.091,1.071,0.595,0.143,0.125,0.143,0.018,0.571,0.595,0.7,0.8,0.3,0.6,0.2
+22016,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.878,22,0.289,1.317,0.656,0.146,0.098,0.122,0.024,0.61,0.734,1.9,2.5,1.0,1.5,0.5
+22016,201167,Arron Afflalo,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.354,61,0.102,1.02,0.444,0.098,0.039,0.098,0.02,0.471,0.5,0.8,0.9,0.3,0.7,0.4
+22016,201229,Anthony Tolliver,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.434,65,0.106,1.064,0.452,0.085,0.021,0.085,0.0,0.447,0.571,0.7,0.8,0.3,0.6,0.4
+22016,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.779,71,0.065,1.258,0.667,0.129,0.097,0.129,0.097,0.613,0.667,0.4,0.5,0.3,0.4,0.1
+22016,201936,Tyreke Evans,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.18,14,0.168,0.9,0.478,0.067,0.167,0.067,0.0,0.433,0.522,2.1,1.9,0.8,1.6,0.9
+22016,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.849,33,0.069,1.3,0.813,0.05,0.15,0.05,0.0,0.65,0.813,0.6,0.8,0.4,0.5,0.1
+22016,204038,Langston Galloway,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.892,19,0.142,1.333,0.533,0.111,0.056,0.111,0.0,0.556,0.667,0.9,1.3,0.4,0.8,0.4

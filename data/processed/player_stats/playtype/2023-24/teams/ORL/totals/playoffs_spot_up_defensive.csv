@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.983,7,0.234,0.455,0.1,0.182,0.0,0.182,0.091,0.182,0.1,11,5,1,10,9,ORL
-42023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.888,7,0.13,0.667,0.25,0.0,0.0,0.0,0.0,0.25,0.333,12,8,3,12,9,ORL
-42023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.966,7,0.222,0.542,0.227,0.0,0.083,0.0,0.0,0.208,0.295,24,13,5,22,17,ORL
-42023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.25,7,0.293,1.167,0.455,0.0,0.083,0.0,0.0,0.417,0.636,12,14,5,11,6,ORL
-42023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Spotup,Defensive,0.974,7,0.289,0.536,0.227,0.071,0.143,0.071,0.0,0.25,0.25,28,15,5,22,17,ORL

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.792,6,0.152,1.063,0.538,0.06,0.125,0.063,0.0,0.5,0.00577,5.3,6.0,2.3,4.3,2.0
+42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.755,6,0.119,1.053,0.429,0.26,0.053,0.211,0.053,0.526,0.00464,3.2,3.0,1.0,2.3,1.3
+42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.306,6,0.209,0.722,0.333,0.06,0.111,0.056,0.0,0.333,0.00367,3.0,2.0,0.8,2.5,1.7
+42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,6,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+42017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,6,0.081,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5

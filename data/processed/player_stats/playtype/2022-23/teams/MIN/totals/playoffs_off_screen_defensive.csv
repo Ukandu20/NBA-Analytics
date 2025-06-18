@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,MIN
-42022,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.05,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,3,0,0,2,2,MIN
-42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.07,0.4,0.0,0.2,0.0,0.2,0.0,0.2,0.0,5,2,0,4,4,MIN
-42022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.11,0.4,0.33,0.0,0.4,0.0,0.0,0.2,0.33,5,2,1,3,2,MIN
-42022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.02,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,2,3,1,2,1,MIN
-42022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,4,0.07,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,3,4,2,3,1,MIN
-42022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.07,1.667,0.67,0.33,0.0,0.33,0.33,0.67,0.83,3,5,2,3,1,MIN
-42022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,OffScreen,Defensive,0.0,5,0.17,2.333,0.67,0.33,0.0,0.33,0.33,0.67,1.0,3,7,2,3,1,MIN

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.716,6,0.147,1.211,0.6,0.053,0.158,0.053,0.0,0.526,0.006999999999999999,3.0,4.0,1.5,2.5,1.0
+42016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.127,2.286,0.8,0.286,0.0,0.286,0.0,0.857,0.011000000000000001,1.0,3.0,0.7,0.8,0.2
+42016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.036,2.5,1.0,0.25,0.0,0.25,0.25,1.0,0.01125,1.0,2.0,0.7,0.7,0.0
+42016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.122,1.2,0.5,0.2,0.0,0.0,0.0,0.6,0.005,1.0,1.0,0.3,0.7,0.3
+42016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.084,0.75,0.5,0.0,0.25,0.0,0.0,0.375,0.005,1.0,1.0,0.5,1.0,0.5
+42016,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.171,0.833,0.5,0.167,0.333,0.167,0.167,0.333,0.005,1.0,1.0,0.3,0.7,0.3
+42016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.137,0.714,0.2,0.286,0.143,0.286,0.143,0.286,0.002,1.0,1.0,0.2,0.8,0.7
+42016,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,3,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1.0,1.0,0.7,0.7,0.0
+42016,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.133,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,1.0,1.0,0.3,0.7,0.3
+42016,203584,Troy Daniels,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,6,0.273,1.0,0.5,0.0,0.333,0.0,0.0,0.333,0.0075,0.0,0.0,0.2,0.3,0.2
+42016,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5

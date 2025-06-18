@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203089,John Henson,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.376,76,0.364,1.206,0.633,0.147,0.055,0.139,0.025,0.622,0.633,238,287,124,196,72
+22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.693,75,0.081,1.338,0.698,0.227,0.071,0.214,0.052,0.688,0.698,154,206,81,116,35
+22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.554,48,0.093,1.286,0.667,0.054,0.071,0.036,0.036,0.625,0.667,56,72,34,51,17
+22017,203092,Tyler Zeller,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.845,24,0.298,1.432,0.697,0.108,0.027,0.108,0.027,0.703,0.697,37,53,23,33,10
+22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.848,71,0.023,1.433,0.72,0.167,0.1,0.167,0.1,0.667,0.72,30,43,18,25,7
+22017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.102,31,0.107,1.0,0.545,0.116,0.116,0.093,0.0,0.512,0.545,43,43,18,33,15
+22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.196,82,0.019,1.097,0.462,0.194,0.032,0.194,0.065,0.516,0.462,31,34,12,26,14
+22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.308,75,0.035,1.176,0.5,0.235,0.0,0.176,0.059,0.588,0.5,17,20,7,14,7

@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.257,75,0.147,0.763,0.272,0.086,0.108,0.079,0.014,0.295,0.36,139,106,31,114,83
+22017,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.84,78,0.113,1.094,0.486,0.059,0.118,0.035,0.024,0.435,0.611,85,93,35,72,37
+22017,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.637,73,0.05,0.96,0.432,0.18,0.14,0.12,0.06,0.44,0.473,50,48,16,37,21
+22017,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.23,71,0.043,0.732,0.313,0.073,0.146,0.073,0.0,0.317,0.391,41,30,10,32,22
+22017,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.319,48,0.039,0.794,0.367,0.029,0.118,0.029,0.029,0.324,0.433,34,27,11,30,19
+22017,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.249,80,0.031,0.758,0.345,0.061,0.091,0.061,0.03,0.333,0.397,33,25,10,29,19
+22017,203917,Nik Stauskas,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.576,35,0.082,0.933,0.357,0.067,0.067,0.067,0.067,0.333,0.5,15,14,5,14,9

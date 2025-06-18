@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201959,Taj Gibson,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.747,55,0.237,0.962,0.521,0.141,0.128,0.135,0.032,0.487,0.521,156,150,62,119,57
+22016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.537,81,0.162,0.885,0.454,0.068,0.068,0.054,0.014,0.453,0.454,148,131,59,130,71
+22016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.616,60,0.107,0.915,0.463,0.108,0.092,0.1,0.031,0.462,0.463,130,119,50,108,58
+22016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.911,76,0.059,1.07,0.481,0.19,0.04,0.18,0.03,0.54,0.481,100,107,38,79,41
+22016,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.413,64,0.091,0.85,0.467,0.125,0.175,0.1,0.05,0.425,0.467,40,34,14,30,16
+22016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.089,70,0.065,0.633,0.306,0.122,0.163,0.122,0.02,0.327,0.306,49,31,11,36,25
+22016,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.979,44,0.044,1.158,0.556,0.105,0.053,0.105,0.105,0.526,0.556,19,22,10,18,8
+22016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.953,63,0.045,1.118,0.462,0.235,0.0,0.235,0.0,0.588,0.462,17,19,6,13,7
+22016,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.032,66,0.044,0.538,0.25,0.154,0.231,0.154,0.0,0.308,0.25,13,7,2,8,6
+22016,203530,Joffrey Lauvergne,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.026,20,0.088,0.5,0.286,0.1,0.2,0.1,0.0,0.3,0.286,10,5,2,7,5

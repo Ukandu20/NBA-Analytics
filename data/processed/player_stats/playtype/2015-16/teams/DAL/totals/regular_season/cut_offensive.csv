@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.218,76,0.314,1.031,0.512,0.173,0.107,0.169,0.036,0.52,0.512,225,232,87,170,83
+22015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.833,69,0.269,1.426,0.701,0.324,0.056,0.315,0.093,0.713,0.701,108,154,54,77,23
+22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.938,75,0.032,1.548,0.784,0.095,0.024,0.095,0.0,0.786,0.784,42,65,29,37,8
+22015,101135,David Lee,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.771,25,0.249,1.383,0.771,0.213,0.085,0.213,0.043,0.702,0.771,47,65,27,35,8
+22015,201580,JaVale McGee,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.675,34,0.291,1.3,0.659,0.12,0.04,0.12,0.04,0.66,0.659,50,65,29,44,15
+22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.768,61,0.056,1.378,0.725,0.111,0.044,0.111,0.044,0.689,0.725,45,62,29,40,11
+22015,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.198,34,0.387,1.021,0.559,0.208,0.083,0.208,0.0,0.542,0.559,48,49,19,34,15
+22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.943,64,0.058,1.552,0.833,0.138,0.034,0.138,0.0,0.828,0.833,29,45,20,24,4
+22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.034,78,0.027,0.852,0.435,0.074,0.074,0.074,0.0,0.444,0.435,27,23,10,23,13
+22015,101111,Charlie Villanueva,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.884,62,0.041,1.467,0.769,0.067,0.067,0.067,0.0,0.733,0.769,15,22,10,13,3
+22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.766,80,0.018,1.375,0.688,0.063,0.0,0.063,0.063,0.688,0.688,16,22,11,16,5
+22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.541,65,0.018,1.222,0.667,0.056,0.111,0.056,0.0,0.611,0.667,18,22,10,15,5
+22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.96,74,0.012,1.6,0.889,0.0,0.1,0.0,0.0,0.8,0.889,10,16,8,9,1
+22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.059,55,0.044,0.9,0.375,0.2,0.0,0.2,0.0,0.5,0.375,10,9,3,8,5

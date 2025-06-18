@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.652,16,0.116,1.088,0.586,0.088,0.118,0.088,0.06,0.529,0.00586,34,37,17,29,12
+42016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.826,16,0.203,1.207,0.577,0.103,0.0,0.069,0.0,0.621,0.00577,29,35,15,26,11
+42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,1.0,15,0.133,1.4,0.7,0.0,0.0,0.0,0.0,0.7,0.006999999999999999,10,14,7,10,3
+42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,12,0.026,1.857,0.833,0.286,0.0,0.286,0.14,0.857,0.008329999999999999,7,13,5,6,1
+42016,101135,David Lee,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.773,15,0.164,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.006,10,12,6,10,4
+42016,203473,Dewayne Dedmon,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.174,12,0.354,0.647,0.4,0.294,0.118,0.294,0.0,0.412,0.004,17,11,4,10,6
+42016,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,11,0.045,1.5,0.667,0.25,0.0,0.0,0.0,0.75,0.006670000000000001,4,6,2,3,1
+42016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,8,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,13,0.028,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,16,0.017,1.0,1.0,0.0,0.5,0.0,0.0,0.5,0.01,2,2,1,1,0
+42016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,16,0.03,0.5,0.5,0.0,0.5,0.0,0.0,0.25,0.005,4,2,1,2,1
+42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,15,0.031,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.002,5,2,1,5,4
+42016,201202,Joel Anthony,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,3,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.0,16,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

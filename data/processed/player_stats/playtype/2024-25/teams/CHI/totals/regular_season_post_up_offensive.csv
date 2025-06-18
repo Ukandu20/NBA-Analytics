@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.576,73,0.153,1.032,0.57,0.091,0.139,0.086,0.027,0.513,0.57,187,193,85,149,64,CHI
-22024,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.139,42,0.044,0.775,0.324,0.125,0.05,0.125,0.025,0.375,0.324,40,31,11,34,23,CHI
-22024,1628380,Zach Collins,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.639,28,0.079,1.056,0.583,0.167,0.167,0.167,0.0,0.556,0.583,18,19,7,12,5,CHI
-22024,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Postup,Offensive,0.104,63,0.039,0.72,0.333,0.12,0.16,0.08,0.0,0.36,0.333,25,18,6,18,12,CHI

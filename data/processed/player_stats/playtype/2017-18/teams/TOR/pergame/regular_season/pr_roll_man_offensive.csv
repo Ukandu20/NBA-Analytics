@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.7,77,0.26,1.163,0.567,0.129,0.073,0.124,0.039,0.562,0.0059299999999999995,3.0,3.5,1.4,2.5,1.1
+22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.411,76,0.202,1.032,0.509,0.059,0.075,0.048,0.022,0.489,0.0053300000000000005,2.4,2.5,1.1,2.2,1.1
+22017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.662,82,0.247,1.151,0.649,0.167,0.127,0.167,0.063,0.595,0.00649,1.5,1.8,0.8,1.2,0.4
+22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.126,81,0.073,0.86,0.405,0.093,0.093,0.093,0.047,0.395,0.00446,0.5,0.5,0.2,0.5,0.3

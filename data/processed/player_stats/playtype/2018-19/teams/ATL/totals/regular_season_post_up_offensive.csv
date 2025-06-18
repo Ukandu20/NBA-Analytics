@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.706,60,0.106,1.009,0.534,0.109,0.127,0.073,0.036,0.5,0.534,110,111,47,88,41,ATL
-22018,203458,Alex Len,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.871,76,0.109,1.1,0.583,0.222,0.178,0.2,0.067,0.544,0.583,90,99,35,60,25,ATL
-22018,1713,Vince Carter,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.113,76,0.068,0.639,0.344,0.028,0.083,0.028,0.0,0.333,0.344,36,23,11,32,21,ATL
-22018,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,Postup,Offensive,0.069,64,0.029,0.579,0.286,0.158,0.158,0.158,0.053,0.263,0.286,19,11,4,14,10,ATL

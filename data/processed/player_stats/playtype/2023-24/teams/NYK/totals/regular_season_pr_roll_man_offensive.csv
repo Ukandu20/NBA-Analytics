@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.351,74,0.208,1.009,0.544,0.176,0.13,0.157,0.037,0.537,0.544,108,109,43,79,36,NYK
-22023,1630173,Precious Achiuwa,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.614,49,0.122,1.213,0.641,0.106,0.064,0.106,0.0,0.617,0.654,47,57,25,39,14,NYK
-22023,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.745,30,0.133,1.292,0.682,0.125,0.0,0.125,0.042,0.667,0.682,24,31,15,22,7,NYK
-22023,203944,Julius Randle,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.096,45,0.037,0.756,0.353,0.049,0.146,0.049,0.024,0.317,0.426,41,31,12,34,22,NYK
-22023,1628404,Josh Hart,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.144,80,0.025,0.857,0.381,0.048,0.0,0.048,0.048,0.381,0.405,21,18,8,21,13,NYK
-22023,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.968,29,0.025,1.6,0.714,0.1,0.2,0.1,0.0,0.6,1.0,10,16,5,7,2,NYK
-22023,1630579,Jericho Sims,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.424,44,0.177,1.071,0.6,0.214,0.143,0.214,0.071,0.5,0.6,14,15,6,10,4,NYK
-22023,202711,Bojan Bogdanović,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.044,29,0.032,0.6,0.25,0.1,0.2,0.1,0.1,0.2,0.313,10,6,2,8,6,NYK

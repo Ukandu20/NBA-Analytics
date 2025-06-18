@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203584,Troy Daniels,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.478,67,0.315,0.92,0.36,0.023,0.057,0.023,0.017,0.343,0.482,175,161,59,164,105
+22016,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.972,69,0.087,1.336,0.52,0.08,0.027,0.053,0.009,0.54,0.652,113,151,53,102,49
+22016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.613,73,0.11,0.985,0.361,0.062,0.015,0.046,0.015,0.385,0.467,65,64,22,61,39
+22016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.783,74,0.038,1.073,0.458,0.091,0.055,0.055,0.018,0.473,0.521,55,59,22,48,26
+22016,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.298,34,0.094,0.8,0.364,0.04,0.08,0.04,0.0,0.36,0.409,25,20,8,22,14
+22016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.079,64,0.049,0.571,0.188,0.095,0.143,0.095,0.0,0.238,0.25,21,12,3,16,13
+22016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.095,73,0.015,0.588,0.294,0.0,0.0,0.0,0.0,0.294,0.294,17,10,5,17,12
+22016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.187,77,0.015,0.7,0.429,0.0,0.3,0.0,0.0,0.3,0.5,10,7,3,7,4
+22016,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.105,71,0.013,0.6,0.429,0.0,0.3,0.0,0.0,0.3,0.429,10,6,3,7,4
+22016,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.012,72,0.022,0.333,0.1,0.167,0.0,0.167,0.0,0.25,0.1,12,4,1,10,9

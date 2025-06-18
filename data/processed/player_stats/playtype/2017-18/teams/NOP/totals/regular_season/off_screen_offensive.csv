@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.691,82,0.112,1.074,0.553,0.037,0.102,0.037,0.009,0.509,0.596,108,116,52,94,42
+22017,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.55,82,0.189,1.0,0.392,0.047,0.075,0.047,0.028,0.374,0.51,107,107,38,97,59
+22017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.225,75,0.057,0.802,0.36,0.113,0.057,0.094,0.009,0.396,0.376,106,85,32,89,57
+22017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.181,81,0.057,0.784,0.37,0.068,0.125,0.068,0.023,0.352,0.411,88,69,27,73,46
+22017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.32,74,0.098,0.875,0.42,0.018,0.089,0.018,0.0,0.393,0.47,56,49,21,50,29
+22017,202326,DeMarcus Cousins,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.202,48,0.035,0.8,0.258,0.2,0.111,0.156,0.0,0.356,0.355,45,36,8,31,23
+22017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.233,30,0.094,0.805,0.289,0.024,0.049,0.024,0.0,0.293,0.395,41,33,11,38,27
+22017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,OffScreen,Offensive,0.0,66,0.015,0.2,0.111,0.0,0.1,0.0,0.0,0.1,0.111,10,2,1,9,8

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.878,55,0.09,0.768,0.364,0.357,0.464,0.036,0.02,0.411,0.364,56,43,4,11,7
+22015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.609,68,0.054,0.567,0.273,0.267,0.367,0.033,0.0,0.333,0.273,60,34,6,22,16
+22015,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.899,56,0.048,0.786,0.4,0.333,0.429,0.095,0.0,0.429,0.45,42,33,4,10,6
+22015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.863,64,0.073,0.75,0.714,0.205,0.477,0.023,0.0,0.409,0.75,44,33,10,14,4
+22015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.372,76,0.086,0.427,0.357,0.147,0.667,0.013,0.0,0.213,0.429,75,32,5,14,9
+22015,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.46,52,0.067,0.476,0.4,0.27,0.651,0.0,0.0,0.302,0.4,63,30,2,5,3
+22015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.987,60,0.068,1.0,0.4,0.393,0.286,0.071,0.04,0.5,0.5,28,28,4,10,6
+22015,201584,Courtney Lee,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.941,51,0.057,0.857,0.8,0.25,0.429,0.036,0.04,0.5,0.8,28,24,8,10,2
+22015,201145,Jeff Green,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.545,53,0.055,0.526,0.222,0.211,0.553,0.026,0.0,0.263,0.278,38,20,2,9,7
+22015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.378,78,0.066,0.429,0.375,0.214,0.619,0.048,0.02,0.262,0.375,42,18,3,8,5
+22015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.795,20,0.116,0.7,0.0,0.5,0.4,0.0,0.0,0.4,0.0,10,7,0,1,1
+22015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.716,26,0.028,0.636,0.286,0.182,0.182,0.182,0.09,0.273,0.286,11,7,2,7,5
+22015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.433,27,0.08,0.462,0.5,0.231,0.615,0.077,0.0,0.308,0.5,13,6,1,2,1
+22015,200797,Ryan Hollins,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.029,18,0.143,0.1,0.0,0.2,0.7,0.0,0.0,0.1,0.0,10,1,0,1,1

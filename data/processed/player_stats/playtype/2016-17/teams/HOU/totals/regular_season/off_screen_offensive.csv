@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.787,75,0.081,1.082,0.463,0.082,0.093,0.082,0.021,0.454,0.555,97,105,38,82,44
+22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.866,72,0.073,1.154,0.45,0.062,0.031,0.062,0.015,0.462,0.575,65,75,27,60,33
+22016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.352,80,0.067,0.855,0.396,0.032,0.113,0.032,0.0,0.371,0.472,62,53,21,53,32
+22016,201935,James Harden,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.348,81,0.023,0.852,0.348,0.019,0.13,0.0,0.0,0.315,0.489,54,46,16,46,30
+22016,1626155,Sam Dekker,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.242,77,0.048,0.75,0.45,0.0,0.167,0.0,0.0,0.375,0.45,24,18,9,20,11
+22016,101150,Lou Williams,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.261,23,0.06,0.762,0.294,0.048,0.143,0.048,0.0,0.286,0.412,21,16,5,17,12
+22016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,OffScreen,Offensive,0.044,67,0.015,0.5,0.25,0.0,0.2,0.0,0.0,0.2,0.313,10,5,2,8,6

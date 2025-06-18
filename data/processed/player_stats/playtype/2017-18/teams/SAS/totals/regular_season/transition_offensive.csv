@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.219,81,0.209,0.952,0.53,0.155,0.185,0.137,0.024,0.482,0.53,168,160,61,115,54
+22017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.288,70,0.169,0.991,0.406,0.027,0.08,0.027,0.009,0.384,0.525,112,111,41,101,60
+22017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.572,79,0.166,1.14,0.458,0.065,0.075,0.065,0.032,0.441,0.578,93,106,38,83,45
+22017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.475,82,0.1,1.072,0.444,0.048,0.084,0.012,0.0,0.422,0.576,83,89,32,72,40
+22017,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.957,77,0.146,1.426,0.574,0.082,0.049,0.066,0.016,0.574,0.722,61,87,31,54,23
+22017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.457,57,0.112,1.066,0.577,0.158,0.158,0.145,0.0,0.539,0.635,76,81,30,52,22
+22017,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.124,74,0.147,0.864,0.542,0.125,0.216,0.114,0.023,0.443,0.559,88,76,32,59,27
+22017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.91,75,0.033,1.358,0.643,0.189,0.075,0.17,0.057,0.642,0.679,53,72,27,42,15
+22017,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.563,55,0.122,1.133,0.537,0.233,0.1,0.15,0.017,0.583,0.573,60,68,22,41,19
+22017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.182,65,0.106,0.924,0.407,0.076,0.136,0.061,0.03,0.379,0.491,66,61,22,54,32
+22017,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.856,77,0.054,1.289,0.543,0.267,0.022,0.222,0.067,0.622,0.586,45,58,19,35,16
+22017,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Transition,Offensive,0.403,10,0.154,1.045,0.5,0.227,0.136,0.227,0.0,0.545,0.536,22,23,7,14,7

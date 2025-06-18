@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.753,77,0.089,0.964,0.464,0.179,0.134,0.188,0.071,0.455,0.464,112,108,39,84,45
+22016,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.389,75,0.12,0.841,0.413,0.133,0.088,0.124,0.035,0.425,0.413,113,95,38,92,54
+22016,201579,Roy Hibbert,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.889,42,0.272,1.052,0.512,0.172,0.103,0.138,0.017,0.534,0.512,58,61,22,43,21
+22016,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.899,81,0.045,1.059,0.462,0.206,0.029,0.206,0.0,0.559,0.462,34,36,12,26,14
+22016,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.632,76,0.045,0.919,0.406,0.135,0.027,0.108,0.027,0.459,0.406,37,34,13,32,19
+22016,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.668,35,0.109,0.933,0.583,0.033,0.167,0.033,0.0,0.467,0.583,30,28,14,24,10
+22016,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.932,62,0.017,1.1,0.6,0.5,0.1,0.4,0.1,0.5,0.6,10,11,3,5,2

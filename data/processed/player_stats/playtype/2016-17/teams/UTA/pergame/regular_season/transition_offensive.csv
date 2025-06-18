@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Transition,Offensive,0.92,73,0.102,1.38,0.696,0.173,0.107,0.153,0.027,0.667,0.75,2.1,2.8,1.1,1.5,0.5
+22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.991,81,0.07,1.609,0.837,0.333,0.043,0.333,0.101,0.812,0.837,0.9,1.4,0.5,0.6,0.1
+22016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Transition,Offensive,0.582,59,0.105,1.134,0.581,0.098,0.146,0.073,0.0,0.524,0.661,1.4,1.6,0.6,1.1,0.4
+22016,201588,George Hill,1610612762,UTA,Utah Jazz,Transition,Offensive,0.932,49,0.084,1.4,0.667,0.154,0.123,0.123,0.062,0.615,0.765,1.3,1.9,0.7,1.0,0.3
+22016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.854,82,0.112,1.303,0.603,0.03,0.106,0.015,0.015,0.545,0.724,0.8,1.0,0.4,0.7,0.3
+22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Transition,Offensive,0.441,66,0.152,1.068,0.518,0.137,0.123,0.137,0.027,0.507,0.554,1.1,1.2,0.4,0.8,0.4
+22016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Transition,Offensive,0.48,55,0.095,1.083,0.629,0.042,0.229,0.042,0.0,0.5,0.7,0.9,0.9,0.4,0.6,0.2
+22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.553,71,0.078,1.119,0.515,0.119,0.119,0.095,0.024,0.5,0.591,0.6,0.7,0.2,0.5,0.2
+22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,Transition,Offensive,0.224,42,0.153,0.938,0.5,0.104,0.167,0.104,0.063,0.438,0.526,1.1,1.1,0.5,0.9,0.5
+22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.425,78,0.048,1.057,0.56,0.057,0.229,0.057,0.0,0.457,0.68,0.4,0.5,0.2,0.3,0.1
+22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Transition,Offensive,0.542,73,0.06,1.115,0.619,0.077,0.154,0.077,0.038,0.538,0.619,0.4,0.4,0.2,0.3,0.1
+22016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Transition,Offensive,0.329,50,0.027,1.0,0.667,0.429,0.143,0.429,0.0,0.643,0.667,0.3,0.3,0.1,0.1,0.0

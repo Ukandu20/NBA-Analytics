@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.397,80,0.127,0.773,0.378,0.129,0.124,0.098,0.018,0.391,0.384,225,174,65,172,107
+22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.339,51,0.103,0.728,0.354,0.107,0.107,0.107,0.01,0.369,0.366,103,75,29,82,53
+22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.875,56,0.132,1.029,0.518,0.132,0.088,0.118,0.044,0.5,0.518,68,70,29,56,27
+22016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.435,81,0.06,0.793,0.426,0.069,0.121,0.086,0.017,0.397,0.426,58,46,20,47,27
+22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.129,75,0.07,0.554,0.342,0.054,0.268,0.054,0.0,0.286,0.342,56,31,13,38,25
+22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.102,29,0.088,0.526,0.258,0.053,0.132,0.053,0.0,0.263,0.274,38,20,8,31,23
+22016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.119,76,0.04,0.536,0.15,0.179,0.107,0.107,0.0,0.286,0.15,28,15,3,20,17
+22016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.271,80,0.021,0.692,0.4,0.077,0.154,0.077,0.0,0.385,0.4,13,9,4,10,6

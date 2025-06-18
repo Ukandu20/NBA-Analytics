@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.476,55,0.152,0.905,0.411,0.06,0.08,0.054,0.014,0.41,0.484,148,134,53,129,76
+22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.789,75,0.073,1.066,0.456,0.02,0.05,0.016,0.0,0.44,0.561,61,65,26,57,31
+22015,202390,Gary Neal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.602,40,0.141,0.981,0.435,0.06,0.08,0.038,0.0,0.43,0.5,53,52,20,46,26
+22015,202066,Garrett Temple,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.203,80,0.079,0.735,0.317,0.02,0.14,0.02,0.0,0.29,0.415,49,36,13,41,28
+22015,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.715,82,0.03,1.04,0.45,0.2,0.08,0.2,0.08,0.48,0.5,25,26,9,20,11
+22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.248,81,0.056,0.765,0.345,0.06,0.12,0.059,0.029,0.32,0.397,34,26,10,29,19
+22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.727,27,0.068,1.042,0.478,0.04,0.0,0.042,0.0,0.5,0.5,24,25,11,23,12
+22015,202322,John Wall,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.26,77,0.016,0.786,0.348,0.07,0.11,0.071,0.0,0.36,0.391,28,22,8,23,15
+22015,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.111,14,0.103,0.615,0.273,0.08,0.15,0.077,0.077,0.23,0.318,13,8,3,11,8
+22015,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.004,63,0.049,0.231,0.1,0.0,0.23,0.0,0.0,0.08,0.15,13,3,1,10,9

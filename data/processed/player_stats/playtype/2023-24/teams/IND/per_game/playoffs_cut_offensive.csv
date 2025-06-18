@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Cut,Offensive,0.515,17,0.09,1.333,0.667,0.1,0.033,0.1,0.033,0.667,0.667,1.8,2.4,1.1,1.6,0.5,IND
-42023,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.917,17,0.07,1.611,0.75,0.167,0.0,0.167,0.056,0.778,0.75,1.1,1.7,0.7,0.9,0.2,IND
-42023,1630543,Isaiah Jackson,1610612754,IND,Indiana Pacers,Cut,Offensive,1.0,15,0.259,1.714,0.786,0.143,0.0,0.143,0.143,0.786,0.786,0.9,1.6,0.7,0.9,0.2,IND
-42023,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.857,17,0.088,1.5,0.769,0.143,0.0,0.143,0.071,0.786,0.769,0.8,1.2,0.6,0.8,0.2,IND
-42023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Cut,Offensive,0.306,17,0.075,1.25,0.625,0.0,0.0,0.0,0.0,0.625,0.625,0.9,1.2,0.6,0.9,0.4,IND

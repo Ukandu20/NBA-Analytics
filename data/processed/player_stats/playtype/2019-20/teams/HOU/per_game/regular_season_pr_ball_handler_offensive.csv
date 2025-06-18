@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.82,68,0.179,0.979,0.483,0.186,0.234,0.16,0.034,0.444,0.547,5.6,5.5,1.6,3.4,1.8,HOU
-22019,201566,Russell Westbrook,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.723,57,0.124,0.934,0.533,0.109,0.199,0.109,0.028,0.455,0.549,3.7,3.5,1.4,2.7,1.2,HOU
-22019,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.875,36,0.133,1.014,0.39,0.11,0.096,0.096,0.014,0.397,0.534,2.0,2.1,0.6,1.6,1.0,HOU
-22019,203085,Austin Rivers,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.643,68,0.133,0.899,0.426,0.114,0.139,0.114,0.025,0.418,0.492,1.2,1.0,0.4,0.9,0.5,HOU
-22019,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.08,63,0.025,0.563,0.308,0.0,0.188,0.0,0.0,0.25,0.346,0.3,0.1,0.1,0.2,0.1,HOU

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.93,62,0.189,1.155,0.558,0.181,0.108,0.166,0.04,0.556,0.575,277,320,116,208,92,PHX
-22024,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.871,75,0.09,1.073,0.489,0.139,0.085,0.121,0.042,0.497,0.522,165,177,66,135,69,PHX
-22024,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.62,53,0.067,0.93,0.488,0.105,0.158,0.088,0.018,0.456,0.5,57,53,21,43,22,PHX
-22024,1626145,Tyus Jones,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.886,81,0.026,1.095,0.524,0.0,0.0,0.0,0.0,0.524,0.548,21,23,11,21,10,PHX
-22024,1631221,Collin Gillespie,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.59,33,0.07,0.923,0.417,0.077,0.0,0.077,0.0,0.462,0.417,13,12,5,12,7,PHX
-22024,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.018,64,0.023,0.357,0.1,0.143,0.143,0.071,0.0,0.214,0.1,14,5,1,10,9,PHX

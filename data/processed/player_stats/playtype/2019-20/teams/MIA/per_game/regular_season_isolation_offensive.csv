@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Offensive,0.7,58,0.097,0.954,0.418,0.231,0.065,0.231,0.037,0.491,0.437,1.9,1.8,0.6,1.4,0.8,MIA
-22019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Offensive,0.397,72,0.076,0.809,0.443,0.146,0.191,0.112,0.022,0.416,0.443,1.2,1.0,0.4,0.8,0.5,MIA
-22019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.919,59,0.048,1.128,0.486,0.128,0.106,0.128,0.021,0.489,0.595,0.8,0.9,0.3,0.6,0.3,MIA
-22019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,Isolation,Offensive,0.227,67,0.05,0.736,0.348,0.038,0.094,0.038,0.0,0.34,0.38,0.8,0.6,0.2,0.7,0.4,MIA
-22019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Offensive,0.198,55,0.034,0.692,0.273,0.115,0.038,0.115,0.0,0.346,0.273,0.5,0.3,0.1,0.4,0.3,MIA

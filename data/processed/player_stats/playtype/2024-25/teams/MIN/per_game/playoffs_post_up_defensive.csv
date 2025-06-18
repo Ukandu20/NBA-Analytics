@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Postup,Defensive,0.963,15,0.043,0.6,0.286,0.1,0.2,0.1,0.0,0.3,0.286,0.7,0.4,0.1,0.5,0.3,MIN

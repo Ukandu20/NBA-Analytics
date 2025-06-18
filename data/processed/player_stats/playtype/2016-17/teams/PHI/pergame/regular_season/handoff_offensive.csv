@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.417,80,0.137,0.858,0.405,0.08,0.186,0.071,0.009,0.372,0.494,1.4,1.0,0.4,1.1,0.6
+22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.65,72,0.126,0.965,0.403,0.105,0.07,0.093,0.012,0.43,0.472,1.2,1.0,0.4,1.0,0.6
+22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.613,67,0.08,0.947,0.417,0.053,0.16,0.053,0.013,0.36,0.558,1.1,1.0,0.4,0.9,0.5
+22016,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.438,81,0.08,0.877,0.512,0.088,0.211,0.088,0.018,0.421,0.524,0.7,1.0,0.3,0.5,0.2
+22016,1627789,Timothe Luwawu-Cabarrot,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.292,69,0.094,0.761,0.343,0.109,0.152,0.087,0.022,0.326,0.414,0.7,1.0,0.2,0.5,0.3
+22016,200771,Sergio Rodriguez,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.188,68,0.075,0.68,0.326,0.0,0.14,0.0,0.0,0.28,0.395,0.7,0.0,0.2,0.6,0.4
+22016,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.867,31,0.101,1.111,0.5,0.056,0.167,0.056,0.0,0.444,0.643,0.6,1.0,0.2,0.5,0.2
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.619,81,0.017,0.95,0.471,0.05,0.1,0.05,0.0,0.45,0.5,0.2,0.0,0.1,0.2,0.1
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.192,53,0.02,0.688,0.25,0.0,0.0,0.0,0.0,0.25,0.344,0.3,0.0,0.1,0.3,0.2
+22016,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Handoff,Offensive,0.083,24,0.083,0.529,0.25,0.059,0.235,0.059,0.0,0.235,0.292,0.7,0.0,0.1,0.5,0.4

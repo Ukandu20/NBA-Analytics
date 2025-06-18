@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.508,81,0.128,0.5,0.33,0.349,0.603,0.032,0.0,0.333,0.00333,126,63,2,6,4
+22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Misc,Offensive,0.908,73,0.036,0.83,0.33,0.396,0.321,0.019,0.0,0.491,0.00333,53,44,5,15,10
+22016,201588,George Hill,1610612762,UTA,Utah Jazz,Misc,Offensive,0.722,49,0.049,0.632,0.33,0.342,0.368,0.026,0.03,0.368,0.00375,38,24,4,12,8
+22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Misc,Offensive,0.973,78,0.025,1.0,0.6,0.389,0.333,0.056,0.0,0.5,0.008,18,18,3,5,2
+22016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Misc,Offensive,0.474,82,0.053,0.484,0.2,0.258,0.581,0.0,0.0,0.29,0.003,31,15,1,5,4
+22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,Misc,Offensive,0.973,42,0.041,1.0,0.5,0.385,0.308,0.077,0.0,0.538,0.005,13,13,2,4,2
+22016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Misc,Offensive,0.609,59,0.021,0.563,0.25,0.188,0.563,0.0,0.0,0.25,0.00375,16,9,1,4,3
+22016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Misc,Offensive,0.246,55,0.046,0.348,0.17,0.174,0.565,0.0,0.0,0.217,0.00167,23,8,1,6,5
+22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Misc,Offensive,0.162,66,0.038,0.278,0.17,0.167,0.556,0.111,0.06,0.167,0.00167,18,5,1,6,5
+22016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Misc,Offensive,0.089,50,0.046,0.208,0.0,0.25,0.5,0.042,0.0,0.167,0.0,24,5,0,6,6
+22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Misc,Offensive,0.067,73,0.063,0.185,1.0,0.111,0.852,0.0,0.0,0.111,0.01,27,5,1,1,0
+22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Misc,Offensive,0.038,71,0.048,0.154,0.2,0.115,0.692,0.0,0.0,0.115,0.002,26,4,1,5,4

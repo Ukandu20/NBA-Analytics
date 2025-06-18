@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.594,22,0.103,1.028,0.545,0.139,0.111,0.139,0.028,0.528,0.545,3.3,3.4,1.4,2.5,1.1
+42017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.313,21,0.256,0.795,0.397,0.102,0.136,0.057,0.011,0.398,0.397,4.2,3.3,1.3,3.2,2.0
+42017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.094,22,0.111,0.65,0.353,0.05,0.1,0.05,0.0,0.35,0.353,0.9,0.6,0.3,0.8,0.5
+42017,1627790,Ante Zizic,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,8,0.4,0.667,0.25,0.167,0.167,0.167,0.0,0.333,0.25,0.8,0.5,0.1,0.5,0.4
+42017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,19,0.075,0.5,0.286,0.0,0.125,0.0,0.0,0.25,0.286,0.4,0.2,0.1,0.4,0.3
+42017,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,17,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.1,0.1,0.1,0.0
+42017,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,22,0.014,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,0.1,0.1,0.0,0.1,0.0
+42017,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,20,0.046,0.5,0.5,0.25,0.25,0.25,0.0,0.25,0.5,0.2,0.1,0.1,0.1,0.1
+42017,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,19,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42017,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,19,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42017,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,22,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

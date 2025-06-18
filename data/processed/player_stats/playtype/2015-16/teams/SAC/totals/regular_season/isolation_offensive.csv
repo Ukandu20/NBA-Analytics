@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.364,70,0.154,0.746,0.352,0.093,0.104,0.088,0.021,0.363,0.371,193,144,56,159,103
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.247,65,0.111,0.684,0.325,0.158,0.148,0.139,0.043,0.344,0.328,209,143,50,154,104
+22015,201954,Darren Collison,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.691,74,0.111,0.901,0.432,0.189,0.117,0.171,0.036,0.459,0.444,111,100,35,81,46
+22015,200765,Rajon Rondo,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.375,72,0.074,0.75,0.389,0.048,0.119,0.036,0.024,0.345,0.41,84,63,28,72,44
+22015,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.583,68,0.045,0.852,0.381,0.111,0.111,0.111,0.0,0.407,0.429,27,23,8,21,13
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.808,69,0.027,0.952,0.375,0.19,0.048,0.143,0.0,0.429,0.469,21,20,6,16,10
+22015,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.88,66,0.029,1.0,0.444,0.231,0.154,0.231,0.077,0.462,0.444,13,13,4,9,5
+22015,203552,Seth Curry,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.172,44,0.046,0.615,0.222,0.154,0.154,0.154,0.0,0.308,0.278,13,8,2,9,7

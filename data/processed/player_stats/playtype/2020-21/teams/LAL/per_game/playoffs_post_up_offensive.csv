@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.778,5,0.172,1.067,0.4,0.333,0.067,0.2,0.067,0.533,0.4,3.0,3.2,0.8,2.0,1.2,LAL
-42020,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.48,6,0.074,0.909,0.5,0.0,0.091,0.0,0.0,0.455,0.5,1.8,1.7,0.8,1.7,0.8,LAL
-42020,203083,Andre Drummond,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,5,0.17,0.875,0.75,0.125,0.5,0.125,0.125,0.375,0.75,1.6,1.4,0.6,0.8,0.2,LAL
-42020,1626149,Montrezl Harrell,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,5,0.211,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.8,0.8,0.4,0.8,0.4,LAL
-42020,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,4,0.143,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.5,0.5,0.3,0.5,0.3,LAL
-42020,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,6,0.018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,LAL

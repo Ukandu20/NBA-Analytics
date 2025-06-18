@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1629028,Deandre Ayton,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.763,58,0.219,1.043,0.571,0.075,0.091,0.065,0.005,0.538,0.571,186,194,89,156,67,PHX
-22021,201580,JaVale McGee,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.414,74,0.109,0.896,0.5,0.149,0.224,0.104,0.06,0.433,0.5,67,60,23,46,23,PHX
-22021,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.387,68,0.026,0.889,0.483,0.2,0.178,0.089,0.022,0.489,0.483,45,40,14,29,15,PHX
-22021,1628969,Mikal Bridges,1610612756,PHX,Phoenix Suns,Postup,Offensive,1.0,82,0.019,1.526,0.714,0.368,0.053,0.316,0.158,0.737,0.714,19,29,10,14,4,PHX
-22021,202687,Bismack Biyombo,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.435,36,0.103,0.905,0.533,0.095,0.19,0.048,0.0,0.476,0.533,21,19,8,15,7,PHX
-22021,1630188,Jalen Smith,1610612756,PHX,Phoenix Suns,Postup,Offensive,0.681,29,0.082,1.0,0.5,0.267,0.2,0.267,0.0,0.533,0.5,15,15,4,8,4,PHX

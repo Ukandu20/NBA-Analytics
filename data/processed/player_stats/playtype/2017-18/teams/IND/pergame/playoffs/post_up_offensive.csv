@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Offensive,0.656,7,0.164,1.083,0.556,0.167,0.167,0.167,0.083,0.5,0.556,1.7,1.9,0.7,1.3,0.6
+42017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Postup,Offensive,0.71,7,0.143,1.091,0.625,0.273,0.091,0.273,0.091,0.636,0.625,1.6,1.7,0.7,1.1,0.4
+42017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Postup,Offensive,0.0,7,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3
+42017,202344,Trevor Booker,1610612754,IND,Indiana Pacers,Postup,Offensive,0.0,7,0.154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3

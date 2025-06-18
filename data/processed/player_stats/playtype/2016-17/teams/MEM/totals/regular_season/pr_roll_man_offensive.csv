@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.491,74,0.23,1.024,0.465,0.113,0.071,0.095,0.03,0.476,0.507,336,344,132,284,152
+22016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.234,73,0.116,0.887,0.426,0.053,0.045,0.053,0.015,0.429,0.443,133,118,52,122,70
+22016,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.872,28,0.333,1.226,0.612,0.075,0.019,0.075,0.019,0.623,0.612,53,65,30,49,19
+22016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.359,77,0.09,0.95,0.46,0.133,0.083,0.117,0.05,0.467,0.47,60,57,23,50,27
+22016,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.055,42,0.129,0.615,0.333,0.115,0.192,0.115,0.0,0.346,0.333,26,16,6,18,12
+22016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.083,64,0.023,0.7,0.333,0.0,0.1,0.0,0.0,0.3,0.389,10,7,3,9,6

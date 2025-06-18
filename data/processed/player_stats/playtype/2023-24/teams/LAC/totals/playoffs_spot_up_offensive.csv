@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1626181,Norman Powell,1610612746,LAC,LA Clippers,Spotup,Offensive,0.891,6,0.413,1.323,0.5,0.097,0.0,0.065,0.0,0.548,0.625,31,41,14,28,14,LAC
-42023,1629611,Terance Mann,1610612746,LAC,LA Clippers,Spotup,Offensive,0.882,6,0.4,1.318,0.476,0.0,0.045,0.0,0.0,0.455,0.69,22,29,10,21,11,LAC
-42023,202331,Paul George,1610612746,LAC,LA Clippers,Spotup,Offensive,0.736,6,0.192,1.13,0.409,0.0,0.043,0.0,0.0,0.391,0.591,23,26,9,22,13,LAC
-42023,1629599,Amir Coffey,1610612746,LAC,LA Clippers,Spotup,Offensive,0.165,6,0.593,0.688,0.286,0.0,0.125,0.0,0.0,0.25,0.393,16,11,4,14,10,LAC
-42023,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Spotup,Offensive,0.091,6,0.288,0.579,0.211,0.0,0.0,0.0,0.0,0.211,0.289,19,11,4,19,15,LAC
-42023,201935,James Harden,1610612746,LAC,LA Clippers,Spotup,Offensive,0.028,6,0.104,0.5,0.167,0.0,0.0,0.0,0.0,0.167,0.25,12,6,2,12,10,LAC

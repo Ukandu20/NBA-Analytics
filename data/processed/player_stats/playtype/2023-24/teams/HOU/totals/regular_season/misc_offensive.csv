@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22023,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Misc,Offensive,0.689,63,0.056,0.603,0.5,0.274,0.466,0.055,0.014,0.342,0.005,73,44,10,20,10
+22023,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,Misc,Offensive,0.726,73,0.05,0.629,0.25,0.194,0.355,0.0,0.0,0.306,0.00357,62,39,7,28,21
+22023,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,Misc,Offensive,0.723,62,0.072,0.628,0.643,0.186,0.512,0.023,0.023,0.326,0.006790000000000001,43,27,9,14,5
+22023,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.594,82,0.025,0.548,0.286,0.238,0.429,0.0,0.0,0.333,0.0028599999999999997,42,23,4,14,10
+22023,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Misc,Offensive,0.295,76,0.052,0.365,0.091,0.231,0.558,0.038,0.0,0.212,0.00091,52,19,1,11,10
+22023,201145,Jeff Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.437,78,0.077,0.459,0.333,0.216,0.541,0.081,0.0,0.27,0.00333,37,17,3,9,6
+22023,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Misc,Offensive,0.951,22,0.067,0.933,0.667,0.2,0.267,0.067,0.067,0.533,0.006670000000000001,15,14,6,9,3
+22023,1628988,Aaron Holiday,1610612745,HOU,Houston Rockets,Misc,Offensive,0.59,78,0.045,0.545,0.5,0.136,0.591,0.0,0.0,0.273,0.005,22,12,3,6,3
+22023,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,Misc,Offensive,0.223,72,0.039,0.333,0.091,0.194,0.5,0.028,0.0,0.222,0.00091,36,12,1,11,10
+22023,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Misc,Offensive,0.382,65,0.092,0.423,0.222,0.154,0.5,0.0,0.0,0.231,0.00222,26,11,2,9,7
+22023,1641715,Cam Whitmore,1610612745,HOU,Houston Rockets,Misc,Offensive,0.343,47,0.035,0.4,0.222,0.2,0.35,0.05,0.0,0.2,0.0027800000000000004,20,8,2,9,7
+22023,1629111,Jock Landale,1610612745,HOU,Houston Rockets,Misc,Offensive,0.194,56,0.087,0.304,0.0,0.174,0.739,0.0,0.0,0.174,0.0,23,7,0,2,2

@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.808,6,0.267,1.179,0.577,0.107,0.0,0.071,0.036,0.607,0.577,28,33,15,26,11,MIL
-42023,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.154,6,0.154,0.857,0.545,0.143,0.143,0.143,0.071,0.429,0.545,14,12,6,11,5,MIL
-42023,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.077,6,0.086,0.833,0.3,0.167,0.0,0.167,0.0,0.417,0.3,12,10,3,10,7,MIL

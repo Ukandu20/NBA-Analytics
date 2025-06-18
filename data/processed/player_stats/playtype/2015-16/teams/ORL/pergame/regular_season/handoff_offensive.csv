@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.665,79,0.086,0.941,0.439,0.099,0.119,0.099,0.04,0.416,0.488,1.3,1.2,0.5,1.0,0.6
+22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.449,72,0.086,0.802,0.419,0.028,0.16,0.009,0.0,0.368,0.459,1.5,1.2,0.5,1.2,0.7
+22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.957,79,0.074,1.25,0.571,0.05,0.075,0.0,0.0,0.55,0.657,0.5,0.6,0.3,0.4,0.2
+22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.319,73,0.057,0.75,0.413,0.054,0.143,0.036,0.018,0.375,0.413,0.8,0.6,0.3,0.6,0.4
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.155,78,0.025,0.667,0.294,0.0,0.056,0.0,0.0,0.278,0.353,0.2,0.2,0.1,0.2,0.2
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.267,65,0.009,0.727,0.364,0.0,0.0,0.0,0.0,0.364,0.364,0.2,0.1,0.1,0.2,0.1
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.034,49,0.031,0.381,0.267,0.0,0.286,0.0,0.0,0.19,0.267,0.4,0.2,0.1,0.3,0.2
+22015,203894,Shabazz Napier,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.013,55,0.049,0.308,0.091,0.077,0.077,0.077,0.0,0.154,0.091,0.2,0.1,0.0,0.2,0.2

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1630180,Saddiq Bey,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.365,82,0.071,0.884,0.341,0.042,0.053,0.042,0.021,0.337,0.449,1.0,1.0,0.4,1.1,0.7,DET
-22021,203924,Jerami Grant,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.767,47,0.078,1.101,0.463,0.174,0.072,0.145,0.029,0.507,0.509,1.0,1.6,0.5,1.1,0.6,DET
-22021,1628402,Frank Jackson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.164,53,0.141,0.759,0.333,0.038,0.063,0.038,0.013,0.329,0.396,1.0,1.1,0.5,1.4,0.9,DET
-22021,1630595,Cade Cunningham,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.256,64,0.034,0.822,0.35,0.067,0.044,0.067,0.0,0.378,0.413,1.0,0.6,0.2,0.6,0.4,DET
-22021,1628367,Josh Jackson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.243,39,0.071,0.818,0.412,0.045,0.182,0.045,0.0,0.364,0.471,1.0,0.5,0.2,0.4,0.3,DET
-22021,203585,Rodney McGruder,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.812,51,0.054,1.143,0.5,0.0,0.143,0.0,0.0,0.429,0.667,0.0,0.3,0.1,0.2,0.1,DET
-22021,1628977,Hamidou Diallo,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.032,58,0.016,0.5,0.167,0.3,0.1,0.3,0.0,0.3,0.167,0.0,0.1,0.0,0.1,0.1,DET

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.364,53,0.221,1.014,0.461,0.038,0.057,0.038,0.01,0.45,0.524,3.9,4.0,1.7,3.6,1.9,SAS
-22019,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.816,66,0.198,1.31,0.742,0.085,0.07,0.085,0.028,0.662,0.742,1.1,1.4,0.7,0.9,0.2,SAS
-22019,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.378,67,0.059,1.023,0.425,0.045,0.045,0.023,0.0,0.432,0.513,0.7,0.7,0.3,0.6,0.3,SAS
-22019,1629234,Drew Eubanks,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.968,22,0.18,1.611,0.778,0.056,0.0,0.056,0.056,0.778,0.778,0.8,1.3,0.6,0.8,0.2,SAS
-22019,1626168,Trey Lyles,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.129,63,0.093,0.784,0.364,0.027,0.108,0.027,0.027,0.324,0.424,0.6,0.5,0.2,0.5,0.3,SAS
-22019,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.903,66,0.017,1.417,0.5,0.0,0.0,0.0,0.0,0.5,0.708,0.2,0.3,0.1,0.2,0.1,SAS
-22019,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.855,68,0.016,1.333,0.7,0.0,0.167,0.0,0.0,0.583,0.8,0.2,0.2,0.1,0.1,0.0,SAS

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.598,69,0.141,0.967,0.504,0.139,0.113,0.119,0.04,0.483,0.504,151,146,60,119,59,CLE
-22021,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.379,74,0.159,0.887,0.459,0.193,0.173,0.12,0.02,0.46,0.459,150,133,45,98,53,CLE
-22021,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.787,56,0.143,1.056,0.556,0.196,0.14,0.168,0.009,0.561,0.556,107,113,40,72,32,CLE
-22021,1628374,Lauri Markkanen,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.899,61,0.103,1.165,0.541,0.235,0.071,0.141,0.024,0.6,0.541,85,99,33,61,28,CLE
-22021,1630205,Lamar Stevens,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.036,63,0.033,0.462,0.273,0.0,0.154,0.0,0.0,0.231,0.273,13,6,3,11,8,CLE

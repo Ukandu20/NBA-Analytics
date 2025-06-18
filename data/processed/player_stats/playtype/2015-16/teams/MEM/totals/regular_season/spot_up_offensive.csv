@@ -1,0 +1,19 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.494,76,0.311,0.937,0.333,0.022,0.022,0.015,0.0,0.337,0.477,270,253,86,258,172
+22015,201584,Courtney Lee,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.589,51,0.3,0.98,0.39,0.048,0.041,0.048,0.014,0.395,0.493,147,144,53,136,83
+22015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.904,60,0.283,1.155,0.411,0.017,0.017,0.009,0.0,0.414,0.576,116,134,46,112,66
+22015,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.774,56,0.125,1.064,0.381,0.018,0.018,0.009,0.0,0.385,0.533,109,116,40,105,65
+22015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.176,64,0.233,0.75,0.339,0.064,0.079,0.064,0.007,0.329,0.393,140,105,41,121,80
+22015,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.464,55,0.168,0.923,0.337,0.077,0.058,0.067,0.029,0.346,0.462,104,96,31,92,61
+22015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.324,68,0.1,0.847,0.4,0.036,0.027,0.036,0.009,0.405,0.414,111,94,42,105,63
+22015,201145,Jeff Green,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.189,53,0.179,0.764,0.295,0.049,0.049,0.049,0.008,0.301,0.388,123,94,33,112,79
+22015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.186,78,0.18,0.763,0.343,0.026,0.105,0.018,0.0,0.316,0.419,114,87,34,99,65
+22015,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.128,52,0.105,0.704,0.363,0.01,0.061,0.01,0.0,0.347,0.374,98,69,33,91,58
+22015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.72,26,0.156,1.033,0.5,0.098,0.098,0.098,0.049,0.475,0.529,61,63,26,52,26
+22015,203798,PJ Hairston,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.224,18,0.297,0.787,0.295,0.043,0.043,0.043,0.021,0.298,0.398,47,37,13,44,31
+22015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.897,14,0.216,1.143,0.529,0.048,0.143,0.048,0.0,0.476,0.676,21,24,9,17,8
+22015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.176,27,0.147,0.75,0.304,0.125,0.0,0.125,0.083,0.333,0.304,24,18,7,23,16
+22015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.166,12,0.189,0.739,0.261,0.0,0.0,0.0,0.0,0.261,0.37,23,17,6,23,17
+22015,2757,Beno Udrih,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.981,8,0.211,1.333,0.545,0.0,0.083,0.0,0.0,0.5,0.727,12,16,6,11,5
+22015,203492,Ray McCallum,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.798,10,0.138,1.077,0.385,0.0,0.0,0.0,0.0,0.385,0.538,13,14,5,13,8
+22015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.821,20,0.128,1.091,0.455,0.0,0.0,0.0,0.0,0.455,0.545,11,12,5,11,6

@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.886,15,0.048,0.933,1.0,0.333,0.533,0.067,0.067,0.467,0.01,15,14,3,3,0
+42024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.857,15,0.11,0.923,0.75,0.308,0.385,0.0,0.0,0.538,0.0075,13,12,3,4,1
+42024,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.743,15,0.09,0.769,0.0,0.385,0.538,0.077,0.0,0.385,0.0,13,10,0,1,1
+42024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.5,15,0.045,0.588,0.222,0.176,0.294,0.0,0.0,0.294,0.0027800000000000004,17,10,2,9,7
+42024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.571,15,0.05,0.6,0.0,0.3,0.7,0.0,0.0,0.3,0.0,10,6,0,0,0
+42024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.371,15,0.075,0.5,0.0,0.25,0.5,0.0,0.0,0.25,0.0,12,6,0,3,3

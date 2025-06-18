@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.947,46,0.072,0.6,0.25,0.1,0.1,0.1,0.0,0.3,0.281,20,12,4,16,12,DEN
-22024,1629618,Jalen Pickett,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.662,41,0.085,0.842,0.333,0.053,0.158,0.053,0.0,0.316,0.467,19,16,5,15,10,DEN
-22024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.843,50,0.063,0.71,0.321,0.032,0.065,0.032,0.0,0.323,0.375,31,22,9,28,19,DEN
-22024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.412,77,0.074,0.961,0.432,0.078,0.059,0.078,0.0,0.451,0.455,51,49,19,44,25,DEN
-22024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.729,73,0.104,0.809,0.393,0.044,0.176,0.044,0.044,0.324,0.473,68,55,22,56,34,DEN
-22024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.265,65,0.077,1.073,0.477,0.127,0.073,0.127,0.0,0.509,0.557,55,59,21,44,23,DEN
-22024,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.489,67,0.074,0.925,0.393,0.045,0.045,0.045,0.0,0.403,0.459,67,62,24,61,37,DEN
-22024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Handoff,Defensive,0.42,79,0.111,0.955,0.416,0.082,0.136,0.082,0.027,0.391,0.511,110,105,37,89,52,DEN

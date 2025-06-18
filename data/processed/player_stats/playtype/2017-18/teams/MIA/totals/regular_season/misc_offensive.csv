@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Misc,Offensive,0.629,76,0.103,0.584,0.591,0.169,0.584,0.011,0.0,0.315,0.00705,89,52,13,22,9
+22017,201609,Goran Dragic,1610612748,MIA,Miami Heat,Misc,Offensive,0.957,75,0.038,0.904,0.368,0.365,0.269,0.038,0.0,0.481,0.00395,52,47,7,19,12
+22017,201949,James Johnson,1610612748,MIA,Miami Heat,Misc,Offensive,0.589,73,0.086,0.563,0.476,0.225,0.493,0.014,0.01,0.296,0.005,71,40,10,21,11
+22017,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Misc,Offensive,0.64,81,0.052,0.589,0.4,0.25,0.571,0.036,0.0,0.321,0.004,56,33,4,10,6
+22017,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Misc,Offensive,0.973,72,0.037,0.968,0.455,0.323,0.323,0.032,0.0,0.484,0.00545,31,30,5,11,6
+22017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Misc,Offensive,0.462,54,0.082,0.475,0.636,0.18,0.656,0.049,0.02,0.279,0.00636,61,29,7,11,4
+22017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Misc,Offensive,0.374,68,0.085,0.423,0.304,0.096,0.462,0.038,0.0,0.231,0.0030399999999999997,52,22,7,23,16
+22017,201961,Wayne Ellington,1610612748,MIA,Miami Heat,Misc,Offensive,0.686,77,0.034,0.615,0.231,0.192,0.308,0.038,0.0,0.308,0.00308,26,16,3,13,10
+22017,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Misc,Offensive,0.286,69,0.089,0.372,0.125,0.256,0.558,0.023,0.0,0.256,0.00125,43,16,1,8,7
+22017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Misc,Offensive,0.532,21,0.06,0.526,0.5,0.105,0.474,0.0,0.0,0.316,0.005,19,10,4,8,4
+22017,203079,Dion Waiters,1610612748,MIA,Miami Heat,Misc,Offensive,0.317,30,0.025,0.385,0.2,0.154,0.462,0.077,0.0,0.231,0.002,13,5,1,5,4
+22017,1626175,Jordan Mickey,1610612748,MIA,Miami Heat,Misc,Offensive,0.264,23,0.13,0.357,0.667,0.071,0.786,0.071,0.07,0.143,0.006670000000000001,14,5,2,3,1

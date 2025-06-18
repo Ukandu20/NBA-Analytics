@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.737,82,0.207,1.079,0.431,0.054,0.045,0.054,0.018,0.432,0.541,331,357,131,304,173
+22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.745,71,0.191,1.085,0.409,0.093,0.065,0.081,0.028,0.421,0.544,247,268,88,215,127
+22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.874,75,0.419,1.173,0.441,0.03,0.04,0.03,0.0,0.441,0.606,202,237,83,188,105
+22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.39,75,0.126,0.921,0.407,0.109,0.096,0.1,0.017,0.418,0.456,239,220,79,194,115
+22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.687,48,0.224,1.059,0.439,0.081,0.081,0.059,0.007,0.444,0.548,135,143,50,114,64
+22017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.572,31,0.238,1.01,0.416,0.021,0.042,0.031,0.0,0.406,0.528,96,97,37,89,52
+22017,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.325,53,0.386,0.882,0.345,0.043,0.065,0.032,0.011,0.344,0.452,93,82,29,84,55
+22017,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.503,51,0.431,0.987,0.366,0.013,0.077,0.013,0.0,0.346,0.528,78,77,26,71,45
+22017,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.274,38,0.282,0.847,0.31,0.0,0.017,0.0,0.0,0.305,0.431,59,50,18,58,40
+22017,202732,DeAndre Liggins,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.488,31,0.55,0.977,0.39,0.023,0.068,0.023,0.023,0.364,0.512,44,43,16,41,25
+22017,203141,Mirza Teletovic,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.685,10,0.531,1.059,0.4,0.0,0.118,0.0,0.0,0.353,0.6,34,36,12,30,18
+22017,203089,John Henson,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.118,76,0.064,0.69,0.317,0.048,0.0,0.048,0.024,0.333,0.329,42,29,13,41,28
+22017,201943,Brandon Jennings,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.246,14,0.245,0.826,0.35,0.043,0.13,0.043,0.043,0.304,0.45,23,19,7,20,13
+22017,203498,Shabazz Muhammad,1610612749,MIL,Milwaukee Bucks,Spotup,Offensive,0.537,11,0.16,1.0,0.417,0.0,0.0,0.0,0.0,0.417,0.5,12,12,5,12,7

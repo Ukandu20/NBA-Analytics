@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.697,69,0.382,1.023,0.412,0.07,0.086,0.053,0.017,0.401,0.548,302,309,107,260,153
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.424,65,0.164,0.909,0.399,0.104,0.091,0.081,0.019,0.409,0.466,308,280,101,253,152
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.431,70,0.195,0.91,0.374,0.057,0.066,0.057,0.0,0.385,0.463,244,222,80,214,134
+22015,201954,Darren Collison,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.823,74,0.184,1.093,0.429,0.038,0.044,0.038,0.011,0.426,0.553,183,200,73,170,97
+22015,200765,Rajon Rondo,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.413,72,0.154,0.903,0.354,0.0,0.057,0.006,0.0,0.331,0.482,175,158,58,164,106
+22015,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.306,68,0.277,0.843,0.328,0.078,0.151,0.072,0.018,0.319,0.458,166,140,43,131,88
+22015,201158,Marco Belinelli,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.268,68,0.203,0.814,0.294,0.032,0.051,0.026,0.0,0.301,0.406,156,127,42,143,101
+22015,203552,Seth Curry,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.951,44,0.27,1.237,0.492,0.039,0.105,0.039,0.0,0.461,0.669,76,94,32,65,33
+22015,203112,Quincy Acy,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.93,59,0.267,1.181,0.5,0.042,0.042,0.042,0.028,0.486,0.603,72,85,34,68,34
+22015,202341,James Anderson,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.191,51,0.329,0.766,0.304,0.013,0.091,0.013,0.0,0.286,0.42,77,59,21,69,48
+22015,2406,Caron Butler,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.485,17,0.469,0.933,0.393,0.1,0.0,0.1,0.033,0.433,0.411,30,28,11,28,17
+22015,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Spotup,Offensive,0.056,66,0.045,0.6,0.353,0.05,0.1,0.05,0.0,0.3,0.353,20,12,6,17,11

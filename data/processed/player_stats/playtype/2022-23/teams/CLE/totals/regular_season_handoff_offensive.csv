@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.65,68,0.066,1.035,0.412,0.088,0.07,0.07,0.018,0.421,0.5,114,118,40,97,57,CLE
-22022,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.704,69,0.06,1.068,0.471,0.114,0.114,0.102,0.023,0.466,0.543,88,94,33,70,37,CLE
-22022,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.525,75,0.057,0.943,0.378,0.208,0.113,0.17,0.019,0.434,0.432,53,50,14,37,23,CLE
-22022,1626224,Cedi Osman,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.086,77,0.054,0.647,0.28,0.147,0.147,0.118,0.029,0.294,0.38,34,22,7,25,18,CLE
-22022,203526,Raul Neto,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.821,48,0.095,1.143,0.545,0.143,0.143,0.143,0.071,0.5,0.591,14,16,6,11,5,CLE
-22022,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.171,33,0.08,0.722,0.357,0.056,0.167,0.056,0.0,0.333,0.393,18,13,5,14,9,CLE

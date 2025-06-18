@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.419,18,0.223,0.846,0.476,0.038,0.154,0.038,0.0,0.423,0.476,52,44,20,42,22
+42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Postup,Offensive,0.387,18,0.101,0.813,0.5,0.125,0.188,0.125,0.063,0.438,0.5,16,13,6,12,6
+42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.034,1.25,0.667,0.25,0.0,0.125,0.0,0.75,0.667,8,10,4,6,2
+42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.055,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,5,4,2,5,3
+42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.083,0.25,0.0,0.25,0.25,0.188,0.0,0.188,0.0,16,4,0,8,8
+42016,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,2,0.333,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0
+42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,11,0.121,0.5,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,2,0,3,3
+42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,14,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,13,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

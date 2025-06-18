@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.0,7,0.078,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,1.0,0.0,1.0,1.0,0.0,SAC
-42022,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.0,7,0.03,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,SAC
-42022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.0,7,0.125,0.875,0.38,0.0,0.0,0.0,0.0,0.38,0.44,1.0,1.0,0.0,1.0,1.0,SAC
-42022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.0,7,0.101,1.125,0.6,0.12,0.38,0.12,0.12,0.38,0.8,1.0,1.0,1.0,1.0,0.0,SAC
-42022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.833,7,0.235,0.625,0.25,0.0,0.0,0.0,0.0,0.25,0.31,2.0,1.0,0.0,2.0,2.0,SAC
-42022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.333,7,0.182,1.083,0.5,0.17,0.17,0.08,0.0,0.42,0.69,2.0,2.0,0.0,1.0,1.0,SAC
-42022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.533,7,0.159,0.941,0.42,0.12,0.18,0.06,0.0,0.41,0.54,2.0,2.0,1.0,2.0,1.0,SAC
-42022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Handoff,Defensive,0.0,4,0.227,1.7,0.75,0.2,0.0,0.2,0.0,0.7,0.94,2.0,4.0,2.0,2.0,0.0,SAC

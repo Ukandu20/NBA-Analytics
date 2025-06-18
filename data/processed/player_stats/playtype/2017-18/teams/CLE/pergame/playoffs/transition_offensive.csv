@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.682,22,0.149,1.202,0.68,0.154,0.163,0.144,0.038,0.587,0.006959999999999999,4.7,5.7,2.3,3.4,1.1
+42017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.871,22,0.183,1.303,0.62,0.333,0.091,0.333,0.061,0.636,0.006670000000000001,1.5,2.0,0.6,1.0,0.4
+42017,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.35,22,0.187,1.0,0.37,0.05,0.075,0.05,0.0,0.375,0.0051400000000000005,1.8,1.8,0.6,1.6,1.0
+42017,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.854,17,0.191,1.286,0.75,0.048,0.19,0.048,0.0,0.619,0.00781,1.2,1.6,0.7,0.9,0.2
+42017,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.35,22,0.147,1.0,0.35,0.0,0.042,0.0,0.0,0.333,0.00522,1.1,1.1,0.4,1.0,0.7
+42017,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.35,19,0.13,1.0,0.5,0.13,0.087,0.087,0.0,0.522,0.005,1.2,1.2,0.5,0.9,0.5
+42017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.435,21,0.052,1.056,0.36,0.167,0.111,0.167,0.056,0.389,0.00464,0.9,0.9,0.2,0.7,0.4
+42017,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.8,20,0.126,1.273,0.86,0.182,0.273,0.182,0.091,0.636,0.00857,0.6,0.7,0.3,0.4,0.1
+42017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.0,19,0.057,1.333,0.67,0.167,0.0,0.167,0.167,0.667,0.006670000000000001,0.3,0.4,0.2,0.3,0.1
+42017,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.0,19,0.145,0.35,0.16,0.05,0.05,0.05,0.05,0.15,0.00158,1.1,0.4,0.2,1.0,0.8
+42017,1627790,Ante Zizic,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.0,8,0.067,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.3,0.1,0.1,0.0
+42017,101181,Jose Calderon,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.0,13,0.156,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.0025,0.4,0.2,0.1,0.3,0.2

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.531,52,0.166,1.138,0.562,0.233,0.129,0.233,0.13,0.534,0.584,116,132,50,89,39,POR
-22022,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.71,78,0.21,1.24,0.679,0.146,0.083,0.146,0.04,0.635,0.686,96,119,53,78,25,POR
-22022,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.344,62,0.106,1.022,0.541,0.087,0.13,0.109,0.04,0.478,0.581,46,47,20,37,17,POR
-22022,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.351,63,0.035,1.024,0.5,0.146,0.146,0.122,0.02,0.488,0.55,41,42,15,30,15,POR
-22022,1631133,Jabari Walker,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.302,56,0.149,1.0,0.455,0.081,0.027,0.054,0.0,0.486,0.5,37,37,15,33,18,POR

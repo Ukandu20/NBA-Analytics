@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1626157,Karl-Anthony Towns,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.8,18,0.089,1.375,0.679,0.094,0.063,0.094,0.031,0.656,0.696,32,44,19,28,9,NYK
-42024,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.231,18,0.418,1.0,0.533,0.184,0.053,0.158,0.026,0.526,0.533,38,38,16,30,14,NYK
-42024,1628969,Mikal Bridges,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.929,18,0.032,1.4,0.778,0.0,0.1,0.0,0.0,0.7,0.778,10,14,7,9,2,NYK
-42024,1628404,Josh Hart,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.231,18,0.048,1.0,0.714,0.0,0.3,0.0,0.0,0.5,0.714,10,10,5,7,2,NYK
-42024,1628384,OG Anunoby,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.231,18,0.033,1.0,0.5,0.2,0.2,0.2,0.0,0.5,0.5,10,10,3,6,3,NYK

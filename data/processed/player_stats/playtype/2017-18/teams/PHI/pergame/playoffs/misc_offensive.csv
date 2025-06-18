@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.629,10,0.133,0.692,0.4,0.346,0.462,0.038,0.0,0.423,0.004,2.6,1.8,0.2,0.5,0.3
+42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.829,10,0.073,0.833,0.0,0.667,0.167,0.0,0.0,0.5,0.0,1.2,1.0,0.0,0.2,0.2
+42017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.066,0.875,0.333,0.25,0.375,0.0,0.0,0.375,0.005,0.8,0.7,0.1,0.3,0.2
+42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.08,0.875,1.0,0.375,0.5,0.0,0.0,0.5,0.015,0.8,0.7,0.1,0.1,0.0
+42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.046,0.75,1.0,0.25,0.625,0.0,0.0,0.375,0.01,0.8,0.6,0.1,0.1,0.0
+42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.314,8,0.072,0.429,1.0,0.214,0.714,0.0,0.0,0.286,0.01,1.8,0.8,0.1,0.1,0.0
+42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.039,1.25,1.0,0.75,0.25,0.25,0.25,0.5,0.01,0.4,0.5,0.1,0.1,0.0
+42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.163,0.571,0.667,0.0,0.571,0.0,0.0,0.286,0.006670000000000001,0.7,0.4,0.2,0.3,0.1
+42017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,7,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,3,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0
+42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,8,0.038,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0

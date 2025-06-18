@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,101127,Jarrett Jack,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.631,62,0.502,0.858,0.464,0.061,0.159,0.054,0.014,0.416,0.477,296,254,109,235,126
+22017,201584,Courtney Lee,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.672,76,0.252,0.874,0.433,0.049,0.108,0.054,0.0,0.413,0.463,223,195,81,187,106
+22017,203504,Trey Burke,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.873,36,0.422,0.979,0.513,0.068,0.126,0.068,0.026,0.468,0.538,190,186,81,158,77
+22017,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.242,78,0.395,0.672,0.369,0.054,0.197,0.035,0.004,0.324,0.392,259,174,72,195,123
+22017,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.395,59,0.189,0.762,0.359,0.083,0.14,0.073,0.016,0.347,0.408,193,147,55,153,98
+22017,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.166,22,0.428,0.619,0.31,0.106,0.133,0.08,0.009,0.327,0.322,113,70,27,87,60
+22017,201196,Ramon Sessions,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.115,13,0.649,0.563,0.257,0.125,0.167,0.104,0.021,0.292,0.257,48,27,9,35,26
+22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.899,74,0.026,1.0,0.55,0.115,0.192,0.115,0.077,0.462,0.575,26,26,11,20,9
+22017,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.064,44,0.124,0.435,0.222,0.13,0.13,0.13,0.043,0.261,0.222,23,10,4,18,14
+22017,203926,Doug McDermott,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.096,55,0.039,0.533,0.286,0.0,0.067,0.0,0.0,0.267,0.286,15,8,4,14,10
+22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.051,49,0.014,0.4,0.273,0.0,0.267,0.0,0.0,0.2,0.273,15,6,3,11,8
+22017,1627758,Ron Baker,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.029,29,0.211,0.316,0.091,0.105,0.316,0.053,0.0,0.158,0.136,19,6,1,11,10
+22017,1627786,Troy Williams,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.022,17,0.078,0.3,0.167,0.0,0.4,0.0,0.0,0.1,0.25,10,3,1,6,5

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.252,64,0.09,0.85,0.36,0.047,0.063,0.047,0.008,0.362,0.425,127,108,41,114,73,CHA
-22022,1626162,Kelly Oubre Jr.,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.322,48,0.096,0.892,0.369,0.097,0.032,0.097,0.032,0.398,0.429,93,83,31,84,53,CHA
-22022,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.189,50,0.09,0.791,0.375,0.134,0.164,0.119,0.015,0.388,0.417,67,53,18,48,30,CHA
-22022,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.363,73,0.04,0.913,0.386,0.022,0.043,0.022,0.022,0.37,0.466,46,42,17,44,27,CHA
-22022,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.478,36,0.023,0.952,0.368,0.095,0.048,0.095,0.048,0.381,0.447,21,20,7,19,12,CHA
-22022,1629004,Svi Mykhailiuk,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.057,19,0.112,0.591,0.263,0.091,0.045,0.091,0.0,0.318,0.263,22,13,5,19,14,CHA
-22022,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.04,56,0.026,0.563,0.2,0.125,0.25,0.125,0.0,0.25,0.25,16,9,2,10,8,CHA
-22022,1631121,Bryce McGowens,1610612766,CHA,Charlotte Hornets,OffScreen,Offensive,0.062,46,0.046,0.615,0.231,0.077,0.0,0.077,0.077,0.231,0.269,13,8,3,13,10,CHA

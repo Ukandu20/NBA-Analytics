@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,9,0.051,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,0.3,0.0,0.1,0.2,0.1,BOS
-42018,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,4,0.143,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,BOS
-42018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,2,0.182,1.5,1.0,0.0,0.5,0.0,0.0,0.5,1.5,1.0,2.0,0.5,0.5,0.0,BOS
-42018,201143,Al Horford,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,9,0.02,1.0,0.33,0.0,0.0,0.0,0.0,0.33,0.5,0.3,0.0,0.1,0.3,0.2,BOS
-42018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,9,0.091,0.5,0.0,0.25,0.12,0.25,0.0,0.25,0.0,0.9,0.0,0.0,0.6,0.6,BOS
-42018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,9,0.065,0.833,0.33,0.0,0.0,0.0,0.0,0.33,0.42,0.7,1.0,0.2,0.7,0.4,BOS
-42018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.0,9,0.076,1.833,0.5,0.33,0.0,0.17,0.0,0.67,0.75,0.7,1.0,0.2,0.4,0.2,BOS
-42018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffScreen,Defensive,0.444,9,0.111,1.091,0.45,0.0,0.0,0.0,0.0,0.45,0.55,1.2,1.0,0.6,1.2,0.7,BOS

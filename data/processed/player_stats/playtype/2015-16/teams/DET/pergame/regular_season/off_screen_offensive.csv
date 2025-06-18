@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.154,76,0.081,0.681,0.302,0.03,0.05,0.021,0.0,0.31,0.349,1.2,0.8,0.3,1.1,0.8
+22015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.39,80,0.048,0.845,0.315,0.05,0.03,0.034,0.017,0.33,0.417,0.7,0.6,0.2,0.7,0.5
+22015,101141,Ersan Ilyasova,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.541,52,0.064,0.949,0.389,0.05,0.03,0.051,0.0,0.38,0.486,0.8,0.7,0.3,0.7,0.4
+22015,201229,Anthony Tolliver,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.37,72,0.082,0.839,0.333,0.13,0.03,0.129,0.032,0.35,0.426,0.4,0.4,0.1,0.4,0.3
+22015,2581,Steve Blake,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.959,58,0.036,1.333,0.545,0.0,0.08,0.0,0.0,0.5,0.727,0.2,0.3,0.1,0.2,0.1
+22015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.171,79,0.012,0.7,0.25,0.1,0.1,0.1,0.0,0.3,0.281,0.3,0.2,0.1,0.2,0.2
+22015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.142,73,0.024,0.667,0.313,0.0,0.11,0.0,0.0,0.28,0.375,0.2,0.2,0.1,0.2,0.2
+22015,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.283,27,0.024,0.8,0.25,0.2,0.0,0.2,0.0,0.4,0.25,0.4,0.3,0.1,0.3,0.2

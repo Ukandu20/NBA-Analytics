@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.912,81,0.017,0.632,0.313,0.0,0.158,0.0,0.0,0.263,0.375,0.2,0.1,0.1,0.2,0.1,OKC
-22023,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.593,75,0.048,0.957,0.381,0.0,0.087,0.0,0.0,0.348,0.524,0.3,0.3,0.1,0.3,0.2,OKC
-22023,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.033,65,0.041,1.571,0.615,0.071,0.071,0.071,0.071,0.571,0.846,0.2,0.3,0.1,0.2,0.1,OKC
-22023,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.122,76,0.042,1.316,0.563,0.053,0.105,0.0,0.0,0.474,0.781,0.3,0.3,0.1,0.2,0.1,OKC
-22023,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.545,80,0.049,1.0,0.393,0.065,0.065,0.065,0.032,0.387,0.518,0.4,0.4,0.1,0.4,0.2,OKC
-22023,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.487,76,0.041,1.027,0.467,0.054,0.162,0.054,0.027,0.405,0.6,0.5,0.5,0.2,0.4,0.2,OKC
-22023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.89,72,0.096,0.667,0.298,0.061,0.091,0.061,0.015,0.303,0.351,0.9,0.6,0.2,0.8,0.6,OKC
-22023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,OffScreen,Defensive,0.505,82,0.071,1.019,0.422,0.058,0.096,0.058,0.019,0.404,0.533,0.6,0.6,0.2,0.5,0.3,OKC

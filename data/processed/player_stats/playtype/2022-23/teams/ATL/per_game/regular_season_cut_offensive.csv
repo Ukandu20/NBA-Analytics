@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.749,80,0.227,1.417,0.715,0.166,0.053,0.166,0.033,0.715,0.715,1.9,2.7,1.1,1.5,0.4,ATL
-22022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.68,65,0.226,1.388,0.725,0.088,0.034,0.088,0.014,0.707,0.725,2.3,3.1,1.5,2.0,0.6,ATL
-22022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.702,71,0.111,1.396,0.771,0.198,0.104,0.198,0.031,0.729,0.771,1.4,1.9,0.8,1.0,0.2,ATL
-22022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.28,70,0.116,1.196,0.6,0.13,0.043,0.13,0.043,0.609,0.6,0.7,0.8,0.3,0.6,0.2,ATL
-22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.457,67,0.04,1.275,0.655,0.175,0.1,0.15,0.0,0.65,0.655,0.6,0.8,0.3,0.4,0.1,ATL
-22022,1631100,AJ Griffin,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.773,72,0.047,1.429,0.76,0.071,0.107,0.071,0.071,0.679,0.76,0.4,0.6,0.3,0.3,0.1,ATL
-22022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.335,74,0.015,1.217,0.619,0.043,0.043,0.043,0.0,0.609,0.619,0.3,0.4,0.2,0.3,0.1,ATL
-22022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.03,73,0.006,0.833,0.375,0.167,0.167,0.167,0.0,0.417,0.375,0.2,0.1,0.0,0.1,0.1,ATL

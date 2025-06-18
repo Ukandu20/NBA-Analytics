@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.709,73,0.305,1.054,0.376,0.054,0.035,0.048,0.003,0.392,0.53,314,331,108,287,179
+22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.745,79,0.148,1.076,0.431,0.067,0.045,0.063,0.013,0.442,0.535,224,241,87,202,115
+22016,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.821,70,0.254,1.133,0.433,0.033,0.048,0.033,0.005,0.429,0.58,210,238,84,194,110
+22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.862,54,0.247,1.153,0.459,0.032,0.021,0.026,0.016,0.458,0.571,190,219,84,183,99
+22016,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.287,81,0.521,0.858,0.332,0.033,0.061,0.033,0.005,0.325,0.451,212,182,64,193,129
+22016,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.807,65,0.288,1.122,0.372,0.084,0.008,0.084,0.015,0.412,0.521,131,147,45,121,76
+22016,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.679,51,0.368,1.038,0.402,0.107,0.053,0.107,0.015,0.435,0.513,131,136,45,112,67
+22016,1627812,Yogi Ferrell,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.726,36,0.185,1.063,0.375,0.088,0.025,0.088,0.013,0.413,0.507,80,85,27,72,45
+22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.596,40,0.133,1.0,0.375,0.026,0.039,0.026,0.0,0.377,0.514,77,77,27,72,45
+22016,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.952,35,0.124,1.264,0.479,0.057,0.038,0.057,0.0,0.491,0.635,53,67,23,48,25
+22016,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.273,77,0.144,0.853,0.345,0.088,0.059,0.074,0.0,0.382,0.397,68,58,20,58,38
+22016,1626780,Jonathan Gibson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.674,17,0.208,1.037,0.36,0.037,0.037,0.037,0.0,0.37,0.52,27,28,9,25,16
+22016,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.085,73,0.068,0.643,0.364,0.0,0.214,0.0,0.0,0.286,0.409,14,9,4,11,7

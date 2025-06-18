@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.519,20,0.097,1.019,0.543,0.094,0.075,0.094,0.038,0.509,0.543,53,54,25,46,21,DEN
-42022,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.407,20,0.122,0.967,0.481,0.067,0.033,0.033,0.0,0.5,0.481,30,29,13,27,14,DEN
-42022,1628971,Bruce Brown,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,1.0,20,0.045,1.6,0.778,0.1,0.0,0.1,0.0,0.8,0.778,10,16,7,9,2,DEN
-42022,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.148,20,0.059,0.667,0.357,0.0,0.067,0.0,0.0,0.333,0.357,15,10,5,14,9,DEN
-42022,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.185,20,0.02,0.7,0.333,0.1,0.1,0.1,0.1,0.3,0.333,10,7,3,9,6,DEN
-42022,201145,Jeff Green,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.0,20,0.038,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,3,2,1,3,2,DEN
-42022,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.0,19,0.078,0.4,0.333,0.0,0.4,0.0,0.0,0.2,0.333,5,2,1,3,2,DEN
-42022,203484,Kentavious Caldwell-Pope,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.0,20,0.026,0.4,0.25,0.2,0.0,0.2,0.0,0.2,0.25,5,2,1,4,3,DEN

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.942,73,0.057,0.91,0.429,0.342,0.36,0.108,0.018,0.459,0.00471,111,101,15,35,20
+22022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.844,74,0.038,0.746,0.684,0.169,0.525,0.034,0.017,0.373,0.0076300000000000005,59,44,13,19,6
+22022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.899,71,0.038,0.818,0.571,0.303,0.485,0.121,0.0,0.424,0.00714,33,27,4,7,3
+22022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.271,80,0.099,0.379,0.5,0.136,0.697,0.015,0.015,0.212,0.005,66,25,6,12,6
+22022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.343,65,0.075,0.429,0.667,0.082,0.673,0.02,0.0,0.245,0.006670000000000001,49,21,8,12,4
+22022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.55,67,0.03,0.533,0.4,0.267,0.567,0.033,0.0,0.3,0.004,30,16,2,5,3
+22022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.997,25,0.046,1.25,0.75,0.083,0.25,0.0,0.0,0.583,0.00875,12,15,6,8,2
+22022,1631100,AJ Griffin,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.47,72,0.027,0.5,0.4,0.125,0.563,0.063,0.0,0.25,0.004,16,8,2,5,3
+22022,1628988,Aaron Holiday,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.405,63,0.056,0.467,0.333,0.2,0.6,0.0,0.0,0.267,0.00333,15,7,1,3,2
+22022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.227,54,0.028,0.35,0.4,0.1,0.65,0.05,0.0,0.2,0.005,20,7,2,5,3
+22022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.01,70,0.051,0.1,0.143,0.0,0.65,0.0,0.0,0.05,0.0014299999999999998,20,2,1,7,6

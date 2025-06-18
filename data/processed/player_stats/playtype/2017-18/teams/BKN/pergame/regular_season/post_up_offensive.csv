@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.642,68,0.15,0.925,0.444,0.184,0.116,0.15,0.034,0.469,0.444,2.2,2.0,0.7,1.6,0.9
+22017,1626143,Jahlil Okafor,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.25,26,0.261,0.756,0.441,0.024,0.146,0.024,0.0,0.39,0.441,1.6,1.2,0.6,1.3,0.7
+22017,202344,Trevor Booker,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.542,18,0.171,0.882,0.517,0.088,0.088,0.059,0.029,0.441,0.517,1.9,1.7,0.8,1.6,0.8
+22017,202389,Timofey Mozgov,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.114,31,0.158,0.636,0.75,0.045,0.591,0.0,0.0,0.318,0.75,0.7,0.5,0.2,0.3,0.1
+22017,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.637,48,0.015,0.923,0.455,0.154,0.0,0.231,0.077,0.462,0.455,0.3,0.3,0.1,0.2,0.1
+22017,203092,Tyler Zeller,1610612751,BKN,Brooklyn Nets,Postup,Offensive,0.343,42,0.052,0.8,0.333,0.267,0.067,0.2,0.133,0.4,0.333,0.4,0.3,0.1,0.3,0.2

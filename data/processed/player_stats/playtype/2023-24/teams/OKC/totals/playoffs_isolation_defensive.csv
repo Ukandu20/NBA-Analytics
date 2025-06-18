@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.984,10,0.172,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,15,6,3,12,9,OKC
-42023,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.969,10,0.073,0.5,0.3,0.0,0.167,0.0,0.0,0.25,0.3,12,6,3,10,7,OKC
-42023,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Defensive,0.726,10,0.12,0.769,0.5,0.0,0.231,0.0,0.0,0.385,0.5,13,10,5,10,5,OKC

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202331,Paul George,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.725,75,0.175,0.94,0.443,0.127,0.1,0.103,0.02,0.457,0.458,300,282,105,237,132
+22016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.844,82,0.149,1.015,0.456,0.175,0.082,0.16,0.031,0.49,0.48,194,197,68,149,81
+22016,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.773,39,0.133,0.978,0.382,0.239,0.043,0.239,0.043,0.478,0.426,46,45,13,34,21
+22016,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.488,74,0.052,0.821,0.433,0.077,0.154,0.077,0.0,0.41,0.467,39,32,13,30,17
+22016,201166,Aaron Brooks,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.381,65,0.11,0.762,0.364,0.119,0.119,0.119,0.024,0.381,0.379,42,32,12,33,21
+22016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.826,81,0.021,1.0,0.4,0.13,0.0,0.087,0.0,0.478,0.425,23,23,8,20,12
+22016,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.667,6,0.214,0.917,0.417,0.083,0.0,0.083,0.083,0.417,0.458,12,11,5,12,7
+22016,2744,Al Jefferson,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.173,66,0.018,0.6,0.222,0.1,0.0,0.1,0.0,0.3,0.222,10,6,2,9,7

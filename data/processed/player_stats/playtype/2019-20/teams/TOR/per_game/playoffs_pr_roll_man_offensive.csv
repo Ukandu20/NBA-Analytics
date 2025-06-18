@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.815,11,0.279,1.389,0.594,0.056,0.056,0.056,0.0,0.58,0.719,3.3,4.5,1.7,2.9,1.2,TOR
-42019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.593,11,0.318,1.185,0.545,0.185,0.074,0.185,0.074,0.56,0.591,2.5,2.9,1.1,2.0,0.9,TOR
-42019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,11,0.013,2.0,0.667,0.0,0.0,0.0,0.0,0.67,1.0,0.3,0.5,0.2,0.3,0.1,TOR
-42019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,11,0.018,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,TOR
-42019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,11,0.026,1.0,0.5,0.333,0.0,0.333,0.0,0.33,0.75,0.3,0.3,0.1,0.2,0.1,TOR
-42019,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,7,0.077,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.3,0.1,0.1,0.0,TOR

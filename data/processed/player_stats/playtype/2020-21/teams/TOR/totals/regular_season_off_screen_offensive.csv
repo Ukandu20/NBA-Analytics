@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.619,52,0.07,1.041,0.426,0.055,0.11,0.068,0.014,0.397,0.582,73,76,26,61,35,TOR
-22020,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.5,42,0.099,0.971,0.407,0.071,0.157,0.071,0.0,0.386,0.546,70,68,22,54,32,TOR
-22020,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.581,17,0.181,1.019,0.4,0.038,0.0,0.038,0.0,0.423,0.5,52,53,20,50,30,TOR
-22020,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.586,46,0.062,1.02,0.364,0.061,0.041,0.061,0.0,0.388,0.5,49,50,16,44,28,TOR
-22020,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.798,35,0.073,1.167,0.412,0.056,0.0,0.056,0.0,0.444,0.559,18,21,7,17,10,TOR
-22020,1628778,Paul Watson,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,1.0,27,0.105,2.0,0.667,0.1,0.0,0.1,0.0,0.7,1.0,10,20,6,9,3,TOR
-22020,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.467,43,0.031,0.95,0.368,0.0,0.05,0.0,0.0,0.35,0.5,20,19,7,19,12,TOR
-22020,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.029,56,0.013,0.438,0.231,0.0,0.188,0.0,0.0,0.188,0.269,16,7,3,13,10,TOR

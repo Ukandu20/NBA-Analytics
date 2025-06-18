@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Cut,Offensive,0.457,81,0.153,1.215,0.667,0.188,0.059,0.188,0.054,0.634,0.667,2.3,2.8,1.2,1.9,0.6
+22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,Cut,Offensive,0.931,75,0.111,1.548,0.743,0.214,0.024,0.214,0.071,0.762,0.743,1.1,1.7,0.7,0.9,0.2
+22016,203382,Aron Baynes,1610612765,DET,Detroit Pistons,Cut,Offensive,0.463,75,0.207,1.218,0.582,0.128,0.026,0.128,0.013,0.615,0.582,1.0,1.3,0.5,0.9,0.4
+22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Cut,Offensive,0.954,82,0.03,1.579,0.731,0.342,0.0,0.342,0.026,0.816,0.731,0.5,0.7,0.2,0.3,0.1
+22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Cut,Offensive,0.191,79,0.025,1.069,0.522,0.172,0.069,0.172,0.034,0.552,0.522,0.4,0.4,0.2,0.3,0.1
+22016,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Cut,Offensive,0.293,76,0.022,1.125,0.579,0.125,0.125,0.125,0.042,0.542,0.579,0.3,0.4,0.1,0.3,0.1
+22016,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Cut,Offensive,0.172,31,0.121,1.059,0.5,0.059,0.0,0.059,0.0,0.529,0.5,0.5,0.6,0.3,0.5,0.3

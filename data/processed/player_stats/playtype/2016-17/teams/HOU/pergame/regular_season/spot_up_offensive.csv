@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.667,80,0.402,1.035,0.371,0.038,0.054,0.032,0.003,0.37,0.532,4.7,4.8,1.6,4.3,2.7
+22016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.644,75,0.285,1.02,0.368,0.02,0.052,0.017,0.009,0.356,0.528,4.6,4.7,1.6,4.3,2.7
+22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.874,72,0.317,1.159,0.405,0.049,0.021,0.053,0.007,0.42,0.576,3.9,4.6,1.5,3.7,2.2
+22016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.798,67,0.326,1.117,0.427,0.04,0.072,0.036,0.004,0.413,0.595,3.3,3.7,1.3,3.0,1.7
+22016,1626155,Sam Dekker,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.305,77,0.389,0.865,0.333,0.031,0.047,0.031,0.01,0.326,0.447,2.5,2.2,0.8,2.3,1.6
+22016,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.906,81,0.05,1.198,0.411,0.06,0.026,0.06,0.009,0.431,0.598,1.4,1.7,0.5,1.3,0.8
+22016,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.221,58,0.396,0.818,0.327,0.036,0.064,0.036,0.018,0.318,0.426,1.9,1.6,0.6,1.7,1.2
+22016,101150,Lou Williams,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.533,23,0.197,0.971,0.367,0.087,0.072,0.087,0.029,0.377,0.492,3.0,2.9,1.0,2.6,1.7
+22016,2403,Nene,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.596,67,0.07,1.0,0.487,0.0,0.0,0.0,0.0,0.487,0.5,0.6,0.6,0.3,0.6,0.3
+22016,1627786,Troy Williams,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.345,6,0.333,0.889,0.294,0.056,0.0,0.056,0.0,0.333,0.441,3.0,2.7,0.8,2.8,2.0
+22016,1626149,Montrezl Harrell,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.092,58,0.056,0.667,0.318,0.083,0.0,0.042,0.0,0.375,0.318,0.4,0.3,0.1,0.4,0.3

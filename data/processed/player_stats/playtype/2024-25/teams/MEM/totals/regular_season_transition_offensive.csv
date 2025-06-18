@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1642377,Jaylen Wells,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.496,79,0.242,1.124,0.458,0.103,0.072,0.088,0.031,0.459,0.578,194,218,76,166,90,MEM
-22024,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.768,65,0.217,1.248,0.515,0.018,0.106,0.009,0.0,0.46,0.697,113,141,51,99,48,MEM
-22024,1641713,GG Jackson,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.875,29,0.264,1.323,0.589,0.077,0.108,0.077,0.046,0.538,0.714,65,86,33,56,23,MEM
-22024,203935,Marcus Smart,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.17,19,0.25,0.94,0.4,0.1,0.12,0.06,0.02,0.4,0.488,50,47,16,40,24,MEM
-22024,1642285,Cam Spencer,1610612763,MEM,Memphis Grizzlies,Transition,Offensive,0.789,25,0.313,1.267,0.464,0.033,0.033,0.0,0.0,0.467,0.643,30,38,13,28,15,MEM

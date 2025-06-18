@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.733,14,0.065,1.292,0.682,0.083,0.042,0.083,0.042,0.667,0.682,24,31,15,22,7,DEN
-42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.133,14,0.14,0.933,0.458,0.133,0.1,0.1,0.033,0.467,0.458,30,28,11,24,13,DEN
-42024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,1.0,14,0.056,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.75,10,16,6,8,2,DEN
-42024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.4,13,0.072,1.154,0.6,0.154,0.077,0.154,0.0,0.615,0.6,13,15,6,10,4,DEN
-42024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.033,14,0.079,0.818,0.5,0.091,0.182,0.091,0.0,0.455,0.5,11,9,4,8,4,DEN

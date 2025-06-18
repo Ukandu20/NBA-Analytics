@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203482,Kelly Olynyk,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.833,28,0.06,0.818,0.333,0.045,0.0,0.045,0.0,0.364,0.405,22,18,7,21,14,TOR
-22023,1629018,Gary Trent Jr.,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.059,69,0.026,1.5,0.6,0.25,0.0,0.167,0.083,0.667,0.7,12,18,6,10,4,TOR
-22023,1629628,RJ Barrett,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.564,32,0.045,1.056,0.471,0.0,0.056,0.0,0.0,0.444,0.559,18,19,8,17,9,TOR
-22023,1641711,Gradey Dick,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.371,58,0.039,1.188,0.571,0.125,0.063,0.125,0.063,0.563,0.643,16,19,8,14,6,TOR
-22023,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.596,47,0.068,1.022,0.513,0.065,0.13,0.065,0.043,0.457,0.564,46,47,20,39,19,TOR
-22023,1630567,Scottie Barnes,1610612761,TOR,Toronto Raptors,PRRollMan,Defensive,0.463,60,0.061,1.12,0.465,0.1,0.06,0.08,0.02,0.48,0.558,50,56,20,43,23,TOR

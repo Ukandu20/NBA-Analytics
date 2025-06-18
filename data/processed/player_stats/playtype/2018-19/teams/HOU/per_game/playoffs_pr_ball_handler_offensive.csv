@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.714,11,0.346,0.931,0.51,0.097,0.222,0.042,0.0,0.444,0.551,6.5,6.1,2.3,4.5,2.2,HOU
-42018,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.175,11,0.186,0.697,0.37,0.061,0.227,0.045,0.015,0.303,0.424,6.0,4.2,1.5,4.2,2.6,HOU
-42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.048,11,0.123,0.522,0.211,0.087,0.13,0.087,0.043,0.217,0.237,2.1,1.1,0.4,1.7,1.4,HOU
-42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.0,10,0.069,1.6,0.6,0.4,0.0,0.4,0.4,0.6,0.7,0.5,0.8,0.3,0.5,0.2,HOU
-42018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.0,6,0.063,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.3,0.2,0.2,0.0,HOU
-42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.0,11,0.044,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1,HOU
-42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.0,7,0.044,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,0.1,0.3,0.1,HOU
-42018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.0,11,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,HOU

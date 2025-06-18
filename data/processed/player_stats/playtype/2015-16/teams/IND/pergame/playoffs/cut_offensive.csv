@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,101133,Ian Mahinmi,1610612754,IND,Indiana Pacers,Cut,Offensive,0.432,7,0.368,1.12,0.55,0.24,0.0,0.24,0.04,0.6,0.55,3.6,4.0,1.6,2.9,1.3
+42015,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.455,7,0.172,1.133,0.615,0.067,0.133,0.067,0.067,0.533,0.615,2.1,2.4,1.1,1.9,0.7
+42015,202331,Paul George,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.04,1.143,0.667,0.0,0.0,0.143,0.0,0.571,0.667,1.0,1.1,0.6,0.9,0.3
+42015,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,4,0.5,2.5,1.0,0.5,0.0,0.5,0.5,1.0,1.0,0.5,1.3,0.5,0.5,0.0
+42015,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.077,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.667,0.6,0.6,0.3,0.4,0.1
+42015,203524,Solomon Hill,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.024,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.3,0.0,0.0,0.0
+42015,101139,CJ Miles,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.3,0.1,0.1,0.0
+42015,201588,George Hill,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.027,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,0.1,0.3,0.1
+42015,202730,Lavoy Allen,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,6,0.455,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,0.8,0.3,0.2,0.7,0.5
+42015,201951,Ty Lawson,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42015,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Cut,Offensive,0.0,7,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3

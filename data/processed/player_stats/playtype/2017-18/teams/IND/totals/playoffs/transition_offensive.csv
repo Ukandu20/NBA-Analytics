@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Transition,Offensive,0.35,7,0.265,1.0,0.44,0.111,0.133,0.111,0.0,0.422,0.00559,45,45,15,34,19
+42017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Transition,Offensive,0.905,7,0.219,1.333,0.55,0.048,0.048,0.048,0.048,0.524,0.006750000000000001,21,28,11,20,9
+42017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Transition,Offensive,0.965,7,0.192,1.467,0.75,0.133,0.133,0.133,0.067,0.667,0.008329999999999999,15,22,9,12,3
+42017,201954,Darren Collison,1610612754,IND,Indiana Pacers,Transition,Offensive,0.94,7,0.171,1.357,0.62,0.071,0.071,0.071,0.071,0.571,0.006919999999999999,14,19,8,13,5
+42017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,7,0.065,2.2,1.0,0.0,0.0,0.0,0.0,1.0,0.011000000000000001,5,11,5,5,0
+42017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,7,0.123,1.111,0.57,0.111,0.111,0.111,0.0,0.556,0.00643,9,10,4,7,3
+42017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,7,0.125,1.6,0.75,0.2,0.0,0.2,0.0,0.8,0.0075,5,8,3,4,1
+42017,202344,Trevor Booker,1610612754,IND,Indiana Pacers,Transition,Offensive,0.0,7,0.077,3.0,1.0,1.0,0.0,1.0,1.0,1.0,0.01,1,3,1,1,0

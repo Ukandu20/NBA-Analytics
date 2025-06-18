@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.491,80,0.228,1.081,0.512,0.056,0.125,0.056,0.016,0.468,0.597,248,268,106,207,101
+22017,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.261,73,0.228,0.979,0.492,0.183,0.113,0.171,0.046,0.496,0.503,240,235,88,179,91
+22017,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.793,78,0.113,1.255,0.553,0.057,0.094,0.057,0.038,0.509,0.676,106,133,52,94,42
+22017,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.926,73,0.094,1.376,0.763,0.118,0.086,0.118,0.022,0.72,0.77,93,128,58,76,18
+22017,1628382,Justin Jackson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.554,68,0.189,1.124,0.506,0.079,0.067,0.079,0.034,0.483,0.582,89,100,40,79,39
+22017,1628412,Frank Mason III,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.178,52,0.207,0.922,0.421,0.167,0.127,0.157,0.039,0.431,0.454,102,94,32,76,44
+22017,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.284,65,0.158,0.989,0.492,0.129,0.194,0.129,0.032,0.441,0.577,93,92,32,65,33
+22017,201588,George Hill,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.791,43,0.128,1.255,0.575,0.2,0.127,0.164,0.055,0.564,0.65,55,69,23,40,17
+22017,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.824,60,0.064,1.27,0.643,0.216,0.108,0.216,0.081,0.622,0.696,37,47,18,28,10
+22017,2216,Zach Randolph,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.581,60,0.045,1.146,0.556,0.024,0.122,0.024,0.024,0.488,0.653,41,47,20,36,16
+22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.959,58,0.096,1.438,0.621,0.0,0.094,0.0,0.0,0.563,0.793,32,46,18,29,11
+22017,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.881,71,0.062,1.31,0.72,0.069,0.103,0.069,0.034,0.655,0.72,29,38,18,25,7
+22017,1627781,Malachi Richardson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.748,25,0.12,1.231,0.455,0.231,0.0,0.231,0.077,0.538,0.591,13,16,5,11,6
+22017,203960,JaKarr Sampson,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.195,22,0.146,0.929,0.455,0.143,0.071,0.143,0.0,0.5,0.5,14,13,5,11,6

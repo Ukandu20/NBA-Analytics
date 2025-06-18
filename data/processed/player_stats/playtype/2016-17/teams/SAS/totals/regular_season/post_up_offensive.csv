@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.453,72,0.327,0.865,0.429,0.118,0.087,0.116,0.019,0.441,0.429,415,359,144,336,192
+22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.795,74,0.081,0.985,0.51,0.153,0.131,0.124,0.044,0.489,0.51,137,135,53,104,51
+22016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.489,64,0.196,0.874,0.443,0.185,0.139,0.172,0.033,0.457,0.443,151,132,47,106,59
+22016,101135,David Lee,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.595,79,0.133,0.904,0.5,0.096,0.137,0.096,0.027,0.452,0.5,73,66,29,58,29
+22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.164,72,0.036,0.7,0.333,0.1,0.0,0.1,0.0,0.4,0.333,10,7,3,9,6
+22016,203473,Dewayne Dedmon,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.021,76,0.036,0.462,0.182,0.077,0.077,0.077,0.0,0.231,0.182,13,6,2,11,9

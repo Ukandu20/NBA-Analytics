@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Transition,Offensive,0.76,18,0.22,1.232,0.548,0.043,0.072,0.043,0.014,0.522,0.00653,69,85,34,62,28
+42016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Transition,Offensive,0.392,15,0.133,1.043,0.462,0.085,0.128,0.085,0.043,0.426,0.00551,47,49,18,39,21
+42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Transition,Offensive,0.48,18,0.167,1.103,0.5,0.205,0.077,0.205,0.0,0.564,0.005180000000000001,39,43,14,28,14
+42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.716,18,0.099,1.211,0.462,0.263,0.105,0.211,0.053,0.474,0.00615,19,23,6,13,7
+42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.743,17,0.154,1.214,0.667,0.286,0.143,0.286,0.071,0.571,0.006670000000000001,14,17,6,9,3
+42016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.575,17,0.149,1.133,0.5,0.267,0.133,0.2,0.067,0.533,0.0055000000000000005,15,17,5,10,5
+42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.827,18,0.052,1.333,0.778,0.167,0.25,0.167,0.167,0.583,0.008329999999999999,12,16,7,9,2
+42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Transition,Offensive,0.307,13,0.146,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.00458,12,11,4,12,8
+42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Transition,Offensive,0.013,18,0.088,0.571,0.333,0.0,0.143,0.0,0.0,0.286,0.00333,14,8,4,12,8
+42016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,12,0.098,1.5,1.0,0.25,0.25,0.25,0.0,0.75,0.01,4,6,2,2,0
+42016,203923,James Young,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,10,0.176,1.0,0.5,0.0,0.333,0.0,0.0,0.333,0.0075,3,3,1,2,1
+42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,14,0.05,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
+42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,11,0.121,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,4,2,1,3,2

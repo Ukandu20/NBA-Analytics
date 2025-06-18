@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.549,78,0.224,1.118,0.565,0.197,0.143,0.17,0.045,0.534,0.6,5.7,6.3,2.2,4.0,1.7
+22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.897,77,0.172,1.344,0.571,0.098,0.08,0.091,0.022,0.558,0.693,3.6,4.8,1.7,3.0,1.3
+22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.873,80,0.202,1.317,0.575,0.089,0.028,0.089,0.044,0.578,0.662,2.3,3.0,1.2,2.1,0.9
+22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.817,79,0.221,1.28,0.635,0.153,0.059,0.153,0.025,0.627,0.672,1.5,1.9,0.8,1.2,0.4
+22016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.815,76,0.083,1.28,0.6,0.075,0.086,0.075,0.022,0.57,0.681,1.2,1.6,0.6,1.1,0.4
+22016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Transition,Offensive,0.636,26,0.171,1.154,0.487,0.135,0.115,0.154,0.019,0.481,0.615,2.0,2.3,0.7,1.5,0.8
+22016,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.692,82,0.041,1.2,0.826,0.114,0.229,0.114,0.0,0.629,0.826,0.4,0.5,0.2,0.3,0.0
+22016,201160,Jason Smith,1610612764,WAS,Washington Wizards,Transition,Offensive,0.939,74,0.071,1.414,0.68,0.0,0.138,0.0,0.0,0.586,0.82,0.4,0.6,0.2,0.3,0.1
+22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Transition,Offensive,0.169,57,0.147,0.891,0.417,0.109,0.13,0.109,0.022,0.413,0.458,0.8,0.7,0.3,0.6,0.4
+22016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Transition,Offensive,0.082,23,0.284,0.789,0.367,0.079,0.132,0.079,0.0,0.342,0.45,1.7,1.3,0.5,1.3,0.8
+22016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Transition,Offensive,0.176,57,0.147,0.897,0.556,0.103,0.31,0.103,0.034,0.414,0.611,0.5,0.5,0.2,0.3,0.1
+22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Transition,Offensive,0.202,33,0.107,0.923,0.381,0.077,0.115,0.038,0.0,0.385,0.476,0.8,0.7,0.2,0.6,0.4
+22016,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Transition,Offensive,0.48,31,0.067,1.083,0.5,0.25,0.0,0.25,0.083,0.583,0.5,0.4,0.4,0.2,0.3,0.2

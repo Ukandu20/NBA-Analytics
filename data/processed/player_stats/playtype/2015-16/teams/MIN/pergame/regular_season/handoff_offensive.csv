@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.784,82,0.107,1.008,0.42,0.039,0.039,0.039,0.008,0.422,0.508,1.6,1.6,0.6,1.5,0.8
+22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.775,81,0.067,1.0,0.453,0.112,0.086,0.078,0.017,0.466,0.505,1.4,1.4,0.5,1.2,0.6
+22015,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.674,76,0.04,0.946,0.469,0.027,0.108,0.027,0.0,0.432,0.516,0.5,0.5,0.2,0.4,0.2
+22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.216,82,0.042,0.694,0.308,0.139,0.139,0.111,0.0,0.361,0.327,0.4,0.3,0.1,0.3,0.2
+22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.221,39,0.053,0.696,0.313,0.087,0.217,0.087,0.0,0.304,0.375,0.6,0.4,0.1,0.4,0.3

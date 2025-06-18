@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.603,70,0.068,1.007,0.458,0.257,0.061,0.25,0.041,0.534,0.458,2.1,2.1,0.7,1.5,0.8,DAL
-22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.987,58,0.011,1.429,0.769,0.0,0.071,0.0,0.0,0.714,0.769,0.2,0.3,0.2,0.2,0.1,DAL
-22023,1629023,P.J. Washington,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.912,29,0.028,1.2,0.667,0.3,0.1,0.3,0.0,0.6,0.667,0.3,0.4,0.1,0.2,0.1,DAL
-22023,1629684,Grant Williams,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.06,47,0.038,0.667,0.444,0.133,0.267,0.133,0.0,0.4,0.444,0.3,0.2,0.1,0.2,0.1,DAL

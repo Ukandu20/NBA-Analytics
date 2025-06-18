@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.709,75,0.183,1.06,0.528,0.198,0.111,0.181,0.04,0.54,0.528,298,316,115,218,103,LAL
-22023,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.596,70,0.106,1.006,0.518,0.144,0.109,0.115,0.04,0.506,0.518,174,175,71,137,66,LAL
-22023,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.828,67,0.094,1.151,0.576,0.164,0.082,0.151,0.055,0.562,0.576,73,84,34,59,25,LAL
-22023,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.152,75,0.015,0.789,0.308,0.263,0.105,0.263,0.053,0.421,0.308,19,15,4,13,9,LAL
-22023,1626174,Christian Wood,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.027,50,0.053,0.632,0.308,0.158,0.158,0.105,0.0,0.316,0.308,19,12,4,13,9,LAL

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.841,68,0.225,1.047,0.462,0.17,0.091,0.16,0.047,0.486,0.513,253,265,92,199,107,BKN
-22018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.491,81,0.108,0.834,0.376,0.05,0.06,0.05,0.005,0.377,0.427,199,166,67,178,111,BKN
-22018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.671,40,0.184,0.937,0.432,0.126,0.081,0.13,0.063,0.432,0.463,111,104,41,95,54,BKN
-22018,203894,Shabazz Napier,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.72,56,0.15,0.964,0.361,0.131,0.024,0.13,0.012,0.429,0.431,84,81,26,72,46,BKN
-22018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,1.0,63,0.053,1.7,0.826,0.2,0.1,0.17,0.067,0.767,0.913,30,51,19,23,4,BKN
-22018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.332,67,0.034,0.769,0.267,0.308,0.115,0.27,0.0,0.423,0.267,26,20,4,15,11,BKN
-22018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.266,59,0.039,0.72,0.333,0.12,0.08,0.08,0.04,0.36,0.333,25,18,7,21,14,BKN
-22018,1629033,Theo Pinson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.91,18,0.12,1.083,0.455,0.0,0.083,0.0,0.0,0.417,0.591,12,13,5,11,6,BKN

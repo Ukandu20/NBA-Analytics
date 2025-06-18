@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.047,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,0.4,0.6,0.2,0.4,0.2
+42017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.056,0.667,0.25,0.0,0.11,0.0,0.0,0.22,0.00375,0.9,0.6,0.2,0.8,0.6
+42017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.029,0.571,0.286,0.0,0.0,0.0,0.0,0.29,0.0028599999999999997,0.7,0.4,0.2,0.7,0.5
+42017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.01,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.1,0.3,0.1,0.1,0.0
+42017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.018,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.2,0.0,0.0,0.0
+42017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,6,0.118,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.3,0.3,0.2,0.3,0.2
+42017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.016,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+42017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.024,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.1,0.1

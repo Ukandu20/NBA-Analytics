@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.591,23,0.058,0.9,0.3,0.0,0.0,0.0,0.0,0.3,0.45,10,9,3,10,7,CHA
-22019,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.85,39,0.083,0.706,0.308,0.06,0.18,0.0,0.0,0.29,0.423,17,12,4,13,9,CHA
-22019,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.922,48,0.083,0.6,0.259,0.1,0.07,0.07,0.07,0.27,0.278,30,18,7,27,20,CHA
-22019,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.563,55,0.081,0.923,0.458,0.04,0.08,0.04,0.04,0.42,0.479,26,24,11,24,13,CHA
-22019,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.756,63,0.049,0.8,0.313,0.06,0.06,0.06,0.03,0.31,0.406,35,28,10,32,22,CHA
-22019,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.125,58,0.054,1.25,0.483,0.09,0.03,0.09,0.03,0.5,0.655,32,40,14,29,15,CHA
-22019,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.323,65,0.07,1.083,0.463,0.04,0.1,0.04,0.0,0.44,0.585,48,52,19,41,22,CHA
-22019,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,OffScreen,Defensive,0.103,63,0.082,1.278,0.529,0.02,0.04,0.02,0.0,0.52,0.667,54,69,27,51,24,CHA

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.043,5,0.263,0.6,0.167,0.3,0.1,0.3,0.0,0.3,0.00167,2.0,1.2,0.2,1.2,1.0
+42017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.083,0.8,0.5,0.2,0.0,0.2,0.0,0.4,0.005,1.0,0.8,0.4,0.8,0.4
+42017,201609,Goran Dragic,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.01,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.2,0.6,0.2,0.2,0.0
+42017,201949,James Johnson,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.017,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.2,0.4,0.2,0.2,0.0
+42017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.034,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.4,0.4,0.2,0.4,0.2
+42017,1626196,Josh Richardson,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.042,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.4,0.4,0.2,0.4,0.2
+42017,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.25,0.333,0.167,0.0,0.0,0.0,0.0,0.17,0.00167,1.2,0.4,0.2,1.2,1.0
+42017,201961,Wayne Ellington,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.026,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+42017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,5,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4

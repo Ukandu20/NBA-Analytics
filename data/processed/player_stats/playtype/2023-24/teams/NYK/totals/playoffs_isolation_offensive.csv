@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Isolation,Offensive,0.472,13,0.232,0.99,0.438,0.173,0.082,0.133,0.071,0.459,0.456,98,97,35,80,45,NYK

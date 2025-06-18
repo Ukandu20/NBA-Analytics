@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.53,74,0.139,1.113,0.59,0.113,0.065,0.105,0.024,0.573,0.59,124,138,62,105,43
+22017,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.662,66,0.084,1.191,0.625,0.085,0.064,0.085,0.0,0.596,0.625,47,56,25,40,15
+22017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.705,82,0.063,1.206,0.667,0.088,0.147,0.088,0.029,0.588,0.704,34,41,18,27,9
+22017,2403,Nene,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.666,52,0.08,1.192,0.556,0.462,0.077,0.462,0.231,0.577,0.556,26,31,10,18,8
+22017,204028,Tarik Black,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.095,51,0.166,0.774,0.5,0.29,0.161,0.29,0.032,0.452,0.5,31,24,9,18,9
+22017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.306,69,0.012,1.0,0.417,0.143,0.0,0.071,0.0,0.5,0.458,14,14,5,12,7
+22017,201935,James Harden,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.15,72,0.007,0.857,0.462,0.0,0.071,0.0,0.0,0.429,0.462,14,12,6,13,7
+22017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.064,67,0.023,0.706,0.308,0.118,0.118,0.0,0.0,0.353,0.308,17,12,4,13,9

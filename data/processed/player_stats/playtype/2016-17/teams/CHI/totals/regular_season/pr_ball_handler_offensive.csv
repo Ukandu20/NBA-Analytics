@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.769,76,0.367,0.91,0.384,0.212,0.111,0.202,0.026,0.45,0.405,624,568,168,437,269
+22016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.718,60,0.33,0.893,0.44,0.132,0.132,0.124,0.032,0.435,0.456,402,359,136,309,173
+22016,200765,Rajon Rondo,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.199,69,0.393,0.622,0.387,0.037,0.231,0.024,0.007,0.313,0.392,294,183,84,217,133
+22016,203487,Michael Carter-Williams,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.369,45,0.277,0.741,0.349,0.152,0.143,0.134,0.036,0.375,0.355,112,83,29,83,54
+22016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.477,63,0.234,0.784,0.386,0.068,0.159,0.068,0.023,0.352,0.429,88,69,27,70,43
+22016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.491,40,0.212,0.795,0.364,0.136,0.136,0.091,0.023,0.386,0.379,44,35,12,33,21
+22016,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.049,57,0.163,0.464,0.256,0.0,0.232,0.0,0.0,0.196,0.302,56,26,11,43,32
+22016,1627835,Paul Zipser,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.094,44,0.114,0.531,0.3,0.125,0.281,0.063,0.031,0.25,0.3,32,17,6,20,14
+22016,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.911,44,0.032,1.0,0.538,0.0,0.071,0.0,0.0,0.5,0.538,14,14,7,13,6
+22016,1626166,Cameron Payne,1610612741,CHI,Chicago Bulls,PRBallHandler,Offensive,0.181,11,0.295,0.609,0.333,0.0,0.217,0.0,0.0,0.261,0.389,23,14,6,18,12

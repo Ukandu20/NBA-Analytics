@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.81,24,0.047,1.226,0.48,0.161,0.065,0.097,0.032,0.516,0.58,1.0,1.6,0.5,1.0,0.5,TOR
-42018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.381,24,0.057,0.952,0.333,0.0,0.0,0.0,0.0,0.333,0.476,1.0,0.8,0.3,0.9,0.6,TOR
-42018,201980,Danny Green,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.286,24,0.067,0.923,0.333,0.0,0.077,0.0,0.0,0.308,0.5,1.0,0.5,0.2,0.5,0.3,TOR
-42018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.0,24,0.011,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.9,0.0,0.4,0.1,0.2,0.1,TOR
-42018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.111,23,0.068,0.8,0.375,0.0,0.2,0.0,0.0,0.3,0.5,0.0,0.3,0.1,0.3,0.2,TOR
-42018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.0,24,0.02,1.25,0.333,0.25,0.0,0.25,0.0,0.5,0.5,0.0,0.2,0.0,0.1,0.1,TOR
-42018,201975,Jodie Meeks,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.0,14,0.273,0.444,0.25,0.0,0.111,0.0,0.0,0.222,0.25,1.0,0.3,0.1,0.6,0.4,TOR
-42018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,OffScreen,Offensive,0.0,24,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,TOR

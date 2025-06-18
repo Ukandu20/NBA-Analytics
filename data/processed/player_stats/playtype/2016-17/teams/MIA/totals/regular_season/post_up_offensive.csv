@@ -1,0 +1,5 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Postup,Offensive,0.337,77,0.262,0.819,0.458,0.128,0.157,0.116,0.033,0.424,0.458,337,276,115,251,136
+22016,201949,James Johnson,1610612748,MIA,Miami Heat,Postup,Offensive,0.442,76,0.043,0.864,0.485,0.091,0.182,0.068,0.023,0.432,0.485,44,38,16,33,17
+22016,203186,Willie Reed,1610612748,MIA,Miami Heat,Postup,Offensive,0.242,71,0.065,0.783,0.389,0.13,0.13,0.13,0.043,0.391,0.389,23,18,7,18,11
+22016,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Postup,Offensive,0.434,18,0.051,0.857,0.417,0.071,0.071,0.071,0.0,0.429,0.417,14,12,5,12,7

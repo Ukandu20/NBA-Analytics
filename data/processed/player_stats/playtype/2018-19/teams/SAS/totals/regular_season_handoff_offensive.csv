@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.689,79,0.154,1.0,0.406,0.105,0.097,0.089,0.016,0.419,0.485,124,124,41,101,60,SAS
-22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.919,82,0.078,1.214,0.567,0.057,0.114,0.057,0.029,0.514,0.667,70,85,34,60,26,SAS
-22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.367,82,0.086,0.855,0.375,0.014,0.072,0.014,0.014,0.348,0.453,69,59,24,64,40,SAS
-22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.276,77,0.04,0.779,0.37,0.132,0.103,0.132,0.029,0.397,0.37,68,53,20,54,34,SAS
-22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.565,67,0.055,0.947,0.516,0.053,0.132,0.053,0.0,0.474,0.532,38,36,16,31,15,SAS
-22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.881,76,0.039,1.15,0.421,0.0,0.05,0.0,0.0,0.4,0.605,20,23,8,19,11,SAS
-22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.525,69,0.015,0.929,0.5,0.071,0.214,0.071,0.0,0.429,0.6,14,13,5,10,5,SAS

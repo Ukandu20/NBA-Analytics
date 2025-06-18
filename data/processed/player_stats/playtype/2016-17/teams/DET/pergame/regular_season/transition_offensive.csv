@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Transition,Offensive,0.545,76,0.208,1.116,0.46,0.049,0.053,0.044,0.004,0.458,0.577,3.0,3.3,1.2,2.7,1.4
+22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Transition,Offensive,0.838,82,0.137,1.298,0.61,0.146,0.082,0.152,0.058,0.579,0.677,2.1,2.7,1.0,1.7,0.7
+22016,202397,Ish Smith,1610612765,DET,Detroit Pistons,Transition,Offensive,0.19,81,0.236,0.907,0.522,0.089,0.173,0.065,0.014,0.458,0.534,2.6,2.4,1.0,2.0,1.0
+22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Transition,Offensive,0.728,79,0.133,1.223,0.496,0.096,0.076,0.096,0.032,0.49,0.633,2.0,2.4,0.8,1.7,0.9
+22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,Transition,Offensive,0.746,75,0.138,1.24,0.644,0.077,0.077,0.077,0.019,0.615,0.65,1.4,1.7,0.8,1.2,0.4
+22016,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Transition,Offensive,0.697,81,0.081,1.204,0.694,0.184,0.102,0.184,0.02,0.633,0.694,1.2,1.5,0.6,0.9,0.3
+22016,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Transition,Offensive,0.071,52,0.122,0.769,0.408,0.096,0.231,0.087,0.01,0.356,0.465,2.0,1.5,0.6,1.4,0.8
+22016,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Transition,Offensive,0.066,77,0.172,0.759,0.355,0.114,0.127,0.114,0.025,0.354,0.411,1.0,0.8,0.3,0.8,0.5
+22016,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Transition,Offensive,0.948,31,0.177,1.44,0.56,0.04,0.0,0.04,0.04,0.56,0.7,0.8,1.2,0.5,0.8,0.4
+22016,203382,Aron Baynes,1610612765,DET,Detroit Pistons,Transition,Offensive,0.899,75,0.061,1.348,0.684,0.174,0.043,0.174,0.043,0.696,0.684,0.3,0.4,0.2,0.3,0.1
+22016,2757,Beno Udrih,1610612765,DET,Detroit Pistons,Transition,Offensive,0.256,39,0.086,0.952,0.571,0.048,0.286,0.048,0.0,0.429,0.643,0.5,0.5,0.2,0.4,0.2

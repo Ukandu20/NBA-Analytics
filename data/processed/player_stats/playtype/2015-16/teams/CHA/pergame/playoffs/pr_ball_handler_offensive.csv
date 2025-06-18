@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.475,7,0.613,0.865,0.371,0.09,0.054,0.081,0.018,0.396,0.00407,15.9,13.7,5.1,13.9,8.7
+42015,202391,Jeremy Lin,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.787,7,0.538,0.959,0.424,0.265,0.143,0.245,0.082,0.469,0.00424,7.0,6.7,2.0,4.7,2.7
+42015,201584,Courtney Lee,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.492,7,0.238,0.867,0.357,0.067,0.0,0.067,0.0,0.4,0.00393,2.1,1.9,0.7,2.0,1.3
+42015,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.18,5,0.279,0.647,0.267,0.059,0.059,0.059,0.0,0.294,0.00333,3.4,2.2,0.8,3.0,2.2
+42015,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,3,0.222,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.7,1.3,0.7,0.7,0.0
+42015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,7,0.018,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.3,0.1,0.1,0.0
+42015,203584,Troy Daniels,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,4,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3
+42015,203268,Jorge Gutierrez,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.0,3,1.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,1.3,0.0,0.0,1.0,1.0

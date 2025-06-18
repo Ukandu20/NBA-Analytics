@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.17,1.0,0.571,0.0,0.12,0.0,0.0,0.5,0.571,8,8,4,7,3
+42017,1626192,Pat Connaughton,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.176,1.333,0.5,0.333,0.0,0.333,0.0,0.667,0.5,3,4,1,2,1
+42017,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
+42017,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
+42017,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.034,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1
+42017,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.032,0.667,0.5,0.0,0.33,0.0,0.0,0.333,0.5,3,2,1,2,1
+42017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,3,0.1,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,4,2,1,4,3
+42017,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.313,0.2,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,1,0,3,3
+42017,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,2,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42017,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.057,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+42017,1627735,Wade Baldwin IV,1610612757,POR,Portland Trail Blazers,Cut,Offensive,0.0,4,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2

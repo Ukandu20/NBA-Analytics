@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.581,81,0.218,1.112,0.568,0.2,0.056,0.2,0.023,0.586,0.568,215,239,92,162,70
+22016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.363,50,0.099,1.0,0.545,0.115,0.077,0.096,0.038,0.519,0.545,52,52,24,44,20
+22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.554,71,0.056,1.1,0.542,0.167,0.1,0.133,0.067,0.533,0.542,30,33,13,24,11
+22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.363,73,0.014,1.0,0.5,0.05,0.05,0.0,0.0,0.5,0.5,20,20,9,18,9
+22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.837,78,0.021,1.267,0.692,0.067,0.067,0.067,0.0,0.667,0.692,15,19,9,13,4
+22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.485,73,0.042,1.056,0.533,0.167,0.056,0.167,0.056,0.556,0.533,18,19,8,15,7
+22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.055,66,0.031,0.667,0.364,0.067,0.2,0.0,0.0,0.333,0.364,15,10,4,11,7
+22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,OffRebound,Offensive,0.031,42,0.035,0.545,0.143,0.182,0.182,0.182,0.0,0.273,0.143,11,6,1,7,6

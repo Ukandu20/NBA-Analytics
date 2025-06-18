@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.916,74,0.126,1.328,0.667,0.152,0.064,0.144,0.032,0.656,0.667,125,166,68,102,34,IND
-22018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.806,74,0.065,1.238,0.586,0.127,0.016,0.095,0.063,0.587,0.586,63,78,34,58,24,IND
-22018,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.375,81,0.015,1.0,0.563,0.105,0.105,0.105,0.053,0.526,0.563,19,19,9,16,7,IND
-22018,203926,Doug McDermott,1610612754,IND,Indiana Pacers,OffRebound,Offensive,1.0,77,0.02,1.8,0.875,0.3,0.0,0.2,0.1,0.9,0.875,10,18,7,8,1,IND
-22018,201954,Darren Collison,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.375,76,0.012,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,IND
-22018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.028,69,0.015,0.615,0.364,0.0,0.154,0.0,0.0,0.308,0.364,13,8,4,11,7,IND

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.733,72,0.055,1.011,0.382,0.138,0.064,0.117,0.011,0.436,0.434,94,95,29,76,47
+22016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.296,74,0.016,0.767,0.333,0.033,0.167,0.033,0.0,0.3,0.458,30,23,8,24,16
+22016,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.713,35,0.05,1.0,0.4,0.0,0.0,0.0,0.0,0.4,0.5,15,15,6,15,9
+22016,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.405,76,0.023,0.857,0.364,0.071,0.143,0.071,0.0,0.357,0.455,14,12,4,11,7
+22016,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.059,41,0.026,0.5,0.286,0.0,0.3,0.0,0.0,0.2,0.357,10,5,2,7,5

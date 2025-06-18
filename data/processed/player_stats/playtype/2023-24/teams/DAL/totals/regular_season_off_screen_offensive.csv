@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.42,79,0.089,0.949,0.393,0.04,0.061,0.03,0.0,0.394,0.489,99,94,35,89,54,DAL
-22023,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.795,70,0.024,1.173,0.408,0.077,0.0,0.058,0.019,0.442,0.551,52,61,20,49,29,DAL
-22023,202681,Kyrie Irving,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.36,58,0.043,0.912,0.386,0.018,0.0,0.018,0.018,0.386,0.447,57,52,22,57,35,DAL
-22023,1630702,Jaden Hardy,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.01,73,0.061,0.457,0.214,0.0,0.2,0.0,0.0,0.171,0.286,35,16,6,28,22,DAL
-22023,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.005,36,0.098,0.438,0.231,0.0,0.188,0.0,0.0,0.188,0.269,16,7,3,13,10,DAL
-22023,1630182,Josh Green,1610612742,DAL,Dallas Mavericks,OffScreen,Offensive,0.041,57,0.022,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,10,6,3,9,6,DAL

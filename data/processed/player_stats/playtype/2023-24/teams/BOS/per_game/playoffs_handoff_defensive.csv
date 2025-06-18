@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.917,19,0.049,0.6,0.25,0.0,0.2,0.0,0.0,0.2,0.375,0.5,0.3,0.1,0.4,0.3,BOS
-42023,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.4,17,0.132,0.933,0.333,0.067,0.0,0.067,0.067,0.333,0.433,0.9,0.8,0.3,0.9,0.6,BOS
-42023,1628401,Derrick White,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.48,19,0.072,0.882,0.357,0.118,0.059,0.118,0.0,0.412,0.393,0.9,0.8,0.3,0.7,0.5,BOS
-42023,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.2,19,0.066,1.2,0.571,0.0,0.067,0.0,0.0,0.533,0.643,0.8,0.9,0.4,0.7,0.3,BOS
-42023,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Handoff,Defensive,0.76,19,0.113,0.688,0.296,0.031,0.125,0.031,0.0,0.281,0.37,1.7,1.2,0.4,1.4,1.0,BOS

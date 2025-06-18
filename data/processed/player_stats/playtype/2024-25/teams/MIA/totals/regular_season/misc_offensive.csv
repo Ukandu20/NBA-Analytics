@@ -1,0 +1,3 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Misc,Offensive,0.75,78,0.061,0.598,0.467,0.241,0.586,0.034,0.0,0.322,0.0046700000000000005,87,52,7,15,8
+22024,1626179,Terry Rozier,1610612748,MIA,Miami Heat,Misc,Offensive,0.153,64,0.044,0.242,0.2,0.061,0.636,0.0,0.0,0.121,0.002,33,8,2,10,8

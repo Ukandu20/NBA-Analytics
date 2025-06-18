@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Cut,Offensive,0.785,79,0.193,1.387,0.711,0.108,0.045,0.099,0.027,0.694,0.711,1.4,1.9,0.9,1.2,0.4
+22015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,Cut,Offensive,0.229,81,0.089,1.046,0.541,0.115,0.046,0.115,0.011,0.552,0.541,1.1,1.1,0.5,0.9,0.4
+22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Cut,Offensive,0.881,73,0.056,1.464,0.723,0.179,0.054,0.179,0.071,0.714,0.723,0.8,1.1,0.5,0.6,0.2
+22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Cut,Offensive,0.923,76,0.046,1.5,0.771,0.093,0.037,0.093,0.019,0.759,0.771,0.7,1.1,0.5,0.6,0.1
+22015,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Cut,Offensive,0.379,60,0.167,1.141,0.547,0.172,0.031,0.172,0.031,0.578,0.547,1.1,1.2,0.5,0.9,0.4
+22015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Cut,Offensive,0.531,69,0.075,1.216,0.605,0.157,0.039,0.137,0.039,0.627,0.605,0.7,0.9,0.4,0.6,0.2
+22015,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Cut,Offensive,0.548,78,0.118,1.227,0.611,0.182,0.045,0.182,0.045,0.636,0.611,0.6,0.7,0.3,0.5,0.2
+22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,Cut,Offensive,0.556,81,0.043,1.233,0.595,0.14,0.047,0.116,0.047,0.605,0.595,0.5,0.7,0.3,0.5,0.2
+22015,101135,David Lee,1610612738,BOS,Boston Celtics,Cut,Offensive,0.521,30,0.17,1.209,0.581,0.186,0.093,0.186,0.0,0.605,0.581,1.4,1.7,0.6,1.0,0.4
+22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Cut,Offensive,0.449,61,0.05,1.176,0.563,0.088,0.0,0.088,0.029,0.588,0.563,0.6,0.7,0.3,0.5,0.2
+22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Cut,Offensive,0.534,82,0.017,1.219,0.607,0.188,0.031,0.188,0.094,0.625,0.607,0.4,0.5,0.2,0.3,0.1

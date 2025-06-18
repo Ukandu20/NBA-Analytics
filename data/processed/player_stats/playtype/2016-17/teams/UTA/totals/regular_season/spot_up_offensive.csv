@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.853,78,0.324,1.149,0.431,0.013,0.064,0.013,0.004,0.409,0.61,235,270,94,218,124
+22016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.844,82,0.338,1.146,0.451,0.025,0.106,0.015,0.0,0.417,0.636,199,228,78,173,95
+22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.841,73,0.134,1.143,0.425,0.087,0.041,0.071,0.015,0.449,0.56,196,224,74,174,100
+22016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.578,59,0.258,0.995,0.371,0.025,0.05,0.025,0.0,0.363,0.522,201,200,69,186,117
+22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.225,71,0.442,0.824,0.344,0.034,0.088,0.034,0.0,0.336,0.443,238,196,72,209,137
+22016,201588,George Hill,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.641,49,0.193,1.02,0.376,0.06,0.06,0.047,0.013,0.383,0.523,149,152,50,133,83
+22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.321,66,0.329,0.873,0.357,0.019,0.095,0.019,0.0,0.335,0.475,158,138,50,140,90
+22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.241,73,0.352,0.836,0.405,0.026,0.118,0.026,0.007,0.368,0.466,152,127,53,131,78
+22016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.261,55,0.27,0.846,0.4,0.088,0.118,0.081,0.015,0.382,0.464,136,115,44,110,66
+22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.291,42,0.229,0.861,0.354,0.042,0.083,0.042,0.028,0.333,0.454,72,62,23,65,42
+22016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.151,50,0.118,0.758,0.37,0.032,0.097,0.032,0.0,0.355,0.398,62,47,20,54,34
+22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Spotup,Offensive,0.264,81,0.013,0.846,0.5,0.231,0.231,0.231,0.077,0.462,0.5,13,11,4,8,4

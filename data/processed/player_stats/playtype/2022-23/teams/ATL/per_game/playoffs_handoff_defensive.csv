@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,1627749,Dejounte Murray,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,5,0.018,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ATL
-42022,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.041,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.0,0.0,0.0,0.0,ATL
-42022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.019,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,ATL
-42022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.042,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.0,0.0,0.0,0.0,0.0,ATL
-42022,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.025,2.0,1.0,0.5,0.0,0.0,0.0,1.0,1.5,0.0,1.0,0.0,0.0,0.0,ATL
-42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.061,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,ATL
-42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Handoff,Defensive,0.0,6,0.052,1.6,0.6,0.0,0.0,0.0,0.0,0.6,0.8,1.0,1.0,1.0,1.0,0.0,ATL

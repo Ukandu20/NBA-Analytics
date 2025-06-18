@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.375,6,0.333,1.067,0.533,0.0,0.0,0.0,0.0,0.533,0.533,15,16,8,15,7,ATL
-42022,1628381,John Collins,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.0,6,0.127,1.222,0.444,0.0,0.0,0.0,0.0,0.444,0.611,9,11,4,9,5,ATL
-42022,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.0,6,0.071,1.429,0.571,0.0,0.0,0.0,0.0,0.571,0.714,7,10,4,7,3,ATL
-42022,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.0,6,0.222,1.125,0.571,0.125,0.0,0.125,0.0,0.5,0.643,8,9,4,7,3,ATL
-42022,1630552,Jalen Johnson,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.0,6,0.3,0.556,0.143,0.111,0.111,0.111,0.0,0.222,0.214,9,5,1,7,6,ATL
-42022,1630180,Saddiq Bey,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.0,6,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,ATL

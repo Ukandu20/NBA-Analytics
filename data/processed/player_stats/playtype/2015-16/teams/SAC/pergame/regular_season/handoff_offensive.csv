@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201158,Marco Belinelli,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.148,68,0.093,0.662,0.263,0.07,0.155,0.07,0.028,0.254,0.325,1.0,0.7,0.2,0.8,0.6
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.957,69,0.046,1.25,0.552,0.111,0.111,0.083,0.028,0.528,0.672,0.5,0.7,0.2,0.4,0.2
+22015,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.826,68,0.063,1.053,0.484,0.105,0.132,0.079,0.053,0.447,0.565,0.6,0.6,0.2,0.5,0.2
+22015,201954,Darren Collison,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.86,74,0.034,1.088,0.455,0.118,0.0,0.118,0.088,0.471,0.485,0.5,0.5,0.2,0.4,0.2
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.364,65,0.025,0.766,0.308,0.149,0.064,0.149,0.043,0.362,0.333,0.7,0.6,0.2,0.6,0.4
+22015,200765,Rajon Rondo,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.57,72,0.024,0.889,0.44,0.037,0.037,0.037,0.0,0.444,0.44,0.4,0.3,0.2,0.3,0.2
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.523,70,0.022,0.857,0.455,0.036,0.179,0.036,0.0,0.393,0.5,0.4,0.3,0.1,0.3,0.2
+22015,203552,Seth Curry,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.641,44,0.046,0.923,0.333,0.077,0.0,0.077,0.0,0.385,0.417,0.3,0.3,0.1,0.3,0.2
+22015,202341,James Anderson,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.155,51,0.077,0.667,0.385,0.056,0.222,0.056,0.0,0.278,0.462,0.4,0.2,0.1,0.3,0.2

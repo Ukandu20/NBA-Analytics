@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22022,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.92,58,0.039,0.889,0.364,0.378,0.378,0.022,0.0,0.467,0.005,0.8,0.7,0.1,0.2,0.1
+22022,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.932,80,0.05,0.902,0.615,0.293,0.39,0.0,0.0,0.463,0.006919999999999999,0.5,0.5,0.1,0.2,0.1
+22022,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.629,73,0.042,0.583,0.471,0.208,0.458,0.083,0.021,0.313,0.005,0.7,0.4,0.1,0.2,0.1
+22022,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.504,63,0.047,0.52,0.462,0.16,0.58,0.0,0.0,0.26,0.00615,0.8,0.4,0.1,0.2,0.1
+22022,1630583,Santi Aldama,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.784,77,0.056,0.694,0.5,0.333,0.5,0.0,0.0,0.417,0.005,0.5,0.3,0.0,0.1,0.0
+22022,1629634,Brandon Clarke,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.447,56,0.109,0.48,0.429,0.24,0.64,0.04,0.02,0.28,0.0042899999999999995,0.9,0.4,0.1,0.1,0.1
+22022,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.334,61,0.032,0.423,0.167,0.25,0.404,0.0,0.0,0.269,0.00194,0.9,0.4,0.0,0.3,0.2
+22022,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.164,42,0.175,0.3,1.0,0.286,0.686,0.014,0.0,0.214,0.01,1.7,0.5,0.0,0.0,0.0
+22022,1628379,Luke Kennard,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.992,24,0.072,1.214,0.667,0.214,0.357,0.0,0.0,0.5,0.009170000000000001,0.6,0.7,0.2,0.3,0.1
+22022,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.312,61,0.095,0.405,0.364,0.216,0.486,0.054,0.027,0.243,0.00364,0.6,0.2,0.1,0.2,0.1
+22022,1631223,David Roddy,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.771,70,0.038,0.684,0.444,0.211,0.316,0.0,0.0,0.421,0.00444,0.3,0.2,0.1,0.1,0.1
+22022,1629723,John Konchar,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.186,72,0.043,0.313,0.333,0.063,0.563,0.0,0.0,0.188,0.00333,0.2,0.1,0.0,0.1,0.1
+22022,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.254,38,0.046,0.364,0.5,0.091,0.727,0.0,0.0,0.182,0.0075,0.3,0.1,0.0,0.1,0.0

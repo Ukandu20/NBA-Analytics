@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.581,76,0.077,0.971,0.417,0.03,0.11,0.014,0.0,0.39,0.533,0.9,0.9,0.3,0.8,0.5
+22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.882,53,0.047,1.152,0.333,0.28,0.02,0.217,0.022,0.5,0.424,0.9,1.0,0.2,0.6,0.4
+22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.829,68,0.035,1.093,0.514,0.07,0.12,0.07,0.047,0.47,0.595,0.6,0.7,0.3,0.5,0.3
+22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.643,82,0.032,1.0,0.364,0.08,0.1,0.077,0.026,0.36,0.5,0.5,0.5,0.1,0.4,0.3
+22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.996,70,0.026,1.6,0.643,0.0,0.07,0.0,0.0,0.6,0.857,0.2,0.3,0.1,0.2,0.1
+22015,200751,Randy Foye,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.073,54,0.039,0.563,0.267,0.0,0.06,0.0,0.0,0.25,0.3,0.3,0.2,0.1,0.3,0.2

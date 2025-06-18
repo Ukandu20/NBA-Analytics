@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.737,72,0.223,1.21,0.667,0.216,0.099,0.21,0.037,0.63,0.667,162,196,78,117,39,MIN
-22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.436,80,0.129,1.05,0.423,0.085,0.064,0.085,0.021,0.426,0.533,141,148,52,123,71,MIN
-22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.519,69,0.077,1.091,0.5,0.091,0.141,0.091,0.02,0.465,0.603,99,108,39,78,39,MIN
-22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.56,82,0.034,1.121,0.533,0.091,0.03,0.091,0.03,0.545,0.55,33,37,16,30,14,MIN
-22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.492,79,0.007,1.067,0.333,0.267,0.133,0.267,0.0,0.467,0.444,15,16,3,9,6,MIN

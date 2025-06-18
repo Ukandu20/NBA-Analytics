@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.9,60,0.142,1.267,0.6,0.238,0.04,0.228,0.079,0.634,0.6,101,128,48,80,32
+22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.169,76,0.184,0.831,0.414,0.038,0.077,0.038,0.008,0.392,0.444,130,108,48,116,68
+22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.845,82,0.193,1.178,0.631,0.222,0.078,0.2,0.022,0.633,0.631,90,106,41,65,24
+22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.32,79,0.142,0.926,0.397,0.012,0.086,0.012,0.0,0.37,0.5,81,75,29,73,44
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.977,77,0.007,1.417,0.545,0.083,0.0,0.083,0.0,0.583,0.682,12,17,6,11,5
+22015,201574,Jason Thompson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.507,19,0.171,1.0,0.417,0.143,0.071,0.143,0.071,0.429,0.458,14,14,5,12,7

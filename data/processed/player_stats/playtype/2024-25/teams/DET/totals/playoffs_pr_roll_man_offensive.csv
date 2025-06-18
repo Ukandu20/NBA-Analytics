@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1631105,Jalen Duren,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.538,6,0.233,1.143,0.636,0.143,0.143,0.143,0.071,0.571,0.636,14,16,7,11,4,DET
-42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.077,6,0.133,0.818,0.3,0.091,0.0,0.091,0.0,0.364,0.4,11,9,3,10,7,DET

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,7,0.029,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,OKC
-42019,1628977,Hamidou Diallo,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,3,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,OKC
-42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,7,0.039,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.6,0.6,OKC
-42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,7,0.061,0.286,0.14,0.0,0.0,0.0,0.0,0.14,0.14,1.0,0.0,0.1,1.0,0.9,OKC
-42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,7,0.032,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.75,0.3,0.0,0.1,0.3,0.1,OKC
-42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Handoff,Defensive,0.0,6,0.047,1.2,0.5,0.2,0.0,0.0,0.0,0.6,0.62,0.8,1.0,0.3,0.7,0.3,OKC

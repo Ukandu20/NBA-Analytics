@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22019,200755,JJ Redick,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,1.0,60,0.056,1.163,0.53,0.419,0.233,0.0,0.0,0.605,0.0067,0.7,0.8,0.1,0.3,0.1
+22019,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.681,61,0.048,0.607,0.3,0.197,0.426,0.016,0.0,0.295,0.0037,1.0,0.6,0.1,0.4,0.3
+22019,1628404,Josh Hart,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.967,65,0.055,0.944,0.64,0.167,0.472,0.056,0.028,0.389,0.0086,0.6,0.5,0.1,0.2,0.1
+22019,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.662,62,0.033,0.596,0.42,0.149,0.447,0.064,0.0,0.319,0.004699999999999999,0.8,0.5,0.1,0.3,0.2
+22019,1628402,Frank Jackson,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.997,59,0.049,1.15,0.62,0.3,0.35,0.1,0.05,0.5,0.0075,0.3,0.4,0.1,0.1,0.1
+22019,1628366,Lonzo Ball,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.196,63,0.066,0.333,0.35,0.067,0.65,0.0,0.0,0.15,0.0044,1.0,0.3,0.1,0.3,0.2
+22019,1626143,Jahlil Okafor,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.633,30,0.123,0.571,0.67,0.214,0.571,0.036,0.0,0.357,0.0067,0.9,0.5,0.1,0.2,0.1
+22019,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.18,64,0.128,0.314,0.2,0.216,0.686,0.0,0.0,0.216,0.002,0.8,0.3,0.0,0.1,0.1
+22019,1629740,Nicolo Melli,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.617,60,0.062,0.56,0.0,0.36,0.52,0.04,0.0,0.32,0.0,0.4,0.2,0.0,0.1,0.1
+22019,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.689,56,0.036,0.611,0.4,0.056,0.389,0.0,0.0,0.278,0.0045000000000000005,0.3,0.2,0.1,0.2,0.1
+22019,1629627,Zion Williamson,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.689,24,0.036,0.611,0.33,0.222,0.444,0.056,0.0,0.333,0.0033,0.8,0.5,0.1,0.3,0.2
+22019,202324,Derrick Favors,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.125,51,0.069,0.276,0.75,0.069,0.793,0.0,0.0,0.172,0.0075,0.6,0.2,0.1,0.1,0.0
+22019,1629026,Kenrich Williams,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.249,39,0.061,0.364,0.33,0.273,0.455,0.0,0.0,0.273,0.0033,0.3,0.1,0.0,0.1,0.1
+22019,1629638,Nickeil Alexander-Walker,1610612740,NOP,New Orleans Pelicans,Misc,Offensive,0.0,47,0.057,0.0,0.0,0.0,0.579,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2

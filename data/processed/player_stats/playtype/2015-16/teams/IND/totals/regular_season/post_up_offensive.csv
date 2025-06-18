@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201941,Jordan Hill,1610612754,IND,Indiana Pacers,Postup,Offensive,0.457,73,0.241,0.822,0.457,0.083,0.101,0.053,0.0,0.432,0.457,169,139,63,138,75
+22015,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Offensive,0.534,60,0.219,0.845,0.423,0.077,0.085,0.07,0.028,0.415,0.423,142,120,52,123,71
+22015,101133,Ian Mahinmi,1610612754,IND,Indiana Pacers,Postup,Offensive,0.425,71,0.108,0.8,0.444,0.143,0.129,0.1,0.043,0.429,0.444,70,56,24,54,30
+22015,202331,Paul George,1610612754,IND,Indiana Pacers,Postup,Offensive,0.161,81,0.034,0.631,0.262,0.185,0.185,0.185,0.015,0.338,0.262,65,41,11,42,31
+22015,202730,Lavoy Allen,1610612754,IND,Indiana Pacers,Postup,Offensive,0.09,79,0.085,0.525,0.32,0.075,0.3,0.075,0.0,0.275,0.32,40,21,8,25,17
+22015,201588,George Hill,1610612754,IND,Indiana Pacers,Postup,Offensive,0.281,74,0.012,0.727,0.375,0.182,0.182,0.182,0.091,0.364,0.375,11,8,3,8,5

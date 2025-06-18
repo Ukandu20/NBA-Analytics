@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.77,68,0.087,0.971,0.505,0.158,0.129,0.144,0.022,0.496,0.505,2.0,2.0,0.8,1.5,0.7
+22017,2561,David West,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.456,73,0.183,0.856,0.475,0.167,0.189,0.167,0.033,0.444,0.475,1.2,1.1,0.4,0.8,0.4
+22017,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.765,72,0.154,0.969,0.5,0.031,0.062,0.031,0.015,0.477,0.5,0.9,0.9,0.4,0.8,0.4
+22017,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.245,70,0.072,0.754,0.486,0.169,0.308,0.154,0.015,0.415,0.486,0.9,0.7,0.2,0.5,0.3
+22017,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.373,73,0.04,0.815,0.467,0.019,0.148,0.019,0.0,0.407,0.467,0.7,0.6,0.3,0.6,0.3
+22017,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.271,69,0.079,0.767,0.4,0.167,0.2,0.133,0.033,0.4,0.4,0.4,0.3,0.1,0.3,0.2
+22017,201956,Omri Casspi,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.951,53,0.059,1.125,0.533,0.125,0.0,0.125,0.063,0.563,0.533,0.3,0.3,0.2,0.3,0.1
+22017,1626172,Kevon Looney,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.468,66,0.054,0.857,0.5,0.286,0.143,0.143,0.0,0.5,0.5,0.2,0.2,0.1,0.1,0.1
+22017,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.069,64,0.045,0.579,0.333,0.053,0.105,0.053,0.0,0.316,0.333,0.3,0.2,0.1,0.2,0.2
+22017,1628395,Jordan Bell,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.054,57,0.071,0.556,0.385,0.0,0.278,0.0,0.0,0.278,0.385,0.3,0.2,0.1,0.2,0.1

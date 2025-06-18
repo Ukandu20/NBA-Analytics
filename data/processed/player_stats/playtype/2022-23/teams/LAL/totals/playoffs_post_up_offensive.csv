@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.84,16,0.107,1.25,0.576,0.2,0.05,0.175,0.075,0.6,0.576,40,50,19,33,14,LAL
-42022,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.28,16,0.18,0.82,0.439,0.148,0.197,0.148,0.016,0.426,0.439,61,50,18,41,23,LAL
-42022,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.6,16,0.101,1.063,0.556,0.25,0.125,0.25,0.0,0.563,0.556,16,17,5,9,4,LAL
-42022,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.68,16,0.051,1.083,0.5,0.167,0.0,0.167,0.0,0.583,0.5,12,13,5,10,5,LAL
-42022,1629022,Lonnie Walker IV,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,13,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL
-42022,202684,Tristan Thompson,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.0,6,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,LAL

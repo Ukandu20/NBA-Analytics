@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.829,7,0.551,1.296,0.6,0.074,0.185,0.074,0.0,0.519,0.8,27,35,12,20,8,HOU
-42024,1628415,Dillon Brooks,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.523,7,0.357,1.033,0.444,0.0,0.1,0.0,0.0,0.4,0.574,30,31,12,27,15,HOU
-42024,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.532,7,0.246,1.036,0.333,0.036,0.0,0.0,0.0,0.357,0.5,28,29,9,27,18,HOU
-42024,1631106,Tari Eason,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.618,7,0.414,1.083,0.5,0.0,0.167,0.0,0.0,0.417,0.65,24,26,10,20,10,HOU
-42024,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.081,7,0.168,0.611,0.176,0.111,0.0,0.111,0.056,0.222,0.235,18,11,3,17,14,HOU
-42024,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.09,7,0.079,0.615,0.25,0.0,0.077,0.0,0.0,0.231,0.333,13,8,3,12,9,HOU

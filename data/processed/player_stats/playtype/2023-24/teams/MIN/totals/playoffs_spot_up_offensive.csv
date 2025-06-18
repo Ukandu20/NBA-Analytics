@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.627,16,0.547,1.043,0.456,0.053,0.117,0.043,0.011,0.415,0.576,94,98,36,79,43,MIN
-42023,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.345,16,0.571,0.887,0.361,0.093,0.072,0.093,0.021,0.381,0.464,97,86,30,83,53,MIN
-42023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.445,16,0.295,0.953,0.389,0.082,0.082,0.082,0.012,0.4,0.493,85,81,28,72,44,MIN
-42023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.327,16,0.527,0.855,0.318,0.014,0.043,0.014,0.014,0.304,0.439,69,59,21,66,45,MIN
-42023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.7,16,0.125,1.094,0.458,0.057,0.075,0.057,0.038,0.434,0.573,53,58,22,48,26,MIN
-42023,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.573,15,0.229,1.025,0.429,0.025,0.1,0.025,0.0,0.4,0.557,40,41,15,35,20,MIN
-42023,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.229,15,0.288,0.762,0.368,0.0,0.095,0.0,0.0,0.333,0.421,21,16,7,19,12,MIN

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.534,76,0.122,0.981,0.397,0.032,0.058,0.019,0.006,0.39,0.507,154,151,56,141,85,MEM
-22021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.338,78,0.077,0.871,0.36,0.099,0.04,0.089,0.02,0.386,0.41,101,88,32,89,57,MEM
-22021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.516,33,0.056,0.971,0.406,0.143,0.0,0.143,0.057,0.457,0.422,35,34,13,32,19,MEM
-22021,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.329,73,0.044,0.868,0.355,0.079,0.105,0.053,0.0,0.342,0.5,38,33,11,31,20,MEM
-22021,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.583,57,0.02,1.0,0.5,0.194,0.194,0.226,0.0,0.484,0.556,31,31,9,18,9,MEM
-22021,1630533,Ziaire Williams,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.023,62,0.053,0.462,0.095,0.115,0.077,0.077,0.0,0.192,0.143,26,12,2,21,19,MEM
-22021,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.137,69,0.024,0.714,0.25,0.143,0.0,0.143,0.0,0.357,0.292,14,10,3,12,9,MEM

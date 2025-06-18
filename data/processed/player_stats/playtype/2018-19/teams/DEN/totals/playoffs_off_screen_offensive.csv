@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.476,14,0.047,1.063,0.636,0.063,0.25,0.063,0.0,0.5,0.682,16,17,7,11,4,DEN
-42018,1627736,Malik Beasley,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.0,14,0.08,1.778,0.714,0.222,0.0,0.222,0.0,0.778,0.857,9,16,5,7,2,DEN
-42018,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.857,14,0.06,1.25,0.636,0.083,0.0,0.083,0.0,0.583,0.682,12,15,7,11,4,DEN
-42018,203914,Gary Harris,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.75,14,0.054,1.2,0.375,0.2,0.0,0.2,0.0,0.5,0.5,10,12,3,8,5,DEN
-42018,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.0,14,0.027,1.25,0.667,0.125,0.125,0.125,0.0,0.625,0.667,8,10,4,6,2,DEN
-42018,1628470,Torrey Craig,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.0,14,0.037,2.0,0.667,0.0,0.0,0.0,0.0,0.667,1.0,3,6,2,3,1,DEN
-42018,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,OffScreen,Offensive,0.0,14,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DEN

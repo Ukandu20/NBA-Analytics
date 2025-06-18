@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Postup,Offensive,0.269,81,0.275,0.726,0.396,0.096,0.084,0.086,0.012,0.38,0.396,405,294,133,336,203
+22015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Postup,Offensive,0.834,80,0.138,0.988,0.466,0.176,0.042,0.145,0.024,0.521,0.466,165,163,62,133,71
+22015,203382,Aron Baynes,1610612765,DET,Detroit Pistons,Postup,Offensive,0.722,81,0.176,0.914,0.451,0.161,0.108,0.151,0.032,0.462,0.451,93,85,32,71,39
+22015,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Postup,Offensive,0.964,27,0.084,1.114,0.567,0.143,0.086,0.143,0.086,0.543,0.567,35,39,17,30,13
+22015,101141,Ersan Ilyasova,1610612765,DET,Detroit Pistons,Postup,Offensive,0.556,52,0.044,0.852,0.444,0.222,0.111,0.148,0.0,0.519,0.444,27,23,8,18,10
+22015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Postup,Offensive,0.117,73,0.043,0.576,0.304,0.091,0.212,0.061,0.0,0.303,0.304,33,19,7,23,16

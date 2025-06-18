@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201935,James Harden,1610612745,HOU,Houston Rockets,Postup,Offensive,0.324,81,0.024,0.818,0.432,0.091,0.127,0.073,0.018,0.418,0.432,55,45,19,44,25
+22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Postup,Offensive,0.153,72,0.051,0.696,0.353,0.109,0.152,0.087,0.0,0.348,0.353,46,32,12,34,22
+22016,2403,Nene,1610612745,HOU,Houston Rockets,Postup,Offensive,0.112,67,0.081,0.667,0.464,0.111,0.267,0.111,0.0,0.378,0.464,45,30,13,28,15
+22016,203991,Clint Capela,1610612745,HOU,Houston Rockets,Postup,Offensive,0.879,65,0.033,1.042,0.5,0.167,0.0,0.167,0.0,0.583,0.5,24,25,10,20,10
+22016,1626149,Montrezl Harrell,1610612745,HOU,Houston Rockets,Postup,Offensive,0.995,58,0.035,1.267,0.75,0.133,0.133,0.133,0.067,0.667,0.75,15,19,9,12,3

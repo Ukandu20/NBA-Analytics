@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.105,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.2,0.3,0.2,NOP
-42021,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.046,0.667,0.33,0.0,0.0,0.0,0.0,0.33,0.33,0.5,0.0,0.2,0.5,0.3,NOP
-42021,1630631,Jose Alvarado,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.122,0.4,0.33,0.0,0.4,0.0,0.0,0.2,0.33,0.8,0.0,0.2,0.5,0.3,NOP
-42021,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.026,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.3,0.3,0.0,NOP
-42021,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.091,2.0,1.0,0.5,0.0,0.0,0.0,1.0,1.0,0.3,1.0,0.2,0.2,0.0,NOP
-42021,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.093,0.571,0.29,0.0,0.0,0.0,0.0,0.29,0.29,1.2,1.0,0.3,1.2,0.8,NOP
-42021,1628984,Devonte' Graham,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.129,1.25,0.5,0.5,0.0,0.25,0.0,0.75,0.5,0.7,1.0,0.2,0.3,0.2,NOP
-42021,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,Postup,Defensive,0.0,6,0.044,1.0,0.5,0.2,0.0,0.2,0.0,0.6,0.5,0.8,1.0,0.3,0.7,0.3,NOP

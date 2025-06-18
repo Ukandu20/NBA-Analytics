@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.623,15,0.415,0.99,0.453,0.048,0.152,0.048,0.019,0.4,0.57,105,104,39,86,47,IND
-42023,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.377,17,0.425,0.9,0.486,0.056,0.133,0.044,0.011,0.444,0.493,90,81,36,74,38,IND
-42023,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.585,17,0.355,0.974,0.525,0.078,0.13,0.065,0.0,0.494,0.541,77,75,32,61,29,IND
-42023,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.423,17,0.066,0.909,0.5,0.091,0.182,0.0,0.0,0.455,0.5,22,20,8,16,8,IND

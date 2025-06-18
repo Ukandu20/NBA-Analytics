@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.522,73,0.072,0.521,0.542,0.141,0.549,0.056,0.03,0.296,0.00542,71,37,13,24,11
+22017,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.761,80,0.05,0.667,0.348,0.13,0.444,0.0,0.0,0.278,0.0047799999999999995,54,36,8,23,15
+22017,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.541,78,0.064,0.533,0.28,0.15,0.433,0.0,0.0,0.267,0.0034000000000000002,60,32,7,25,18
+22017,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.519,73,0.048,0.52,0.353,0.16,0.52,0.08,0.02,0.26,0.00382,50,26,6,17,11
+22017,2216,Zach Randolph,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.293,60,0.069,0.375,0.412,0.078,0.656,0.0,0.0,0.188,0.00441,64,24,7,17,10
+22017,201588,George Hill,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.739,43,0.068,0.655,0.5,0.241,0.552,0.034,0.0,0.345,0.006670000000000001,29,19,3,6,3
+22017,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.336,71,0.081,0.395,0.444,0.211,0.553,0.026,0.0,0.263,0.00444,38,15,4,9,5
+22017,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.293,60,0.069,0.375,0.1,0.2,0.55,0.0,0.0,0.225,0.001,40,15,1,10,9
+22017,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.202,65,0.053,0.323,0.125,0.161,0.581,0.0,0.0,0.194,0.00125,31,10,1,8,7
+22017,1628412,Frank Mason III,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.153,52,0.043,0.286,0.111,0.095,0.476,0.048,0.0,0.143,0.00111,21,6,1,9,8
+22017,1628382,Justin Jackson,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.098,68,0.034,0.25,0.167,0.063,0.563,0.0,0.0,0.125,0.00167,16,4,1,6,5
+22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.013,58,0.063,0.095,0.0,0.048,0.714,0.0,0.0,0.048,0.0,21,2,0,5,5

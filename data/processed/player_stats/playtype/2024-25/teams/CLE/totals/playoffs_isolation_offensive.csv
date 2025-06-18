@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1628378,Donovan Mitchell,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.977,9,0.09,1.455,0.556,0.182,0.045,0.182,0.045,0.591,0.722,22,32,10,18,8,CLE
-42024,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,1.0,5,0.115,1.636,0.833,0.364,0.091,0.364,0.0,0.818,0.917,11,18,5,6,1,CLE
-42024,1629631,De'Andre Hunter,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.5,8,0.134,0.909,0.4,0.091,0.091,0.091,0.091,0.364,0.5,11,10,4,10,6,CLE

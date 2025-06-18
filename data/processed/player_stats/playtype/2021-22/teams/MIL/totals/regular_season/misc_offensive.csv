@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22021,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.968,67,0.054,0.938,0.5,0.32,0.309,0.093,0.02,0.49,0.0055000000000000005,97,91,19,38,19
+22021,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.818,66,0.047,0.742,0.43,0.306,0.468,0.032,0.0,0.4,0.0043,62,46,6,14,8
+22021,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.634,67,0.042,0.608,0.42,0.157,0.471,0.02,0.0,0.29,0.005,51,31,8,19,11
+22021,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.646,72,0.046,0.617,0.58,0.191,0.574,0.021,0.02,0.32,0.0058,47,29,7,12,5
+22021,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.916,66,0.028,0.833,0.5,0.222,0.333,0.056,0.0,0.44,0.005,18,15,4,8,4
+22021,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.547,65,0.033,0.556,0.2,0.222,0.5,0.0,0.0,0.28,0.003,18,10,1,5,4
+22021,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.471,54,0.059,0.5,0.17,0.25,0.45,0.05,0.0,0.25,0.0017000000000000001,20,10,1,6,5
+22021,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.35,62,0.039,0.429,0.22,0.095,0.476,0.0,0.0,0.19,0.0028000000000000004,21,9,2,9,7
+22021,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.581,17,0.088,0.571,0.5,0.214,0.5,0.0,0.0,0.36,0.005,14,8,2,4,2
+22021,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.413,13,0.072,0.455,0.25,0.182,0.455,0.0,0.0,0.27,0.0025,11,5,1,4,3

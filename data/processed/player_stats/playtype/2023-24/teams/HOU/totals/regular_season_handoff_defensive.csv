@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.394,63,0.016,1.0,0.533,0.056,0.111,0.056,0.0,0.5,0.567,18,18,8,15,7,HOU
-22023,201145,Jeff Green,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.141,77,0.046,1.174,0.55,0.087,0.087,0.087,0.043,0.522,0.625,23,27,11,20,9,HOU
-22023,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.03,62,0.062,1.4,0.688,0.16,0.2,0.16,0.0,0.6,0.844,25,35,11,16,5,HOU
-22023,1641708,Amen Thompson,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.811,61,0.106,0.759,0.354,0.019,0.093,0.019,0.0,0.333,0.406,54,41,17,48,31,HOU
-22023,1628988,Aaron Holiday,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.165,72,0.115,1.137,0.45,0.157,0.098,0.118,0.039,0.471,0.55,51,58,18,40,22,HOU
-22023,1627832,Fred VanVleet,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.677,73,0.086,0.844,0.393,0.065,0.143,0.065,0.0,0.377,0.459,77,65,24,61,37,HOU
-22023,1631095,Jabari Smith Jr.,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.29,76,0.071,1.048,0.4,0.081,0.048,0.081,0.016,0.419,0.509,62,65,22,55,33,HOU
-22023,1630224,Jalen Green,1610612745,HOU,Houston Rockets,Handoff,Defensive,0.273,82,0.088,1.062,0.51,0.123,0.154,0.123,0.031,0.462,0.592,65,69,25,49,24,HOU

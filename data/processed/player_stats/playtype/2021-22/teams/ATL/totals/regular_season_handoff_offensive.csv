@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.841,63,0.078,1.085,0.452,0.085,0.056,0.085,0.014,0.451,0.565,71,77,28,62,34,ATL
-22021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.72,76,0.037,1.0,0.431,0.156,0.117,0.117,0.026,0.455,0.483,77,77,25,58,33,ATL
-22021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.678,74,0.08,0.986,0.5,0.014,0.114,0.014,0.014,0.443,0.548,70,69,31,62,31,ATL
-22021,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.54,34,0.106,0.911,0.457,0.133,0.111,0.133,0.022,0.444,0.486,45,41,16,35,19,ATL
-22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.507,53,0.047,0.882,0.393,0.088,0.088,0.059,0.0,0.412,0.446,34,30,11,28,17,ATL
-22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.58,66,0.023,0.938,0.357,0.063,0.063,0.063,0.0,0.375,0.464,16,15,5,14,9,ATL
-22021,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.093,56,0.068,0.519,0.238,0.111,0.148,0.111,0.037,0.259,0.238,27,14,5,21,16,ATL
-22021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,Handoff,Offensive,0.156,77,0.032,0.636,0.333,0.091,0.091,0.091,0.0,0.364,0.333,11,7,3,9,6,ATL

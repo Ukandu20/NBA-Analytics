@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.719,13,0.212,1.16,0.61,0.04,0.04,0.04,0.0,0.6,0.0060999999999999995,2.0,2.2,1.1,1.8,0.7
+42016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.125,13,0.162,0.828,0.33,0.069,0.0,0.069,0.0,0.379,0.0039000000000000003,2.0,1.8,0.7,2.1,1.4
+42016,201160,Jason Smith,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.581,13,0.25,1.071,0.5,0.214,0.071,0.214,0.0,0.571,0.005,1.0,1.2,0.4,0.8,0.4
+42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.0,13,0.028,1.667,0.67,0.0,0.0,0.0,0.0,0.667,0.0083,0.0,0.4,0.2,0.2,0.1
+42016,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.0,5,0.529,0.556,0.5,0.444,0.111,0.444,0.0,0.333,0.005,2.0,1.0,0.4,0.8,0.4
+42016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.0,13,0.007,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0
+42016,1627849,Daniel Ochefu,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.0,4,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3
+42016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.0,12,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1

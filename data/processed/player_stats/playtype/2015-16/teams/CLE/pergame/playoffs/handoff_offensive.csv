@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.938,21,0.036,1.333,0.615,0.17,0.111,0.06,0.0,0.611,0.006919999999999999,0.9,1.1,0.4,0.6,0.2
+42015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,21,0.029,1.0,0.4,0.0,0.167,0.0,0.0,0.333,0.006,0.3,0.3,0.1,0.2,0.1
+42015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,20,0.061,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.3,0.2,0.1,0.3,0.2
+42015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,21,0.038,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.005,0.1,0.1,0.0,0.1,0.1
+42015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,21,0.028,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.1,0.1,0.0,0.1,0.1
+42015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,13,0.103,0.25,0.0,0.25,0.25,0.0,0.0,0.25,0.0,0.3,0.1,0.0,0.2,0.2
+42015,2592,James Jones,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,12,0.077,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.0,21,0.009,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2

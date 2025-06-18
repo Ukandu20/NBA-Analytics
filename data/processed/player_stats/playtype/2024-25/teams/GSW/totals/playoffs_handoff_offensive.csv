@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.733,8,0.096,1.125,0.467,0.0,0.063,0.0,0.0,0.438,0.6,16,18,7,15,8,GSW
-42024,1641764,Brandin Podziemski,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.467,12,0.068,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.409,11,9,4,11,7,GSW

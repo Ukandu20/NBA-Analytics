@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.877,22,0.25,1.017,0.521,0.161,0.149,0.126,0.023,0.489,0.0057399999999999994,7.9,8.0,2.9,5.5,2.6
+42017,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.544,19,0.38,0.881,0.429,0.134,0.134,0.119,0.0,0.433,0.00469,3.5,3.1,1.1,2.6,1.5
+42017,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.298,19,0.37,0.706,0.34,0.02,0.078,0.02,0.02,0.314,0.0037199999999999998,2.7,1.9,0.8,2.5,1.6
+42017,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.125,22,0.07,0.563,0.286,0.0,0.125,0.0,0.0,0.25,0.00321,0.7,0.4,0.2,0.6,0.5
+42017,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.07,17,0.18,0.45,0.267,0.0,0.25,0.0,0.0,0.2,0.003,1.2,0.5,0.2,0.9,0.6
+42017,101181,Jose Calderon,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,13,0.25,0.875,0.429,0.0,0.125,0.0,0.0,0.375,0.005,0.6,0.5,0.2,0.5,0.3
+42017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,22,0.03,0.333,0.0,0.333,0.333,0.333,0.0,0.167,0.0,0.3,0.1,0.0,0.1,0.1
+42017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42017,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,22,0.01,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0

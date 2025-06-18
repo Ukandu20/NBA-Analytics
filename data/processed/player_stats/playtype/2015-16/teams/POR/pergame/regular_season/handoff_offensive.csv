@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.589,80,0.078,0.903,0.403,0.037,0.075,0.022,0.0,0.396,0.466,1.7,1.5,0.6,1.5,0.9
+22015,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.669,75,0.066,0.944,0.402,0.088,0.088,0.072,0.032,0.392,0.481,1.7,1.6,0.6,1.4,0.9
+22015,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.36,81,0.108,0.765,0.375,0.071,0.094,0.071,0.012,0.376,0.382,1.0,0.8,0.3,0.9,0.6
+22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.57,82,0.06,0.889,0.372,0.111,0.111,0.093,0.019,0.389,0.453,0.7,0.6,0.2,0.5,0.3
+22015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.458,72,0.074,0.816,0.421,0.061,0.143,0.082,0.0,0.388,0.474,0.7,0.6,0.2,0.5,0.3
+22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.898,78,0.035,1.167,0.5,0.056,0.111,0.056,0.056,0.444,0.625,0.2,0.3,0.1,0.2,0.1

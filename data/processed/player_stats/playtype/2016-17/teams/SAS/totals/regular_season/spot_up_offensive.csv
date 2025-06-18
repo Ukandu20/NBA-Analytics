@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.94,74,0.187,1.237,0.471,0.092,0.044,0.089,0.016,0.491,0.613,316,391,131,278,147
+22016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.665,68,0.458,1.033,0.39,0.037,0.081,0.037,0.004,0.378,0.55,246,254,85,218,133
+22016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.849,80,0.262,1.147,0.419,0.02,0.02,0.01,0.01,0.416,0.579,197,226,80,191,111
+22016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.954,64,0.203,1.269,0.521,0.058,0.051,0.058,0.019,0.513,0.651,156,198,74,142,68
+22016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.47,72,0.162,0.946,0.419,0.068,0.034,0.059,0.01,0.439,0.457,205,194,78,186,108
+22016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.617,69,0.313,1.011,0.37,0.083,0.078,0.061,0.017,0.383,0.506,180,182,57,154,97
+22016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.901,67,0.493,1.19,0.439,0.058,0.066,0.058,0.022,0.431,0.614,137,163,54,123,69
+22016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.317,78,0.287,0.87,0.379,0.068,0.112,0.062,0.0,0.373,0.458,161,140,50,132,82
+22016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.546,63,0.171,0.975,0.404,0.041,0.033,0.041,0.017,0.397,0.491,121,118,46,114,68
+22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.369,72,0.343,0.905,0.39,0.053,0.084,0.042,0.0,0.389,0.476,95,86,32,82,50
+22016,101135,David Lee,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.227,79,0.073,0.825,0.412,0.075,0.075,0.075,0.0,0.425,0.412,40,33,14,34,20

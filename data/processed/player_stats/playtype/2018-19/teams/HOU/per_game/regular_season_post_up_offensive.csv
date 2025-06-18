@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Postup,Offensive,0.552,59,0.05,0.938,0.487,0.104,0.104,0.083,0.021,0.479,0.487,0.8,0.8,0.3,0.7,0.3,HOU
-22018,2546,Carmelo Anthony,1610612745,HOU,Houston Rockets,Postup,Offensive,0.98,10,0.157,1.409,0.789,0.045,0.091,0.045,0.0,0.727,0.789,2.2,3.1,1.5,1.9,0.4,HOU
-22018,201935,James Harden,1610612745,HOU,Houston Rockets,Postup,Offensive,0.946,78,0.009,1.208,0.647,0.25,0.167,0.25,0.125,0.583,0.647,0.3,0.4,0.1,0.2,0.1,HOU
-22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Postup,Offensive,0.314,67,0.028,0.846,0.474,0.154,0.154,0.115,0.038,0.423,0.474,0.4,0.3,0.1,0.3,0.1,HOU
-22018,2403,Nene,1610612745,HOU,Houston Rockets,Postup,Offensive,0.246,42,0.103,0.8,0.444,0.267,0.2,0.267,0.067,0.4,0.444,0.4,0.3,0.1,0.2,0.1,HOU

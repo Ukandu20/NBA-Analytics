@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Postup,Offensive,0.656,72,0.085,1.01,0.507,0.182,0.152,0.141,0.01,0.515,0.507,1.4,1.4,0.5,0.9,0.5,UTA
-22020,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.05,71,0.032,0.571,0.381,0.107,0.179,0.107,0.036,0.286,0.381,0.4,0.2,0.1,0.3,0.2,UTA
-22020,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Postup,Offensive,0.256,68,0.013,0.813,0.357,0.125,0.063,0.125,0.063,0.375,0.357,0.2,0.2,0.1,0.2,0.1,UTA

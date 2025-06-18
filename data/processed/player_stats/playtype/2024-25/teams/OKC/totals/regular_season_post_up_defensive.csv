@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Postup,Defensive,0.5,71,0.029,1.0,0.556,0.091,0.136,0.091,0.045,0.5,0.556,22,22,10,18,8,OKC
-22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Postup,Defensive,0.242,76,0.043,1.172,0.526,0.31,0.103,0.241,0.069,0.586,0.526,29,34,10,19,9,OKC

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,203486,Mason Plumlee,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,5,0.167,2.5,1.0,0.5,0.0,0.5,0.5,1.0,1.0,0.8,2.0,0.8,0.8,0.0,LAC
-42022,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.038,5,0.224,0.545,0.333,0.0,0.182,0.0,0.0,0.273,0.333,2.2,1.2,0.6,1.8,1.2,LAC
-42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,5,0.037,0.8,0.25,0.4,0.0,0.4,0.2,0.4,0.25,1.0,0.8,0.2,0.8,0.6,LAC
-42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,3,0.031,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,0.7,0.3,0.3,0.0,LAC
-42022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,5,0.05,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.4,0.2,0.2,0.0,LAC
-42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,5,0.041,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,0.8,0.4,0.2,0.6,0.4,LAC
-42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.0,5,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,LAC

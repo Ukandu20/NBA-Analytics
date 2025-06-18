@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,DAL
-42020,1626196,Josh Richardson,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,DAL
-42020,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,4,0.025,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,DAL
-42020,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.038,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,DAL
-42020,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.042,1.333,0.67,0.0,0.0,0.0,0.0,0.67,0.67,3,4,2,3,1,DAL
-42020,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.059,1.0,0.5,0.0,0.2,0.0,0.0,0.4,0.62,5,5,2,4,2,DAL
-42020,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,PRRollMan,Defensive,0.0,7,0.045,1.75,0.67,0.25,0.0,0.25,0.0,0.75,0.83,4,7,2,3,1,DAL

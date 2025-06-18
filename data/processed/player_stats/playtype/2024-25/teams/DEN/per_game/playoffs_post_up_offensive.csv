@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.35,14,0.274,0.822,0.465,0.139,0.188,0.109,0.03,0.416,0.465,7.2,5.9,2.4,5.1,2.7,DEN
-42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.65,14,0.131,0.893,0.4,0.214,0.107,0.107,0.036,0.464,0.4,2.0,1.8,0.6,1.4,0.9,DEN

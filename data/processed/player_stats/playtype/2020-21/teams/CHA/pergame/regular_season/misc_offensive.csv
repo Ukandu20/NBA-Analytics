@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22020,1626179,Terry Rozier,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.945,69,0.047,0.921,0.44,0.302,0.286,0.032,0.016,0.46,0.0054,0.9,0.8,0.2,0.4,0.2
+22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.94,44,0.04,0.909,0.88,0.303,0.455,0.0,0.0,0.515,0.0088,0.8,0.7,0.2,0.2,0.0
+22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.819,66,0.046,0.75,0.43,0.194,0.417,0.028,0.0,0.333,0.005699999999999999,0.5,0.4,0.1,0.2,0.1
+22020,1630163,LaMelo Ball,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.656,51,0.045,0.625,0.44,0.1,0.45,0.025,0.0,0.3,0.005,0.8,0.5,0.2,0.4,0.2
+22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.338,48,0.084,0.417,0.57,0.194,0.639,0.056,0.028,0.222,0.005699999999999999,0.8,0.3,0.1,0.1,0.1
+22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.219,66,0.128,0.319,0.75,0.234,0.681,0.0,0.0,0.213,0.0075,0.7,0.2,0.0,0.1,0.0
+22020,1628370,Malik Monk,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.622,42,0.041,0.6,0.14,0.25,0.4,0.0,0.0,0.3,0.0021,0.5,0.3,0.0,0.2,0.1
+22020,1628984,Devonte' Graham,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.252,55,0.041,0.353,0.07,0.176,0.412,0.0,0.0,0.206,0.0007000000000000001,0.6,0.2,0.0,0.3,0.2
+22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.148,64,0.043,0.263,0.8,0.026,0.842,0.0,0.0,0.132,0.009000000000000001,0.6,0.2,0.1,0.1,0.0
+22020,1629667,Jalen McDaniels,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.413,47,0.042,0.467,0.4,0.133,0.533,0.0,0.0,0.267,0.004,0.3,0.1,0.0,0.1,0.1
+22020,202954,Brad Wanamaker,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.286,22,0.073,0.385,0.17,0.154,0.385,0.0,0.0,0.231,0.0017000000000000001,0.6,0.2,0.0,0.3,0.2
+22020,1628997,Caleb Martin,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.196,53,0.041,0.308,0.17,0.077,0.462,0.0,0.0,0.154,0.0025,0.2,0.1,0.0,0.1,0.1
+22020,1628998,Cody Martin,1610612766,CHA,Charlotte Hornets,Misc,Offensive,0.107,52,0.07,0.235,0.2,0.059,0.647,0.059,0.0,0.118,0.002,0.3,0.1,0.0,0.1,0.1

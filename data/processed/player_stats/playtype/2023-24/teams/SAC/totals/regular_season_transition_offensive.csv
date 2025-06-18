@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.563,73,0.233,1.157,0.545,0.13,0.103,0.128,0.034,0.524,0.624,439,508,192,352,160,SAC
-22023,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.533,76,0.22,1.148,0.5,0.059,0.068,0.059,0.004,0.494,0.601,237,272,104,208,104,SAC
-22023,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.679,71,0.182,1.218,0.609,0.109,0.139,0.089,0.02,0.559,0.686,202,246,95,156,61,SAC
-22023,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.824,81,0.189,1.302,0.566,0.154,0.068,0.148,0.019,0.58,0.659,162,211,73,129,56,SAC
-22023,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.604,63,0.222,1.18,0.52,0.036,0.05,0.036,0.0,0.504,0.618,139,164,66,127,61,SAC
-22023,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.805,56,0.219,1.29,0.62,0.032,0.161,0.032,0.0,0.532,0.77,62,80,31,50,19,SAC
-22023,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.324,72,0.175,1.045,0.509,0.09,0.134,0.09,0.015,0.463,0.585,67,70,27,53,26,SAC
-22023,1628426,Sasha Vezenkov,1610612758,SAC,Sacramento Kings,Transition,Offensive,0.5,41,0.146,1.133,0.464,0.033,0.033,0.033,0.0,0.467,0.554,30,34,13,28,15,SAC

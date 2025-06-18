@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.393,5,0.465,0.8,0.452,0.075,0.15,0.05,0.0,0.425,0.00452,40,32,14,31,17
+42015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.098,4,0.652,0.533,0.318,0.033,0.233,0.033,0.0,0.267,0.00318,30,16,7,22,15
+42015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.902,5,0.167,1.083,0.4,0.167,0.0,0.167,0.0,0.5,0.0045000000000000005,12,13,4,10,6
+42015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.933,5,0.27,1.1,0.8,0.3,0.2,0.3,0.0,0.6,0.008,10,11,4,5,1
+42015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,3,0.24,1.333,0.75,0.0,0.333,0.0,0.0,0.5,0.01,6,8,3,4,1
+42015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,5,0.102,0.8,0.25,0.2,0.0,0.2,0.0,0.4,0.0025,5,4,1,4,3
+42015,101111,Charlie Villanueva,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,4,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

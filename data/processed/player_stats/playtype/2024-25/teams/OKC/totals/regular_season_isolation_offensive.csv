@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.889,76,0.251,1.101,0.464,0.161,0.047,0.143,0.024,0.514,0.508,533,587,202,435,233,OKC
-22024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.686,69,0.091,0.962,0.43,0.115,0.046,0.107,0.031,0.45,0.461,131,126,49,114,65,OKC
-22024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.837,76,0.042,1.057,0.467,0.114,0.057,0.114,0.029,0.486,0.517,35,37,14,30,16,OKC
-22024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.396,69,0.032,0.846,0.417,0.077,0.077,0.077,0.077,0.385,0.417,13,11,5,12,7,OKC
-22024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.524,57,0.016,0.9,0.375,0.2,0.0,0.2,0.0,0.5,0.375,10,9,3,8,5,OKC
-22024,1641794,Dillon Jones,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.071,54,0.063,0.545,0.333,0.0,0.182,0.0,0.0,0.273,0.333,11,6,3,9,6,OKC

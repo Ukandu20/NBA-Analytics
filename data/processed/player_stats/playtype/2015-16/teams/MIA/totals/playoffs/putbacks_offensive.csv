@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.889,10,0.19,1.368,0.786,0.263,0.053,0.316,0.11,0.684,0.786,19,26,11,14,3
+42015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,13,0.09,1.444,0.8,0.333,0.111,0.333,0.0,0.778,0.8,9,13,4,5,1
+42015,2736,Luol Deng,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.333,14,0.056,0.9,0.5,0.2,0.3,0.2,0.1,0.4,0.5,10,9,3,6,3
+42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,14,0.021,1.5,1.0,0.0,0.25,0.0,0.0,0.75,1.0,4,6,3,3,0
+42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,10,0.098,1.5,1.0,0.0,0.25,0.0,0.0,0.75,1.0,4,6,3,3,0
+42015,2617,Udonis Haslem,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,9,0.2,1.2,0.667,0.2,0.2,0.2,0.0,0.6,0.667,5,6,2,3,1
+42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,14,0.016,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,4,4,1,2,1
+42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,14,0.022,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,7,4,2,7,5
+42015,2405,Amar'e Stoudemire,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,9,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42015,101123,Gerald Green,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.0,12,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

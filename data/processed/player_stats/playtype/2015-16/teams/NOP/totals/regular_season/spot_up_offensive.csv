@@ -1,0 +1,17 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.513,66,0.201,0.946,0.384,0.045,0.071,0.027,0.0,0.384,0.492,224,212,76,198,122
+22015,201569,Eric Gordon,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.763,45,0.276,1.059,0.379,0.037,0.032,0.021,0.016,0.38,0.528,187,198,67,177,110
+22015,201967,Dante Cunningham,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.441,80,0.436,0.912,0.345,0.037,0.033,0.037,0.0,0.353,0.463,215,196,69,200,131
+22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.52,61,0.13,0.952,0.432,0.086,0.043,0.091,0.043,0.435,0.473,186,177,73,169,96
+22015,202337,Luke Babbitt,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.51,47,0.44,0.945,0.397,0.055,0.055,0.048,0.007,0.404,0.485,146,138,52,131,79
+22015,201962,Toney Douglas,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.923,61,0.195,1.176,0.443,0.093,0.046,0.083,0.037,0.435,0.603,108,127,43,97,54
+22015,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.394,65,0.086,0.893,0.386,0.087,0.087,0.087,0.029,0.388,0.449,103,92,34,88,54
+22015,202087,Alonzo Gee,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.254,73,0.328,0.811,0.372,0.054,0.099,0.045,0.0,0.36,0.436,111,90,35,94,59
+22015,202708,Norris Cole,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.229,45,0.164,0.792,0.295,0.031,0.052,0.031,0.0,0.302,0.409,96,76,26,88,62
+22015,201936,Tyreke Evans,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.944,25,0.113,1.229,0.442,0.104,0.0,0.104,0.0,0.5,0.593,48,59,19,43,24
+22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.176,59,0.151,0.75,0.393,0.017,0.05,0.0,0.0,0.383,0.393,60,45,22,56,34
+22015,202397,Ish Smith,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.643,27,0.152,1.0,0.45,0.045,0.068,0.023,0.023,0.432,0.513,44,44,18,40,22
+22015,203516,James Ennis III,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.745,9,0.31,1.05,0.412,0.075,0.075,0.075,0.0,0.425,0.559,40,42,14,34,20
+22015,202706,Jordan Hamilton,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.056,11,0.321,0.6,0.289,0.067,0.089,0.067,0.0,0.311,0.316,45,27,11,38,27
+22015,204025,Tim Frazier,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.303,16,0.108,0.84,0.389,0.2,0.12,0.12,0.04,0.36,0.472,25,21,7,18,11
+22015,1626214,Bryce Dejean-Jones,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.026,14,0.258,0.522,0.2,0.087,0.043,0.087,0.0,0.217,0.275,23,12,4,20,16

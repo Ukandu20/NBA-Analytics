@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1627761,DeAndre' Bembry,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.393,81,0.023,1.059,0.5,0.18,0.12,0.18,0.0,0.53,0.583,17,18,6,12,6,ATL
-22018,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.406,80,0.022,1.05,0.5,0.05,0.15,0.05,0.0,0.45,0.625,20,21,8,16,8,ATL
-22018,1713,Vince Carter,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.469,76,0.059,1.0,0.444,0.09,0.13,0.04,0.0,0.43,0.556,23,23,8,18,10,ATL
-22018,1629016,Omari Spellman,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.112,45,0.071,1.304,0.478,0.04,0.0,0.04,0.04,0.48,0.63,23,30,11,23,12,ATL
-22018,1628381,John Collins,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.785,60,0.072,0.8,0.333,0.13,0.09,0.13,0.02,0.38,0.403,45,36,12,36,24,ATL
-22018,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.278,64,0.055,1.143,0.528,0.12,0.07,0.1,0.05,0.52,0.611,42,48,19,36,17,ATL
-22018,203458,Alex Len,1610612737,ATL,Atlanta Hawks,PRRollMan,Defensive,0.296,76,0.052,1.116,0.432,0.12,0.02,0.12,0.0,0.47,0.541,43,48,16,37,21,ATL

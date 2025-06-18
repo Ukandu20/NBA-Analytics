@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Offensive,0.221,57,0.183,0.739,0.396,0.056,0.128,0.033,0.011,0.367,0.396,180,133,59,149,90
+22017,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.601,58,0.09,0.906,0.473,0.156,0.104,0.115,0.031,0.469,0.473,96,87,35,74,39
+22017,201578,Marreese Speights,1610612753,ORL,Orlando Magic,Postup,Offensive,0.779,52,0.129,0.981,0.524,0.094,0.113,0.094,0.0,0.491,0.524,53,52,22,42,20
+22017,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,Postup,Offensive,0.557,69,0.036,0.889,0.414,0.194,0.111,0.194,0.111,0.417,0.414,36,32,12,29,17
+22017,201167,Arron Afflalo,1610612753,ORL,Orlando Magic,Postup,Offensive,0.206,53,0.128,0.72,0.421,0.04,0.2,0.04,0.0,0.36,0.421,25,18,8,19,11
+22017,202687,Bismack Biyombo,1610612753,ORL,Orlando Magic,Postup,Offensive,0.044,82,0.045,0.522,0.294,0.087,0.174,0.087,0.0,0.261,0.294,23,12,5,17,12
+22017,203920,Khem Birch,1610612753,ORL,Orlando Magic,Postup,Offensive,0.084,42,0.085,0.6,0.375,0.2,0.267,0.2,0.0,0.4,0.375,15,9,3,8,5
+22017,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,Postup,Offensive,0.01,27,0.066,0.333,0.182,0.0,0.083,0.0,0.0,0.167,0.182,12,4,2,11,9

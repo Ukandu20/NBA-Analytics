@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.782,82,0.169,1.386,0.689,0.25,0.064,0.229,0.079,0.679,0.689,140,194,73,106,33
+22015,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.788,82,0.08,1.388,0.711,0.147,0.052,0.138,0.043,0.69,0.711,116,161,69,97,28
+22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.684,81,0.055,1.305,0.618,0.295,0.042,0.284,0.053,0.674,0.618,95,124,42,68,26
+22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.893,82,0.091,1.474,0.733,0.244,0.038,0.231,0.051,0.744,0.733,78,115,44,60,16
+22015,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.992,60,0.078,1.708,0.947,0.167,0.083,0.167,0.042,0.875,0.947,24,41,18,19,1
+22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.732,39,0.046,1.35,0.733,0.15,0.1,0.1,0.0,0.7,0.733,20,27,11,15,4
+22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.436,82,0.019,1.174,0.579,0.174,0.043,0.174,0.043,0.609,0.579,23,27,11,19,8
+22015,2419,Tayshaun Prince,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.099,77,0.086,0.957,0.45,0.174,0.0,0.174,0.043,0.478,0.45,23,22,9,20,11
+22015,1889,Andre Miller,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.872,26,0.122,1.455,0.889,0.0,0.182,0.0,0.0,0.727,0.889,11,16,8,9,1
+22015,202962,Greg Smith,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.391,18,0.277,1.154,0.583,0.077,0.0,0.154,0.077,0.538,0.583,13,15,7,12,5
+22015,708,Kevin Garnett,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.026,38,0.093,0.846,0.364,0.231,0.0,0.154,0.077,0.385,0.364,13,11,4,11,7
+22015,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.0,76,0.011,0.4,0.111,0.1,0.0,0.0,0.0,0.2,0.111,10,4,1,9,8

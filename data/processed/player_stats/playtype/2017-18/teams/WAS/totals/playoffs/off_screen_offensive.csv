@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.259,6,0.152,0.95,0.353,0.1,0.05,0.05,0.0,0.4,0.00441,20,19,6,17,11
+42017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,5,0.191,0.556,0.222,0.0,0.0,0.0,0.0,0.222,0.0027800000000000004,9,5,2,9,7
+42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,5,0.063,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1
+42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,6,0.033,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
+42017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,6,0.056,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0
+42017,203118,Mike Scott,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,6,0.041,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2

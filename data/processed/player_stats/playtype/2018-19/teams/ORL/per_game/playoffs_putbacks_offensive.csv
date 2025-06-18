@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1628371,Jonathan Isaac,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.125,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,1.2,1.2,0.6,1.2,0.6,ORL
-42018,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.051,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.8,0.8,0.4,0.8,0.4,ORL
-42018,203920,Khem Birch,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.231,0.667,0.5,0.0,0.33,0.0,0.0,0.333,0.5,1.2,0.8,0.4,0.8,0.4,ORL
-42018,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.083,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,1.4,0.8,0.4,1.4,1.0,ORL
-42018,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ORL
-42018,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ORL
-42018,203082,Terrence Ross,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.0,5,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,ORL

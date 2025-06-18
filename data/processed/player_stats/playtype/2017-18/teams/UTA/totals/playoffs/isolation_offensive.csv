@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.571,11,0.191,0.946,0.417,0.07,0.089,0.071,0.018,0.411,0.00479,56,53,20,48,28
+42017,203957,Danté Exum,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.837,10,0.164,1.1,0.714,0.1,0.2,0.1,0.0,0.6,0.00714,10,11,5,7,2
+42017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.327,11,0.097,0.733,0.333,0.0,0.0,0.0,0.0,0.333,0.00367,15,11,5,15,10
+42017,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.0,6,0.083,0.889,0.286,0.22,0.0,0.222,0.0,0.444,0.0028599999999999997,9,8,2,7,5
+42017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.0,11,0.051,0.857,0.429,0.0,0.0,0.0,0.0,0.429,0.0042899999999999995,7,6,3,7,4
+42017,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.0,11,0.074,0.5,0.25,0.17,0.167,0.167,0.0,0.333,0.0025,6,3,1,4,3
+42017,202692,Alec Burks,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.02,9,0.16,0.25,0.111,0.08,0.167,0.083,0.0,0.167,0.00111,12,3,1,9,8
+42017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.0,11,0.011,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42017,203526,Raul Neto,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.0,8,0.138,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,4,2,1,3,2

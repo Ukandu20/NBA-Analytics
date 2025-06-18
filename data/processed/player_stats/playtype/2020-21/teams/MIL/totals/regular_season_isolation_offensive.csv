@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.851,62,0.178,1.072,0.491,0.181,0.087,0.148,0.032,0.516,0.533,277,297,104,212,108,MIL
-22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.669,68,0.133,0.955,0.424,0.09,0.073,0.079,0.017,0.433,0.48,178,170,64,151,87,MIL
-22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.753,59,0.12,1.0,0.475,0.083,0.107,0.074,0.008,0.463,0.545,121,121,47,99,52,MIL
-22020,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.633,66,0.047,0.938,0.483,0.031,0.063,0.031,0.0,0.469,0.483,32,30,14,29,15,MIL
-22020,201952,Jeff Teague,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.343,21,0.2,0.786,0.381,0.143,0.143,0.143,0.036,0.393,0.381,28,22,8,21,13,MIL
-22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.221,66,0.025,0.667,0.313,0.0,0.111,0.0,0.0,0.278,0.375,18,12,5,16,11,MIL
-22020,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.194,70,0.014,0.636,0.333,0.0,0.182,0.0,0.0,0.273,0.389,11,7,3,9,6,MIL
-22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.106,37,0.054,0.538,0.222,0.154,0.154,0.0,0.0,0.308,0.222,13,7,2,9,7,MIL

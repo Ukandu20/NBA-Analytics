@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.814,72,0.064,1.047,0.473,0.082,0.059,0.082,0.012,0.482,0.514,1.2,1.2,0.5,1.0,0.5
+22015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.547,81,0.077,0.873,0.392,0.018,0.073,0.018,0.018,0.364,0.461,0.7,0.6,0.2,0.6,0.4
+22015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.691,58,0.077,0.956,0.472,0.067,0.133,0.044,0.0,0.444,0.514,0.8,0.7,0.3,0.6,0.3
+22015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.319,72,0.048,0.75,0.364,0.136,0.136,0.136,0.023,0.386,0.379,0.6,0.5,0.2,0.5,0.3
+22015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.775,55,0.064,1.0,0.412,0.143,0.048,0.095,0.0,0.476,0.441,0.4,0.4,0.1,0.3,0.2
+22015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.055,79,0.05,0.485,0.222,0.03,0.152,0.03,0.0,0.212,0.259,0.4,0.2,0.1,0.3,0.3
+22015,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.072,78,0.049,0.526,0.214,0.105,0.158,0.105,0.0,0.263,0.214,0.2,0.1,0.0,0.2,0.1

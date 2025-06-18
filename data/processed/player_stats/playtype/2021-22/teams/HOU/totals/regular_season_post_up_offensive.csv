@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1630578,Alperen Sengun,1610612745,HOU,Houston Rockets,Postup,Offensive,0.509,72,0.208,0.926,0.518,0.173,0.179,0.123,0.031,0.475,0.518,162,150,57,110,53,HOU
-22021,1626174,Christian Wood,1610612745,HOU,Houston Rockets,Postup,Offensive,0.568,68,0.096,0.946,0.494,0.216,0.117,0.162,0.027,0.532,0.494,111,105,38,77,39,HOU
-22021,1630256,Jae'Sean Tate,1610612745,HOU,Houston Rockets,Postup,Offensive,0.781,78,0.058,1.056,0.595,0.222,0.148,0.13,0.056,0.574,0.595,54,57,22,37,15,HOU
-22021,1630231,KJ Martin,1610612745,HOU,Houston Rockets,Postup,Offensive,0.048,79,0.019,0.5,0.222,0.083,0.167,0.083,0.0,0.25,0.222,12,6,2,9,7,HOU

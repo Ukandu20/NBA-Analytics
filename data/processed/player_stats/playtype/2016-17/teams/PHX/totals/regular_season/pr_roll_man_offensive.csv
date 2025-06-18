@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203458,Alex Len,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.359,77,0.183,0.95,0.448,0.175,0.083,0.175,0.058,0.467,0.448,120,114,43,96,53
+22016,1626210,Alan Williams,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.633,47,0.237,1.083,0.535,0.179,0.024,0.179,0.048,0.56,0.535,84,91,38,71,33
+22016,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.95,47,0.17,1.367,0.718,0.3,0.1,0.3,0.05,0.7,0.718,60,82,28,39,11
+22016,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.211,82,0.105,0.872,0.389,0.105,0.07,0.105,0.012,0.419,0.431,86,75,28,72,44
+22016,201162,Jared Dudley,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.917,64,0.121,1.278,0.6,0.056,0.111,0.056,0.0,0.556,0.7,54,69,27,45,18
+22016,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.679,57,0.038,1.118,0.5,0.059,0.0,0.059,0.0,0.529,0.563,17,19,8,16,8
+22016,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.0,43,0.056,0.273,0.1,0.0,0.091,0.0,0.0,0.091,0.15,11,3,1,10,9

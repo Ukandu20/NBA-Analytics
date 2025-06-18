@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.367,77,0.042,0.913,0.433,0.239,0.109,0.13,0.0,0.5,0.433,0.6,0.5,0.2,0.4,0.2,CLE
-22023,1630596,Evan Mobley,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.166,50,0.066,0.83,0.412,0.17,0.128,0.149,0.021,0.447,0.412,0.9,0.8,0.3,0.7,0.4,CLE
-22023,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.554,82,0.014,1.0,0.714,0.0,0.3,0.0,0.0,0.5,0.714,0.1,0.1,0.1,0.1,0.0,CLE

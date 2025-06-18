@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42023,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.551,6,0.185,1.167,0.5,0.133,0.033,0.133,0.033,0.533,0.538,30,35,13,26,13,PHI
-42023,1626162,Kelly Oubre Jr.,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.809,6,0.247,1.368,0.647,0.105,0.053,0.105,0.053,0.632,0.735,19,26,11,17,6,PHI
-42023,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.216,6,0.214,0.917,0.5,0.0,0.167,0.0,0.0,0.417,0.55,12,11,5,10,5,PHI
-42023,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.022,6,0.067,0.538,0.2,0.308,0.385,0.308,0.077,0.308,0.2,13,7,1,5,4,PHI

@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.346,81,0.145,0.825,0.423,0.13,0.11,0.124,0.036,0.42,0.428,251,207,85,201,116
+22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.643,39,0.22,1.0,0.376,0.1,0.02,0.094,0.01,0.43,0.459,96,96,32,85,53
+22015,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.837,82,0.056,1.099,0.547,0.02,0.06,0.025,0.012,0.52,0.58,81,89,41,75,34
+22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.427,82,0.073,0.874,0.355,0.05,0.09,0.034,0.011,0.34,0.454,87,76,27,76,49
+22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.386,82,0.105,0.844,0.397,0.11,0.04,0.111,0.022,0.43,0.397,90,76,31,78,47

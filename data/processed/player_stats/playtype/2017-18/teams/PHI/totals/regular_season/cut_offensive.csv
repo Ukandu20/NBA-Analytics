@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.887,81,0.09,1.484,0.772,0.094,0.047,0.086,0.031,0.742,0.772,128,190,88,114,26
+22017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.812,63,0.075,1.402,0.722,0.196,0.08,0.188,0.08,0.696,0.722,112,157,65,90,25
+22017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.323,78,0.111,1.184,0.587,0.144,0.056,0.144,0.032,0.6,0.587,125,148,61,104,43
+22017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.456,74,0.268,1.242,0.63,0.158,0.042,0.147,0.053,0.632,0.63,95,118,51,81,30
+22017,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.792,48,0.242,1.386,0.698,0.157,0.029,0.157,0.086,0.7,0.698,70,97,44,63,19
+22017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.334,80,0.058,1.186,0.574,0.153,0.068,0.153,0.017,0.593,0.574,59,70,27,47,20
+22017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.656,70,0.035,1.324,0.75,0.108,0.162,0.081,0.027,0.649,0.75,37,49,21,28,7
+22017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.442,28,0.112,1.237,0.655,0.158,0.105,0.132,0.026,0.632,0.655,38,47,19,29,10
+22017,202344,Trevor Booker,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.989,33,0.172,1.68,0.81,0.2,0.0,0.16,0.04,0.84,0.81,25,42,17,21,4
+22017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.26,23,0.126,1.152,0.56,0.212,0.061,0.212,0.03,0.606,0.56,33,38,14,25,11
+22017,201573,Jerryd Bayless,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.53,40,0.088,1.276,0.708,0.069,0.103,0.069,0.0,0.655,0.708,29,37,17,24,7
+22017,1627789,Timothe Luwawu-Cabarrot,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.76,52,0.075,1.36,0.682,0.12,0.08,0.12,0.08,0.64,0.682,25,34,15,22,7
+22017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.936,38,0.085,1.55,0.778,0.1,0.0,0.1,0.0,0.8,0.778,20,31,14,18,4
+22017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.102,76,0.044,1.0,0.571,0.0,0.125,0.0,0.0,0.5,0.571,24,24,12,21,9
+22017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Cut,Offensive,0.102,14,0.072,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.857,79,0.153,1.102,0.467,0.233,0.068,0.214,0.049,0.534,0.485,3.4,3.7,1.2,2.5,1.3,CHI
-22023,1629632,Coby White,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.324,79,0.054,0.825,0.377,0.063,0.075,0.063,0.0,0.388,0.413,1.0,0.8,0.3,0.9,0.5,CHI
-22023,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.34,25,0.127,0.833,0.353,0.067,0.1,0.067,0.017,0.35,0.431,2.4,2.0,0.7,2.0,1.3,CHI
-22023,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.554,76,0.016,0.955,0.588,0.045,0.227,0.045,0.045,0.455,0.588,0.3,0.3,0.1,0.2,0.1,CHI
-22023,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.852,71,0.014,1.1,0.625,0.1,0.1,0.1,0.0,0.6,0.625,0.1,0.2,0.1,0.1,0.0,CHI
-22023,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.463,76,0.012,0.9,0.6,0.2,0.3,0.1,0.0,0.5,0.6,0.1,0.1,0.0,0.1,0.0,CHI
-22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.008,43,0.031,0.286,0.167,0.0,0.143,0.0,0.0,0.143,0.167,0.3,0.1,0.0,0.3,0.2,CHI

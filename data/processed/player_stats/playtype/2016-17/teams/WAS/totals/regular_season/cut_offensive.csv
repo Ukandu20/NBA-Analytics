@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Cut,Offensive,0.409,82,0.295,1.184,0.606,0.086,0.047,0.082,0.02,0.6,0.606,255,302,137,226,89
+22016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Cut,Offensive,0.466,76,0.097,1.222,0.6,0.13,0.056,0.13,0.019,0.611,0.6,108,132,54,90,36
+22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Cut,Offensive,0.926,80,0.077,1.536,0.75,0.145,0.029,0.145,0.043,0.754,0.75,69,106,45,60,15
+22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Cut,Offensive,0.583,77,0.039,1.286,0.625,0.143,0.032,0.143,0.063,0.635,0.625,63,81,35,56,21
+22016,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Cut,Offensive,0.529,31,0.239,1.256,0.724,0.233,0.116,0.209,0.023,0.651,0.724,43,54,21,29,8
+22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Cut,Offensive,0.054,79,0.066,0.914,0.444,0.143,0.114,0.143,0.029,0.457,0.444,35,32,12,27,15
+22016,201160,Jason Smith,1610612764,WAS,Washington Wizards,Cut,Offensive,0.293,74,0.059,1.125,0.632,0.125,0.125,0.125,0.042,0.583,0.632,24,27,12,19,7
+22016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Cut,Offensive,0.515,57,0.081,1.25,0.538,0.25,0.0,0.25,0.063,0.625,0.538,16,20,7,13,6
+22016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Cut,Offensive,0.311,26,0.049,1.133,0.545,0.2,0.133,0.2,0.067,0.533,0.545,15,17,6,11,5
+22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Cut,Offensive,0.865,33,0.045,1.455,0.727,0.0,0.0,0.0,0.0,0.727,0.727,11,16,8,11,3

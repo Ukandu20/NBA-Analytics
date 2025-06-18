@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.36,18,0.154,0.895,0.519,0.11,0.18,0.08,0.0,0.47,0.519,38,34,14,27,13,MIA
-42021,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.88,17,0.057,1.261,0.5,0.35,0.09,0.3,0.04,0.61,0.5,23,29,7,14,7,MIA
-42021,200782,P.J. Tucker,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,18,0.023,1.333,1.0,0.0,0.33,0.0,0.0,0.67,1.0,3,4,2,2,0,MIA
-42021,1630209,Omer Yurtseven,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,9,0.05,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIA
-42021,203473,Dewayne Dedmon,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,14,0.018,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIA
-42021,200768,Kyle Lowry,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,10,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,MIA

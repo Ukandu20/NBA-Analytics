@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.141,78,0.114,0.738,0.309,0.031,0.138,0.031,0.015,0.277,0.409,65,48,17,55,38,PHI
-22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.686,77,0.021,1.059,0.467,0.0,0.118,0.0,0.0,0.412,0.6,17,18,7,15,8,PHI
-22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.026,74,0.031,0.516,0.194,0.0,0.0,0.0,0.0,0.194,0.258,31,16,6,31,25,PHI
-22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.841,56,0.04,1.2,0.5,0.0,0.2,0.0,0.0,0.4,0.75,10,12,4,8,4,PHI
-22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.04,60,0.015,0.563,0.2,0.0,0.063,0.0,0.0,0.188,0.3,16,9,3,15,12,PHI
-22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.035,58,0.009,0.545,0.182,0.0,0.0,0.0,0.0,0.182,0.273,11,6,2,11,9,PHI

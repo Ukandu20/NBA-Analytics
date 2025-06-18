@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.702,9,0.37,0.934,0.453,0.092,0.079,0.092,0.013,0.447,0.00484,76,71,29,64,35
+42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.088,9,0.37,0.458,0.286,0.021,0.25,0.021,0.0,0.208,0.00314,48,22,10,35,25
+42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.632,9,0.28,0.905,0.421,0.048,0.095,0.048,0.048,0.381,0.004739999999999999,21,19,8,19,11
+42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.852,9,0.13,1.0,0.6,0.071,0.214,0.071,0.0,0.5,0.006500000000000001,14,14,6,10,4
+42017,202348,Jordan Crawford,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.0,2,0.38,1.5,0.667,0.0,0.0,0.0,0.0,0.667,0.0075,6,9,4,6,2
+42017,202732,DeAndre Liggins,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.0,3,0.5,0.5,0.0,0.5,0.5,0.5,0.0,0.5,0.0,2,1,0,0,0
+42017,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,PRBallHandler,Offensive,0.0,9,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.92,69,0.421,1.007,0.464,0.137,0.157,0.122,0.031,0.446,0.527,549,553,188,405,217
+22016,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.46,72,0.393,0.777,0.328,0.199,0.171,0.209,0.019,0.379,0.362,211,164,44,134,90
+22016,203584,Troy Daniels,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.986,67,0.11,1.262,0.521,0.082,0.164,0.082,0.033,0.459,0.719,61,77,25,48,23
+22016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.446,73,0.155,0.772,0.382,0.109,0.163,0.076,0.011,0.359,0.449,92,71,26,68,42
+22016,201962,Toney Douglas,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.669,24,0.327,0.857,0.41,0.082,0.122,0.061,0.0,0.388,0.449,49,42,16,39,23
+22016,1627735,Wade Baldwin IV,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.224,33,0.339,0.655,0.342,0.103,0.241,0.069,0.0,0.328,0.342,58,38,13,38,25
+22016,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.357,71,0.061,0.739,0.432,0.065,0.152,0.043,0.022,0.37,0.432,46,34,16,37,21
+22016,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.146,34,0.181,0.583,0.225,0.042,0.125,0.042,0.0,0.229,0.288,48,28,9,40,31
+22016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.603,64,0.068,0.828,0.381,0.034,0.241,0.034,0.0,0.31,0.524,29,24,8,21,13
+22016,1627786,Troy Williams,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.28,24,0.082,0.692,0.364,0.077,0.077,0.077,0.0,0.385,0.364,13,9,4,11,7

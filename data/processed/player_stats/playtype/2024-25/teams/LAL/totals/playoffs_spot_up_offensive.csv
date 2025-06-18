@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.766,5,0.4,1.192,0.44,0.0,0.038,0.0,0.0,0.423,0.62,26,31,11,25,14,LAL
-42024,1629029,Luka Dončić,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.91,5,0.124,1.444,0.571,0.167,0.056,0.167,0.0,0.611,0.714,18,26,8,14,6,LAL
-42024,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.847,5,0.162,1.316,0.5,0.105,0.053,0.105,0.0,0.526,0.688,19,25,8,16,8,LAL
-42024,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.189,5,0.244,0.773,0.3,0.045,0.045,0.0,0.0,0.318,0.4,22,17,6,20,14,LAL
-42024,1627827,Dorian Finney-Smith,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.802,5,0.353,1.25,0.455,0.0,0.083,0.0,0.0,0.417,0.682,12,15,5,11,6,LAL

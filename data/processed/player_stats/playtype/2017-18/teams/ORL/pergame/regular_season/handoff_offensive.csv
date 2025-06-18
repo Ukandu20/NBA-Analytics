@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.494,57,0.125,0.884,0.4,0.124,0.099,0.091,0.008,0.43,0.442,2.1,1.9,0.7,1.7,1.0
+22017,203613,Jonathon Simmons,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.202,69,0.066,0.716,0.36,0.104,0.164,0.104,0.015,0.358,0.38,1.0,0.7,0.3,0.7,0.5
+22017,202714,Shelvin Mack,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.767,69,0.078,1.047,0.545,0.093,0.163,0.07,0.023,0.488,0.606,0.6,0.7,0.3,0.5,0.2
+22017,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.484,75,0.065,0.875,0.364,0.104,0.208,0.104,0.0,0.354,0.47,0.6,0.6,0.2,0.4,0.3
+22017,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.333,58,0.047,0.8,0.279,0.1,0.04,0.1,0.0,0.34,0.372,0.9,0.7,0.2,0.7,0.5
+22017,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.459,24,0.157,0.865,0.394,0.108,0.027,0.108,0.027,0.432,0.394,1.5,1.3,0.5,1.4,0.8
+22017,201578,Marreese Speights,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.813,52,0.034,1.071,0.385,0.071,0.0,0.071,0.0,0.429,0.5,0.3,0.3,0.1,0.3,0.2
+22017,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.039,75,0.044,0.455,0.182,0.091,0.242,0.061,0.0,0.212,0.227,0.4,0.2,0.1,0.3,0.2
+22017,1628411,Wes Iwundu,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.439,62,0.052,0.857,0.462,0.0,0.071,0.0,0.0,0.429,0.462,0.2,0.2,0.1,0.2,0.1
+22017,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.195,57,0.014,0.714,0.333,0.143,0.071,0.143,0.071,0.357,0.375,0.2,0.2,0.1,0.2,0.1
+22017,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.066,44,0.027,0.529,0.267,0.059,0.059,0.059,0.0,0.294,0.267,0.4,0.2,0.1,0.3,0.3
+22017,201167,Arron Afflalo,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.027,53,0.051,0.4,0.0,0.2,0.1,0.2,0.0,0.2,0.0,0.2,0.1,0.0,0.1,0.1

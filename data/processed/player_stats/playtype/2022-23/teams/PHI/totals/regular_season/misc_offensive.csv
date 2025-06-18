@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.698,66,0.057,0.63,0.333,0.259,0.463,0.019,0.0,0.343,0.00367,108,68,10,30,20
+22022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.706,58,0.053,0.635,0.778,0.238,0.619,0.016,0.0,0.349,0.008329999999999999,63,40,7,9,2
+22022,1630178,Tyrese Maxey,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.849,60,0.044,0.75,0.438,0.271,0.417,0.063,0.021,0.375,0.00563,48,36,7,16,9
+22022,1629001,De'Anthony Melton,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.54,77,0.062,0.531,0.364,0.224,0.551,0.02,0.0,0.306,0.00409,49,26,4,11,7
+22022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.665,74,0.036,0.611,0.444,0.194,0.556,0.056,0.0,0.306,0.00444,36,22,4,9,5
+22022,1629003,Shake Milton,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.523,76,0.062,0.525,0.412,0.075,0.5,0.025,0.0,0.25,0.00471,40,21,7,17,10
+22022,200782,P.J. Tucker,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.296,75,0.135,0.395,1.0,0.184,0.763,0.0,0.0,0.237,0.0125,38,15,2,2,0
+22022,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.139,78,0.051,0.276,0.143,0.103,0.655,0.0,0.0,0.138,0.0014299999999999998,29,8,1,7,6
+22022,1627863,Danuel House Jr.,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.376,56,0.044,0.455,0.2,0.182,0.364,0.091,0.0,0.273,0.002,11,5,1,5,4
+22022,1626149,Montrezl Harrell,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.101,57,0.06,0.235,0.0,0.176,0.765,0.118,0.0,0.118,0.0,17,4,0,1,1
+22022,1630194,Paul Reed,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.008,69,0.084,0.043,0.0,0.087,0.739,0.043,0.0,0.043,0.0,23,1,0,4,4

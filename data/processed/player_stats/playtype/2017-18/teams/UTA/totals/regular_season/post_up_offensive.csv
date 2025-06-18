@@ -1,0 +1,4 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Postup,Offensive,0.255,77,0.075,0.758,0.395,0.182,0.182,0.136,0.015,0.424,0.395,66,50,17,43,26
+22017,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Postup,Offensive,0.725,32,0.18,0.958,0.568,0.063,0.167,0.042,0.0,0.5,0.568,48,46,21,37,16
+22017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.507,56,0.036,0.875,0.412,0.208,0.125,0.125,0.042,0.458,0.412,24,21,7,17,10

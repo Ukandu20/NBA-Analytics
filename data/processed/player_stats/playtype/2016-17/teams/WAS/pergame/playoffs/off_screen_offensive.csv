@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.72,13,0.248,1.13,0.508,0.104,0.078,0.104,0.026,0.506,0.005849999999999999,5.9,6.7,2.5,5.0,2.5
+42016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.44,13,0.147,0.95,0.45,0.0,0.0,0.0,0.0,0.45,0.00475,1.5,1.5,1.2,2.0,0.8
+42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.542,13,0.167,1.0,0.4,0.111,0.056,0.111,0.0,0.444,0.0046700000000000005,1.4,1.4,0.3,1.0,0.7
+42016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.167,13,0.061,0.636,0.333,0.091,0.091,0.091,0.0,0.364,0.00333,0.8,0.5,0.5,1.0,0.5
+42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,7,0.182,2.5,1.0,0.0,0.0,0.0,0.0,1.0,0.0125,0.3,0.7,0.0,0.0,0.0
+42016,202322,John Wall,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,13,0.011,0.75,0.25,0.0,0.0,0.0,0.0,0.25,0.00375,0.3,0.2,-0.2,0.0,0.2
+42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,13,0.021,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.2,0.0,0.0,0.0
+42016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.0,12,0.042,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.3,0.2,-0.2,0.0,0.2

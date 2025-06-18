@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.782,75,0.119,1.128,0.492,0.114,0.096,0.105,0.027,0.484,0.575,2.9,3.3,1.2,2.4,1.2,PHX
-22024,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.745,62,0.082,1.107,0.481,0.083,0.041,0.058,0.0,0.504,0.547,2.0,2.2,0.8,1.7,0.9,PHX
-22024,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.908,64,0.085,1.25,0.475,0.115,0.115,0.115,0.0,0.481,0.663,0.8,1.0,0.3,0.6,0.3,PHX
-22024,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.47,53,0.048,0.951,0.441,0.073,0.098,0.049,0.0,0.415,0.529,0.8,0.7,0.3,0.6,0.4,PHX
-22024,1626145,Tyus Jones,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.914,81,0.019,1.267,0.429,0.067,0.0,0.067,0.0,0.467,0.607,0.2,0.2,0.1,0.2,0.1,PHX
-22024,1626220,Royce O'Neale,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.734,75,0.015,1.1,0.4,0.0,0.0,0.0,0.0,0.4,0.55,0.1,0.1,0.1,0.1,0.1,PHX

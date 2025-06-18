@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42021,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.911,15,0.356,1.12,0.54,0.126,0.144,0.114,0.024,0.503,0.631,11.1,12.5,4.5,8.4,3.9,DAL
-42021,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.796,18,0.274,1.0,0.451,0.109,0.04,0.109,0.05,0.465,0.473,5.6,5.6,2.3,5.1,2.8,DAL
-42021,203915,Spencer Dinwiddie,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.357,18,0.22,0.727,0.311,0.109,0.127,0.109,0.055,0.309,0.367,3.1,2.2,0.8,2.5,1.7,DAL
-42021,203504,Trey Burke,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.891,10,0.4,1.1,0.5,0.1,0.0,0.1,0.1,0.5,0.5,1.0,1.1,0.5,1.0,0.5,DAL
-42021,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,18,0.022,1.25,1.0,0.0,0.5,0.0,0.0,0.5,1.25,0.2,0.3,0.1,0.1,0.0,DAL
-42021,202722,Dāvis Bertāns,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,18,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,DAL
-42021,203493,Reggie Bullock Jr.,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,18,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,DAL
-42021,1628373,Frank Ntilikina,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.0,12,0.133,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1,DAL

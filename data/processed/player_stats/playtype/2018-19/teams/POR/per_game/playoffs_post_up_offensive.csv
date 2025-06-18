@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,202683,Enes Freedom,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.464,16,0.193,0.73,0.44,0.081,0.216,0.108,0.0,0.378,0.44,2.3,1.7,0.7,1.6,0.9,POR
-42018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Postup,Offensive,1.0,16,0.095,1.308,0.62,0.462,0.077,0.462,0.154,0.615,0.62,0.8,1.1,0.3,0.5,0.2,POR
-42018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.321,16,0.112,0.688,0.38,0.063,0.188,0.063,0.063,0.313,0.38,1.0,0.7,0.3,0.8,0.5,POR
-42018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.071,16,0.212,0.429,0.0,0.286,0.143,0.286,0.0,0.286,0.0,0.9,0.4,0.0,0.5,0.5,POR
-42018,1627746,Skal Labissiere,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.0,3,0.25,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.3,0.7,0.3,0.3,0.0,POR
-42018,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.0,11,0.014,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.2,0.1,0.1,0.0,POR
-42018,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.0,16,0.062,0.286,0.33,0.0,0.429,0.143,0.0,0.143,0.33,0.4,0.1,0.1,0.2,0.1,POR
-42018,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.0,16,0.014,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.1,0.1,0.0,0.1,0.1,POR

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.873,80,0.224,1.506,0.778,0.183,0.085,0.183,0.091,0.732,0.778,2.1,3.1,1.3,1.7,0.4,ORL
-22023,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Cut,Offensive,0.653,55,0.177,1.388,0.74,0.204,0.071,0.204,0.061,0.724,0.74,1.8,2.5,1.0,1.4,0.4,ORL
-22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Cut,Offensive,0.637,72,0.067,1.38,0.688,0.098,0.043,0.076,0.011,0.685,0.688,1.3,1.8,0.8,1.1,0.3,ORL
-22023,1629048,Goga Bitadze,1610612753,ORL,Orlando Magic,Cut,Offensive,0.55,62,0.275,1.35,0.672,0.213,0.038,0.163,0.088,0.688,0.672,1.3,1.7,0.7,1.1,0.4,ORL
-22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Cut,Offensive,0.384,80,0.043,1.277,0.652,0.205,0.036,0.169,0.036,0.675,0.652,1.0,1.3,0.5,0.8,0.3,ORL
-22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Cut,Offensive,0.336,69,0.113,1.237,0.643,0.211,0.105,0.211,0.053,0.632,0.643,0.6,0.7,0.3,0.4,0.1,ORL
-22023,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Cut,Offensive,0.024,43,0.097,0.868,0.469,0.079,0.105,0.079,0.026,0.421,0.469,0.9,0.8,0.3,0.7,0.4,ORL
-22023,203914,Gary Harris,1610612753,ORL,Orlando Magic,Cut,Offensive,0.406,54,0.061,1.286,0.647,0.143,0.095,0.143,0.048,0.619,0.647,0.4,0.5,0.2,0.3,0.1,ORL

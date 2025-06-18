@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.5,78,0.122,0.925,0.45,0.2,0.125,0.163,0.006,0.488,0.45,160,148,49,109,60,MEM
-22021,203500,Steven Adams,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.473,76,0.12,0.915,0.533,0.211,0.183,0.183,0.028,0.493,0.533,71,65,24,45,21,MEM
-22021,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.456,33,0.037,0.913,0.5,0.087,0.13,0.087,0.0,0.478,0.5,23,21,9,18,9,MEM
-22021,1630214,Xavier Tillman,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.325,53,0.053,0.867,0.5,0.2,0.2,0.2,0.067,0.4,0.5,15,13,5,10,5,MEM

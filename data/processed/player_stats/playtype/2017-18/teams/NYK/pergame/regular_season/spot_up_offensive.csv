@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,Spotup,Offensive,0.52,59,0.222,0.996,0.361,0.07,0.031,0.066,0.018,0.379,0.483,3.8,3.8,1.3,3.5,2.3
+22017,201584,Courtney Lee,1610612752,NYK,New York Knicks,Spotup,Offensive,0.704,76,0.234,1.068,0.418,0.024,0.039,0.024,0.0,0.415,0.546,2.7,2.9,1.1,2.6,1.5
+22017,202498,Lance Thomas,1610612752,NYK,New York Knicks,Spotup,Offensive,0.619,73,0.443,1.027,0.388,0.061,0.047,0.054,0.014,0.399,0.522,2.0,2.1,0.7,1.8,1.1
+22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Spotup,Offensive,0.623,49,0.131,1.028,0.373,0.063,0.069,0.056,0.007,0.382,0.524,2.9,3.0,1.0,2.6,1.6
+22017,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,Spotup,Offensive,0.582,78,0.195,1.016,0.414,0.023,0.078,0.023,0.008,0.391,0.547,1.6,1.7,0.6,1.5,0.9
+22017,203926,Doug McDermott,1610612752,NYK,New York Knicks,Spotup,Offensive,0.797,55,0.29,1.117,0.431,0.036,0.063,0.036,0.018,0.414,0.588,2.0,2.3,0.8,1.9,1.1
+22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,Spotup,Offensive,0.188,74,0.151,0.784,0.367,0.052,0.118,0.052,0.007,0.353,0.43,2.1,1.6,0.6,1.7,1.1
+22017,203504,Trey Burke,1610612752,NYK,New York Knicks,Spotup,Offensive,0.972,36,0.14,1.302,0.5,0.016,0.0,0.016,0.0,0.508,0.653,1.8,2.3,0.9,1.7,0.9
+22017,101127,Jarrett Jack,1610612752,NYK,New York Knicks,Spotup,Offensive,0.281,62,0.151,0.854,0.4,0.067,0.09,0.056,0.0,0.382,0.467,1.4,1.2,0.5,1.2,0.7
+22017,1628422,Damyean Dotson,1610612752,NYK,New York Knicks,Spotup,Offensive,0.677,44,0.308,1.053,0.434,0.018,0.053,0.018,0.0,0.421,0.557,1.3,1.4,0.5,1.2,0.7
+22017,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Spotup,Offensive,0.142,77,0.1,0.704,0.34,0.0,0.074,0.0,0.0,0.315,0.38,0.7,0.5,0.2,0.6,0.4
+22017,1628436,Luke Kornet,1610612752,NYK,New York Knicks,Spotup,Offensive,0.173,20,0.345,0.755,0.283,0.0,0.061,0.0,0.0,0.265,0.402,2.5,1.9,0.6,2.3,1.6
+22017,1627786,Troy Williams,1610612752,NYK,New York Knicks,Spotup,Offensive,0.42,17,0.279,0.944,0.394,0.0,0.083,0.0,0.0,0.361,0.515,2.1,2.0,0.8,1.9,1.2
+22017,1627758,Ron Baker,1610612752,NYK,New York Knicks,Spotup,Offensive,0.651,29,0.267,1.042,0.429,0.0,0.125,0.0,0.0,0.375,0.595,0.8,0.9,0.3,0.7,0.4
+22017,1626144,Emmanuel Mudiay,1610612752,NYK,New York Knicks,Spotup,Offensive,0.124,22,0.125,0.697,0.276,0.061,0.091,0.061,0.03,0.273,0.345,1.5,1.0,0.4,1.3,1.0
+22017,202683,Enes Freedom,1610612752,NYK,New York Knicks,Spotup,Offensive,0.261,71,0.021,0.842,0.421,0.0,0.0,0.0,0.0,0.421,0.421,0.3,0.2,0.1,0.3,0.2
+22017,1628439,Isaiah Hicks,1610612752,NYK,New York Knicks,Spotup,Offensive,0.043,18,0.155,0.533,0.231,0.0,0.133,0.0,0.0,0.2,0.308,0.8,0.4,0.2,0.7,0.6

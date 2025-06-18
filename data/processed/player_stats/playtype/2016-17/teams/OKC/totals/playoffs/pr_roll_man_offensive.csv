@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.194,1.714,0.86,0.0,0.0,0.0,0.0,0.857,0.0086,7,12,6,7,1
+42016,201959,Taj Gibson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.109,1.4,1.0,0.2,0.2,0.2,0.0,0.8,0.01,5,7,3,3,0
+42016,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.167,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,5,6,2,4,2
+42016,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.162,0.667,0.2,0.167,0.0,0.167,0.0,0.333,0.002,6,4,1,5,4
+42016,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.24,0.667,0.25,0.167,0.0,0.167,0.0,0.333,0.0025,6,4,1,4,3
+42016,203926,Doug McDermott,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,5,0.032,0.0,0.0,0.5,0.5,0.5,0.0,0.0,0.0,2,0,0,0,0
+42016,1627734,Domantas Sabonis,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,2,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2

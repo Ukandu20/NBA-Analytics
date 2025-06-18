@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.357,9,0.175,0.708,0.4,0.125,0.292,0.083,0.042,0.333,0.4,2.7,1.9,0.7,1.7,1.0,BOS
-42018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.041,1.0,0.5,0.167,0.167,0.0,0.0,0.5,0.5,0.7,0.7,0.2,0.4,0.2,BOS
-42018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.031,0.571,0.29,0.0,0.0,0.0,0.0,0.286,0.29,0.8,0.4,0.2,0.8,0.6,BOS
-42018,1627824,Guerschon Yabusele,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,4,0.25,1.5,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.5,0.8,0.0,0.0,0.0,BOS
-42018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.03,1.0,0.5,0.333,0.0,0.333,0.0,0.667,0.5,0.3,0.3,0.1,0.2,0.1,BOS
-42018,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.048,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.2,0.1,0.1,0.0,BOS
-42018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.034,0.5,0.33,0.0,0.25,0.0,0.0,0.25,0.33,0.4,0.2,0.1,0.3,0.2,BOS
-42018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,9,0.022,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.1,0.1,BOS

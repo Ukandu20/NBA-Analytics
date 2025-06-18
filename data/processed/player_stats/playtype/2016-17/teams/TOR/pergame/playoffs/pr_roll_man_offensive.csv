@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.625,10,0.333,1.083,0.61,0.111,0.083,0.139,0.0,0.556,0.0060999999999999995,4.0,3.9,1.7,2.8,1.1
+42016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.156,10,0.247,0.889,0.41,0.028,0.028,0.028,0.0,0.417,0.0044,4.0,3.2,1.4,3.4,2.0
+42016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,10,0.133,1.0,0.33,0.0,0.0,0.0,0.0,0.333,0.005,1.0,0.6,0.2,0.6,0.4
+42016,200782,P.J. Tucker,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,10,0.081,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.0025,0.0,0.2,0.1,0.4,0.3
+42016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,3,0.333,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0
+42016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,10,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1
+42016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,10,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1
+42016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.0,6,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3

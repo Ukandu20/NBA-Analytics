@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Misc,Offensive,0.971,11,0.056,1.188,0.556,0.313,0.125,0.0,0.0,0.625,0.005560000000000001,1.0,1.7,0.5,0.8,0.4
+42022,1628404,Josh Hart,1610612752,NYK,New York Knicks,Misc,Offensive,0.571,11,0.097,0.833,1.0,0.417,0.417,0.0,0.0,0.5,0.01,1.0,0.9,0.2,0.2,0.0
+42022,1630193,Immanuel Quickley,1610612752,NYK,New York Knicks,Misc,Offensive,0.0,8,0.07,1.5,1.0,0.667,0.167,0.0,0.0,0.833,0.01,1.0,1.1,0.1,0.1,0.0
+42022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Misc,Offensive,0.343,11,0.069,0.533,0.333,0.267,0.533,0.0,0.0,0.267,0.005,1.0,0.7,0.1,0.3,0.2
+42022,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Misc,Offensive,0.0,11,0.167,0.833,0.0,0.5,0.5,0.167,0.0,0.5,0.0,1.0,0.5,0.0,0.0,0.0
+42022,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Misc,Offensive,0.0,11,0.122,0.556,0.0,0.444,0.556,0.0,0.0,0.444,0.0,1.0,0.5,0.0,0.0,0.0
+42022,1629656,Quentin Grimes,1610612752,NYK,New York Knicks,Misc,Offensive,0.0,9,0.049,0.667,0.0,0.333,0.667,0.0,0.0,0.333,0.0,0.0,0.2,0.0,0.0,0.0
+42022,203944,Julius Randle,1610612752,NYK,New York Knicks,Misc,Offensive,0.059,10,0.053,0.182,0.0,0.182,0.727,0.0,0.0,0.182,0.0,1.0,0.2,0.0,0.1,0.1
+42022,1630167,Obi Toppin,1610612752,NYK,New York Knicks,Misc,Offensive,0.0,11,0.038,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2

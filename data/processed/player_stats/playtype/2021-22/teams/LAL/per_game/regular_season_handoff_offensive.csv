@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1628370,Malik Monk,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.533,76,0.062,0.903,0.417,0.048,0.194,0.032,0.016,0.355,0.542,0.8,0.7,0.3,0.6,0.4,LAL
-22021,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.865,56,0.029,1.111,0.429,0.044,0.044,0.044,0.022,0.422,0.583,0.8,0.9,0.3,0.8,0.4,LAL
-22021,1629659,Talen Horton-Tucker,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.72,60,0.062,1.0,0.457,0.095,0.095,0.095,0.024,0.452,0.514,0.7,0.7,0.3,0.6,0.3,LAL
-22021,201566,Russell Westbrook,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.372,78,0.026,0.818,0.342,0.068,0.068,0.068,0.0,0.364,0.408,0.6,0.5,0.2,0.5,0.3,LAL
-22021,201961,Wayne Ellington,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.536,43,0.124,0.906,0.379,0.0,0.094,0.0,0.0,0.344,0.5,0.7,0.7,0.3,0.7,0.4,LAL
-22021,202340,Avery Bradley,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.372,62,0.056,0.818,0.368,0.0,0.136,0.0,0.0,0.318,0.474,0.4,0.3,0.1,0.3,0.2,LAL
-22021,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.507,61,0.042,0.882,0.357,0.118,0.118,0.118,0.059,0.353,0.464,0.3,0.2,0.1,0.2,0.1,LAL
-22021,2546,Carmelo Anthony,1610612747,LAL,Los Angeles Lakers,Handoff,Offensive,0.299,69,0.021,0.778,0.313,0.056,0.056,0.056,0.0,0.333,0.406,0.3,0.2,0.1,0.2,0.2,LAL

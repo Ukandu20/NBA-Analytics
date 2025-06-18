@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.0,11,0.058,1.444,0.556,0.111,0.0,0.111,0.111,0.556,0.006670000000000001,9,13,5,9,4
+42017,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.222,11,0.038,0.909,0.364,0.091,0.0,0.091,0.091,0.364,0.00409,11,10,4,11,7
+42017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.0,11,0.029,1.25,1.0,0.25,0.5,0.25,0.25,0.5,0.0125,4,5,2,2,0
+42017,202692,Alec Burks,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.0,9,0.053,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.0025,4,2,1,4,3
+42017,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.0,6,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

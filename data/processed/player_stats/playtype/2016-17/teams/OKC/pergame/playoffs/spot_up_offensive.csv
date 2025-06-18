@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,203926,Doug McDermott,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.899,5,0.789,1.467,0.533,0.0,0.0,0.0,0.0,0.533,0.00733,3.0,4.4,1.6,3.0,1.4
+42016,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.367,5,0.333,0.952,0.389,0.0,0.143,0.0,0.0,0.333,0.005560000000000001,4.2,4.0,1.4,3.6,2.2
+42016,203506,Victor Oladipo,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.22,5,0.29,0.85,0.316,0.0,0.05,0.0,0.0,0.3,0.00447,4.0,3.4,1.2,3.8,2.6
+42016,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,5,0.243,1.556,0.714,0.222,0.111,0.222,0.111,0.667,0.00857,1.8,2.8,1.0,1.4,0.4
+42016,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.606,5,0.4,1.1,0.4,0.0,0.0,0.0,0.0,0.4,0.0055000000000000005,2.0,2.2,0.8,2.0,1.2
+42016,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.185,5,0.052,0.818,0.273,0.0,0.0,0.0,0.0,0.273,0.00409,2.2,1.8,0.6,2.2,1.6
+42016,201959,Taj Gibson,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,5,0.087,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.0075,0.8,1.2,0.6,0.8,0.2
+42016,203902,Semaj Christon,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,2,0.4,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,1.0,1.5,0.5,1.0,0.5
+42016,202708,Norris Cole,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,4,0.3,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.005,0.8,0.8,0.3,0.8,0.5
+42016,1627734,Domantas Sabonis,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,2,0.4,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,1.0,1.0,0.0,0.5,0.5
+42016,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.0,5,0.067,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4

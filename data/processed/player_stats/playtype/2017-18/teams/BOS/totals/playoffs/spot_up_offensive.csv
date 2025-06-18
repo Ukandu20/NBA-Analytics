@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.455,18,0.288,1.0,0.369,0.033,0.033,0.033,0.0,0.378,0.00512,90,90,31,84,53
+42017,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.787,19,0.224,1.0,0.516,0.0,0.086,0.0,0.0,0.471,0.00695,70,89,33,64,31
+42017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.648,19,0.264,1.0,0.424,0.056,0.014,0.042,0.0,0.451,0.00553,71,80,28,66,38
+42017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.407,19,0.198,1.0,0.421,0.132,0.088,0.118,0.06,0.426,0.00491,68,67,24,57,33
+42017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.556,19,0.255,1.0,0.346,0.037,0.0,0.037,0.0,0.37,0.00519,27,29,9,26,17
+42017,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.066,15,0.177,1.0,0.207,0.086,0.086,0.086,0.0,0.257,0.00293,35,21,6,29,23
+42017,201143,Al Horford,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.066,19,0.111,1.0,0.231,0.033,0.1,0.033,0.0,0.233,0.00308,30,18,6,26,20
+42017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.455,17,0.459,1.0,0.353,0.0,0.0,0.0,0.0,0.353,0.005,17,17,6,17,11
+42017,203499,Shane Larkin,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.0,11,0.209,1.0,0.556,0.0,0.0,0.0,0.0,0.556,0.006670000000000001,9,12,5,9,4
+42017,202328,Greg Monroe,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.0,11,0.111,1.0,0.5,0.0,0.143,0.0,0.0,0.429,0.005,7,6,3,6,3
+42017,1627846,Abdel Nader,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.0,11,0.105,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+42017,1627824,Guerschon Yabusele,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.0,12,0.545,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,0,0,6,6

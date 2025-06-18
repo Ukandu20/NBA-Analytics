@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.627,66,0.122,0.604,0.57,0.406,0.525,0.02,0.0,0.43,0.005699999999999999,1.5,0.9,0.1,0.1,0.0
+22021,201144,Mike Conley,1610612762,UTA,Utah Jazz,Misc,Offensive,0.899,72,0.064,0.825,0.32,0.333,0.365,0.032,0.0,0.43,0.0042,0.9,0.7,0.1,0.3,0.2
+22021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Misc,Offensive,0.956,69,0.041,0.915,0.5,0.383,0.319,0.064,0.0,0.51,0.005699999999999999,0.7,0.6,0.1,0.2,0.1
+22021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Misc,Offensive,0.848,67,0.032,0.782,0.48,0.182,0.4,0.055,0.04,0.35,0.0058,0.8,0.6,0.2,0.4,0.2
+22021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Misc,Offensive,0.629,79,0.025,0.606,0.33,0.121,0.333,0.0,0.0,0.3,0.0039000000000000003,0.4,0.3,0.1,0.2,0.2
+22021,202355,Hassan Whiteside,1610612762,UTA,Utah Jazz,Misc,Offensive,0.388,65,0.094,0.442,0.83,0.233,0.628,0.023,0.0,0.3,0.0083,0.7,0.3,0.1,0.1,0.0
+22021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Misc,Offensive,0.264,77,0.061,0.394,0.38,0.091,0.667,0.03,0.0,0.18,0.005,0.4,0.2,0.0,0.1,0.1
+22021,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Misc,Offensive,0.547,45,0.053,0.556,0.4,0.111,0.611,0.0,0.0,0.22,0.006,0.4,0.2,0.0,0.1,0.1
+22021,200752,Rudy Gay,1610612762,UTA,Utah Jazz,Misc,Offensive,0.276,55,0.054,0.4,0.43,0.12,0.6,0.08,0.0,0.2,0.0043,0.5,0.2,0.1,0.1,0.1
+22021,1630235,Trent Forrest,1610612762,UTA,Utah Jazz,Misc,Offensive,0.471,60,0.08,0.5,0.5,0.111,0.556,0.0,0.0,0.28,0.005,0.3,0.2,0.1,0.1,0.1
+22021,1629672,Eric Paschall,1610612762,UTA,Utah Jazz,Misc,Offensive,0.873,58,0.034,0.8,0.0,0.4,0.4,0.1,0.0,0.4,0.0,0.2,0.1,0.0,0.0,0.0
+22021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Misc,Offensive,0.154,25,0.065,0.3,0.0,0.3,0.6,0.0,0.0,0.2,0.0,0.4,0.1,0.0,0.0,0.0
+22021,1628962,Udoka Azubuike,1610612762,UTA,Utah Jazz,Misc,Offensive,0.022,17,0.154,0.1,0.0,0.1,0.9,0.0,0.0,0.1,0.0,0.6,0.1,0.0,0.0,0.0

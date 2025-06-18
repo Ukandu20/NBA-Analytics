@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.744,67,0.132,0.975,0.458,0.09,0.085,0.07,0.015,0.457,0.491,199,194,76,166,90,BOS
-22018,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.17,79,0.128,0.63,0.316,0.043,0.148,0.04,0.012,0.29,0.338,162,102,42,133,91,BOS
-22018,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.183,75,0.091,0.641,0.309,0.054,0.076,0.05,0.011,0.315,0.321,92,59,25,81,56,BOS
-22018,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.405,79,0.08,0.806,0.351,0.048,0.032,0.03,0.0,0.355,0.412,62,50,20,57,37,BOS
-22018,201143,Al Horford,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.965,68,0.028,1.208,0.583,0.042,0.0,0.04,0.042,0.583,0.583,24,29,14,24,10,BOS
-22018,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.291,80,0.04,0.733,0.381,0.133,0.2,0.13,0.033,0.367,0.429,30,22,8,21,13,BOS
-22018,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.221,72,0.03,0.68,0.35,0.08,0.12,0.08,0.0,0.32,0.375,25,17,7,20,13,BOS
-22018,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.121,74,0.03,0.586,0.304,0.069,0.172,0.03,0.034,0.276,0.326,29,17,7,23,16,BOS

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Postup,Offensive,0.148,48,0.098,0.723,0.34,0.108,0.077,0.077,0.0,0.385,0.34,65,47,18,53,35,WAS
-22019,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,Postup,Offensive,0.955,45,0.053,1.15,0.75,0.15,0.25,0.15,0.0,0.6,0.75,20,23,9,12,3,WAS
-22019,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Postup,Offensive,0.142,46,0.054,0.714,0.375,0.179,0.286,0.143,0.036,0.357,0.375,28,20,6,16,10,WAS
-22019,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Postup,Offensive,0.413,57,0.011,0.889,0.438,0.056,0.056,0.0,0.0,0.444,0.438,18,16,7,16,9,WAS
-22019,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Postup,Offensive,0.5,38,0.039,0.917,0.571,0.25,0.167,0.083,0.0,0.5,0.571,12,11,4,7,3,WAS

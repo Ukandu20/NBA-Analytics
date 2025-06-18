@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202322,John Wall,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.431,13,0.399,0.799,0.391,0.128,0.154,0.107,0.054,0.376,0.004,149,119,45,115,70
+42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.948,13,0.226,1.143,0.542,0.057,0.129,0.043,0.029,0.486,0.00627,70,80,32,59,27
+42016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,13,0.059,1.0,0.429,0.125,0.0,0.0,0.0,0.5,0.0042899999999999995,8,8,3,7,4
+42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.07,13,0.333,0.5,0.286,0.0,0.125,0.0,0.0,0.25,0.0028599999999999997,16,8,4,14,10
+42016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,13,0.017,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,3,4,2,3,1
+42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,13,0.065,0.286,0.0,0.286,0.143,0.143,0.0,0.286,0.0,7,2,0,4,4
+42016,203504,Trey Burke,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,7,0.091,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,12,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,10,0.2,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1

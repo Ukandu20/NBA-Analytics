@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.796,10,0.206,1.19,0.436,0.071,0.024,0.048,0.024,0.452,0.00577,42,50,17,39,22
+42015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.548,10,0.131,1.0,0.417,0.077,0.0,0.077,0.0,0.462,0.00458,26,26,10,24,14
+42015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.153,10,0.466,0.676,0.276,0.0,0.147,0.0,0.0,0.235,0.0039700000000000004,34,23,8,29,21
+42015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.469,10,0.348,0.957,0.35,0.087,0.043,0.087,0.0,0.391,0.00475,23,22,7,20,13
+42015,2561,David West,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.949,10,0.167,1.545,0.636,0.0,0.0,0.0,0.0,0.636,0.00773,11,17,7,11,4
+42015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.765,10,0.185,1.167,0.375,0.25,0.083,0.167,0.0,0.5,0.005,12,14,3,8,5
+42015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.112,10,0.149,0.611,0.286,0.0,0.222,0.0,0.0,0.222,0.00393,18,11,4,14,10
+42015,2564,Boris Diaw,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.433,9,0.204,0.909,0.4,0.0,0.091,0.0,0.0,0.364,0.005,11,10,4,10,6
+42015,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.296,10,0.344,0.818,0.25,0.182,0.091,0.091,0.0,0.364,0.00313,11,9,2,8,6
+42015,2755,Kevin Martin,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,5,0.148,1.75,1.0,0.25,0.25,0.25,0.0,0.75,0.015,4,7,2,2,0
+42015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,3,0.333,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.00625,4,5,2,4,2
+42015,1626246,Boban Marjanović,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,7,0.053,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42015,1889,Andre Miller,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.0,5,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

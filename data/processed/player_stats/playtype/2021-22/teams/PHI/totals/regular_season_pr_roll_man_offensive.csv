@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.704,68,0.166,1.241,0.564,0.231,0.07,0.228,0.047,0.601,0.615,316,392,132,234,102,PHI
-22021,203083,Andre Drummond,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.447,49,0.165,1.069,0.636,0.069,0.172,0.034,0.0,0.552,0.636,58,62,28,44,16,PHI
-22021,1627777,Georges Niang,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.852,76,0.064,1.341,0.512,0.0,0.0,0.0,0.0,0.512,0.671,41,55,21,41,20,PHI
-22021,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.062,73,0.034,0.756,0.308,0.0,0.049,0.0,0.0,0.293,0.397,41,31,12,39,27,PHI
-22021,201599,DeAndre Jordan,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.992,16,0.182,1.714,0.857,0.0,0.0,0.0,0.0,0.857,0.857,14,24,12,14,2,PHI
-22021,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.23,66,0.045,0.938,0.385,0.188,0.0,0.188,0.0,0.438,0.423,16,15,5,13,8,PHI

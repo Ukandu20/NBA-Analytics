@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.455,67,0.051,0.909,0.385,0.159,0.136,0.148,0.034,0.409,0.438,88,80,25,65,40,BOS
-22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.932,74,0.025,1.294,0.6,0.137,0.118,0.118,0.039,0.569,0.7,51,66,24,40,16,BOS
-22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.979,82,0.037,1.382,0.633,0.088,0.088,0.088,0.059,0.588,0.717,34,47,19,30,11,BOS
-22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.682,67,0.04,1.056,0.533,0.056,0.139,0.028,0.028,0.472,0.583,36,38,16,30,14,BOS
-22022,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.464,80,0.056,0.917,0.35,0.042,0.125,0.042,0.0,0.333,0.5,24,22,7,20,13,BOS
-22022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.67,48,0.068,1.05,0.471,0.0,0.15,0.0,0.0,0.4,0.618,20,21,8,17,9,BOS
-22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.348,61,0.025,0.85,0.467,0.0,0.25,0.0,0.0,0.35,0.567,20,17,7,15,8,BOS
-22022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.192,79,0.033,0.75,0.313,0.1,0.15,0.1,0.05,0.3,0.406,20,15,5,16,11,BOS

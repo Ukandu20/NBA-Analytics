@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.031,1.125,0.333,0.25,0.0,0.25,0.0,0.5,0.00417,8,9,2,6,4
+42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.067,1.125,0.4,0.25,0.12,0.0,0.0,0.5,0.006,8,9,2,5,3
+42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.048,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.004,5,4,2,5,3
+42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.015,1.5,1.0,0.0,0.5,0.0,0.0,0.5,0.015,2,3,1,1,0
+42017,202348,Jordan Crawford,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,2,0.063,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.039,0.25,0.167,0.0,0.25,0.0,0.0,0.12,0.00167,8,2,1,6,5
+42017,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,Handoff,Offensive,0.0,9,0.026,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2

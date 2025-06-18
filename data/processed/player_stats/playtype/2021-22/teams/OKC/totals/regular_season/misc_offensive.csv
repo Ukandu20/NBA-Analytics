@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22021,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.882,56,0.045,0.806,0.36,0.226,0.226,0.097,0.03,0.4,0.0039000000000000003,62,50,13,36,23
+22021,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.993,51,0.035,1.161,0.54,0.355,0.226,0.097,0.0,0.58,0.0062,31,36,7,13,6
+22021,1629676,Isaiah Roby,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.958,45,0.059,0.92,0.73,0.16,0.44,0.04,0.04,0.44,0.008199999999999999,25,23,8,11,3
+22021,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.873,50,0.035,0.8,0.4,0.267,0.467,0.067,0.07,0.33,0.005,15,12,2,5,3
+22021,1630846,Olivier Sarr,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.507,22,0.14,0.526,0.5,0.263,0.632,0.0,0.0,0.32,0.005,19,10,1,2,1
+22021,1630544,Tre Mann,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.369,60,0.033,0.435,0.08,0.174,0.304,0.0,0.0,0.22,0.0012,23,10,1,12,11
+22021,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.177,69,0.036,0.31,0.43,0.103,0.655,0.069,0.0,0.21,0.0043,29,9,3,7,4
+22021,1630581,Josh Giddey,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.057,54,0.054,0.191,0.23,0.064,0.66,0.021,0.0,0.13,0.0023,47,9,3,13,10
+22021,1630177,Theo Maledon,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.536,51,0.026,0.545,1.0,0.091,0.727,0.0,0.0,0.27,0.01,11,6,2,2,0
+22021,1630526,Jeremiah Robinson-Earl,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.218,49,0.036,0.357,0.67,0.0,0.786,0.0,0.0,0.14,0.0083,14,5,2,3,1
+22021,203488,Mike Muscala,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.276,43,0.035,0.4,0.0,0.3,0.6,0.0,0.0,0.2,0.0,10,4,0,1,1
+22021,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.042,49,0.064,0.16,0.11,0.08,0.56,0.0,0.0,0.08,0.0011,25,4,1,9,8
+22021,1630197,Aleksej Pokusevski,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.015,61,0.042,0.083,0.25,0.042,0.792,0.0,0.0,0.04,0.0025,24,2,1,4,3
+22021,1629660,Ty Jerome,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.022,48,0.026,0.1,0.0,0.2,0.5,0.0,0.0,0.1,0.0,10,1,0,3,3

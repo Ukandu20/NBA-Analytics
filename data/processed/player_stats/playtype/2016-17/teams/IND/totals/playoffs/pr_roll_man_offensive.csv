@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.032,4,0.259,0.714,0.38,0.0,0.071,0.0,0.0,0.357,0.0038,14,10,5,13,8
+42016,202331,Paul George,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,4,0.026,1.667,0.67,0.0,0.0,0.0,0.0,0.667,0.0083,3,5,2,3,1
+42016,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,3,0.286,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0
+42016,101139,CJ Miles,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,4,0.037,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,1,3,1,1,0
+42016,202338,Kevin Seraphin,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,4,0.242,0.25,0.2,0.125,0.25,0.125,0.0,0.125,0.002,8,2,1,5,4

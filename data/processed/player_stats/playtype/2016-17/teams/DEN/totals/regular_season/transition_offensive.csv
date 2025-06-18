@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.918,57,0.187,1.375,0.636,0.125,0.09,0.111,0.035,0.611,0.72,144,198,75,118,43
+22016,203115,Will Barton,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.296,61,0.201,0.976,0.459,0.166,0.095,0.148,0.047,0.467,0.489,169,165,61,133,72
+22016,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.509,71,0.13,1.095,0.539,0.143,0.129,0.122,0.054,0.497,0.591,147,161,62,115,53
+22016,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.538,63,0.131,1.115,0.44,0.214,0.122,0.198,0.031,0.489,0.544,131,146,40,91,51
+22016,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.153,82,0.17,0.874,0.427,0.04,0.185,0.04,0.007,0.364,0.517,151,132,50,117,67
+22016,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.094,56,0.194,0.807,0.438,0.124,0.248,0.117,0.034,0.379,0.474,145,117,42,96,54
+22016,2749,Jameer Nelson,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.643,75,0.125,1.158,0.488,0.042,0.074,0.021,0.0,0.474,0.625,95,110,41,84,43
+22016,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.258,73,0.077,0.953,0.593,0.093,0.267,0.058,0.047,0.453,0.627,86,82,35,59,24
+22016,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.702,61,0.114,1.206,0.674,0.159,0.143,0.127,0.032,0.603,0.674,63,76,31,46,15
+22016,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.617,62,0.191,1.145,0.622,0.182,0.182,0.127,0.036,0.545,0.689,55,63,23,37,14
+22016,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.671,40,0.114,1.172,0.478,0.138,0.103,0.138,0.034,0.483,0.609,29,34,11,23,12
+22016,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.237,27,0.138,0.944,0.714,0.111,0.361,0.111,0.056,0.472,0.714,36,34,15,21,6
+22016,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,Transition,Offensive,0.622,45,0.062,1.148,0.619,0.148,0.074,0.185,0.037,0.593,0.619,27,31,13,21,8

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Cut,Offensive,0.901,77,0.208,1.481,0.814,0.276,0.043,0.265,0.103,0.778,0.814,185,274,118,145,27
+22015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,Cut,Offensive,0.311,60,0.21,1.101,0.58,0.174,0.101,0.159,0.0,0.58,0.58,69,76,29,50,21
+22015,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,Cut,Offensive,0.296,75,0.248,1.091,0.608,0.167,0.121,0.167,0.061,0.561,0.608,66,72,31,51,20
+22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,Cut,Offensive,0.969,35,0.054,1.619,0.903,0.286,0.048,0.286,0.071,0.881,0.903,42,68,28,31,3
+22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Cut,Offensive,0.927,80,0.055,1.531,0.857,0.094,0.094,0.094,0.063,0.75,0.857,32,49,24,28,4
+22015,203085,Austin Rivers,1610612746,LAC,LA Clippers,Cut,Offensive,0.675,67,0.048,1.3,0.692,0.067,0.067,0.067,0.0,0.667,0.692,30,39,18,26,8
+22015,2746,Josh Smith,1610612746,LAC,LA Clippers,Cut,Offensive,0.026,32,0.107,0.846,0.458,0.0,0.077,0.0,0.0,0.423,0.458,26,22,11,24,13
+22015,201145,Jeff Green,1610612746,LAC,LA Clippers,Cut,Offensive,0.696,27,0.05,1.313,0.714,0.125,0.0,0.063,0.0,0.688,0.714,16,21,10,14,4
+22015,200755,JJ Redick,1610612746,LAC,LA Clippers,Cut,Offensive,0.13,75,0.014,1.0,0.538,0.067,0.133,0.067,0.067,0.467,0.538,15,15,7,13,6

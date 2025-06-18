@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,5,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,MIN
-42022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,4,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,MIN
-42022,203085,Austin Rivers,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,4,0.08,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.3,1.0,0.3,0.3,0.0,MIN
-42022,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,5,0.02,3.0,1.0,0.0,0.0,0.0,0.0,1.0,1.5,0.2,1.0,0.2,0.2,0.0,MIN
-42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,5,0.08,1.167,0.5,0.0,0.0,0.0,0.0,0.5,0.58,1.2,1.0,0.6,1.2,0.6,MIN
-42022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Defensive,0.0,5,0.08,1.143,0.5,0.0,0.14,0.0,0.0,0.43,0.67,1.4,2.0,0.6,1.2,0.6,MIN

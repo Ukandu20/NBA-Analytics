@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.639,79,0.108,1.069,0.598,0.1,0.131,0.092,0.015,0.538,0.598,130,139,61,102,41
+22015,203089,John Henson,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.699,57,0.219,1.09,0.6,0.124,0.067,0.124,0.034,0.551,0.6,89,97,45,75,30
+22015,203101,Miles Plumlee,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.986,61,0.203,1.443,0.765,0.115,0.049,0.115,0.0,0.754,0.765,61,88,39,51,12
+22015,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.096,76,0.049,0.727,0.326,0.109,0.073,0.109,0.018,0.364,0.326,55,40,15,46,31
+22015,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.16,80,0.025,0.829,0.429,0.114,0.114,0.114,0.029,0.4,0.446,35,29,12,28,16
+22015,203948,Johnny O'Bryant III,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.078,66,0.133,0.706,0.333,0.059,0.059,0.059,0.0,0.353,0.333,34,24,10,30,20
+22015,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRRollMan,Offensive,0.187,79,0.017,0.84,0.333,0.08,0.0,0.08,0.04,0.36,0.375,25,21,8,24,16

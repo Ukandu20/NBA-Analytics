@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.588,74,0.233,1.298,0.655,0.187,0.047,0.17,0.047,0.661,0.655,171,222,91,139,48
+22017,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.751,62,0.156,1.359,0.687,0.12,0.043,0.12,0.065,0.663,0.687,92,125,57,83,26
+22017,203101,Miles Plumlee,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.094,55,0.272,0.959,0.633,0.135,0.203,0.122,0.0,0.527,0.633,74,71,31,49,18
+22017,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.71,46,0.102,1.347,0.674,0.041,0.02,0.041,0.0,0.673,0.674,49,66,31,46,15
+22017,201158,Marco Belinelli,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.745,52,0.072,1.357,0.676,0.119,0.024,0.119,0.024,0.69,0.676,42,57,25,37,12
+22017,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.127,53,0.091,1.029,0.552,0.086,0.114,0.086,0.029,0.514,0.552,35,36,16,29,13
+22017,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.809,82,0.02,1.4,0.696,0.12,0.04,0.12,0.08,0.68,0.696,25,35,16,23,7
+22017,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.76,65,0.027,1.36,0.882,0.12,0.24,0.12,0.04,0.68,0.882,25,34,15,17,2
+22017,1628463,Tyler Cavanaugh,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.9,39,0.103,1.5,0.706,0.167,0.0,0.167,0.111,0.722,0.706,18,27,12,17,5
+22017,1628416,Tyler Dorsey,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.186,56,0.025,1.091,0.5,0.273,0.0,0.273,0.182,0.545,0.5,11,12,5,10,5

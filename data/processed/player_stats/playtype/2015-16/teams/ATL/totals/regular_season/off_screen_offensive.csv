@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.643,80,0.314,1.0,0.388,0.01,0.05,0.009,0.004,0.37,0.521,227,227,83,214,131
+22015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.947,75,0.046,1.279,0.528,0.09,0.09,0.093,0.023,0.51,0.681,43,55,19,36,17
+22015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.82,80,0.045,1.085,0.477,0.02,0.04,0.021,0.0,0.47,0.557,47,51,21,44,23
+22015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.447,82,0.035,0.884,0.317,0.02,0.02,0.023,0.0,0.33,0.439,43,38,13,41,28
+22015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.533,51,0.12,0.946,0.406,0.05,0.11,0.054,0.027,0.38,0.5,37,35,13,32,19
+22015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.175,79,0.033,0.705,0.342,0.02,0.14,0.023,0.023,0.3,0.408,44,31,13,38,25
+22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.146,81,0.032,0.674,0.342,0.07,0.13,0.065,0.022,0.33,0.368,46,31,13,38,25
+22015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.955,75,0.033,1.313,0.6,0.06,0.0,0.063,0.0,0.62,0.667,16,21,9,15,6

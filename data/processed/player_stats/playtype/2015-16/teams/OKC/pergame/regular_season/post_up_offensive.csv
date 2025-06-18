@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.996,72,0.081,1.235,0.609,0.174,0.081,0.128,0.027,0.617,0.609,2.1,2.6,1.0,1.6,0.6
+22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.803,80,0.093,0.953,0.453,0.179,0.111,0.158,0.011,0.484,0.453,2.4,2.3,0.8,1.7,0.9
+22015,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.659,82,0.19,0.888,0.484,0.152,0.163,0.135,0.034,0.449,0.484,2.2,1.9,0.8,1.6,0.8
+22015,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.644,80,0.073,0.886,0.533,0.136,0.182,0.136,0.0,0.5,0.533,0.6,0.5,0.2,0.4,0.2
+22015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.875,78,0.03,1.0,0.478,0.161,0.129,0.129,0.032,0.484,0.478,0.4,0.4,0.1,0.3,0.2

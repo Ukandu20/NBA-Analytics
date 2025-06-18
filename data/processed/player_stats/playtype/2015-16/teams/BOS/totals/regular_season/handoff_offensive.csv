@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.485,76,0.172,0.828,0.389,0.054,0.128,0.044,0.005,0.369,0.446,203,168,65,167,102
+22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.653,82,0.093,0.93,0.407,0.158,0.135,0.135,0.012,0.439,0.439,171,159,50,123,73
+22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.746,73,0.065,0.985,0.386,0.077,0.062,0.077,0.015,0.4,0.491,65,64,22,57,35
+22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.742,81,0.057,0.982,0.558,0.088,0.158,0.053,0.0,0.509,0.57,57,56,24,43,19
+22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.26,61,0.059,0.725,0.324,0.075,0.075,0.075,0.0,0.35,0.382,40,29,11,34,23
+22015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.238,69,0.05,0.706,0.3,0.059,0.088,0.059,0.029,0.294,0.367,34,24,9,30,21

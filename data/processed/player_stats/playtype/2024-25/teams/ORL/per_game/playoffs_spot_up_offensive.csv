@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.336,5,0.219,0.9,0.345,0.067,0.033,0.067,0.067,0.333,0.431,6.0,5.4,2.0,5.8,3.8,ORL
-42024,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.865,5,0.076,1.333,0.556,0.25,0.0,0.25,0.0,0.667,0.667,2.4,3.2,1.0,1.8,0.8,ORL
-42024,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.721,5,0.311,1.143,0.538,0.0,0.071,0.0,0.0,0.5,0.615,2.8,3.2,1.4,2.6,1.2,ORL
-42024,202709,Cory Joseph,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.573,5,0.577,1.067,0.4,0.0,0.0,0.0,0.0,0.4,0.533,3.0,3.2,1.2,3.0,1.8,ORL
-42024,203484,Kentavious Caldwell-Pope,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.117,5,0.606,0.7,0.25,0.0,0.0,0.0,0.0,0.25,0.35,4.0,2.8,1.0,4.0,3.0,ORL
-42024,1628976,Wendell Carter Jr.,1610612753,ORL,Orlando Magic,Spotup,Offensive,0.064,5,0.189,0.6,0.2,0.0,0.0,0.0,0.0,0.2,0.3,2.0,1.2,0.4,2.0,1.6,ORL

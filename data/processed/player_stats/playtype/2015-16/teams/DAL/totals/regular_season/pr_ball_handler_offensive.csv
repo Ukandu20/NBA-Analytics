@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.759,74,0.528,0.87,0.429,0.062,0.149,0.048,0.015,0.389,0.484,455,396,157,366,209
+22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.503,80,0.45,0.775,0.408,0.086,0.167,0.071,0.02,0.379,0.423,396,307,124,304,180
+22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.372,65,0.276,0.718,0.363,0.104,0.189,0.089,0.011,0.35,0.386,280,201,73,201,128
+22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.793,61,0.186,0.887,0.477,0.113,0.173,0.107,0.027,0.42,0.523,150,133,53,111,58
+22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.548,64,0.223,0.793,0.453,0.153,0.216,0.126,0.045,0.396,0.467,111,88,34,75,41
+22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.397,78,0.092,0.736,0.346,0.044,0.11,0.033,0.011,0.33,0.391,91,67,27,78,51
+22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,PRBallHandler,Offensive,0.298,55,0.141,0.688,0.36,0.031,0.188,0.0,0.0,0.313,0.4,32,22,9,25,16

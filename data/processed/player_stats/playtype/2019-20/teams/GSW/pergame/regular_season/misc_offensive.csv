@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22019,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.874,49,0.067,0.81,0.27,0.381,0.357,0.0,0.0,0.452,0.0027,0.9,0.7,0.1,0.2,0.2
+22019,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.51,43,0.118,0.509,0.36,0.226,0.585,0.057,0.019,0.283,0.0036,1.2,0.6,0.1,0.3,0.2
+22019,1627737,Marquese Chriss,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.188,59,0.119,0.328,0.44,0.156,0.703,0.0,0.0,0.203,0.0044,1.1,0.4,0.1,0.2,0.1
+22019,202692,Alec Burks,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.633,48,0.045,0.571,0.42,0.143,0.514,0.057,0.0,0.286,0.0042,0.7,0.4,0.1,0.3,0.1
+22019,1629673,Jordan Poole,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.696,57,0.042,0.615,0.27,0.192,0.385,0.038,0.0,0.269,0.0032,0.5,0.3,0.1,0.2,0.1
+22019,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.377,60,0.039,0.438,0.25,0.25,0.563,0.156,0.063,0.219,0.0025,0.5,0.2,0.0,0.1,0.1
+22019,1626156,D'Angelo Russell,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.196,33,0.041,0.333,0.25,0.091,0.545,0.03,0.0,0.182,0.0025,1.0,0.3,0.1,0.4,0.3
+22019,1629065,Ky Bowman,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.405,45,0.054,0.455,0.2,0.091,0.455,0.045,0.0,0.182,0.003,0.5,0.2,0.0,0.2,0.2
+22019,1626161,Willie Cauley-Stein,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.299,41,0.079,0.4,0.36,0.04,0.52,0.0,0.0,0.2,0.0036,0.6,0.2,0.1,0.3,0.2
+22019,203922,Glenn Robinson III,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.349,48,0.032,0.421,0.29,0.105,0.526,0.0,0.0,0.211,0.0036,0.4,0.2,0.0,0.1,0.1
+22019,1629016,Omari Spellman,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.087,49,0.075,0.241,0.0,0.172,0.793,0.0,0.0,0.138,0.0,0.6,0.1,0.0,0.0,0.0
+22019,1628980,Jacob Evans,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.493,27,0.058,0.5,0.25,0.1,0.5,0.0,0.0,0.2,0.0038,0.4,0.2,0.0,0.1,0.1
+22019,203952,Andrew Wiggins,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.151,12,0.043,0.3,0.33,0.1,0.6,0.0,0.0,0.2,0.0033,0.8,0.3,0.1,0.3,0.2
+22019,1627733,Dragan Bender,1610612744,GSW,Golden State Warriors,Misc,Offensive,0.022,9,0.108,0.1,0.0,0.1,0.9,0.1,0.0,0.1,0.0,1.1,0.1,0.0,0.0,0.0

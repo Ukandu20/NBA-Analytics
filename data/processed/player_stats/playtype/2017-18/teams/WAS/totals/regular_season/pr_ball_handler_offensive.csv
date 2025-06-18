@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.717,82,0.279,0.886,0.448,0.071,0.143,0.059,0.024,0.41,0.485,510,452,185,413,228
+22017,202322,John Wall,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.29,41,0.294,0.704,0.389,0.102,0.223,0.091,0.029,0.343,0.404,274,193,75,193,118
+22017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.927,77,0.118,1.033,0.514,0.042,0.092,0.033,0.008,0.483,0.548,120,124,54,105,51
+22017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.296,81,0.118,0.707,0.356,0.095,0.172,0.069,0.017,0.345,0.379,116,82,31,87,56
+22017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.379,73,0.2,0.757,0.493,0.049,0.272,0.039,0.01,0.379,0.493,103,78,35,71,36
+22017,204025,Tim Frazier,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.258,59,0.313,0.684,0.368,0.053,0.211,0.026,0.013,0.303,0.412,76,52,21,57,36
+22017,201975,Jodie Meeks,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.458,77,0.1,0.787,0.333,0.064,0.17,0.064,0.0,0.319,0.417,47,37,12,36,24
+22017,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.425,15,0.357,0.771,0.381,0.257,0.143,0.257,0.029,0.457,0.381,35,27,8,21,13
+22017,203118,Mike Scott,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,1.0,76,0.017,1.727,0.818,0.091,0.0,0.091,0.091,0.818,0.818,11,19,9,11,2

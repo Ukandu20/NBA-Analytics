@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.597,75,0.301,0.986,0.387,0.054,0.082,0.043,0.011,0.376,0.519,279,275,94,243,149
+22015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.473,82,0.231,0.929,0.39,0.018,0.032,0.018,0.007,0.384,0.478,281,261,105,269,164
+22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.366,81,0.194,0.878,0.379,0.115,0.1,0.1,0.029,0.391,0.449,279,245,86,227,141
+22015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.876,80,0.24,1.127,0.449,0.012,0.081,0.012,0.006,0.416,0.614,173,195,71,158,87
+22015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.984,79,0.103,1.348,0.528,0.029,0.08,0.029,0.0,0.5,0.728,138,186,65,123,58
+22015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.674,75,0.292,1.014,0.4,0.05,0.071,0.043,0.007,0.397,0.532,141,143,50,125,75
+22015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.802,80,0.123,1.078,0.39,0.047,0.039,0.023,0.0,0.403,0.547,129,139,46,118,72
+22015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.716,75,0.282,1.032,0.39,0.024,0.04,0.016,0.0,0.381,0.542,126,130,46,118,72
+22015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.531,51,0.356,0.955,0.352,0.055,0.009,0.045,0.018,0.373,0.471,110,105,37,105,68
+22015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.051,35,0.43,0.592,0.237,0.061,0.163,0.041,0.0,0.245,0.329,49,29,9,38,29
+22015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.203,21,0.255,0.771,0.375,0.0,0.086,0.0,0.0,0.343,0.422,35,27,12,32,20
+22015,203200,Justin Holiday,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.112,26,0.411,0.676,0.257,0.0,0.054,0.0,0.0,0.243,0.357,37,25,9,35,26

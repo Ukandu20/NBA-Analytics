@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.689,14,0.438,0.922,0.468,0.085,0.128,0.071,0.0,0.454,0.005,10.1,9.3,3.7,7.9,4.2
+42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.656,14,0.41,0.905,0.476,0.086,0.152,0.086,0.019,0.429,0.005180000000000001,7.5,6.8,2.8,5.9,3.1
+42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.213,14,0.23,0.674,0.389,0.023,0.163,0.023,0.023,0.326,0.0038900000000000002,3.1,2.1,1.0,2.6,1.6
+42015,2748,Dorell Wright,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,5,0.25,2.0,1.0,0.333,0.0,0.0,0.0,1.0,0.01,0.6,1.2,0.4,0.4,0.0
+42015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.066,14,0.131,0.429,0.333,0.0,0.357,0.0,0.0,0.214,0.00333,1.0,0.4,0.2,0.6,0.4
+42015,2736,Luol Deng,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,14,0.022,1.0,0.333,0.25,0.0,0.0,0.0,0.5,0.00333,0.3,0.3,0.1,0.2,0.1
+42015,101123,Gerald Green,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,12,0.019,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.1,0.3,0.1,0.1,0.0
+42015,1627362,Briante Weber,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5
+42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,5,0.111,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2
+42015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRBallHandler,Offensive,0.0,13,0.03,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2

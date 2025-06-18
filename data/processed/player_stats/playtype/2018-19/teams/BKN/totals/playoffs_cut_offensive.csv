@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1628386,Jarrett Allen,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.308,5,0.34,1.118,0.533,0.118,0.0,0.118,0.0,0.588,0.533,17,19,8,15,7,BKN
-42018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,5,0.164,1.333,0.625,0.111,0.0,0.111,0.0,0.667,0.625,9,12,5,8,3,BKN
-42018,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,4,0.083,1.75,0.667,0.5,0.0,0.5,0.25,0.75,0.667,4,7,2,3,1,BKN
-42018,202334,Ed Davis,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,3,0.455,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,BKN
-42018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,5,0.073,0.857,0.25,0.286,0.143,0.286,0.0,0.429,0.25,7,6,1,4,3,BKN
-42018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,5,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,BKN
-42018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Cut,Offensive,0.0,5,0.017,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,BKN

@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22024,1641705,Victor Wembanyama,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.876,46,0.043,0.702,0.333,0.277,0.404,0.0,0.0,0.362,0.004,1.0,0.7,0.1,0.3,0.2
+22024,101108,Chris Paul,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.633,82,0.081,0.533,0.3,0.233,0.6,0.0,0.0,0.283,0.0034999999999999996,0.7,0.4,0.0,0.1,0.1
+22024,1631110,Jeremy Sochan,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.618,54,0.079,0.521,0.462,0.188,0.563,0.021,0.021,0.292,0.005,0.9,0.5,0.1,0.2,0.1
+22024,1630577,Julian Champagnie,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.897,82,0.035,0.741,0.6,0.148,0.519,0.037,0.037,0.333,0.006999999999999999,0.3,0.2,0.1,0.1,0.0
+22024,203084,Harrison Barnes,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.609,82,0.047,0.513,0.438,0.103,0.487,0.0,0.0,0.282,0.00469,0.5,0.2,0.1,0.2,0.1
+22024,1642264,Stephon Castle,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.25,81,0.041,0.315,0.176,0.167,0.519,0.019,0.0,0.204,0.0017599999999999998,0.7,0.2,0.0,0.2,0.2
+22024,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.76,77,0.027,0.6,0.273,0.2,0.36,0.0,0.0,0.32,0.00318,0.3,0.2,0.0,0.1,0.1
+22024,1630170,Devin Vassell,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.356,64,0.031,0.375,0.167,0.125,0.5,0.0,0.0,0.188,0.00167,0.5,0.2,0.0,0.2,0.2
+22024,1631104,Blake Wesley,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.888,58,0.056,0.733,1.0,0.2,0.6,0.067,0.0,0.4,0.01,0.3,0.2,0.1,0.1,0.0
+22024,1630200,Tre Jones,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.929,28,0.087,0.818,0.667,0.273,0.455,0.091,0.0,0.455,0.008329999999999999,0.4,0.3,0.1,0.1,0.0
+22024,1628380,Zach Collins,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.633,36,0.089,0.533,0.0,0.333,0.533,0.0,0.0,0.333,0.0,0.4,0.2,0.0,0.1,0.1
+22024,1630572,Sandro Mamukelashvili,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.478,61,0.042,0.429,0.5,0.071,0.643,0.0,0.0,0.214,0.005,0.2,0.1,0.0,0.1,0.0
+22024,1629646,Charles Bassey,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.215,36,0.111,0.294,1.0,0.235,0.765,0.059,0.059,0.235,0.01,0.5,0.1,0.0,0.0,0.0
+22024,202687,Bismack Biyombo,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.059,28,0.093,0.143,1.0,0.0,0.929,0.0,0.0,0.071,0.01,0.5,0.1,0.0,0.0,0.0

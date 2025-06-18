@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.385,6,0.211,1.167,0.545,0.083,0.0,0.083,0.0,0.583,0.545,12,14,6,11,5
+42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,6,0.128,1.0,0.667,0.333,0.17,0.333,0.0,0.667,0.667,6,6,2,3,1
+42017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,6,0.067,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0
+42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,6,0.023,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0
+42017,203962,Josh Huestis,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.0,4,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0

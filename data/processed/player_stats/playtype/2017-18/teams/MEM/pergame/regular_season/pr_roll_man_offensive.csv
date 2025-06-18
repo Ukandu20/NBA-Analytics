@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.391,73,0.275,1.024,0.463,0.099,0.093,0.088,0.032,0.456,0.0053,5.1,5.3,2.0,4.3,2.3
+22017,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.72,62,0.404,1.177,0.6,0.108,0.054,0.108,0.008,0.608,0.006,2.1,2.5,1.1,1.8,0.7
+22017,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.816,36,0.183,1.243,0.656,0.108,0.081,0.108,0.054,0.622,0.00656,1.0,1.3,0.6,0.9,0.3
+22017,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.754,28,0.281,1.206,0.621,0.118,0.029,0.147,0.029,0.618,0.00621,1.2,1.5,0.6,1.0,0.4
+22017,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.251,73,0.068,0.953,0.447,0.07,0.047,0.07,0.0,0.465,0.00487,0.6,0.6,0.2,0.5,0.3
+22017,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.077,55,0.083,0.804,0.395,0.039,0.118,0.039,0.0,0.373,0.0043,0.9,0.7,0.3,0.8,0.5

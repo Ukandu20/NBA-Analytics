@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.459,62,0.059,1.0,0.44,0.06,0.0,0.06,0.06,0.44,0.5,16,16,7,16,9,CHI
-22020,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.275,51,0.03,1.125,0.47,0.06,0.0,0.06,0.0,0.5,0.57,16,18,7,15,8,CHI
-22020,203107,Tomas Satoransky,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.951,58,0.088,0.526,0.23,0.0,0.079,0.0,0.0,0.21,0.29,38,20,8,35,27,CHI
-22020,1629632,Coby White,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.607,69,0.06,0.917,0.41,0.06,0.104,0.04,0.02,0.4,0.49,48,44,17,41,24,CHI
-22020,202066,Garrett Temple,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.796,56,0.089,0.806,0.37,0.05,0.113,0.05,0.03,0.34,0.44,62,50,20,54,34,CHI
-22020,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.318,58,0.087,1.1,0.45,0.05,0.067,0.05,0.0,0.45,0.56,60,66,24,53,29,CHI
-22020,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,OffScreen,Defensive,0.459,71,0.095,1.0,0.46,0.06,0.088,0.06,0.01,0.44,0.53,68,68,27,59,32,CHI

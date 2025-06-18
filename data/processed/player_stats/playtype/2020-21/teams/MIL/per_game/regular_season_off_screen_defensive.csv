@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,201571,D.J. Augustin,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.421,31,0.052,1.0,0.33,0.1,0.0,0.1,0.0,0.4,0.5,0.3,0.0,0.1,0.3,0.2,MIL
-22020,1627854,Bryn Forbes,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.232,70,0.064,1.154,0.42,0.0,0.0,0.0,0.0,0.42,0.58,0.4,0.0,0.2,0.4,0.2,MIL
-22020,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.505,62,0.057,0.974,0.42,0.0,0.053,0.0,0.0,0.39,0.51,0.6,1.0,0.2,0.6,0.3,MIL
-22020,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.595,69,0.082,0.92,0.36,0.08,0.02,0.08,0.0,0.4,0.43,0.7,1.0,0.2,0.7,0.4,MIL
-22020,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.515,59,0.058,0.962,0.38,0.0,0.057,0.0,0.0,0.36,0.51,0.9,1.0,0.3,0.8,0.5,MIL
-22020,1628978,Donte DiVincenzo,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.197,66,0.083,1.185,0.49,0.02,0.074,0.02,0.0,0.46,0.62,0.8,1.0,0.4,0.7,0.4,MIL
-22020,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Defensive,0.168,68,0.068,1.222,0.52,0.07,0.111,0.07,0.0,0.5,0.66,0.8,1.0,0.3,0.6,0.3,MIL

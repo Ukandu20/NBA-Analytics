@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22018,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.708,77,0.068,0.644,0.38,0.271,0.525,0.042,0.0,0.339,0.00479,1.5,1.0,0.1,0.3,0.2
+22018,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.641,71,0.085,0.61,0.45,0.288,0.525,0.017,0.0,0.339,0.00455,0.8,0.5,0.1,0.2,0.1
+22018,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.716,73,0.036,0.648,0.32,0.148,0.296,0.056,0.019,0.315,0.0035499999999999998,0.7,0.5,0.1,0.4,0.3
+22018,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.813,42,0.073,0.738,0.38,0.333,0.476,0.0,0.0,0.381,0.00375,1.0,0.7,0.1,0.2,0.1
+22018,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.667,77,0.093,0.622,0.3,0.2,0.378,0.022,0.022,0.289,0.0032500000000000003,0.6,0.4,0.1,0.3,0.2
+22018,203967,Dario Šarić,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.711,68,0.045,0.645,0.43,0.226,0.548,0.032,0.0,0.323,0.005,0.5,0.3,0.0,0.1,0.1
+22018,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.796,51,0.028,0.72,0.29,0.2,0.24,0.04,0.0,0.36,0.0028599999999999997,0.5,0.4,0.1,0.3,0.2
+22018,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.376,68,0.071,0.459,0.28,0.162,0.351,0.108,0.0,0.243,0.0027800000000000004,0.5,0.3,0.1,0.3,0.2
+22018,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.287,74,0.05,0.406,0.17,0.25,0.375,0.063,0.0,0.281,0.00167,0.4,0.2,0.0,0.2,0.1
+22018,2736,Luol Deng,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.587,22,0.083,0.583,0.5,0.167,0.5,0.083,0.0,0.333,0.005,0.5,0.3,0.1,0.2,0.1
+22018,201229,Anthony Tolliver,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.164,65,0.056,0.333,0.4,0.056,0.667,0.0,0.0,0.167,0.004,0.3,0.1,0.0,0.1,0.0
+22018,201573,Jerryd Bayless,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.121,34,0.062,0.294,0.29,0.059,0.529,0.0,0.0,0.176,0.0028599999999999997,0.5,0.1,0.1,0.2,0.1
+22018,1628966,Keita Bates-Diop,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.05,30,0.089,0.2,0.0,0.267,0.533,0.0,0.0,0.2,0.0,0.5,0.1,0.0,0.1,0.1

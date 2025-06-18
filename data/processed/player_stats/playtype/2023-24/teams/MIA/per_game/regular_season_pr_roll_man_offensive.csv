@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.375,71,0.183,1.036,0.512,0.13,0.057,0.13,0.016,0.526,0.515,3.5,3.6,1.5,2.9,1.4,MIA
-22023,201567,Kevin Love,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.386,55,0.127,1.052,0.375,0.052,0.0,0.034,0.017,0.397,0.5,1.1,1.1,0.4,1.0,0.6,MIA
-22023,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.948,60,0.026,1.5,0.682,0.214,0.0,0.214,0.0,0.75,0.705,0.5,0.7,0.2,0.4,0.1,MIA
-22023,1628418,Thomas Bryant,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.568,38,0.183,1.171,0.593,0.143,0.086,0.143,0.0,0.6,0.611,0.9,1.1,0.4,0.7,0.3,MIA
-22023,1629130,Duncan Robinson,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.667,68,0.03,1.25,0.458,0.0,0.0,0.0,0.0,0.458,0.625,0.4,0.4,0.2,0.4,0.2,MIA
-22023,1631107,Nikola Jović,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.06,46,0.07,0.667,0.261,0.042,0.042,0.042,0.042,0.25,0.326,0.5,0.3,0.1,0.5,0.4,MIA
-22023,1628997,Caleb Martin,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.294,64,0.019,1.0,0.364,0.077,0.077,0.077,0.0,0.385,0.5,0.2,0.2,0.1,0.2,0.1,MIA
-22023,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.294,66,0.032,1.0,0.417,0.0,0.0,0.0,0.0,0.417,0.5,0.2,0.2,0.1,0.2,0.1,MIA

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,7,0.008,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,MEM
-42020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.029,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,MEM
-42020,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,7,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,MEM
-42020,202685,Jonas Valančiūnas,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.01,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.2,0.0,0.2,0.2,0.0,MEM
-42020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.053,1.0,0.0,0.5,0.5,0.5,0.0,0.5,0.0,0.4,0.0,0.0,0.0,0.0,MEM
-42020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.038,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.4,0.0,0.0,0.2,0.2,MEM
-42020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.049,0.667,0.5,0.0,0.33,0.0,0.0,0.33,0.5,0.6,0.0,0.2,0.4,0.2,MEM
-42020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,Postup,Defensive,0.0,5,0.065,1.0,0.67,0.0,0.25,0.0,0.0,0.5,0.67,0.8,1.0,0.4,0.6,0.2,MEM

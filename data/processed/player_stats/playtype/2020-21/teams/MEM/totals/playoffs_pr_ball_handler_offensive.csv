@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.889,5,0.604,1.133,0.514,0.133,0.056,0.1,0.011,0.533,0.574,90,102,38,74,36,MEM
-42020,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.508,5,0.348,0.925,0.469,0.1,0.1,0.1,0.0,0.475,0.469,40,37,15,32,17,MEM
-42020,1626145,Tyus Jones,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.389,0.857,0.429,0.0,0.0,0.0,0.0,0.429,0.429,7,6,3,7,4,MEM
-42020,203937,Kyle Anderson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.188,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,9,6,3,9,6,MEM
-42020,1628991,Jaren Jackson Jr.,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.015,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,MEM
-42020,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.227,0.4,0.25,0.0,0.2,0.0,0.0,0.2,0.25,5,2,1,4,3,MEM
-42020,1629001,De'Anthony Melton,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.167,0.333,0.167,0.0,0.0,0.0,0.0,0.167,0.167,6,2,1,6,5,MEM
-42020,1628960,Grayson Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,5,0.088,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,MEM

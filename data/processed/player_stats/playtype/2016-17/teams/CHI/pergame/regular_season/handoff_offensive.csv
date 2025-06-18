@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.667,76,0.042,0.972,0.351,0.181,0.042,0.181,0.014,0.444,0.395,0.9,1.0,0.3,0.8,0.5
+22016,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.561,57,0.131,0.933,0.4,0.0,0.111,0.0,0.0,0.356,0.525,0.8,1.0,0.3,0.7,0.4
+22016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.183,60,0.048,0.672,0.318,0.103,0.138,0.103,0.0,0.345,0.33,1.0,1.0,0.2,0.7,0.5
+22016,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.529,44,0.081,0.914,0.462,0.143,0.143,0.143,0.029,0.429,0.5,0.8,1.0,0.3,0.6,0.3
+22016,200765,Rajon Rondo,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.433,69,0.041,0.871,0.423,0.0,0.161,0.0,0.0,0.355,0.519,0.4,0.0,0.2,0.4,0.2
+22016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.921,81,0.016,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,0.2,0.0,0.1,0.2,0.1
+22016,1627835,Paul Zipser,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.274,44,0.071,0.75,0.438,0.0,0.2,0.0,0.0,0.35,0.469,0.5,0.0,0.2,0.4,0.2
+22016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.165,70,0.028,0.667,0.316,0.0,0.095,0.0,0.0,0.286,0.368,0.3,0.0,0.1,0.3,0.2
+22016,203487,Michael Carter-Williams,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.088,45,0.064,0.538,0.35,0.0,0.231,0.0,0.0,0.269,0.35,0.6,0.0,0.2,0.4,0.3
+22016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.274,40,0.077,0.75,0.333,0.063,0.188,0.063,0.0,0.313,0.417,0.4,0.0,0.1,0.3,0.2
+22016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.225,63,0.045,0.706,0.25,0.059,0.0,0.059,0.0,0.294,0.344,0.3,0.0,0.1,0.3,0.2

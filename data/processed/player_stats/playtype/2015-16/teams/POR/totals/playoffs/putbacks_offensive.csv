@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.815,11,0.105,1.286,0.615,0.071,0.0,0.071,0.0,0.643,0.615,14,18,8,13,5
+42015,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.296,11,0.292,0.895,0.533,0.105,0.105,0.105,0.0,0.474,0.533,19,17,8,15,7
+42015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.074,11,0.091,0.667,0.333,0.133,0.067,0.133,0.0,0.4,0.333,15,10,4,12,8
+42015,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.021,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,5,8,4,5,1
+42015,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.02,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,6,6,3,6,3
+42015,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.116,0.462,0.182,0.077,0.077,0.077,0.0,0.231,0.182,13,6,2,11,9
+42015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.022,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0
+42015,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,11,0.034,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,3,4,2,3,1
+42015,203148,Brian Roberts,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,10,0.077,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42015,2549,Chris Kaman,1610612757,POR,Portland Trail Blazers,OffRebound,Offensive,0.0,4,0.042,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0

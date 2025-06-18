@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1641767,Ben Sheppard,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.847,61,0.246,0.918,0.34,0.064,0.055,0.064,0.027,0.336,0.475,110,101,34,100,66,IND
-22024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.612,44,0.321,1.015,0.4,0.038,0.046,0.023,0.008,0.4,0.521,130,132,48,120,72,IND
-22024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Spotup,Defensive,0.684,78,0.417,1.0,0.378,0.029,0.053,0.024,0.008,0.371,0.516,380,380,133,352,219,IND

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.619,4,0.414,1.042,0.474,0.125,0.125,0.125,0.042,0.458,0.00526,6.0,6.3,2.3,4.8,2.5
+42015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.878,4,0.273,1.4,0.467,0.0,0.0,0.0,0.0,0.467,0.006999999999999999,3.8,5.3,1.8,3.8,2.0
+42015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.99,4,0.37,1.7,0.6,0.0,0.0,0.0,0.0,0.6,0.0085,2.5,4.3,1.5,2.5,1.0
+42015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.276,4,0.302,0.789,0.267,0.158,0.053,0.158,0.0,0.368,0.00333,4.8,3.8,1.0,3.8,2.8
+42015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.082,4,0.169,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.003,2.8,1.5,0.5,2.5,2.0
+42015,201229,Anthony Tolliver,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,3,0.75,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,1.0,1.3,0.7,1.0,0.3
+42015,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,2,0.333,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,1.0,1.5,0.5,1.0,0.5
+42015,2581,Steve Blake,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,4,0.273,1.0,0.333,0.0,0.0,0.0,0.0,0.333,0.005,0.8,0.8,0.3,0.8,0.5
+42015,201975,Jodie Meeks,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,1,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1.0,2.0,1.0,1.0,0.0
+42015,203915,Spencer Dinwiddie,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,1,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1.0,2.0,1.0,1.0,0.0
+42015,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.0,4,0.014,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3

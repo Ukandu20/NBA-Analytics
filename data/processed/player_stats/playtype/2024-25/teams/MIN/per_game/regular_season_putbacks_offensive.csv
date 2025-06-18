@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.903,69,0.064,1.354,0.678,0.256,0.073,0.207,0.049,0.683,0.678,1.2,1.6,0.6,0.9,0.3,MIN
-22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.79,82,0.068,1.254,0.617,0.075,0.03,0.06,0.0,0.627,0.625,0.8,1.0,0.5,0.7,0.3,MIN
-22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.817,80,0.059,1.266,0.589,0.141,0.031,0.125,0.047,0.609,0.607,0.8,1.0,0.4,0.7,0.3,MIN
-22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.262,40,0.103,0.933,0.429,0.067,0.0,0.067,0.0,0.467,0.429,0.4,0.4,0.2,0.4,0.2,MIN
-22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,OffRebound,Offensive,0.02,62,0.015,0.545,0.273,0.0,0.0,0.0,0.0,0.273,0.273,0.2,0.1,0.0,0.2,0.1,MIN

@@ -1,0 +1,18 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22021,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.189,56,0.101,0.322,0.5,0.195,0.747,0.011,0.01,0.2,0.005,87,28,3,6,3
+22021,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.567,57,0.05,0.563,0.5,0.167,0.583,0.0,0.0,0.29,0.0054,48,27,6,12,6
+22021,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.941,29,0.041,0.897,0.62,0.276,0.448,0.0,0.0,0.45,0.0075,29,26,5,8,3
+22021,203463,Ben McLemore,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.835,64,0.054,0.765,0.45,0.294,0.382,0.0,0.0,0.41,0.0064,34,26,5,11,6
+22021,1626181,Norman Powell,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.873,40,0.029,0.8,0.43,0.25,0.4,0.1,0.0,0.4,0.005699999999999999,20,16,3,7,4
+22021,203469,Cody Zeller,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.816,27,0.145,0.737,1.0,0.368,0.579,0.0,0.0,0.42,0.01,19,14,1,1,0
+22021,1630314,Brandon Williams,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.788,24,0.052,0.7,0.25,0.35,0.45,0.05,0.0,0.35,0.0038,20,14,1,4,3
+22021,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.736,42,0.051,0.65,0.38,0.25,0.4,0.05,0.05,0.3,0.0044,20,13,3,8,5
+22021,1629604,CJ Elleby,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.736,58,0.05,0.65,0.38,0.2,0.4,0.05,0.0,0.35,0.0038,20,13,3,8,5
+22021,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.572,36,0.03,0.565,0.38,0.087,0.435,0.087,0.09,0.22,0.0046,23,13,5,13,8
+22021,1628404,Josh Hart,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.916,13,0.051,0.833,1.0,0.167,0.583,0.167,0.0,0.42,0.011699999999999999,12,10,3,3,0
+22021,1630570,Trendon Watford,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.154,48,0.085,0.3,0.2,0.133,0.7,0.033,0.0,0.17,0.002,30,9,1,5,4
+22021,203496,Robert Covington,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.126,48,0.078,0.281,0.25,0.125,0.75,0.0,0.0,0.16,0.0025,32,9,1,4,3
+22021,1626204,Larry Nance Jr.,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.253,37,0.073,0.389,0.0,0.278,0.611,0.0,0.0,0.22,0.0,18,7,0,2,2
+22021,1628372,Dennis Smith Jr.,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.087,37,0.076,0.25,0.0,0.15,0.75,0.0,0.0,0.15,0.0,20,5,0,2,2
+22021,1630535,Greg Brown III,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.069,48,0.071,0.222,0.0,0.111,0.833,0.056,0.0,0.11,0.0,18,4,0,1,1
+22021,1629234,Drew Eubanks,1610612757,POR,Portland Trail Blazers,Misc,Offensive,0.034,22,0.077,0.143,0.0,0.095,0.857,0.048,0.0,0.1,0.0,21,3,0,1,1

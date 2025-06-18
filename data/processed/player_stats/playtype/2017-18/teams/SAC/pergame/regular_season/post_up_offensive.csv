@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,2216,Zach Randolph,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.461,60,0.318,0.857,0.459,0.106,0.133,0.099,0.027,0.43,0.459,4.9,4.2,1.8,3.9,2.1
+22017,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.422,73,0.161,0.836,0.434,0.164,0.107,0.157,0.038,0.44,0.434,2.2,1.8,0.7,1.7,0.9
+22017,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.137,60,0.214,0.653,0.33,0.121,0.145,0.121,0.024,0.331,0.33,2.1,1.4,0.5,1.6,1.1
+22017,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.525,71,0.106,0.88,0.465,0.08,0.08,0.04,0.02,0.46,0.465,0.7,0.6,0.3,0.6,0.3
+22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.387,58,0.102,0.824,0.393,0.118,0.088,0.059,0.029,0.412,0.393,0.6,0.5,0.2,0.5,0.3
+22017,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.961,78,0.02,1.158,0.6,0.105,0.105,0.053,0.0,0.579,0.6,0.2,0.3,0.1,0.2,0.1
+22017,203960,JaKarr Sampson,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.614,22,0.115,0.909,0.444,0.182,0.182,0.182,0.182,0.364,0.444,0.5,0.5,0.2,0.4,0.2

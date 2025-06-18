@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.882,67,0.036,0.731,0.33,0.04,0.15,0.0,0.0,0.31,0.4,26,19,7,21,14,CHI
-22022,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.283,77,0.02,1.176,0.5,0.06,0.12,0.06,0.0,0.47,0.68,17,20,7,14,7,CHI
-22022,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.741,80,0.031,0.875,0.3,0.12,0.0,0.12,0.08,0.33,0.39,24,21,7,23,16,CHI
-22022,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.603,67,0.055,0.96,0.45,0.08,0.12,0.08,0.0,0.44,0.55,25,24,9,20,11,CHI
-22022,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.143,82,0.025,1.333,0.53,0.1,0.05,0.1,0.05,0.52,0.66,21,28,10,19,9,CHI
-22022,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.081,74,0.031,1.429,0.6,0.1,0.05,0.1,0.1,0.57,0.7,21,30,12,20,8,CHI
-22022,201942,DeMar DeRozan,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.166,74,0.035,1.308,0.7,0.08,0.19,0.08,0.04,0.58,0.8,26,34,14,20,6,CHI
-22022,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Defensive,0.507,82,0.08,1.03,0.44,0.06,0.07,0.05,0.01,0.43,0.55,100,103,39,88,49,CHI

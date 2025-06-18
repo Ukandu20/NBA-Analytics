@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631094,Paolo Banchero,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.455,80,0.149,0.894,0.448,0.158,0.13,0.155,0.028,0.447,0.462,284,254,94,210,116,ORL
-22023,1630532,Franz Wagner,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.677,72,0.089,1.0,0.485,0.107,0.107,0.098,0.008,0.484,0.515,122,122,47,97,50,ORL
-22023,1630175,Cole Anthony,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.738,81,0.082,1.038,0.5,0.1,0.088,0.088,0.013,0.5,0.523,80,83,33,66,33,ORL
-22023,1630591,Jalen Suggs,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.902,75,0.043,1.154,0.548,0.128,0.128,0.103,0.051,0.513,0.645,39,45,17,31,14,ORL
-22023,1629021,Moritz Wagner,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.27,80,0.026,0.789,0.273,0.263,0.158,0.263,0.0,0.421,0.273,19,15,3,11,8,ORL
-22023,1628365,Markelle Fultz,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.372,43,0.036,0.857,0.462,0.0,0.071,0.0,0.0,0.429,0.462,14,12,6,13,7,ORL
-22023,1641710,Anthony Black,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.311,69,0.033,0.818,0.333,0.091,0.091,0.0,0.0,0.364,0.389,11,9,3,9,6,ORL

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.849,73,0.36,1.025,0.511,0.134,0.118,0.118,0.025,0.498,0.538,612,627,241,472,231,SAC
-22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.566,77,0.214,0.9,0.456,0.119,0.228,0.091,0.018,0.406,0.52,219,197,67,147,80,SAC
-22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.514,75,0.088,0.876,0.403,0.067,0.135,0.056,0.011,0.382,0.486,89,78,29,72,43,SAC
-22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.222,80,0.224,0.717,0.42,0.019,0.217,0.019,0.0,0.34,0.451,106,76,34,81,47,SAC
-22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.972,82,0.056,1.167,0.5,0.217,0.117,0.2,0.033,0.517,0.595,60,70,21,42,21,SAC
-22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.738,64,0.092,0.975,0.484,0.025,0.2,0.025,0.0,0.4,0.597,40,39,15,31,16,SAC
-22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.932,79,0.012,1.118,0.667,0.353,0.235,0.294,0.118,0.588,0.667,17,19,6,9,3,SAC
-22022,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.176,80,0.022,0.684,0.333,0.105,0.158,0.105,0.053,0.316,0.367,19,13,5,15,10,SAC

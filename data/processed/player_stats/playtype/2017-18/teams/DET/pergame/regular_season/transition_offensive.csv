@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202397,Ish Smith,1610612765,DET,Detroit Pistons,Transition,Offensive,0.403,82,0.252,1.045,0.591,0.091,0.157,0.066,0.017,0.521,0.608,3.0,3.1,1.3,2.3,0.9
+22017,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Transition,Offensive,0.356,69,0.248,1.023,0.496,0.154,0.131,0.137,0.011,0.497,0.547,2.5,2.6,0.9,1.8,0.9
+22017,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Transition,Offensive,0.809,48,0.153,1.258,0.551,0.097,0.089,0.097,0.048,0.524,0.65,2.6,3.3,1.2,2.2,1.0
+22017,201229,Anthony Tolliver,1610612765,DET,Detroit Pistons,Transition,Offensive,0.928,79,0.171,1.38,0.516,0.05,0.04,0.06,0.01,0.51,0.703,1.3,1.7,0.6,1.2,0.6
+22017,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Transition,Offensive,0.588,78,0.088,1.153,0.671,0.18,0.126,0.171,0.045,0.613,0.671,1.4,1.6,0.7,1.1,0.3
+22017,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Transition,Offensive,0.833,62,0.161,1.273,0.533,0.02,0.081,0.02,0.01,0.495,0.689,1.6,2.0,0.8,1.5,0.7
+22017,202340,Avery Bradley,1610612765,DET,Detroit Pistons,Transition,Offensive,0.455,40,0.154,1.065,0.505,0.037,0.112,0.019,0.0,0.458,0.593,2.7,2.9,1.1,2.3,1.1
+22017,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Transition,Offensive,0.101,45,0.135,0.828,0.437,0.061,0.232,0.051,0.01,0.364,0.507,2.2,1.8,0.7,1.6,0.9
+22017,1628379,Luke Kennard,1610612765,DET,Detroit Pistons,Transition,Offensive,0.468,73,0.124,1.071,0.431,0.043,0.057,0.043,0.029,0.414,0.554,1.0,1.0,0.4,0.9,0.5
+22017,203516,James Ennis III,1610612765,DET,Detroit Pistons,Transition,Offensive,0.61,27,0.247,1.163,0.553,0.204,0.082,0.204,0.061,0.571,0.579,1.8,2.1,0.8,1.4,0.6
+22017,201933,Blake Griffin,1610612765,DET,Detroit Pistons,Transition,Offensive,0.235,25,0.095,0.96,0.484,0.2,0.24,0.18,0.06,0.44,0.565,2.0,1.9,0.6,1.2,0.6
+22017,204038,Langston Galloway,1610612765,DET,Detroit Pistons,Transition,Offensive,0.153,58,0.124,0.891,0.341,0.043,0.065,0.022,0.0,0.348,0.463,0.8,0.7,0.2,0.7,0.5
+22017,202779,Dwight Buycks,1610612765,DET,Detroit Pistons,Transition,Offensive,0.567,29,0.113,1.138,0.591,0.103,0.138,0.103,0.0,0.552,0.614,1.0,1.1,0.4,0.8,0.3
+22017,203961,Eric Moreland,1610612765,DET,Detroit Pistons,Transition,Offensive,0.885,67,0.109,1.316,0.8,0.158,0.105,0.105,0.053,0.684,0.8,0.3,0.4,0.2,0.2,0.0
+22017,202720,Jon Leuer,1610612765,DET,Detroit Pistons,Transition,Offensive,0.697,8,0.204,1.2,0.667,0.3,0.2,0.3,0.1,0.6,0.667,1.3,1.5,0.5,0.8,0.3

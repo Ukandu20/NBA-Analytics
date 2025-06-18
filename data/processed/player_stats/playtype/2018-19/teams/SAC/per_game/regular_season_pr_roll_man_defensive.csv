@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.87,42,0.06,0.706,0.313,0.06,0.0,0.06,0.0,0.35,0.313,0.4,0.3,0.1,0.4,0.3,SAC
-22018,1628385,Harry Giles III,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.657,58,0.073,0.897,0.375,0.14,0.03,0.14,0.0,0.45,0.438,0.5,0.4,0.2,0.4,0.3,SAC
-22018,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.258,81,0.027,1.154,0.55,0.08,0.19,0.08,0.04,0.46,0.675,0.3,0.4,0.1,0.2,0.1,SAC
-22018,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.552,77,0.058,0.953,0.41,0.07,0.02,0.07,0.0,0.44,0.474,0.6,0.5,0.2,0.5,0.3,SAC
-22018,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.32,62,0.065,1.1,0.444,0.05,0.05,0.05,0.0,0.45,0.569,0.6,0.7,0.3,0.6,0.3,SAC
-22018,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Defensive,0.108,81,0.054,1.306,0.574,0.08,0.08,0.08,0.03,0.55,0.676,0.8,1.0,0.4,0.7,0.3,SAC

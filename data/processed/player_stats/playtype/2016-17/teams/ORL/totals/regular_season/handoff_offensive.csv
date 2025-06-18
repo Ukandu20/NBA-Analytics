@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.583,68,0.112,0.939,0.429,0.076,0.083,0.068,0.008,0.424,0.496,132,124,48,112,64
+22016,203082,Terrence Ross,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.713,24,0.163,1.0,0.476,0.059,0.157,0.059,0.039,0.412,0.571,51,51,20,42,22
+22016,201571,D.J. Augustin,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.59,78,0.075,0.941,0.395,0.137,0.137,0.098,0.02,0.412,0.487,51,48,15,38,23
+22016,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.308,80,0.049,0.784,0.31,0.118,0.098,0.118,0.039,0.333,0.393,51,40,13,42,29
+22016,201975,Jodie Meeks,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.913,36,0.102,1.182,0.448,0.091,0.03,0.091,0.0,0.485,0.552,33,39,13,29,16
+22016,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.608,82,0.031,0.946,0.577,0.108,0.243,0.081,0.054,0.459,0.577,37,35,15,26,11
+22016,201145,Jeff Green,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.485,69,0.043,0.9,0.348,0.167,0.1,0.167,0.033,0.4,0.413,30,27,8,23,15
+22016,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.142,65,0.069,0.643,0.318,0.071,0.179,0.071,0.036,0.286,0.364,28,18,7,22,15
+22016,201228,C.J. Watson,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.6,62,0.056,0.944,0.429,0.111,0.111,0.111,0.0,0.444,0.464,18,17,6,14,8
+22016,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Handoff,Offensive,0.117,75,0.008,0.6,0.3,0.0,0.0,0.0,0.0,0.3,0.3,10,6,3,10,7

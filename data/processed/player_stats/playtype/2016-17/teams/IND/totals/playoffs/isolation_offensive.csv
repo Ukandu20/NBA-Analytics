@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42016,202331,Paul George,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.306,4,0.272,0.774,0.28,0.161,0.065,0.161,0.032,0.355,0.0032,31,24,7,25,18
+42016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,4,0.133,1.0,0.429,0.0,0.125,0.0,0.0,0.375,0.00571,8,8,3,7,4
+42016,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,4,0.148,1.75,1.0,0.0,0.25,0.0,0.0,0.75,0.01167,4,7,3,3,0
+42016,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,4,0.155,0.667,0.375,0.0,0.111,0.0,0.0,0.333,0.00375,9,6,3,8,5
+42016,201166,Aaron Brooks,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,1,0.25,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42016,101139,CJ Miles,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,4,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+42016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.0,4,0.037,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1

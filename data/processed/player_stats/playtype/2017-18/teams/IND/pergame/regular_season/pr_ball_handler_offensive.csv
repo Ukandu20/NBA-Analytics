@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.812,75,0.377,0.927,0.46,0.098,0.139,0.093,0.022,0.435,0.5,8.6,8.0,3.1,6.8,3.7
+22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.838,69,0.315,0.951,0.471,0.057,0.109,0.049,0.008,0.445,0.507,3.6,3.4,1.4,3.0,1.6
+22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.366,82,0.339,0.74,0.417,0.049,0.188,0.049,0.01,0.355,0.447,3.7,2.7,1.2,2.9,1.7
+22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.545,82,0.347,0.82,0.436,0.047,0.125,0.024,0.0,0.4,0.45,3.1,2.5,1.1,2.6,1.5
+22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.78,80,0.069,0.917,0.489,0.167,0.208,0.167,0.028,0.458,0.489,0.9,0.8,0.3,0.6,0.3
+22017,1626202,Joe Young,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.876,53,0.274,0.984,0.51,0.049,0.131,0.033,0.016,0.459,0.539,1.2,1.1,0.5,1.0,0.5
+22017,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.01,23,0.105,0.2,0.1,0.0,0.0,0.0,0.0,0.1,0.1,0.4,0.1,0.0,0.4,0.4

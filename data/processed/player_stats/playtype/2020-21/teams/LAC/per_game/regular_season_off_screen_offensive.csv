@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,202331,Paul George,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.448,54,0.118,0.938,0.405,0.055,0.131,0.055,0.028,0.366,0.512,2.7,2.5,0.9,2.2,1.3,LAC
-22020,1628379,Luke Kennard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.738,63,0.112,1.132,0.521,0.057,0.075,0.057,0.038,0.491,0.583,0.8,1.0,0.4,0.8,0.4,LAC
-22020,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.638,52,0.045,1.059,0.386,0.098,0.039,0.078,0.0,0.431,0.489,1.0,1.0,0.3,0.8,0.5,LAC
-22020,201587,Nicolas Batum,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.981,67,0.041,1.55,0.5,0.1,0.0,0.1,0.0,0.55,0.722,0.3,0.5,0.1,0.3,0.1,LAC
-22020,201586,Serge Ibaka,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.824,41,0.032,1.214,0.615,0.0,0.071,0.0,0.0,0.571,0.654,0.3,0.4,0.2,0.3,0.1,LAC
-22020,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.356,57,0.025,0.882,0.412,0.0,0.0,0.0,0.0,0.412,0.441,0.3,0.3,0.1,0.3,0.2,LAC
-22020,101150,Lou Williams,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.435,42,0.027,0.933,0.4,0.0,0.0,0.0,0.0,0.4,0.467,0.4,0.3,0.1,0.4,0.2,LAC

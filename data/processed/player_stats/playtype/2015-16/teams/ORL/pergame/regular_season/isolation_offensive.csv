@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.911,65,0.072,1.034,0.513,0.08,0.045,0.08,0.011,0.523,0.519,1.4,1.4,0.6,1.2,0.6
+22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.811,72,0.073,0.955,0.382,0.112,0.056,0.112,0.022,0.416,0.447,1.2,1.2,0.4,1.1,0.7
+22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.614,73,0.071,0.857,0.436,0.157,0.086,0.114,0.029,0.443,0.436,1.0,0.8,0.3,0.8,0.4
+22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.842,79,0.051,0.983,0.442,0.169,0.153,0.136,0.051,0.441,0.488,0.7,0.7,0.2,0.5,0.3
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.485,49,0.075,0.804,0.436,0.098,0.176,0.098,0.039,0.392,0.449,1.0,0.8,0.3,0.8,0.4
+22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.552,79,0.043,0.826,0.412,0.087,0.217,0.087,0.043,0.348,0.5,0.3,0.2,0.1,0.2,0.1
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.144,78,0.041,0.6,0.308,0.033,0.1,0.033,0.0,0.3,0.308,0.4,0.2,0.1,0.3,0.2
+22015,203894,Shabazz Napier,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.57,55,0.072,0.842,0.294,0.158,0.0,0.158,0.053,0.368,0.353,0.3,0.3,0.1,0.3,0.2
+22015,201943,Brandon Jennings,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.113,25,0.085,0.556,0.235,0.056,0.0,0.056,0.0,0.278,0.265,0.7,0.4,0.2,0.7,0.5
+22015,201228,C.J. Watson,1610612753,ORL,Orlando Magic,Isolation,Offensive,0.472,33,0.056,0.8,0.167,0.4,0.1,0.2,0.1,0.4,0.167,0.3,0.2,0.0,0.2,0.2

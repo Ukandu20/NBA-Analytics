@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1631128,Christian Braun,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.553,14,0.197,1.229,0.656,0.057,0.057,0.057,0.029,0.629,0.656,2.5,3.1,1.5,2.3,0.8,DEN
-42024,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.658,14,0.145,1.355,0.607,0.161,0.0,0.161,0.065,0.645,0.607,2.2,3.0,1.2,2.0,0.8,DEN
-42024,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.737,14,0.093,1.462,0.667,0.231,0.0,0.231,0.154,0.692,0.667,0.9,1.4,0.6,0.9,0.3,DEN
-42024,201566,Russell Westbrook,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.237,13,0.088,1.125,0.533,0.125,0.0,0.125,0.063,0.563,0.533,1.2,1.4,0.6,1.2,0.5,DEN
-42024,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.053,14,0.049,0.944,0.357,0.222,0.0,0.222,0.0,0.5,0.357,1.3,1.2,0.4,1.0,0.6,DEN
-42024,1631212,Peyton Watson,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.026,14,0.187,0.786,0.444,0.357,0.0,0.357,0.0,0.429,0.444,1.0,0.8,0.3,0.6,0.4,DEN

@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1628381,John Collins,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.623,74,0.225,1.133,0.574,0.145,0.067,0.133,0.036,0.576,0.00577,165,187,78,136,58
+22017,203473,Dewayne Dedmon,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.464,62,0.261,1.052,0.538,0.071,0.11,0.065,0.039,0.494,0.005639999999999999,154,162,71,132,61
+22017,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.725,46,0.218,1.181,0.533,0.124,0.067,0.114,0.048,0.533,0.006,105,124,48,90,42
+22017,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.522,53,0.251,1.073,0.447,0.073,0.052,0.052,0.01,0.458,0.005350000000000001,96,103,38,85,47
+22017,203101,Miles Plumlee,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.357,55,0.294,1.013,0.594,0.075,0.138,0.075,0.013,0.513,0.00594,80,81,38,64,26
+22017,202337,Luke Babbitt,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.942,37,0.172,1.394,0.615,0.182,0.03,0.152,0.0,0.667,0.00712,33,46,16,26,10
+22017,1628463,Tyler Cavanaugh,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.043,39,0.171,0.667,0.321,0.0,0.067,0.0,0.0,0.3,0.00357,30,20,9,28,19
+22017,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.527,82,0.011,1.077,0.333,0.077,0.0,0.077,0.0,0.385,0.005,13,14,4,12,8

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22024,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.841,45,0.049,0.673,0.391,0.2,0.4,0.055,0.018,0.327,0.00435,1.2,0.8,0.2,0.5,0.3
+22024,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.303,70,0.084,0.35,0.7,0.155,0.748,0.01,0.0,0.204,0.006999999999999999,1.5,0.5,0.1,0.1,0.0
+22024,1631165,Keon Ellis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.79,80,0.084,0.625,0.615,0.104,0.625,0.0,0.0,0.271,0.00846,0.6,0.4,0.1,0.2,0.1
+22024,201942,DeMar DeRozan,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.771,77,0.03,0.617,0.278,0.234,0.404,0.085,0.021,0.319,0.0027800000000000004,0.6,0.4,0.1,0.2,0.2
+22024,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.776,65,0.036,0.619,0.333,0.238,0.5,0.048,0.024,0.31,0.00375,0.6,0.4,0.1,0.2,0.1
+22024,1631099,Keegan Murray,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.669,76,0.022,0.55,0.571,0.05,0.6,0.05,0.0,0.25,0.00643,0.3,0.1,0.1,0.1,0.0
+22024,1626168,Trey Lyles,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.376,69,0.057,0.385,0.167,0.231,0.538,0.038,0.0,0.231,0.00167,0.4,0.1,0.0,0.1,0.1
+22024,203897,Zach LaVine,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.497,32,0.028,0.444,0.5,0.056,0.611,0.0,0.0,0.222,0.005,0.6,0.3,0.1,0.2,0.1
+22024,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.333,43,0.031,0.364,0.167,0.091,0.364,0.0,0.0,0.182,0.00167,0.3,0.1,0.0,0.1,0.1
+22024,202685,Jonas Valančiūnas,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.103,32,0.08,0.19,1.0,0.095,0.857,0.0,0.0,0.143,0.01,0.7,0.1,0.0,0.0,0.0

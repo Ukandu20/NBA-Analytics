@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.866,38,0.192,1.114,0.42,0.045,0.045,0.034,0.011,0.42,0.568,88,98,34,81,47,CHI
-22018,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.155,52,0.067,0.734,0.304,0.047,0.078,0.047,0.0,0.297,0.384,64,47,17,56,39,CHI
-22018,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.112,63,0.044,0.682,0.314,0.091,0.167,0.091,0.03,0.288,0.382,66,45,16,51,35,CHI
-22018,1627782,Wayne Selden,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.631,43,0.045,1.0,0.5,0.0,0.111,0.0,0.0,0.444,0.563,18,18,8,16,8,CHI
-22018,203953,Jabari Parker,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.896,39,0.024,1.143,0.385,0.071,0.0,0.071,0.0,0.429,0.538,14,16,5,13,8,CHI
-22018,203490,Otto Porter Jr.,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.185,15,0.088,0.762,0.263,0.048,0.048,0.048,0.0,0.286,0.342,21,16,5,19,14,CHI
-22018,1627789,Timothe Luwawu-Cabarrot,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.424,29,0.054,0.909,0.364,0.0,0.0,0.0,0.0,0.364,0.455,11,10,4,11,7,CHI
-22018,1628469,Antonio Blakeney,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.23,57,0.022,0.8,0.25,0.1,0.1,0.1,0.0,0.3,0.375,10,8,2,8,6,CHI

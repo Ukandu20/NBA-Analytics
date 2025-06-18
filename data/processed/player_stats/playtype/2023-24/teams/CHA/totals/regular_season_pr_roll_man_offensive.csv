@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1630208,Nick Richards,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.841,67,0.245,1.369,0.663,0.269,0.038,0.269,0.038,0.7,0.663,130,178,63,95,32,CHA
-22023,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.414,44,0.173,1.066,0.443,0.085,0.057,0.085,0.057,0.434,0.531,106,113,43,97,54,CHA
-22023,1629684,Grant Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.622,29,0.217,1.217,0.544,0.145,0.072,0.12,0.036,0.554,0.625,83,101,37,68,31,CHA
-22023,1631109,Mark Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.594,20,0.236,1.191,0.622,0.149,0.085,0.149,0.021,0.617,0.622,47,56,23,37,14,CHA
-22023,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.434,69,0.027,1.077,0.389,0.077,0.0,0.077,0.0,0.436,0.486,39,42,14,36,22,CHA
-22023,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.076,74,0.019,0.708,0.318,0.0,0.083,0.0,0.0,0.292,0.386,24,17,7,22,15,CHA
-22023,1630197,Aleksej Pokusevski,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.204,18,0.088,0.917,0.4,0.167,0.0,0.167,0.0,0.5,0.45,12,11,4,10,6,CHA
-22023,202722,Dāvis Bertāns,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.0,28,0.043,0.3,0.111,0.0,0.1,0.0,0.0,0.1,0.167,10,3,1,9,8,CHA

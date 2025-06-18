@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.345,70,0.242,1.016,0.514,0.157,0.137,0.149,0.032,0.472,0.579,248,252,94,183,89
+22017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Transition,Offensive,0.734,80,0.192,1.221,0.572,0.216,0.118,0.196,0.044,0.574,0.645,204,249,83,145,62
+22017,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.655,80,0.172,1.184,0.52,0.172,0.074,0.135,0.025,0.54,0.606,163,193,66,127,61
+22017,202681,Kyrie Irving,1610612738,BOS,Boston Celtics,Transition,Offensive,0.241,60,0.138,0.967,0.428,0.115,0.11,0.099,0.022,0.429,0.497,182,176,62,145,83
+22017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,Transition,Offensive,0.336,54,0.118,1.011,0.406,0.161,0.126,0.161,0.023,0.425,0.492,87,88,26,64,38
+22017,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.212,72,0.08,0.947,0.556,0.067,0.227,0.067,0.013,0.453,0.593,75,71,30,54,24
+22017,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.047,54,0.116,0.72,0.338,0.061,0.159,0.037,0.012,0.317,0.392,82,59,22,65,43
+22017,203499,Shane Larkin,1610612738,BOS,Boston Celtics,Transition,Offensive,0.98,54,0.112,1.5,0.667,0.0,0.1,0.0,0.0,0.6,0.833,30,45,18,27,9
+22017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,Transition,Offensive,0.185,73,0.174,0.925,0.313,0.2,0.025,0.175,0.025,0.425,0.391,40,37,10,32,22
+22017,1627846,Abdel Nader,1610612738,BOS,Boston Celtics,Transition,Offensive,0.086,48,0.161,0.813,0.375,0.125,0.156,0.094,0.031,0.375,0.438,32,26,9,24,15
+22017,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,Transition,Offensive,0.624,63,0.056,1.167,0.571,0.222,0.111,0.222,0.111,0.556,0.571,18,21,8,14,6
+22017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,Transition,Offensive,0.119,81,0.025,0.857,0.429,0.0,0.0,0.0,0.0,0.429,0.429,14,12,6,14,8

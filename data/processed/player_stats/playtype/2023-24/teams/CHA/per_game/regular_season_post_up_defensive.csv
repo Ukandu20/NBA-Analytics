@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1631121,Bryce McGowens,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.505,50,0.038,1.0,0.429,0.364,0.091,0.273,0.091,0.545,0.429,0.2,0.2,0.1,0.1,0.1,CHA
-22023,1629684,Grant Williams,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.862,29,0.053,0.778,0.4,0.222,0.278,0.111,0.056,0.389,0.4,0.6,0.5,0.1,0.3,0.2,CHA
-22023,202397,Ish Smith,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.505,41,0.06,1.0,0.467,0.176,0.0,0.176,0.059,0.529,0.467,0.4,0.4,0.2,0.4,0.2,CHA
-22023,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.197,25,0.057,1.133,0.636,0.133,0.133,0.133,0.0,0.6,0.636,0.6,0.7,0.3,0.4,0.2,CHA
-22023,1641877,Nathan Mensah,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.006,19,0.108,1.563,0.833,0.188,0.063,0.188,0.0,0.813,0.833,0.8,1.3,0.5,0.6,0.1,CHA
-22023,1641706,Brandon Miller,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.377,74,0.04,1.059,0.478,0.294,0.088,0.294,0.059,0.559,0.478,0.5,0.5,0.1,0.3,0.2,CHA
-22023,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Defensive,0.042,43,0.061,1.355,0.72,0.129,0.097,0.097,0.032,0.677,0.72,0.7,1.0,0.4,0.6,0.2,CHA

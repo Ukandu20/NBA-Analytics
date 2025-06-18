@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42022,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.472,16,0.23,1.011,0.571,0.193,0.17,0.205,0.03,0.523,0.00598,88,89,32,56,24
+42022,1630559,Austin Reaves,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.685,16,0.19,1.244,0.581,0.178,0.156,0.178,0.02,0.556,0.006939999999999999,45,56,18,31,13
+42022,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.933,16,0.1,1.514,0.792,0.229,0.114,0.2,0.03,0.743,0.00813,35,53,19,24,5
+42022,1629060,Rui Hachimura,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.348,16,0.23,0.973,0.48,0.162,0.162,0.135,0.0,0.486,0.005,37,36,12,25,13
+42022,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.157,16,0.19,0.773,0.364,0.045,0.205,0.045,0.0,0.318,0.00455,44,34,12,33,21
+42022,203471,Dennis Schröder,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.422,16,0.11,1.0,0.5,0.133,0.2,0.133,0.0,0.467,0.0055000000000000005,15,15,5,10,5
+42022,1629020,Jarred Vanderbilt,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.67,15,0.13,1.182,0.857,0.091,0.182,0.182,0.0,0.636,0.00857,11,13,6,7,1
+42022,1629022,Lonnie Walker IV,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.182,13,0.2,0.786,0.364,0.071,0.143,0.071,0.0,0.286,0.005,14,11,4,11,7
+42022,1627736,Malik Beasley,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.136,11,0.33,0.769,0.273,0.077,0.077,0.077,0.0,0.308,0.00364,13,10,3,11,8
+42022,1628972,Troy Brown Jr.,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.0,12,0.18,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.006,5,6,3,5,2
+42022,202684,Tristan Thompson,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.0,6,0.21,1.333,1.0,0.333,0.0,0.333,0.0,0.667,0.01,3,4,2,2,0
+42022,1629117,Wenyen Gabriel,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.0,10,0.08,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42022,1631108,Max Christie,1610612747,LAL,Los Angeles Lakers,Transition,Offensive,0.0,9,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

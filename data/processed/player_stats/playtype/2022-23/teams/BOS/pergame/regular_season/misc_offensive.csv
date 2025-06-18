@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22022,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Misc,Offensive,0.929,74,0.04,0.9,0.625,0.375,0.438,0.038,0.013,0.463,0.0075,1.1,1.0,0.1,0.2,0.1
+22022,1627763,Malcolm Brogdon,1610612738,BOS,Boston Celtics,Misc,Offensive,0.882,67,0.041,0.784,0.455,0.27,0.459,0.081,0.027,0.378,0.005,0.6,0.4,0.1,0.2,0.1
+22022,1629684,Grant Williams,1610612738,BOS,Boston Celtics,Misc,Offensive,0.566,79,0.085,0.538,0.308,0.212,0.538,0.019,0.0,0.269,0.00385,0.7,0.4,0.1,0.2,0.1
+22022,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Misc,Offensive,0.314,61,0.083,0.409,0.333,0.182,0.591,0.015,0.0,0.242,0.004,1.1,0.4,0.1,0.2,0.2
+22022,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Misc,Offensive,0.363,67,0.026,0.444,0.467,0.111,0.556,0.044,0.0,0.244,0.005,0.7,0.3,0.1,0.2,0.1
+22022,1628401,Derrick White,1610612738,BOS,Boston Celtics,Misc,Offensive,0.575,82,0.038,0.543,0.111,0.286,0.457,0.029,0.0,0.314,0.00111,0.4,0.2,0.0,0.1,0.1
+22022,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Misc,Offensive,0.813,80,0.049,0.714,0.444,0.095,0.476,0.0,0.0,0.286,0.00611,0.3,0.2,0.1,0.1,0.1
+22022,201143,Al Horford,1610612738,BOS,Boston Celtics,Misc,Offensive,0.393,63,0.05,0.462,1.0,0.077,0.808,0.0,0.0,0.192,0.01333,0.4,0.2,0.0,0.0,0.0
+22022,1628436,Luke Kornet,1610612738,BOS,Boston Celtics,Misc,Offensive,0.776,69,0.076,0.688,1.0,0.25,0.625,0.063,0.0,0.375,0.01,0.2,0.2,0.0,0.0,0.0
+22022,1629057,Robert Williams III,1610612738,BOS,Boston Celtics,Misc,Offensive,0.151,35,0.109,0.292,1.0,0.125,0.833,0.0,0.0,0.167,0.01,0.7,0.2,0.0,0.0,0.0
+22022,201933,Blake Griffin,1610612738,BOS,Boston Celtics,Misc,Offensive,0.265,41,0.097,0.375,0.0,0.25,0.688,0.0,0.0,0.25,0.0,0.4,0.1,0.0,0.0,0.0
+22022,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Misc,Offensive,0.0,48,0.041,0.0,0.0,0.0,0.417,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1

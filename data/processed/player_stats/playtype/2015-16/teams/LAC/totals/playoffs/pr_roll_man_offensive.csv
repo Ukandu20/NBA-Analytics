@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,201933,Blake Griffin,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.744,4,0.181,1.154,0.556,0.15,0.077,0.15,0.0,0.538,0.00611,13,15,5,9,4
+42015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.0,6,0.086,1.667,1.0,0.17,0.0,0.17,0.0,0.833,0.01,6,10,5,5,0
+42015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.0,6,0.3,1.5,0.667,0.17,0.0,0.17,0.167,0.667,0.006670000000000001,6,9,4,6,2
+42015,201145,Jeff Green,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.0,6,0.113,0.857,0.25,0.29,0.143,0.29,0.0,0.429,0.0025,7,6,1,4,3
+42015,1718,Paul Pierce,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.0,5,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2

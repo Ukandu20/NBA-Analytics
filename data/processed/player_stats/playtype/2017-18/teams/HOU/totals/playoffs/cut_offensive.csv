@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,203991,Clint Capela,1610612745,HOU,Houston Rockets,Cut,Offensive,0.875,17,0.324,1.533,0.804,0.033,0.05,0.033,0.017,0.767,0.804,60,92,45,56,11
+42017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,17,0.069,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,9,12,6,9,3
+42017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,17,0.03,2.2,1.0,0.4,0.0,0.4,0.2,1.0,1.0,5,11,4,4,0
+42017,201935,James Harden,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,17,0.01,1.6,1.0,0.2,0.0,0.4,0.0,0.8,1.0,5,8,3,3,0
+42017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,17,0.015,1.25,0.667,0.25,0.0,0.25,0.0,0.75,0.667,4,5,2,3,1
+42017,2403,Nene,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,11,0.156,0.8,0.0,0.6,0.2,0.6,0.0,0.4,0.0,5,4,0,1,1
+42017,101123,Gerald Green,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,17,0.009,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
+42017,101108,Chris Paul,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,15,0.01,0.667,0.0,0.333,0.0,0.0,0.0,0.333,0.0,3,2,0,2,2
+42017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,Cut,Offensive,0.0,9,0.111,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4

@@ -1,0 +1,10 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.361,10,0.527,0.783,0.451,0.029,0.232,0.029,0.0,0.362,0.005,6.9,5.4,2.3,5.1,2.8
+42015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.279,10,0.404,0.725,0.298,0.145,0.188,0.101,0.014,0.333,0.0033,6.9,5.0,1.4,4.7,3.3
+42015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.59,10,0.191,0.889,0.364,0.148,0.037,0.111,0.0,0.444,0.00386,2.7,2.4,0.8,2.2,1.4
+42015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,10,0.035,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.008329999999999999,0.3,0.5,0.2,0.3,0.1
+42015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,10,0.016,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,0.3,0.4,0.2,0.3,0.1
+42015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,10,0.063,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.4,0.4,0.2,0.4,0.2
+42015,2550,Kirk Hinrich,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,6,0.429,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.5,0.3,0.2,0.5,0.3
+42015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,9,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+42015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.0,4,0.091,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0

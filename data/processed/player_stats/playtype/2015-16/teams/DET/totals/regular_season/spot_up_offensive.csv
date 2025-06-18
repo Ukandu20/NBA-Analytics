@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.867,80,0.227,1.118,0.451,0.066,0.096,0.059,0.022,0.426,0.594,272,304,105,233,128
+22015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.408,76,0.255,0.899,0.368,0.047,0.077,0.044,0.017,0.357,0.476,297,267,98,266,168
+22015,201229,Anthony Tolliver,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.753,72,0.551,1.053,0.371,0.014,0.043,0.014,0.0,0.364,0.538,209,220,73,197,124
+22015,101141,Ersan Ilyasova,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.611,52,0.339,0.99,0.377,0.063,0.058,0.043,0.0,0.394,0.505,208,206,69,183,114
+22015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.244,73,0.257,0.8,0.331,0.015,0.103,0.015,0.0,0.308,0.442,195,156,57,172,115
+22015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.918,79,0.082,1.168,0.433,0.031,0.015,0.031,0.015,0.435,0.579,131,153,55,127,72
+22015,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.844,27,0.267,1.108,0.426,0.072,0.027,0.063,0.009,0.45,0.545,111,123,43,101,58
+22015,2581,Steve Blake,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.879,58,0.236,1.128,0.405,0.013,0.051,0.013,0.013,0.385,0.588,78,88,30,74,44
+22015,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.972,37,0.464,1.288,0.458,0.038,0.038,0.038,0.0,0.462,0.656,52,67,22,48,26
+22015,1626199,Darrun Hilliard,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.846,38,0.275,1.109,0.421,0.109,0.065,0.087,0.0,0.457,0.579,46,51,16,38,22
+22015,201943,Brandon Jennings,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.727,23,0.138,1.04,0.391,0.04,0.04,0.04,0.0,0.4,0.5,25,26,9,23,14
+22015,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.075,81,0.015,0.636,0.286,0.318,0.091,0.318,0.045,0.409,0.286,22,14,4,14,10
+22015,203382,Aron Baynes,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.03,81,0.045,0.542,0.273,0.042,0.042,0.042,0.0,0.292,0.273,24,13,6,22,16

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1629636,Darius Garland,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.74,68,0.082,1.081,0.466,0.024,0.04,0.016,0.0,0.46,0.556,124,134,54,116,62,CLE
-22021,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.297,74,0.04,0.842,0.323,0.079,0.105,0.053,0.0,0.342,0.435,38,32,10,31,21,CLE
-22021,201937,Ricky Rubio,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.498,34,0.048,0.962,0.368,0.154,0.115,0.077,0.0,0.423,0.447,26,25,7,19,12,CLE
-22021,1628374,Lauri Markkanen,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.05,61,0.053,0.568,0.268,0.023,0.068,0.023,0.023,0.25,0.305,44,25,11,41,30,CLE
-22021,1627747,Caris LeVert,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.583,19,0.035,1.0,0.571,0.1,0.2,0.1,0.0,0.5,0.643,10,10,4,7,3,CLE
-22021,1629012,Collin Sexton,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.583,11,0.051,1.0,0.667,0.1,0.3,0.1,0.0,0.5,0.667,10,10,4,6,2,CLE

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.802,79,0.038,0.703,0.48,0.23,0.459,0.041,0.027,0.351,0.005600000000000001,74,52,12,25,13
+22022,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.487,54,0.077,0.507,0.533,0.123,0.671,0.027,0.0,0.233,0.00733,73,37,8,15,7
+22022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.278,70,0.095,0.385,0.375,0.256,0.667,0.051,0.026,0.244,0.00375,78,30,3,8,5
+22022,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.566,69,0.072,0.538,0.625,0.231,0.615,0.077,0.0,0.308,0.0075,52,28,5,8,3
+22022,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.609,79,0.04,0.571,0.429,0.314,0.514,0.114,0.029,0.343,0.0042899999999999995,35,20,3,7,4
+22022,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.618,65,0.042,0.581,0.385,0.129,0.452,0.097,0.0,0.29,0.005,31,18,5,13,8
+22022,1627752,Taurean Prince,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.804,54,0.05,0.708,0.417,0.083,0.417,0.042,0.0,0.292,0.005,24,17,5,12,7
+22022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.324,69,0.063,0.415,0.5,0.098,0.659,0.049,0.0,0.195,0.006,41,17,5,10,5
+22022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.977,24,0.044,1.0,0.5,0.462,0.231,0.0,0.0,0.615,0.005,13,13,2,4,2
+22022,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.349,43,0.124,0.435,0.4,0.043,0.522,0.0,0.0,0.217,0.0045000000000000005,23,10,4,10,6
+22022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.033,29,0.077,0.159,0.222,0.023,0.773,0.0,0.0,0.068,0.0027800000000000004,44,7,2,9,7

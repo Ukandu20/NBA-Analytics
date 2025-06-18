@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,202689,Kemba Walker,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.667,17,0.45,1.0,0.457,0.09,0.111,0.069,0.007,0.444,0.52,8.5,8.0,3.1,6.8,3.7,BOS
-42019,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.705,17,0.23,1.01,0.442,0.14,0.11,0.13,0.02,0.46,0.51,5.9,6.0,2.0,4.5,2.5,BOS
-42019,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.328,17,0.164,0.773,0.333,0.159,0.205,0.159,0.045,0.341,0.4,2.6,2.0,0.6,1.8,1.2,BOS
-42019,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.852,17,0.082,1.138,0.524,0.172,0.138,0.172,0.034,0.517,0.57,1.7,2.0,0.6,1.2,0.6,BOS
-42019,202954,Brad Wanamaker,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.902,17,0.212,1.222,0.533,0.056,0.111,0.056,0.0,0.5,0.67,1.1,1.0,0.5,0.9,0.4,BOS
-42019,202330,Gordon Hayward,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,5,0.098,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,1.2,1.0,0.6,1.2,0.6,BOS
-42019,1629641,Romeo Langford,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.0,7,0.154,1.5,1.0,0.5,0.0,0.0,0.0,1.0,1.0,0.3,0.0,0.1,0.1,0.0,BOS

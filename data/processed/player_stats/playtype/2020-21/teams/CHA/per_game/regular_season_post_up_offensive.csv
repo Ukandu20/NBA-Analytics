@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22020,1629023,P.J. Washington,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.088,64,0.094,0.614,0.377,0.048,0.229,0.048,0.012,0.313,0.377,1.3,0.8,0.4,1.0,0.6,CHA
-22020,202330,Gordon Hayward,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.969,44,0.035,1.276,0.565,0.207,0.0,0.034,0.0,0.655,0.565,0.7,0.8,0.3,0.5,0.2,CHA
-22020,1628970,Miles Bridges,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.2,66,0.043,0.758,0.55,0.061,0.333,0.0,0.0,0.394,0.55,0.5,0.4,0.2,0.3,0.1,CHA
-22020,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,1.0,48,0.023,1.5,0.571,0.5,0.0,0.3,0.2,0.7,0.571,0.2,0.3,0.1,0.1,0.1,CHA
-22020,202687,Bismack Biyombo,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.019,66,0.044,0.438,0.333,0.125,0.313,0.0,0.0,0.25,0.333,0.2,0.1,0.0,0.1,0.1,CHA

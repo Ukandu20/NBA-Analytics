@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.97,80,0.34,1.31,0.49,0.03,0.02,0.026,0.013,0.488,0.658,303,397,143,292,149
+22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.894,77,0.136,1.188,0.456,0.064,0.069,0.064,0.028,0.445,0.615,218,259,89,195,106
+22016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.401,76,0.21,0.919,0.361,0.06,0.073,0.06,0.009,0.368,0.466,234,215,74,205,131
+22016,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.647,78,0.091,1.022,0.39,0.045,0.045,0.045,0.006,0.391,0.518,179,183,64,164,100
+22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.252,79,0.365,0.841,0.315,0.056,0.051,0.056,0.021,0.318,0.427,195,164,56,178,122
+22016,201160,Jason Smith,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.743,74,0.334,1.074,0.443,0.029,0.007,0.029,0.0,0.456,0.538,136,146,58,131,73
+22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.991,57,0.163,1.431,0.542,0.0,0.059,0.0,0.0,0.51,0.76,51,73,26,48,22
+22016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.232,26,0.214,0.831,0.315,0.046,0.123,0.031,0.0,0.308,0.454,65,54,17,54,37
+22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.307,33,0.214,0.865,0.348,0.058,0.096,0.058,0.038,0.327,0.457,52,45,16,46,30
+22016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.221,57,0.223,0.818,0.361,0.068,0.136,0.068,0.023,0.341,0.444,44,36,13,36,23
+22016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.113,23,0.127,0.706,0.235,0.0,0.0,0.0,0.0,0.235,0.353,17,12,4,17,13

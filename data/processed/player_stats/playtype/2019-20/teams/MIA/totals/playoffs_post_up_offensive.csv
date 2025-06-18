@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Postup,Offensive,0.893,21,0.068,1.1,0.611,0.3,0.2,0.3,0.1,0.57,0.611,30,33,11,18,7,MIA
-42019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.214,19,0.053,0.824,0.357,0.118,0.059,0.118,0.0,0.41,0.357,17,14,5,14,9,MIA
-42019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Postup,Offensive,0.625,17,0.1,1.0,0.5,0.25,0.25,0.25,0.0,0.5,0.5,12,12,3,6,3,MIA
-42019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,17,0.009,1.333,1.0,0.333,0.333,0.333,0.0,0.67,1.0,3,4,1,1,0,MIA
-42019,203109,Jae Crowder,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,21,0.017,1.0,0.5,0.5,0.0,0.5,0.0,0.75,0.5,4,4,1,2,1,MIA

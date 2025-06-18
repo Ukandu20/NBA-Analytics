@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,Handoff,Offensive,0.339,71,0.07,0.754,0.386,0.046,0.077,0.046,0.0,0.369,0.412,65,49,22,57,35
+22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,Handoff,Offensive,0.869,72,0.077,1.093,0.5,0.023,0.023,0.023,0.023,0.488,0.548,43,47,21,42,21
+22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,Handoff,Offensive,0.415,82,0.081,0.786,0.38,0.018,0.089,0.0,0.0,0.357,0.42,56,44,19,50,31
+22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Handoff,Offensive,0.733,72,0.026,0.977,0.487,0.023,0.07,0.023,0.0,0.465,0.513,43,42,19,39,20
+22015,2756,Sasha Vujacic,1610612752,NYK,New York Knicks,Handoff,Offensive,0.23,61,0.118,0.7,0.333,0.0,0.1,0.0,0.0,0.3,0.389,40,28,12,36,24
+22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,Handoff,Offensive,0.801,76,0.049,1.038,0.5,0.154,0.154,0.115,0.0,0.5,0.583,26,27,9,18,9
+22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,Handoff,Offensive,0.585,80,0.027,0.9,0.333,0.15,0.0,0.15,0.05,0.4,0.361,20,18,6,18,12

@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.417,20,0.252,0.516,0.667,0.355,0.581,0.065,0.03,0.29,0.006670000000000001,1.6,0.8,0.1,0.2,0.1
+42015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.972,20,0.026,1.154,0.0,0.692,0.154,0.0,0.0,0.692,0.0,0.7,0.8,0.0,0.1,0.1
+42015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.694,20,0.039,0.765,0.6,0.176,0.529,0.059,0.0,0.353,0.008,0.9,0.7,0.2,0.3,0.1
+42015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,20,0.046,0.889,0.0,0.667,0.222,0.111,0.0,0.667,0.0,0.5,0.4,0.0,0.1,0.1
+42015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.543,20,0.085,0.571,0.25,0.214,0.5,0.0,0.0,0.286,0.00375,0.7,0.4,0.1,0.2,0.2
+42015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.667,12,0.065,0.7,1.0,0.3,0.6,0.0,0.0,0.4,0.01,0.8,0.6,0.1,0.1,0.0
+42015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.486,20,0.059,0.545,0.0,0.273,0.364,0.091,0.0,0.273,0.0,0.6,0.3,0.0,0.2,0.2
+42015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,20,0.056,0.375,0.0,0.375,0.625,0.0,0.0,0.375,0.0,0.4,0.2,0.0,0.0,0.0
+42015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,10,0.031,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.2,0.1,0.1,0.0
+42015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,18,0.026,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.1,0.1,0.1,0.1,0.1
+42015,201574,Jason Thompson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,10,0.091,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+42015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,11,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0

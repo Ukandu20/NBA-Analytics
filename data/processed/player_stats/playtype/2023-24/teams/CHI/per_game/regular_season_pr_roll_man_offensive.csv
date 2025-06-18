@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.462,76,0.381,1.098,0.526,0.045,0.061,0.042,0.013,0.508,0.573,6.9,7.6,3.3,6.3,3.0,CHI
-22023,203083,Andre Drummond,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.769,79,0.141,1.301,0.667,0.247,0.054,0.247,0.075,0.677,0.667,1.2,1.5,0.6,0.9,0.3,CHI
-22023,1627936,Alex Caruso,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.406,71,0.024,1.059,0.5,0.059,0.176,0.059,0.059,0.412,0.607,0.2,0.3,0.1,0.2,0.1,CHI
-22023,1629632,Coby White,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.044,79,0.013,0.6,0.235,0.0,0.15,0.0,0.0,0.2,0.353,0.3,0.2,0.1,0.2,0.2,CHI
-22023,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.024,43,0.022,0.5,0.25,0.1,0.1,0.1,0.0,0.3,0.25,0.2,0.1,0.0,0.2,0.1,CHI

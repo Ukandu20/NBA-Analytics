@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.936,75,0.046,0.85,0.222,0.467,0.383,0.0,0.0,0.5,0.222,60,51,2,9,7
+22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.925,80,0.066,0.828,0.4,0.397,0.431,0.034,0.0,0.448,0.4,58,48,4,10,6
+22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.832,65,0.06,0.738,0.4,0.295,0.475,0.066,0.02,0.377,0.4,61,45,6,15,9
+22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.963,78,0.044,0.909,0.467,0.273,0.386,0.068,0.0,0.432,0.633,44,40,7,15,8
+22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.359,76,0.116,0.422,0.444,0.229,0.663,0.024,0.0,0.265,0.444,83,35,4,9,5
+22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.645,64,0.091,0.6,0.313,0.244,0.444,0.044,0.04,0.311,0.313,45,27,5,16,11
+22015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.863,69,0.08,0.75,0.0,0.5,0.469,0.063,0.0,0.469,0.0,32,24,0,1,1
+22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.322,61,0.045,0.389,0.467,0.028,0.556,0.0,0.0,0.194,0.467,36,14,7,15,8
+22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.301,74,0.037,0.375,0.333,0.156,0.563,0.031,0.0,0.219,0.389,32,12,3,9,6
+22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.782,55,0.057,0.692,1.0,0.231,0.615,0.0,0.0,0.385,1.0,13,9,2,2,0
+22015,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.274,34,0.113,0.357,1.0,0.143,0.786,0.0,0.0,0.214,1.0,14,5,1,1,0
+22015,101135,David Lee,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.201,25,0.069,0.308,1.0,0.077,0.846,0.0,0.0,0.154,1.0,13,4,1,1,0
+22015,101111,Charlie Villanueva,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.147,62,0.033,0.25,0.0,0.167,0.667,0.0,0.0,0.167,0.0,12,3,0,2,2
+22015,201580,JaVale McGee,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.096,34,0.081,0.214,0.0,0.214,0.714,0.0,0.0,0.143,0.0,14,3,0,1,1

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.806,77,0.033,1.086,0.469,0.017,0.138,0.017,0.0,0.414,0.622,58,63,23,49,26,MIN
-22018,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.138,73,0.036,0.717,0.357,0.075,0.132,0.075,0.0,0.358,0.381,53,38,15,42,27,MIN
-22018,203967,Dario Šarić,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.759,68,0.039,1.074,0.5,0.0,0.111,0.0,0.0,0.444,0.604,27,29,12,24,12,MIN
-22018,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.71,51,0.024,1.045,0.524,0.0,0.045,0.0,0.0,0.5,0.548,22,23,11,21,10,MIN
-22018,201229,Anthony Tolliver,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.862,65,0.056,1.111,0.417,0.167,0.167,0.167,0.0,0.444,0.625,18,20,5,12,7,MIN
-22018,1629006,Josh Okogie,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.026,74,0.02,0.462,0.111,0.231,0.077,0.231,0.0,0.231,0.111,13,6,1,9,8,MIN

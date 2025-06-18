@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1630217,Desmond Bane,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.613,69,0.045,1.339,0.712,0.018,0.071,0.018,0.018,0.661,0.712,0.8,1.1,0.5,0.8,0.2,MEM
-22024,1642377,Jaylen Wells,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.799,79,0.059,1.447,0.674,0.128,0.0,0.128,0.043,0.702,0.674,0.6,0.9,0.4,0.5,0.2,MEM
-22024,1630643,Jay Huff,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.651,64,0.09,1.364,0.769,0.152,0.061,0.152,0.0,0.727,0.769,0.5,0.7,0.3,0.4,0.1,MEM
-22024,1630590,Scotty Pippen Jr.,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.066,79,0.059,0.917,0.486,0.167,0.104,0.167,0.042,0.479,0.486,0.6,0.6,0.2,0.5,0.2,MEM
-22024,1629630,Ja Morant,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.602,50,0.012,1.333,0.643,0.067,0.0,0.067,0.0,0.667,0.643,0.3,0.4,0.2,0.3,0.1,MEM
-22024,1642285,Cam Spencer,1610612763,MEM,Memphis Grizzlies,Cut,Offensive,0.969,25,0.104,1.7,0.75,0.3,0.0,0.3,0.1,0.8,0.75,0.4,0.7,0.2,0.3,0.1,MEM

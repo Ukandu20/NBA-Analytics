@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203083,Andre Drummond,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.43,78,0.111,1.043,0.553,0.15,0.057,0.157,0.029,0.557,0.00553,140,146,63,114,51
+22017,201933,Blake Griffin,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.097,25,0.148,0.833,0.366,0.064,0.051,0.064,0.026,0.372,0.004079999999999999,78,65,26,71,45
+22017,201229,Anthony Tolliver,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.565,79,0.074,1.093,0.395,0.116,0.023,0.116,0.023,0.442,0.00526,43,47,15,38,23
+22017,202699,Tobias Harris,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.675,48,0.032,1.154,0.48,0.038,0.0,0.038,0.0,0.5,0.005600000000000001,26,30,12,25,13
+22017,203961,Eric Moreland,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.275,67,0.172,0.967,0.583,0.1,0.133,0.1,0.033,0.467,0.005829999999999999,30,29,14,24,10

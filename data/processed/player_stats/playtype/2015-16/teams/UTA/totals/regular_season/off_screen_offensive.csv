@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.411,80,0.075,0.86,0.356,0.08,0.08,0.083,0.008,0.36,0.436,121,104,36,101,65
+22015,203504,Trey Burke,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.935,64,0.033,1.24,0.417,0.04,0.0,0.04,0.0,0.44,0.604,25,31,10,24,14
+22015,203918,Rodney Hood,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.102,80,0.041,0.604,0.25,0.02,0.06,0.021,0.0,0.25,0.307,48,29,11,44,33
+22015,204060,Joe Ingles,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.825,81,0.03,1.091,0.4,0.0,0.09,0.0,0.0,0.36,0.6,11,12,4,10,6
+22015,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,OffScreen,Offensive,0.037,80,0.02,0.455,0.182,0.0,0.0,0.0,0.0,0.18,0.227,11,5,2,11,9

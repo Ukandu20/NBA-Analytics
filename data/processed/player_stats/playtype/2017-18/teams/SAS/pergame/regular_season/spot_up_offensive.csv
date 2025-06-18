@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.499,70,0.461,0.987,0.38,0.03,0.056,0.023,0.0,0.377,0.511,4.4,4.3,1.5,4.0,2.5
+22017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.886,82,0.255,1.183,0.431,0.028,0.038,0.023,0.014,0.423,0.599,2.6,3.1,1.1,2.5,1.4
+22017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.617,79,0.428,1.025,0.406,0.071,0.05,0.071,0.004,0.421,0.519,3.0,3.1,1.1,2.7,1.6
+22017,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.664,77,0.513,1.047,0.391,0.023,0.037,0.023,0.0,0.391,0.527,2.8,2.9,1.0,2.6,1.6
+22017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.79,65,0.275,1.111,0.439,0.099,0.064,0.082,0.029,0.444,0.568,2.6,2.9,1.0,2.3,1.3
+22017,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.287,77,0.219,0.856,0.359,0.055,0.088,0.044,0.006,0.359,0.449,2.4,2.0,0.7,2.0,1.3
+22017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.561,75,0.093,1.007,0.451,0.06,0.079,0.06,0.02,0.437,0.515,2.0,2.0,0.8,1.8,1.0
+22017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.409,57,0.239,0.932,0.386,0.086,0.074,0.086,0.025,0.395,0.471,2.8,2.6,0.9,2.5,1.5
+22017,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.33,74,0.228,0.883,0.4,0.088,0.117,0.088,0.007,0.401,0.468,1.9,1.6,0.6,1.5,0.9
+22017,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.197,55,0.203,0.79,0.388,0.05,0.12,0.03,0.02,0.36,0.424,1.8,1.4,0.6,1.5,0.9
+22017,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.135,81,0.129,0.702,0.33,0.067,0.106,0.067,0.019,0.317,0.381,1.3,0.9,0.4,1.1,0.7
+22017,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Spotup,Offensive,0.899,10,0.182,1.192,0.409,0.192,0.038,0.192,0.077,0.462,0.545,2.6,3.1,0.9,2.2,1.3

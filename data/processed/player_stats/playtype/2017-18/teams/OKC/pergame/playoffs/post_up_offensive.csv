@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.5,6,0.174,0.933,0.5,0.0,0.067,0.0,0.0,0.467,0.5,2.5,2.3,1.2,2.3,1.2
+42017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.344,6,0.071,0.8,0.429,0.0,0.067,0.0,0.0,0.4,0.429,2.5,2.0,1.0,2.3,1.3
+42017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.469,6,0.193,0.909,0.444,0.091,0.091,0.091,0.0,0.455,0.444,1.8,1.7,0.7,1.5,0.8
+42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,6,0.019,2.333,1.0,0.333,0.0,0.333,0.333,1.0,1.0,0.5,1.2,0.5,0.5,0.0
+42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,6,0.043,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,0.2,0.3,0.2
+42017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2

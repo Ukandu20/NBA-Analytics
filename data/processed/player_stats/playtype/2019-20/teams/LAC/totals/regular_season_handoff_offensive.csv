@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,202331,Paul George,1610612746,LAC,LA Clippers,Handoff,Offensive,0.981,48,0.05,1.4,0.605,0.14,0.14,0.14,0.04,0.56,0.75,50,70,23,38,15,LAC
-22019,101150,Lou Williams,1610612746,LAC,LA Clippers,Handoff,Offensive,0.687,65,0.049,1.0,0.409,0.213,0.082,0.18,0.016,0.475,0.466,61,61,18,44,26,LAC
-22019,202695,Kawhi Leonard,1610612746,LAC,LA Clippers,Handoff,Offensive,0.216,57,0.037,0.722,0.289,0.13,0.056,0.111,0.019,0.352,0.3,54,39,13,45,32,LAC
-22019,1629013,Landry Shamet,1610612746,LAC,LA Clippers,Handoff,Offensive,0.165,53,0.065,0.667,0.28,0.033,0.133,0.033,0.0,0.267,0.36,30,20,7,25,18,LAC
-22019,203585,Rodney McGruder,1610612746,LAC,LA Clippers,Handoff,Offensive,0.81,56,0.064,1.071,0.5,0.0,0.143,0.0,0.0,0.429,0.625,14,15,6,12,6,LAC
-22019,1629010,Jerome Robinson,1610612746,LAC,LA Clippers,Handoff,Offensive,0.307,42,0.058,0.8,0.429,0.2,0.1,0.1,0.0,0.4,0.5,10,8,3,7,4,LAC

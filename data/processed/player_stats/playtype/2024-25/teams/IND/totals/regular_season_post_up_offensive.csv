@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Postup,Offensive,0.722,78,0.183,1.077,0.547,0.138,0.088,0.13,0.038,0.544,0.547,261,281,116,212,96,IND
-22024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Postup,Offensive,0.566,72,0.095,1.03,0.476,0.283,0.141,0.242,0.061,0.525,0.476,99,102,30,63,33,IND
-22024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Postup,Offensive,0.965,79,0.043,1.484,0.76,0.194,0.032,0.065,0.032,0.774,0.76,31,46,19,25,6,IND
-22024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,Postup,Offensive,0.909,56,0.047,1.25,0.714,0.0,0.125,0.0,0.0,0.625,0.714,16,20,10,14,4,IND

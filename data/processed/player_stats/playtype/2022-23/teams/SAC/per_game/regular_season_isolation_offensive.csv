@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.819,73,0.108,1.082,0.517,0.152,0.076,0.147,0.038,0.522,0.544,2.5,2.7,1.1,2.0,1.0,SAC
-22022,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.933,82,0.058,1.21,0.525,0.306,0.097,0.274,0.048,0.597,0.55,0.8,0.9,0.3,0.5,0.2,SAC
-22022,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.654,79,0.033,0.978,0.577,0.222,0.2,0.2,0.0,0.533,0.577,0.6,0.6,0.2,0.3,0.1,SAC
-22022,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.472,80,0.091,0.884,0.444,0.116,0.116,0.093,0.07,0.419,0.472,0.5,0.5,0.2,0.5,0.3,SAC
-22022,1628370,Malik Monk,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.409,77,0.04,0.854,0.343,0.122,0.073,0.098,0.049,0.366,0.386,0.5,0.5,0.2,0.5,0.3,SAC
-22022,1628989,Kevin Huerter,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.798,75,0.015,1.067,0.5,0.2,0.133,0.2,0.133,0.467,0.583,0.2,0.2,0.1,0.2,0.1,SAC
-22022,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.694,66,0.056,1.0,0.417,0.313,0.0,0.313,0.063,0.5,0.417,0.2,0.2,0.1,0.2,0.1,SAC
-22022,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Isolation,Offensive,0.276,64,0.032,0.786,0.333,0.143,0.0,0.143,0.0,0.357,0.417,0.2,0.2,0.1,0.2,0.1,SAC

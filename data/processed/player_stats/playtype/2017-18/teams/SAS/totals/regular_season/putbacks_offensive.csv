@@ -1,0 +1,7 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.916,75,0.103,1.377,0.688,0.168,0.042,0.168,0.042,0.695,0.688,167,230,95,138,43
+22017,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.524,77,0.099,1.11,0.552,0.146,0.049,0.122,0.012,0.585,0.552,82,91,37,67,30
+22017,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.632,74,0.095,1.175,0.529,0.158,0.0,0.14,0.053,0.579,0.529,57,67,27,51,24
+22017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.936,57,0.061,1.415,0.694,0.171,0.024,0.171,0.073,0.707,0.694,41,58,25,36,11
+22017,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.306,81,0.072,1.0,0.5,0.034,0.017,0.017,0.017,0.5,0.5,58,58,28,56,28
+22017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.071,70,0.029,0.737,0.429,0.053,0.211,0.053,0.0,0.368,0.429,19,14,6,14,8

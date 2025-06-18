@@ -1,0 +1,9 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.667,5,0.16,0.917,0.3,0.167,0.0,0.167,0.0,0.417,0.0034999999999999996,12,11,3,10,7
+42017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,5,0.08,1.429,0.6,0.286,0.0,0.286,0.0,0.714,0.006999999999999999,7,10,3,5,2
+42017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,5,0.11,1.125,0.667,0.125,0.25,0.125,0.125,0.5,0.006670000000000001,8,9,4,6,2
+42017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,5,0.12,0.857,0.333,0.143,0.0,0.143,0.0,0.429,0.00333,7,6,2,6,4
+42017,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,5,0.12,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.0025,8,4,2,8,6
+42017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,5,0.05,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0
+42017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,4,0.12,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42017,201166,Aaron Brooks,1610612750,MIN,Minnesota Timberwolves,PRBallHandler,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1

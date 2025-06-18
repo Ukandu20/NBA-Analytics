@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.821,65,0.194,0.959,0.494,0.248,0.146,0.187,0.044,0.504,0.494,363,348,116,235,119
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.812,70,0.105,0.955,0.49,0.129,0.106,0.106,0.023,0.492,0.49,132,126,51,104,53
+22015,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.256,78,0.132,0.718,0.429,0.042,0.169,0.042,0.0,0.366,0.429,71,51,24,56,32
+22015,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.085,66,0.056,0.52,0.316,0.04,0.2,0.04,0.0,0.28,0.316,25,13,6,19,13
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,Postup,Offensive,0.986,69,0.013,1.2,0.5,0.3,0.1,0.3,0.0,0.6,0.5,10,12,3,6,3

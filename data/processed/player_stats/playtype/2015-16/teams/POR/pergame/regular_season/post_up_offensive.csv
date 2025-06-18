@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.623,82,0.086,0.873,0.491,0.141,0.155,0.113,0.042,0.451,0.491,0.9,0.8,0.3,0.6,0.3
+22015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.538,72,0.078,0.846,0.371,0.192,0.135,0.154,0.0,0.442,0.371,0.7,0.6,0.2,0.5,0.3
+22015,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.617,61,0.058,0.871,0.542,0.032,0.194,0.0,0.0,0.452,0.542,0.5,0.4,0.2,0.4,0.2
+22015,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.875,81,0.044,1.0,0.556,0.048,0.143,0.048,0.048,0.476,0.556,0.3,0.3,0.1,0.2,0.1
+22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.072,78,0.044,0.478,0.357,0.087,0.304,0.087,0.0,0.261,0.357,0.3,0.1,0.1,0.2,0.1
+22015,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.036,78,0.072,0.4,0.182,0.08,0.04,0.08,0.0,0.24,0.182,0.3,0.1,0.1,0.3,0.2
+22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.049,82,0.021,0.421,0.364,0.0,0.421,0.0,0.0,0.211,0.364,0.2,0.1,0.0,0.1,0.1

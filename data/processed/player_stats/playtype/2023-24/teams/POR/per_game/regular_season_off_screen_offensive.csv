@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203924,Jerami Grant,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.525,54,0.118,1.008,0.417,0.194,0.062,0.178,0.054,0.465,0.461,2.4,2.4,0.8,1.9,1.1,POR
-22023,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.73,46,0.048,1.12,0.444,0.0,0.1,0.0,0.0,0.4,0.622,1.1,1.2,0.4,1.0,0.5,POR
-22023,1631101,Shaedon Sharpe,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.605,32,0.086,1.083,0.419,0.083,0.021,0.083,0.0,0.458,0.523,1.5,1.6,0.6,1.3,0.8,POR
-22023,1630625,Dalano Banton,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.116,30,0.034,0.737,0.333,0.0,0.211,0.0,0.0,0.263,0.467,0.6,0.5,0.2,0.5,0.3,POR
-22023,1631200,Kris Murray,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.626,62,0.025,1.091,0.5,0.091,0.091,0.091,0.091,0.455,0.55,0.2,0.2,0.1,0.2,0.1,POR
-22023,1629028,Deandre Ayton,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.256,56,0.016,0.857,0.5,0.0,0.143,0.0,0.0,0.429,0.5,0.3,0.2,0.1,0.2,0.1,POR
-22023,1627763,Malcolm Brogdon,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.041,39,0.025,0.6,0.231,0.0,0.133,0.0,0.0,0.2,0.346,0.4,0.2,0.1,0.3,0.3,POR
-22023,1630703,Scoot Henderson,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.025,62,0.01,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,0.2,0.1,0.0,0.2,0.1,POR

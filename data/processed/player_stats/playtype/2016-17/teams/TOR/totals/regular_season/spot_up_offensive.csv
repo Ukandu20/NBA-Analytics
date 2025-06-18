@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.734,65,0.543,1.065,0.4,0.037,0.053,0.037,0.008,0.392,0.556,245,261,90,225,135
+22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.383,72,0.432,0.912,0.319,0.063,0.025,0.063,0.004,0.338,0.452,284,259,83,260,177
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.961,60,0.136,1.275,0.434,0.12,0.006,0.12,0.036,0.479,0.605,167,213,66,152,86
+22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.718,54,0.348,1.059,0.406,0.005,0.027,0.005,0.005,0.395,0.542,185,196,73,180,107
+22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.351,80,0.221,0.89,0.373,0.011,0.077,0.011,0.0,0.352,0.476,182,162,62,166,104
+22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.456,76,0.261,0.941,0.367,0.071,0.059,0.071,0.012,0.376,0.477,170,160,55,150,95
+22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.482,74,0.069,0.95,0.365,0.086,0.022,0.086,0.014,0.396,0.448,139,132,46,126,80
+22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.454,23,0.302,0.941,0.372,0.02,0.05,0.02,0.0,0.366,0.484,101,95,35,94,59
+22016,200782,P.J. Tucker,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.888,24,0.413,1.177,0.446,0.016,0.081,0.016,0.0,0.419,0.643,62,73,25,56,31
+22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.271,55,0.209,0.849,0.447,0.019,0.094,0.019,0.0,0.415,0.457,53,45,21,47,26
+22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.131,80,0.042,0.737,0.371,0.053,0.053,0.053,0.026,0.368,0.371,38,28,13,35,22
+22016,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.7,27,0.127,1.048,0.4,0.143,0.143,0.095,0.0,0.429,0.567,21,22,6,15,9
+22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,Spotup,Offensive,0.596,57,0.066,1.0,0.462,0.0,0.133,0.0,0.0,0.4,0.577,15,15,6,13,7

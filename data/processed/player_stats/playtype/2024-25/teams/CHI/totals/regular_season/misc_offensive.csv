@@ -1,0 +1,14 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22024,1629632,Coby White,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.738,74,0.039,0.589,0.222,0.25,0.429,0.0,0.0,0.321,0.0027800000000000004,56,33,4,18,14
+22024,202696,Nikola Vučević,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.615,73,0.051,0.516,0.778,0.161,0.694,0.0,0.0,0.258,0.00889,62,32,7,9,2
+22024,1630581,Josh Giddey,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.315,70,0.056,0.355,0.6,0.081,0.758,0.0,0.0,0.177,0.006999999999999999,62,22,6,10,4
+22024,1630188,Jalen Smith,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.706,64,0.072,0.571,0.286,0.286,0.514,0.029,0.0,0.343,0.00357,35,20,2,7,5
+22024,1630245,Ayo Dosunmu,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.688,46,0.042,0.565,1.0,0.217,0.696,0.043,0.0,0.304,0.01,23,13,2,2,0
+22024,203897,Zach LaVine,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.478,42,0.031,0.429,0.4,0.071,0.571,0.0,0.0,0.214,0.005,28,12,4,10,6
+22024,1641824,Matas Buzelis,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.547,80,0.031,0.476,0.4,0.095,0.667,0.095,0.0,0.19,0.006,21,10,2,5,3
+22024,1630172,Patrick Williams,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.35,63,0.042,0.37,0.333,0.111,0.556,0.0,0.0,0.222,0.00333,27,10,3,9,6
+22024,1631207,Dalen Terry,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.585,73,0.051,0.5,0.5,0.111,0.556,0.0,0.0,0.278,0.005,18,9,3,6,3
+22024,1629659,Talen Horton-Tucker,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.873,58,0.027,0.7,0.5,0.3,0.5,0.0,0.0,0.4,0.005,10,7,1,2,1
+22024,1641763,Julian Phillips,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.585,79,0.04,0.5,0.0,0.357,0.571,0.071,0.0,0.357,0.0,14,7,0,1,1
+22024,1628380,Zach Collins,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.276,28,0.092,0.333,1.0,0.143,0.81,0.0,0.0,0.19,0.01,21,7,1,1,0
+22024,1628366,Lonzo Ball,1610612741,CHI,Chicago Bulls,Misc,Offensive,0.232,35,0.078,0.304,0.0,0.174,0.478,0.0,0.0,0.174,0.0,23,7,0,8,8

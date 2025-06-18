@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.922,74,0.257,1.449,0.596,0.095,0.032,0.095,0.051,0.589,0.719,158,229,87,146,59,DAL
-22019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.654,57,0.156,1.169,0.461,0.129,0.039,0.124,0.022,0.5,0.569,178,208,70,152,82,DAL
-22019,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.866,40,0.27,1.353,0.697,0.2,0.059,0.212,0.047,0.694,0.72,85,115,46,66,20,DAL
-22019,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.72,23,0.19,1.231,0.65,0.115,0.154,0.115,0.038,0.577,0.7,26,32,13,20,7,DAL
-22019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.322,71,0.077,1.0,0.475,0.082,0.102,0.082,0.0,0.429,0.588,49,49,19,40,21,DAL
-22019,1626161,Willie Cauley-Stein,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.935,13,0.453,1.458,0.727,0.125,0.042,0.125,0.083,0.708,0.727,24,35,16,22,6,DAL
-22019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.774,71,0.021,1.273,0.474,0.136,0.0,0.136,0.0,0.545,0.579,22,28,9,19,10,DAL
-22019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.152,65,0.029,0.818,0.3,0.091,0.0,0.0,0.0,0.364,0.35,11,9,3,10,7,DAL

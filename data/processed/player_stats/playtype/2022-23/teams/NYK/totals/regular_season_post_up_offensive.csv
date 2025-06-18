@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22022,203944,Julius Randle,1610612752,NYK,New York Knicks,Postup,Offensive,0.377,77,0.089,0.904,0.486,0.199,0.187,0.169,0.042,0.47,0.486,166,150,53,109,56,NYK
-22022,1628973,Jalen Brunson,1610612752,NYK,New York Knicks,Postup,Offensive,0.551,68,0.041,0.968,0.481,0.081,0.065,0.081,0.016,0.48,0.481,62,60,26,54,28,NYK
-22022,1629628,RJ Barrett,1610612752,NYK,New York Knicks,Postup,Offensive,0.174,73,0.048,0.792,0.404,0.125,0.097,0.125,0.014,0.42,0.404,72,57,23,57,34,NYK
-22022,1628392,Isaiah Hartenstein,1610612752,NYK,New York Knicks,Postup,Offensive,0.731,82,0.031,1.077,0.667,0.154,0.231,0.154,0.077,0.54,0.667,13,14,6,9,3,NYK
-22022,1629011,Mitchell Robinson,1610612752,NYK,New York Knicks,Postup,Offensive,0.03,59,0.045,0.588,0.364,0.235,0.176,0.235,0.059,0.29,0.364,17,10,4,11,7,NYK

@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22019,1629029,Luka Dončić,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.613,61,0.048,0.56,0.32,0.25,0.429,0.06,0.012,0.298,0.0036,1.4,0.8,0.1,0.5,0.3
+22019,203501,Tim Hardaway Jr.,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.91,71,0.048,0.84,0.36,0.38,0.34,0.0,0.0,0.46,0.0043,0.7,0.6,0.1,0.2,0.1
+22019,204001,Kristaps Porziņģis,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.798,57,0.051,0.707,0.37,0.293,0.379,0.017,0.0,0.379,0.0045000000000000005,1.0,0.7,0.1,0.3,0.2
+22019,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.807,64,0.048,0.719,0.33,0.406,0.406,0.031,0.0,0.438,0.0042,0.5,0.4,0.0,0.1,0.1
+22019,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.948,71,0.034,0.909,0.75,0.409,0.409,0.045,0.0,0.545,0.01,0.3,0.3,0.0,0.1,0.0
+22019,1628973,Jalen Brunson,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.678,57,0.068,0.606,0.75,0.182,0.576,0.03,0.0,0.364,0.0075,0.6,0.4,0.1,0.1,0.0
+22019,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.58,74,0.06,0.541,0.67,0.27,0.649,0.0,0.0,0.324,0.0067,0.5,0.3,0.0,0.0,0.0
+22019,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.775,40,0.089,0.679,0.67,0.357,0.536,0.036,0.0,0.393,0.0067,0.7,0.5,0.1,0.1,0.0
+22019,1626153,Delon Wright,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.531,73,0.043,0.522,0.11,0.261,0.348,0.0,0.0,0.304,0.0011,0.3,0.2,0.0,0.1,0.1
+22019,1626246,Boban Marjanović,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.22,23,0.139,0.316,0.333,0.158,0.684,0.053,0.0,0.211,0.00333,0.8,0.3,0.0,0.1,0.1
+22019,1628382,Justin Jackson,1610612742,DAL,Dallas Mavericks,Misc,Offensive,0.493,65,0.032,0.5,0.0,0.333,0.583,0.0,0.0,0.25,0.0,0.2,0.1,0.0,0.0,0.0

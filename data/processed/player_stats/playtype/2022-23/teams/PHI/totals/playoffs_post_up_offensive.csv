@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42022,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.56,9,0.252,1.053,0.421,0.281,0.105,0.263,0.053,0.509,0.421,57,60,16,38,22,PHI
-42022,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,1.0,11,0.108,1.625,0.733,0.188,0.0,0.125,0.125,0.75,0.733,16,26,11,15,4,PHI
-42022,201935,James Harden,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,11,0.008,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,PHI
-42022,1626149,Montrezl Harrell,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.0,2,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,PHI

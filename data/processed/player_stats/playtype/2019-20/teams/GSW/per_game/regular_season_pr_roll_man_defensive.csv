@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1629065,Ky Bowman,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.517,45,0.027,1.0,0.5,0.09,0.182,0.0,0.0,0.45,0.62,0.2,0.0,0.1,0.2,0.1,GSW
-22019,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.937,43,0.036,0.611,0.36,0.06,0.167,0.0,0.0,0.28,0.39,0.4,0.0,0.1,0.3,0.2,GSW
-22019,203922,Glenn Robinson III,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.394,48,0.018,1.091,0.45,0.09,0.0,0.09,0.09,0.45,0.55,0.2,0.0,0.1,0.2,0.1,GSW
-22019,1629672,Eric Paschall,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.413,60,0.026,1.083,0.45,0.0,0.083,0.0,0.0,0.42,0.59,0.2,0.0,0.1,0.2,0.1,GSW
-22019,1627814,Damion Lee,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.201,49,0.029,1.214,0.5,0.07,0.0,0.07,0.07,0.5,0.57,0.3,0.0,0.1,0.3,0.1,GSW
-22019,1626161,Willie Cauley-Stein,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.36,41,0.038,1.111,0.47,0.06,0.111,0.06,0.0,0.44,0.6,0.4,0.0,0.2,0.4,0.2,GSW
-22019,1627737,Marquese Chriss,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.712,59,0.04,0.875,0.36,0.04,0.042,0.04,0.0,0.38,0.43,0.4,0.0,0.1,0.4,0.2,GSW
-22019,1629016,Omari Spellman,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.451,49,0.066,1.043,0.41,0.0,0.043,0.0,0.0,0.39,0.55,0.5,0.0,0.2,0.4,0.3,GSW

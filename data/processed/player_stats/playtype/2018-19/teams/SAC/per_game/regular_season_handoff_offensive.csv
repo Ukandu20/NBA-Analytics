@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.808,82,0.081,1.071,0.455,0.016,0.039,0.016,0.008,0.441,0.55,1.5,1.7,0.7,1.5,0.8,SAC
-22018,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.615,70,0.081,0.965,0.394,0.071,0.106,0.071,0.012,0.388,0.5,1.2,1.2,0.4,1.0,0.6,SAC
-22018,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.144,81,0.033,0.64,0.364,0.12,0.22,0.1,0.0,0.34,0.379,0.6,0.4,0.1,0.4,0.3,SAC
-22018,202357,Nemanja Bjelica,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.951,77,0.029,1.286,0.526,0.0,0.095,0.0,0.0,0.476,0.711,0.3,0.4,0.1,0.2,0.1,SAC
-22018,1628382,Justin Jackson,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.585,52,0.062,0.952,0.429,0.0,0.0,0.0,0.0,0.429,0.476,0.4,0.4,0.2,0.4,0.2,SAC
-22018,1627812,Yogi Ferrell,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.295,71,0.06,0.8,0.32,0.0,0.0,0.0,0.0,0.32,0.4,0.4,0.3,0.1,0.4,0.2,SAC
-22018,202697,Iman Shumpert,1610612758,SAC,Sacramento Kings,Handoff,Offensive,0.021,42,0.047,0.368,0.176,0.0,0.105,0.0,0.0,0.158,0.206,0.5,0.2,0.1,0.4,0.3,SAC

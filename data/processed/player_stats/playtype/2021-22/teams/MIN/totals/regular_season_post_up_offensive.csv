@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.491,74,0.146,0.924,0.525,0.155,0.218,0.13,0.038,0.462,0.525,238,220,83,158,75,MIN
-22021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.272,77,0.107,0.821,0.447,0.149,0.179,0.104,0.03,0.418,0.447,67,55,21,47,26,MIN
-22021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.107,65,0.014,0.667,0.308,0.167,0.222,0.167,0.111,0.278,0.308,18,12,4,13,9,MIN

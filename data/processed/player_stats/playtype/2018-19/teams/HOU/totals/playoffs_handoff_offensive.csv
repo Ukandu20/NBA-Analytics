@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.615,11,0.07,0.923,0.556,0.0,0.31,0.0,0.0,0.385,0.667,13,12,5,9,4,HOU
-42018,201935,James Harden,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.231,11,0.045,0.625,0.222,0.125,0.31,0.125,0.0,0.25,0.333,16,10,2,9,7,HOU
-42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.0,10,0.056,1.25,0.5,0.0,0.0,0.0,0.0,0.5,0.625,4,5,2,4,2,HOU
-42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.077,11,0.067,0.357,0.182,0.071,0.14,0.0,0.0,0.143,0.227,14,5,2,11,9,HOU
-42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.0,7,0.022,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,HOU
-42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.0,8,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,HOU
-42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.0,11,0.067,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,0,0,3,3,HOU

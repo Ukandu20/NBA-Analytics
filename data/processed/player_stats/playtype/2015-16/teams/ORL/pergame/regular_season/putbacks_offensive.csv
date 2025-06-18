@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.899,78,0.146,1.292,0.656,0.104,0.038,0.104,0.019,0.66,0.661,1.4,1.8,0.8,1.2,0.4
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.562,65,0.095,1.085,0.528,0.077,0.034,0.068,0.034,0.53,0.528,1.8,2.0,0.9,1.7,0.8
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.667,49,0.078,1.132,0.592,0.019,0.057,0.019,0.0,0.566,0.592,1.1,1.2,0.6,1.0,0.4
+22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.875,73,0.041,1.275,0.688,0.175,0.1,0.175,0.075,0.625,0.688,0.5,0.7,0.3,0.4,0.1
+22015,203473,Dewayne Dedmon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.35,58,0.186,0.978,0.441,0.2,0.044,0.2,0.0,0.533,0.441,0.8,0.8,0.3,0.6,0.3
+22015,101141,Ersan Ilyasova,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.158,22,0.215,0.825,0.394,0.175,0.05,0.175,0.05,0.45,0.394,1.8,1.5,0.6,1.5,0.9
+22015,201160,Jason Smith,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.382,76,0.046,1.0,0.565,0.037,0.148,0.037,0.037,0.481,0.565,0.4,0.4,0.2,0.3,0.1
+22015,203094,Andrew Nicholson,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.804,56,0.05,1.211,0.643,0.211,0.053,0.211,0.0,0.684,0.643,0.3,0.4,0.2,0.3,0.1
+22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.382,72,0.019,1.0,0.526,0.087,0.087,0.0,0.0,0.522,0.526,0.3,0.3,0.1,0.3,0.1
+22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.74,79,0.015,1.176,0.538,0.176,0.059,0.118,0.0,0.588,0.538,0.2,0.3,0.1,0.2,0.1
+22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.682,79,0.026,1.143,0.5,0.143,0.0,0.071,0.0,0.571,0.542,0.2,0.2,0.1,0.2,0.1
+22015,101112,Channing Frye,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.166,44,0.054,0.833,0.417,0.0,0.0,0.0,0.0,0.417,0.417,0.3,0.2,0.1,0.3,0.2

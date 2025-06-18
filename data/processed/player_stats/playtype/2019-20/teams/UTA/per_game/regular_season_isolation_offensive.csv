@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.644,69,0.077,0.922,0.381,0.117,0.078,0.109,0.016,0.414,0.438,1.9,1.7,0.6,1.5,0.9,UTA
-22019,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.64,63,0.095,0.922,0.391,0.061,0.139,0.052,0.0,0.374,0.5,1.8,1.7,0.6,1.5,0.9,UTA
-22019,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.866,42,0.097,1.066,0.52,0.098,0.131,0.098,0.049,0.475,0.57,1.5,1.5,0.6,1.2,0.6,UTA
-22019,201144,Mike Conley,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.891,47,0.061,1.091,0.529,0.091,0.182,0.091,0.045,0.455,0.647,0.9,1.0,0.4,0.7,0.3,UTA
-22019,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.85,72,0.05,1.054,0.375,0.108,0.027,0.081,0.0,0.432,0.5,0.5,0.5,0.2,0.4,0.3,UTA
-22019,1626144,Emmanuel Mudiay,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.502,54,0.063,0.857,0.476,0.107,0.179,0.107,0.036,0.429,0.5,0.5,0.4,0.2,0.4,0.2,UTA

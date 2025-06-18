@@ -1,0 +1,12 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,202688,Brandon Knight,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.659,52,0.104,0.882,0.358,0.126,0.092,0.067,0.017,0.395,0.416,119,105,34,95,61
+22015,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.464,32,0.131,0.798,0.348,0.169,0.112,0.135,0.022,0.393,0.371,89,71,23,66,43
+22015,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.522,76,0.062,0.814,0.327,0.171,0.057,0.157,0.014,0.386,0.355,70,57,18,55,37
+22015,203462,Archie Goodwin,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.649,57,0.083,0.88,0.372,0.12,0.04,0.12,0.02,0.4,0.43,50,44,16,43,27
+22015,202693,Markieff Morris,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.261,38,0.109,0.689,0.354,0.131,0.098,0.115,0.016,0.361,0.354,61,42,17,48,31
+22015,202720,Jon Leuer,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.677,67,0.079,0.891,0.405,0.13,0.087,0.109,0.022,0.435,0.405,46,41,15,37,22
+22015,101179,Ronnie Price,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.447,62,0.096,0.784,0.333,0.108,0.135,0.081,0.054,0.324,0.383,37,29,10,30,20
+22015,203141,Mirza Teletovic,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.921,79,0.029,1.037,0.6,0.111,0.185,0.111,0.037,0.519,0.65,27,28,12,20,8
+22015,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.614,47,0.042,0.857,0.444,0.048,0.095,0.048,0.0,0.429,0.472,21,18,8,18,10
+22015,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.034,82,0.032,0.417,0.227,0.0,0.083,0.0,0.0,0.208,0.227,24,10,5,22,17
+22015,203458,Alex Len,1610612756,PHX,Phoenix Suns,Isolation,Offensive,0.01,78,0.025,0.273,0.158,0.045,0.091,0.045,0.0,0.136,0.158,22,6,3,19,16

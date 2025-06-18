@@ -1,0 +1,15 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22019,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Misc,Offensive,0.869,57,0.031,0.808,0.41,0.308,0.385,0.096,0.019,0.404,0.0040999999999999995,0.9,0.7,0.1,0.3,0.2
+22019,202397,Ish Smith,1610612764,WAS,Washington Wizards,Misc,Offensive,0.811,68,0.061,0.72,0.48,0.14,0.38,0.02,0.02,0.36,0.005,0.7,0.5,0.2,0.4,0.2
+22019,202722,Dāvis Bertāns,1610612764,WAS,Washington Wizards,Misc,Offensive,0.88,55,0.053,0.816,0.36,0.368,0.368,0.053,0.026,0.421,0.0045000000000000005,0.7,0.6,0.1,0.2,0.1
+22019,1628972,Troy Brown Jr.,1610612764,WAS,Washington Wizards,Misc,Offensive,0.557,69,0.064,0.531,0.3,0.163,0.429,0.0,0.0,0.286,0.0032,0.7,0.4,0.1,0.3,0.2
+22019,1628394,Anžejs Pasečņiks,1610612764,WAS,Washington Wizards,Misc,Offensive,0.67,27,0.176,0.6,0.67,0.5,0.4,0.0,0.0,0.433,0.0067,1.1,0.7,0.1,0.1,0.0
+22019,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Misc,Offensive,0.324,38,0.128,0.41,0.5,0.205,0.692,0.026,0.0,0.256,0.005,1.0,0.4,0.1,0.1,0.1
+22019,1629021,Moritz Wagner,1610612764,WAS,Washington Wizards,Misc,Offensive,0.256,45,0.113,0.372,0.5,0.186,0.721,0.0,0.0,0.233,0.005,1.0,0.4,0.0,0.1,0.0
+22019,1629060,Rui Hachimura,1610612764,WAS,Washington Wizards,Misc,Offensive,0.405,48,0.05,0.455,0.36,0.091,0.485,0.03,0.0,0.242,0.0036,0.7,0.3,0.1,0.3,0.2
+22019,203895,Jordan McRae,1610612764,WAS,Washington Wizards,Misc,Offensive,0.886,29,0.043,0.824,0.2,0.412,0.294,0.059,0.0,0.471,0.002,0.6,0.5,0.0,0.2,0.1
+22019,202738,Isaiah Thomas,1610612764,WAS,Washington Wizards,Misc,Offensive,0.493,40,0.041,0.5,0.5,0.136,0.591,0.0,0.0,0.273,0.005,0.6,0.3,0.1,0.2,0.1
+22019,203894,Shabazz Napier,1610612764,WAS,Washington Wizards,Misc,Offensive,0.37,20,0.091,0.435,0.29,0.13,0.565,0.043,0.0,0.217,0.0036,1.1,0.5,0.1,0.4,0.3
+22019,1629067,Isaac Bonga,1610612764,WAS,Washington Wizards,Misc,Offensive,0.299,66,0.061,0.4,0.38,0.05,0.55,0.0,0.0,0.2,0.0038,0.3,0.1,0.0,0.1,0.1
+22019,1628418,Thomas Bryant,1610612764,WAS,Washington Wizards,Misc,Offensive,0.071,46,0.073,0.211,0.14,0.184,0.632,0.026,0.0,0.158,0.0014000000000000002,0.8,0.2,0.0,0.2,0.1
+22019,1629010,Jerome Robinson,1610612764,WAS,Washington Wizards,Misc,Offensive,0.299,21,0.047,0.4,0.0,0.2,0.6,0.0,0.0,0.2,0.0,0.5,0.2,0.0,0.1,0.1

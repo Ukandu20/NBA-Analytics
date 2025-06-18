@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.762,16,0.424,0.963,0.415,0.091,0.15,0.075,0.0,0.406,0.525,11.7,11.3,3.7,8.9,5.2,POR
-42018,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.667,16,0.36,0.918,0.417,0.062,0.082,0.062,0.014,0.411,0.476,9.1,8.4,3.3,7.9,4.6,POR
-42018,203552,Seth Curry,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.254,16,0.128,0.75,0.444,0.0,0.25,0.0,0.0,0.333,0.5,0.8,0.6,0.3,0.6,0.3,POR
-42018,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.079,16,0.117,0.563,0.214,0.063,0.063,0.063,0.0,0.25,0.25,1.0,0.6,0.2,0.9,0.7,POR
-42018,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.0,16,0.136,0.556,0.333,0.111,0.333,0.111,0.111,0.222,0.333,0.6,0.3,0.1,0.4,0.3,POR
-42018,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.0,5,0.556,0.8,0.0,0.4,0.0,0.0,0.0,0.4,0.0,1.0,0.8,0.0,0.6,0.6,POR
-42018,1627774,Jake Layman,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.0,6,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,POR
-42018,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.0,16,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,POR

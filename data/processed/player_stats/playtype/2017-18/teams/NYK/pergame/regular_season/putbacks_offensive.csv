@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,202683,Enes Freedom,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.801,71,0.243,1.265,0.634,0.121,0.049,0.112,0.027,0.637,0.634,3.1,4.0,1.7,2.7,1.0
+22017,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.899,77,0.131,1.352,0.685,0.211,0.085,0.197,0.056,0.676,0.685,0.9,1.2,0.5,0.7,0.2
+22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.351,74,0.067,1.015,0.554,0.074,0.118,0.059,0.015,0.515,0.554,0.9,0.9,0.4,0.8,0.3
+22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.051,49,0.037,0.683,0.333,0.098,0.024,0.098,0.0,0.366,0.333,0.8,0.6,0.2,0.7,0.5
+22017,203926,Doug McDermott,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.69,55,0.052,1.2,0.579,0.15,0.0,0.15,0.1,0.55,0.579,0.4,0.4,0.2,0.3,0.1
+22017,203501,Tim Hardaway Jr.,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.2,59,0.023,0.917,0.455,0.042,0.042,0.042,0.0,0.458,0.477,0.4,0.4,0.2,0.4,0.2
+22017,1627786,Troy Williams,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.227,17,0.132,0.941,0.467,0.059,0.059,0.059,0.0,0.471,0.467,1.0,0.9,0.4,0.9,0.5
+22017,202498,Lance Thomas,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.014,73,0.084,0.571,0.292,0.036,0.107,0.036,0.0,0.286,0.292,0.4,0.2,0.1,0.3,0.2
+22017,201584,Courtney Lee,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.474,76,0.015,1.077,0.6,0.077,0.154,0.077,0.0,0.538,0.6,0.2,0.2,0.1,0.1,0.1
+22017,1628373,Frank Ntilikina,1610612752,NYK,New York Knicks,OffRebound,Offensive,0.306,78,0.015,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,0.1,0.1,0.1,0.1,0.1

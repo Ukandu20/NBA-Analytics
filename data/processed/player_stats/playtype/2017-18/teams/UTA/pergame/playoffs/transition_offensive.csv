@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42017,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Transition,Offensive,0.624,11,0.123,1.167,0.59,0.111,0.111,0.111,0.028,0.556,0.00621,3.3,3.8,1.5,2.6,1.1
+42017,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Transition,Offensive,0.718,11,0.395,1.219,0.67,0.219,0.156,0.188,0.031,0.594,0.00762,2.9,3.5,1.3,1.9,0.6
+42017,202692,Alec Burks,1610612762,UTA,Utah Jazz,Transition,Offensive,0.765,9,0.28,1.238,0.56,0.19,0.048,0.19,0.095,0.571,0.005829999999999999,2.3,2.9,1.1,2.0,0.9
+42017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.882,11,0.119,1.313,0.75,0.188,0.063,0.188,0.0,0.688,0.0075,1.5,1.9,0.8,1.1,0.3
+42017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.588,11,0.097,1.133,0.42,0.133,0.067,0.067,0.0,0.467,0.005829999999999999,1.4,1.5,0.5,1.1,0.6
+42017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Transition,Offensive,0.071,11,0.191,0.654,0.32,0.192,0.077,0.115,0.0,0.385,0.0034200000000000003,2.4,1.5,0.5,1.7,1.2
+42017,201973,Jonas Jerebko,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,10,0.286,1.833,1.0,0.0,0.167,0.0,0.0,0.833,0.011000000000000001,0.6,1.1,0.5,0.5,0.0
+42017,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Transition,Offensive,0.047,6,0.176,0.526,0.2,0.105,0.105,0.053,0.0,0.211,0.00267,3.2,1.7,0.5,2.5,2.0
+42017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Transition,Offensive,0.153,11,0.117,0.818,0.44,0.091,0.091,0.091,0.0,0.455,0.00444,1.0,0.8,0.4,0.8,0.5
+42017,203957,Danté Exum,1610612762,UTA,Utah Jazz,Transition,Offensive,0.141,10,0.164,0.8,0.33,0.1,0.0,0.1,0.0,0.4,0.00333,1.0,0.8,0.3,0.9,0.6
+42017,203526,Raul Neto,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,8,0.172,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,0.6,0.8,0.3,0.5,0.3
+42017,204065,David Stockton,1610612762,UTA,Utah Jazz,Transition,Offensive,0.0,2,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.5,1.0,0.5,0.5,0.0

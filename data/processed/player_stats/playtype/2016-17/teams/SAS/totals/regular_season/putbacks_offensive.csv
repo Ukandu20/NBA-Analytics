@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.907,72,0.094,1.336,0.667,0.16,0.034,0.126,0.0,0.697,0.667,119,159,64,96,32
+22016,101135,David Lee,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.643,79,0.162,1.146,0.589,0.135,0.056,0.124,0.011,0.607,0.589,89,102,43,73,30
+22016,203473,Dewayne Dedmon,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.715,76,0.214,1.182,0.606,0.169,0.065,0.169,0.091,0.584,0.606,77,91,40,66,26
+22016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.436,64,0.085,1.031,0.537,0.108,0.046,0.123,0.0,0.538,0.537,65,67,29,54,25
+22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.911,74,0.022,1.342,0.618,0.158,0.0,0.132,0.053,0.658,0.618,38,51,21,34,13
+22016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.296,68,0.037,0.95,0.444,0.0,0.1,0.0,0.0,0.4,0.528,20,19,8,18,10
+22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,OffRebound,Offensive,0.292,72,0.069,0.947,0.533,0.211,0.053,0.211,0.053,0.474,0.533,19,18,8,15,7

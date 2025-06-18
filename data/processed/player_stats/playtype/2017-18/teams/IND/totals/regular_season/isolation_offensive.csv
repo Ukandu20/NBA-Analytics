@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.837,75,0.103,1.028,0.451,0.131,0.063,0.119,0.006,0.489,0.507,176,181,64,142,78
+22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.39,82,0.138,0.806,0.375,0.097,0.073,0.097,0.008,0.403,0.404,124,100,39,104,65
+22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.745,69,0.07,0.982,0.442,0.073,0.0,0.073,0.018,0.473,0.452,55,54,23,52,29
+22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.085,82,0.063,0.587,0.293,0.065,0.065,0.022,0.022,0.304,0.293,46,27,12,41,29
+22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.071,80,0.039,0.561,0.212,0.098,0.098,0.073,0.0,0.268,0.242,41,23,7,33,26
+22017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.808,65,0.023,1.0,0.563,0.105,0.105,0.105,0.053,0.526,0.563,19,19,9,16,7
+22017,1626202,Joe Young,1610612754,IND,Indiana Pacers,Isolation,Offensive,0.179,53,0.081,0.667,0.333,0.056,0.167,0.056,0.056,0.278,0.367,18,12,5,15,10

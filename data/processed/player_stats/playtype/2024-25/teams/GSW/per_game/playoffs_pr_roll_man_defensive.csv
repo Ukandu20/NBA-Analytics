@@ -1,2 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRRollMan,Defensive,0.667,12,0.088,0.909,0.4,0.091,0.091,0.091,0.091,0.364,0.45,0.9,0.8,0.3,0.8,0.5,GSW

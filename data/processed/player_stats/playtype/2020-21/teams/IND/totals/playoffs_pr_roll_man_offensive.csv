@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,2,0.098,1.5,0.75,0.25,0.0,0.25,0.25,0.75,0.75,4,6,3,4,1,IND
-42020,203200,Justin Holiday,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,2,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND
-42020,1629048,Goga Bitadze,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.0,2,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,IND

@@ -1,0 +1,16 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.478,77,0.264,0.973,0.381,0.039,0.072,0.039,0.006,0.374,0.513,334,325,114,299,185
+22017,201572,Brook Lopez,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.604,74,0.271,1.019,0.381,0.043,0.043,0.035,0.012,0.384,0.517,258,263,91,239,148
+22017,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.782,74,0.232,1.107,0.401,0.08,0.049,0.084,0.009,0.418,0.556,225,249,79,197,118
+22017,1628404,Josh Hart,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.844,63,0.347,1.149,0.413,0.037,0.037,0.031,0.006,0.416,0.587,161,185,62,150,88
+22017,1628366,Lonzo Ball,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.495,52,0.226,0.982,0.355,0.018,0.055,0.018,0.0,0.348,0.516,164,161,54,152,98
+22017,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.758,59,0.119,1.089,0.404,0.138,0.041,0.106,0.024,0.455,0.529,123,134,42,104,62
+22017,203944,Julius Randle,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.349,82,0.099,0.899,0.457,0.085,0.132,0.085,0.031,0.426,0.49,129,116,48,105,57
+22017,203903,Jordan Clarkson,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.467,53,0.12,0.969,0.371,0.031,0.062,0.031,0.01,0.361,0.506,97,94,33,89,56
+22017,201147,Corey Brewer,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.259,54,0.268,0.841,0.396,0.063,0.095,0.063,0.0,0.381,0.472,63,53,21,53,32
+22017,204037,Travis Wear,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.82,17,0.463,1.132,0.382,0.053,0.053,0.053,0.0,0.395,0.574,38,43,13,34,21
+22017,203898,Tyler Ennis,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.231,54,0.156,0.814,0.341,0.0,0.047,0.0,0.0,0.326,0.427,43,35,14,41,27
+22017,202738,Isaiah Thomas,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.113,17,0.142,0.682,0.27,0.068,0.114,0.068,0.023,0.273,0.351,44,30,10,37,27
+22017,101112,Channing Frye,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,1.0,9,0.396,1.526,0.556,0.053,0.0,0.053,0.0,0.579,0.75,19,29,10,18,8
+22017,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.193,37,0.166,0.786,0.36,0.0,0.107,0.0,0.0,0.321,0.44,28,22,9,25,16
+22017,1626204,Larry Nance Jr.,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.111,42,0.075,0.68,0.364,0.04,0.08,0.04,0.0,0.36,0.364,25,17,8,22,14

@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42018,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.0,5,0.063,1.5,0.6,0.167,0.0,0.167,0.0,0.667,0.7,6,9,3,5,2,BKN
-42018,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.44,5,0.092,0.818,0.4,0.0,0.09,0.0,0.0,0.364,0.45,11,9,4,10,6,BKN
-42018,1629066,Rodions Kurucs,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.0,4,0.038,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,BKN
-42018,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.0,5,0.044,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,BKN
-42018,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Handoff,Offensive,0.0,5,0.055,0.0,0.0,0.0,0.33,0.0,0.0,0.0,0.0,3,0,0,2,2,BKN

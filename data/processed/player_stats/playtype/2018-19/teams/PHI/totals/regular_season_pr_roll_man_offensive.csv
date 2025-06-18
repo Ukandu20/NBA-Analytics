@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.287,64,0.076,0.947,0.436,0.106,0.076,0.091,0.015,0.455,0.477,132,125,48,110,62,PHI
-22018,203488,Mike Muscala,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.963,47,0.099,1.4,0.581,0.029,0.086,0.029,0.0,0.543,0.742,35,49,18,31,13,PHI
-22018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.792,76,0.027,1.242,0.481,0.121,0.091,0.061,0.03,0.485,0.63,33,41,13,27,14,PHI
-22018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.694,51,0.123,1.185,0.583,0.074,0.111,0.074,0.074,0.519,0.625,27,32,14,24,10,PHI
-22018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.346,44,0.113,1.0,0.474,0.083,0.125,0.083,0.0,0.458,0.553,24,24,9,19,10,PHI
-22018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.676,79,0.012,1.176,0.563,0.118,0.059,0.118,0.118,0.529,0.563,17,20,9,16,7,PHI
-22018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.472,27,0.089,1.053,0.412,0.0,0.105,0.0,0.0,0.368,0.588,19,20,7,17,10,PHI
-22018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.472,22,0.12,1.053,0.529,0.105,0.053,0.105,0.053,0.526,0.529,19,20,9,17,8,PHI

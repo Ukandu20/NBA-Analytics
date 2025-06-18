@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42019,202710,Jimmy Butler III,1610612748,MIA,Miami Heat,Isolation,Offensive,0.619,21,0.157,1.014,0.442,0.203,0.087,0.188,0.043,0.493,0.442,69,70,23,52,29,MIA
-42019,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Isolation,Offensive,0.381,19,0.119,0.842,0.44,0.158,0.158,0.132,0.0,0.447,0.44,38,32,11,25,14,MIA
-42019,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.976,17,0.054,1.333,0.5,0.278,0.056,0.167,0.0,0.611,0.5,18,24,6,12,6,MIA
-42019,1629639,Tyler Herro,1610612748,MIA,Miami Heat,Isolation,Offensive,0.098,21,0.035,0.667,0.25,0.0,0.0,0.0,0.0,0.25,0.333,12,8,3,12,9,MIA
-42019,1629134,Kendrick Nunn,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,15,0.056,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.417,6,5,2,6,4,MIA
-42019,2738,Andre Iguodala,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,21,0.024,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,MIA
-42019,203109,Jae Crowder,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,21,0.008,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,2,4,0,0,0,MIA
-42019,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,17,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,MIA

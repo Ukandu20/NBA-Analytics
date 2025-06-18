@@ -1,0 +1,8 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22017,201935,James Harden,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.764,72,0.358,0.909,0.433,0.142,0.199,0.121,0.023,0.41,0.489,734,667,217,501,284
+22017,101108,Chris Paul,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.917,58,0.364,1.022,0.482,0.106,0.154,0.03,0.008,0.458,0.558,369,377,133,276,143
+22017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.748,69,0.205,0.902,0.376,0.148,0.131,0.143,0.041,0.393,0.444,244,220,70,186,116
+22017,101123,Gerald Green,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.984,41,0.123,1.228,0.511,0.088,0.105,0.088,0.018,0.491,0.638,57,70,24,47,23
+22017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.425,67,0.048,0.771,0.313,0.057,0.057,0.057,0.029,0.314,0.406,35,27,10,32,22
+22017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.045,61,0.028,0.385,0.182,0.0,0.154,0.0,0.0,0.154,0.227,13,5,2,11,9
+22017,2207,Joe Johnson,1610612745,HOU,Houston Rockets,PRBallHandler,Offensive,0.041,23,0.068,0.364,0.222,0.0,0.182,0.0,0.0,0.182,0.222,11,4,2,9,7

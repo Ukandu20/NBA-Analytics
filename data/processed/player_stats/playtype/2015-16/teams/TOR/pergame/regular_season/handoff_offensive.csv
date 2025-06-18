@@ -1,0 +1,6 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.852,77,0.055,1.079,0.408,0.135,0.067,0.124,0.0,0.461,0.5,1.2,1.2,0.4,0.9,0.5
+22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.75,78,0.042,0.987,0.436,0.221,0.104,0.169,0.039,0.494,0.455,1.0,1.0,0.3,0.7,0.4
+22015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.289,73,0.055,0.737,0.333,0.0,0.053,0.0,0.0,0.316,0.389,0.5,0.4,0.2,0.5,0.3
+22015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.479,80,0.03,0.826,0.412,0.13,0.217,0.13,0.087,0.348,0.471,0.3,0.2,0.1,0.2,0.1
+22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.119,26,0.034,0.636,0.3,0.091,0.0,0.091,0.0,0.364,0.3,0.4,0.3,0.1,0.4,0.3

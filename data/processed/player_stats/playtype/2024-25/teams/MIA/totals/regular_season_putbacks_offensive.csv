@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22024,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.44,78,0.068,1.041,0.533,0.155,0.082,0.144,0.01,0.557,0.533,97,101,40,75,35,MIA
-22024,1629312,Haywood Highsmith,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.281,74,0.069,0.938,0.565,0.094,0.188,0.094,0.0,0.5,0.565,32,30,13,23,10,MIA
-22024,203937,Kyle Anderson,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.639,25,0.112,1.158,0.579,0.0,0.0,0.0,0.0,0.579,0.579,19,22,11,19,8,MIA
-22024,203952,Andrew Wiggins,1610612748,MIA,Miami Heat,OffRebound,Offensive,0.674,17,0.034,1.182,0.6,0.091,0.091,0.091,0.091,0.545,0.6,11,13,6,10,4,MIA

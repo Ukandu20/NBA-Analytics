@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22018,203078,Bradley Beal,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.444,82,0.125,0.928,0.398,0.092,0.076,0.08,0.012,0.416,0.457,250,232,84,211,127,WAS
-22018,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.905,41,0.082,1.171,0.526,0.024,0.073,0.024,0.024,0.488,0.618,41,48,20,38,18,WAS
-22018,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.978,29,0.084,1.29,0.517,0.065,0.032,0.065,0.032,0.516,0.638,31,40,15,29,14,WAS
-22018,2772,Trevor Ariza,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.177,43,0.052,0.75,0.308,0.125,0.094,0.125,0.031,0.313,0.385,32,24,8,26,18,WAS
-22018,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.631,80,0.021,1.0,0.5,0.2,0.133,0.2,0.0,0.533,0.5,15,15,5,10,5,WAS
-22018,203085,Austin Rivers,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.631,29,0.056,1.0,0.417,0.0,0.143,0.0,0.0,0.357,0.583,14,14,5,12,7,WAS
-22018,201145,Jeff Green,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.212,77,0.016,0.786,0.385,0.0,0.071,0.0,0.0,0.357,0.423,14,11,5,13,8,WAS
-22018,1626184,Chasson Randle,1610612764,WAS,Washington Wizards,OffScreen,Offensive,0.13,49,0.035,0.7,0.3,0.0,0.0,0.0,0.0,0.3,0.35,10,7,3,10,7,WAS

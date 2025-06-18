@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42024,1628401,Derrick White,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.946,11,0.267,1.511,0.512,0.085,0.021,0.085,0.021,0.532,0.744,47,71,22,43,21,BOS
-42024,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.378,11,0.208,0.927,0.391,0.055,0.109,0.055,0.0,0.382,0.5,55,51,18,46,28,BOS
-42024,1630202,Payton Pritchard,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.892,11,0.267,1.387,0.517,0.032,0.032,0.032,0.0,0.516,0.707,31,43,15,29,14,BOS
-42024,201143,Al Horford,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.658,11,0.415,1.118,0.412,0.0,0.0,0.0,0.0,0.412,0.559,34,38,14,34,20,BOS
-42024,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.486,8,0.063,1.0,0.333,0.214,0.0,0.143,0.071,0.429,0.375,14,14,4,12,8,BOS
-42024,201950,Jrue Holiday,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.216,8,0.21,0.824,0.429,0.0,0.176,0.0,0.0,0.353,0.5,17,14,6,14,8,BOS
-42024,1630573,Sam Hauser,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.486,8,0.407,1.0,0.364,0.0,0.0,0.0,0.0,0.364,0.5,11,11,4,11,7,BOS
-42024,204001,Kristaps Porziņģis,1610612738,BOS,Boston Celtics,Spotup,Offensive,0.0,11,0.128,0.214,0.071,0.0,0.0,0.0,0.0,0.071,0.107,14,3,1,14,13,BOS

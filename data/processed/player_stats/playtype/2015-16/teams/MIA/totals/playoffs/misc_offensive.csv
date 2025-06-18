@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Misc,Offensive,0.914,14,0.034,1.0,0.667,0.364,0.364,0.091,0.0,0.545,0.006670000000000001,11,11,2,3,1
+42015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,13,0.07,0.857,0.4,0.143,0.143,0.0,0.0,0.429,0.004,7,6,2,5,3
+42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,14,0.048,0.667,0.0,0.444,0.222,0.222,0.0,0.444,0.0,9,6,0,3,3
+42015,101123,Gerald Green,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,12,0.058,1.667,1.0,0.667,0.0,0.0,0.0,1.0,0.01,3,5,1,1,0
+42015,2736,Luol Deng,1610612748,MIA,Miami Heat,Misc,Offensive,0.206,14,0.056,0.4,0.5,0.1,0.7,0.0,0.0,0.2,0.005,10,4,1,2,1
+42015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,14,0.084,0.333,0.0,0.222,0.556,0.0,0.0,0.222,0.0,9,3,0,2,2
+42015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,10,0.09,0.333,0.0,0.222,0.778,0.0,0.0,0.222,0.0,9,3,0,0,0
+42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,10,0.049,1.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,2,2,0,1,1
+42015,2405,Amar'e Stoudemire,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,9,0.194,0.333,1.0,0.0,0.833,0.0,0.0,0.167,0.01,6,2,1,1,0
+42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,14,0.027,0.286,0.25,0.0,0.429,0.0,0.0,0.143,0.0025,7,2,1,4,3
+42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,5,0.056,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42015,2617,Udonis Haslem,1610612748,MIA,Miami Heat,Misc,Offensive,0.0,9,0.12,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0

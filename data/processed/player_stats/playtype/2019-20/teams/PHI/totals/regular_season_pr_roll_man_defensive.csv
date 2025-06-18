@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22019,1629680,Matisse Thybulle,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.771,65,0.017,0.8,0.38,0.1,0.1,0.1,0.0,0.4,0.44,10,8,3,8,5,PHI
-22019,203124,Kyle O'Quinn,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.846,29,0.072,0.714,0.38,0.0,0.071,0.0,0.0,0.36,0.38,14,10,5,13,8,PHI
-22019,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.698,68,0.052,0.882,0.29,0.12,0.059,0.06,0.0,0.35,0.39,17,15,4,14,10,PHI
-22019,1626196,Josh Richardson,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.08,55,0.018,1.455,0.56,0.09,0.091,0.09,0.0,0.55,0.78,11,16,5,9,4,PHI
-22019,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.93,72,0.036,0.615,0.24,0.04,0.0,0.04,0.0,0.27,0.3,26,16,6,25,19,PHI
-22019,1627788,Furkan Korkmaz,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.332,72,0.044,1.136,0.5,0.0,0.091,0.0,0.0,0.45,0.62,22,25,10,20,10,PHI
-22019,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.664,51,0.049,0.909,0.42,0.09,0.091,0.09,0.05,0.41,0.49,44,40,16,38,22,PHI
-22019,201143,Al Horford,1610612755,PHI,Philadelphia 76ers,PRRollMan,Defensive,0.654,67,0.043,0.911,0.39,0.0,0.022,0.0,0.0,0.38,0.47,45,41,17,44,27,PHI

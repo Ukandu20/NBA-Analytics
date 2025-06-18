@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.808,79,0.26,1.136,0.605,0.149,0.126,0.117,0.034,0.57,0.605,477,542,219,362,143,DEN
-22023,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.633,73,0.115,1.037,0.494,0.259,0.093,0.241,0.083,0.528,0.494,108,112,39,79,40,DEN
-22023,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.689,59,0.063,1.053,0.536,0.04,0.04,0.04,0.0,0.533,0.536,75,79,37,69,32,DEN
-22023,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.113,81,0.01,0.75,0.4,0.083,0.083,0.083,0.0,0.417,0.4,12,9,4,10,6,DEN

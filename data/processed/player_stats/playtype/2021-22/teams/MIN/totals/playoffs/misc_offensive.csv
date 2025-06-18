@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42021,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.109,1.0,0.5,0.4,0.2,0.0,0.0,0.6,0.005,5,5,1,2,1
+42021,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.043,0.833,0.0,0.5,0.5,0.0,0.0,0.5,0.0,6,5,0,0,0
+42021,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.364,6,0.094,0.417,0.0,0.25,0.583,0.0,0.0,0.25,0.0,12,5,0,2,2
+42021,1629020,Jarred Vanderbilt,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.189,0.571,0.0,0.429,0.571,0.0,0.0,0.429,0.0,7,4,0,0,0
+42021,1629669,Jaylen Nowell,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,1,0.1,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
+42021,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.115,0.667,0.0,0.333,0.667,0.0,0.0,0.333,0.0,3,2,0,0,0
+42021,1626156,D'Angelo Russell,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.042,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0
+42021,1627736,Malik Beasley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.075,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0
+42021,201976,Patrick Beverley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,6,0.057,0.5,0.5,0.25,0.25,0.0,0.0,0.25,0.005,4,2,1,2,1
+42021,1629162,Jordan McLaughlin,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.048,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0

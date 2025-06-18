@@ -1,0 +1,13 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+42018,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.824,24,0.042,0.895,0.5,0.42,0.263,0.0,0.0,0.526,0.005,19,17,3,6,3
+42018,202695,Kawhi Leonard,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.571,24,0.027,0.722,0.5,0.33,0.444,0.0,0.0,0.389,0.005,18,13,2,4,2
+42018,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.257,24,0.068,0.4,0.0,0.28,0.72,0.04,0.0,0.24,0.0,25,10,0,0,0
+42018,201980,Danny Green,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.371,24,0.078,0.467,0.0,0.33,0.533,0.0,0.0,0.267,0.0,15,7,0,2,2
+42018,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.2,24,0.076,0.353,0.0,0.24,0.706,0.0,0.0,0.235,0.0,17,6,0,1,1
+42018,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.294,24,0.05,0.417,1.0,0.17,0.75,0.0,0.0,0.25,0.01,12,5,1,1,0
+42018,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.088,24,0.065,0.231,0.25,0.15,0.538,0.0,0.0,0.154,0.0025,13,3,1,4,3
+42018,1627775,Patrick McCaw,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,11,0.143,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0
+42018,202391,Jeremy Lin,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,8,0.188,0.667,0.0,0.33,0.667,0.0,0.0,0.333,0.0,3,2,0,0,0
+42018,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,23,0.034,0.2,0.0,0.2,0.0,0.0,0.0,0.2,0.0,5,1,0,4,4
+42018,1626259,Malcolm Miller,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,10,0.091,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+42018,201975,Jodie Meeks,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,14,0.03,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0

@@ -1,0 +1,11 @@
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
+22016,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.846,35,0.358,1.139,0.454,0.019,0.083,0.019,0.0,0.426,0.608,108,123,44,97,53
+22016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.85,72,0.041,1.141,0.492,0.056,0.056,0.056,0.028,0.479,0.585,71,81,32,65,33
+22016,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.826,61,0.061,1.118,0.438,0.029,0.044,0.029,0.015,0.426,0.57,68,76,28,64,36
+22016,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.838,41,0.155,1.133,0.404,0.017,0.033,0.017,0.0,0.383,0.596,60,68,23,57,34
+22016,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.593,74,0.063,0.974,0.351,0.026,0.0,0.0,0.0,0.342,0.5,38,37,13,37,24
+22016,2399,Mike Dunleavy,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.755,23,0.173,1.053,0.375,0.105,0.053,0.105,0.0,0.421,0.5,19,20,6,16,10
+22016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.198,74,0.015,0.704,0.304,0.037,0.111,0.037,0.0,0.296,0.391,27,19,7,23,16
+22016,203895,Jordan McRae,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.492,37,0.073,0.923,0.385,0.077,0.0,0.077,0.077,0.385,0.423,13,12,5,13,8
+22016,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.242,79,0.027,0.75,0.364,0.0,0.083,0.0,0.0,0.333,0.409,12,9,4,11,7
+22016,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.04,76,0.031,0.421,0.167,0.0,0.053,0.0,0.0,0.158,0.222,19,8,3,18,15

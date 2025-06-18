@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-42020,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.0,1,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
-42020,1629640,Keldon Johnson,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.0,1,0.067,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,SAS
-42020,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.0,1,0.143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,SAS
-42020,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Defensive,0.0,1,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,SAS

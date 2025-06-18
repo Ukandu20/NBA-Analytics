@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team_abbreviation,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,team
-22023,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.586,67,0.062,0.97,0.452,0.089,0.079,0.069,0.0,0.465,0.488,101,98,38,84,46,PHX
-22023,201142,Kevin Durant,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.364,74,0.055,0.86,0.455,0.07,0.17,0.06,0.01,0.41,0.487,100,86,35,77,42,PHX
-22023,203078,Bradley Beal,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.814,53,0.071,1.106,0.564,0.076,0.121,0.076,0.03,0.5,0.627,66,73,31,55,24,PHX
-22023,1628960,Grayson Allen,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.411,74,0.034,0.893,0.409,0.036,0.179,0.0,0.0,0.357,0.523,28,25,9,22,13,PHX
-22023,201569,Eric Gordon,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.239,67,0.044,0.742,0.259,0.097,0.032,0.065,0.0,0.323,0.333,31,23,7,27,20,PHX
-22023,1629642,Nassir Little,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.315,44,0.077,0.818,0.5,0.0,0.273,0.0,0.0,0.364,0.563,11,9,4,8,4,PHX
