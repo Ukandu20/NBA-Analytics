@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.876,57,0.225,1.228,0.6,0.096,0.035,0.088,0.009,0.605,0.625,114,140,60,100,40
-22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.725,31,0.15,1.141,0.5,0.182,0.091,0.172,0.04,0.515,0.599,99,113,38,76,38
-22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.161,81,0.094,0.842,0.35,0.044,0.07,0.035,0.018,0.342,0.432,114,96,36,103,67
-22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.078,53,0.118,0.699,0.296,0.054,0.075,0.054,0.0,0.312,0.352,93,65,24,81,57
-22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.518,50,0.092,1.034,0.542,0.155,0.086,0.155,0.069,0.517,0.542,58,60,26,48,22
-22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.665,29,0.211,1.102,0.571,0.082,0.061,0.061,0.0,0.571,0.571,49,54,24,42,18
-22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.982,18,0.167,1.478,0.667,0.087,0.043,0.087,0.043,0.652,0.762,23,34,14,21,7
-22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.65,67,0.012,1.091,0.3,0.182,0.0,0.182,0.091,0.364,0.45,11,12,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.876,57,0.225,1.228,0.6,0.096,0.035,0.088,0.009,0.605,0.625,114,140,60,100,40,2016-17,2016,2017
+22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.725,31,0.15,1.141,0.5,0.182,0.091,0.172,0.04,0.515,0.599,99,113,38,76,38,2016-17,2016,2017
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.161,81,0.094,0.842,0.35,0.044,0.07,0.035,0.018,0.342,0.432,114,96,36,103,67,2016-17,2016,2017
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.078,53,0.118,0.699,0.296,0.054,0.075,0.054,0.0,0.312,0.352,93,65,24,81,57,2016-17,2016,2017
+22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.518,50,0.092,1.034,0.542,0.155,0.086,0.155,0.069,0.517,0.542,58,60,26,48,22,2016-17,2016,2017
+22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.665,29,0.211,1.102,0.571,0.082,0.061,0.061,0.0,0.571,0.571,49,54,24,42,18,2016-17,2016,2017
+22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.982,18,0.167,1.478,0.667,0.087,0.043,0.087,0.043,0.652,0.762,23,34,14,21,7,2016-17,2016,2017
+22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.65,67,0.012,1.091,0.3,0.182,0.0,0.182,0.091,0.364,0.45,11,12,3,10,7,2016-17,2016,2017

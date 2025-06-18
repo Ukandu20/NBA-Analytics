@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.645,6,0.333,1.263,0.667,0.0,0.053,0.0,0.0,0.632,0.006670000000000001,3.2,4.0,2.0,3.0,1.0
-42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.419,6,0.298,1.071,0.7,0.214,0.143,0.214,0.071,0.571,0.006999999999999999,2.3,2.5,1.2,1.7,0.5
-42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.019,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.5,0.3,0.2,0.5,0.3
-42017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.444,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,0.7,0.3,0.2,0.5,0.3
-42017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
-42017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
-42017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
-42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.035,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.645,6,0.333,1.263,0.667,0.0,0.053,0.0,0.0,0.632,0.006670000000000001,3.2,4.0,2.0,3.0,1.0,2017-18,2017,2018
+42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.419,6,0.298,1.071,0.7,0.214,0.143,0.214,0.071,0.571,0.006999999999999999,2.3,2.5,1.2,1.7,0.5,2017-18,2017,2018
+42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.019,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.5,0.3,0.2,0.5,0.3,2017-18,2017,2018
+42017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.444,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,0.7,0.3,0.2,0.5,0.3,2017-18,2017,2018
+42017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2017-18,2017,2018
+42017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2017-18,2017,2018
+42017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2017-18,2017,2018
+42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.0,6,0.035,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,2017-18,2017,2018

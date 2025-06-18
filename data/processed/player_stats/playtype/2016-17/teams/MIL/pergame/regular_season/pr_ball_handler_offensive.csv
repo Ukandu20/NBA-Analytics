@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.544,80,0.177,0.811,0.426,0.135,0.176,0.125,0.029,0.404,0.442,3.9,3.2,1.2,2.8,1.6
-22016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.334,76,0.396,0.728,0.418,0.05,0.211,0.036,0.007,0.348,0.442,3.7,2.7,1.1,2.7,1.6
-22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.564,75,0.31,0.815,0.423,0.065,0.161,0.048,0.016,0.383,0.452,3.3,2.7,1.1,2.6,1.5
-22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.575,51,0.083,0.819,0.439,0.096,0.157,0.096,0.048,0.398,0.447,1.6,1.3,0.6,1.3,0.7
-22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.286,29,0.175,0.697,0.412,0.079,0.263,0.066,0.013,0.342,0.422,2.6,1.8,0.7,1.8,1.0
-22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.441,56,0.068,0.771,0.458,0.086,0.229,0.086,0.0,0.4,0.458,0.6,0.5,0.2,0.4,0.2
-22016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.119,80,0.068,0.571,0.323,0.048,0.214,0.048,0.0,0.286,0.339,0.5,0.3,0.1,0.4,0.3
-22016,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.25,74,0.113,0.667,0.32,0.061,0.182,0.061,0.0,0.303,0.38,0.4,0.3,0.1,0.3,0.2
-22016,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.303,41,0.099,0.706,0.313,0.0,0.059,0.0,0.0,0.294,0.375,0.4,0.3,0.1,0.4,0.3
-22016,1627780,Gary Payton II,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.758,6,0.324,0.909,0.8,0.091,0.455,0.091,0.0,0.455,0.8,1.8,1.7,0.7,0.8,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.544,80,0.177,0.811,0.426,0.135,0.176,0.125,0.029,0.404,0.442,3.9,3.2,1.2,2.8,1.6,2016-17,2016,2017
+22016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.334,76,0.396,0.728,0.418,0.05,0.211,0.036,0.007,0.348,0.442,3.7,2.7,1.1,2.7,1.6,2016-17,2016,2017
+22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.564,75,0.31,0.815,0.423,0.065,0.161,0.048,0.016,0.383,0.452,3.3,2.7,1.1,2.6,1.5,2016-17,2016,2017
+22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.575,51,0.083,0.819,0.439,0.096,0.157,0.096,0.048,0.398,0.447,1.6,1.3,0.6,1.3,0.7,2016-17,2016,2017
+22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.286,29,0.175,0.697,0.412,0.079,0.263,0.066,0.013,0.342,0.422,2.6,1.8,0.7,1.8,1.0,2016-17,2016,2017
+22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.441,56,0.068,0.771,0.458,0.086,0.229,0.086,0.0,0.4,0.458,0.6,0.5,0.2,0.4,0.2,2016-17,2016,2017
+22016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.119,80,0.068,0.571,0.323,0.048,0.214,0.048,0.0,0.286,0.339,0.5,0.3,0.1,0.4,0.3,2016-17,2016,2017
+22016,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.25,74,0.113,0.667,0.32,0.061,0.182,0.061,0.0,0.303,0.38,0.4,0.3,0.1,0.3,0.2,2016-17,2016,2017
+22016,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.303,41,0.099,0.706,0.313,0.0,0.059,0.0,0.0,0.294,0.375,0.4,0.3,0.1,0.4,0.3,2016-17,2016,2017
+22016,1627780,Gary Payton II,1610612749,MIL,Milwaukee Bucks,PRBallHandler,Offensive,0.758,6,0.324,0.909,0.8,0.091,0.455,0.091,0.0,0.455,0.8,1.8,1.7,0.7,0.8,0.2,2016-17,2016,2017

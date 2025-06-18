@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,Misc,Offensive,0.739,82,0.065,0.643,0.26,0.286,0.452,0.071,0.01,0.333,0.0028299999999999996,84,54,6,23,17
-22016,202331,Paul George,1610612754,IND,Indiana Pacers,Misc,Offensive,0.528,75,0.047,0.506,0.23,0.198,0.481,0.012,0.0,0.259,0.00269,81,41,6,26,20
-22016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.213,81,0.071,0.321,0.5,0.192,0.744,0.038,0.01,0.218,0.005,78,25,3,6,3
-22016,101139,CJ Miles,1610612754,IND,Indiana Pacers,Misc,Offensive,0.647,76,0.041,0.586,0.25,0.103,0.241,0.034,0.03,0.241,0.003,29,17,5,20,15
-22016,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,Misc,Offensive,0.697,69,0.056,0.609,0.27,0.217,0.304,0.0,0.0,0.304,0.00318,23,14,3,11,8
-22016,2744,Al Jefferson,1610612754,IND,Indiana Pacers,Misc,Offensive,0.457,66,0.039,0.476,0.8,0.048,0.714,0.0,0.0,0.238,0.008,21,10,4,5,1
-22016,201166,Aaron Brooks,1610612754,IND,Indiana Pacers,Misc,Offensive,0.382,65,0.055,0.429,0.18,0.095,0.381,0.0,0.0,0.19,0.00227,21,9,2,11,9
-22016,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.116,74,0.05,0.243,0.11,0.135,0.622,0.0,0.0,0.135,0.00167,37,9,1,9,8
-22016,202730,Lavoy Allen,1610612754,IND,Indiana Pacers,Misc,Offensive,0.297,61,0.089,0.368,0.5,0.211,0.684,0.0,0.0,0.211,0.005,19,7,1,2,1
-22016,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Misc,Offensive,0.073,39,0.075,0.192,0.0,0.115,0.615,0.038,0.0,0.077,0.0,26,5,0,7,7
-22016,202338,Kevin Seraphin,1610612754,IND,Indiana Pacers,Misc,Offensive,0.027,49,0.059,0.143,0.5,0.071,0.786,0.0,0.0,0.071,0.005,14,2,1,2,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,Misc,Offensive,0.739,82,0.065,0.643,0.26,0.286,0.452,0.071,0.01,0.333,0.0028299999999999996,84,54,6,23,17,2016-17,2016,2017
+22016,202331,Paul George,1610612754,IND,Indiana Pacers,Misc,Offensive,0.528,75,0.047,0.506,0.23,0.198,0.481,0.012,0.0,0.259,0.00269,81,41,6,26,20,2016-17,2016,2017
+22016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.213,81,0.071,0.321,0.5,0.192,0.744,0.038,0.01,0.218,0.005,78,25,3,6,3,2016-17,2016,2017
+22016,101139,CJ Miles,1610612754,IND,Indiana Pacers,Misc,Offensive,0.647,76,0.041,0.586,0.25,0.103,0.241,0.034,0.03,0.241,0.003,29,17,5,20,15,2016-17,2016,2017
+22016,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,Misc,Offensive,0.697,69,0.056,0.609,0.27,0.217,0.304,0.0,0.0,0.304,0.00318,23,14,3,11,8,2016-17,2016,2017
+22016,2744,Al Jefferson,1610612754,IND,Indiana Pacers,Misc,Offensive,0.457,66,0.039,0.476,0.8,0.048,0.714,0.0,0.0,0.238,0.008,21,10,4,5,1,2016-17,2016,2017
+22016,201166,Aaron Brooks,1610612754,IND,Indiana Pacers,Misc,Offensive,0.382,65,0.055,0.429,0.18,0.095,0.381,0.0,0.0,0.19,0.00227,21,9,2,11,9,2016-17,2016,2017
+22016,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.116,74,0.05,0.243,0.11,0.135,0.622,0.0,0.0,0.135,0.00167,37,9,1,9,8,2016-17,2016,2017
+22016,202730,Lavoy Allen,1610612754,IND,Indiana Pacers,Misc,Offensive,0.297,61,0.089,0.368,0.5,0.211,0.684,0.0,0.0,0.211,0.005,19,7,1,2,1,2016-17,2016,2017
+22016,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Misc,Offensive,0.073,39,0.075,0.192,0.0,0.115,0.615,0.038,0.0,0.077,0.0,26,5,0,7,7,2016-17,2016,2017
+22016,202338,Kevin Seraphin,1610612754,IND,Indiana Pacers,Misc,Offensive,0.027,49,0.059,0.143,0.5,0.071,0.786,0.0,0.0,0.071,0.005,14,2,1,2,1,2016-17,2016,2017

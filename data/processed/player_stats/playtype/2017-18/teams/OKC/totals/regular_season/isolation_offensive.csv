@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.426,80,0.175,0.818,0.364,0.114,0.075,0.107,0.022,0.388,0.4,402,329,122,335,213
-22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.582,78,0.181,0.89,0.404,0.118,0.041,0.114,0.029,0.433,0.423,245,218,86,213,127
-22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.546,79,0.115,0.869,0.38,0.136,0.101,0.116,0.03,0.402,0.43,199,173,60,158,98
-22017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.101,82,0.109,0.6,0.317,0.0,0.129,0.014,0.0,0.271,0.35,70,42,19,60,41
-22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.648,81,0.042,0.923,0.5,0.231,0.154,0.231,0.0,0.5,0.531,26,24,8,16,8
-22017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.011,75,0.03,0.3,0.0,0.2,0.2,0.2,0.0,0.2,0.0,10,3,0,6,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.426,80,0.175,0.818,0.364,0.114,0.075,0.107,0.022,0.388,0.4,402,329,122,335,213,2017-18,2017,2018
+22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.582,78,0.181,0.89,0.404,0.118,0.041,0.114,0.029,0.433,0.423,245,218,86,213,127,2017-18,2017,2018
+22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.546,79,0.115,0.869,0.38,0.136,0.101,0.116,0.03,0.402,0.43,199,173,60,158,98,2017-18,2017,2018
+22017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.101,82,0.109,0.6,0.317,0.0,0.129,0.014,0.0,0.271,0.35,70,42,19,60,41,2017-18,2017,2018
+22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.648,81,0.042,0.923,0.5,0.231,0.154,0.231,0.0,0.5,0.531,26,24,8,16,8,2017-18,2017,2018
+22017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.011,75,0.03,0.3,0.0,0.2,0.2,0.2,0.0,0.2,0.0,10,3,0,6,6,2017-18,2017,2018

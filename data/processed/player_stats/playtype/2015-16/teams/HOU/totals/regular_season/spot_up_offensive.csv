@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.392,81,0.403,0.893,0.348,0.05,0.071,0.045,0.005,0.35,0.462,420,375,129,371,242
-22015,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.837,71,0.365,1.106,0.42,0.015,0.042,0.008,0.0,0.411,0.572,265,293,105,250,145
-22015,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.967,82,0.082,1.267,0.465,0.084,0.042,0.084,0.016,0.476,0.641,191,242,79,170,91
-22015,1891,Jason Terry,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.606,72,0.442,0.99,0.362,0.01,0.031,0.01,0.0,0.358,0.505,193,191,67,185,118
-22015,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.233,82,0.327,0.792,0.306,0.031,0.044,0.027,0.0,0.314,0.397,226,179,64,209,145
-22015,201977,Marcus Thornton,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.429,47,0.266,0.91,0.333,0.0,0.03,0.0,0.0,0.323,0.469,133,121,43,129,86
-22015,203093,Terrence Jones,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.378,50,0.233,0.89,0.368,0.083,0.064,0.083,0.018,0.385,0.463,109,97,35,95,60
-22015,201951,Ty Lawson,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.459,53,0.251,0.922,0.36,0.088,0.088,0.078,0.02,0.363,0.465,102,94,31,86,55
-22015,201563,Michael Beasley,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.809,20,0.203,1.078,0.5,0.059,0.02,0.059,0.02,0.51,0.521,51,55,24,48,24
-22015,2746,Josh Smith,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.443,23,0.265,0.912,0.327,0.018,0.018,0.018,0.0,0.333,0.455,57,52,18,55,37
-22015,202700,Donatas Motiejunas,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.235,37,0.212,0.793,0.302,0.034,0.052,0.034,0.0,0.293,0.415,58,46,16,53,37
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.392,81,0.403,0.893,0.348,0.05,0.071,0.045,0.005,0.35,0.462,420,375,129,371,242,2015-16,2015,2016
+22015,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.837,71,0.365,1.106,0.42,0.015,0.042,0.008,0.0,0.411,0.572,265,293,105,250,145,2015-16,2015,2016
+22015,201935,James Harden,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.967,82,0.082,1.267,0.465,0.084,0.042,0.084,0.016,0.476,0.641,191,242,79,170,91,2015-16,2015,2016
+22015,1891,Jason Terry,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.606,72,0.442,0.99,0.362,0.01,0.031,0.01,0.0,0.358,0.505,193,191,67,185,118,2015-16,2015,2016
+22015,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.233,82,0.327,0.792,0.306,0.031,0.044,0.027,0.0,0.314,0.397,226,179,64,209,145,2015-16,2015,2016
+22015,201977,Marcus Thornton,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.429,47,0.266,0.91,0.333,0.0,0.03,0.0,0.0,0.323,0.469,133,121,43,129,86,2015-16,2015,2016
+22015,203093,Terrence Jones,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.378,50,0.233,0.89,0.368,0.083,0.064,0.083,0.018,0.385,0.463,109,97,35,95,60,2015-16,2015,2016
+22015,201951,Ty Lawson,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.459,53,0.251,0.922,0.36,0.088,0.088,0.078,0.02,0.363,0.465,102,94,31,86,55,2015-16,2015,2016
+22015,201563,Michael Beasley,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.809,20,0.203,1.078,0.5,0.059,0.02,0.059,0.02,0.51,0.521,51,55,24,48,24,2015-16,2015,2016
+22015,2746,Josh Smith,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.443,23,0.265,0.912,0.327,0.018,0.018,0.018,0.0,0.333,0.455,57,52,18,55,37,2015-16,2015,2016
+22015,202700,Donatas Motiejunas,1610612745,HOU,Houston Rockets,Spotup,Offensive,0.235,37,0.212,0.793,0.302,0.034,0.052,0.034,0.0,0.293,0.415,58,46,16,53,37,2015-16,2015,2016

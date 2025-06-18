@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.65,80,0.294,1.29,0.671,0.165,0.045,0.165,0.045,0.67,0.671,176,227,98,146,48
-22015,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.647,82,0.167,1.287,0.654,0.166,0.064,0.159,0.038,0.643,0.654,157,202,83,127,44
-22015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.508,78,0.1,1.204,0.663,0.097,0.097,0.087,0.029,0.612,0.663,103,124,57,86,29
-22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.907,72,0.04,1.493,0.787,0.096,0.068,0.096,0.0,0.753,0.787,73,109,48,61,13
-22015,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.61,70,0.18,1.267,0.761,0.1,0.15,0.1,0.033,0.633,0.761,60,76,35,46,11
-22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.559,80,0.019,1.237,0.704,0.158,0.158,0.158,0.026,0.632,0.704,38,47,19,27,8
-22015,2555,Nick Collison,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.04,59,0.244,0.857,0.484,0.071,0.167,0.095,0.0,0.429,0.484,42,36,15,31,16
-22015,202713,Kyle Singler,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.037,68,0.125,0.853,0.467,0.088,0.059,0.088,0.029,0.441,0.467,34,29,14,30,16
-22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.46,68,0.03,1.182,0.556,0.182,0.091,0.182,0.091,0.545,0.556,11,13,5,9,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.65,80,0.294,1.29,0.671,0.165,0.045,0.165,0.045,0.67,0.671,176,227,98,146,48,2015-16,2015,2016
+22015,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.647,82,0.167,1.287,0.654,0.166,0.064,0.159,0.038,0.643,0.654,157,202,83,127,44,2015-16,2015,2016
+22015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.508,78,0.1,1.204,0.663,0.097,0.097,0.087,0.029,0.612,0.663,103,124,57,86,29,2015-16,2015,2016
+22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.907,72,0.04,1.493,0.787,0.096,0.068,0.096,0.0,0.753,0.787,73,109,48,61,13,2015-16,2015,2016
+22015,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.61,70,0.18,1.267,0.761,0.1,0.15,0.1,0.033,0.633,0.761,60,76,35,46,11,2015-16,2015,2016
+22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.559,80,0.019,1.237,0.704,0.158,0.158,0.158,0.026,0.632,0.704,38,47,19,27,8,2015-16,2015,2016
+22015,2555,Nick Collison,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.04,59,0.244,0.857,0.484,0.071,0.167,0.095,0.0,0.429,0.484,42,36,15,31,16,2015-16,2015,2016
+22015,202713,Kyle Singler,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.037,68,0.125,0.853,0.467,0.088,0.059,0.088,0.029,0.441,0.467,34,29,14,30,16,2015-16,2015,2016
+22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.46,68,0.03,1.182,0.556,0.182,0.091,0.182,0.091,0.545,0.556,11,13,5,9,4,2015-16,2015,2016

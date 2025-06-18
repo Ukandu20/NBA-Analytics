@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.91,79,0.058,0.795,0.409,0.295,0.423,0.064,0.0,0.41,0.455,78,62,9,22,13
-22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.585,81,0.048,0.551,0.231,0.29,0.522,0.058,0.0,0.304,0.269,69,38,3,13,10
-22015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.489,82,0.047,0.491,0.667,0.158,0.684,0.0,0.0,0.263,0.722,57,28,6,9,3
-22015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.652,75,0.046,0.605,0.467,0.163,0.488,0.0,0.0,0.326,0.467,43,26,7,15,8
-22015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.694,75,0.072,0.629,0.444,0.286,0.457,0.029,0.0,0.371,0.5,35,22,4,9,5
-22015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.465,80,0.044,0.478,0.4,0.109,0.565,0.022,0.0,0.239,0.433,46,22,6,15,9
-22015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.995,21,0.117,1.125,0.5,0.75,0.188,0.125,0.06,0.688,0.5,16,18,1,2,1
-22015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Misc,Offensive,1.0,51,0.039,1.25,0.429,0.25,0.167,0.083,0.0,0.5,0.643,12,15,3,7,4
-22015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.239,80,0.058,0.333,0.333,0.119,0.738,0.0,0.0,0.167,0.333,42,14,2,6,4
-22015,201168,Tiago Splitter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.021,36,0.07,0.071,0.0,0.071,0.714,0.0,0.0,0.071,0.0,14,1,0,3,3
-22015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.0,75,0.036,0.0,0.0,0.0,0.813,0.0,0.0,0.0,0.0,16,0,0,3,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.91,79,0.058,0.795,0.409,0.295,0.423,0.064,0.0,0.41,0.455,78,62,9,22,13,2015-16,2015,2016
+22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.585,81,0.048,0.551,0.231,0.29,0.522,0.058,0.0,0.304,0.269,69,38,3,13,10,2015-16,2015,2016
+22015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.489,82,0.047,0.491,0.667,0.158,0.684,0.0,0.0,0.263,0.722,57,28,6,9,3,2015-16,2015,2016
+22015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.652,75,0.046,0.605,0.467,0.163,0.488,0.0,0.0,0.326,0.467,43,26,7,15,8,2015-16,2015,2016
+22015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.694,75,0.072,0.629,0.444,0.286,0.457,0.029,0.0,0.371,0.5,35,22,4,9,5,2015-16,2015,2016
+22015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.465,80,0.044,0.478,0.4,0.109,0.565,0.022,0.0,0.239,0.433,46,22,6,15,9,2015-16,2015,2016
+22015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.995,21,0.117,1.125,0.5,0.75,0.188,0.125,0.06,0.688,0.5,16,18,1,2,1,2015-16,2015,2016
+22015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Misc,Offensive,1.0,51,0.039,1.25,0.429,0.25,0.167,0.083,0.0,0.5,0.643,12,15,3,7,4,2015-16,2015,2016
+22015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.239,80,0.058,0.333,0.333,0.119,0.738,0.0,0.0,0.167,0.333,42,14,2,6,4,2015-16,2015,2016
+22015,201168,Tiago Splitter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.021,36,0.07,0.071,0.0,0.071,0.714,0.0,0.0,0.071,0.0,14,1,0,3,3,2015-16,2015,2016
+22015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.0,75,0.036,0.0,0.0,0.0,0.813,0.0,0.0,0.0,0.0,16,0,0,3,3,2015-16,2015,2016

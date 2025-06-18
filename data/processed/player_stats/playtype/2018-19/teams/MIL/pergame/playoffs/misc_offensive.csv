@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.647,15,0.052,0.8,0.5,0.3,0.3,0.05,0.0,0.5,0.005,1.0,1.1,0.3,0.5,0.3
-42018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.024,1.667,1.0,0.33,0.333,0.0,0.0,0.667,0.015,0.0,0.7,0.1,0.1,0.0
-42018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.061,1.0,1.0,0.33,0.5,0.0,0.0,0.5,0.01,0.0,0.4,0.1,0.1,0.0
-42018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.171,15,0.066,0.313,0.25,0.25,0.5,0.0,0.0,0.188,0.00375,1.0,0.3,0.1,0.3,0.2
-42018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.029,1.0,0.0,0.75,0.0,0.0,0.0,0.75,0.0,0.0,0.3,0.0,0.1,0.1
-42018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,14,0.063,0.333,0.0,0.22,0.778,0.0,0.0,0.222,0.0,1.0,0.2,0.0,0.0,0.0
-42018,204025,Tim Frazier,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,11,0.059,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0
-42018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,8,0.125,0.667,0.0,0.33,0.667,0.0,0.0,0.333,0.0,0.0,0.3,0.0,0.0,0.0
-42018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.019,0.667,1.0,0.0,0.667,0.0,0.0,0.333,0.01,0.0,0.1,0.1,0.1,0.0
-42018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,7,0.011,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-42018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,11,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-42018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.023,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.647,15,0.052,0.8,0.5,0.3,0.3,0.05,0.0,0.5,0.005,1.0,1.1,0.3,0.5,0.3,2018-19,2018,2019
+42018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.024,1.667,1.0,0.33,0.333,0.0,0.0,0.667,0.015,0.0,0.7,0.1,0.1,0.0,2018-19,2018,2019
+42018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.061,1.0,1.0,0.33,0.5,0.0,0.0,0.5,0.01,0.0,0.4,0.1,0.1,0.0,2018-19,2018,2019
+42018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.171,15,0.066,0.313,0.25,0.25,0.5,0.0,0.0,0.188,0.00375,1.0,0.3,0.1,0.3,0.2,2018-19,2018,2019
+42018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.029,1.0,0.0,0.75,0.0,0.0,0.0,0.75,0.0,0.0,0.3,0.0,0.1,0.1,2018-19,2018,2019
+42018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,14,0.063,0.333,0.0,0.22,0.778,0.0,0.0,0.222,0.0,1.0,0.2,0.0,0.0,0.0,2018-19,2018,2019
+42018,204025,Tim Frazier,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,11,0.059,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,2018-19,2018,2019
+42018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,8,0.125,0.667,0.0,0.33,0.667,0.0,0.0,0.333,0.0,0.0,0.3,0.0,0.0,0.0,2018-19,2018,2019
+42018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.019,0.667,1.0,0.0,0.667,0.0,0.0,0.333,0.01,0.0,0.1,0.1,0.1,0.0,2018-19,2018,2019
+42018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,7,0.011,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019
+42018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,11,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019
+42018,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,15,0.023,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019

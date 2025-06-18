@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.583,10,0.058,0.688,0.67,0.25,0.56,0.0,0.0,0.38,0.006670000000000001,1.6,1.1,0.2,0.3,0.1
-42020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.875,10,0.089,0.833,0.0,0.58,0.25,0.08,0.0,0.5,0.0,1.2,1.0,0.0,0.2,0.2
-42020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.05,0.75,0.5,0.12,0.38,0.0,0.0,0.38,0.00625,0.8,0.6,0.2,0.4,0.2
-42020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.042,10,0.113,0.455,0.0,0.27,0.55,0.0,0.0,0.27,0.0,1.1,0.5,0.0,0.2,0.2
-42020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.023,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.2,0.4,0.0,0.0,0.0
-42020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,9,0.081,0.6,0.0,0.4,0.4,0.0,0.0,0.4,0.0,0.6,0.3,0.0,0.1,0.1
-42020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.048,0.5,0.0,0.33,0.67,0.17,0.0,0.33,0.0,0.6,0.3,0.0,0.0,0.0
-42020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,9,0.2,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,0.2,0.2,0.0,0.0,0.0
-42020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,5,0.1,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.0,0.0
-42020,201580,JaVale McGee,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,4,0.077,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.0,0.0
-42020,203115,Will Barton,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,3,0.041,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.7,0.7
-42020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.058,0.0,0.0,0.0,0.67,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42020,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.583,10,0.058,0.688,0.67,0.25,0.56,0.0,0.0,0.38,0.006670000000000001,1.6,1.1,0.2,0.3,0.1,2020-21,2020,2021
+42020,1628420,Monté Morris,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.875,10,0.089,0.833,0.0,0.58,0.25,0.08,0.0,0.5,0.0,1.2,1.0,0.0,0.2,0.2,2020-21,2020,2021
+42020,1629008,Michael Porter Jr.,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.05,0.75,0.5,0.12,0.38,0.0,0.0,0.38,0.00625,0.8,0.6,0.2,0.4,0.2,2020-21,2020,2021
+42020,1630267,Facundo Campazzo,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.042,10,0.113,0.455,0.0,0.27,0.55,0.0,0.0,0.27,0.0,1.1,0.5,0.0,0.2,0.2,2020-21,2020,2021
+42020,203085,Austin Rivers,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.023,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.2,0.4,0.0,0.0,0.0,2020-21,2020,2021
+42020,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,9,0.081,0.6,0.0,0.4,0.4,0.0,0.0,0.4,0.0,0.6,0.3,0.0,0.1,0.1,2020-21,2020,2021
+42020,203932,Aaron Gordon,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.048,0.5,0.0,0.33,0.67,0.17,0.0,0.33,0.0,0.6,0.3,0.0,0.0,0.0,2020-21,2020,2021
+42020,1627885,Shaquille Harrison,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,9,0.2,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,0.2,0.2,0.0,0.0,0.0,2020-21,2020,2021
+42020,1630192,Zeke Nnaji,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,5,0.1,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.0,0.0,0.0,2020-21,2020,2021
+42020,201580,JaVale McGee,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,4,0.077,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,0.0,0.0,0.0,2020-21,2020,2021
+42020,203115,Will Barton,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,3,0.041,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.7,0.7,2020-21,2020,2021
+42020,203210,JaMychal Green,1610612743,DEN,Denver Nuggets,Misc,Offensive,0.0,10,0.058,0.0,0.0,0.0,0.67,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.1,0.1,2020-21,2020,2021

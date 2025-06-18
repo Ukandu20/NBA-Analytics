@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.903,15,0.097,1.206,0.615,0.176,0.088,0.176,0.029,0.618,0.615,34,41,16,26,10
-42016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.452,17,0.089,0.85,0.5,0.2,0.3,0.15,0.1,0.4,0.5,20,17,6,12,6
-42016,2561,David West,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.767,17,0.194,1.0,0.545,0.143,0.143,0.143,0.071,0.5,0.545,14,14,6,11,5
-42016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.767,14,0.197,1.0,0.5,0.071,0.0,0.071,0.071,0.5,0.5,14,14,7,14,7
-42016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,17,0.033,1.111,0.556,0.0,0.0,0.0,0.0,0.556,0.556,9,10,5,9,4
-42016,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,15,0.115,1.111,0.5,0.111,0.0,0.111,0.0,0.556,0.5,9,10,4,8,4
-42016,203949,James Michael McAdoo,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,13,0.048,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0
-42016,1627745,Damian Jones,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,4,0.25,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1
-42016,201580,JaVale McGee,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,16,0.057,0.5,0.0,0.25,0.5,0.25,0.0,0.25,0.0,4,2,0,1,1
-42016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,16,0.039,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,5,2,1,5,4
-42016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,17,0.002,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.903,15,0.097,1.206,0.615,0.176,0.088,0.176,0.029,0.618,0.615,34,41,16,26,10,2016-17,2016,2017
+42016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.452,17,0.089,0.85,0.5,0.2,0.3,0.15,0.1,0.4,0.5,20,17,6,12,6,2016-17,2016,2017
+42016,2561,David West,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.767,17,0.194,1.0,0.545,0.143,0.143,0.143,0.071,0.5,0.545,14,14,6,11,5,2016-17,2016,2017
+42016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.767,14,0.197,1.0,0.5,0.071,0.0,0.071,0.071,0.5,0.5,14,14,7,14,7,2016-17,2016,2017
+42016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,17,0.033,1.111,0.556,0.0,0.0,0.0,0.0,0.556,0.556,9,10,5,9,4,2016-17,2016,2017
+42016,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,15,0.115,1.111,0.5,0.111,0.0,0.111,0.0,0.556,0.5,9,10,4,8,4,2016-17,2016,2017
+42016,203949,James Michael McAdoo,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,13,0.048,2.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,2,0,0,0,2016-17,2016,2017
+42016,1627745,Damian Jones,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,4,0.25,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,2016-17,2016,2017
+42016,201580,JaVale McGee,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,16,0.057,0.5,0.0,0.25,0.5,0.25,0.0,0.25,0.0,4,2,0,1,1,2016-17,2016,2017
+42016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,16,0.039,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,5,2,1,5,4,2016-17,2016,2017
+42016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Postup,Offensive,0.0,17,0.002,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,2016-17,2016,2017

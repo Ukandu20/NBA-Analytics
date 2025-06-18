@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.671,77,0.048,0.974,0.431,0.065,0.117,0.052,0.026,0.403,0.515,1.0,1.0,0.4,0.8,0.5
-22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.425,80,0.033,0.862,0.37,0.069,0.034,0.069,0.034,0.379,0.407,0.4,0.0,0.1,0.3,0.2
-22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Handoff,Offensive,1.0,33,0.049,1.5,0.727,0.0,0.083,0.0,0.0,0.667,0.818,0.4,1.0,0.2,0.3,0.1
-22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.713,79,0.032,1.0,0.438,0.059,0.059,0.059,0.059,0.412,0.5,0.2,0.0,0.1,0.2,0.1
-22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.238,57,0.067,0.714,0.368,0.0,0.048,0.048,0.0,0.333,0.395,0.4,0.0,0.1,0.3,0.2
-22016,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.029,78,0.012,0.417,0.19,0.083,0.083,0.083,0.042,0.208,0.19,0.3,0.0,0.1,0.3,0.2
-22016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.485,76,0.009,0.9,0.571,0.0,0.3,0.0,0.0,0.4,0.643,0.1,0.0,0.1,0.1,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.671,77,0.048,0.974,0.431,0.065,0.117,0.052,0.026,0.403,0.515,1.0,1.0,0.4,0.8,0.5,2016-17,2016,2017
+22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.425,80,0.033,0.862,0.37,0.069,0.034,0.069,0.034,0.379,0.407,0.4,0.0,0.1,0.3,0.2,2016-17,2016,2017
+22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Handoff,Offensive,1.0,33,0.049,1.5,0.727,0.0,0.083,0.0,0.0,0.667,0.818,0.4,1.0,0.2,0.3,0.1,2016-17,2016,2017
+22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.713,79,0.032,1.0,0.438,0.059,0.059,0.059,0.059,0.412,0.5,0.2,0.0,0.1,0.2,0.1,2016-17,2016,2017
+22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.238,57,0.067,0.714,0.368,0.0,0.048,0.048,0.0,0.333,0.395,0.4,0.0,0.1,0.3,0.2,2016-17,2016,2017
+22016,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.029,78,0.012,0.417,0.19,0.083,0.083,0.083,0.042,0.208,0.19,0.3,0.0,0.1,0.3,0.2,2016-17,2016,2017
+22016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.485,76,0.009,0.9,0.571,0.0,0.3,0.0,0.0,0.4,0.643,0.1,0.0,0.1,0.1,0.0,2016-17,2016,2017

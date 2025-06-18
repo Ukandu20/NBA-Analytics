@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201143,Al Horford,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.749,72,0.205,1.203,0.549,0.042,0.063,0.042,0.005,0.526,0.0063,192,231,95,173,78
-22017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.396,81,0.202,1.026,0.51,0.079,0.061,0.079,0.018,0.509,0.0051,114,117,51,100,49
-22017,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.353,63,0.282,1.011,0.493,0.165,0.099,0.165,0.022,0.516,0.005,91,92,34,69,35
-22017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.488,54,0.088,1.062,0.474,0.138,0.046,0.138,0.062,0.492,0.00509,65,69,27,57,30
-22017,202328,Greg Monroe,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.256,26,0.161,0.956,0.6,0.111,0.244,0.111,0.022,0.467,0.006,45,43,18,30,12
-22017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.318,80,0.021,1.0,0.45,0.091,0.045,0.091,0.045,0.455,0.005,22,22,9,20,11
-22017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.318,73,0.057,1.0,0.417,0.077,0.077,0.077,0.077,0.385,0.00542,13,13,5,12,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201143,Al Horford,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.749,72,0.205,1.203,0.549,0.042,0.063,0.042,0.005,0.526,0.0063,192,231,95,173,78,2017-18,2017,2018
+22017,203382,Aron Baynes,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.396,81,0.202,1.026,0.51,0.079,0.061,0.079,0.018,0.509,0.0051,114,117,51,100,49,2017-18,2017,2018
+22017,1628464,Daniel Theis,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.353,63,0.282,1.011,0.493,0.165,0.099,0.165,0.022,0.516,0.005,91,92,34,69,35,2017-18,2017,2018
+22017,202694,Marcus Morris Sr.,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.488,54,0.088,1.062,0.474,0.138,0.046,0.138,0.062,0.492,0.00509,65,69,27,57,30,2017-18,2017,2018
+22017,202328,Greg Monroe,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.256,26,0.161,0.956,0.6,0.111,0.244,0.111,0.022,0.467,0.006,45,43,18,30,12,2017-18,2017,2018
+22017,1628369,Jayson Tatum,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.318,80,0.021,1.0,0.45,0.091,0.045,0.091,0.045,0.455,0.005,22,22,9,20,11,2017-18,2017,2018
+22017,1628400,Semi Ojeleye,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.318,73,0.057,1.0,0.417,0.077,0.077,0.077,0.077,0.385,0.00542,13,13,5,12,7,2017-18,2017,2018

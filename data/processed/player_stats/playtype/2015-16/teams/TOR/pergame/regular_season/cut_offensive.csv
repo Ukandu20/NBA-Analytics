@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.848,60,0.207,1.429,0.712,0.156,0.027,0.15,0.034,0.728,0.712,2.5,3.5,1.5,2.1,0.6
-22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.268,82,0.34,1.075,0.569,0.208,0.101,0.195,0.038,0.572,0.569,1.9,2.1,0.8,1.4,0.6
-22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.296,76,0.078,1.091,0.549,0.055,0.036,0.055,0.018,0.545,0.549,0.7,0.8,0.4,0.7,0.3
-22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.943,78,0.016,1.552,0.76,0.172,0.034,0.138,0.069,0.759,0.76,0.4,0.6,0.2,0.3,0.1
-22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.718,57,0.065,1.333,0.667,0.19,0.048,0.19,0.095,0.619,0.667,0.4,0.5,0.2,0.3,0.1
-22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.026,26,0.08,0.846,0.435,0.077,0.077,0.077,0.038,0.423,0.435,1.0,0.8,0.4,0.9,0.5
-22015,201574,Jason Thompson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.966,19,0.159,1.615,0.818,0.231,0.077,0.231,0.154,0.769,0.818,0.7,1.1,0.5,0.6,0.1
-22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.994,77,0.007,1.727,0.75,0.364,0.0,0.273,0.091,0.818,0.75,0.1,0.2,0.1,0.1,0.0
-22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.494,79,0.026,1.2,0.583,0.133,0.067,0.133,0.0,0.6,0.583,0.2,0.2,0.1,0.2,0.1
-22015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.13,49,0.035,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.848,60,0.207,1.429,0.712,0.156,0.027,0.15,0.034,0.728,0.712,2.5,3.5,1.5,2.1,0.6,2015-16,2015,2016
+22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.268,82,0.34,1.075,0.569,0.208,0.101,0.195,0.038,0.572,0.569,1.9,2.1,0.8,1.4,0.6,2015-16,2015,2016
+22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.296,76,0.078,1.091,0.549,0.055,0.036,0.055,0.018,0.545,0.549,0.7,0.8,0.4,0.7,0.3,2015-16,2015,2016
+22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.943,78,0.016,1.552,0.76,0.172,0.034,0.138,0.069,0.759,0.76,0.4,0.6,0.2,0.3,0.1,2015-16,2015,2016
+22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.718,57,0.065,1.333,0.667,0.19,0.048,0.19,0.095,0.619,0.667,0.4,0.5,0.2,0.3,0.1,2015-16,2015,2016
+22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.026,26,0.08,0.846,0.435,0.077,0.077,0.077,0.038,0.423,0.435,1.0,0.8,0.4,0.9,0.5,2015-16,2015,2016
+22015,201574,Jason Thompson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.966,19,0.159,1.615,0.818,0.231,0.077,0.231,0.154,0.769,0.818,0.7,1.1,0.5,0.6,0.1,2015-16,2015,2016
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.994,77,0.007,1.727,0.75,0.364,0.0,0.273,0.091,0.818,0.75,0.1,0.2,0.1,0.1,0.0,2015-16,2015,2016
+22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.494,79,0.026,1.2,0.583,0.133,0.067,0.133,0.0,0.6,0.583,0.2,0.2,0.1,0.2,0.1,2015-16,2015,2016
+22015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.13,49,0.035,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.2,0.2,0.1,0.2,0.1,2015-16,2015,2016

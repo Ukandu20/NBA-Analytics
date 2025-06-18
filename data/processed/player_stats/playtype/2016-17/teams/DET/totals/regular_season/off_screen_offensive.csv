@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.419,76,0.101,0.89,0.367,0.064,0.037,0.055,0.0,0.376,0.439,109,97,36,98,62
-22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.337,79,0.048,0.842,0.346,0.053,0.035,0.053,0.0,0.368,0.404,57,48,18,52,34
-22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.209,82,0.04,0.72,0.311,0.04,0.06,0.02,0.0,0.32,0.356,50,36,14,45,31
-22016,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.884,31,0.128,1.167,0.5,0.056,0.056,0.056,0.0,0.5,0.625,18,21,8,16,8
-22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.242,75,0.037,0.75,0.385,0.0,0.071,0.0,0.0,0.357,0.404,28,21,10,26,16
-22016,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.134,77,0.028,0.615,0.231,0.0,0.0,0.0,0.0,0.231,0.308,13,8,3,13,10
-22016,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.004,52,0.012,0.3,0.125,0.0,0.2,0.0,0.0,0.1,0.188,10,3,1,8,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.419,76,0.101,0.89,0.367,0.064,0.037,0.055,0.0,0.376,0.439,109,97,36,98,62,2016-17,2016,2017
+22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.337,79,0.048,0.842,0.346,0.053,0.035,0.053,0.0,0.368,0.404,57,48,18,52,34,2016-17,2016,2017
+22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.209,82,0.04,0.72,0.311,0.04,0.06,0.02,0.0,0.32,0.356,50,36,14,45,31,2016-17,2016,2017
+22016,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.884,31,0.128,1.167,0.5,0.056,0.056,0.056,0.0,0.5,0.625,18,21,8,16,8,2016-17,2016,2017
+22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.242,75,0.037,0.75,0.385,0.0,0.071,0.0,0.0,0.357,0.404,28,21,10,26,16,2016-17,2016,2017
+22016,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.134,77,0.028,0.615,0.231,0.0,0.0,0.0,0.0,0.231,0.308,13,8,3,13,10,2016-17,2016,2017
+22016,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,OffScreen,Offensive,0.004,52,0.012,0.3,0.125,0.0,0.2,0.0,0.0,0.1,0.188,10,3,1,8,7,2016-17,2016,2017

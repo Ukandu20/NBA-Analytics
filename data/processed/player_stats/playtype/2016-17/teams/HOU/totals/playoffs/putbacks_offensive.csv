@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.957,11,0.11,1.333,0.636,0.083,0.0,0.083,0.0,0.667,0.00636,12,16,7,11,4
-42016,2403,Nene,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,9,0.108,1.375,1.0,0.25,0.125,0.25,0.0,0.75,0.01,8,11,5,5,0
-42016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.045,1.667,1.0,0.0,0.167,0.0,0.0,0.833,0.01,6,10,5,5,0
-42016,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.478,11,0.104,0.909,0.5,0.091,0.091,0.182,0.0,0.455,0.005,11,10,4,8,4
-42016,101150,Lou Williams,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.035,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.008,5,8,4,5,1
-42016,201935,James Harden,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.012,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.006670000000000001,4,4,2,3,1
-42016,1626155,Sam Dekker,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,4,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,1627819,Isaiah Taylor,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,3,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.036,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.957,11,0.11,1.333,0.636,0.083,0.0,0.083,0.0,0.667,0.00636,12,16,7,11,4,2016-17,2016,2017
+42016,2403,Nene,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,9,0.108,1.375,1.0,0.25,0.125,0.25,0.0,0.75,0.01,8,11,5,5,0,2016-17,2016,2017
+42016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.045,1.667,1.0,0.0,0.167,0.0,0.0,0.833,0.01,6,10,5,5,0,2016-17,2016,2017
+42016,203991,Clint Capela,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.478,11,0.104,0.909,0.5,0.091,0.091,0.182,0.0,0.455,0.005,11,10,4,8,4,2016-17,2016,2017
+42016,101150,Lou Williams,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.035,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.008,5,8,4,5,1,2016-17,2016,2017
+42016,201935,James Harden,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.012,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.006670000000000001,4,4,2,3,1,2016-17,2016,2017
+42016,1626155,Sam Dekker,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,4,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,1627819,Isaiah Taylor,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,3,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.007,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2016-17,2016,2017
+42016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,OffRebound,Offensive,0.0,11,0.036,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3,2016-17,2016,2017

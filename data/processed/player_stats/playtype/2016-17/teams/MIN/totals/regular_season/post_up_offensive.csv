@@ -1,5 +1,5 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.863,82,0.255,1.029,0.547,0.117,0.128,0.099,0.025,0.518,0.547,477,491,203,371,168
-22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.474,82,0.113,0.871,0.415,0.142,0.058,0.12,0.018,0.449,0.415,225,196,76,183,107
-22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.711,78,0.14,0.942,0.425,0.173,0.058,0.163,0.067,0.462,0.425,104,98,37,87,50
-22016,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.384,82,0.074,0.839,0.413,0.145,0.129,0.081,0.016,0.419,0.413,62,52,19,46,27
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.863,82,0.255,1.029,0.547,0.117,0.128,0.099,0.025,0.518,0.547,477,491,203,371,168,2016-17,2016,2017
+22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.474,82,0.113,0.871,0.415,0.142,0.058,0.12,0.018,0.449,0.415,225,196,76,183,107,2016-17,2016,2017
+22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.711,78,0.14,0.942,0.425,0.173,0.058,0.163,0.067,0.462,0.425,104,98,37,87,50,2016-17,2016,2017
+22016,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Postup,Offensive,0.384,82,0.074,0.839,0.413,0.145,0.129,0.081,0.016,0.419,0.413,62,52,19,46,27,2016-17,2016,2017

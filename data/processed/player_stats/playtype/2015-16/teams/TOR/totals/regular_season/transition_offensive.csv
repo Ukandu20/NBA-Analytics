@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.735,77,0.168,1.208,0.526,0.223,0.109,0.201,0.04,0.555,0.619,274,331,102,194,92
-22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.766,78,0.079,1.221,0.581,0.31,0.117,0.234,0.069,0.607,0.591,145,177,54,93,39
-22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.962,76,0.136,1.427,0.679,0.115,0.042,0.104,0.031,0.677,0.726,96,137,57,84,27
-22015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.823,73,0.138,1.292,0.551,0.125,0.073,0.094,0.01,0.563,0.679,96,124,43,78,35
-22015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.84,80,0.094,1.306,0.679,0.167,0.139,0.111,0.042,0.625,0.708,72,94,36,53,17
-22015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.659,49,0.238,1.176,0.531,0.191,0.103,0.162,0.015,0.559,0.592,68,80,26,49,23
-22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.301,26,0.214,1.014,0.441,0.116,0.043,0.087,0.014,0.478,0.517,69,70,26,59,33
-22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.267,79,0.103,1.0,0.407,0.0,0.085,0.0,0.0,0.373,0.546,59,59,22,54,32
-22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.172,57,0.154,0.92,0.645,0.1,0.3,0.08,0.02,0.44,0.694,50,46,20,31,11
-22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.804,60,0.039,1.25,0.75,0.143,0.179,0.107,0.036,0.643,0.75,28,35,15,20,5
-22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.993,82,0.034,1.563,0.8,0.438,0.063,0.438,0.125,0.813,0.8,16,25,8,10,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.735,77,0.168,1.208,0.526,0.223,0.109,0.201,0.04,0.555,0.619,274,331,102,194,92,2015-16,2015,2016
+22015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.766,78,0.079,1.221,0.581,0.31,0.117,0.234,0.069,0.607,0.591,145,177,54,93,39,2015-16,2015,2016
+22015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.962,76,0.136,1.427,0.679,0.115,0.042,0.104,0.031,0.677,0.726,96,137,57,84,27,2015-16,2015,2016
+22015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.823,73,0.138,1.292,0.551,0.125,0.073,0.094,0.01,0.563,0.679,96,124,43,78,35,2015-16,2015,2016
+22015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.84,80,0.094,1.306,0.679,0.167,0.139,0.111,0.042,0.625,0.708,72,94,36,53,17,2015-16,2015,2016
+22015,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.659,49,0.238,1.176,0.531,0.191,0.103,0.162,0.015,0.559,0.592,68,80,26,49,23,2015-16,2015,2016
+22015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.301,26,0.214,1.014,0.441,0.116,0.043,0.087,0.014,0.478,0.517,69,70,26,59,33,2015-16,2015,2016
+22015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.267,79,0.103,1.0,0.407,0.0,0.085,0.0,0.0,0.373,0.546,59,59,22,54,32,2015-16,2015,2016
+22015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.172,57,0.154,0.92,0.645,0.1,0.3,0.08,0.02,0.44,0.694,50,46,20,31,11,2015-16,2015,2016
+22015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.804,60,0.039,1.25,0.75,0.143,0.179,0.107,0.036,0.643,0.75,28,35,15,20,5,2015-16,2015,2016
+22015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.993,82,0.034,1.563,0.8,0.438,0.063,0.438,0.125,0.813,0.8,16,25,8,10,2,2015-16,2015,2016

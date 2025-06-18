@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.454,75,0.093,1.035,0.52,0.105,0.026,0.096,0.026,0.535,0.52,114,118,53,102,49
-22016,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.746,80,0.08,1.202,0.592,0.119,0.048,0.119,0.012,0.607,0.599,84,101,42,71,29
-22016,201586,Serge Ibaka,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.845,56,0.082,1.288,0.661,0.121,0.061,0.106,0.03,0.652,0.67,66,85,37,56,19
-22016,202687,Bismack Biyombo,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.166,81,0.138,0.867,0.48,0.267,0.12,0.253,0.053,0.453,0.48,75,65,24,50,26
-22016,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.584,82,0.045,1.113,0.556,0.075,0.075,0.075,0.0,0.547,0.567,53,59,25,45,20
-22016,201145,Jeff Green,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.574,69,0.026,1.111,0.417,0.333,0.056,0.278,0.056,0.556,0.417,18,20,5,12,7
-22016,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.113,68,0.018,0.81,0.381,0.048,0.0,0.048,0.048,0.381,0.381,21,17,8,21,13
-22016,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.017,65,0.029,0.5,0.1,0.167,0.0,0.167,0.0,0.25,0.1,12,6,1,10,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.454,75,0.093,1.035,0.52,0.105,0.026,0.096,0.026,0.535,0.52,114,118,53,102,49,2016-17,2016,2017
+22016,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.746,80,0.08,1.202,0.592,0.119,0.048,0.119,0.012,0.607,0.599,84,101,42,71,29,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.845,56,0.082,1.288,0.661,0.121,0.061,0.106,0.03,0.652,0.67,66,85,37,56,19,2016-17,2016,2017
+22016,202687,Bismack Biyombo,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.166,81,0.138,0.867,0.48,0.267,0.12,0.253,0.053,0.453,0.48,75,65,24,50,26,2016-17,2016,2017
+22016,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.584,82,0.045,1.113,0.556,0.075,0.075,0.075,0.0,0.547,0.567,53,59,25,45,20,2016-17,2016,2017
+22016,201145,Jeff Green,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.574,69,0.026,1.111,0.417,0.333,0.056,0.278,0.056,0.556,0.417,18,20,5,12,7,2016-17,2016,2017
+22016,203095,Evan Fournier,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.113,68,0.018,0.81,0.381,0.048,0.0,0.048,0.048,0.381,0.381,21,17,8,21,13,2016-17,2016,2017
+22016,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,OffRebound,Offensive,0.017,65,0.029,0.5,0.1,0.167,0.0,0.167,0.0,0.25,0.1,12,6,1,10,9,2016-17,2016,2017

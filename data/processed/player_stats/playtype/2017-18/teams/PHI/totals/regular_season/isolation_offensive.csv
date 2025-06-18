@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.56,81,0.09,0.876,0.495,0.14,0.147,0.109,0.023,0.465,0.495,129,113,47,95,48
-22017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.42,63,0.066,0.818,0.422,0.091,0.091,0.081,0.02,0.424,0.428,99,81,35,83,48
-22017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.808,78,0.032,1.0,0.469,0.111,0.056,0.111,0.056,0.472,0.469,36,36,15,32,17
-22017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.498,76,0.047,0.846,0.478,0.0,0.115,0.0,0.0,0.423,0.478,26,22,11,23,12
-22017,201573,Jerryd Bayless,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.101,40,0.046,0.6,0.333,0.0,0.2,0.0,0.0,0.267,0.375,15,9,4,12,8
-22017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.251,14,0.08,0.727,0.444,0.0,0.182,0.0,0.0,0.364,0.444,11,8,4,9,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.56,81,0.09,0.876,0.495,0.14,0.147,0.109,0.023,0.465,0.495,129,113,47,95,48,2017-18,2017,2018
+22017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.42,63,0.066,0.818,0.422,0.091,0.091,0.081,0.02,0.424,0.428,99,81,35,83,48,2017-18,2017,2018
+22017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.808,78,0.032,1.0,0.469,0.111,0.056,0.111,0.056,0.472,0.469,36,36,15,32,17,2017-18,2017,2018
+22017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.498,76,0.047,0.846,0.478,0.0,0.115,0.0,0.0,0.423,0.478,26,22,11,23,12,2017-18,2017,2018
+22017,201573,Jerryd Bayless,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.101,40,0.046,0.6,0.333,0.0,0.2,0.0,0.0,0.267,0.375,15,9,4,12,8,2017-18,2017,2018
+22017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Isolation,Offensive,0.251,14,0.08,0.727,0.444,0.0,0.182,0.0,0.0,0.364,0.444,11,8,4,9,5,2017-18,2017,2018

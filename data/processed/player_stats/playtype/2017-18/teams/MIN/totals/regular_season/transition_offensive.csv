@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.399,82,0.129,1.044,0.515,0.118,0.088,0.118,0.034,0.495,0.556,204,213,87,169,82
-22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.948,59,0.12,1.4,0.632,0.2,0.062,0.179,0.048,0.648,0.68,145,203,72,114,42
-22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.223,70,0.16,0.953,0.492,0.128,0.215,0.087,0.029,0.436,0.542,172,164,58,118,60
-22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.853,82,0.065,1.286,0.644,0.153,0.143,0.153,0.041,0.592,0.692,98,126,47,73,26
-22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.57,82,0.24,1.139,0.556,0.168,0.149,0.149,0.03,0.525,0.604,101,115,40,72,32
-22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.865,82,0.092,1.301,0.692,0.145,0.096,0.133,0.024,0.663,0.7,83,108,45,65,20
-22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.142,80,0.137,0.883,0.376,0.083,0.1,0.083,0.025,0.375,0.441,120,106,38,101,63
-22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.732,67,0.165,1.219,0.563,0.055,0.068,0.041,0.0,0.548,0.648,73,89,36,64,28
-22017,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.72,79,0.077,1.211,0.607,0.158,0.132,0.158,0.026,0.579,0.643,38,46,17,28,11
-22017,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.441,9,0.254,1.063,0.583,0.125,0.188,0.125,0.063,0.5,0.583,16,17,7,12,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.399,82,0.129,1.044,0.515,0.118,0.088,0.118,0.034,0.495,0.556,204,213,87,169,82,2017-18,2017,2018
+22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.948,59,0.12,1.4,0.632,0.2,0.062,0.179,0.048,0.648,0.68,145,203,72,114,42,2017-18,2017,2018
+22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.223,70,0.16,0.953,0.492,0.128,0.215,0.087,0.029,0.436,0.542,172,164,58,118,60,2017-18,2017,2018
+22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.853,82,0.065,1.286,0.644,0.153,0.143,0.153,0.041,0.592,0.692,98,126,47,73,26,2017-18,2017,2018
+22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.57,82,0.24,1.139,0.556,0.168,0.149,0.149,0.03,0.525,0.604,101,115,40,72,32,2017-18,2017,2018
+22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.865,82,0.092,1.301,0.692,0.145,0.096,0.133,0.024,0.663,0.7,83,108,45,65,20,2017-18,2017,2018
+22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.142,80,0.137,0.883,0.376,0.083,0.1,0.083,0.025,0.375,0.441,120,106,38,101,63,2017-18,2017,2018
+22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.732,67,0.165,1.219,0.563,0.055,0.068,0.041,0.0,0.548,0.648,73,89,36,64,28,2017-18,2017,2018
+22017,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.72,79,0.077,1.211,0.607,0.158,0.132,0.158,0.026,0.579,0.643,38,46,17,28,11,2017-18,2017,2018
+22017,201565,Derrick Rose,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.441,9,0.254,1.063,0.583,0.125,0.188,0.125,0.063,0.5,0.583,16,17,7,12,5,2017-18,2017,2018

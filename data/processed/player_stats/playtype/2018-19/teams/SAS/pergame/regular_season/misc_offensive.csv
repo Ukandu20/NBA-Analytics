@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.906,81,0.043,0.814,0.64,0.286,0.514,0.029,0.0,0.414,0.00643,0.9,0.7,0.1,0.2,0.1
-22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.849,77,0.03,0.765,0.4,0.314,0.412,0.098,0.02,0.412,0.004,0.7,0.5,0.1,0.2,0.1
-22018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.839,79,0.051,0.756,0.35,0.22,0.366,0.024,0.0,0.366,0.00471,0.5,0.4,0.1,0.2,0.1
-22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.583,82,0.063,0.58,0.31,0.22,0.46,0.02,0.0,0.3,0.00344,0.6,0.4,0.1,0.2,0.1
-22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.404,69,0.055,0.471,0.45,0.157,0.627,0.0,0.0,0.235,0.005,0.7,0.3,0.1,0.2,0.1
-22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.695,67,0.052,0.639,0.75,0.25,0.639,0.0,0.0,0.333,0.0075,0.5,0.3,0.0,0.1,0.0
-22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.518,82,0.039,0.543,0.39,0.086,0.429,0.029,0.029,0.257,0.00444,0.4,0.2,0.1,0.2,0.1
-22018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.266,77,0.092,0.4,0.67,0.257,0.657,0.0,0.0,0.257,0.006670000000000001,0.5,0.2,0.0,0.0,0.0
-22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.309,76,0.046,0.417,0.2,0.208,0.583,0.0,0.0,0.25,0.003,0.3,0.1,0.0,0.1,0.1
-22018,201967,Dante Cunningham,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.365,64,0.059,0.455,0.33,0.091,0.636,0.0,0.0,0.182,0.005,0.2,0.1,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22018,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.906,81,0.043,0.814,0.64,0.286,0.514,0.029,0.0,0.414,0.00643,0.9,0.7,0.1,0.2,0.1,2018-19,2018,2019
+22018,201942,DeMar DeRozan,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.849,77,0.03,0.765,0.4,0.314,0.412,0.098,0.02,0.412,0.004,0.7,0.5,0.1,0.2,0.1,2018-19,2018,2019
+22018,201158,Marco Belinelli,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.839,79,0.051,0.756,0.35,0.22,0.366,0.024,0.0,0.366,0.00471,0.5,0.4,0.1,0.2,0.1,2018-19,2018,2019
+22018,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.583,82,0.063,0.58,0.31,0.22,0.46,0.02,0.0,0.3,0.00344,0.6,0.4,0.1,0.2,0.1,2018-19,2018,2019
+22018,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.404,69,0.055,0.471,0.45,0.157,0.627,0.0,0.0,0.235,0.005,0.7,0.3,0.1,0.2,0.1,2018-19,2018,2019
+22018,1628401,Derrick White,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.695,67,0.052,0.639,0.75,0.25,0.639,0.0,0.0,0.333,0.0075,0.5,0.3,0.0,0.1,0.0,2018-19,2018,2019
+22018,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.518,82,0.039,0.543,0.39,0.086,0.429,0.029,0.029,0.257,0.00444,0.4,0.2,0.1,0.2,0.1,2018-19,2018,2019
+22018,1627751,Jakob Poeltl,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.266,77,0.092,0.4,0.67,0.257,0.657,0.0,0.0,0.257,0.006670000000000001,0.5,0.2,0.0,0.0,0.0,2018-19,2018,2019
+22018,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.309,76,0.046,0.417,0.2,0.208,0.583,0.0,0.0,0.25,0.003,0.3,0.1,0.0,0.1,0.1,2018-19,2018,2019
+22018,201967,Dante Cunningham,1610612759,SAS,San Antonio Spurs,Misc,Offensive,0.365,64,0.059,0.455,0.33,0.091,0.636,0.0,0.0,0.182,0.005,0.2,0.1,0.0,0.0,0.0,2018-19,2018,2019

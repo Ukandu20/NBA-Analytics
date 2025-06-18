@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.427,67,0.208,1.166,0.609,0.183,0.059,0.16,0.059,0.604,0.609,2.5,2.9,1.3,2.1,0.8
-22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.562,80,0.154,1.238,0.653,0.107,0.098,0.107,0.033,0.607,0.653,1.5,1.9,0.8,1.3,0.4
-22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.613,76,0.098,1.27,0.646,0.079,0.067,0.079,0.034,0.618,0.646,1.2,1.5,0.7,1.0,0.4
-22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.602,60,0.131,1.262,0.692,0.066,0.082,0.066,0.0,0.656,0.692,1.0,1.3,0.6,0.9,0.3
-22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.831,53,0.054,1.423,0.676,0.365,0.038,0.327,0.058,0.712,0.676,1.0,1.4,0.4,0.6,0.2
-22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.751,82,0.04,1.367,0.689,0.102,0.02,0.082,0.041,0.694,0.689,0.6,0.8,0.4,0.5,0.2
-22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.085,70,0.118,0.941,0.483,0.088,0.074,0.088,0.015,0.471,0.483,1.0,0.9,0.4,0.8,0.4
-22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.206,32,0.118,1.025,0.556,0.25,0.1,0.225,0.025,0.575,0.556,1.3,1.3,0.5,0.8,0.4
-22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.285,68,0.029,1.086,0.571,0.114,0.114,0.114,0.029,0.543,0.571,0.5,0.6,0.2,0.4,0.2
-22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.107,20,0.243,0.973,0.552,0.216,0.0,0.189,0.0,0.514,0.552,1.9,1.8,0.8,1.4,0.7
-22015,203960,JaKarr Sampson,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.13,26,0.178,1.0,0.5,0.077,0.077,0.077,0.0,0.5,0.5,1.0,1.0,0.4,0.8,0.4
-22015,1626253,Axel Toupane,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.278,21,0.146,1.083,0.5,0.167,0.083,0.167,0.083,0.5,0.5,0.6,0.6,0.2,0.5,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.427,67,0.208,1.166,0.609,0.183,0.059,0.16,0.059,0.604,0.609,2.5,2.9,1.3,2.1,0.8,2015-16,2015,2016
+22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.562,80,0.154,1.238,0.653,0.107,0.098,0.107,0.033,0.607,0.653,1.5,1.9,0.8,1.3,0.4,2015-16,2015,2016
+22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.613,76,0.098,1.27,0.646,0.079,0.067,0.079,0.034,0.618,0.646,1.2,1.5,0.7,1.0,0.4,2015-16,2015,2016
+22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.602,60,0.131,1.262,0.692,0.066,0.082,0.066,0.0,0.656,0.692,1.0,1.3,0.6,0.9,0.3,2015-16,2015,2016
+22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.831,53,0.054,1.423,0.676,0.365,0.038,0.327,0.058,0.712,0.676,1.0,1.4,0.4,0.6,0.2,2015-16,2015,2016
+22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.751,82,0.04,1.367,0.689,0.102,0.02,0.082,0.041,0.694,0.689,0.6,0.8,0.4,0.5,0.2,2015-16,2015,2016
+22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.085,70,0.118,0.941,0.483,0.088,0.074,0.088,0.015,0.471,0.483,1.0,0.9,0.4,0.8,0.4,2015-16,2015,2016
+22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.206,32,0.118,1.025,0.556,0.25,0.1,0.225,0.025,0.575,0.556,1.3,1.3,0.5,0.8,0.4,2015-16,2015,2016
+22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.285,68,0.029,1.086,0.571,0.114,0.114,0.114,0.029,0.543,0.571,0.5,0.6,0.2,0.4,0.2,2015-16,2015,2016
+22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.107,20,0.243,0.973,0.552,0.216,0.0,0.189,0.0,0.514,0.552,1.9,1.8,0.8,1.4,0.7,2015-16,2015,2016
+22015,203960,JaKarr Sampson,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.13,26,0.178,1.0,0.5,0.077,0.077,0.077,0.0,0.5,0.5,1.0,1.0,0.4,0.8,0.4,2015-16,2015,2016
+22015,1626253,Axel Toupane,1610612743,DEN,Denver Nuggets,Cut,Offensive,0.278,21,0.146,1.083,0.5,0.167,0.083,0.167,0.083,0.5,0.5,0.6,0.6,0.2,0.5,0.2,2015-16,2015,2016

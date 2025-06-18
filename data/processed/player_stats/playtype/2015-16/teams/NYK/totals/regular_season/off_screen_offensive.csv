@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.549,71,0.149,0.95,0.413,0.06,0.04,0.065,0.014,0.42,0.46,139,132,52,126,74
-22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.459,72,0.075,0.893,0.365,0.1,0.02,0.095,0.0,0.42,0.419,84,75,27,74,47
-22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.805,72,0.04,1.076,0.508,0.02,0.03,0.015,0.0,0.5,0.548,66,71,32,63,31
-22015,2756,Sasha Vujacic,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.486,61,0.163,0.909,0.404,0.02,0.04,0.018,0.0,0.4,0.471,55,50,21,52,31
-22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.74,72,0.077,1.047,0.463,0.0,0.05,0.0,0.0,0.44,0.549,43,45,19,41,22
-22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.496,80,0.05,0.919,0.394,0.14,0.03,0.135,0.054,0.43,0.394,37,34,13,33,20
-22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.211,82,0.061,0.738,0.316,0.05,0.05,0.048,0.0,0.33,0.355,42,31,12,38,26
-22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.13,59,0.057,0.643,0.25,0.14,0.14,0.107,0.0,0.32,0.3,28,18,5,20,15
-22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.028,76,0.047,0.44,0.217,0.0,0.08,0.0,0.0,0.2,0.239,25,11,5,23,18
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.549,71,0.149,0.95,0.413,0.06,0.04,0.065,0.014,0.42,0.46,139,132,52,126,74,2015-16,2015,2016
+22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.459,72,0.075,0.893,0.365,0.1,0.02,0.095,0.0,0.42,0.419,84,75,27,74,47,2015-16,2015,2016
+22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.805,72,0.04,1.076,0.508,0.02,0.03,0.015,0.0,0.5,0.548,66,71,32,63,31,2015-16,2015,2016
+22015,2756,Sasha Vujacic,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.486,61,0.163,0.909,0.404,0.02,0.04,0.018,0.0,0.4,0.471,55,50,21,52,31,2015-16,2015,2016
+22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.74,72,0.077,1.047,0.463,0.0,0.05,0.0,0.0,0.44,0.549,43,45,19,41,22,2015-16,2015,2016
+22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.496,80,0.05,0.919,0.394,0.14,0.03,0.135,0.054,0.43,0.394,37,34,13,33,20,2015-16,2015,2016
+22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.211,82,0.061,0.738,0.316,0.05,0.05,0.048,0.0,0.33,0.355,42,31,12,38,26,2015-16,2015,2016
+22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.13,59,0.057,0.643,0.25,0.14,0.14,0.107,0.0,0.32,0.3,28,18,5,20,15,2015-16,2015,2016
+22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,OffScreen,Offensive,0.028,76,0.047,0.44,0.217,0.0,0.08,0.0,0.0,0.2,0.239,25,11,5,23,18,2015-16,2015,2016

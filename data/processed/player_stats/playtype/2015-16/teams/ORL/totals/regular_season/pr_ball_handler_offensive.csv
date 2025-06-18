@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.579,72,0.325,0.804,0.432,0.093,0.181,0.08,0.008,0.402,0.443,398,320,126,292,166
-22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.279,73,0.348,0.678,0.396,0.096,0.193,0.085,0.02,0.354,0.4,342,232,99,250,151
-22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.576,79,0.218,0.804,0.394,0.086,0.149,0.071,0.012,0.38,0.432,255,205,78,198,120
-22015,203894,Shabazz Napier,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.245,55,0.404,0.664,0.32,0.112,0.206,0.103,0.019,0.308,0.367,107,71,24,75,51
-22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.2,79,0.204,0.627,0.347,0.082,0.273,0.064,0.009,0.3,0.368,110,69,25,72,47
-22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.783,49,0.087,0.881,0.429,0.169,0.186,0.169,0.068,0.407,0.452,59,52,18,42,24
-22015,201943,Brandon Jennings,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.172,25,0.377,0.613,0.293,0.1,0.188,0.075,0.025,0.275,0.328,80,49,17,58,41
-22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.944,78,0.051,1.0,0.517,0.108,0.108,0.081,0.0,0.514,0.517,37,37,15,29,14
-22015,201228,C.J. Watson,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.366,33,0.258,0.717,0.333,0.087,0.109,0.065,0.043,0.326,0.346,46,33,13,39,26
-22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.111,65,0.009,0.545,0.333,0.0,0.182,0.0,0.0,0.273,0.333,11,6,3,9,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203506,Victor Oladipo,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.579,72,0.325,0.804,0.432,0.093,0.181,0.08,0.008,0.402,0.443,398,320,126,292,166,2015-16,2015,2016
+22015,203901,Elfrid Payton,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.279,73,0.348,0.678,0.396,0.096,0.193,0.085,0.02,0.354,0.4,342,232,99,250,151,2015-16,2015,2016
+22015,203095,Evan Fournier,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.576,79,0.218,0.804,0.394,0.086,0.149,0.071,0.012,0.38,0.432,255,205,78,198,120,2015-16,2015,2016
+22015,203894,Shabazz Napier,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.245,55,0.404,0.664,0.32,0.112,0.206,0.103,0.019,0.308,0.367,107,71,24,75,51,2015-16,2015,2016
+22015,1626209,Mario Hezonja,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.2,79,0.204,0.627,0.347,0.082,0.273,0.064,0.009,0.3,0.368,110,69,25,72,47,2015-16,2015,2016
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.783,49,0.087,0.881,0.429,0.169,0.186,0.169,0.068,0.407,0.452,59,52,18,42,24,2015-16,2015,2016
+22015,201943,Brandon Jennings,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.172,25,0.377,0.613,0.293,0.1,0.188,0.075,0.025,0.275,0.328,80,49,17,58,41,2015-16,2015,2016
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.944,78,0.051,1.0,0.517,0.108,0.108,0.081,0.0,0.514,0.517,37,37,15,29,14,2015-16,2015,2016
+22015,201228,C.J. Watson,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.366,33,0.258,0.717,0.333,0.087,0.109,0.065,0.043,0.326,0.346,46,33,13,39,26,2015-16,2015,2016
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRBallHandler,Offensive,0.111,65,0.009,0.545,0.333,0.0,0.182,0.0,0.0,0.273,0.333,11,6,3,9,6,2015-16,2015,2016

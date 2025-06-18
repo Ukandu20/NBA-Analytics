@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.59,81,0.102,0.853,0.37,0.175,0.062,0.147,0.017,0.435,0.38,2.2,1.9,0.6,1.7,1.1
-22015,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.973,82,0.066,1.188,0.59,0.125,0.052,0.104,0.042,0.573,0.596,1.2,1.4,0.6,1.0,0.4
-22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.729,82,0.082,0.918,0.388,0.102,0.051,0.082,0.02,0.408,0.441,1.2,1.1,0.4,1.0,0.6
-22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.759,39,0.131,0.93,0.333,0.228,0.105,0.211,0.018,0.439,0.372,1.5,1.4,0.3,1.0,0.7
-22015,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.794,76,0.039,0.944,0.235,0.417,0.111,0.194,0.0,0.5,0.265,0.5,0.4,0.1,0.2,0.2
-22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.182,82,0.052,0.622,0.303,0.133,0.156,0.133,0.022,0.333,0.303,0.5,0.3,0.1,0.4,0.3
-22015,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.289,60,0.101,0.71,0.292,0.161,0.065,0.097,0.0,0.355,0.354,0.5,0.4,0.1,0.4,0.3
-22015,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.203,82,0.037,0.645,0.333,0.032,0.097,0.032,0.0,0.323,0.333,0.4,0.2,0.1,0.3,0.2
-22015,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.959,37,0.079,1.125,0.467,0.188,0.063,0.188,0.188,0.438,0.533,0.4,0.5,0.2,0.4,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.59,81,0.102,0.853,0.37,0.175,0.062,0.147,0.017,0.435,0.38,2.2,1.9,0.6,1.7,1.1,2015-16,2015,2016
+22015,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.973,82,0.066,1.188,0.59,0.125,0.052,0.104,0.042,0.573,0.596,1.2,1.4,0.6,1.0,0.4,2015-16,2015,2016
+22015,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.729,82,0.082,0.918,0.388,0.102,0.051,0.082,0.02,0.408,0.441,1.2,1.1,0.4,1.0,0.6,2015-16,2015,2016
+22015,2755,Kevin Martin,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.759,39,0.131,0.93,0.333,0.228,0.105,0.211,0.018,0.439,0.372,1.5,1.4,0.3,1.0,0.7,2015-16,2015,2016
+22015,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.794,76,0.039,0.944,0.235,0.417,0.111,0.194,0.0,0.5,0.265,0.5,0.4,0.1,0.2,0.2,2015-16,2015,2016
+22015,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.182,82,0.052,0.622,0.303,0.133,0.156,0.133,0.022,0.333,0.303,0.5,0.3,0.1,0.4,0.3,2015-16,2015,2016
+22015,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.289,60,0.101,0.71,0.292,0.161,0.065,0.097,0.0,0.355,0.354,0.5,0.4,0.1,0.4,0.3,2015-16,2015,2016
+22015,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.203,82,0.037,0.645,0.333,0.032,0.097,0.032,0.0,0.323,0.333,0.4,0.2,0.1,0.3,0.2,2015-16,2015,2016
+22015,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Isolation,Offensive,0.959,37,0.079,1.125,0.467,0.188,0.063,0.188,0.188,0.438,0.533,0.4,0.5,0.2,0.4,0.2,2015-16,2015,2016

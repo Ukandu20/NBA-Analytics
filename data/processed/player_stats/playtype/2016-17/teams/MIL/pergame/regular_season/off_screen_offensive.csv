@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.968,76,0.04,1.321,0.625,0.071,0.107,0.071,0.036,0.571,0.708,0.4,0.5,0.2,0.3,0.1
-22016,203141,Mirza Teletovic,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.368,70,0.091,0.86,0.35,0.023,0.047,0.023,0.0,0.349,0.438,0.6,0.5,0.2,0.6,0.4
-22016,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.952,74,0.096,1.286,0.5,0.143,0.071,0.143,0.0,0.536,0.659,0.4,0.5,0.1,0.3,0.1
-22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.952,29,0.065,1.286,0.56,0.107,0.036,0.107,0.036,0.571,0.64,1.0,1.2,0.5,0.9,0.4
-22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.587,51,0.035,0.971,0.469,0.029,0.086,0.029,0.029,0.429,0.531,0.7,0.7,0.3,0.6,0.3
-22016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.47,80,0.058,0.917,0.417,0.0,0.0,0.0,0.0,0.417,0.458,0.5,0.4,0.2,0.5,0.3
-22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.225,75,0.051,0.732,0.389,0.024,0.122,0.024,0.024,0.341,0.417,0.5,0.4,0.2,0.5,0.3
-22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.242,56,0.062,0.75,0.37,0.094,0.094,0.094,0.031,0.375,0.37,0.6,0.4,0.2,0.5,0.3
-22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.105,80,0.014,0.6,0.211,0.16,0.08,0.16,0.0,0.32,0.211,0.3,0.2,0.1,0.2,0.2
-22016,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.229,41,0.111,0.737,0.375,0.0,0.158,0.0,0.0,0.316,0.438,0.5,0.3,0.1,0.4,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.968,76,0.04,1.321,0.625,0.071,0.107,0.071,0.036,0.571,0.708,0.4,0.5,0.2,0.3,0.1,2016-17,2016,2017
+22016,203141,Mirza Teletovic,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.368,70,0.091,0.86,0.35,0.023,0.047,0.023,0.0,0.349,0.438,0.6,0.5,0.2,0.6,0.4,2016-17,2016,2017
+22016,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.952,74,0.096,1.286,0.5,0.143,0.071,0.143,0.0,0.536,0.659,0.4,0.5,0.1,0.3,0.1,2016-17,2016,2017
+22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.952,29,0.065,1.286,0.56,0.107,0.036,0.107,0.036,0.571,0.64,1.0,1.2,0.5,0.9,0.4,2016-17,2016,2017
+22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.587,51,0.035,0.971,0.469,0.029,0.086,0.029,0.029,0.429,0.531,0.7,0.7,0.3,0.6,0.3,2016-17,2016,2017
+22016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.47,80,0.058,0.917,0.417,0.0,0.0,0.0,0.0,0.417,0.458,0.5,0.4,0.2,0.5,0.3,2016-17,2016,2017
+22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.225,75,0.051,0.732,0.389,0.024,0.122,0.024,0.024,0.341,0.417,0.5,0.4,0.2,0.5,0.3,2016-17,2016,2017
+22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.242,56,0.062,0.75,0.37,0.094,0.094,0.094,0.031,0.375,0.37,0.6,0.4,0.2,0.5,0.3,2016-17,2016,2017
+22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.105,80,0.014,0.6,0.211,0.16,0.08,0.16,0.0,0.32,0.211,0.3,0.2,0.1,0.2,0.2,2016-17,2016,2017
+22016,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.229,41,0.111,0.737,0.375,0.0,0.158,0.0,0.0,0.316,0.438,0.5,0.3,0.1,0.4,0.2,2016-17,2016,2017

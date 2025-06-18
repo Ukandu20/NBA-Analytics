@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22019,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.457,70,0.145,1.097,0.5,0.08,0.093,0.08,0.022,0.478,0.00586,226,248,96,192,96
-22019,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.636,66,0.097,1.172,0.542,0.148,0.178,0.107,0.036,0.497,0.0066300000000000005,169,198,65,120,55
-22019,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.324,61,0.216,1.038,0.436,0.067,0.048,0.067,0.019,0.442,0.00521,104,108,41,94,53
-22019,1626209,Mario Hezonja,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.828,53,0.258,1.284,0.611,0.216,0.122,0.216,0.068,0.595,0.00676,74,95,33,54,21
-22019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.55,58,0.085,1.136,0.528,0.025,0.099,0.025,0.012,0.469,0.00632,81,92,38,72,34
-22019,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.244,70,0.144,0.989,0.458,0.098,0.12,0.065,0.0,0.457,0.00528,92,91,33,72,39
-22019,203145,Kent Bazemore,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.278,44,0.211,1.011,0.457,0.091,0.148,0.08,0.034,0.42,0.00536,88,89,32,70,38
-22019,2772,Trevor Ariza,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.846,21,0.296,1.295,0.553,0.213,0.049,0.197,0.033,0.59,0.00628,61,79,26,47,21
-22019,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.306,48,0.188,1.029,0.56,0.257,0.086,0.2,0.057,0.514,0.0058,35,36,14,25,11
-22019,202355,Hassan Whiteside,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.989,67,0.024,1.591,0.875,0.182,0.091,0.182,0.045,0.773,0.00906,22,35,14,16,2
-22019,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.705,21,0.144,1.207,0.56,0.034,0.138,0.034,0.034,0.483,0.0068000000000000005,29,35,14,25,11
-22019,201229,Anthony Tolliver,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.181,33,0.136,0.95,0.412,0.05,0.15,0.05,0.05,0.35,0.00529,20,19,7,17,10
-22019,1627746,Skal Labissiere,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.258,33,0.052,1.0,0.5,0.1,0.1,0.1,0.0,0.5,0.00563,10,10,4,8,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22019,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.457,70,0.145,1.097,0.5,0.08,0.093,0.08,0.022,0.478,0.00586,226,248,96,192,96,2019-20,2019,2020
+22019,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.636,66,0.097,1.172,0.542,0.148,0.178,0.107,0.036,0.497,0.0066300000000000005,169,198,65,120,55,2019-20,2019,2020
+22019,1629018,Gary Trent Jr.,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.324,61,0.216,1.038,0.436,0.067,0.048,0.067,0.019,0.442,0.00521,104,108,41,94,53,2019-20,2019,2020
+22019,1626209,Mario Hezonja,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.828,53,0.258,1.284,0.611,0.216,0.122,0.216,0.068,0.595,0.00676,74,95,33,54,21,2019-20,2019,2020
+22019,2546,Carmelo Anthony,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.55,58,0.085,1.136,0.528,0.025,0.099,0.025,0.012,0.469,0.00632,81,92,38,72,34,2019-20,2019,2020
+22019,1629014,Anfernee Simons,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.244,70,0.144,0.989,0.458,0.098,0.12,0.065,0.0,0.457,0.00528,92,91,33,72,39,2019-20,2019,2020
+22019,203145,Kent Bazemore,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.278,44,0.211,1.011,0.457,0.091,0.148,0.08,0.034,0.42,0.00536,88,89,32,70,38,2019-20,2019,2020
+22019,2772,Trevor Ariza,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.846,21,0.296,1.295,0.553,0.213,0.049,0.197,0.033,0.59,0.00628,61,79,26,47,21,2019-20,2019,2020
+22019,1629642,Nassir Little,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.306,48,0.188,1.029,0.56,0.257,0.086,0.2,0.057,0.514,0.0058,35,36,14,25,11,2019-20,2019,2020
+22019,202355,Hassan Whiteside,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.989,67,0.024,1.591,0.875,0.182,0.091,0.182,0.045,0.773,0.00906,22,35,14,16,2,2019-20,2019,2020
+22019,203918,Rodney Hood,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.705,21,0.144,1.207,0.56,0.034,0.138,0.034,0.034,0.483,0.0068000000000000005,29,35,14,25,11,2019-20,2019,2020
+22019,201229,Anthony Tolliver,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.181,33,0.136,0.95,0.412,0.05,0.15,0.05,0.05,0.35,0.00529,20,19,7,17,10,2019-20,2019,2020
+22019,1627746,Skal Labissiere,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.258,33,0.052,1.0,0.5,0.1,0.1,0.1,0.0,0.5,0.00563,10,10,4,8,4,2019-20,2019,2020

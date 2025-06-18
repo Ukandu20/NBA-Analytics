@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Cut,Offensive,0.818,10,0.18,1.389,0.75,0.444,0.056,0.444,0.167,0.722,0.75,1.8,2.5,0.9,1.2,0.3
-42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.028,1.333,0.75,0.0,0.111,0.0,0.0,0.667,0.75,0.6,0.9,0.4,0.6,0.1
-42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Cut,Offensive,0.326,10,0.268,1.091,0.5,0.182,0.091,0.182,0.0,0.545,0.5,1.1,1.2,0.4,0.8,0.4
-42015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Cut,Offensive,0.132,13,0.12,1.0,0.667,0.25,0.25,0.25,0.0,0.583,0.667,0.9,0.9,0.3,0.5,0.2
-42015,2736,Luol Deng,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.051,1.222,0.571,0.222,0.0,0.222,0.0,0.667,0.571,0.6,0.8,0.3,0.5,0.2
-42015,2405,Amar'e Stoudemire,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,9,0.161,1.8,0.75,0.4,0.0,0.4,0.2,0.8,0.75,0.6,1.0,0.3,0.4,0.1
-42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,5,0.111,2.0,1.0,0.5,0.0,0.5,0.5,1.0,1.0,0.4,0.8,0.4,0.4,0.0
-42015,2617,Udonis Haslem,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,9,0.24,0.5,0.5,0.167,0.5,0.167,0.0,0.333,0.5,0.7,0.3,0.1,0.2,0.1
-42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.005,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.1,0.1,0.1,0.0
-42015,101123,Gerald Green,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,12,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
-42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Cut,Offensive,0.818,10,0.18,1.389,0.75,0.444,0.056,0.444,0.167,0.722,0.75,1.8,2.5,0.9,1.2,0.3,2015-16,2015,2016
+42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.028,1.333,0.75,0.0,0.111,0.0,0.0,0.667,0.75,0.6,0.9,0.4,0.6,0.1,2015-16,2015,2016
+42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Cut,Offensive,0.326,10,0.268,1.091,0.5,0.182,0.091,0.182,0.0,0.545,0.5,1.1,1.2,0.4,0.8,0.4,2015-16,2015,2016
+42015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Cut,Offensive,0.132,13,0.12,1.0,0.667,0.25,0.25,0.25,0.0,0.583,0.667,0.9,0.9,0.3,0.5,0.2,2015-16,2015,2016
+42015,2736,Luol Deng,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.051,1.222,0.571,0.222,0.0,0.222,0.0,0.667,0.571,0.6,0.8,0.3,0.5,0.2,2015-16,2015,2016
+42015,2405,Amar'e Stoudemire,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,9,0.161,1.8,0.75,0.4,0.0,0.4,0.2,0.8,0.75,0.6,1.0,0.3,0.4,0.1,2015-16,2015,2016
+42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,5,0.111,2.0,1.0,0.5,0.0,0.5,0.5,1.0,1.0,0.4,0.8,0.4,0.4,0.0,2015-16,2015,2016
+42015,2617,Udonis Haslem,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,9,0.24,0.5,0.5,0.167,0.5,0.167,0.0,0.333,0.5,0.7,0.3,0.1,0.2,0.1,2015-16,2015,2016
+42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.005,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.1,0.1,0.1,0.0,2015-16,2015,2016
+42015,101123,Gerald Green,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,12,0.038,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2015-16,2015,2016
+42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Cut,Offensive,0.0,14,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2015-16,2015,2016

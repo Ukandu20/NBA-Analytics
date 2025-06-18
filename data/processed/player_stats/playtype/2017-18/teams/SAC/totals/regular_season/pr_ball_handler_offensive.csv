@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.274,73,0.427,0.699,0.386,0.078,0.2,0.067,0.018,0.339,0.407,449,314,128,332,204
-22017,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.564,78,0.309,0.832,0.444,0.055,0.189,0.041,0.01,0.385,0.484,291,242,99,223,124
-22017,1628412,Frank Mason III,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.49,52,0.396,0.8,0.373,0.113,0.128,0.097,0.015,0.379,0.413,195,156,56,150,94
-22017,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.347,80,0.192,0.731,0.379,0.014,0.149,0.014,0.014,0.322,0.427,208,152,67,177,110
-22017,201588,George Hill,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.611,43,0.34,0.849,0.427,0.123,0.192,0.075,0.021,0.384,0.481,146,124,44,103,59
-22017,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.357,65,0.192,0.735,0.4,0.044,0.177,0.044,0.018,0.345,0.422,113,83,36,90,54
-22017,1628382,Justin Jackson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.49,68,0.074,0.8,0.448,0.057,0.143,0.057,0.029,0.4,0.448,35,28,13,29,16
-22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.899,58,0.072,1.0,0.5,0.042,0.042,0.042,0.0,0.458,0.545,24,24,11,22,11
-22017,1627781,Malachi Richardson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.342,25,0.102,0.727,0.4,0.0,0.091,0.0,0.0,0.364,0.4,11,8,4,10,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.274,73,0.427,0.699,0.386,0.078,0.2,0.067,0.018,0.339,0.407,449,314,128,332,204,2017-18,2017,2018
+22017,203992,Bogdan Bogdanović,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.564,78,0.309,0.832,0.444,0.055,0.189,0.041,0.01,0.385,0.484,291,242,99,223,124,2017-18,2017,2018
+22017,1628412,Frank Mason III,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.49,52,0.396,0.8,0.373,0.113,0.128,0.097,0.015,0.379,0.413,195,156,56,150,94,2017-18,2017,2018
+22017,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.347,80,0.192,0.731,0.379,0.014,0.149,0.014,0.014,0.322,0.427,208,152,67,177,110,2017-18,2017,2018
+22017,201588,George Hill,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.611,43,0.34,0.849,0.427,0.123,0.192,0.075,0.021,0.384,0.481,146,124,44,103,59,2017-18,2017,2018
+22017,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.357,65,0.192,0.735,0.4,0.044,0.177,0.044,0.018,0.345,0.422,113,83,36,90,54,2017-18,2017,2018
+22017,1628382,Justin Jackson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.49,68,0.074,0.8,0.448,0.057,0.143,0.057,0.029,0.4,0.448,35,28,13,29,16,2017-18,2017,2018
+22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.899,58,0.072,1.0,0.5,0.042,0.042,0.042,0.0,0.458,0.545,24,24,11,22,11,2017-18,2017,2018
+22017,1627781,Malachi Richardson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.342,25,0.102,0.727,0.4,0.0,0.091,0.0,0.0,0.364,0.4,11,8,4,10,6,2017-18,2017,2018

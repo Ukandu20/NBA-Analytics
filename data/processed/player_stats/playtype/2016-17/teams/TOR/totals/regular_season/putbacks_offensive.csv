@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.337,80,0.193,0.983,0.474,0.097,0.029,0.091,0.006,0.509,0.474,175,172,73,154,81
-22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.801,57,0.179,1.244,0.618,0.244,0.024,0.244,0.098,0.634,0.618,41,51,21,34,13
-22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.546,54,0.247,1.095,0.559,0.214,0.024,0.214,0.071,0.548,0.559,42,46,19,34,15
-22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.534,55,0.142,1.083,0.576,0.028,0.056,0.028,0.0,0.556,0.576,36,39,19,33,14
-22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.656,72,0.05,1.152,0.593,0.152,0.091,0.152,0.061,0.576,0.611,33,38,16,27,11
-22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.199,65,0.082,0.892,0.424,0.081,0.027,0.081,0.0,0.459,0.424,37,33,14,33,19
-22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.273,74,0.017,0.941,0.52,0.118,0.147,0.059,0.0,0.5,0.52,34,32,13,25,12
-22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.931,23,0.054,1.389,0.769,0.167,0.167,0.167,0.056,0.667,0.769,18,25,10,13,3
-22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.363,80,0.017,1.0,0.714,0.143,0.357,0.143,0.0,0.5,0.714,14,14,5,7,2
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.145,60,0.011,0.846,0.333,0.154,0.154,0.154,0.0,0.385,0.389,13,11,3,9,6
-22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.048,76,0.02,0.615,0.364,0.077,0.077,0.077,0.0,0.308,0.364,13,8,4,11,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.337,80,0.193,0.983,0.474,0.097,0.029,0.091,0.006,0.509,0.474,175,172,73,154,81,2016-17,2016,2017
+22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.801,57,0.179,1.244,0.618,0.244,0.024,0.244,0.098,0.634,0.618,41,51,21,34,13,2016-17,2016,2017
+22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.546,54,0.247,1.095,0.559,0.214,0.024,0.214,0.071,0.548,0.559,42,46,19,34,15,2016-17,2016,2017
+22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.534,55,0.142,1.083,0.576,0.028,0.056,0.028,0.0,0.556,0.576,36,39,19,33,14,2016-17,2016,2017
+22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.656,72,0.05,1.152,0.593,0.152,0.091,0.152,0.061,0.576,0.611,33,38,16,27,11,2016-17,2016,2017
+22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.199,65,0.082,0.892,0.424,0.081,0.027,0.081,0.0,0.459,0.424,37,33,14,33,19,2016-17,2016,2017
+22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.273,74,0.017,0.941,0.52,0.118,0.147,0.059,0.0,0.5,0.52,34,32,13,25,12,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.931,23,0.054,1.389,0.769,0.167,0.167,0.167,0.056,0.667,0.769,18,25,10,13,3,2016-17,2016,2017
+22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.363,80,0.017,1.0,0.714,0.143,0.357,0.143,0.0,0.5,0.714,14,14,5,7,2,2016-17,2016,2017
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.145,60,0.011,0.846,0.333,0.154,0.154,0.154,0.0,0.385,0.389,13,11,3,9,6,2016-17,2016,2017
+22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,OffRebound,Offensive,0.048,76,0.02,0.615,0.364,0.077,0.077,0.077,0.0,0.308,0.364,13,8,4,11,7,2016-17,2016,2017

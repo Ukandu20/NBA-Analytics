@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203477,Isaiah Canaan,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.776,77,0.056,1.061,0.348,0.1,0.04,0.102,0.082,0.35,0.5,0.6,0.7,0.2,0.6,0.4
-22015,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.727,73,0.07,1.042,0.475,0.06,0.12,0.063,0.021,0.44,0.563,0.7,0.7,0.3,0.5,0.3
-22015,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.643,67,0.049,1.0,0.429,0.04,0.18,0.044,0.0,0.38,0.6,0.7,0.7,0.2,0.5,0.3
-22015,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.138,77,0.082,0.662,0.263,0.03,0.09,0.031,0.0,0.26,0.351,0.8,0.6,0.2,0.7,0.5
-22015,203924,Jerami Grant,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.306,77,0.024,0.81,0.333,0.19,0.1,0.143,0.0,0.38,0.367,0.3,0.2,0.1,0.2,0.1
-22015,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.38,81,0.03,0.842,0.5,0.0,0.16,0.0,0.0,0.42,0.5,0.2,0.2,0.1,0.2,0.1
-22015,202397,Ish Smith,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.35,50,0.013,0.833,0.364,0.0,0.08,0.0,0.0,0.33,0.455,0.2,0.2,0.1,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203477,Isaiah Canaan,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.776,77,0.056,1.061,0.348,0.1,0.04,0.102,0.082,0.35,0.5,0.6,0.7,0.2,0.6,0.4,2015-16,2015,2016
+22015,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.727,73,0.07,1.042,0.475,0.06,0.12,0.063,0.021,0.44,0.563,0.7,0.7,0.3,0.5,0.3,2015-16,2015,2016
+22015,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.643,67,0.049,1.0,0.429,0.04,0.18,0.044,0.0,0.38,0.6,0.7,0.7,0.2,0.5,0.3,2015-16,2015,2016
+22015,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.138,77,0.082,0.662,0.263,0.03,0.09,0.031,0.0,0.26,0.351,0.8,0.6,0.2,0.7,0.5,2015-16,2015,2016
+22015,203924,Jerami Grant,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.306,77,0.024,0.81,0.333,0.19,0.1,0.143,0.0,0.38,0.367,0.3,0.2,0.1,0.2,0.1,2015-16,2015,2016
+22015,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.38,81,0.03,0.842,0.5,0.0,0.16,0.0,0.0,0.42,0.5,0.2,0.2,0.1,0.2,0.1,2015-16,2015,2016
+22015,202397,Ish Smith,1610612755,PHI,Philadelphia 76ers,OffScreen,Offensive,0.35,50,0.013,0.833,0.364,0.0,0.08,0.0,0.0,0.33,0.455,0.2,0.2,0.1,0.2,0.1,2015-16,2015,2016

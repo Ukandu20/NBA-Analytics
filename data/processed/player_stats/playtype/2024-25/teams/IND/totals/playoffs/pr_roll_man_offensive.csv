@@ -1,5 +1,5 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.519,21,0.289,1.134,0.507,0.146,0.061,0.146,0.024,0.537,0.545,82,93,34,67,33
-42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.37,21,0.13,1.039,0.447,0.059,0.02,0.039,0.0,0.451,0.532,51,53,21,47,26
-42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.185,21,0.097,0.913,0.364,0.0,0.043,0.0,0.0,0.348,0.477,23,21,8,22,14
-42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.296,21,0.08,0.933,0.5,0.067,0.133,0.0,0.0,0.467,0.542,15,14,6,12,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.519,21,0.289,1.134,0.507,0.146,0.061,0.146,0.024,0.537,0.545,82,93,34,67,33,2024-25,2024,2025
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.37,21,0.13,1.039,0.447,0.059,0.02,0.039,0.0,0.451,0.532,51,53,21,47,26,2024-25,2024,2025
+42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.185,21,0.097,0.913,0.364,0.0,0.043,0.0,0.0,0.348,0.477,23,21,8,22,14,2024-25,2024,2025
+42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.296,21,0.08,0.933,0.5,0.067,0.133,0.0,0.0,0.467,0.542,15,14,6,12,6,2024-25,2024,2025

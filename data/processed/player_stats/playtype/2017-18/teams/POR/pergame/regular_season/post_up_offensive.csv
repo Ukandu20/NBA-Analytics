@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.279,79,0.223,0.77,0.42,0.115,0.155,0.101,0.018,0.403,0.42,3.5,2.7,1.1,2.6,1.5
-22017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.745,79,0.158,0.965,0.5,0.088,0.123,0.088,0.018,0.474,0.5,1.4,1.4,0.6,1.2,0.6
-22017,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.614,59,0.121,0.909,0.452,0.159,0.136,0.114,0.0,0.477,0.452,0.7,0.7,0.2,0.5,0.3
-22017,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.074,66,0.165,0.583,0.348,0.067,0.167,0.033,0.0,0.317,0.348,0.9,0.5,0.2,0.7,0.5
-22017,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.114,78,0.055,0.636,0.313,0.136,0.136,0.136,0.0,0.364,0.313,0.3,0.2,0.1,0.2,0.1
-22017,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.236,33,0.129,0.75,0.429,0.0,0.125,0.0,0.0,0.375,0.429,0.5,0.4,0.2,0.4,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.279,79,0.223,0.77,0.42,0.115,0.155,0.101,0.018,0.403,0.42,3.5,2.7,1.1,2.6,1.5,2017-18,2017,2018
+22017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.745,79,0.158,0.965,0.5,0.088,0.123,0.088,0.018,0.474,0.5,1.4,1.4,0.6,1.2,0.6,2017-18,2017,2018
+22017,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.614,59,0.121,0.909,0.452,0.159,0.136,0.114,0.0,0.477,0.452,0.7,0.7,0.2,0.5,0.3,2017-18,2017,2018
+22017,1628380,Zach Collins,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.074,66,0.165,0.583,0.348,0.067,0.167,0.033,0.0,0.317,0.348,0.9,0.5,0.2,0.7,0.5,2017-18,2017,2018
+22017,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.114,78,0.055,0.636,0.313,0.136,0.136,0.136,0.0,0.364,0.313,0.3,0.2,0.1,0.2,0.1,2017-18,2017,2018
+22017,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Postup,Offensive,0.236,33,0.129,0.75,0.429,0.0,0.125,0.0,0.0,0.375,0.429,0.5,0.4,0.2,0.4,0.2,2017-18,2017,2018

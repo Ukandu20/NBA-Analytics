@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.764,80,0.31,1.054,0.432,0.05,0.06,0.046,0.008,0.43,0.539,500,527,194,449,255
-22015,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.923,79,0.142,1.196,0.467,0.06,0.09,0.053,0.021,0.44,0.636,285,341,115,246,131
-22015,2571,Leandro Barbosa,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.61,68,0.156,0.986,0.453,0.06,0.04,0.071,0.029,0.44,0.516,70,69,29,64,35
-22015,201578,Marreese Speights,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.402,72,0.107,0.852,0.382,0.07,0.03,0.066,0.0,0.41,0.4,61,52,21,55,34
-22015,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.846,81,0.023,1.107,0.478,0.04,0.14,0.036,0.0,0.43,0.63,28,31,11,23,12
-22015,203084,Harrison Barnes,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.472,66,0.041,0.903,0.4,0.03,0.03,0.032,0.032,0.39,0.45,31,28,12,30,18
-22015,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.71,65,0.054,1.038,0.417,0.04,0.08,0.038,0.038,0.38,0.542,26,27,10,24,14
-22015,201575,Brandon Rush,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.813,73,0.077,1.083,0.455,0.0,0.08,0.0,0.0,0.42,0.591,24,26,10,22,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.764,80,0.31,1.054,0.432,0.05,0.06,0.046,0.008,0.43,0.539,500,527,194,449,255,2015-16,2015,2016
+22015,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.923,79,0.142,1.196,0.467,0.06,0.09,0.053,0.021,0.44,0.636,285,341,115,246,131,2015-16,2015,2016
+22015,2571,Leandro Barbosa,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.61,68,0.156,0.986,0.453,0.06,0.04,0.071,0.029,0.44,0.516,70,69,29,64,35,2015-16,2015,2016
+22015,201578,Marreese Speights,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.402,72,0.107,0.852,0.382,0.07,0.03,0.066,0.0,0.41,0.4,61,52,21,55,34,2015-16,2015,2016
+22015,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.846,81,0.023,1.107,0.478,0.04,0.14,0.036,0.0,0.43,0.63,28,31,11,23,12,2015-16,2015,2016
+22015,203084,Harrison Barnes,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.472,66,0.041,0.903,0.4,0.03,0.03,0.032,0.032,0.39,0.45,31,28,12,30,18,2015-16,2015,2016
+22015,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.71,65,0.054,1.038,0.417,0.04,0.08,0.038,0.038,0.38,0.542,26,27,10,24,14,2015-16,2015,2016
+22015,201575,Brandon Rush,1610612744,GSW,Golden State Warriors,OffScreen,Offensive,0.813,73,0.077,1.083,0.455,0.0,0.08,0.0,0.0,0.42,0.591,24,26,10,22,12,2015-16,2015,2016

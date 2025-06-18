@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.912,7,0.463,1.068,0.568,0.091,0.09,0.09,0.023,0.55,0.568,6.3,7.0,3.3,5.3,2.0
-42015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.242,7,0.207,0.75,0.3,0.25,0.0,0.25,0.083,0.33,0.3,1.7,1.0,0.4,1.4,1.0
-42015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,7,0.036,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.3,0.3,0.0
-42015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,5,0.2,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,0.8,0.0,0.6,0.6,0.0
-42015,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,5,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.0
-42015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,7,0.073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,-0.4,0.6,1.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.912,7,0.463,1.068,0.568,0.091,0.09,0.09,0.023,0.55,0.568,6.3,7.0,3.3,5.3,2.0,2015-16,2015,2016
+42015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.242,7,0.207,0.75,0.3,0.25,0.0,0.25,0.083,0.33,0.3,1.7,1.0,0.4,1.4,1.0,2015-16,2015,2016
+42015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,7,0.036,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.0,0.3,0.3,0.0,2015-16,2015,2016
+42015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,5,0.2,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.333,0.8,0.0,0.6,0.6,0.0,2015-16,2015,2016
+42015,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,5,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.0,2015-16,2015,2016
+42015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.0,7,0.073,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,-0.4,0.6,1.0,2015-16,2015,2016

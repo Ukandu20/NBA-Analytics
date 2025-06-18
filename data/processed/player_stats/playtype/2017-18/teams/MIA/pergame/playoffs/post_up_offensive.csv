@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.097,1.222,0.625,0.111,0.0,0.111,0.0,0.667,0.625,1.8,2.2,1.0,1.6,0.6
-42017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.033,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2
-42017,201949,James Johnson,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.017,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0
-42017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.053,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2
-42017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.052,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.6,0.6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.097,1.222,0.625,0.111,0.0,0.111,0.0,0.667,0.625,1.8,2.2,1.0,1.6,0.6,2017-18,2017,2018
+42017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.033,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.4,0.4,0.2,0.4,0.2,2017-18,2017,2018
+42017,201949,James Johnson,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.017,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,2017-18,2017,2018
+42017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.053,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2,2017-18,2017,2018
+42017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,5,0.052,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.6,0.6,2017-18,2017,2018

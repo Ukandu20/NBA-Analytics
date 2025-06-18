@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.828,82,0.08,0.966,0.41,0.199,0.116,0.137,0.034,0.452,0.443,146,141,43,105,62
-22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.68,81,0.105,0.895,0.4,0.143,0.076,0.143,0.029,0.438,0.4,105,94,34,85,51
-22015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.117,81,0.058,0.579,0.267,0.123,0.088,0.123,0.0,0.316,0.267,57,33,12,45,33
-22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.271,76,0.039,0.696,0.325,0.065,0.065,0.065,0.0,0.348,0.363,46,32,13,40,27
-22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.213,61,0.047,0.656,0.259,0.094,0.063,0.094,0.0,0.313,0.315,32,21,7,27,20
-22015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.952,79,0.031,1.111,0.625,0.0,0.111,0.0,0.0,0.556,0.625,18,20,10,16,6
-22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.223,73,0.021,0.667,0.25,0.095,0.0,0.095,0.048,0.286,0.275,21,14,5,20,15
-22015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.031,69,0.029,0.4,0.235,0.0,0.15,0.0,0.0,0.2,0.235,20,8,4,17,13
-22015,101135,David Lee,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.041,30,0.055,0.429,0.231,0.0,0.071,0.0,0.0,0.214,0.231,14,6,3,13,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.828,82,0.08,0.966,0.41,0.199,0.116,0.137,0.034,0.452,0.443,146,141,43,105,62,2015-16,2015,2016
+22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.68,81,0.105,0.895,0.4,0.143,0.076,0.143,0.029,0.438,0.4,105,94,34,85,51,2015-16,2015,2016
+22015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.117,81,0.058,0.579,0.267,0.123,0.088,0.123,0.0,0.316,0.267,57,33,12,45,33,2015-16,2015,2016
+22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.271,76,0.039,0.696,0.325,0.065,0.065,0.065,0.0,0.348,0.363,46,32,13,40,27,2015-16,2015,2016
+22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.213,61,0.047,0.656,0.259,0.094,0.063,0.094,0.0,0.313,0.315,32,21,7,27,20,2015-16,2015,2016
+22015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.952,79,0.031,1.111,0.625,0.0,0.111,0.0,0.0,0.556,0.625,18,20,10,16,6,2015-16,2015,2016
+22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.223,73,0.021,0.667,0.25,0.095,0.0,0.095,0.048,0.286,0.275,21,14,5,20,15,2015-16,2015,2016
+22015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.031,69,0.029,0.4,0.235,0.0,0.15,0.0,0.0,0.2,0.235,20,8,4,17,13,2015-16,2015,2016
+22015,101135,David Lee,1610612738,BOS,Boston Celtics,Isolation,Offensive,0.041,30,0.055,0.429,0.231,0.0,0.071,0.0,0.0,0.214,0.231,14,6,3,13,10,2015-16,2015,2016

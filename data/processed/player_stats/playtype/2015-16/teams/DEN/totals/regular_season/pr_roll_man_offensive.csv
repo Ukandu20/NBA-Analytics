@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.479,80,0.195,0.994,0.489,0.13,0.065,0.123,0.058,0.487,0.489,154,153,65,133,68
-22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.781,67,0.162,1.129,0.612,0.182,0.068,0.182,0.03,0.591,0.612,132,149,63,103,40
-22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.721,60,0.246,1.104,0.505,0.104,0.043,0.096,0.009,0.53,0.525,115,127,50,99,49
-22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.311,70,0.208,0.925,0.435,0.05,0.067,0.05,0.017,0.425,0.472,120,111,47,108,61
-22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.539,32,0.245,1.012,0.516,0.205,0.096,0.181,0.072,0.518,0.516,83,84,33,64,31
-22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.895,53,0.04,1.256,0.483,0.282,0.026,0.282,0.051,0.59,0.569,39,49,14,29,15
-22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.708,20,0.276,1.095,0.533,0.262,0.048,0.238,0.024,0.595,0.533,42,46,16,30,14
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.479,80,0.195,0.994,0.489,0.13,0.065,0.123,0.058,0.487,0.489,154,153,65,133,68,2015-16,2015,2016
+22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.781,67,0.162,1.129,0.612,0.182,0.068,0.182,0.03,0.591,0.612,132,149,63,103,40,2015-16,2015,2016
+22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.721,60,0.246,1.104,0.505,0.104,0.043,0.096,0.009,0.53,0.525,115,127,50,99,49,2015-16,2015,2016
+22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.311,70,0.208,0.925,0.435,0.05,0.067,0.05,0.017,0.425,0.472,120,111,47,108,61,2015-16,2015,2016
+22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.539,32,0.245,1.012,0.516,0.205,0.096,0.181,0.072,0.518,0.516,83,84,33,64,31,2015-16,2015,2016
+22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.895,53,0.04,1.256,0.483,0.282,0.026,0.282,0.051,0.59,0.569,39,49,14,29,15,2015-16,2015,2016
+22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.708,20,0.276,1.095,0.533,0.262,0.048,0.238,0.024,0.595,0.533,42,46,16,30,14,2015-16,2015,2016

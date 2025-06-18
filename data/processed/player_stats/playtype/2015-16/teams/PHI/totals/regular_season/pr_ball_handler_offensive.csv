@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202397,Ish Smith,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.352,50,0.442,0.71,0.375,0.044,0.147,0.037,0.017,0.334,0.399,407,289,126,336,210
-22015,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.583,81,0.46,0.808,0.498,0.017,0.226,0.01,0.007,0.387,0.521,287,232,109,219,110
-22015,203477,Isaiah Canaan,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.469,77,0.203,0.758,0.313,0.118,0.157,0.112,0.011,0.337,0.382,178,135,41,131,90
-22015,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.162,73,0.155,0.598,0.324,0.093,0.234,0.084,0.019,0.29,0.351,107,64,24,74,50
-22015,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.124,77,0.066,0.558,0.3,0.058,0.192,0.058,0.019,0.269,0.313,52,29,12,40,28
-22015,203088,Kendall Marshall,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.048,30,0.293,0.408,0.31,0.02,0.388,0.02,0.0,0.204,0.31,49,20,9,29,20
-22015,203924,Jerami Grant,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.234,77,0.027,0.652,0.333,0.217,0.304,0.217,0.043,0.348,0.333,23,15,4,12,8
-22015,203515,Phil Pressey,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.062,14,0.4,0.469,0.238,0.063,0.281,0.063,0.0,0.219,0.286,32,15,5,21,16
-22015,203100,Tony Wroten,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.045,8,0.33,0.405,0.238,0.162,0.27,0.162,0.0,0.216,0.238,37,15,5,21,16
-22015,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.007,67,0.045,0.262,0.227,0.0,0.476,0.0,0.0,0.119,0.25,42,11,5,22,17
-22015,203960,JaKarr Sampson,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.069,47,0.057,0.471,0.111,0.235,0.235,0.176,0.0,0.294,0.111,17,8,1,9,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202397,Ish Smith,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.352,50,0.442,0.71,0.375,0.044,0.147,0.037,0.017,0.334,0.399,407,289,126,336,210,2015-16,2015,2016
+22015,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.583,81,0.46,0.808,0.498,0.017,0.226,0.01,0.007,0.387,0.521,287,232,109,219,110,2015-16,2015,2016
+22015,203477,Isaiah Canaan,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.469,77,0.203,0.758,0.313,0.118,0.157,0.112,0.011,0.337,0.382,178,135,41,131,90,2015-16,2015,2016
+22015,203917,Nik Stauskas,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.162,73,0.155,0.598,0.324,0.093,0.234,0.084,0.019,0.29,0.351,107,64,24,74,50,2015-16,2015,2016
+22015,203138,Hollis Thompson,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.124,77,0.066,0.558,0.3,0.058,0.192,0.058,0.019,0.269,0.313,52,29,12,40,28,2015-16,2015,2016
+22015,203088,Kendall Marshall,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.048,30,0.293,0.408,0.31,0.02,0.388,0.02,0.0,0.204,0.31,49,20,9,29,20,2015-16,2015,2016
+22015,203924,Jerami Grant,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.234,77,0.027,0.652,0.333,0.217,0.304,0.217,0.043,0.348,0.333,23,15,4,12,8,2015-16,2015,2016
+22015,203515,Phil Pressey,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.062,14,0.4,0.469,0.238,0.063,0.281,0.063,0.0,0.219,0.286,32,15,5,21,16,2015-16,2015,2016
+22015,203100,Tony Wroten,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.045,8,0.33,0.405,0.238,0.162,0.27,0.162,0.0,0.216,0.238,37,15,5,21,16,2015-16,2015,2016
+22015,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.007,67,0.045,0.262,0.227,0.0,0.476,0.0,0.0,0.119,0.25,42,11,5,22,17,2015-16,2015,2016
+22015,203960,JaKarr Sampson,1610612755,PHI,Philadelphia 76ers,PRBallHandler,Offensive,0.069,47,0.057,0.471,0.111,0.235,0.235,0.176,0.0,0.294,0.111,17,8,1,9,8,2015-16,2015,2016

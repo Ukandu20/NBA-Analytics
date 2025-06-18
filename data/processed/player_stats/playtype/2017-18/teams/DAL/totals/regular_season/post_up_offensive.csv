@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.681,77,0.168,0.939,0.457,0.148,0.115,0.123,0.025,0.467,0.457,244,229,85,186,101
-22017,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.775,77,0.191,0.975,0.469,0.154,0.086,0.154,0.031,0.494,0.469,162,158,60,128,68
-22017,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.848,63,0.088,1.014,0.473,0.208,0.069,0.181,0.042,0.528,0.473,72,73,26,55,29
-22017,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.956,72,0.063,1.13,0.625,0.217,0.13,0.217,0.043,0.609,0.625,23,26,10,16,6
-22017,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.716,79,0.039,0.955,0.5,0.273,0.227,0.227,0.045,0.455,0.5,22,21,6,12,6
-22017,1628405,Johnathan Motley,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.833,11,0.186,1.0,0.583,0.222,0.111,0.111,0.0,0.556,0.583,18,18,7,12,5
-22017,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.181,69,0.013,0.706,0.375,0.0,0.059,0.0,0.0,0.353,0.375,17,12,6,16,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.681,77,0.168,0.939,0.457,0.148,0.115,0.123,0.025,0.467,0.457,244,229,85,186,101,2017-18,2017,2018
+22017,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.775,77,0.191,0.975,0.469,0.154,0.086,0.154,0.031,0.494,0.469,162,158,60,128,68,2017-18,2017,2018
+22017,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.848,63,0.088,1.014,0.473,0.208,0.069,0.181,0.042,0.528,0.473,72,73,26,55,29,2017-18,2017,2018
+22017,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.956,72,0.063,1.13,0.625,0.217,0.13,0.217,0.043,0.609,0.625,23,26,10,16,6,2017-18,2017,2018
+22017,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.716,79,0.039,0.955,0.5,0.273,0.227,0.227,0.045,0.455,0.5,22,21,6,12,6,2017-18,2017,2018
+22017,1628405,Johnathan Motley,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.833,11,0.186,1.0,0.583,0.222,0.111,0.111,0.0,0.556,0.583,18,18,7,12,5,2017-18,2017,2018
+22017,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.181,69,0.013,0.706,0.375,0.0,0.059,0.0,0.0,0.353,0.375,17,12,6,16,10,2017-18,2017,2018

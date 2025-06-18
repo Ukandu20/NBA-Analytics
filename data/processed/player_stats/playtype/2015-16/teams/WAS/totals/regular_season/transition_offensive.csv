@@ -1,16 +1,16 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.308,77,0.235,1.019,0.564,0.161,0.187,0.128,0.04,0.502,0.588,422,430,164,291,127
-22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.726,75,0.246,1.203,0.533,0.159,0.072,0.159,0.034,0.551,0.615,207,249,88,165,77
-22015,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Transition,Offensive,0.47,82,0.259,1.088,0.571,0.195,0.13,0.177,0.056,0.544,0.591,215,234,88,154,66
-22015,202066,Garrett Temple,1610612764,WAS,Washington Wizards,Transition,Offensive,0.422,80,0.317,1.076,0.476,0.213,0.066,0.188,0.025,0.533,0.531,197,212,70,147,77
-22015,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.675,55,0.175,1.182,0.507,0.135,0.041,0.118,0.024,0.524,0.594,170,201,73,144,71
-22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,Transition,Offensive,0.494,81,0.204,1.097,0.46,0.089,0.105,0.065,0.008,0.435,0.605,124,136,46,100,54
-22015,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.78,75,0.076,1.23,0.643,0.162,0.081,0.162,0.0,0.649,0.643,74,91,36,56,20
-22015,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.532,63,0.215,1.123,0.558,0.246,0.088,0.228,0.088,0.526,0.593,57,64,24,43,19
-22015,202390,Gary Neal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.375,40,0.138,1.058,0.419,0.135,0.058,0.096,0.019,0.462,0.512,52,55,18,43,25
-22015,2403,Nene,1610612764,WAS,Washington Wizards,Transition,Offensive,0.589,57,0.075,1.146,0.679,0.293,0.098,0.293,0.073,0.61,0.679,41,47,19,28,9
-22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.313,27,0.119,1.024,0.485,0.119,0.095,0.095,0.0,0.5,0.53,42,43,16,33,17
-22015,2743,Kris Humphries,1610612764,WAS,Washington Wizards,Transition,Offensive,0.696,28,0.133,1.192,0.526,0.192,0.077,0.154,0.0,0.577,0.605,26,31,10,19,9
-22015,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Transition,Offensive,0.94,14,0.127,1.375,0.6,0.063,0.0,0.063,0.0,0.625,0.7,16,22,9,15,6
-22015,101187,Alan Anderson,1610612764,WAS,Washington Wizards,Transition,Offensive,0.267,13,0.182,1.0,0.364,0.083,0.0,0.083,0.0,0.417,0.455,12,12,4,11,7
-22015,2400,Drew Gooden,1610612764,WAS,Washington Wizards,Transition,Offensive,0.05,30,0.091,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,11,8,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.308,77,0.235,1.019,0.564,0.161,0.187,0.128,0.04,0.502,0.588,422,430,164,291,127,2015-16,2015,2016
+22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.726,75,0.246,1.203,0.533,0.159,0.072,0.159,0.034,0.551,0.615,207,249,88,165,77,2015-16,2015,2016
+22015,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Transition,Offensive,0.47,82,0.259,1.088,0.571,0.195,0.13,0.177,0.056,0.544,0.591,215,234,88,154,66,2015-16,2015,2016
+22015,202066,Garrett Temple,1610612764,WAS,Washington Wizards,Transition,Offensive,0.422,80,0.317,1.076,0.476,0.213,0.066,0.188,0.025,0.533,0.531,197,212,70,147,77,2015-16,2015,2016
+22015,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.675,55,0.175,1.182,0.507,0.135,0.041,0.118,0.024,0.524,0.594,170,201,73,144,71,2015-16,2015,2016
+22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,Transition,Offensive,0.494,81,0.204,1.097,0.46,0.089,0.105,0.065,0.008,0.435,0.605,124,136,46,100,54,2015-16,2015,2016
+22015,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.78,75,0.076,1.23,0.643,0.162,0.081,0.162,0.0,0.649,0.643,74,91,36,56,20,2015-16,2015,2016
+22015,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.532,63,0.215,1.123,0.558,0.246,0.088,0.228,0.088,0.526,0.593,57,64,24,43,19,2015-16,2015,2016
+22015,202390,Gary Neal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.375,40,0.138,1.058,0.419,0.135,0.058,0.096,0.019,0.462,0.512,52,55,18,43,25,2015-16,2015,2016
+22015,2403,Nene,1610612764,WAS,Washington Wizards,Transition,Offensive,0.589,57,0.075,1.146,0.679,0.293,0.098,0.293,0.073,0.61,0.679,41,47,19,28,9,2015-16,2015,2016
+22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.313,27,0.119,1.024,0.485,0.119,0.095,0.095,0.0,0.5,0.53,42,43,16,33,17,2015-16,2015,2016
+22015,2743,Kris Humphries,1610612764,WAS,Washington Wizards,Transition,Offensive,0.696,28,0.133,1.192,0.526,0.192,0.077,0.154,0.0,0.577,0.605,26,31,10,19,9,2015-16,2015,2016
+22015,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Transition,Offensive,0.94,14,0.127,1.375,0.6,0.063,0.0,0.063,0.0,0.625,0.7,16,22,9,15,6,2015-16,2015,2016
+22015,101187,Alan Anderson,1610612764,WAS,Washington Wizards,Transition,Offensive,0.267,13,0.182,1.0,0.364,0.083,0.0,0.083,0.0,0.417,0.455,12,12,4,11,7,2015-16,2015,2016
+22015,2400,Drew Gooden,1610612764,WAS,Washington Wizards,Transition,Offensive,0.05,30,0.091,0.727,0.3,0.0,0.091,0.0,0.0,0.273,0.4,11,8,3,10,7,2015-16,2015,2016

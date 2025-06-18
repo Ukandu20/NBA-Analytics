@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.343,76,0.052,0.754,0.388,0.049,0.164,0.049,0.016,0.344,0.439,0.8,0.6,0.3,0.6,0.4
-22015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.407,73,0.067,0.784,0.341,0.039,0.098,0.039,0.0,0.333,0.42,0.7,0.5,0.2,0.6,0.4
-22015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.26,80,0.033,0.725,0.333,0.125,0.2,0.15,0.025,0.325,0.389,0.5,0.4,0.1,0.3,0.2
-22015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.081,79,0.021,0.545,0.207,0.061,0.091,0.061,0.03,0.212,0.276,0.4,0.2,0.1,0.4,0.3
-22015,201943,Brandon Jennings,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.523,23,0.077,0.857,0.4,0.071,0.214,0.071,0.0,0.357,0.5,0.6,0.5,0.2,0.4,0.3
-22015,1626199,Darrun Hilliard,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.877,38,0.06,1.1,0.5,0.0,0.0,0.0,0.0,0.5,0.55,0.3,0.3,0.1,0.3,0.1
-22015,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.775,37,0.098,1.0,0.444,0.091,0.091,0.091,0.0,0.455,0.5,0.3,0.3,0.1,0.2,0.1
-22015,2581,Steve Blake,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.064,58,0.064,0.524,0.263,0.0,0.095,0.0,0.0,0.238,0.289,0.4,0.2,0.1,0.3,0.2
-22015,101141,Ersan Ilyasova,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.23,52,0.016,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.438,0.2,0.1,0.1,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.343,76,0.052,0.754,0.388,0.049,0.164,0.049,0.016,0.344,0.439,0.8,0.6,0.3,0.6,0.4,2015-16,2015,2016
+22015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.407,73,0.067,0.784,0.341,0.039,0.098,0.039,0.0,0.333,0.42,0.7,0.5,0.2,0.6,0.4,2015-16,2015,2016
+22015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.26,80,0.033,0.725,0.333,0.125,0.2,0.15,0.025,0.325,0.389,0.5,0.4,0.1,0.3,0.2,2015-16,2015,2016
+22015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.081,79,0.021,0.545,0.207,0.061,0.091,0.061,0.03,0.212,0.276,0.4,0.2,0.1,0.4,0.3,2015-16,2015,2016
+22015,201943,Brandon Jennings,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.523,23,0.077,0.857,0.4,0.071,0.214,0.071,0.0,0.357,0.5,0.6,0.5,0.2,0.4,0.3,2015-16,2015,2016
+22015,1626199,Darrun Hilliard,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.877,38,0.06,1.1,0.5,0.0,0.0,0.0,0.0,0.5,0.55,0.3,0.3,0.1,0.3,0.1,2015-16,2015,2016
+22015,203493,Reggie Bullock Jr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.775,37,0.098,1.0,0.444,0.091,0.091,0.091,0.0,0.455,0.5,0.3,0.3,0.1,0.2,0.1,2015-16,2015,2016
+22015,2581,Steve Blake,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.064,58,0.064,0.524,0.263,0.0,0.095,0.0,0.0,0.238,0.289,0.4,0.2,0.1,0.3,0.2,2015-16,2015,2016
+22015,101141,Ersan Ilyasova,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.23,52,0.016,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.438,0.2,0.1,0.1,0.2,0.1,2015-16,2015,2016

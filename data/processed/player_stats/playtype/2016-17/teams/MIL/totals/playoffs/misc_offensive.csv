@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.059,0.778,1.0,0.111,0.556,0.111,0.0,0.444,0.01,9,7,3,3,0
-42016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.065,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,3,4,2,2,0
-42016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.065,0.8,1.0,0.4,0.4,0.0,0.0,0.4,0.01,5,4,1,1,0
-42016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,4,0.042,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.045,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,3,2,1,2,1
-42016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.019,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.059,0.778,1.0,0.111,0.556,0.111,0.0,0.444,0.01,9,7,3,3,0,2016-17,2016,2017
+42016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.065,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,3,4,2,2,0,2016-17,2016,2017
+42016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.065,0.8,1.0,0.4,0.4,0.0,0.0,0.4,0.01,5,4,1,1,0,2016-17,2016,2017
+42016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,4,0.042,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2016-17,2016,2017
+42016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.045,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,3,2,1,2,1,2016-17,2016,2017
+42016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,203521,Matthew Dellavedova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.0,6,0.019,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2016-17,2016,2017

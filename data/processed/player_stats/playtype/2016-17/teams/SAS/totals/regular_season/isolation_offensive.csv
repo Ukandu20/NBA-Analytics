@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.722,74,0.126,0.939,0.423,0.155,0.089,0.16,0.038,0.446,0.443,213,200,71,168,97
-22016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.22,78,0.116,0.646,0.34,0.077,0.138,0.092,0.0,0.338,0.35,65,42,17,50,33
-22016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.316,63,0.065,0.717,0.389,0.087,0.152,0.065,0.022,0.37,0.389,46,33,14,36,22
-22016,101135,David Lee,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.826,79,0.053,1.0,0.522,0.103,0.103,0.103,0.0,0.517,0.522,29,29,12,23,11
-22016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.333,69,0.057,0.727,0.286,0.091,0.061,0.0,0.0,0.333,0.321,33,24,8,28,20
-22016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.136,72,0.034,0.558,0.257,0.07,0.116,0.07,0.0,0.279,0.257,43,24,9,35,26
-22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.98,72,0.054,1.267,0.5,0.467,0.133,0.333,0.0,0.667,0.5,15,19,3,6,3
-22016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.98,64,0.02,1.267,0.727,0.267,0.0,0.2,0.0,0.667,0.727,15,19,8,11,3
-22016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.071,80,0.02,0.467,0.2,0.067,0.267,0.067,0.0,0.2,0.25,15,7,2,10,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.722,74,0.126,0.939,0.423,0.155,0.089,0.16,0.038,0.446,0.443,213,200,71,168,97,2016-17,2016,2017
+22016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.22,78,0.116,0.646,0.34,0.077,0.138,0.092,0.0,0.338,0.35,65,42,17,50,33,2016-17,2016,2017
+22016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.316,63,0.065,0.717,0.389,0.087,0.152,0.065,0.022,0.37,0.389,46,33,14,36,22,2016-17,2016,2017
+22016,101135,David Lee,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.826,79,0.053,1.0,0.522,0.103,0.103,0.103,0.0,0.517,0.522,29,29,12,23,11,2016-17,2016,2017
+22016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.333,69,0.057,0.727,0.286,0.091,0.061,0.0,0.0,0.333,0.321,33,24,8,28,20,2016-17,2016,2017
+22016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.136,72,0.034,0.558,0.257,0.07,0.116,0.07,0.0,0.279,0.257,43,24,9,35,26,2016-17,2016,2017
+22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.98,72,0.054,1.267,0.5,0.467,0.133,0.333,0.0,0.667,0.5,15,19,3,6,3,2016-17,2016,2017
+22016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.98,64,0.02,1.267,0.727,0.267,0.0,0.2,0.0,0.667,0.727,15,19,8,11,3,2016-17,2016,2017
+22016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.071,80,0.02,0.467,0.2,0.067,0.267,0.067,0.0,0.2,0.25,15,7,2,10,8,2016-17,2016,2017

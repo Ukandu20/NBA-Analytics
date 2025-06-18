@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.881,73,0.288,1.217,0.59,0.211,0.063,0.194,0.04,0.623,0.59,175,213,79,134,55
-22015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.795,81,0.148,1.131,0.463,0.046,0.038,0.046,0.015,0.462,0.57,130,147,56,121,65
-22015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.507,81,0.205,1.0,0.419,0.075,0.06,0.075,0.015,0.429,0.513,133,133,49,117,68
-22015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.671,47,0.169,1.081,0.538,0.081,0.02,0.081,0.02,0.545,0.538,99,107,49,91,42
-22015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.543,57,0.181,1.014,0.426,0.085,0.07,0.07,0.014,0.437,0.508,71,72,26,61,35
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.881,73,0.288,1.217,0.59,0.211,0.063,0.194,0.04,0.623,0.59,175,213,79,134,55,2015-16,2015,2016
+22015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.795,81,0.148,1.131,0.463,0.046,0.038,0.046,0.015,0.462,0.57,130,147,56,121,65,2015-16,2015,2016
+22015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.507,81,0.205,1.0,0.419,0.075,0.06,0.075,0.015,0.429,0.513,133,133,49,117,68,2015-16,2015,2016
+22015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.671,47,0.169,1.081,0.538,0.081,0.02,0.081,0.02,0.545,0.538,99,107,49,91,42,2015-16,2015,2016
+22015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.543,57,0.181,1.014,0.426,0.085,0.07,0.07,0.014,0.437,0.508,71,72,26,61,35,2015-16,2015,2016

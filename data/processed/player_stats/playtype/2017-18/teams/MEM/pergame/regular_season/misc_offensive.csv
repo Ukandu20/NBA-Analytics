@@ -1,16 +1,16 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.429,73,0.059,0.45,0.083,0.25,0.6,0.0,0.0,0.25,0.00083,1.1,0.5,0.0,0.2,0.2
-22017,201936,Tyreke Evans,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.677,52,0.048,0.612,0.357,0.265,0.449,0.061,0.0,0.367,0.00393,0.9,0.6,0.1,0.3,0.2
-22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.307,82,0.065,0.381,0.227,0.143,0.508,0.016,0.0,0.206,0.0027300000000000002,0.8,0.3,0.1,0.3,0.2
-22017,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.293,66,0.077,0.375,0.133,0.188,0.5,0.021,0.0,0.208,0.00167,0.7,0.3,0.0,0.2,0.2
-22017,203463,Ben McLemore,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.419,56,0.074,0.441,0.333,0.147,0.5,0.0,0.0,0.265,0.00333,0.6,0.3,0.1,0.2,0.1
-22017,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.239,73,0.068,0.349,0.2,0.14,0.628,0.0,0.0,0.186,0.002,0.6,0.2,0.0,0.1,0.1
-22017,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.398,45,0.078,0.435,0.0,0.261,0.652,0.043,0.0,0.261,0.0,0.5,0.2,0.0,0.0,0.0
-22017,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.119,55,0.062,0.263,0.625,0.026,0.763,0.0,0.0,0.132,0.00625,0.7,0.2,0.1,0.1,0.1
-22017,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.124,56,0.059,0.265,0.0,0.147,0.647,0.059,0.0,0.147,0.0,0.6,0.2,0.0,0.1,0.1
-22017,1628424,Kobi Simmons,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.368,32,0.078,0.421,0.333,0.105,0.579,0.053,0.0,0.211,0.00333,0.6,0.3,0.1,0.2,0.1
-22017,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.244,62,0.062,0.35,1.0,0.25,0.75,0.05,0.05,0.2,0.01,0.3,0.1,0.0,0.0,0.0
-22017,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.199,36,0.109,0.318,0.333,0.136,0.727,0.0,0.0,0.182,0.00333,0.6,0.2,0.0,0.1,0.1
-22017,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.159,35,0.049,0.294,0.0,0.176,0.588,0.0,0.0,0.176,0.0,0.5,0.1,0.0,0.1,0.1
-22017,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.171,36,0.036,0.3,0.25,0.0,0.6,0.0,0.0,0.1,0.00375,0.3,0.1,0.0,0.1,0.1
-22017,1627988,Myke Henry,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.13,20,0.083,0.273,0.333,0.0,0.727,0.0,0.0,0.091,0.005,0.6,0.2,0.1,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.429,73,0.059,0.45,0.083,0.25,0.6,0.0,0.0,0.25,0.00083,1.1,0.5,0.0,0.2,0.2,2017-18,2017,2018
+22017,201936,Tyreke Evans,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.677,52,0.048,0.612,0.357,0.265,0.449,0.061,0.0,0.367,0.00393,0.9,0.6,0.1,0.3,0.2,2017-18,2017,2018
+22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.307,82,0.065,0.381,0.227,0.143,0.508,0.016,0.0,0.206,0.0027300000000000002,0.8,0.3,0.1,0.3,0.2,2017-18,2017,2018
+22017,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.293,66,0.077,0.375,0.133,0.188,0.5,0.021,0.0,0.208,0.00167,0.7,0.3,0.0,0.2,0.2,2017-18,2017,2018
+22017,203463,Ben McLemore,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.419,56,0.074,0.441,0.333,0.147,0.5,0.0,0.0,0.265,0.00333,0.6,0.3,0.1,0.2,0.1,2017-18,2017,2018
+22017,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.239,73,0.068,0.349,0.2,0.14,0.628,0.0,0.0,0.186,0.002,0.6,0.2,0.0,0.1,0.1,2017-18,2017,2018
+22017,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.398,45,0.078,0.435,0.0,0.261,0.652,0.043,0.0,0.261,0.0,0.5,0.2,0.0,0.0,0.0,2017-18,2017,2018
+22017,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.119,55,0.062,0.263,0.625,0.026,0.763,0.0,0.0,0.132,0.00625,0.7,0.2,0.1,0.1,0.1,2017-18,2017,2018
+22017,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.124,56,0.059,0.265,0.0,0.147,0.647,0.059,0.0,0.147,0.0,0.6,0.2,0.0,0.1,0.1,2017-18,2017,2018
+22017,1628424,Kobi Simmons,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.368,32,0.078,0.421,0.333,0.105,0.579,0.053,0.0,0.211,0.00333,0.6,0.3,0.1,0.2,0.1,2017-18,2017,2018
+22017,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.244,62,0.062,0.35,1.0,0.25,0.75,0.05,0.05,0.2,0.01,0.3,0.1,0.0,0.0,0.0,2017-18,2017,2018
+22017,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.199,36,0.109,0.318,0.333,0.136,0.727,0.0,0.0,0.182,0.00333,0.6,0.2,0.0,0.1,0.1,2017-18,2017,2018
+22017,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.159,35,0.049,0.294,0.0,0.176,0.588,0.0,0.0,0.176,0.0,0.5,0.1,0.0,0.1,0.1,2017-18,2017,2018
+22017,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.171,36,0.036,0.3,0.25,0.0,0.6,0.0,0.0,0.1,0.00375,0.3,0.1,0.0,0.1,0.1,2017-18,2017,2018
+22017,1627988,Myke Henry,1610612763,MEM,Memphis Grizzlies,Misc,Offensive,0.13,20,0.083,0.273,0.333,0.0,0.727,0.0,0.0,0.091,0.005,0.6,0.2,0.1,0.2,0.1,2017-18,2017,2018

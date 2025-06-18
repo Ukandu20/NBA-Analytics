@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.052,0.571,1.0,0.143,0.714,0.0,0.0,0.286,0.01,7,4,1,1,0
-42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.039,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,2,0,0,0
-42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,3,0.094,0.667,0.0,0.333,0.0,0.0,0.0,0.333,0.0,3,2,0,2,2
-42022,203486,Mason Plumlee,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.167,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0
-42022,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.122,0.333,0.0,0.167,0.833,0.0,0.0,0.167,0.0,6,2,0,0,0
-42022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.05,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.085,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,4,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42022,201566,Russell Westbrook,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.052,0.571,1.0,0.143,0.714,0.0,0.0,0.286,0.01,7,4,1,1,0,2022-23,2022,2023
+42022,201569,Eric Gordon,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.039,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,2,0,0,0,2022-23,2022,2023
+42022,202694,Marcus Morris Sr.,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,3,0.094,0.667,0.0,0.333,0.0,0.0,0.0,0.333,0.0,3,2,0,2,2,2022-23,2022,2023
+42022,203486,Mason Plumlee,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.167,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0,2022-23,2022,2023
+42022,1627826,Ivica Zubac,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.122,0.333,0.0,0.167,0.833,0.0,0.0,0.167,0.0,6,2,0,0,0,2022-23,2022,2023
+42022,201587,Nicolas Batum,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.05,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2022-23,2022,2023
+42022,1626181,Norman Powell,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2022-23,2022,2023
+42022,1630538,Bones Hyland,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.019,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2022-23,2022,2023
+42022,1629611,Terance Mann,1610612746,LAC,LA Clippers,Misc,Offensive,0.0,5,0.085,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,4,0,0,1,1,2022-23,2022,2023

@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.036,1.167,1.0,0.5,0.333,0.167,0.0,0.667,0.01,6,7,1,1,0
-42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.113,0.857,0.0,0.571,0.429,0.0,0.0,0.571,0.0,7,6,0,0,0
-42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.049,0.8,0.0,0.4,0.4,0.0,0.0,0.4,0.0,5,4,0,1,1
-42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.103,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0
-42021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.125,0.5,0.0,0.25,0.25,0.0,0.0,0.25,0.0,4,2,0,2,2
-42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42021,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.036,1.167,1.0,0.5,0.333,0.167,0.0,0.667,0.01,6,7,1,1,0,2021-22,2021,2022
+42021,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.113,0.857,0.0,0.571,0.429,0.0,0.0,0.571,0.0,7,6,0,0,0,2021-22,2021,2022
+42021,202711,Bojan Bogdanović,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.049,0.8,0.0,0.4,0.4,0.0,0.0,0.4,0.0,5,4,0,1,1,2021-22,2021,2022
+42021,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.103,0.5,0.0,0.25,0.75,0.0,0.0,0.25,0.0,4,2,0,0,0,2021-22,2021,2022
+42021,1627863,Danuel House Jr.,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.125,0.5,0.0,0.25,0.25,0.0,0.0,0.25,0.0,4,2,0,2,2,2021-22,2021,2022
+42021,203903,Jordan Clarkson,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2021-22,2021,2022
+42021,1627823,Juancho Hernangomez,1610612762,UTA,Utah Jazz,Misc,Offensive,0.0,6,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0,2021-22,2021,2022

@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,1.0,6,0.076,1.7,0.7,0.1,0.0,0.1,0.1,0.7,0.008,10,17,7,10,3
-42017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,5,0.085,1.25,0.667,0.25,0.0,0.25,0.0,0.75,0.006670000000000001,4,5,2,3,1
-42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,5,0.031,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42017,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.006,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,1.0,6,0.076,1.7,0.7,0.1,0.0,0.1,0.1,0.7,0.008,10,17,7,10,3,2017-18,2017,2018
+42017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,5,0.085,1.25,0.667,0.25,0.0,0.25,0.0,0.75,0.006670000000000001,4,5,2,3,1,2017-18,2017,2018
+42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,5,0.031,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2017-18,2017,2018
+42017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.056,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018
+42017,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.006,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2017-18,2017,2018
+42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,6,0.033,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2017-18,2017,2018

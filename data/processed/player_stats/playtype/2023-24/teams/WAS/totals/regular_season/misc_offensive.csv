@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22023,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Misc,Offensive,0.849,80,0.048,0.761,0.533,0.261,0.435,0.065,0.022,0.391,0.00633,46,35,8,15,7
-22023,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Misc,Offensive,0.705,70,0.034,0.618,0.348,0.2,0.382,0.073,0.0,0.345,0.0037,55,34,8,23,15
-22023,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Misc,Offensive,0.401,75,0.043,0.435,0.412,0.087,0.543,0.0,0.0,0.217,0.00441,46,20,7,17,10
-22023,201568,Danilo Gallinari,1610612764,WAS,Washington Wizards,Misc,Offensive,0.988,26,0.079,1.077,0.6,0.231,0.385,0.0,0.0,0.462,0.008,13,14,3,5,2
-22023,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Misc,Offensive,0.32,45,0.093,0.378,0.25,0.189,0.703,0.027,0.0,0.216,0.0025,37,14,1,4,3
-22023,1631098,Johnny Davis,1610612764,WAS,Washington Wizards,Misc,Offensive,0.74,50,0.061,0.636,0.5,0.091,0.364,0.0,0.0,0.364,0.005,11,7,3,6,3
-22023,1630215,Jared Butler,1610612764,WAS,Washington Wizards,Misc,Offensive,0.21,40,0.082,0.318,0.222,0.045,0.545,0.0,0.0,0.136,0.0027800000000000004,22,7,2,9,7
-22023,1626158,Richaun Holmes,1610612764,WAS,Washington Wizards,Misc,Offensive,0.497,17,0.089,0.5,0.5,0.2,0.6,0.0,0.0,0.3,0.005,10,5,1,2,1
-22023,203488,Mike Muscala,1610612764,WAS,Washington Wizards,Misc,Offensive,0.281,24,0.095,0.364,0.0,0.273,0.727,0.0,0.0,0.182,0.0,11,4,0,0,0
-22023,1628963,Marvin Bagley III,1610612764,WAS,Washington Wizards,Misc,Offensive,0.059,24,0.06,0.176,0.333,0.059,0.765,0.0,0.0,0.118,0.00333,17,3,1,3,2
-22023,1629013,Landry Shamet,1610612764,WAS,Washington Wizards,Misc,Offensive,0.068,46,0.034,0.182,0.0,0.091,0.818,0.0,0.0,0.091,0.0,11,2,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22023,1630557,Corey Kispert,1610612764,WAS,Washington Wizards,Misc,Offensive,0.849,80,0.048,0.761,0.533,0.261,0.435,0.065,0.022,0.391,0.00633,46,35,8,15,7,2023-24,2023,2024
+22023,1628398,Kyle Kuzma,1610612764,WAS,Washington Wizards,Misc,Offensive,0.705,70,0.034,0.618,0.348,0.2,0.382,0.073,0.0,0.345,0.0037,55,34,8,23,15,2023-24,2023,2024
+22023,1630166,Deni Avdija,1610612764,WAS,Washington Wizards,Misc,Offensive,0.401,75,0.043,0.435,0.412,0.087,0.543,0.0,0.0,0.217,0.00441,46,20,7,17,10,2023-24,2023,2024
+22023,201568,Danilo Gallinari,1610612764,WAS,Washington Wizards,Misc,Offensive,0.988,26,0.079,1.077,0.6,0.231,0.385,0.0,0.0,0.462,0.008,13,14,3,5,2,2023-24,2023,2024
+22023,1629655,Daniel Gafford,1610612764,WAS,Washington Wizards,Misc,Offensive,0.32,45,0.093,0.378,0.25,0.189,0.703,0.027,0.0,0.216,0.0025,37,14,1,4,3,2023-24,2023,2024
+22023,1631098,Johnny Davis,1610612764,WAS,Washington Wizards,Misc,Offensive,0.74,50,0.061,0.636,0.5,0.091,0.364,0.0,0.0,0.364,0.005,11,7,3,6,3,2023-24,2023,2024
+22023,1630215,Jared Butler,1610612764,WAS,Washington Wizards,Misc,Offensive,0.21,40,0.082,0.318,0.222,0.045,0.545,0.0,0.0,0.136,0.0027800000000000004,22,7,2,9,7,2023-24,2023,2024
+22023,1626158,Richaun Holmes,1610612764,WAS,Washington Wizards,Misc,Offensive,0.497,17,0.089,0.5,0.5,0.2,0.6,0.0,0.0,0.3,0.005,10,5,1,2,1,2023-24,2023,2024
+22023,203488,Mike Muscala,1610612764,WAS,Washington Wizards,Misc,Offensive,0.281,24,0.095,0.364,0.0,0.273,0.727,0.0,0.0,0.182,0.0,11,4,0,0,0,2023-24,2023,2024
+22023,1628963,Marvin Bagley III,1610612764,WAS,Washington Wizards,Misc,Offensive,0.059,24,0.06,0.176,0.333,0.059,0.765,0.0,0.0,0.118,0.00333,17,3,1,3,2,2023-24,2023,2024
+22023,1629013,Landry Shamet,1610612764,WAS,Washington Wizards,Misc,Offensive,0.068,46,0.034,0.182,0.0,0.091,0.818,0.0,0.0,0.091,0.0,11,2,0,1,1,2023-24,2023,2024

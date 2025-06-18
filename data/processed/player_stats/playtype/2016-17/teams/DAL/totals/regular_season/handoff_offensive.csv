@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.946,73,0.052,1.245,0.545,0.057,0.113,0.057,0.0,0.509,0.693,53,66,24,44,20
-22016,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.796,70,0.05,1.049,0.486,0.049,0.073,0.049,0.024,0.463,0.541,41,43,18,37,19
-22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.646,40,0.045,0.962,0.4,0.038,0.038,0.038,0.038,0.385,0.48,26,25,10,25,15
-22016,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.713,35,0.042,1.0,0.412,0.056,0.0,0.056,0.0,0.444,0.471,18,18,7,17,10
-22016,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.329,65,0.044,0.8,0.333,0.1,0.1,0.1,0.1,0.3,0.389,20,16,6,18,12
-22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.837,79,0.008,1.083,0.5,0.0,0.0,0.0,0.0,0.5,0.542,12,13,6,12,6
-22016,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.004,51,0.039,0.214,0.071,0.0,0.0,0.0,0.0,0.071,0.107,14,3,1,14,13
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.946,73,0.052,1.245,0.545,0.057,0.113,0.057,0.0,0.509,0.693,53,66,24,44,20,2016-17,2016,2017
+22016,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.796,70,0.05,1.049,0.486,0.049,0.073,0.049,0.024,0.463,0.541,41,43,18,37,19,2016-17,2016,2017
+22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.646,40,0.045,0.962,0.4,0.038,0.038,0.038,0.038,0.385,0.48,26,25,10,25,15,2016-17,2016,2017
+22016,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.713,35,0.042,1.0,0.412,0.056,0.0,0.056,0.0,0.444,0.471,18,18,7,17,10,2016-17,2016,2017
+22016,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.329,65,0.044,0.8,0.333,0.1,0.1,0.1,0.1,0.3,0.389,20,16,6,18,12,2016-17,2016,2017
+22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.837,79,0.008,1.083,0.5,0.0,0.0,0.0,0.0,0.5,0.542,12,13,6,12,6,2016-17,2016,2017
+22016,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.004,51,0.039,0.214,0.071,0.0,0.0,0.0,0.0,0.071,0.107,14,3,1,14,13,2016-17,2016,2017

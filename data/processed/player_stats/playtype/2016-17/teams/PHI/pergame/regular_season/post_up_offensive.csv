@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.516,31,0.322,0.877,0.468,0.226,0.217,0.203,0.033,0.458,0.468,6.8,6.0,1.9,4.0,2.1
-22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.426,50,0.316,0.855,0.444,0.14,0.125,0.13,0.03,0.44,0.444,4.0,3.4,1.4,3.1,1.7
-22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.3,81,0.084,0.812,0.486,0.099,0.228,0.079,0.02,0.416,0.486,1.2,1.0,0.4,0.9,0.4
-22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.521,53,0.075,0.881,0.378,0.305,0.119,0.254,0.051,0.492,0.378,1.1,1.0,0.3,0.7,0.4
-22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.589,72,0.045,0.903,0.538,0.065,0.129,0.065,0.032,0.452,0.538,0.4,0.4,0.2,0.4,0.2
-22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.201,57,0.024,0.75,0.444,0.083,0.167,0.083,0.0,0.417,0.444,0.2,0.2,0.1,0.2,0.1
-22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.164,18,0.072,0.7,0.375,0.3,0.1,0.3,0.2,0.3,0.375,0.6,0.4,0.2,0.4,0.3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.516,31,0.322,0.877,0.468,0.226,0.217,0.203,0.033,0.458,0.468,6.8,6.0,1.9,4.0,2.1,2016-17,2016,2017
+22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.426,50,0.316,0.855,0.444,0.14,0.125,0.13,0.03,0.44,0.444,4.0,3.4,1.4,3.1,1.7,2016-17,2016,2017
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.3,81,0.084,0.812,0.486,0.099,0.228,0.079,0.02,0.416,0.486,1.2,1.0,0.4,0.9,0.4,2016-17,2016,2017
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.521,53,0.075,0.881,0.378,0.305,0.119,0.254,0.051,0.492,0.378,1.1,1.0,0.3,0.7,0.4,2016-17,2016,2017
+22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.589,72,0.045,0.903,0.538,0.065,0.129,0.065,0.032,0.452,0.538,0.4,0.4,0.2,0.4,0.2,2016-17,2016,2017
+22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.201,57,0.024,0.75,0.444,0.083,0.167,0.083,0.0,0.417,0.444,0.2,0.2,0.1,0.2,0.1,2016-17,2016,2017
+22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,Postup,Offensive,0.164,18,0.072,0.7,0.375,0.3,0.1,0.3,0.2,0.3,0.375,0.6,0.4,0.2,0.4,0.3,2016-17,2016,2017

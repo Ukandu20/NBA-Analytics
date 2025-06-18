@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.852,21,0.349,0.989,0.467,0.085,0.085,0.08,0.023,0.46,0.00507,176,174,70,150,80
-42015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.557,21,0.168,0.88,0.437,0.109,0.141,0.109,0.022,0.413,0.005,92,81,31,71,40
-42015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.344,20,0.364,0.75,0.36,0.139,0.167,0.139,0.0,0.389,0.0038,36,27,9,25,16
-42015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.082,13,0.487,0.526,0.286,0.0,0.263,0.0,0.0,0.211,0.00357,19,10,4,14,10
-42015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,21,0.077,1.167,0.5,0.0,0.0,0.0,0.0,0.5,0.005829999999999999,6,7,3,6,3
-42015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.237,21,0.048,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.00438,10,7,3,8,5
-42015,2592,James Jones,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,12,0.077,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42015,203895,Jordan McRae,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,21,0.019,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1
-42015,2563,Dahntay Jones,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,15,0.063,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.852,21,0.349,0.989,0.467,0.085,0.085,0.08,0.023,0.46,0.00507,176,174,70,150,80,2015-16,2015,2016
+42015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.557,21,0.168,0.88,0.437,0.109,0.141,0.109,0.022,0.413,0.005,92,81,31,71,40,2015-16,2015,2016
+42015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.344,20,0.364,0.75,0.36,0.139,0.167,0.139,0.0,0.389,0.0038,36,27,9,25,16,2015-16,2015,2016
+42015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.082,13,0.487,0.526,0.286,0.0,0.263,0.0,0.0,0.211,0.00357,19,10,4,14,10,2015-16,2015,2016
+42015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,21,0.077,1.167,0.5,0.0,0.0,0.0,0.0,0.5,0.005829999999999999,6,7,3,6,3,2015-16,2015,2016
+42015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.237,21,0.048,0.7,0.375,0.0,0.2,0.0,0.0,0.3,0.00438,10,7,3,8,5,2015-16,2015,2016
+42015,2592,James Jones,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,12,0.077,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
+42015,203895,Jordan McRae,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,2,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
+42015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,21,0.019,1.0,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,2,0,1,1,2015-16,2015,2016
+42015,2563,Dahntay Jones,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.0,15,0.063,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2015-16,2015,2016

@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.412,20,0.068,0.733,0.435,0.0,0.233,0.0,0.0,0.333,0.0047799999999999995,1.5,1.1,0.5,1.1,0.7
-42015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.706,20,0.036,1.056,0.529,0.0,0.056,0.0,0.0,0.5,0.00559,0.9,1.0,0.5,0.9,0.4
-42015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.042,1.333,0.6,0.0,0.167,0.0,0.0,0.5,0.008,0.3,0.4,0.2,0.3,0.1
-42015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.026,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,0.3,0.3,0.1,0.2,0.1
-42015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.027,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.004,0.3,0.2,0.1,0.3,0.2
-42015,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,9,0.056,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.1,0.0,0.0,0.0
-42015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.006,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
-42015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.031,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.412,20,0.068,0.733,0.435,0.0,0.233,0.0,0.0,0.333,0.0047799999999999995,1.5,1.1,0.5,1.1,0.7,2015-16,2015,2016
+42015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.706,20,0.036,1.056,0.529,0.0,0.056,0.0,0.0,0.5,0.00559,0.9,1.0,0.5,0.9,0.4,2015-16,2015,2016
+42015,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.042,1.333,0.6,0.0,0.167,0.0,0.0,0.5,0.008,0.3,0.4,0.2,0.3,0.1,2015-16,2015,2016
+42015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.026,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,0.3,0.3,0.1,0.2,0.1,2015-16,2015,2016
+42015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.027,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.004,0.3,0.2,0.1,0.3,0.2,2015-16,2015,2016
+42015,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,9,0.056,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.1,0.1,0.0,0.0,0.0,2015-16,2015,2016
+42015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,20,0.006,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,2015-16,2015,2016
+42015,201949,James Johnson,1610612761,TOR,Toronto Raptors,Handoff,Offensive,0.0,10,0.031,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,2015-16,2015,2016

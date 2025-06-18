@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.707,80,0.354,0.85,0.436,0.127,0.199,0.107,0.022,0.406,0.477,722,614,219,502,283
-22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.879,72,0.19,0.934,0.455,0.126,0.227,0.118,0.029,0.405,0.513,348,325,107,235,128
-22015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.303,78,0.254,0.689,0.36,0.079,0.154,0.07,0.013,0.338,0.379,228,157,64,178,114
-22015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.824,57,0.456,0.901,0.455,0.053,0.099,0.053,0.02,0.428,0.481,152,137,60,132,72
-22015,201571,D.J. Augustin,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.862,34,0.339,0.93,0.45,0.105,0.193,0.105,0.018,0.404,0.525,57,53,18,40,22
-22015,200751,Randy Foye,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.318,27,0.213,0.7,0.407,0.075,0.225,0.1,0.0,0.35,0.426,40,28,11,27,16
-22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.44,68,0.044,0.75,0.385,0.063,0.125,0.063,0.0,0.375,0.385,16,12,5,13,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.707,80,0.354,0.85,0.436,0.127,0.199,0.107,0.022,0.406,0.477,722,614,219,502,283,2015-16,2015,2016
+22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.879,72,0.19,0.934,0.455,0.126,0.227,0.118,0.029,0.405,0.513,348,325,107,235,128,2015-16,2015,2016
+22015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.303,78,0.254,0.689,0.36,0.079,0.154,0.07,0.013,0.338,0.379,228,157,64,178,114,2015-16,2015,2016
+22015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.824,57,0.456,0.901,0.455,0.053,0.099,0.053,0.02,0.428,0.481,152,137,60,132,72,2015-16,2015,2016
+22015,201571,D.J. Augustin,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.862,34,0.339,0.93,0.45,0.105,0.193,0.105,0.018,0.404,0.525,57,53,18,40,22,2015-16,2015,2016
+22015,200751,Randy Foye,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.318,27,0.213,0.7,0.407,0.075,0.225,0.1,0.0,0.35,0.426,40,28,11,27,16,2015-16,2015,2016
+22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.44,68,0.044,0.75,0.385,0.063,0.125,0.063,0.0,0.375,0.385,16,12,5,13,8,2015-16,2015,2016

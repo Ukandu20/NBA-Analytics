@@ -1,5 +1,5 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Isolation,Offensive,0.816,5,0.118,1.091,0.444,0.18,0.0,0.182,0.0,0.545,0.00444,11,12,4,9,5
-42017,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.03,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,3,6,3,3,0
-42017,201949,James Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.103,0.5,0.25,0.17,0.167,0.167,0.0,0.333,0.0025,6,3,1,4,3
-42017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Isolation,Offensive,0.816,5,0.118,1.091,0.444,0.18,0.0,0.182,0.0,0.545,0.00444,11,12,4,9,5,2017-18,2017,2018
+42017,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.03,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,3,6,3,3,0,2017-18,2017,2018
+42017,201949,James Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.103,0.5,0.25,0.17,0.167,0.167,0.0,0.333,0.0025,6,3,1,4,3,2017-18,2017,2018
+42017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Isolation,Offensive,0.0,5,0.017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018

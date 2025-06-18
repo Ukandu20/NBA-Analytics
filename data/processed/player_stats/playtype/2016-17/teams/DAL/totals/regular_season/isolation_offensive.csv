@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.702,79,0.245,0.932,0.457,0.084,0.076,0.079,0.014,0.461,0.462,369,344,144,315,171
-22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.403,73,0.113,0.776,0.361,0.095,0.086,0.095,0.017,0.371,0.402,116,90,35,97,62
-22016,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.929,70,0.099,1.085,0.529,0.11,0.085,0.11,0.049,0.512,0.557,82,89,37,70,33
-22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.275,40,0.129,0.693,0.349,0.08,0.093,0.067,0.013,0.36,0.349,75,52,22,63,41
-22016,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.898,35,0.091,1.051,0.429,0.128,0.0,0.103,0.026,0.487,0.471,39,41,15,35,20
-22016,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.586,51,0.115,0.878,0.345,0.195,0.122,0.195,0.024,0.415,0.379,41,36,10,29,19
-22016,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.878,65,0.073,1.03,0.423,0.152,0.091,0.152,0.03,0.455,0.462,33,34,11,26,15
-22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.688,54,0.036,0.929,0.478,0.107,0.107,0.107,0.036,0.464,0.478,28,26,11,23,12
-22016,1627812,Yogi Ferrell,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.376,36,0.076,0.758,0.333,0.061,0.121,0.03,0.0,0.333,0.389,33,25,9,27,18
-22016,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.079,77,0.021,0.5,0.125,0.2,0.0,0.1,0.0,0.3,0.125,10,5,1,8,7
-22016,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.031,81,0.029,0.333,0.143,0.167,0.25,0.167,0.0,0.25,0.143,12,4,1,7,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.702,79,0.245,0.932,0.457,0.084,0.076,0.079,0.014,0.461,0.462,369,344,144,315,171,2016-17,2016,2017
+22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.403,73,0.113,0.776,0.361,0.095,0.086,0.095,0.017,0.371,0.402,116,90,35,97,62,2016-17,2016,2017
+22016,203552,Seth Curry,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.929,70,0.099,1.085,0.529,0.11,0.085,0.11,0.049,0.512,0.557,82,89,37,70,33,2016-17,2016,2017
+22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.275,40,0.129,0.693,0.349,0.08,0.093,0.067,0.013,0.36,0.349,75,52,22,63,41,2016-17,2016,2017
+22016,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.898,35,0.091,1.051,0.429,0.128,0.0,0.103,0.026,0.487,0.471,39,41,15,35,20,2016-17,2016,2017
+22016,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.586,51,0.115,0.878,0.345,0.195,0.122,0.195,0.024,0.415,0.379,41,36,10,29,19,2016-17,2016,2017
+22016,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.878,65,0.073,1.03,0.423,0.152,0.091,0.152,0.03,0.455,0.462,33,34,11,26,15,2016-17,2016,2017
+22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.688,54,0.036,0.929,0.478,0.107,0.107,0.107,0.036,0.464,0.478,28,26,11,23,12,2016-17,2016,2017
+22016,1627812,Yogi Ferrell,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.376,36,0.076,0.758,0.333,0.061,0.121,0.03,0.0,0.333,0.389,33,25,9,27,18,2016-17,2016,2017
+22016,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.079,77,0.021,0.5,0.125,0.2,0.0,0.1,0.0,0.3,0.125,10,5,1,8,7,2016-17,2016,2017
+22016,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.031,81,0.029,0.333,0.143,0.167,0.25,0.167,0.0,0.25,0.143,12,4,1,7,6,2016-17,2016,2017

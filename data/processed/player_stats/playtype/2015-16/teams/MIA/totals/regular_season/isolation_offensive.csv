@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,2547,Chris Bosh,1610612748,MIA,Miami Heat,Isolation,Offensive,0.955,53,0.134,1.116,0.5,0.186,0.047,0.194,0.047,0.543,0.51,129,144,52,104,52
-22015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Isolation,Offensive,0.299,74,0.11,0.715,0.372,0.064,0.099,0.058,0.006,0.36,0.372,172,123,54,145,91
-22015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.722,72,0.062,0.914,0.419,0.057,0.057,0.043,0.0,0.414,0.476,70,64,26,62,36
-22015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.904,24,0.114,1.029,0.536,0.029,0.171,0.029,0.0,0.457,0.607,35,36,15,28,13
-22015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Isolation,Offensive,0.472,42,0.128,0.8,0.474,0.08,0.16,0.08,0.0,0.4,0.474,25,20,9,19,10
-22015,2736,Luol Deng,1610612748,MIA,Miami Heat,Isolation,Offensive,0.069,74,0.043,0.487,0.229,0.051,0.051,0.051,0.0,0.256,0.229,39,19,8,35,27
-22015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Isolation,Offensive,0.686,73,0.021,0.9,0.375,0.15,0.05,0.1,0.0,0.45,0.375,20,18,6,16,10
-22015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.88,36,0.05,1.0,0.5,0.188,0.125,0.188,0.063,0.5,0.5,16,16,6,12,6
-22015,101123,Gerald Green,1610612748,MIA,Miami Heat,Isolation,Offensive,0.241,69,0.033,0.682,0.318,0.0,0.0,0.0,0.0,0.318,0.341,22,15,7,22,15
-22015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.645,53,0.048,0.875,0.364,0.188,0.125,0.188,0.0,0.438,0.409,16,14,4,11,7
-22015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Isolation,Offensive,0.223,78,0.025,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,15,10,5,15,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,2547,Chris Bosh,1610612748,MIA,Miami Heat,Isolation,Offensive,0.955,53,0.134,1.116,0.5,0.186,0.047,0.194,0.047,0.543,0.51,129,144,52,104,52,2015-16,2015,2016
+22015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Isolation,Offensive,0.299,74,0.11,0.715,0.372,0.064,0.099,0.058,0.006,0.36,0.372,172,123,54,145,91,2015-16,2015,2016
+22015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Isolation,Offensive,0.722,72,0.062,0.914,0.419,0.057,0.057,0.043,0.0,0.414,0.476,70,64,26,62,36,2015-16,2015,2016
+22015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.904,24,0.114,1.029,0.536,0.029,0.171,0.029,0.0,0.457,0.607,35,36,15,28,13,2015-16,2015,2016
+22015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Isolation,Offensive,0.472,42,0.128,0.8,0.474,0.08,0.16,0.08,0.0,0.4,0.474,25,20,9,19,10,2015-16,2015,2016
+22015,2736,Luol Deng,1610612748,MIA,Miami Heat,Isolation,Offensive,0.069,74,0.043,0.487,0.229,0.051,0.051,0.051,0.0,0.256,0.229,39,19,8,35,27,2015-16,2015,2016
+22015,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Isolation,Offensive,0.686,73,0.021,0.9,0.375,0.15,0.05,0.1,0.0,0.45,0.375,20,18,6,16,10,2015-16,2015,2016
+22015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.88,36,0.05,1.0,0.5,0.188,0.125,0.188,0.063,0.5,0.5,16,16,6,12,6,2015-16,2015,2016
+22015,101123,Gerald Green,1610612748,MIA,Miami Heat,Isolation,Offensive,0.241,69,0.033,0.682,0.318,0.0,0.0,0.0,0.0,0.318,0.341,22,15,7,22,15,2015-16,2015,2016
+22015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Isolation,Offensive,0.645,53,0.048,0.875,0.364,0.188,0.125,0.188,0.0,0.438,0.409,16,14,4,11,7,2015-16,2015,2016
+22015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Isolation,Offensive,0.223,78,0.025,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,15,10,5,15,10,2015-16,2015,2016

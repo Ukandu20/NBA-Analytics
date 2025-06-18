@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.74,61,0.075,1.355,0.659,0.224,0.028,0.168,0.047,0.682,0.659,107,145,56,85,29
-22015,201600,Omer Asik,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.444,68,0.348,1.176,0.64,0.269,0.074,0.259,0.037,0.648,0.64,108,127,48,75,27
-22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.291,59,0.171,1.088,0.537,0.147,0.088,0.132,0.029,0.544,0.537,68,74,29,54,25
-22015,201967,Dante Cunningham,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.376,80,0.116,1.14,0.587,0.14,0.07,0.123,0.018,0.596,0.587,57,65,27,46,19
-22015,202087,Alonzo Gee,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.521,73,0.127,1.209,0.697,0.093,0.163,0.093,0.023,0.605,0.697,43,52,23,33,10
-22015,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.972,65,0.02,1.625,0.85,0.125,0.042,0.125,0.0,0.833,0.85,24,39,17,20,3
-22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.314,66,0.026,1.103,0.545,0.172,0.069,0.172,0.0,0.586,0.545,29,32,12,22,10
-22015,2570,Kendrick Perkins,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.278,38,0.188,1.083,0.632,0.083,0.125,0.042,0.0,0.583,0.632,24,26,12,19,7
-22015,201962,Toney Douglas,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.662,61,0.031,1.294,0.643,0.118,0.059,0.118,0.0,0.647,0.643,17,22,9,14,5
-22015,201569,Eric Gordon,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.804,45,0.015,1.4,0.667,0.1,0.0,0.1,0.0,0.7,0.667,10,14,6,9,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.74,61,0.075,1.355,0.659,0.224,0.028,0.168,0.047,0.682,0.659,107,145,56,85,29,2015-16,2015,2016
+22015,201600,Omer Asik,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.444,68,0.348,1.176,0.64,0.269,0.074,0.259,0.037,0.648,0.64,108,127,48,75,27,2015-16,2015,2016
+22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.291,59,0.171,1.088,0.537,0.147,0.088,0.132,0.029,0.544,0.537,68,74,29,54,25,2015-16,2015,2016
+22015,201967,Dante Cunningham,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.376,80,0.116,1.14,0.587,0.14,0.07,0.123,0.018,0.596,0.587,57,65,27,46,19,2015-16,2015,2016
+22015,202087,Alonzo Gee,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.521,73,0.127,1.209,0.697,0.093,0.163,0.093,0.023,0.605,0.697,43,52,23,33,10,2015-16,2015,2016
+22015,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.972,65,0.02,1.625,0.85,0.125,0.042,0.125,0.0,0.833,0.85,24,39,17,20,3,2015-16,2015,2016
+22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.314,66,0.026,1.103,0.545,0.172,0.069,0.172,0.0,0.586,0.545,29,32,12,22,10,2015-16,2015,2016
+22015,2570,Kendrick Perkins,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.278,38,0.188,1.083,0.632,0.083,0.125,0.042,0.0,0.583,0.632,24,26,12,19,7,2015-16,2015,2016
+22015,201962,Toney Douglas,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.662,61,0.031,1.294,0.643,0.118,0.059,0.118,0.0,0.647,0.643,17,22,9,14,5,2015-16,2015,2016
+22015,201569,Eric Gordon,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.804,45,0.015,1.4,0.667,0.1,0.0,0.1,0.0,0.7,0.667,10,14,6,9,3,2015-16,2015,2016

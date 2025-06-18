@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.734,6,0.463,1.211,0.471,0.0,0.105,0.0,0.0,0.421,0.00676,19,23,8,17,9
-42016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.844,6,0.155,1.294,0.533,0.059,0.059,0.059,0.0,0.529,0.006670000000000001,17,22,8,15,7
-42016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.437,6,0.431,1.0,0.333,0.091,0.0,0.091,0.045,0.364,0.00452,22,22,7,21,14
-42016,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.817,6,0.116,1.267,0.5,0.067,0.0,0.067,0.0,0.533,0.00607,15,19,7,14,7
-42016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.211,6,0.327,0.833,0.294,0.0,0.056,0.0,0.0,0.278,0.00441,18,15,5,17,12
-42016,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.147,6,0.6,0.778,0.294,0.056,0.0,0.056,0.0,0.333,0.0035299999999999997,18,14,5,17,12
-42016,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,6,0.257,1.444,0.556,0.0,0.0,0.0,0.0,0.556,0.00722,9,13,5,9,4
-42016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.185,6,0.116,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.00409,11,9,4,11,7
-42016,203584,Troy Daniels,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,6,0.182,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1
-42016,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.734,6,0.463,1.211,0.471,0.0,0.105,0.0,0.0,0.421,0.00676,19,23,8,17,9,2016-17,2016,2017
+42016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.844,6,0.155,1.294,0.533,0.059,0.059,0.059,0.0,0.529,0.006670000000000001,17,22,8,15,7,2016-17,2016,2017
+42016,203516,James Ennis III,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.437,6,0.431,1.0,0.333,0.091,0.0,0.091,0.045,0.364,0.00452,22,22,7,21,14,2016-17,2016,2017
+42016,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.817,6,0.116,1.267,0.5,0.067,0.0,0.067,0.0,0.533,0.00607,15,19,7,14,7,2016-17,2016,2017
+42016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.211,6,0.327,0.833,0.294,0.0,0.056,0.0,0.0,0.278,0.00441,18,15,5,17,12,2016-17,2016,2017
+42016,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.147,6,0.6,0.778,0.294,0.056,0.0,0.056,0.0,0.333,0.0035299999999999997,18,14,5,17,12,2016-17,2016,2017
+42016,1626150,Andrew Harrison,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,6,0.257,1.444,0.556,0.0,0.0,0.0,0.0,0.556,0.00722,9,13,5,9,4,2016-17,2016,2017
+42016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.185,6,0.116,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.00409,11,9,4,11,7,2016-17,2016,2017
+42016,203584,Troy Daniels,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,6,0.182,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1,2016-17,2016,2017
+42016,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Spotup,Offensive,0.0,2,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017

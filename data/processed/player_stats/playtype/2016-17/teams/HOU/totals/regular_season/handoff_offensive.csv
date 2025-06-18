@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.55,75,0.09,0.926,0.33,0.056,0.065,0.056,0.019,0.333,0.464,108,100,32,97,65
-22016,201935,James Harden,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.713,81,0.027,1.0,0.522,0.031,0.234,0.047,0.0,0.406,0.652,64,64,24,46,22
-22016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.782,80,0.025,1.043,0.389,0.087,0.13,0.087,0.0,0.391,0.583,23,24,7,18,11
-22016,101150,Lou Williams,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.929,23,0.054,1.211,0.455,0.263,0.158,0.263,0.0,0.526,0.545,19,23,5,11,6
-22016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.329,67,0.037,0.8,0.381,0.0,0.16,0.0,0.0,0.32,0.476,25,20,8,21,13
-22016,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.405,58,0.076,0.857,0.4,0.143,0.143,0.143,0.0,0.429,0.433,21,18,6,15,9
-22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.05,72,0.019,0.471,0.143,0.118,0.118,0.118,0.059,0.176,0.179,17,8,2,14,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.55,75,0.09,0.926,0.33,0.056,0.065,0.056,0.019,0.333,0.464,108,100,32,97,65,2016-17,2016,2017
+22016,201935,James Harden,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.713,81,0.027,1.0,0.522,0.031,0.234,0.047,0.0,0.406,0.652,64,64,24,46,22,2016-17,2016,2017
+22016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.782,80,0.025,1.043,0.389,0.087,0.13,0.087,0.0,0.391,0.583,23,24,7,18,11,2016-17,2016,2017
+22016,101150,Lou Williams,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.929,23,0.054,1.211,0.455,0.263,0.158,0.263,0.0,0.526,0.545,19,23,5,11,6,2016-17,2016,2017
+22016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.329,67,0.037,0.8,0.381,0.0,0.16,0.0,0.0,0.32,0.476,25,20,8,21,13,2016-17,2016,2017
+22016,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.405,58,0.076,0.857,0.4,0.143,0.143,0.143,0.0,0.429,0.433,21,18,6,15,9,2016-17,2016,2017
+22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Handoff,Offensive,0.05,72,0.019,0.471,0.143,0.118,0.118,0.118,0.059,0.176,0.179,17,8,2,14,12,2016-17,2016,2017

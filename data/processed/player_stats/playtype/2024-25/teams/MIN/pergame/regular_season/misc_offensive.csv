@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.685,72,0.076,0.564,0.8,0.309,0.618,0.036,0.018,0.364,0.008,0.8,0.4,0.1,0.1,0.0
-22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.732,82,0.047,0.587,0.533,0.13,0.543,0.022,0.0,0.304,0.0053300000000000005,0.6,0.3,0.1,0.2,0.1
-22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.356,69,0.056,0.375,0.4,0.208,0.722,0.028,0.0,0.236,0.004,1.0,0.4,0.0,0.1,0.0
-22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.365,79,0.032,0.379,0.111,0.152,0.439,0.015,0.0,0.197,0.0013,0.8,0.3,0.0,0.3,0.3
-22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.528,80,0.041,0.467,0.357,0.156,0.533,0.0,0.0,0.267,0.00357,0.6,0.3,0.1,0.2,0.1
-22024,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.509,82,0.055,0.452,0.1,0.262,0.5,0.0,0.0,0.262,0.001,0.5,0.2,0.0,0.1,0.1
-22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.562,62,0.046,0.485,0.444,0.121,0.606,0.0,0.0,0.242,0.005,0.5,0.3,0.1,0.1,0.1
-22024,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.445,71,0.059,0.412,0.286,0.147,0.647,0.0,0.0,0.206,0.0042899999999999995,0.5,0.2,0.0,0.1,0.1
-22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.965,40,0.083,0.917,0.333,0.417,0.083,0.25,0.0,0.583,0.00333,0.3,0.3,0.1,0.2,0.1
-22024,1642265,Rob Dillingham,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.837,49,0.044,0.667,0.75,0.083,0.583,0.0,0.0,0.333,0.0075,0.2,0.2,0.1,0.1,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22024,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.685,72,0.076,0.564,0.8,0.309,0.618,0.036,0.018,0.364,0.008,0.8,0.4,0.1,0.1,0.0,2024-25,2024,2025
+22024,1630183,Jaden McDaniels,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.732,82,0.047,0.587,0.533,0.13,0.543,0.022,0.0,0.304,0.0053300000000000005,0.6,0.3,0.1,0.2,0.1,2024-25,2024,2025
+22024,203944,Julius Randle,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.356,69,0.056,0.375,0.4,0.208,0.722,0.028,0.0,0.236,0.004,1.0,0.4,0.0,0.1,0.0,2024-25,2024,2025
+22024,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.365,79,0.032,0.379,0.111,0.152,0.439,0.015,0.0,0.197,0.0013,0.8,0.3,0.0,0.3,0.3,2024-25,2024,2025
+22024,1629675,Naz Reid,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.528,80,0.041,0.467,0.357,0.156,0.533,0.0,0.0,0.267,0.00357,0.6,0.3,0.1,0.2,0.1,2024-25,2024,2025
+22024,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.509,82,0.055,0.452,0.1,0.262,0.5,0.0,0.0,0.262,0.001,0.5,0.2,0.0,0.1,0.1,2024-25,2024,2025
+22024,1628978,Donte DiVincenzo,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.562,62,0.046,0.485,0.444,0.121,0.606,0.0,0.0,0.242,0.005,0.5,0.3,0.1,0.1,0.1,2024-25,2024,2025
+22024,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.445,71,0.059,0.412,0.286,0.147,0.647,0.0,0.0,0.206,0.0042899999999999995,0.5,0.2,0.0,0.1,0.1,2024-25,2024,2025
+22024,1641740,Jaylen Clark,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.965,40,0.083,0.917,0.333,0.417,0.083,0.25,0.0,0.583,0.00333,0.3,0.3,0.1,0.2,0.1,2024-25,2024,2025
+22024,1642265,Rob Dillingham,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.837,49,0.044,0.667,0.75,0.083,0.583,0.0,0.0,0.333,0.0075,0.2,0.2,0.1,0.1,0.0,2024-25,2024,2025

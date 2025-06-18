@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.617,79,0.505,0.838,0.449,0.067,0.16,0.054,0.015,0.404,0.468,10.1,8.4,3.6,7.9,4.4
-22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.592,79,0.191,0.825,0.399,0.114,0.133,0.095,0.024,0.389,0.442,2.7,2.2,0.8,2.1,1.2
-22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.338,73,0.225,0.729,0.392,0.058,0.155,0.053,0.019,0.348,0.41,2.8,2.1,0.9,2.3,1.4
-22016,1627098,Malcolm Delaney,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.366,73,0.372,0.741,0.42,0.057,0.176,0.052,0.01,0.373,0.427,2.6,2.0,0.9,2.1,1.2
-22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.289,62,0.108,0.698,0.375,0.075,0.17,0.075,0.0,0.358,0.388,0.9,0.6,0.2,0.6,0.4
-22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.237,59,0.114,0.659,0.3,0.114,0.205,0.114,0.0,0.318,0.333,0.7,0.5,0.2,0.5,0.4
-22016,101181,Jose Calderon,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.596,17,0.307,0.826,0.538,0.087,0.348,0.087,0.0,0.391,0.577,1.4,1.1,0.4,0.8,0.4
-22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.119,69,0.016,0.571,0.308,0.095,0.286,0.095,0.0,0.286,0.346,0.3,0.2,0.1,0.2,0.1
-22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.01,32,0.058,0.235,0.154,0.0,0.235,0.0,0.0,0.118,0.154,0.5,0.1,0.1,0.4,0.3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.617,79,0.505,0.838,0.449,0.067,0.16,0.054,0.015,0.404,0.468,10.1,8.4,3.6,7.9,4.4,2016-17,2016,2017
+22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.592,79,0.191,0.825,0.399,0.114,0.133,0.095,0.024,0.389,0.442,2.7,2.2,0.8,2.1,1.2,2016-17,2016,2017
+22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.338,73,0.225,0.729,0.392,0.058,0.155,0.053,0.019,0.348,0.41,2.8,2.1,0.9,2.3,1.4,2016-17,2016,2017
+22016,1627098,Malcolm Delaney,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.366,73,0.372,0.741,0.42,0.057,0.176,0.052,0.01,0.373,0.427,2.6,2.0,0.9,2.1,1.2,2016-17,2016,2017
+22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.289,62,0.108,0.698,0.375,0.075,0.17,0.075,0.0,0.358,0.388,0.9,0.6,0.2,0.6,0.4,2016-17,2016,2017
+22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.237,59,0.114,0.659,0.3,0.114,0.205,0.114,0.0,0.318,0.333,0.7,0.5,0.2,0.5,0.4,2016-17,2016,2017
+22016,101181,Jose Calderon,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.596,17,0.307,0.826,0.538,0.087,0.348,0.087,0.0,0.391,0.577,1.4,1.1,0.4,0.8,0.4,2016-17,2016,2017
+22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.119,69,0.016,0.571,0.308,0.095,0.286,0.095,0.0,0.286,0.346,0.3,0.2,0.1,0.2,0.1,2016-17,2016,2017
+22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,PRBallHandler,Offensive,0.01,32,0.058,0.235,0.154,0.0,0.235,0.0,0.0,0.118,0.154,0.5,0.1,0.1,0.4,0.3,2016-17,2016,2017

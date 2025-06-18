@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201577,Robin Lopez,1610612752,NYK,New York Knicks,Cut,Offensive,0.35,82,0.186,1.13,0.56,0.123,0.049,0.123,0.043,0.556,0.56,162,183,79,141,62
-22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Cut,Offensive,0.339,72,0.107,1.125,0.568,0.183,0.1,0.167,0.017,0.583,0.568,120,135,50,88,38
-22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,Cut,Offensive,0.729,80,0.109,1.346,0.649,0.272,0.049,0.272,0.037,0.691,0.649,81,109,37,57,20
-22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Cut,Offensive,0.391,72,0.031,1.154,0.556,0.115,0.0,0.135,0.0,0.596,0.556,52,60,25,45,20
-22015,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Cut,Offensive,0.274,65,0.142,1.078,0.564,0.157,0.098,0.137,0.02,0.569,0.564,51,55,22,39,17
-22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,Cut,Offensive,0.723,82,0.05,1.343,0.69,0.2,0.0,0.229,0.057,0.686,0.69,35,47,20,29,9
-22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,Cut,Offensive,0.864,71,0.033,1.452,0.72,0.226,0.065,0.161,0.097,0.71,0.72,31,45,18,25,7
-22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,Cut,Offensive,0.201,59,0.086,1.024,0.455,0.214,0.095,0.167,0.095,0.476,0.455,42,43,15,33,18
-22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,Cut,Offensive,0.96,76,0.038,1.6,0.778,0.2,0.05,0.2,0.15,0.75,0.778,20,32,14,18,4
-22015,202338,Kevin Seraphin,1610612752,NYK,New York Knicks,Cut,Offensive,0.319,49,0.109,1.107,0.56,0.071,0.071,0.071,0.036,0.536,0.56,28,31,14,25,11
-22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,Cut,Offensive,0.696,72,0.029,1.313,0.75,0.125,0.188,0.125,0.063,0.625,0.75,16,21,9,12,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201577,Robin Lopez,1610612752,NYK,New York Knicks,Cut,Offensive,0.35,82,0.186,1.13,0.56,0.123,0.049,0.123,0.043,0.556,0.56,162,183,79,141,62,2015-16,2015,2016
+22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Cut,Offensive,0.339,72,0.107,1.125,0.568,0.183,0.1,0.167,0.017,0.583,0.568,120,135,50,88,38,2015-16,2015,2016
+22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,Cut,Offensive,0.729,80,0.109,1.346,0.649,0.272,0.049,0.272,0.037,0.691,0.649,81,109,37,57,20,2015-16,2015,2016
+22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Cut,Offensive,0.391,72,0.031,1.154,0.556,0.115,0.0,0.135,0.0,0.596,0.556,52,60,25,45,20,2015-16,2015,2016
+22015,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Cut,Offensive,0.274,65,0.142,1.078,0.564,0.157,0.098,0.137,0.02,0.569,0.564,51,55,22,39,17,2015-16,2015,2016
+22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,Cut,Offensive,0.723,82,0.05,1.343,0.69,0.2,0.0,0.229,0.057,0.686,0.69,35,47,20,29,9,2015-16,2015,2016
+22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,Cut,Offensive,0.864,71,0.033,1.452,0.72,0.226,0.065,0.161,0.097,0.71,0.72,31,45,18,25,7,2015-16,2015,2016
+22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,Cut,Offensive,0.201,59,0.086,1.024,0.455,0.214,0.095,0.167,0.095,0.476,0.455,42,43,15,33,18,2015-16,2015,2016
+22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,Cut,Offensive,0.96,76,0.038,1.6,0.778,0.2,0.05,0.2,0.15,0.75,0.778,20,32,14,18,4,2015-16,2015,2016
+22015,202338,Kevin Seraphin,1610612752,NYK,New York Knicks,Cut,Offensive,0.319,49,0.109,1.107,0.56,0.071,0.071,0.071,0.036,0.536,0.56,28,31,14,25,11,2015-16,2015,2016
+22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,Cut,Offensive,0.696,72,0.029,1.313,0.75,0.125,0.188,0.125,0.063,0.625,0.75,16,21,9,12,3,2015-16,2015,2016

@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.192,10,0.234,0.818,0.333,0.0,0.091,0.0,0.0,0.303,0.0045000000000000005,33,27,10,30,20
-42015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.24,10,0.181,0.839,0.455,0.129,0.161,0.129,0.0,0.452,0.00477,31,26,10,22,12
-42015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.44,10,0.112,1.048,0.467,0.19,0.143,0.19,0.048,0.476,0.0053300000000000005,21,22,7,15,8
-42015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.459,10,0.129,1.056,0.571,0.0,0.222,0.0,0.0,0.444,0.006790000000000001,18,19,8,14,6
-42015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.685,10,0.115,1.2,0.462,0.133,0.0,0.067,0.0,0.533,0.00538,15,18,6,13,7
-42015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.77,10,0.129,1.273,0.5,0.0,0.091,0.0,0.0,0.455,0.006999999999999999,11,14,5,10,5
-42015,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,9,0.167,2.25,1.0,0.25,0.0,0.25,0.0,1.0,0.01167,4,9,3,3,0
-42015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.054,10,0.206,0.615,0.333,0.308,0.231,0.308,0.0,0.385,0.00333,13,8,2,6,4
-42015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,10,0.12,1.167,0.75,0.167,0.167,0.167,0.0,0.667,0.0075,6,7,3,4,1
-42015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,4,0.273,0.667,0.375,0.0,0.111,0.0,0.0,0.333,0.00375,9,6,3,8,5
-42015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,9,0.161,0.6,0.333,0.2,0.2,0.2,0.0,0.4,0.00333,5,3,1,3,2
-42015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,4,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.192,10,0.234,0.818,0.333,0.0,0.091,0.0,0.0,0.303,0.0045000000000000005,33,27,10,30,20,2015-16,2015,2016
+42015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.24,10,0.181,0.839,0.455,0.129,0.161,0.129,0.0,0.452,0.00477,31,26,10,22,12,2015-16,2015,2016
+42015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.44,10,0.112,1.048,0.467,0.19,0.143,0.19,0.048,0.476,0.0053300000000000005,21,22,7,15,8,2015-16,2015,2016
+42015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.459,10,0.129,1.056,0.571,0.0,0.222,0.0,0.0,0.444,0.006790000000000001,18,19,8,14,6,2015-16,2015,2016
+42015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.685,10,0.115,1.2,0.462,0.133,0.0,0.067,0.0,0.533,0.00538,15,18,6,13,7,2015-16,2015,2016
+42015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.77,10,0.129,1.273,0.5,0.0,0.091,0.0,0.0,0.455,0.006999999999999999,11,14,5,10,5,2015-16,2015,2016
+42015,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,9,0.167,2.25,1.0,0.25,0.0,0.25,0.0,1.0,0.01167,4,9,3,3,0,2015-16,2015,2016
+42015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.054,10,0.206,0.615,0.333,0.308,0.231,0.308,0.0,0.385,0.00333,13,8,2,6,4,2015-16,2015,2016
+42015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,10,0.12,1.167,0.75,0.167,0.167,0.167,0.0,0.667,0.0075,6,7,3,4,1,2015-16,2015,2016
+42015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,4,0.273,0.667,0.375,0.0,0.111,0.0,0.0,0.333,0.00375,9,6,3,8,5,2015-16,2015,2016
+42015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,9,0.161,0.6,0.333,0.2,0.2,0.2,0.0,0.4,0.00333,5,3,1,3,2,2015-16,2015,2016
+42015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,Transition,Offensive,0.0,4,0.091,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016

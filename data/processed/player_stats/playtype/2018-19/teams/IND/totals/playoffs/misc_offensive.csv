@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.049,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,2,0,0,0
-42018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.067,0.5,1.0,0.0,0.75,0.0,0.0,0.25,0.01,4,2,1,1,0
-42018,203124,Kyle O'Quinn,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42018,201954,Darren Collison,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.017,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.068,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,3,0,0,1,1
-42018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.179,0.0,0.0,0.0,0.857,0.0,0.0,0.0,0.0,7,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42018,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.049,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,2,0,0,0,2018-19,2018,2019
+42018,201936,Tyreke Evans,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.067,0.5,1.0,0.0,0.75,0.0,0.0,0.25,0.01,4,2,1,1,0,2018-19,2018,2019
+42018,203124,Kyle O'Quinn,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2018-19,2018,2019
+42018,201954,Darren Collison,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.017,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2018-19,2018,2019
+42018,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.068,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,3,0,0,1,1,2018-19,2018,2019
+42018,202083,Wesley Matthews,1610612754,IND,Indiana Pacers,Misc,Offensive,0.0,4,0.179,0.0,0.0,0.0,0.857,0.0,0.0,0.0,0.0,7,0,0,1,1,2018-19,2018,2019

@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,200765,Rajon Rondo,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.428,72,0.393,0.749,0.467,0.054,0.238,0.04,0.007,0.37,0.486,446,334,149,319,170
-22015,201954,Darren Collison,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.883,74,0.253,0.937,0.487,0.075,0.159,0.071,0.016,0.44,0.523,252,236,96,197,101
-22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.955,70,0.07,1.034,0.545,0.114,0.159,0.102,0.023,0.5,0.568,88,91,36,66,30
-22015,203552,Seth Curry,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.466,44,0.278,0.756,0.371,0.09,0.128,0.077,0.013,0.359,0.387,78,59,23,62,39
-22015,201158,Marco Belinelli,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.128,68,0.133,0.569,0.273,0.069,0.176,0.049,0.01,0.265,0.318,102,58,21,77,56
-22015,202341,James Anderson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.314,51,0.167,0.692,0.381,0.154,0.333,0.154,0.026,0.333,0.452,39,27,8,21,13
-22015,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.066,68,0.082,0.469,0.294,0.02,0.286,0.0,0.0,0.224,0.309,49,23,10,34,24
-22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.944,65,0.012,1.0,0.5,0.136,0.136,0.091,0.0,0.5,0.5,22,22,8,16,8
-22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.107,69,0.044,0.543,0.304,0.086,0.257,0.086,0.0,0.257,0.348,35,19,7,23,16
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,200765,Rajon Rondo,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.428,72,0.393,0.749,0.467,0.054,0.238,0.04,0.007,0.37,0.486,446,334,149,319,170,2015-16,2015,2016
+22015,201954,Darren Collison,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.883,74,0.253,0.937,0.487,0.075,0.159,0.071,0.016,0.44,0.523,252,236,96,197,101,2015-16,2015,2016
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.955,70,0.07,1.034,0.545,0.114,0.159,0.102,0.023,0.5,0.568,88,91,36,66,30,2015-16,2015,2016
+22015,203552,Seth Curry,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.466,44,0.278,0.756,0.371,0.09,0.128,0.077,0.013,0.359,0.387,78,59,23,62,39,2015-16,2015,2016
+22015,201158,Marco Belinelli,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.128,68,0.133,0.569,0.273,0.069,0.176,0.049,0.01,0.265,0.318,102,58,21,77,56,2015-16,2015,2016
+22015,202341,James Anderson,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.314,51,0.167,0.692,0.381,0.154,0.333,0.154,0.026,0.333,0.452,39,27,8,21,13,2015-16,2015,2016
+22015,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.066,68,0.082,0.469,0.294,0.02,0.286,0.0,0.0,0.224,0.309,49,23,10,34,24,2015-16,2015,2016
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.944,65,0.012,1.0,0.5,0.136,0.136,0.091,0.0,0.5,0.5,22,22,8,16,8,2015-16,2015,2016
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,PRBallHandler,Offensive,0.107,69,0.044,0.543,0.304,0.086,0.257,0.086,0.0,0.257,0.348,35,19,7,23,16,2015-16,2015,2016

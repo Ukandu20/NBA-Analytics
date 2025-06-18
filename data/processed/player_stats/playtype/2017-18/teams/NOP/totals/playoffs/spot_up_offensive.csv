@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.455,9,0.267,1.0,0.423,0.036,0.071,0.036,0.04,0.393,0.00519,28,28,11,26,15
-42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.898,9,0.087,1.0,0.529,0.056,0.0,0.056,0.0,0.556,0.00676,18,25,9,17,8
-42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.279,9,0.183,1.0,0.318,0.0,0.0,0.0,0.0,0.318,0.00455,22,20,7,22,15
-42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.528,9,0.138,1.0,0.438,0.167,0.0,0.167,0.06,0.5,0.005,18,19,7,16,9
-42017,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.455,9,0.528,1.0,0.412,0.0,0.105,0.0,0.0,0.368,0.00559,19,19,7,17,10
-42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.111,9,0.117,1.0,0.32,0.033,0.133,0.033,0.0,0.3,0.0034000000000000002,30,19,8,25,17
-42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.657,9,0.197,1.0,0.429,0.0,0.067,0.0,0.0,0.4,0.00607,15,17,6,14,8
-42017,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.231,9,0.405,1.0,0.4,0.0,0.118,0.0,0.0,0.353,0.0046700000000000005,17,14,6,15,9
-42017,202348,Jordan Crawford,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
-42017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.0,7,0.154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.455,9,0.267,1.0,0.423,0.036,0.071,0.036,0.04,0.393,0.00519,28,28,11,26,15,2017-18,2017,2018
+42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.898,9,0.087,1.0,0.529,0.056,0.0,0.056,0.0,0.556,0.00676,18,25,9,17,8,2017-18,2017,2018
+42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.279,9,0.183,1.0,0.318,0.0,0.0,0.0,0.0,0.318,0.00455,22,20,7,22,15,2017-18,2017,2018
+42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.528,9,0.138,1.0,0.438,0.167,0.0,0.167,0.06,0.5,0.005,18,19,7,16,9,2017-18,2017,2018
+42017,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.455,9,0.528,1.0,0.412,0.0,0.105,0.0,0.0,0.368,0.00559,19,19,7,17,10,2017-18,2017,2018
+42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.111,9,0.117,1.0,0.32,0.033,0.133,0.033,0.0,0.3,0.0034000000000000002,30,19,8,25,17,2017-18,2017,2018
+42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.657,9,0.197,1.0,0.429,0.0,0.067,0.0,0.0,0.4,0.00607,15,17,6,14,8,2017-18,2017,2018
+42017,203121,Darius Miller,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.231,9,0.405,1.0,0.4,0.0,0.118,0.0,0.0,0.353,0.0046700000000000005,17,14,6,15,9,2017-18,2017,2018
+42017,202348,Jordan Crawford,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2017-18,2017,2018
+42017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Spotup,Offensive,0.0,7,0.154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2017-18,2017,2018

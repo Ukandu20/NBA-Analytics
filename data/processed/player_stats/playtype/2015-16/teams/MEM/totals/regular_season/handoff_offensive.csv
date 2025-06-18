@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.754,56,0.094,0.988,0.443,0.085,0.073,0.085,0.012,0.451,0.5,82,81,31,70,39
-22015,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.856,55,0.06,1.081,0.478,0.216,0.162,0.189,0.0,0.514,0.543,37,40,11,23,12
-22015,201145,Jeff Green,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.415,53,0.041,0.786,0.286,0.179,0.071,0.107,0.0,0.393,0.31,28,22,6,21,15
-22015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.199,60,0.078,0.688,0.3,0.031,0.031,0.031,0.0,0.313,0.35,32,22,9,30,21
-22015,201584,Courtney Lee,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.818,51,0.041,1.05,0.556,0.05,0.05,0.05,0.0,0.55,0.556,20,21,10,18,8
-22015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.385,76,0.031,0.778,0.316,0.111,0.185,0.111,0.0,0.333,0.368,27,21,6,19,13
-22015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.839,26,0.038,1.067,0.5,0.2,0.067,0.2,0.067,0.533,0.542,15,16,6,12,6
-22015,203492,Ray McCallum,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.492,10,0.128,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.417,12,10,4,12,8
-22015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.059,64,0.03,0.5,0.286,0.056,0.167,0.056,0.0,0.278,0.286,18,9,4,14,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.754,56,0.094,0.988,0.443,0.085,0.073,0.085,0.012,0.451,0.5,82,81,31,70,39,2015-16,2015,2016
+22015,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.856,55,0.06,1.081,0.478,0.216,0.162,0.189,0.0,0.514,0.543,37,40,11,23,12,2015-16,2015,2016
+22015,201145,Jeff Green,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.415,53,0.041,0.786,0.286,0.179,0.071,0.107,0.0,0.393,0.31,28,22,6,21,15,2015-16,2015,2016
+22015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.199,60,0.078,0.688,0.3,0.031,0.031,0.031,0.0,0.313,0.35,32,22,9,30,21,2015-16,2015,2016
+22015,201584,Courtney Lee,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.818,51,0.041,1.05,0.556,0.05,0.05,0.05,0.0,0.55,0.556,20,21,10,18,8,2015-16,2015,2016
+22015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.385,76,0.031,0.778,0.316,0.111,0.185,0.111,0.0,0.333,0.368,27,21,6,19,13,2015-16,2015,2016
+22015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.839,26,0.038,1.067,0.5,0.2,0.067,0.2,0.067,0.533,0.542,15,16,6,12,6,2015-16,2015,2016
+22015,203492,Ray McCallum,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.492,10,0.128,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.417,12,10,4,12,8,2015-16,2015,2016
+22015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Handoff,Offensive,0.059,64,0.03,0.5,0.286,0.056,0.167,0.056,0.0,0.278,0.286,18,9,4,14,10,2015-16,2015,2016

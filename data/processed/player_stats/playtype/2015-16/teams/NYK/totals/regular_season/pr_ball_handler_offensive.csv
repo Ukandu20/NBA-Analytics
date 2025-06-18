@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.648,72,0.381,0.83,0.43,0.042,0.123,0.028,0.009,0.396,0.453,212,176,77,179,102
-22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.572,72,0.131,0.803,0.392,0.073,0.147,0.064,0.009,0.372,0.436,218,175,67,171,104
-22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.379,76,0.35,0.724,0.375,0.151,0.222,0.146,0.027,0.362,0.379,185,134,45,120,75
-22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.414,82,0.174,0.744,0.364,0.074,0.116,0.041,0.008,0.355,0.394,121,90,36,99,63
-22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.39,71,0.08,0.733,0.373,0.027,0.08,0.027,0.0,0.36,0.388,75,55,25,67,42
-22015,2756,Sasha Vujacic,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.654,61,0.107,0.833,0.4,0.139,0.194,0.111,0.028,0.361,0.46,36,30,10,25,15
-22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.4,80,0.051,0.737,0.321,0.132,0.158,0.132,0.026,0.342,0.339,38,28,9,28,19
-22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.472,59,0.06,0.759,0.385,0.069,0.103,0.069,0.069,0.345,0.385,29,22,10,26,16
-22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.181,72,0.012,0.615,0.3,0.077,0.154,0.077,0.0,0.308,0.3,13,8,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,101181,Jose Calderon,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.648,72,0.381,0.83,0.43,0.042,0.123,0.028,0.009,0.396,0.453,212,176,77,179,102,2015-16,2015,2016
+22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.572,72,0.131,0.803,0.392,0.073,0.147,0.064,0.009,0.372,0.436,218,175,67,171,104,2015-16,2015,2016
+22015,1626170,Jerian Grant,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.379,76,0.35,0.724,0.375,0.151,0.222,0.146,0.027,0.362,0.379,185,134,45,120,75,2015-16,2015,2016
+22015,204038,Langston Galloway,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.414,82,0.174,0.744,0.364,0.074,0.116,0.041,0.008,0.355,0.394,121,90,36,99,63,2015-16,2015,2016
+22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.39,71,0.08,0.733,0.373,0.027,0.08,0.027,0.0,0.36,0.388,75,55,25,67,42,2015-16,2015,2016
+22015,2756,Sasha Vujacic,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.654,61,0.107,0.833,0.4,0.139,0.194,0.111,0.028,0.361,0.46,36,30,10,25,15,2015-16,2015,2016
+22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.4,80,0.051,0.737,0.321,0.132,0.158,0.132,0.026,0.342,0.339,38,28,9,28,19,2015-16,2015,2016
+22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.472,59,0.06,0.759,0.385,0.069,0.103,0.069,0.069,0.345,0.385,29,22,10,26,16,2015-16,2015,2016
+22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.181,72,0.012,0.615,0.3,0.077,0.154,0.077,0.0,0.308,0.3,13,8,3,10,7,2015-16,2015,2016

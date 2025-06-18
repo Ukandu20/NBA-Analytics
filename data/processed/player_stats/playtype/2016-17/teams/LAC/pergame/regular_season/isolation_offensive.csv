@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,2037,Jamal Crawford,1610612746,LAC,LA Clippers,Isolation,Offensive,0.681,82,0.253,0.923,0.405,0.106,0.066,0.099,0.018,0.427,0.446,3.3,3.1,1.1,2.8,1.7
-22016,101108,Chris Paul,1610612746,LAC,LA Clippers,Isolation,Offensive,0.936,61,0.175,1.093,0.455,0.066,0.033,0.038,0.005,0.473,0.527,3.0,3.3,1.2,2.7,1.5
-22016,203085,Austin Rivers,1610612746,LAC,LA Clippers,Isolation,Offensive,0.735,74,0.194,0.944,0.417,0.117,0.072,0.111,0.028,0.433,0.48,2.4,2.3,0.9,2.0,1.2
-22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Isolation,Offensive,0.661,61,0.107,0.914,0.437,0.101,0.072,0.094,0.029,0.439,0.45,2.3,2.1,0.9,2.0,1.1
-22016,101109,Raymond Felton,1610612746,LAC,LA Clippers,Isolation,Offensive,0.149,80,0.11,0.58,0.269,0.014,0.014,0.014,0.0,0.275,0.284,0.9,0.5,0.2,0.8,0.6
-22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Isolation,Offensive,0.414,82,0.034,0.783,0.375,0.13,0.217,0.13,0.043,0.348,0.406,0.3,0.2,0.1,0.2,0.1
-22016,101187,Alan Anderson,1610612746,LAC,LA Clippers,Isolation,Offensive,0.502,30,0.191,0.833,0.4,0.056,0.111,0.056,0.0,0.389,0.467,0.6,0.5,0.2,0.5,0.3
-22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Isolation,Offensive,0.194,52,0.051,0.615,0.333,0.0,0.077,0.0,0.0,0.308,0.333,0.3,0.2,0.1,0.2,0.2
-22016,200755,JJ Redick,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,78,0.009,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,2037,Jamal Crawford,1610612746,LAC,LA Clippers,Isolation,Offensive,0.681,82,0.253,0.923,0.405,0.106,0.066,0.099,0.018,0.427,0.446,3.3,3.1,1.1,2.8,1.7,2016-17,2016,2017
+22016,101108,Chris Paul,1610612746,LAC,LA Clippers,Isolation,Offensive,0.936,61,0.175,1.093,0.455,0.066,0.033,0.038,0.005,0.473,0.527,3.0,3.3,1.2,2.7,1.5,2016-17,2016,2017
+22016,203085,Austin Rivers,1610612746,LAC,LA Clippers,Isolation,Offensive,0.735,74,0.194,0.944,0.417,0.117,0.072,0.111,0.028,0.433,0.48,2.4,2.3,0.9,2.0,1.2,2016-17,2016,2017
+22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Isolation,Offensive,0.661,61,0.107,0.914,0.437,0.101,0.072,0.094,0.029,0.439,0.45,2.3,2.1,0.9,2.0,1.1,2016-17,2016,2017
+22016,101109,Raymond Felton,1610612746,LAC,LA Clippers,Isolation,Offensive,0.149,80,0.11,0.58,0.269,0.014,0.014,0.014,0.0,0.275,0.284,0.9,0.5,0.2,0.8,0.6,2016-17,2016,2017
+22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Isolation,Offensive,0.414,82,0.034,0.783,0.375,0.13,0.217,0.13,0.043,0.348,0.406,0.3,0.2,0.1,0.2,0.1,2016-17,2016,2017
+22016,101187,Alan Anderson,1610612746,LAC,LA Clippers,Isolation,Offensive,0.502,30,0.191,0.833,0.4,0.056,0.111,0.056,0.0,0.389,0.467,0.6,0.5,0.2,0.5,0.3,2016-17,2016,2017
+22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Isolation,Offensive,0.194,52,0.051,0.615,0.333,0.0,0.077,0.0,0.0,0.308,0.333,0.3,0.2,0.1,0.2,0.2,2016-17,2016,2017
+22016,200755,JJ Redick,1610612746,LAC,LA Clippers,Isolation,Offensive,0.0,78,0.009,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,2016-17,2016,2017

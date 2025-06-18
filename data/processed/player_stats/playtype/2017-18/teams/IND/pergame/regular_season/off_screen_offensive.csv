@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.635,80,0.212,1.05,0.45,0.095,0.059,0.095,0.014,0.468,0.524,2.8,2.9,1.1,2.4,1.3
-22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.355,75,0.064,0.89,0.388,0.028,0.073,0.028,0.0,0.376,0.459,1.5,1.3,0.5,1.3,0.8
-22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.32,82,0.022,0.875,0.333,0.125,0.125,0.125,0.0,0.375,0.417,0.2,0.2,0.0,0.1,0.1
-22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.069,69,0.02,0.625,0.267,0.0,0.063,0.0,0.0,0.25,0.333,0.2,0.1,0.1,0.2,0.2
-22017,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.06,23,0.105,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,0.4,0.3,0.1,0.4,0.3
-22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.012,82,0.017,0.333,0.154,0.067,0.067,0.067,0.0,0.2,0.154,0.2,0.1,0.0,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.635,80,0.212,1.05,0.45,0.095,0.059,0.095,0.014,0.468,0.524,2.8,2.9,1.1,2.4,1.3,2017-18,2017,2018
+22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.355,75,0.064,0.89,0.388,0.028,0.073,0.028,0.0,0.376,0.459,1.5,1.3,0.5,1.3,0.8,2017-18,2017,2018
+22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.32,82,0.022,0.875,0.333,0.125,0.125,0.125,0.0,0.375,0.417,0.2,0.2,0.0,0.1,0.1,2017-18,2017,2018
+22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.069,69,0.02,0.625,0.267,0.0,0.063,0.0,0.0,0.25,0.333,0.2,0.1,0.1,0.2,0.2,2017-18,2017,2018
+22017,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.06,23,0.105,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,0.4,0.3,0.1,0.4,0.3,2017-18,2017,2018
+22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.012,82,0.017,0.333,0.154,0.067,0.067,0.067,0.0,0.2,0.154,0.2,0.1,0.0,0.2,0.1,2017-18,2017,2018

@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,Postup,Offensive,0.49,33,0.227,0.869,0.444,0.176,0.142,0.153,0.028,0.449,0.444,176,153,55,124,69
-22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Postup,Offensive,0.843,76,0.209,1.014,0.545,0.129,0.109,0.129,0.061,0.51,0.545,147,149,66,121,55
-22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,Postup,Offensive,0.873,32,0.1,1.033,0.521,0.167,0.083,0.167,0.05,0.5,0.521,60,62,25,48,23
-22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Postup,Offensive,0.132,77,0.093,0.646,0.34,0.19,0.177,0.114,0.038,0.329,0.34,79,51,18,53,35
-22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Postup,Offensive,0.601,21,0.1,0.906,0.368,0.281,0.156,0.219,0.031,0.469,0.368,32,29,7,19,12
-22017,203186,Willie Reed,1610612746,LAC,LA Clippers,Postup,Offensive,0.103,39,0.098,0.625,0.385,0.063,0.188,0.063,0.063,0.313,0.385,16,10,5,13,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,Postup,Offensive,0.49,33,0.227,0.869,0.444,0.176,0.142,0.153,0.028,0.449,0.444,176,153,55,124,69,2017-18,2017,2018
+22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,Postup,Offensive,0.843,76,0.209,1.014,0.545,0.129,0.109,0.129,0.061,0.51,0.545,147,149,66,121,55,2017-18,2017,2018
+22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,Postup,Offensive,0.873,32,0.1,1.033,0.521,0.167,0.083,0.167,0.05,0.5,0.521,60,62,25,48,23,2017-18,2017,2018
+22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Postup,Offensive,0.132,77,0.093,0.646,0.34,0.19,0.177,0.114,0.038,0.329,0.34,79,51,18,53,35,2017-18,2017,2018
+22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,Postup,Offensive,0.601,21,0.1,0.906,0.368,0.281,0.156,0.219,0.031,0.469,0.368,32,29,7,19,12,2017-18,2017,2018
+22017,203186,Willie Reed,1610612746,LAC,LA Clippers,Postup,Offensive,0.103,39,0.098,0.625,0.385,0.063,0.188,0.063,0.063,0.313,0.385,16,10,5,13,8,2017-18,2017,2018

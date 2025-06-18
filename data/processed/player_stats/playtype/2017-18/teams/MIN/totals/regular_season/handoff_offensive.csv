@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.35,82,0.08,0.803,0.358,0.094,0.063,0.087,0.016,0.354,0.427,127,102,39,109,70
-22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.868,59,0.06,1.123,0.429,0.137,0.041,0.137,0.041,0.466,0.492,73,82,27,63,36
-22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.553,80,0.058,0.922,0.356,0.078,0.039,0.059,0.0,0.392,0.422,51,47,16,45,29
-22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.973,70,0.021,1.348,0.643,0.217,0.217,0.217,0.043,0.565,0.786,23,31,9,14,5
-22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,1.0,82,0.043,1.5,0.706,0.056,0.056,0.056,0.056,0.667,0.794,18,27,12,17,5
-22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,67,0.034,0.2,0.071,0.0,0.067,0.0,0.0,0.067,0.107,15,3,1,14,13
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.35,82,0.08,0.803,0.358,0.094,0.063,0.087,0.016,0.354,0.427,127,102,39,109,70,2017-18,2017,2018
+22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.868,59,0.06,1.123,0.429,0.137,0.041,0.137,0.041,0.466,0.492,73,82,27,63,36,2017-18,2017,2018
+22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.553,80,0.058,0.922,0.356,0.078,0.039,0.059,0.0,0.392,0.422,51,47,16,45,29,2017-18,2017,2018
+22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.973,70,0.021,1.348,0.643,0.217,0.217,0.217,0.043,0.565,0.786,23,31,9,14,5,2017-18,2017,2018
+22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,1.0,82,0.043,1.5,0.706,0.056,0.056,0.056,0.056,0.667,0.794,18,27,12,17,5,2017-18,2017,2018
+22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,67,0.034,0.2,0.071,0.0,0.067,0.0,0.0,0.067,0.107,15,3,1,14,13,2017-18,2017,2018

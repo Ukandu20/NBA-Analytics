@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.55,82,0.029,1.0,0.368,0.093,0.023,0.093,0.0,0.395,0.5,43,43,14,38,24
-22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.839,59,0.023,1.179,0.55,0.143,0.143,0.143,0.0,0.536,0.6,28,33,11,20,9
-22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.747,80,0.033,1.103,0.429,0.069,0.0,0.069,0.034,0.448,0.518,29,32,12,28,16
-22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.313,82,0.019,0.867,0.375,0.2,0.0,0.2,0.0,0.467,0.396,30,26,9,24,15
-22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.55,67,0.032,1.0,0.385,0.0,0.071,0.0,0.0,0.357,0.538,14,14,5,13,8
-22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.202,70,0.009,0.8,0.286,0.2,0.1,0.2,0.0,0.4,0.286,10,8,2,7,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.55,82,0.029,1.0,0.368,0.093,0.023,0.093,0.0,0.395,0.5,43,43,14,38,24,2017-18,2017,2018
+22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.839,59,0.023,1.179,0.55,0.143,0.143,0.143,0.0,0.536,0.6,28,33,11,20,9,2017-18,2017,2018
+22017,2037,Jamal Crawford,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.747,80,0.033,1.103,0.429,0.069,0.0,0.069,0.034,0.448,0.518,29,32,12,28,16,2017-18,2017,2018
+22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.313,82,0.019,0.867,0.375,0.2,0.0,0.2,0.0,0.467,0.396,30,26,9,24,15,2017-18,2017,2018
+22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.55,67,0.032,1.0,0.385,0.0,0.071,0.0,0.0,0.357,0.538,14,14,5,13,8,2017-18,2017,2018
+22017,201952,Jeff Teague,1610612750,MIN,Minnesota Timberwolves,OffScreen,Offensive,0.202,70,0.009,0.8,0.286,0.2,0.1,0.2,0.0,0.4,0.286,10,8,2,7,5,2017-18,2017,2018

@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.84,80,0.133,1.029,0.449,0.174,0.054,0.165,0.045,0.492,0.467,242,249,89,198,109
-22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.922,78,0.061,1.147,0.429,0.173,0.107,0.173,0.027,0.467,0.571,75,86,24,56,32
-22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.808,76,0.047,1.0,0.487,0.093,0.047,0.07,0.047,0.488,0.5,43,43,19,39,20
-22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.344,76,0.083,0.782,0.34,0.055,0.091,0.036,0.0,0.345,0.394,55,43,16,47,31
-22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.716,69,0.057,0.969,0.44,0.125,0.094,0.125,0.0,0.469,0.5,32,31,11,25,14
-22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.911,77,0.029,1.115,0.636,0.0,0.154,0.0,0.0,0.538,0.659,26,29,14,22,8
-22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.514,81,0.046,0.852,0.409,0.148,0.111,0.148,0.074,0.407,0.409,27,23,9,22,13
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.84,80,0.133,1.029,0.449,0.174,0.054,0.165,0.045,0.492,0.467,242,249,89,198,109,2017-18,2017,2018
+22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.922,78,0.061,1.147,0.429,0.173,0.107,0.173,0.027,0.467,0.571,75,86,24,56,32,2017-18,2017,2018
+22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.808,76,0.047,1.0,0.487,0.093,0.047,0.07,0.047,0.488,0.5,43,43,19,39,20,2017-18,2017,2018
+22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.344,76,0.083,0.782,0.34,0.055,0.091,0.036,0.0,0.345,0.394,55,43,16,47,31,2017-18,2017,2018
+22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.716,69,0.057,0.969,0.44,0.125,0.094,0.125,0.0,0.469,0.5,32,31,11,25,14,2017-18,2017,2018
+22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.911,77,0.029,1.115,0.636,0.0,0.154,0.0,0.0,0.538,0.659,26,29,14,22,8,2017-18,2017,2018
+22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.514,81,0.046,0.852,0.409,0.148,0.111,0.148,0.074,0.407,0.409,27,23,9,22,13,2017-18,2017,2018

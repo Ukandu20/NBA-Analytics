@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.374,77,0.153,0.953,0.396,0.114,0.062,0.114,0.0,0.435,0.478,193,184,63,159,96
-22015,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.913,82,0.21,1.29,0.67,0.242,0.056,0.234,0.056,0.677,0.67,124,160,63,94,31
-22015,202389,Timofey Mozgov,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.877,76,0.168,1.215,0.661,0.139,0.089,0.139,0.013,0.62,0.661,79,96,41,62,21
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.954,76,0.036,1.358,0.696,0.134,0.06,0.134,0.03,0.672,0.714,67,91,39,56,17
-22015,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.826,26,0.171,1.161,0.433,0.032,0.0,0.032,0.0,0.452,0.567,31,36,13,30,17
-22015,2760,Anderson Varejao,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.251,31,0.176,0.889,0.5,0.0,0.111,0.0,0.0,0.444,0.5,18,16,8,16,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.374,77,0.153,0.953,0.396,0.114,0.062,0.114,0.0,0.435,0.478,193,184,63,159,96,2015-16,2015,2016
+22015,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.913,82,0.21,1.29,0.67,0.242,0.056,0.234,0.056,0.677,0.67,124,160,63,94,31,2015-16,2015,2016
+22015,202389,Timofey Mozgov,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.877,76,0.168,1.215,0.661,0.139,0.089,0.139,0.013,0.62,0.661,79,96,41,62,21,2015-16,2015,2016
+22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.954,76,0.036,1.358,0.696,0.134,0.06,0.134,0.03,0.672,0.714,67,91,39,56,17,2015-16,2015,2016
+22015,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.826,26,0.171,1.161,0.433,0.032,0.0,0.032,0.0,0.452,0.567,31,36,13,30,17,2015-16,2015,2016
+22015,2760,Anderson Varejao,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.251,31,0.176,0.889,0.5,0.0,0.111,0.0,0.0,0.444,0.5,18,16,8,16,8,2015-16,2015,2016

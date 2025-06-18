@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.611,5,0.069,0.6,0.333,0.2,0.5,0.1,0.0,0.3,0.00333,2.0,1.2,0.2,0.6,0.4
-42015,2730,Dwight Howard,1610612745,HOU,Houston Rockets,Misc,Offensive,0.167,5,0.152,0.333,1.0,0.5,0.417,0.0,0.0,0.25,0.01,2.4,0.8,0.2,0.2,0.0
-42015,201563,Michael Beasley,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.071,0.5,0.0,0.25,0.5,0.0,0.0,0.25,0.0,0.8,0.4,0.0,0.2,0.2
-42015,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.214,0.333,0.0,0.667,0.333,0.0,0.0,0.333,0.0,0.6,0.2,0.0,0.0,0.0
-42015,1891,Jason Terry,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2
-42015,202726,Andrew Goudelock,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,2,0.111,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
-42015,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.045,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2
-42015,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.054,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0
-42015,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.046,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.2,0.2
-42015,2746,Josh Smith,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,4,0.211,0.0,0.0,0.25,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.3
-42015,202700,Donatas Motiejunas,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.14,0.0,0.0,0.0,0.875,0.0,0.0,0.0,0.0,1.6,0.0,0.0,0.2,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.611,5,0.069,0.6,0.333,0.2,0.5,0.1,0.0,0.3,0.00333,2.0,1.2,0.2,0.6,0.4,2015-16,2015,2016
+42015,2730,Dwight Howard,1610612745,HOU,Houston Rockets,Misc,Offensive,0.167,5,0.152,0.333,1.0,0.5,0.417,0.0,0.0,0.25,0.01,2.4,0.8,0.2,0.2,0.0,2015-16,2015,2016
+42015,201563,Michael Beasley,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.071,0.5,0.0,0.25,0.5,0.0,0.0,0.25,0.0,0.8,0.4,0.0,0.2,0.2,2015-16,2015,2016
+42015,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.214,0.333,0.0,0.667,0.333,0.0,0.0,0.333,0.0,0.6,0.2,0.0,0.0,0.0,2015-16,2015,2016
+42015,1891,Jason Terry,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2015-16,2015,2016
+42015,202726,Andrew Goudelock,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,2,0.111,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2015-16,2015,2016
+42015,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.045,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2,2015-16,2015,2016
+42015,201147,Corey Brewer,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.054,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,2015-16,2015,2016
+42015,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.046,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.2,0.2,2015-16,2015,2016
+42015,2746,Josh Smith,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,4,0.211,0.0,0.0,0.25,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.3,2015-16,2015,2016
+42015,202700,Donatas Motiejunas,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,5,0.14,0.0,0.0,0.0,0.875,0.0,0.0,0.0,0.0,1.6,0.0,0.0,0.2,0.2,2015-16,2015,2016

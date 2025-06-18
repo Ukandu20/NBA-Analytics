@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.637,47,0.518,0.882,0.446,0.102,0.066,0.102,0.023,0.454,0.446,304,268,116,260,144
-22015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.382,81,0.108,0.786,0.34,0.229,0.114,0.2,0.057,0.414,0.34,70,55,17,50,33
-22015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.973,81,0.043,1.158,0.581,0.132,0.079,0.105,0.053,0.553,0.581,38,44,18,31,13
-22015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.404,57,0.137,0.796,0.415,0.111,0.13,0.111,0.0,0.407,0.415,54,43,17,41,24
-22015,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.315,70,0.05,0.737,0.41,0.123,0.211,0.053,0.018,0.386,0.41,57,42,16,39,23
-22015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.78,73,0.026,0.938,0.4,0.125,0.0,0.125,0.063,0.438,0.4,16,15,6,15,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,2744,Al Jefferson,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.637,47,0.518,0.882,0.446,0.102,0.066,0.102,0.023,0.454,0.446,304,268,116,260,144,2015-16,2015,2016
+22015,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.382,81,0.108,0.786,0.34,0.229,0.114,0.2,0.057,0.414,0.34,70,55,17,50,33,2015-16,2015,2016
+22015,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.973,81,0.043,1.158,0.581,0.132,0.079,0.105,0.053,0.553,0.581,38,44,18,31,13,2015-16,2015,2016
+22015,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.404,57,0.137,0.796,0.415,0.111,0.13,0.111,0.0,0.407,0.415,54,43,17,41,24,2015-16,2015,2016
+22015,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.315,70,0.05,0.737,0.41,0.123,0.211,0.053,0.018,0.386,0.41,57,42,16,39,23,2015-16,2015,2016
+22015,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Postup,Offensive,0.78,73,0.026,0.938,0.4,0.125,0.0,0.125,0.063,0.438,0.4,16,15,6,15,9,2015-16,2015,2016

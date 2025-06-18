@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202322,John Wall,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.662,78,0.402,0.855,0.459,0.116,0.179,0.104,0.03,0.419,0.473,795,680,268,584,316
-22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.85,77,0.225,0.97,0.483,0.083,0.139,0.066,0.014,0.443,0.537,361,350,138,286,148
-22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.432,57,0.419,0.771,0.437,0.053,0.168,0.038,0.008,0.389,0.451,131,101,45,103,58
-22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.948,80,0.073,1.046,0.509,0.062,0.062,0.046,0.0,0.508,0.535,65,68,29,57,28
-22016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.911,26,0.109,1.0,0.579,0.182,0.273,0.121,0.03,0.485,0.632,33,33,11,19,8
-22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.101,33,0.251,0.541,0.235,0.049,0.098,0.033,0.0,0.246,0.265,61,33,12,51,39
-22016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.157,57,0.259,0.588,0.31,0.059,0.137,0.059,0.02,0.294,0.31,51,30,13,42,29
-22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.25,79,0.079,0.667,0.324,0.071,0.119,0.071,0.0,0.333,0.338,42,28,11,34,23
-22016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.077,23,0.336,0.489,0.2,0.067,0.156,0.067,0.0,0.222,0.229,45,22,7,35,28
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202322,John Wall,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.662,78,0.402,0.855,0.459,0.116,0.179,0.104,0.03,0.419,0.473,795,680,268,584,316,2016-17,2016,2017
+22016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.85,77,0.225,0.97,0.483,0.083,0.139,0.066,0.014,0.443,0.537,361,350,138,286,148,2016-17,2016,2017
+22016,203504,Trey Burke,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.432,57,0.419,0.771,0.437,0.053,0.168,0.038,0.008,0.389,0.451,131,101,45,103,58,2016-17,2016,2017
+22016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.948,80,0.073,1.046,0.509,0.062,0.062,0.046,0.0,0.508,0.535,65,68,29,57,28,2016-17,2016,2017
+22016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.911,26,0.109,1.0,0.579,0.182,0.273,0.121,0.03,0.485,0.632,33,33,11,19,8,2016-17,2016,2017
+22016,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.101,33,0.251,0.541,0.235,0.049,0.098,0.033,0.0,0.246,0.265,61,33,12,51,39,2016-17,2016,2017
+22016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.157,57,0.259,0.588,0.31,0.059,0.137,0.059,0.02,0.294,0.31,51,30,13,42,29,2016-17,2016,2017
+22016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.25,79,0.079,0.667,0.324,0.071,0.119,0.071,0.0,0.333,0.338,42,28,11,34,23,2016-17,2016,2017
+22016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.077,23,0.336,0.489,0.2,0.067,0.156,0.067,0.0,0.222,0.229,45,22,7,35,28,2016-17,2016,2017

@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.498,54,0.218,1.068,0.54,0.13,0.056,0.123,0.043,0.543,0.0054,162,173,75,139,64
-22017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.667,76,0.167,1.153,0.479,0.139,0.09,0.132,0.042,0.479,0.00594,144,166,56,117,61
-22017,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.343,69,0.208,1.01,0.566,0.149,0.119,0.129,0.02,0.535,0.005659999999999999,101,102,43,76,33
-22017,201949,James Johnson,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.612,73,0.068,1.125,0.605,0.161,0.143,0.161,0.071,0.536,0.00628,56,63,26,43,17
-22017,1626175,Jordan Mickey,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.758,23,0.222,1.208,0.65,0.167,0.042,0.167,0.042,0.625,0.006500000000000001,24,29,13,20,7
-22017,201961,Wayne Ellington,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.644,77,0.018,1.143,0.462,0.0,0.071,0.0,0.0,0.429,0.00615,14,16,6,13,7
-22017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.15,68,0.029,0.889,0.467,0.056,0.111,0.056,0.0,0.444,0.005,18,16,7,15,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.498,54,0.218,1.068,0.54,0.13,0.056,0.123,0.043,0.543,0.0054,162,173,75,139,64,2017-18,2017,2018
+22017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.667,76,0.167,1.153,0.479,0.139,0.09,0.132,0.042,0.479,0.00594,144,166,56,117,61,2017-18,2017,2018
+22017,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.343,69,0.208,1.01,0.566,0.149,0.119,0.129,0.02,0.535,0.005659999999999999,101,102,43,76,33,2017-18,2017,2018
+22017,201949,James Johnson,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.612,73,0.068,1.125,0.605,0.161,0.143,0.161,0.071,0.536,0.00628,56,63,26,43,17,2017-18,2017,2018
+22017,1626175,Jordan Mickey,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.758,23,0.222,1.208,0.65,0.167,0.042,0.167,0.042,0.625,0.006500000000000001,24,29,13,20,7,2017-18,2017,2018
+22017,201961,Wayne Ellington,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.644,77,0.018,1.143,0.462,0.0,0.071,0.0,0.0,0.429,0.00615,14,16,6,13,7,2017-18,2017,2018
+22017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,PRRollMan,Offensive,0.15,68,0.029,0.889,0.467,0.056,0.111,0.056,0.0,0.444,0.005,18,16,7,15,8,2017-18,2017,2018

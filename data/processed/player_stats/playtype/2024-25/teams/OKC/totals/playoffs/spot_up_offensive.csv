@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.42,21,0.584,0.952,0.34,0.01,0.058,0.01,0.0,0.327,0.00505,104,99,33,97,64
-42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.473,21,0.281,0.978,0.37,0.056,0.045,0.056,0.011,0.382,0.00488,89,87,30,81,51
-42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.348,21,0.204,0.914,0.349,0.065,0.054,0.065,0.011,0.366,0.00464,93,85,29,83,54
-42024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.73,21,0.378,1.143,0.397,0.0,0.029,0.0,0.0,0.386,0.00588,70,80,27,68,41
-42024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.705,20,0.396,1.132,0.429,0.019,0.057,0.019,0.0,0.415,0.00602,53,60,21,49,28
-42024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.196,21,0.441,0.821,0.308,0.0,0.071,0.0,0.0,0.286,0.00442,56,46,16,52,36
-42024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.295,21,0.058,0.886,0.367,0.086,0.057,0.057,0.0,0.4,0.00433,35,31,11,30,19
-42024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.973,20,0.225,1.611,0.563,0.111,0.0,0.111,0.0,0.611,0.00781,18,29,9,16,7
-42024,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.152,16,0.417,0.75,0.278,0.05,0.05,0.05,0.0,0.25,0.00417,20,15,5,18,13
-42024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.216,14,0.261,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.00417,12,10,4,12,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.42,21,0.584,0.952,0.34,0.01,0.058,0.01,0.0,0.327,0.00505,104,99,33,97,64,2024-25,2024,2025
+42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.473,21,0.281,0.978,0.37,0.056,0.045,0.056,0.011,0.382,0.00488,89,87,30,81,51,2024-25,2024,2025
+42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.348,21,0.204,0.914,0.349,0.065,0.054,0.065,0.011,0.366,0.00464,93,85,29,83,54,2024-25,2024,2025
+42024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.73,21,0.378,1.143,0.397,0.0,0.029,0.0,0.0,0.386,0.00588,70,80,27,68,41,2024-25,2024,2025
+42024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.705,20,0.396,1.132,0.429,0.019,0.057,0.019,0.0,0.415,0.00602,53,60,21,49,28,2024-25,2024,2025
+42024,1641717,Cason Wallace,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.196,21,0.441,0.821,0.308,0.0,0.071,0.0,0.0,0.286,0.00442,56,46,16,52,36,2024-25,2024,2025
+42024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.295,21,0.058,0.886,0.367,0.086,0.057,0.057,0.0,0.4,0.00433,35,31,11,30,19,2024-25,2024,2025
+42024,1630198,Isaiah Joe,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.973,20,0.225,1.611,0.563,0.111,0.0,0.111,0.0,0.611,0.00781,18,29,9,16,7,2024-25,2024,2025
+42024,1631119,Jaylin Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.152,16,0.417,0.75,0.278,0.05,0.05,0.05,0.0,0.25,0.00417,20,15,5,18,13,2024-25,2024,2025
+42024,1629026,Kenrich Williams,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.216,14,0.261,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.00417,12,10,4,12,8,2024-25,2024,2025

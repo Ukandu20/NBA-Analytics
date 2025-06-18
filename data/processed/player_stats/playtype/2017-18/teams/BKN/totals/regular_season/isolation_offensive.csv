@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.727,80,0.187,0.97,0.383,0.203,0.079,0.203,0.045,0.446,0.442,202,196,59,154,95
-22017,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.596,71,0.119,0.895,0.437,0.175,0.123,0.167,0.061,0.447,0.448,114,102,38,87,49
-22017,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.578,68,0.108,0.887,0.44,0.104,0.075,0.104,0.038,0.443,0.44,106,94,40,91,51
-22017,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.532,48,0.123,0.86,0.409,0.084,0.131,0.075,0.037,0.383,0.455,107,92,36,88,52
-22017,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.262,73,0.059,0.729,0.316,0.22,0.136,0.136,0.0,0.424,0.329,59,43,12,38,26
-22017,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.89,75,0.031,1.069,0.462,0.103,0.034,0.103,0.034,0.483,0.519,29,31,12,26,14
-22017,1627785,Isaiah Whitehead,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.573,16,0.144,0.882,0.5,0.235,0.235,0.235,0.059,0.412,0.55,17,15,5,10,5
-22017,1626143,Jahlil Okafor,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.67,26,0.089,0.929,0.545,0.071,0.143,0.0,0.0,0.5,0.545,14,13,6,11,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.727,80,0.187,0.97,0.383,0.203,0.079,0.203,0.045,0.446,0.442,202,196,59,154,95,2017-18,2017,2018
+22017,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.596,71,0.119,0.895,0.437,0.175,0.123,0.167,0.061,0.447,0.448,114,102,38,87,49,2017-18,2017,2018
+22017,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.578,68,0.108,0.887,0.44,0.104,0.075,0.104,0.038,0.443,0.44,106,94,40,91,51,2017-18,2017,2018
+22017,1626156,D'Angelo Russell,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.532,48,0.123,0.86,0.409,0.084,0.131,0.075,0.037,0.383,0.455,107,92,36,88,52,2017-18,2017,2018
+22017,201960,DeMarre Carroll,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.262,73,0.059,0.729,0.316,0.22,0.136,0.136,0.0,0.424,0.329,59,43,12,38,26,2017-18,2017,2018
+22017,203459,Allen Crabbe,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.89,75,0.031,1.069,0.462,0.103,0.034,0.103,0.034,0.483,0.519,29,31,12,26,14,2017-18,2017,2018
+22017,1627785,Isaiah Whitehead,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.573,16,0.144,0.882,0.5,0.235,0.235,0.235,0.059,0.412,0.55,17,15,5,10,5,2017-18,2017,2018
+22017,1626143,Jahlil Okafor,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.67,26,0.089,0.929,0.545,0.071,0.143,0.0,0.0,0.5,0.545,14,13,6,11,5,2017-18,2017,2018

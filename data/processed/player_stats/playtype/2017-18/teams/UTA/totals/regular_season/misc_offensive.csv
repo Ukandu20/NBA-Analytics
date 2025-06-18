@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Misc,Offensive,0.887,77,0.054,0.79,0.462,0.323,0.468,0.016,0.0,0.403,0.00538,62,49,6,13,7
-22017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.528,56,0.124,0.524,0.375,0.369,0.548,0.036,0.01,0.321,0.00375,84,44,3,8,5
-22017,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Misc,Offensive,0.648,79,0.038,0.594,0.29,0.188,0.328,0.016,0.0,0.313,0.00306,64,38,9,31,22
-22017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Misc,Offensive,0.423,82,0.042,0.447,0.2,0.237,0.5,0.0,0.0,0.289,0.0025,38,17,2,10,8
-22017,202692,Alec Burks,1610612762,UTA,Utah Jazz,Misc,Offensive,0.9,64,0.038,0.8,0.333,0.35,0.35,0.1,0.0,0.4,0.00417,20,16,2,6,4
-22017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Misc,Offensive,0.307,77,0.048,0.381,0.5,0.167,0.643,0.024,0.0,0.214,0.005,42,16,4,8,4
-22017,202327,Ekpe Udoh,1610612762,UTA,Utah Jazz,Misc,Offensive,0.761,63,0.128,0.667,0.5,0.286,0.524,0.0,0.0,0.381,0.005,21,14,2,4,2
-22017,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Misc,Offensive,0.593,68,0.062,0.565,0.5,0.174,0.565,0.0,0.0,0.304,0.005829999999999999,23,13,3,6,3
-22017,201973,Jonas Jerebko,1610612762,UTA,Utah Jazz,Misc,Offensive,0.863,74,0.041,0.75,0.5,0.25,0.5,0.0,0.0,0.375,0.00625,16,12,2,4,2
-22017,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Misc,Offensive,0.686,39,0.02,0.615,0.167,0.231,0.308,0.0,0.0,0.308,0.00167,13,8,1,6,5
-22017,203526,Raul Neto,1610612762,UTA,Utah Jazz,Misc,Offensive,0.057,41,0.049,0.2,0.167,0.0,0.4,0.0,0.0,0.1,0.00167,10,2,1,6,5
-22017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Misc,Offensive,0.032,27,0.034,0.167,0.0,0.167,0.417,0.0,0.0,0.083,0.0,12,2,0,5,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201937,Ricky Rubio,1610612762,UTA,Utah Jazz,Misc,Offensive,0.887,77,0.054,0.79,0.462,0.323,0.468,0.016,0.0,0.403,0.00538,62,49,6,13,7,2017-18,2017,2018
+22017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Misc,Offensive,0.528,56,0.124,0.524,0.375,0.369,0.548,0.036,0.01,0.321,0.00375,84,44,3,8,5,2017-18,2017,2018
+22017,1628378,Donovan Mitchell,1610612762,UTA,Utah Jazz,Misc,Offensive,0.648,79,0.038,0.594,0.29,0.188,0.328,0.016,0.0,0.313,0.00306,64,38,9,31,22,2017-18,2017,2018
+22017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Misc,Offensive,0.423,82,0.042,0.447,0.2,0.237,0.5,0.0,0.0,0.289,0.0025,38,17,2,10,8,2017-18,2017,2018
+22017,202692,Alec Burks,1610612762,UTA,Utah Jazz,Misc,Offensive,0.9,64,0.038,0.8,0.333,0.35,0.35,0.1,0.0,0.4,0.00417,20,16,2,6,4,2017-18,2017,2018
+22017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Misc,Offensive,0.307,77,0.048,0.381,0.5,0.167,0.643,0.024,0.0,0.214,0.005,42,16,4,8,4,2017-18,2017,2018
+22017,202327,Ekpe Udoh,1610612762,UTA,Utah Jazz,Misc,Offensive,0.761,63,0.128,0.667,0.5,0.286,0.524,0.0,0.0,0.381,0.005,21,14,2,4,2,2017-18,2017,2018
+22017,1626220,Royce O'Neale,1610612762,UTA,Utah Jazz,Misc,Offensive,0.593,68,0.062,0.565,0.5,0.174,0.565,0.0,0.0,0.304,0.005829999999999999,23,13,3,6,3,2017-18,2017,2018
+22017,201973,Jonas Jerebko,1610612762,UTA,Utah Jazz,Misc,Offensive,0.863,74,0.041,0.75,0.5,0.25,0.5,0.0,0.0,0.375,0.00625,16,12,2,4,2,2017-18,2017,2018
+22017,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Misc,Offensive,0.686,39,0.02,0.615,0.167,0.231,0.308,0.0,0.0,0.308,0.00167,13,8,1,6,5,2017-18,2017,2018
+22017,203526,Raul Neto,1610612762,UTA,Utah Jazz,Misc,Offensive,0.057,41,0.049,0.2,0.167,0.0,0.4,0.0,0.0,0.1,0.00167,10,2,1,6,5,2017-18,2017,2018
+22017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Misc,Offensive,0.032,27,0.034,0.167,0.0,0.167,0.417,0.0,0.0,0.083,0.0,12,2,0,5,5,2017-18,2017,2018

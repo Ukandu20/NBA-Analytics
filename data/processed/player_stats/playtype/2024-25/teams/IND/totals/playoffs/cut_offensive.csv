@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.421,21,0.12,1.206,0.583,0.294,0.059,0.294,0.059,0.647,0.583,34,41,14,24,10
-42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Cut,Offensive,0.378,21,0.077,1.2,0.625,0.2,0.067,0.167,0.067,0.6,0.625,30,36,15,24,9
-42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.947,20,0.106,1.65,0.75,0.3,0.0,0.3,0.1,0.8,0.75,20,33,12,16,4
-42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.784,21,0.106,1.5,0.722,0.2,0.0,0.2,0.1,0.75,0.722,20,30,13,18,5
-42024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,Cut,Offensive,0.378,17,0.227,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.5,10,12,4,8,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Cut,Offensive,0.421,21,0.12,1.206,0.583,0.294,0.059,0.294,0.059,0.647,0.583,34,41,14,24,10,2024-25,2024,2025
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Cut,Offensive,0.378,21,0.077,1.2,0.625,0.2,0.067,0.167,0.067,0.6,0.625,30,36,15,24,9,2024-25,2024,2025
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.947,20,0.106,1.65,0.75,0.3,0.0,0.3,0.1,0.8,0.75,20,33,12,16,4,2024-25,2024,2025
+42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Cut,Offensive,0.784,21,0.106,1.5,0.722,0.2,0.0,0.2,0.1,0.75,0.722,20,30,13,18,5,2024-25,2024,2025
+42024,1628418,Thomas Bryant,1610612754,IND,Indiana Pacers,Cut,Offensive,0.378,17,0.227,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.5,10,12,4,8,4,2024-25,2024,2025

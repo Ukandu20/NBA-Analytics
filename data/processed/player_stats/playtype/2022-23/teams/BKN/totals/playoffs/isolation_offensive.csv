@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,1.0,4,0.192,1.5,0.667,0.143,0.0,0.143,0.0,0.714,0.0070799999999999995,14,21,8,12,4
-42022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.615,4,0.147,1.0,0.5,0.071,0.071,0.143,0.071,0.429,0.00542,14,14,6,12,6
-42022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,3,0.143,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,3,4,2,3,1
-42022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,2,0.625,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.005,5,4,2,4,2
-42022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,4,0.095,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,6,0,0,4,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42022,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,1.0,4,0.192,1.5,0.667,0.143,0.0,0.143,0.0,0.714,0.0070799999999999995,14,21,8,12,4,2022-23,2022,2023
+42022,1628969,Mikal Bridges,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.615,4,0.147,1.0,0.5,0.071,0.071,0.143,0.071,0.429,0.00542,14,14,6,12,6,2022-23,2022,2023
+42022,203552,Seth Curry,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,3,0.143,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,3,4,2,3,1,2022-23,2022,2023
+42022,1630560,Cam Thomas,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,2,0.625,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.005,5,4,2,4,2,2022-23,2022,2023
+42022,1629661,Cameron Johnson,1610612751,BKN,Brooklyn Nets,Isolation,Offensive,0.0,4,0.095,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,6,0,0,4,4,2022-23,2022,2023

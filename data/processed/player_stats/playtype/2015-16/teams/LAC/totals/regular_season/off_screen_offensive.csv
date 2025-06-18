@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,200755,JJ Redick,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.862,75,0.387,1.124,0.474,0.05,0.06,0.047,0.012,0.47,0.578,404,454,173,365,192
-22015,1718,Paul Pierce,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.833,68,0.064,1.097,0.393,0.1,0.03,0.097,0.032,0.42,0.518,31,34,11,28,17
-22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.268,79,0.033,0.795,0.394,0.05,0.13,0.051,0.026,0.36,0.424,39,31,13,33,20
-22015,203085,Austin Rivers,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.98,67,0.025,1.438,0.643,0.06,0.06,0.063,0.0,0.62,0.786,16,23,9,14,5
-22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.134,80,0.06,0.657,0.294,0.0,0.03,0.0,0.0,0.29,0.338,35,23,10,34,24
-22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.407,35,0.027,0.857,0.444,0.05,0.1,0.048,0.0,0.43,0.472,21,18,8,18,10
-22015,101108,Chris Paul,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.057,75,0.009,0.538,0.3,0.0,0.23,0.0,0.0,0.23,0.35,13,7,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,200755,JJ Redick,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.862,75,0.387,1.124,0.474,0.05,0.06,0.047,0.012,0.47,0.578,404,454,173,365,192,2015-16,2015,2016
+22015,1718,Paul Pierce,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.833,68,0.064,1.097,0.393,0.1,0.03,0.097,0.032,0.42,0.518,31,34,11,28,17,2015-16,2015,2016
+22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.268,79,0.033,0.795,0.394,0.05,0.13,0.051,0.026,0.36,0.424,39,31,13,33,20,2015-16,2015,2016
+22015,203085,Austin Rivers,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.98,67,0.025,1.438,0.643,0.06,0.06,0.063,0.0,0.62,0.786,16,23,9,14,5,2015-16,2015,2016
+22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.134,80,0.06,0.657,0.294,0.0,0.03,0.0,0.0,0.29,0.338,35,23,10,34,24,2015-16,2015,2016
+22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.407,35,0.027,0.857,0.444,0.05,0.1,0.048,0.0,0.43,0.472,21,18,8,18,10,2015-16,2015,2016
+22015,101108,Chris Paul,1610612746,LAC,LA Clippers,OffScreen,Offensive,0.057,75,0.009,0.538,0.3,0.0,0.23,0.0,0.0,0.23,0.35,13,7,3,10,7,2015-16,2015,2016

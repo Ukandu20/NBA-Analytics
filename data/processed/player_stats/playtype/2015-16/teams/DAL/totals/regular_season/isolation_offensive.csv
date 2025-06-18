@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.645,65,0.11,0.875,0.438,0.045,0.098,0.036,0.0,0.42,0.464,112,98,42,96,54
-22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.598,80,0.102,0.856,0.347,0.122,0.067,0.111,0.022,0.389,0.387,90,77,26,75,49
-22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.938,75,0.046,1.066,0.489,0.164,0.066,0.131,0.0,0.541,0.5,61,65,23,47,24
-22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.845,61,0.077,0.984,0.395,0.258,0.097,0.242,0.048,0.452,0.43,62,61,17,43,26
-22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.759,78,0.058,0.93,0.426,0.088,0.105,0.088,0.018,0.421,0.468,57,53,20,47,27
-22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.258,74,0.089,0.688,0.333,0.052,0.065,0.052,0.013,0.325,0.355,77,53,23,69,46
-22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.9,76,0.056,1.025,0.522,0.275,0.15,0.25,0.0,0.55,0.522,40,41,12,23,11
-22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.438,64,0.036,0.778,0.429,0.056,0.167,0.056,0.0,0.389,0.464,18,14,6,14,8
-22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.073,55,0.053,0.5,0.143,0.167,0.25,0.167,0.0,0.25,0.143,12,6,1,7,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.645,65,0.11,0.875,0.438,0.045,0.098,0.036,0.0,0.42,0.464,112,98,42,96,54,2015-16,2015,2016
+22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.598,80,0.102,0.856,0.347,0.122,0.067,0.111,0.022,0.389,0.387,90,77,26,75,49,2015-16,2015,2016
+22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.938,75,0.046,1.066,0.489,0.164,0.066,0.131,0.0,0.541,0.5,61,65,23,47,24,2015-16,2015,2016
+22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.845,61,0.077,0.984,0.395,0.258,0.097,0.242,0.048,0.452,0.43,62,61,17,43,26,2015-16,2015,2016
+22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.759,78,0.058,0.93,0.426,0.088,0.105,0.088,0.018,0.421,0.468,57,53,20,47,27,2015-16,2015,2016
+22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.258,74,0.089,0.688,0.333,0.052,0.065,0.052,0.013,0.325,0.355,77,53,23,69,46,2015-16,2015,2016
+22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.9,76,0.056,1.025,0.522,0.275,0.15,0.25,0.0,0.55,0.522,40,41,12,23,11,2015-16,2015,2016
+22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.438,64,0.036,0.778,0.429,0.056,0.167,0.056,0.0,0.389,0.464,18,14,6,14,8,2015-16,2015,2016
+22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Isolation,Offensive,0.073,55,0.053,0.5,0.143,0.167,0.25,0.167,0.0,0.25,0.143,12,6,1,7,6,2015-16,2015,2016

@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.92,80,0.503,1.03,0.439,0.133,0.107,0.113,0.028,0.448,0.516,10.8,11.1,3.7,8.4,4.7
-22017,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.793,80,0.346,0.92,0.423,0.126,0.112,0.12,0.023,0.436,0.456,4.4,4.0,1.4,3.4,2.0
-22017,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.414,64,0.187,0.768,0.4,0.103,0.219,0.065,0.032,0.355,0.45,2.4,1.9,0.7,1.7,1.0
-22017,203487,Michael Carter-Williams,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.194,52,0.312,0.634,0.296,0.119,0.198,0.119,0.02,0.307,0.296,1.9,1.2,0.4,1.4,1.0
-22017,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.153,53,0.258,0.603,0.326,0.069,0.138,0.052,0.0,0.328,0.326,1.1,0.7,0.3,0.9,0.6
-22017,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.299,74,0.06,0.707,0.361,0.098,0.073,0.098,0.049,0.366,0.361,0.6,0.4,0.2,0.5,0.3
-22017,1626203,Treveon Graham,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.649,63,0.055,0.867,0.5,0.0,0.2,0.0,0.0,0.4,0.542,0.2,0.2,0.1,0.2,0.1
-22017,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.899,79,0.013,1.0,0.571,0.273,0.182,0.273,0.091,0.455,0.571,0.1,0.1,0.1,0.1,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.92,80,0.503,1.03,0.439,0.133,0.107,0.113,0.028,0.448,0.516,10.8,11.1,3.7,8.4,4.7,2017-18,2017,2018
+22017,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.793,80,0.346,0.92,0.423,0.126,0.112,0.12,0.023,0.436,0.456,4.4,4.0,1.4,3.4,2.0,2017-18,2017,2018
+22017,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.414,64,0.187,0.768,0.4,0.103,0.219,0.065,0.032,0.355,0.45,2.4,1.9,0.7,1.7,1.0,2017-18,2017,2018
+22017,203487,Michael Carter-Williams,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.194,52,0.312,0.634,0.296,0.119,0.198,0.119,0.02,0.307,0.296,1.9,1.2,0.4,1.4,1.0,2017-18,2017,2018
+22017,1628407,Dwayne Bacon,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.153,53,0.258,0.603,0.326,0.069,0.138,0.052,0.0,0.328,0.326,1.1,0.7,0.3,0.9,0.6,2017-18,2017,2018
+22017,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.299,74,0.06,0.707,0.361,0.098,0.073,0.098,0.049,0.366,0.361,0.6,0.4,0.2,0.5,0.3,2017-18,2017,2018
+22017,1626203,Treveon Graham,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.649,63,0.055,0.867,0.5,0.0,0.2,0.0,0.0,0.4,0.542,0.2,0.2,0.1,0.2,0.1,2017-18,2017,2018
+22017,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRBallHandler,Offensive,0.899,79,0.013,1.0,0.571,0.273,0.182,0.273,0.091,0.455,0.571,0.1,0.1,0.1,0.1,0.0,2017-18,2017,2018

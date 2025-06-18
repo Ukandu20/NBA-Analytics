@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.479,75,0.139,0.842,0.392,0.147,0.083,0.14,0.049,0.411,0.394,265,223,85,217,132
-22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.564,82,0.093,0.879,0.415,0.101,0.107,0.094,0.034,0.409,0.439,149,131,51,123,72
-22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.887,71,0.073,1.063,0.468,0.147,0.095,0.126,0.042,0.484,0.526,95,101,36,77,41
-22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.989,48,0.055,1.455,0.655,0.091,0.03,0.091,0.0,0.667,0.759,33,48,19,29,10
-22017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.227,31,0.094,0.711,0.361,0.026,0.053,0.026,0.026,0.342,0.361,38,27,13,36,23
-22017,203498,Shabazz Muhammad,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.968,11,0.16,1.25,0.625,0.25,0.083,0.25,0.0,0.667,0.625,12,15,5,8,3
-22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.032,75,0.029,0.5,0.3,0.071,0.214,0.071,0.0,0.286,0.3,14,7,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.479,75,0.139,0.842,0.392,0.147,0.083,0.14,0.049,0.411,0.394,265,223,85,217,132,2017-18,2017,2018
+22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.564,82,0.093,0.879,0.415,0.101,0.107,0.094,0.034,0.409,0.439,149,131,51,123,72,2017-18,2017,2018
+22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.887,71,0.073,1.063,0.468,0.147,0.095,0.126,0.042,0.484,0.526,95,101,36,77,41,2017-18,2017,2018
+22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.989,48,0.055,1.455,0.655,0.091,0.03,0.091,0.0,0.667,0.759,33,48,19,29,10,2017-18,2017,2018
+22017,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.227,31,0.094,0.711,0.361,0.026,0.053,0.026,0.026,0.342,0.361,38,27,13,36,23,2017-18,2017,2018
+22017,203498,Shabazz Muhammad,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.968,11,0.16,1.25,0.625,0.25,0.083,0.25,0.0,0.667,0.625,12,15,5,8,3,2017-18,2017,2018
+22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Isolation,Offensive,0.032,75,0.029,0.5,0.3,0.071,0.214,0.071,0.0,0.286,0.3,14,7,3,10,7,2017-18,2017,2018

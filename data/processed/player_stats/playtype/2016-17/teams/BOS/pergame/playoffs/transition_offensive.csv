@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Transition,Offensive,0.76,18,0.22,1.232,0.548,0.043,0.072,0.043,0.014,0.522,0.00653,4.0,5.0,1.9,3.4,1.6
-42016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Transition,Offensive,0.392,15,0.133,1.043,0.462,0.085,0.128,0.085,0.043,0.426,0.00551,3.0,3.0,1.2,2.6,1.4
-42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Transition,Offensive,0.48,18,0.167,1.103,0.5,0.205,0.077,0.205,0.0,0.564,0.005180000000000001,2.0,2.0,0.8,1.6,0.8
-42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.716,18,0.099,1.211,0.462,0.263,0.105,0.211,0.053,0.474,0.00615,1.0,1.0,0.3,0.7,0.4
-42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.743,17,0.154,1.214,0.667,0.286,0.143,0.286,0.071,0.571,0.006670000000000001,1.0,1.0,0.4,0.5,0.2
-42016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.575,17,0.149,1.133,0.5,0.267,0.133,0.2,0.067,0.533,0.0055000000000000005,1.0,1.0,0.3,0.6,0.3
-42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.827,18,0.052,1.333,0.778,0.167,0.25,0.167,0.167,0.583,0.008329999999999999,1.0,1.0,0.4,0.5,0.1
-42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Transition,Offensive,0.307,13,0.146,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.00458,1.0,1.0,0.3,0.9,0.6
-42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Transition,Offensive,0.013,18,0.088,0.571,0.333,0.0,0.143,0.0,0.0,0.286,0.00333,1.0,0.0,0.2,0.7,0.4
-42016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,12,0.098,1.5,1.0,0.25,0.25,0.25,0.0,0.75,0.01,0.0,0.0,0.2,0.2,0.0
-42016,203923,James Young,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,10,0.176,1.0,0.5,0.0,0.333,0.0,0.0,0.333,0.0075,0.0,0.0,0.1,0.2,0.1
-42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,14,0.05,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.0,0.0,0.1,0.1,0.1
-42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,11,0.121,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,0.0,0.0,0.1,0.3,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Transition,Offensive,0.76,18,0.22,1.232,0.548,0.043,0.072,0.043,0.014,0.522,0.00653,4.0,5.0,1.9,3.4,1.6,2016-17,2016,2017
+42016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Transition,Offensive,0.392,15,0.133,1.043,0.462,0.085,0.128,0.085,0.043,0.426,0.00551,3.0,3.0,1.2,2.6,1.4,2016-17,2016,2017
+42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Transition,Offensive,0.48,18,0.167,1.103,0.5,0.205,0.077,0.205,0.0,0.564,0.005180000000000001,2.0,2.0,0.8,1.6,0.8,2016-17,2016,2017
+42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Transition,Offensive,0.716,18,0.099,1.211,0.462,0.263,0.105,0.211,0.053,0.474,0.00615,1.0,1.0,0.3,0.7,0.4,2016-17,2016,2017
+42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Transition,Offensive,0.743,17,0.154,1.214,0.667,0.286,0.143,0.286,0.071,0.571,0.006670000000000001,1.0,1.0,0.4,0.5,0.2,2016-17,2016,2017
+42016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Transition,Offensive,0.575,17,0.149,1.133,0.5,0.267,0.133,0.2,0.067,0.533,0.0055000000000000005,1.0,1.0,0.3,0.6,0.3,2016-17,2016,2017
+42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Transition,Offensive,0.827,18,0.052,1.333,0.778,0.167,0.25,0.167,0.167,0.583,0.008329999999999999,1.0,1.0,0.4,0.5,0.1,2016-17,2016,2017
+42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Transition,Offensive,0.307,13,0.146,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.00458,1.0,1.0,0.3,0.9,0.6,2016-17,2016,2017
+42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Transition,Offensive,0.013,18,0.088,0.571,0.333,0.0,0.143,0.0,0.0,0.286,0.00333,1.0,0.0,0.2,0.7,0.4,2016-17,2016,2017
+42016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,12,0.098,1.5,1.0,0.25,0.25,0.25,0.0,0.75,0.01,0.0,0.0,0.2,0.2,0.0,2016-17,2016,2017
+42016,203923,James Young,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,10,0.176,1.0,0.5,0.0,0.333,0.0,0.0,0.333,0.0075,0.0,0.0,0.1,0.2,0.1,2016-17,2016,2017
+42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,14,0.05,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.0,0.0,0.1,0.1,0.1,2016-17,2016,2017
+42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Transition,Offensive,0.0,11,0.121,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,0.0,0.0,0.1,0.3,0.2,2016-17,2016,2017

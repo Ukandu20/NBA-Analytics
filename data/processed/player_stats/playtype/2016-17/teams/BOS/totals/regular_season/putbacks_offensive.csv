@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.677,80,0.126,1.161,0.596,0.145,0.065,0.129,0.048,0.597,0.596,62,72,31,52,21
-22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.653,55,0.044,1.15,0.595,0.075,0.0,0.075,0.0,0.6,0.595,40,46,22,37,15
-22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.6,79,0.039,1.125,0.514,0.1,0.0,0.1,0.025,0.55,0.514,40,45,19,37,18
-22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.952,72,0.029,1.462,0.667,0.154,0.0,0.115,0.077,0.692,0.708,26,38,16,24,8
-22016,201143,Al Horford,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.363,68,0.034,1.0,0.5,0.061,0.03,0.061,0.0,0.515,0.5,33,33,15,30,15
-22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.316,75,0.051,0.971,0.556,0.088,0.118,0.088,0.0,0.5,0.556,34,33,15,27,12
-22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.517,78,0.05,1.074,0.52,0.074,0.0,0.074,0.0,0.556,0.52,27,29,13,25,12
-22016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.46,51,0.133,1.038,0.524,0.115,0.115,0.115,0.038,0.5,0.524,26,27,11,21,10
-22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.858,76,0.01,1.3,0.611,0.05,0.05,0.05,0.0,0.6,0.667,20,26,11,18,7
-22016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.715,78,0.069,1.182,0.632,0.091,0.045,0.091,0.0,0.636,0.632,22,26,12,19,7
-22016,101123,Gerald Green,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.813,47,0.044,1.25,0.583,0.0,0.0,0.0,0.0,0.583,0.625,12,15,7,12,5
-22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.003,74,0.033,0.438,0.2,0.063,0.0,0.063,0.0,0.25,0.2,16,7,3,15,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.677,80,0.126,1.161,0.596,0.145,0.065,0.129,0.048,0.597,0.596,62,72,31,52,21,2016-17,2016,2017
+22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.653,55,0.044,1.15,0.595,0.075,0.0,0.075,0.0,0.6,0.595,40,46,22,37,15,2016-17,2016,2017
+22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.6,79,0.039,1.125,0.514,0.1,0.0,0.1,0.025,0.55,0.514,40,45,19,37,18,2016-17,2016,2017
+22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.952,72,0.029,1.462,0.667,0.154,0.0,0.115,0.077,0.692,0.708,26,38,16,24,8,2016-17,2016,2017
+22016,201143,Al Horford,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.363,68,0.034,1.0,0.5,0.061,0.03,0.061,0.0,0.515,0.5,33,33,15,30,15,2016-17,2016,2017
+22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.316,75,0.051,0.971,0.556,0.088,0.118,0.088,0.0,0.5,0.556,34,33,15,27,12,2016-17,2016,2017
+22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.517,78,0.05,1.074,0.52,0.074,0.0,0.074,0.0,0.556,0.52,27,29,13,25,12,2016-17,2016,2017
+22016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.46,51,0.133,1.038,0.524,0.115,0.115,0.115,0.038,0.5,0.524,26,27,11,21,10,2016-17,2016,2017
+22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.858,76,0.01,1.3,0.611,0.05,0.05,0.05,0.0,0.6,0.667,20,26,11,18,7,2016-17,2016,2017
+22016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.715,78,0.069,1.182,0.632,0.091,0.045,0.091,0.0,0.636,0.632,22,26,12,19,7,2016-17,2016,2017
+22016,101123,Gerald Green,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.813,47,0.044,1.25,0.583,0.0,0.0,0.0,0.0,0.583,0.625,12,15,7,12,5,2016-17,2016,2017
+22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,OffRebound,Offensive,0.003,74,0.033,0.438,0.2,0.063,0.0,0.063,0.0,0.25,0.2,16,7,3,15,12,2016-17,2016,2017

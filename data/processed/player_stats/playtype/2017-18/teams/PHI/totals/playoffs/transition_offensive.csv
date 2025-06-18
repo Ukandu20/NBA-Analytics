@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.2,10,0.235,0.87,0.55,0.109,0.239,0.109,0.022,0.457,0.0054800000000000005,46,40,17,31,14
-42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.4,10,0.201,1.029,0.41,0.143,0.057,0.143,0.029,0.457,0.00517,35,36,12,29,17
-42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.976,10,0.128,1.524,0.52,0.048,0.0,0.048,0.048,0.524,0.00738,21,32,11,21,10
-42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.082,10,0.31,0.677,0.25,0.065,0.032,0.065,0.0,0.29,0.00321,31,21,7,28,21
-42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.165,8,0.118,0.826,0.35,0.13,0.174,0.087,0.043,0.348,0.0041199999999999995,23,19,6,17,11
-42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.35,10,0.176,1.0,0.47,0.167,0.056,0.167,0.056,0.5,0.005,18,18,7,15,8
-42017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.612,10,0.107,1.154,0.45,0.077,0.077,0.077,0.0,0.462,0.0059099999999999995,13,15,5,11,6
-42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.186,1.0,0.57,0.0,0.125,0.0,0.0,0.5,0.00571,8,8,4,7,3
-42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,8,0.115,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,3,4,2,2,0
-42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,3,0.2,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1
-42017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.2,10,0.235,0.87,0.55,0.109,0.239,0.109,0.022,0.457,0.0054800000000000005,46,40,17,31,14,2017-18,2017,2018
+42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.4,10,0.201,1.029,0.41,0.143,0.057,0.143,0.029,0.457,0.00517,35,36,12,29,17,2017-18,2017,2018
+42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.976,10,0.128,1.524,0.52,0.048,0.0,0.048,0.048,0.524,0.00738,21,32,11,21,10,2017-18,2017,2018
+42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.082,10,0.31,0.677,0.25,0.065,0.032,0.065,0.0,0.29,0.00321,31,21,7,28,21,2017-18,2017,2018
+42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.165,8,0.118,0.826,0.35,0.13,0.174,0.087,0.043,0.348,0.0041199999999999995,23,19,6,17,11,2017-18,2017,2018
+42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.35,10,0.176,1.0,0.47,0.167,0.056,0.167,0.056,0.5,0.005,18,18,7,15,8,2017-18,2017,2018
+42017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.612,10,0.107,1.154,0.45,0.077,0.077,0.077,0.0,0.462,0.0059099999999999995,13,15,5,11,6,2017-18,2017,2018
+42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.186,1.0,0.57,0.0,0.125,0.0,0.0,0.5,0.00571,8,8,4,7,3,2017-18,2017,2018
+42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,8,0.115,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,3,4,2,2,0,2017-18,2017,2018
+42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,3,0.2,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,2017-18,2017,2018
+42017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2017-18,2017,2018

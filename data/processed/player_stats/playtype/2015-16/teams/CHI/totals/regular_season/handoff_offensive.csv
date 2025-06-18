@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.725,81,0.14,0.97,0.47,0.05,0.139,0.04,0.01,0.426,0.536,101,98,39,83,44
-22015,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.835,67,0.055,1.066,0.452,0.145,0.079,0.105,0.039,0.474,0.5,76,81,28,62,34
-22015,202734,E'Twaun Moore,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.792,59,0.097,1.023,0.526,0.045,0.114,0.023,0.023,0.477,0.553,44,45,20,38,18
-22015,201166,Aaron Brooks,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.641,69,0.068,0.923,0.5,0.026,0.231,0.026,0.026,0.385,0.583,39,36,15,30,15
-22015,203503,Tony Snell,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.377,64,0.099,0.775,0.313,0.075,0.125,0.075,0.0,0.325,0.406,40,31,10,32,22
-22015,201565,Derrick Rose,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.136,66,0.036,0.652,0.385,0.043,0.13,0.043,0.022,0.326,0.385,46,30,15,39,24
-22015,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.128,66,0.053,0.643,0.258,0.048,0.214,0.048,0.0,0.214,0.387,42,27,8,31,23
-22015,2399,Mike Dunleavy,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.155,31,0.118,0.667,0.222,0.111,0.222,0.111,0.0,0.259,0.333,27,18,4,18,14
-22015,2550,Kirk Hinrich,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.983,35,0.086,1.308,0.5,0.077,0.0,0.077,0.0,0.538,0.625,13,17,6,12,6
-22015,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.155,27,0.094,0.667,0.333,0.056,0.167,0.056,0.056,0.278,0.367,18,12,5,15,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.725,81,0.14,0.97,0.47,0.05,0.139,0.04,0.01,0.426,0.536,101,98,39,83,44,2015-16,2015,2016
+22015,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.835,67,0.055,1.066,0.452,0.145,0.079,0.105,0.039,0.474,0.5,76,81,28,62,34,2015-16,2015,2016
+22015,202734,E'Twaun Moore,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.792,59,0.097,1.023,0.526,0.045,0.114,0.023,0.023,0.477,0.553,44,45,20,38,18,2015-16,2015,2016
+22015,201166,Aaron Brooks,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.641,69,0.068,0.923,0.5,0.026,0.231,0.026,0.026,0.385,0.583,39,36,15,30,15,2015-16,2015,2016
+22015,203503,Tony Snell,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.377,64,0.099,0.775,0.313,0.075,0.125,0.075,0.0,0.325,0.406,40,31,10,32,22,2015-16,2015,2016
+22015,201565,Derrick Rose,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.136,66,0.036,0.652,0.385,0.043,0.13,0.043,0.022,0.326,0.385,46,30,15,39,24,2015-16,2015,2016
+22015,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.128,66,0.053,0.643,0.258,0.048,0.214,0.048,0.0,0.214,0.387,42,27,8,31,23,2015-16,2015,2016
+22015,2399,Mike Dunleavy,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.155,31,0.118,0.667,0.222,0.111,0.222,0.111,0.0,0.259,0.333,27,18,4,18,14,2015-16,2015,2016
+22015,2550,Kirk Hinrich,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.983,35,0.086,1.308,0.5,0.077,0.0,0.077,0.0,0.538,0.625,13,17,6,12,6,2015-16,2015,2016
+22015,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,Handoff,Offensive,0.155,27,0.094,0.667,0.333,0.056,0.167,0.056,0.056,0.278,0.367,18,12,5,15,10,2015-16,2015,2016

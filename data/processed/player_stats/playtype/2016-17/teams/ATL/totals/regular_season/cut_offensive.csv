@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,2730,Dwight Howard,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.709,74,0.21,1.358,0.765,0.25,0.074,0.245,0.054,0.716,0.765,204,277,114,149,35
-22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.762,69,0.061,1.388,0.723,0.163,0.088,0.15,0.063,0.688,0.723,80,111,47,65,18
-22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.883,79,0.047,1.462,0.74,0.019,0.019,0.019,0.0,0.731,0.74,52,76,37,50,13
-22016,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.314,70,0.16,1.134,0.6,0.045,0.075,0.045,0.015,0.567,0.6,67,76,36,60,24
-22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.806,73,0.056,1.412,0.732,0.196,0.039,0.196,0.039,0.745,0.732,51,72,30,41,11
-22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.289,62,0.117,1.123,0.609,0.14,0.053,0.14,0.0,0.596,0.609,57,64,28,46,18
-22016,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.137,56,0.181,1.02,0.459,0.196,0.078,0.196,0.0,0.529,0.459,51,52,17,37,20
-22016,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.089,26,0.09,0.962,0.476,0.154,0.038,0.115,0.0,0.538,0.476,26,25,10,21,11
-22016,2399,Mike Dunleavy,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.949,30,0.09,1.571,0.846,0.0,0.071,0.0,0.0,0.786,0.846,14,22,11,13,2
-22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.069,79,0.011,0.944,0.5,0.056,0.111,0.056,0.056,0.444,0.5,18,17,8,16,8
-22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.966,32,0.034,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,10,16,8,10,2
-22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.865,59,0.028,1.455,0.7,0.091,0.0,0.091,0.0,0.727,0.7,11,16,7,10,3
-22016,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.238,18,0.155,1.091,0.545,0.0,0.0,0.0,0.0,0.545,0.545,11,12,6,11,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,2730,Dwight Howard,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.709,74,0.21,1.358,0.765,0.25,0.074,0.245,0.054,0.716,0.765,204,277,114,149,35,2016-17,2016,2017
+22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.762,69,0.061,1.388,0.723,0.163,0.088,0.15,0.063,0.688,0.723,80,111,47,65,18,2016-17,2016,2017
+22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.883,79,0.047,1.462,0.74,0.019,0.019,0.019,0.0,0.731,0.74,52,76,37,50,13,2016-17,2016,2017
+22016,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.314,70,0.16,1.134,0.6,0.045,0.075,0.045,0.015,0.567,0.6,67,76,36,60,24,2016-17,2016,2017
+22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.806,73,0.056,1.412,0.732,0.196,0.039,0.196,0.039,0.745,0.732,51,72,30,41,11,2016-17,2016,2017
+22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.289,62,0.117,1.123,0.609,0.14,0.053,0.14,0.0,0.596,0.609,57,64,28,46,18,2016-17,2016,2017
+22016,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.137,56,0.181,1.02,0.459,0.196,0.078,0.196,0.0,0.529,0.459,51,52,17,37,20,2016-17,2016,2017
+22016,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.089,26,0.09,0.962,0.476,0.154,0.038,0.115,0.0,0.538,0.476,26,25,10,21,11,2016-17,2016,2017
+22016,2399,Mike Dunleavy,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.949,30,0.09,1.571,0.846,0.0,0.071,0.0,0.0,0.786,0.846,14,22,11,13,2,2016-17,2016,2017
+22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.069,79,0.011,0.944,0.5,0.056,0.111,0.056,0.056,0.444,0.5,18,17,8,16,8,2016-17,2016,2017
+22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.966,32,0.034,1.6,0.8,0.0,0.0,0.0,0.0,0.8,0.8,10,16,8,10,2,2016-17,2016,2017
+22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.865,59,0.028,1.455,0.7,0.091,0.0,0.091,0.0,0.727,0.7,11,16,7,10,3,2016-17,2016,2017
+22016,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Cut,Offensive,0.238,18,0.155,1.091,0.545,0.0,0.0,0.0,0.0,0.545,0.545,11,12,6,11,5,2016-17,2016,2017

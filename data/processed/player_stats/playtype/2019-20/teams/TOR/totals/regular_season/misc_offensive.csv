@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.79,58,0.07,0.696,0.38,0.253,0.443,0.038,0.025,0.342,0.0044,79,55,10,26,16
-22019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.934,54,0.057,0.875,0.39,0.268,0.321,0.0,0.0,0.429,0.0046,56,49,9,23,14
-22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.943,60,0.038,0.904,0.55,0.269,0.346,0.038,0.0,0.462,0.0068000000000000005,52,47,11,20,9
-22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.921,52,0.048,0.857,0.31,0.343,0.286,0.029,0.0,0.457,0.0034999999999999996,35,30,4,13,9
-22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.832,69,0.044,0.733,0.55,0.267,0.367,0.033,0.0,0.4,0.0059,30,22,6,11,5
-22019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.299,44,0.125,0.4,0.5,0.267,0.689,0.0,0.0,0.244,0.005,45,18,1,2,1
-22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.54,72,0.036,0.526,0.0,0.263,0.474,0.105,0.0,0.263,0.0,19,10,0,5,5
-22019,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.74,62,0.037,0.643,0.0,0.357,0.643,0.0,0.0,0.357,0.0,14,9,0,0,0
-22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.245,60,0.055,0.36,0.17,0.28,0.48,0.04,0.0,0.2,0.0017000000000000001,25,9,1,6,5
-22019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.06,55,0.055,0.196,0.2,0.13,0.761,0.022,0.0,0.152,0.002,46,9,1,5,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22019,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.79,58,0.07,0.696,0.38,0.253,0.443,0.038,0.025,0.342,0.0044,79,55,10,26,16,2019-20,2019,2020
+22019,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.934,54,0.057,0.875,0.39,0.268,0.321,0.0,0.0,0.429,0.0046,56,49,9,23,14,2019-20,2019,2020
+22019,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.943,60,0.038,0.904,0.55,0.269,0.346,0.038,0.0,0.462,0.0068000000000000005,52,47,11,20,9,2019-20,2019,2020
+22019,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.921,52,0.048,0.857,0.31,0.343,0.286,0.029,0.0,0.457,0.0034999999999999996,35,30,4,13,9,2019-20,2019,2020
+22019,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.832,69,0.044,0.733,0.55,0.267,0.367,0.033,0.0,0.4,0.0059,30,22,6,11,5,2019-20,2019,2020
+22019,201188,Marc Gasol,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.299,44,0.125,0.4,0.5,0.267,0.689,0.0,0.0,0.244,0.005,45,18,1,2,1,2019-20,2019,2020
+22019,1629056,Terence Davis,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.54,72,0.036,0.526,0.0,0.263,0.474,0.105,0.0,0.263,0.0,19,10,0,5,5,2019-20,2019,2020
+22019,1628449,Chris Boucher,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.74,62,0.037,0.643,0.0,0.357,0.643,0.0,0.0,0.357,0.0,14,9,0,0,0,2019-20,2019,2020
+22019,1626178,Rondae Hollis-Jefferson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.245,60,0.055,0.36,0.17,0.28,0.48,0.04,0.0,0.2,0.0017000000000000001,25,9,1,6,5,2019-20,2019,2020
+22019,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.06,55,0.055,0.196,0.2,0.13,0.761,0.022,0.0,0.152,0.002,46,9,1,5,4,2019-20,2019,2020

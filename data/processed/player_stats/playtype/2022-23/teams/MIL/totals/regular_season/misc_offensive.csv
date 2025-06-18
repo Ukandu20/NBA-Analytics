@@ -1,15 +1,15 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.599,63,0.064,0.567,0.432,0.233,0.475,0.058,0.017,0.317,0.00473,120,68,16,37,21
-22022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.817,67,0.063,0.716,0.485,0.148,0.457,0.049,0.012,0.333,0.0057599999999999995,81,58,16,33,17
-22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.884,72,0.05,0.794,0.25,0.294,0.353,0.029,0.0,0.382,0.00333,34,27,3,12,9
-22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.327,78,0.06,0.415,0.571,0.169,0.754,0.077,0.031,0.2,0.00643,65,27,4,7,3
-22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.412,70,0.034,0.469,0.2,0.281,0.563,0.0,0.0,0.281,0.002,32,15,1,5,4
-22022,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.749,35,0.117,0.667,0.2,0.286,0.476,0.0,0.0,0.333,0.003,21,14,1,5,4
-22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.566,61,0.055,0.538,0.286,0.231,0.5,0.0,0.0,0.308,0.00357,26,14,2,7,5
-22022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.372,33,0.06,0.452,0.143,0.258,0.548,0.097,0.032,0.226,0.0014299999999999998,31,14,1,7,6
-22022,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.249,81,0.059,0.359,0.2,0.128,0.487,0.0,0.0,0.205,0.00267,39,14,3,15,12
-22022,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.533,52,0.089,0.529,0.0,0.353,0.471,0.118,0.0,0.353,0.0,17,9,0,3,3
-22022,204060,Joe Ingles,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.418,46,0.055,0.471,0.25,0.235,0.529,0.0,0.0,0.294,0.0025,17,8,1,4,3
-22022,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.795,38,0.04,0.7,0.6,0.1,0.5,0.1,0.1,0.3,0.006,10,7,3,5,2
-22022,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.393,16,0.183,0.462,1.0,0.154,0.692,0.0,0.0,0.308,0.01,13,6,2,2,0
-22022,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.063,52,0.033,0.2,0.2,0.0,0.5,0.0,0.0,0.1,0.002,10,2,1,5,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22022,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.599,63,0.064,0.567,0.432,0.233,0.475,0.058,0.017,0.317,0.00473,120,68,16,37,21,2022-23,2022,2023
+22022,201950,Jrue Holiday,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.817,67,0.063,0.716,0.485,0.148,0.457,0.049,0.012,0.333,0.0057599999999999995,81,58,16,33,17,2022-23,2022,2023
+22022,1628960,Grayson Allen,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.884,72,0.05,0.794,0.25,0.294,0.353,0.029,0.0,0.382,0.00333,34,27,3,12,9,2022-23,2022,2023
+22022,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.327,78,0.06,0.415,0.571,0.169,0.754,0.077,0.031,0.2,0.00643,65,27,4,7,3,2022-23,2022,2023
+22022,1626171,Bobby Portis,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.412,70,0.034,0.469,0.2,0.281,0.563,0.0,0.0,0.281,0.002,32,15,1,5,4,2022-23,2022,2023
+22022,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.749,35,0.117,0.667,0.2,0.286,0.476,0.0,0.0,0.333,0.003,21,14,1,5,4,2022-23,2022,2023
+22022,1626192,Pat Connaughton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.566,61,0.055,0.538,0.286,0.231,0.5,0.0,0.0,0.308,0.00357,26,14,2,7,5,2022-23,2022,2023
+22022,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.372,33,0.06,0.452,0.143,0.258,0.548,0.097,0.032,0.226,0.0014299999999999998,31,14,1,7,6,2022-23,2022,2023
+22022,1628975,Jevon Carter,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.249,81,0.059,0.359,0.2,0.128,0.487,0.0,0.0,0.205,0.00267,39,14,3,15,12,2022-23,2022,2023
+22022,202083,Wesley Matthews,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.533,52,0.089,0.529,0.0,0.353,0.471,0.118,0.0,0.353,0.0,17,9,0,3,3,2022-23,2022,2023
+22022,204060,Joe Ingles,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.418,46,0.055,0.471,0.25,0.235,0.529,0.0,0.0,0.294,0.0025,17,8,1,4,3,2022-23,2022,2023
+22022,1629670,Jordan Nwora,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.795,38,0.04,0.7,0.6,0.1,0.5,0.1,0.1,0.3,0.006,10,7,3,5,2,2022-23,2022,2023
+22022,201586,Serge Ibaka,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.393,16,0.183,0.462,1.0,0.154,0.692,0.0,0.0,0.308,0.01,13,6,2,2,0,2022-23,2022,2023
+22022,1630699,MarJon Beauchamp,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.063,52,0.033,0.2,0.2,0.0,0.5,0.0,0.0,0.1,0.002,10,2,1,5,4,2022-23,2022,2023

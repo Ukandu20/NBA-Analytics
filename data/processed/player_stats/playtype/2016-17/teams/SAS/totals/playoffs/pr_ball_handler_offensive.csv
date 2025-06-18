@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.931,12,0.299,1.111,0.517,0.185,0.123,0.16,0.062,0.506,0.00542,81,90,31,60,29
-42016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.879,8,0.448,1.077,0.545,0.096,0.096,0.096,0.038,0.519,0.00545,52,56,24,44,20
-42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.793,15,0.22,1.057,0.517,0.114,0.086,0.114,0.029,0.486,0.005520000000000001,35,37,15,29,14
-42016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.224,16,0.308,0.654,0.324,0.077,0.212,0.077,0.0,0.308,0.00338,52,34,12,37,25
-42016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.737,16,0.212,1.0,0.474,0.2,0.08,0.2,0.04,0.48,0.005,25,25,9,19,10
-42016,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.052,11,0.261,0.478,0.267,0.087,0.261,0.043,0.0,0.261,0.00267,23,11,4,15,11
-42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,15,0.067,1.2,1.0,0.0,0.4,0.0,0.0,0.6,0.01,5,6,3,3,0
-42016,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,6,0.269,0.714,0.333,0.0,0.143,0.0,0.0,0.286,0.00417,7,5,2,6,4
-42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,13,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,16,0.038,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.931,12,0.299,1.111,0.517,0.185,0.123,0.16,0.062,0.506,0.00542,81,90,31,60,29,2016-17,2016,2017
+42016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.879,8,0.448,1.077,0.545,0.096,0.096,0.096,0.038,0.519,0.00545,52,56,24,44,20,2016-17,2016,2017
+42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.793,15,0.22,1.057,0.517,0.114,0.086,0.114,0.029,0.486,0.005520000000000001,35,37,15,29,14,2016-17,2016,2017
+42016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.224,16,0.308,0.654,0.324,0.077,0.212,0.077,0.0,0.308,0.00338,52,34,12,37,25,2016-17,2016,2017
+42016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.737,16,0.212,1.0,0.474,0.2,0.08,0.2,0.04,0.48,0.005,25,25,9,19,10,2016-17,2016,2017
+42016,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.052,11,0.261,0.478,0.267,0.087,0.261,0.043,0.0,0.261,0.00267,23,11,4,15,11,2016-17,2016,2017
+42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,15,0.067,1.2,1.0,0.0,0.4,0.0,0.0,0.6,0.01,5,6,3,3,0,2016-17,2016,2017
+42016,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,6,0.269,0.714,0.333,0.0,0.143,0.0,0.0,0.286,0.00417,7,5,2,6,4,2016-17,2016,2017
+42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,13,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,PRBallHandler,Offensive,0.0,16,0.038,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4,2016-17,2016,2017

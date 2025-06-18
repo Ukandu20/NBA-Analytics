@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.495,67,0.213,1.052,0.526,0.121,0.04,0.116,0.04,0.532,0.526,173,182,80,152,72
-22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.788,80,0.137,1.204,0.622,0.13,0.065,0.093,0.028,0.602,0.622,108,130,56,90,34
-22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.672,60,0.096,1.133,0.6,0.044,0.089,0.022,0.022,0.556,0.6,45,51,24,40,16
-22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.451,82,0.033,1.025,0.457,0.125,0.025,0.125,0.025,0.5,0.471,40,41,16,35,19
-22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.239,70,0.078,0.911,0.472,0.111,0.089,0.111,0.0,0.467,0.472,45,41,17,36,19
-22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.514,53,0.035,1.059,0.483,0.176,0.059,0.176,0.088,0.5,0.5,34,36,14,29,15
-22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.034,32,0.153,0.654,0.311,0.135,0.019,0.115,0.019,0.346,0.311,52,34,14,45,31
-22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.637,76,0.02,1.111,0.571,0.111,0.111,0.056,0.0,0.556,0.607,18,20,8,14,6
-22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.382,20,0.118,1.0,0.545,0.333,0.056,0.333,0.0,0.611,0.545,18,18,6,11,5
-22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.111,68,0.014,0.765,0.429,0.059,0.118,0.059,0.0,0.412,0.429,17,13,6,14,8
-22015,203960,JaKarr Sampson,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.129,26,0.068,0.8,0.375,0.2,0.0,0.2,0.0,0.5,0.375,10,8,3,8,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.495,67,0.213,1.052,0.526,0.121,0.04,0.116,0.04,0.532,0.526,173,182,80,152,72,2015-16,2015,2016
+22015,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.788,80,0.137,1.204,0.622,0.13,0.065,0.093,0.028,0.602,0.622,108,130,56,90,34,2015-16,2015,2016
+22015,203530,Joffrey Lauvergne,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.672,60,0.096,1.133,0.6,0.044,0.089,0.022,0.022,0.556,0.6,45,51,24,40,16,2015-16,2015,2016
+22015,203115,Will Barton,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.451,82,0.033,1.025,0.457,0.125,0.025,0.125,0.025,0.5,0.471,40,41,16,35,19,2015-16,2015,2016
+22015,201589,Darrell Arthur,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.239,70,0.078,0.911,0.472,0.111,0.089,0.111,0.0,0.467,0.472,45,41,17,36,19,2015-16,2015,2016
+22015,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.514,53,0.035,1.059,0.483,0.176,0.059,0.176,0.088,0.5,0.5,34,36,14,29,15,2015-16,2015,2016
+22015,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.034,32,0.153,0.654,0.311,0.135,0.019,0.115,0.019,0.346,0.311,52,34,14,45,31,2015-16,2015,2016
+22015,203914,Gary Harris,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.637,76,0.02,1.111,0.571,0.111,0.111,0.056,0.0,0.556,0.607,18,20,8,14,6,2015-16,2015,2016
+22015,201581,JJ Hickson,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.382,20,0.118,1.0,0.545,0.333,0.056,0.333,0.0,0.611,0.545,18,18,6,11,5,2015-16,2015,2016
+22015,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.111,68,0.014,0.765,0.429,0.059,0.118,0.059,0.0,0.412,0.429,17,13,6,14,8,2015-16,2015,2016
+22015,203960,JaKarr Sampson,1610612743,DEN,Denver Nuggets,OffRebound,Offensive,0.129,26,0.068,0.8,0.375,0.2,0.0,0.2,0.0,0.5,0.375,10,8,3,8,5,2015-16,2015,2016

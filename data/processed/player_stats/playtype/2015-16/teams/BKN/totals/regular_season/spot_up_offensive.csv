@@ -1,16 +1,16 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202711,Bojan Bogdanović,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.683,79,0.31,1.017,0.376,0.031,0.07,0.024,0.003,0.367,0.535,286,291,97,258,161
-22015,201961,Wayne Ellington,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.769,76,0.319,1.06,0.393,0.01,0.04,0.005,0.0,0.383,0.545,201,213,75,191,116
-22015,2207,Joe Johnson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.798,57,0.236,1.077,0.413,0.027,0.06,0.022,0.005,0.401,0.563,182,196,69,167,98
-22015,203900,Markel Brown,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.389,64,0.289,0.893,0.321,0.083,0.017,0.05,0.008,0.364,0.431,121,108,35,109,74
-22015,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.249,73,0.085,0.805,0.411,0.086,0.094,0.078,0.016,0.406,0.416,128,103,44,107,63
-22015,202388,Donald Sloan,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.713,61,0.205,1.031,0.398,0.01,0.051,0.01,0.01,0.378,0.538,98,101,37,93,56
-22015,203930,Sean Kilpatrick,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.718,22,0.311,1.032,0.402,0.021,0.053,0.021,0.0,0.394,0.534,94,97,35,87,52
-22015,200745,Andrea Bargnani,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.396,46,0.287,0.894,0.42,0.117,0.064,0.096,0.043,0.436,0.426,94,84,34,81,47
-22015,101127,Jarrett Jack,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.38,32,0.184,0.89,0.333,0.077,0.077,0.077,0.011,0.352,0.429,91,81,26,78,52
-22015,201152,Thaddeus Young,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.156,73,0.093,0.734,0.362,0.064,0.064,0.073,0.0,0.367,0.383,109,80,34,94,60
-22015,203499,Shane Larkin,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.457,78,0.124,0.919,0.377,0.07,0.07,0.07,0.035,0.372,0.468,86,79,29,77,48
-22015,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.315,29,0.238,0.844,0.4,0.044,0.089,0.044,0.022,0.378,0.438,45,38,16,40,24
-22015,1626191,Chris McCullough,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.337,25,0.309,0.857,0.368,0.0,0.095,0.0,0.0,0.333,0.474,42,36,14,38,24
-22015,203080,Thomas Robinson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.014,71,0.06,0.458,0.25,0.125,0.042,0.125,0.0,0.25,0.25,24,11,5,20,15
-22015,203156,Henry Sims,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.021,14,0.117,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,12,6,3,12,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202711,Bojan Bogdanović,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.683,79,0.31,1.017,0.376,0.031,0.07,0.024,0.003,0.367,0.535,286,291,97,258,161,2015-16,2015,2016
+22015,201961,Wayne Ellington,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.769,76,0.319,1.06,0.393,0.01,0.04,0.005,0.0,0.383,0.545,201,213,75,191,116,2015-16,2015,2016
+22015,2207,Joe Johnson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.798,57,0.236,1.077,0.413,0.027,0.06,0.022,0.005,0.401,0.563,182,196,69,167,98,2015-16,2015,2016
+22015,203900,Markel Brown,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.389,64,0.289,0.893,0.321,0.083,0.017,0.05,0.008,0.364,0.431,121,108,35,109,74,2015-16,2015,2016
+22015,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.249,73,0.085,0.805,0.411,0.086,0.094,0.078,0.016,0.406,0.416,128,103,44,107,63,2015-16,2015,2016
+22015,202388,Donald Sloan,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.713,61,0.205,1.031,0.398,0.01,0.051,0.01,0.01,0.378,0.538,98,101,37,93,56,2015-16,2015,2016
+22015,203930,Sean Kilpatrick,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.718,22,0.311,1.032,0.402,0.021,0.053,0.021,0.0,0.394,0.534,94,97,35,87,52,2015-16,2015,2016
+22015,200745,Andrea Bargnani,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.396,46,0.287,0.894,0.42,0.117,0.064,0.096,0.043,0.436,0.426,94,84,34,81,47,2015-16,2015,2016
+22015,101127,Jarrett Jack,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.38,32,0.184,0.89,0.333,0.077,0.077,0.077,0.011,0.352,0.429,91,81,26,78,52,2015-16,2015,2016
+22015,201152,Thaddeus Young,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.156,73,0.093,0.734,0.362,0.064,0.064,0.073,0.0,0.367,0.383,109,80,34,94,60,2015-16,2015,2016
+22015,203499,Shane Larkin,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.457,78,0.124,0.919,0.377,0.07,0.07,0.07,0.035,0.372,0.468,86,79,29,77,48,2015-16,2015,2016
+22015,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.315,29,0.238,0.844,0.4,0.044,0.089,0.044,0.022,0.378,0.438,45,38,16,40,24,2015-16,2015,2016
+22015,1626191,Chris McCullough,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.337,25,0.309,0.857,0.368,0.0,0.095,0.0,0.0,0.333,0.474,42,36,14,38,24,2015-16,2015,2016
+22015,203080,Thomas Robinson,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.014,71,0.06,0.458,0.25,0.125,0.042,0.125,0.0,0.25,0.25,24,11,5,20,15,2015-16,2015,2016
+22015,203156,Henry Sims,1610612751,BKN,Brooklyn Nets,Spotup,Offensive,0.021,14,0.117,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,12,6,3,12,9,2015-16,2015,2016

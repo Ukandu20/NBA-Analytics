@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.775,77,0.385,1.159,0.516,0.154,0.027,0.148,0.027,0.56,0.556,182,211,79,153,74
-22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.376,54,0.28,0.958,0.439,0.028,0.047,0.033,0.0,0.433,0.492,215,206,87,198,111
-22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.537,79,0.082,1.048,0.496,0.056,0.056,0.056,0.024,0.484,0.531,124,130,56,113,57
-22016,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.972,73,0.243,1.44,0.8,0.18,0.06,0.16,0.04,0.74,0.8,50,72,32,40,8
-22016,203457,Nerlens Noel,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.834,22,0.278,1.184,0.61,0.122,0.061,0.122,0.02,0.592,0.61,49,58,25,41,16
-22016,101106,Andrew Bogut,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.592,26,0.117,1.067,0.571,0.0,0.067,0.0,0.0,0.533,0.571,15,16,8,14,6
-22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.014,73,0.014,0.5,0.167,0.071,0.071,0.071,0.0,0.214,0.208,14,7,2,12,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.775,77,0.385,1.159,0.516,0.154,0.027,0.148,0.027,0.56,0.556,182,211,79,153,74,2016-17,2016,2017
+22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.376,54,0.28,0.958,0.439,0.028,0.047,0.033,0.0,0.433,0.492,215,206,87,198,111,2016-17,2016,2017
+22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.537,79,0.082,1.048,0.496,0.056,0.056,0.056,0.024,0.484,0.531,124,130,56,113,57,2016-17,2016,2017
+22016,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.972,73,0.243,1.44,0.8,0.18,0.06,0.16,0.04,0.74,0.8,50,72,32,40,8,2016-17,2016,2017
+22016,203457,Nerlens Noel,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.834,22,0.278,1.184,0.61,0.122,0.061,0.122,0.02,0.592,0.61,49,58,25,41,16,2016-17,2016,2017
+22016,101106,Andrew Bogut,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.592,26,0.117,1.067,0.571,0.0,0.067,0.0,0.0,0.533,0.571,15,16,8,14,6,2016-17,2016,2017
+22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.014,73,0.014,0.5,0.167,0.071,0.071,0.071,0.0,0.214,0.208,14,7,2,12,10,2016-17,2016,2017

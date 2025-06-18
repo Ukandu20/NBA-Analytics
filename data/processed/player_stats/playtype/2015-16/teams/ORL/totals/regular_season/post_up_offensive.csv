@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Offensive,0.758,65,0.283,0.928,0.502,0.078,0.106,0.04,0.006,0.477,0.502,348,323,143,285,142
-22015,203094,Andrew Nicholson,1610612753,ORL,Orlando Magic,Postup,Offensive,0.789,56,0.323,0.943,0.495,0.073,0.106,0.049,0.016,0.472,0.495,123,116,51,103,52
-22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,Postup,Offensive,0.466,49,0.084,0.825,0.348,0.175,0.07,0.158,0.053,0.404,0.348,57,47,16,46,30
-22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.247,78,0.043,0.71,0.364,0.161,0.161,0.129,0.032,0.387,0.364,31,22,8,22,14
-22015,203473,Dewayne Dedmon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.928,58,0.062,1.067,0.571,0.0,0.067,0.0,0.0,0.533,0.571,15,16,8,14,6
-22015,101112,Channing Frye,1610612753,ORL,Orlando Magic,Postup,Offensive,0.491,44,0.054,0.833,0.571,0.083,0.333,0.083,0.0,0.417,0.571,12,10,4,7,3
-22015,101141,Ersan Ilyasova,1610612753,ORL,Orlando Magic,Postup,Offensive,0.027,22,0.07,0.385,0.125,0.154,0.231,0.154,0.0,0.231,0.125,13,5,1,8,7
-22015,201160,Jason Smith,1610612753,ORL,Orlando Magic,Postup,Offensive,0.022,76,0.024,0.357,0.182,0.071,0.143,0.071,0.0,0.214,0.182,14,5,2,11,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,Postup,Offensive,0.758,65,0.283,0.928,0.502,0.078,0.106,0.04,0.006,0.477,0.502,348,323,143,285,142,2015-16,2015,2016
+22015,203094,Andrew Nicholson,1610612753,ORL,Orlando Magic,Postup,Offensive,0.789,56,0.323,0.943,0.495,0.073,0.106,0.049,0.016,0.472,0.495,123,116,51,103,52,2015-16,2015,2016
+22015,202699,Tobias Harris,1610612753,ORL,Orlando Magic,Postup,Offensive,0.466,49,0.084,0.825,0.348,0.175,0.07,0.158,0.053,0.404,0.348,57,47,16,46,30,2015-16,2015,2016
+22015,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.247,78,0.043,0.71,0.364,0.161,0.161,0.129,0.032,0.387,0.364,31,22,8,22,14,2015-16,2015,2016
+22015,203473,Dewayne Dedmon,1610612753,ORL,Orlando Magic,Postup,Offensive,0.928,58,0.062,1.067,0.571,0.0,0.067,0.0,0.0,0.533,0.571,15,16,8,14,6,2015-16,2015,2016
+22015,101112,Channing Frye,1610612753,ORL,Orlando Magic,Postup,Offensive,0.491,44,0.054,0.833,0.571,0.083,0.333,0.083,0.0,0.417,0.571,12,10,4,7,3,2015-16,2015,2016
+22015,101141,Ersan Ilyasova,1610612753,ORL,Orlando Magic,Postup,Offensive,0.027,22,0.07,0.385,0.125,0.154,0.231,0.154,0.0,0.231,0.125,13,5,1,8,7,2015-16,2015,2016
+22015,201160,Jason Smith,1610612753,ORL,Orlando Magic,Postup,Offensive,0.022,76,0.024,0.357,0.182,0.071,0.143,0.071,0.0,0.214,0.182,14,5,2,11,9,2015-16,2015,2016

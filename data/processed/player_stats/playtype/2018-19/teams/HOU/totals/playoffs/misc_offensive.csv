@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Misc,Offensive,0.824,11,0.091,0.895,0.0,0.47,0.053,0.0,0.0,0.474,0.0,19,17,0,9,9
-42018,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.686,11,0.056,0.85,0.556,0.2,0.35,0.1,0.0,0.4,0.006670000000000001,20,17,5,9,4
-42018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Misc,Offensive,0.943,11,0.112,1.083,0.5,0.58,0.25,0.0,0.0,0.583,0.005,12,13,1,2,1
-42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,11,0.044,2.5,1.0,0.5,0.0,0.0,0.0,1.0,0.015,2,5,1,1,0
-42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,10,0.042,0.667,0.0,0.33,0.333,0.0,0.0,0.333,0.0,3,2,0,1,1
-42018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,11,0.053,0.333,0.0,0.17,0.833,0.167,0.0,0.167,0.0,6,2,0,0,0
-42018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,6,0.063,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,1,0,0,0
-42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.009,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,8,0.067,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1
-42018,2403,Nene,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.176,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0
-42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.067,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Misc,Offensive,0.824,11,0.091,0.895,0.0,0.47,0.053,0.0,0.0,0.474,0.0,19,17,0,9,9,2018-19,2018,2019
+42018,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.686,11,0.056,0.85,0.556,0.2,0.35,0.1,0.0,0.4,0.006670000000000001,20,17,5,9,4,2018-19,2018,2019
+42018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Misc,Offensive,0.943,11,0.112,1.083,0.5,0.58,0.25,0.0,0.0,0.583,0.005,12,13,1,2,1,2018-19,2018,2019
+42018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,11,0.044,2.5,1.0,0.5,0.0,0.0,0.0,1.0,0.015,2,5,1,1,0,2018-19,2018,2019
+42018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,10,0.042,0.667,0.0,0.33,0.333,0.0,0.0,0.333,0.0,3,2,0,1,1,2018-19,2018,2019
+42018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,11,0.053,0.333,0.0,0.17,0.833,0.167,0.0,0.167,0.0,6,2,0,0,0,2018-19,2018,2019
+42018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,6,0.063,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1,1,0,0,0,2018-19,2018,2019
+42018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.009,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2018-19,2018,2019
+42018,202697,Iman Shumpert,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,8,0.067,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,2018-19,2018,2019
+42018,2403,Nene,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.176,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0,2018-19,2018,2019
+42018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Misc,Offensive,0.0,7,0.067,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2,2018-19,2018,2019

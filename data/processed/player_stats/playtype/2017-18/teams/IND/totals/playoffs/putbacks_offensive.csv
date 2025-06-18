@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.068,2.0,1.0,0.2,0.0,0.2,0.0,1.0,0.01,5,10,4,4,0
-42017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.117,1.111,0.714,0.0,0.222,0.0,0.0,0.56,0.00714,9,10,5,7,2
-42017,202344,Trevor Booker,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.308,2.0,1.0,0.25,0.0,0.25,0.0,1.0,0.01,4,8,3,3,0
-42017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.026,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0
-42017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.018,1.0,0.5,0.333,0.0,0.333,0.0,0.67,0.005,3,3,1,2,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.068,2.0,1.0,0.2,0.0,0.2,0.0,1.0,0.01,5,10,4,4,0,2017-18,2017,2018
+42017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.117,1.111,0.714,0.0,0.222,0.0,0.0,0.56,0.00714,9,10,5,7,2,2017-18,2017,2018
+42017,202344,Trevor Booker,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.308,2.0,1.0,0.25,0.0,0.25,0.0,1.0,0.01,4,8,3,3,0,2017-18,2017,2018
+42017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.026,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0,2017-18,2017,2018
+42017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.0,7,0.018,1.0,0.5,0.333,0.0,0.333,0.0,0.67,0.005,3,3,1,2,1,2017-18,2017,2018

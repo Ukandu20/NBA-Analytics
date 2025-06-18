@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.55,75,0.216,1.054,0.443,0.113,0.064,0.113,0.029,0.451,0.534,204,215,77,174,97
-22016,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.541,62,0.331,1.051,0.523,0.179,0.062,0.159,0.036,0.538,0.523,195,205,81,155,74
-22016,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.472,76,0.135,1.009,0.444,0.071,0.063,0.054,0.018,0.429,0.53,112,113,44,99,55
-22016,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.583,35,0.233,1.063,0.491,0.063,0.047,0.063,0.0,0.5,0.535,64,68,28,57,29
-22016,201579,Roy Hibbert,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.867,42,0.085,1.222,0.583,0.333,0.056,0.333,0.056,0.667,0.583,18,22,7,12,5
-22016,203101,Miles Plumlee,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.142,13,0.294,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,10,8,4,8,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.55,75,0.216,1.054,0.443,0.113,0.064,0.113,0.029,0.451,0.534,204,215,77,174,97,2016-17,2016,2017
+22016,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.541,62,0.331,1.051,0.523,0.179,0.062,0.159,0.036,0.538,0.523,195,205,81,155,74,2016-17,2016,2017
+22016,101107,Marvin Williams,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.472,76,0.135,1.009,0.444,0.071,0.063,0.054,0.018,0.429,0.53,112,113,44,99,55,2016-17,2016,2017
+22016,201150,Spencer Hawes,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.583,35,0.233,1.063,0.491,0.063,0.047,0.063,0.0,0.5,0.535,64,68,28,57,29,2016-17,2016,2017
+22016,201579,Roy Hibbert,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.867,42,0.085,1.222,0.583,0.333,0.056,0.333,0.056,0.667,0.583,18,22,7,12,5,2016-17,2016,2017
+22016,203101,Miles Plumlee,1610612766,CHA,Charlotte Hornets,PRRollMan,Offensive,0.142,13,0.294,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,10,8,4,8,4,2016-17,2016,2017

@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.601,78,0.21,1.159,0.515,0.105,0.151,0.085,0.027,0.473,0.646,3.3,3.8,1.3,2.5,1.2
-22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.797,80,0.097,1.256,0.634,0.153,0.131,0.136,0.045,0.591,0.672,2.2,2.8,1.1,1.7,0.6
-22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.831,81,0.243,1.271,0.686,0.111,0.09,0.104,0.042,0.632,0.694,1.8,2.3,1.0,1.5,0.5
-22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.671,76,0.186,1.187,0.505,0.163,0.081,0.13,0.033,0.52,0.598,1.6,1.9,0.6,1.3,0.6
-22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.48,76,0.143,1.076,0.464,0.106,0.068,0.098,0.008,0.477,0.545,1.7,1.9,0.7,1.4,0.8
-22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.802,69,0.195,1.257,0.619,0.147,0.138,0.138,0.055,0.56,0.685,1.6,2.0,0.8,1.2,0.5
-22017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.391,74,0.239,1.04,0.5,0.11,0.12,0.11,0.03,0.48,0.556,1.4,1.4,0.5,1.1,0.5
-22017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.122,70,0.258,0.863,0.417,0.077,0.137,0.068,0.034,0.385,0.474,1.7,1.4,0.6,1.4,0.8
-22017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.065,70,0.163,0.764,0.276,0.073,0.045,0.073,0.009,0.309,0.357,1.6,1.2,0.4,1.4,1.0
-22017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.984,82,0.088,1.511,0.789,0.178,0.044,0.178,0.067,0.778,0.789,0.5,0.8,0.4,0.5,0.1
-22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.512,77,0.046,1.098,0.5,0.073,0.073,0.073,0.024,0.488,0.569,0.5,0.6,0.2,0.5,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.601,78,0.21,1.159,0.515,0.105,0.151,0.085,0.027,0.473,0.646,3.3,3.8,1.3,2.5,1.2,2017-18,2017,2018
+22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.797,80,0.097,1.256,0.634,0.153,0.131,0.136,0.045,0.591,0.672,2.2,2.8,1.1,1.7,0.6,2017-18,2017,2018
+22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.831,81,0.243,1.271,0.686,0.111,0.09,0.104,0.042,0.632,0.694,1.8,2.3,1.0,1.5,0.5,2017-18,2017,2018
+22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.671,76,0.186,1.187,0.505,0.163,0.081,0.13,0.033,0.52,0.598,1.6,1.9,0.6,1.3,0.6,2017-18,2017,2018
+22017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.48,76,0.143,1.076,0.464,0.106,0.068,0.098,0.008,0.477,0.545,1.7,1.9,0.7,1.4,0.8,2017-18,2017,2018
+22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.802,69,0.195,1.257,0.619,0.147,0.138,0.138,0.055,0.56,0.685,1.6,2.0,0.8,1.2,0.5,2017-18,2017,2018
+22017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.391,74,0.239,1.04,0.5,0.11,0.12,0.11,0.03,0.48,0.556,1.4,1.4,0.5,1.1,0.5,2017-18,2017,2018
+22017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.122,70,0.258,0.863,0.417,0.077,0.137,0.068,0.034,0.385,0.474,1.7,1.4,0.6,1.4,0.8,2017-18,2017,2018
+22017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.065,70,0.163,0.764,0.276,0.073,0.045,0.073,0.009,0.309,0.357,1.6,1.2,0.4,1.4,1.0,2017-18,2017,2018
+22017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.984,82,0.088,1.511,0.789,0.178,0.044,0.178,0.067,0.778,0.789,0.5,0.8,0.4,0.5,0.1,2017-18,2017,2018
+22017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Transition,Offensive,0.512,77,0.046,1.098,0.5,0.073,0.073,0.073,0.024,0.488,0.569,0.5,0.6,0.2,0.5,0.2,2017-18,2017,2018

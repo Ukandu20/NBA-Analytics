@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,200755,JJ Redick,1610612746,LAC,LA Clippers,Handoff,Offensive,0.712,75,0.185,0.959,0.44,0.062,0.078,0.057,0.01,0.43,0.491,193,185,73,166,93
-22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,Handoff,Offensive,0.475,79,0.088,0.824,0.395,0.127,0.147,0.127,0.02,0.402,0.428,102,84,30,76,46
-22015,101108,Chris Paul,1610612746,LAC,LA Clippers,Handoff,Offensive,0.695,75,0.033,0.957,0.462,0.085,0.106,0.021,0.021,0.447,0.5,47,45,18,39,21
-22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Handoff,Offensive,0.25,80,0.085,0.72,0.319,0.02,0.04,0.02,0.0,0.32,0.372,50,36,15,47,32
-22015,203085,Austin Rivers,1610612746,LAC,LA Clippers,Handoff,Offensive,0.297,67,0.067,0.738,0.333,0.071,0.095,0.048,0.024,0.333,0.389,42,31,12,36,24
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,200755,JJ Redick,1610612746,LAC,LA Clippers,Handoff,Offensive,0.712,75,0.185,0.959,0.44,0.062,0.078,0.057,0.01,0.43,0.491,193,185,73,166,93,2015-16,2015,2016
+22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,Handoff,Offensive,0.475,79,0.088,0.824,0.395,0.127,0.147,0.127,0.02,0.402,0.428,102,84,30,76,46,2015-16,2015,2016
+22015,101108,Chris Paul,1610612746,LAC,LA Clippers,Handoff,Offensive,0.695,75,0.033,0.957,0.462,0.085,0.106,0.021,0.021,0.447,0.5,47,45,18,39,21,2015-16,2015,2016
+22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Handoff,Offensive,0.25,80,0.085,0.72,0.319,0.02,0.04,0.02,0.0,0.32,0.372,50,36,15,47,32,2015-16,2015,2016
+22015,203085,Austin Rivers,1610612746,LAC,LA Clippers,Handoff,Offensive,0.297,67,0.067,0.738,0.333,0.071,0.095,0.048,0.024,0.333,0.389,42,31,12,36,24,2015-16,2015,2016

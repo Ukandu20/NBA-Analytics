@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.763,4,0.515,0.941,0.571,0.0,0.176,0.0,0.0,0.471,0.00571,17,16,8,14,6
-42015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.705,4,0.265,0.923,0.455,0.077,0.077,0.077,0.0,0.462,0.00455,13,12,5,11,6
-42015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.311,4,0.357,0.733,0.444,0.067,0.333,0.067,0.0,0.333,0.005,15,11,4,9,5
-42015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.179,1.0,0.25,0.286,0.143,0.143,0.0,0.429,0.00375,7,7,1,4,3
-42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.127,0.5,0.4,0.0,0.375,0.0,0.0,0.25,0.004,8,4,2,5,3
-42015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.087,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,0,0,4,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.763,4,0.515,0.941,0.571,0.0,0.176,0.0,0.0,0.471,0.00571,17,16,8,14,6,2015-16,2015,2016
+42015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.705,4,0.265,0.923,0.455,0.077,0.077,0.077,0.0,0.462,0.00455,13,12,5,11,6,2015-16,2015,2016
+42015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.311,4,0.357,0.733,0.444,0.067,0.333,0.067,0.0,0.333,0.005,15,11,4,9,5,2015-16,2015,2016
+42015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.179,1.0,0.25,0.286,0.143,0.143,0.0,0.429,0.00375,7,7,1,4,3,2015-16,2015,2016
+42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.127,0.5,0.4,0.0,0.375,0.0,0.0,0.25,0.004,8,4,2,5,3,2015-16,2015,2016
+42015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,PRBallHandler,Offensive,0.0,4,0.087,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,0,0,4,4,2015-16,2015,2016

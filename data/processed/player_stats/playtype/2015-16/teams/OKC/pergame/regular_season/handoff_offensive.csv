@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.957,72,0.022,1.25,0.548,0.15,0.1,0.1,0.025,0.55,0.597,0.6,0.7,0.2,0.4,0.2
-22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.542,80,0.023,0.872,0.368,0.085,0.128,0.043,0.021,0.362,0.447,0.6,0.5,0.2,0.5,0.3
-22015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.602,78,0.036,0.906,0.5,0.156,0.219,0.156,0.0,0.469,0.575,0.4,0.4,0.1,0.3,0.1
-22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.301,68,0.064,0.739,0.316,0.087,0.087,0.087,0.0,0.348,0.368,0.3,0.3,0.1,0.3,0.2
-22015,201571,D.J. Augustin,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.319,34,0.095,0.75,0.385,0.0,0.188,0.0,0.0,0.313,0.462,0.5,0.4,0.1,0.4,0.2
-22015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.021,57,0.033,0.364,0.25,0.0,0.273,0.0,0.0,0.182,0.25,0.2,0.1,0.0,0.1,0.1
-22015,202713,Kyle Singler,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.008,68,0.055,0.267,0.222,0.0,0.4,0.0,0.0,0.133,0.222,0.2,0.1,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.957,72,0.022,1.25,0.548,0.15,0.1,0.1,0.025,0.55,0.597,0.6,0.7,0.2,0.4,0.2,2015-16,2015,2016
+22015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.542,80,0.023,0.872,0.368,0.085,0.128,0.043,0.021,0.362,0.447,0.6,0.5,0.2,0.5,0.3,2015-16,2015,2016
+22015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.602,78,0.036,0.906,0.5,0.156,0.219,0.156,0.0,0.469,0.575,0.4,0.4,0.1,0.3,0.1,2015-16,2015,2016
+22015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.301,68,0.064,0.739,0.316,0.087,0.087,0.087,0.0,0.348,0.368,0.3,0.3,0.1,0.3,0.2,2015-16,2015,2016
+22015,201571,D.J. Augustin,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.319,34,0.095,0.75,0.385,0.0,0.188,0.0,0.0,0.313,0.462,0.5,0.4,0.1,0.4,0.2,2015-16,2015,2016
+22015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.021,57,0.033,0.364,0.25,0.0,0.273,0.0,0.0,0.182,0.25,0.2,0.1,0.0,0.1,0.1,2015-16,2015,2016
+22015,202713,Kyle Singler,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.008,68,0.055,0.267,0.222,0.0,0.4,0.0,0.0,0.133,0.222,0.2,0.1,0.0,0.1,0.1,2015-16,2015,2016

@@ -1,17 +1,17 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201156,Nick Young,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.833,60,0.253,1.14,0.39,0.067,0.034,0.062,0.022,0.404,0.561,178,203,64,164,100
-22016,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.427,79,0.22,0.929,0.358,0.071,0.061,0.066,0.005,0.374,0.468,198,184,62,173,111
-22016,203903,Jordan Clarkson,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.44,82,0.134,0.937,0.37,0.017,0.057,0.023,0.006,0.354,0.491,175,164,60,162,102
-22016,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.562,63,0.115,0.984,0.365,0.008,0.016,0.008,0.0,0.357,0.504,129,127,46,126,80
-22016,2736,Luol Deng,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.234,56,0.292,0.833,0.326,0.042,0.063,0.042,0.021,0.319,0.436,144,120,43,132,89
-22016,101150,Lou Williams,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.79,58,0.1,1.111,0.388,0.131,0.04,0.131,0.03,0.434,0.512,99,110,33,85,52
-22016,203944,Julius Randle,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.21,74,0.12,0.814,0.389,0.07,0.109,0.07,0.016,0.372,0.431,129,105,42,108,66
-22016,1626204,Larry Nance Jr.,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.202,63,0.159,0.806,0.348,0.014,0.028,0.014,0.0,0.347,0.413,72,58,24,69,45
-22016,202389,Timofey Mozgov,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.353,55,0.085,0.892,0.441,0.054,0.027,0.027,0.0,0.459,0.441,37,33,15,34,19
-22016,203898,Tyler Ennis,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.688,22,0.137,1.042,0.364,0.083,0.0,0.083,0.0,0.417,0.477,24,25,8,22,14
-22016,101181,Jose Calderon,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.768,24,0.212,1.091,0.381,0.0,0.045,0.0,0.0,0.364,0.571,22,24,8,21,13
-22016,201147,Corey Brewer,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.053,24,0.272,0.585,0.235,0.049,0.122,0.049,0.0,0.244,0.294,41,24,8,34,26
-22016,203080,Thomas Robinson,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.099,48,0.114,0.677,0.417,0.065,0.161,0.065,0.0,0.355,0.417,31,21,10,24,14
-22016,1628021,David Nwaba,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.367,20,0.193,0.905,0.438,0.095,0.143,0.095,0.0,0.429,0.469,21,19,7,16,9
-22016,1627826,Ivica Zubac,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.956,38,0.038,1.273,0.636,0.091,0.0,0.091,0.091,0.636,0.636,11,14,7,11,4
-22016,1626273,Marcelo Huertas,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.039,23,0.117,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,11,6,2,10,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201156,Nick Young,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.833,60,0.253,1.14,0.39,0.067,0.034,0.062,0.022,0.404,0.561,178,203,64,164,100,2016-17,2016,2017
+22016,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.427,79,0.22,0.929,0.358,0.071,0.061,0.066,0.005,0.374,0.468,198,184,62,173,111,2016-17,2016,2017
+22016,203903,Jordan Clarkson,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.44,82,0.134,0.937,0.37,0.017,0.057,0.023,0.006,0.354,0.491,175,164,60,162,102,2016-17,2016,2017
+22016,1626156,D'Angelo Russell,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.562,63,0.115,0.984,0.365,0.008,0.016,0.008,0.0,0.357,0.504,129,127,46,126,80,2016-17,2016,2017
+22016,2736,Luol Deng,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.234,56,0.292,0.833,0.326,0.042,0.063,0.042,0.021,0.319,0.436,144,120,43,132,89,2016-17,2016,2017
+22016,101150,Lou Williams,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.79,58,0.1,1.111,0.388,0.131,0.04,0.131,0.03,0.434,0.512,99,110,33,85,52,2016-17,2016,2017
+22016,203944,Julius Randle,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.21,74,0.12,0.814,0.389,0.07,0.109,0.07,0.016,0.372,0.431,129,105,42,108,66,2016-17,2016,2017
+22016,1626204,Larry Nance Jr.,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.202,63,0.159,0.806,0.348,0.014,0.028,0.014,0.0,0.347,0.413,72,58,24,69,45,2016-17,2016,2017
+22016,202389,Timofey Mozgov,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.353,55,0.085,0.892,0.441,0.054,0.027,0.027,0.0,0.459,0.441,37,33,15,34,19,2016-17,2016,2017
+22016,203898,Tyler Ennis,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.688,22,0.137,1.042,0.364,0.083,0.0,0.083,0.0,0.417,0.477,24,25,8,22,14,2016-17,2016,2017
+22016,101181,Jose Calderon,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.768,24,0.212,1.091,0.381,0.0,0.045,0.0,0.0,0.364,0.571,22,24,8,21,13,2016-17,2016,2017
+22016,201147,Corey Brewer,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.053,24,0.272,0.585,0.235,0.049,0.122,0.049,0.0,0.244,0.294,41,24,8,34,26,2016-17,2016,2017
+22016,203080,Thomas Robinson,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.099,48,0.114,0.677,0.417,0.065,0.161,0.065,0.0,0.355,0.417,31,21,10,24,14,2016-17,2016,2017
+22016,1628021,David Nwaba,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.367,20,0.193,0.905,0.438,0.095,0.143,0.095,0.0,0.429,0.469,21,19,7,16,9,2016-17,2016,2017
+22016,1627826,Ivica Zubac,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.956,38,0.038,1.273,0.636,0.091,0.0,0.091,0.091,0.636,0.636,11,14,7,11,4,2016-17,2016,2017
+22016,1626273,Marcelo Huertas,1610612747,LAL,Los Angeles Lakers,Spotup,Offensive,0.039,23,0.117,0.545,0.2,0.0,0.091,0.0,0.0,0.182,0.3,11,6,2,10,8,2016-17,2016,2017

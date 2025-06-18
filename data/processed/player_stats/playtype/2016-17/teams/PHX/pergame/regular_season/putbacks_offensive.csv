@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203458,Alex Len,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.837,77,0.16,1.267,0.62,0.143,0.029,0.133,0.048,0.638,0.62,1.4,1.7,0.7,1.2,0.5
-22016,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.924,47,0.261,1.37,0.675,0.13,0.011,0.12,0.011,0.696,0.675,2.0,2.7,1.1,1.7,0.6
-22016,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.725,67,0.109,1.186,0.58,0.147,0.01,0.118,0.02,0.598,0.58,1.5,1.8,0.8,1.3,0.6
-22016,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.405,82,0.093,1.013,0.547,0.118,0.066,0.105,0.026,0.553,0.547,0.9,0.9,0.4,0.8,0.4
-22016,1626210,Alan Williams,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.529,47,0.181,1.078,0.5,0.156,0.016,0.125,0.063,0.531,0.5,1.4,1.5,0.6,1.2,0.6
-22016,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.249,57,0.126,0.929,0.467,0.107,0.089,0.054,0.0,0.482,0.467,1.0,0.9,0.4,0.8,0.4
-22016,1627884,Derrick Jones Jr.,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.899,32,0.176,1.333,0.72,0.037,0.0,0.074,0.0,0.667,0.72,0.8,1.1,0.6,0.8,0.2
-22016,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.307,78,0.016,0.966,0.5,0.034,0.103,0.034,0.034,0.448,0.538,0.4,0.4,0.2,0.3,0.2
-22016,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.873,66,0.013,1.316,0.625,0.105,0.053,0.105,0.0,0.632,0.656,0.3,0.4,0.2,0.2,0.1
-22016,201162,Jared Dudley,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.983,64,0.029,1.538,0.833,0.0,0.077,0.0,0.0,0.769,0.833,0.2,0.3,0.2,0.2,0.0
-22016,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.259,43,0.077,0.933,0.429,0.067,0.0,0.067,0.0,0.467,0.429,0.3,0.3,0.1,0.3,0.2
-22016,202688,Brandon Knight,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.094,54,0.015,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,0.2,0.1,0.1,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203458,Alex Len,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.837,77,0.16,1.267,0.62,0.143,0.029,0.133,0.048,0.638,0.62,1.4,1.7,0.7,1.2,0.5,2016-17,2016,2017
+22016,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.924,47,0.261,1.37,0.675,0.13,0.011,0.12,0.011,0.696,0.675,2.0,2.7,1.1,1.7,0.6,2016-17,2016,2017
+22016,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.725,67,0.109,1.186,0.58,0.147,0.01,0.118,0.02,0.598,0.58,1.5,1.8,0.8,1.3,0.6,2016-17,2016,2017
+22016,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.405,82,0.093,1.013,0.547,0.118,0.066,0.105,0.026,0.553,0.547,0.9,0.9,0.4,0.8,0.4,2016-17,2016,2017
+22016,1626210,Alan Williams,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.529,47,0.181,1.078,0.5,0.156,0.016,0.125,0.063,0.531,0.5,1.4,1.5,0.6,1.2,0.6,2016-17,2016,2017
+22016,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.249,57,0.126,0.929,0.467,0.107,0.089,0.054,0.0,0.482,0.467,1.0,0.9,0.4,0.8,0.4,2016-17,2016,2017
+22016,1627884,Derrick Jones Jr.,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.899,32,0.176,1.333,0.72,0.037,0.0,0.074,0.0,0.667,0.72,0.8,1.1,0.6,0.8,0.2,2016-17,2016,2017
+22016,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.307,78,0.016,0.966,0.5,0.034,0.103,0.034,0.034,0.448,0.538,0.4,0.4,0.2,0.3,0.2,2016-17,2016,2017
+22016,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.873,66,0.013,1.316,0.625,0.105,0.053,0.105,0.0,0.632,0.656,0.3,0.4,0.2,0.2,0.1,2016-17,2016,2017
+22016,201162,Jared Dudley,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.983,64,0.029,1.538,0.833,0.0,0.077,0.0,0.0,0.769,0.833,0.2,0.3,0.2,0.2,0.0,2016-17,2016,2017
+22016,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.259,43,0.077,0.933,0.429,0.067,0.0,0.067,0.0,0.467,0.429,0.3,0.3,0.1,0.3,0.2,2016-17,2016,2017
+22016,202688,Brandon Knight,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.094,54,0.015,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,0.2,0.1,0.1,0.1,0.1,2016-17,2016,2017

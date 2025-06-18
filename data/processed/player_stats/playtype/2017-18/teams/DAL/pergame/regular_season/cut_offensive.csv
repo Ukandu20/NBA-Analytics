@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.66,79,0.268,1.327,0.67,0.248,0.072,0.229,0.065,0.667,0.67,1.9,2.6,1.0,1.5,0.5
-22017,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.931,72,0.181,1.545,0.792,0.182,0.045,0.167,0.03,0.788,0.792,0.9,1.4,0.6,0.7,0.2
-22017,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.884,77,0.037,1.481,0.75,0.185,0.037,0.185,0.037,0.759,0.75,0.7,1.0,0.4,0.6,0.1
-22017,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.903,44,0.092,1.514,0.724,0.2,0.0,0.2,0.029,0.771,0.724,0.8,1.2,0.5,0.7,0.2
-22017,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.845,61,0.181,1.432,0.724,0.243,0.0,0.243,0.027,0.757,0.724,0.6,0.9,0.3,0.5,0.1
-22017,203457,Nerlens Noel,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.656,31,0.261,1.324,0.71,0.108,0.081,0.108,0.027,0.676,0.71,1.2,1.6,0.7,1.0,0.3
-22017,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.511,77,0.035,1.267,0.667,0.067,0.067,0.067,0.033,0.633,0.667,0.4,0.5,0.2,0.4,0.1
-22017,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.801,69,0.018,1.391,0.813,0.261,0.13,0.261,0.087,0.739,0.813,0.3,0.5,0.2,0.2,0.0
-22017,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.878,63,0.026,1.476,0.75,0.238,0.095,0.238,0.095,0.714,0.75,0.3,0.5,0.2,0.3,0.1
-22017,1627812,Yogi Ferrell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.29,82,0.028,1.167,0.636,0.0,0.083,0.0,0.0,0.583,0.636,0.3,0.3,0.2,0.3,0.1
-22017,203926,Doug McDermott,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.477,26,0.075,1.25,0.714,0.0,0.125,0.0,0.0,0.625,0.714,0.6,0.8,0.4,0.5,0.2
-22017,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.685,21,0.081,1.333,0.636,0.167,0.0,0.167,0.083,0.667,0.636,0.6,0.8,0.3,0.5,0.2
-22017,1628405,Johnathan Motley,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.069,11,0.134,0.923,0.4,0.231,0.0,0.231,0.0,0.538,0.4,1.2,1.1,0.4,0.9,0.5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.66,79,0.268,1.327,0.67,0.248,0.072,0.229,0.065,0.667,0.67,1.9,2.6,1.0,1.5,0.5,2017-18,2017,2018
+22017,1628467,Maxi Kleber,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.931,72,0.181,1.545,0.792,0.182,0.045,0.167,0.03,0.788,0.792,0.9,1.4,0.6,0.7,0.2,2017-18,2017,2018
+22017,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.884,77,0.037,1.481,0.75,0.185,0.037,0.185,0.037,0.759,0.75,0.7,1.0,0.4,0.6,0.1,2017-18,2017,2018
+22017,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.903,44,0.092,1.514,0.724,0.2,0.0,0.2,0.029,0.771,0.724,0.8,1.2,0.5,0.7,0.2,2017-18,2017,2018
+22017,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.845,61,0.181,1.432,0.724,0.243,0.0,0.243,0.027,0.757,0.724,0.6,0.9,0.3,0.5,0.1,2017-18,2017,2018
+22017,203457,Nerlens Noel,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.656,31,0.261,1.324,0.71,0.108,0.081,0.108,0.027,0.676,0.71,1.2,1.6,0.7,1.0,0.3,2017-18,2017,2018
+22017,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.511,77,0.035,1.267,0.667,0.067,0.067,0.067,0.033,0.633,0.667,0.4,0.5,0.2,0.4,0.1,2017-18,2017,2018
+22017,1628372,Dennis Smith Jr.,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.801,69,0.018,1.391,0.813,0.261,0.13,0.261,0.087,0.739,0.813,0.3,0.5,0.2,0.2,0.0,2017-18,2017,2018
+22017,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.878,63,0.026,1.476,0.75,0.238,0.095,0.238,0.095,0.714,0.75,0.3,0.5,0.2,0.3,0.1,2017-18,2017,2018
+22017,1627812,Yogi Ferrell,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.29,82,0.028,1.167,0.636,0.0,0.083,0.0,0.0,0.583,0.636,0.3,0.3,0.2,0.3,0.1,2017-18,2017,2018
+22017,203926,Doug McDermott,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.477,26,0.075,1.25,0.714,0.0,0.125,0.0,0.0,0.625,0.714,0.6,0.8,0.4,0.5,0.2,2017-18,2017,2018
+22017,1627827,Dorian Finney-Smith,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.685,21,0.081,1.333,0.636,0.167,0.0,0.167,0.083,0.667,0.636,0.6,0.8,0.3,0.5,0.2,2017-18,2017,2018
+22017,1628405,Johnathan Motley,1610612742,DAL,Dallas Mavericks,Cut,Offensive,0.069,11,0.134,0.923,0.4,0.231,0.0,0.231,0.0,0.538,0.4,1.2,1.1,0.4,0.9,0.5,2017-18,2017,2018

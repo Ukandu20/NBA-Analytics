@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.304,63,0.084,0.992,0.459,0.136,0.112,0.112,0.032,0.448,0.00515,2.0,2.0,0.7,1.6,0.8
-22017,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.232,48,0.197,0.947,0.471,0.088,0.035,0.053,0.018,0.491,0.00471,1.2,1.1,0.5,1.1,0.6
-22017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.184,78,0.045,0.902,0.405,0.078,0.118,0.078,0.02,0.373,0.00488,0.7,0.6,0.2,0.5,0.3
-22017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.536,74,0.107,1.079,0.581,0.105,0.105,0.105,0.026,0.553,0.005809999999999999,0.5,0.6,0.2,0.4,0.2
-22017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.773,80,0.018,1.222,0.412,0.056,0.0,0.056,0.0,0.444,0.00588,0.2,0.3,0.1,0.2,0.1
-22017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.222,70,0.017,0.944,0.353,0.056,0.0,0.056,0.0,0.389,0.00471,0.3,0.2,0.1,0.2,0.2
-22017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.169,23,0.073,0.895,0.412,0.053,0.053,0.053,0.0,0.421,0.00441,0.8,0.7,0.3,0.7,0.4
-22017,202344,Trevor Booker,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.029,33,0.09,0.615,0.4,0.077,0.154,0.0,0.0,0.308,0.004,0.4,0.2,0.1,0.3,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.304,63,0.084,0.992,0.459,0.136,0.112,0.112,0.032,0.448,0.00515,2.0,2.0,0.7,1.6,0.8,2017-18,2017,2018
+22017,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.232,48,0.197,0.947,0.471,0.088,0.035,0.053,0.018,0.491,0.00471,1.2,1.1,0.5,1.1,0.6,2017-18,2017,2018
+22017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.184,78,0.045,0.902,0.405,0.078,0.118,0.078,0.02,0.373,0.00488,0.7,0.6,0.2,0.5,0.3,2017-18,2017,2018
+22017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.536,74,0.107,1.079,0.581,0.105,0.105,0.105,0.026,0.553,0.005809999999999999,0.5,0.6,0.2,0.4,0.2,2017-18,2017,2018
+22017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.773,80,0.018,1.222,0.412,0.056,0.0,0.056,0.0,0.444,0.00588,0.2,0.3,0.1,0.2,0.1,2017-18,2017,2018
+22017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.222,70,0.017,0.944,0.353,0.056,0.0,0.056,0.0,0.389,0.00471,0.3,0.2,0.1,0.2,0.2,2017-18,2017,2018
+22017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.169,23,0.073,0.895,0.412,0.053,0.053,0.053,0.0,0.421,0.00441,0.8,0.7,0.3,0.7,0.4,2017-18,2017,2018
+22017,202344,Trevor Booker,1610612755,PHI,Philadelphia 76ers,PRRollMan,Offensive,0.029,33,0.09,0.615,0.4,0.077,0.154,0.0,0.0,0.308,0.004,0.4,0.2,0.1,0.3,0.2,2017-18,2017,2018

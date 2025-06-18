@@ -1,17 +1,17 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.667,82,0.21,1.185,0.627,0.217,0.17,0.199,0.071,0.563,0.66,448,531,192,306,114
-22017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.615,78,0.206,1.165,0.519,0.293,0.104,0.274,0.037,0.585,0.538,164,191,54,104,50
-22017,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.86,80,0.18,1.296,0.518,0.032,0.088,0.024,0.0,0.48,0.718,125,162,57,110,53
-22017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.678,59,0.134,1.192,0.46,0.12,0.096,0.112,0.016,0.472,0.615,125,149,46,100,54
-22017,203109,Jae Crowder,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.245,53,0.205,0.968,0.422,0.181,0.138,0.17,0.0,0.457,0.484,94,91,27,64,37
-22017,2548,Dwyane Wade,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.191,46,0.166,0.928,0.473,0.134,0.144,0.134,0.041,0.443,0.493,97,90,35,74,39
-22017,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.901,28,0.178,1.344,0.612,0.082,0.131,0.082,0.016,0.541,0.765,61,82,30,49,19
-22017,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.232,73,0.131,0.959,0.371,0.014,0.137,0.014,0.0,0.329,0.54,73,70,23,62,39
-22017,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.745,21,0.218,1.229,0.535,0.104,0.0,0.063,0.0,0.583,0.605,48,59,23,43,20
-22017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.903,53,0.11,1.353,0.759,0.118,0.118,0.118,0.088,0.647,0.759,34,46,22,29,7
-22017,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.512,24,0.178,1.098,0.516,0.146,0.122,0.098,0.024,0.512,0.565,41,45,16,31,15
-22017,201565,Derrick Rose,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.303,16,0.233,1.0,0.483,0.167,0.143,0.167,0.0,0.5,0.5,42,42,14,29,15
-22017,101181,Jose Calderon,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.624,57,0.126,1.167,0.545,0.067,0.2,0.033,0.0,0.467,0.727,30,35,12,22,10
-22017,202738,Isaiah Thomas,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.05,15,0.137,0.722,0.258,0.083,0.056,0.083,0.0,0.306,0.339,36,26,8,31,23
-22017,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.624,24,0.093,1.167,0.643,0.167,0.111,0.167,0.056,0.556,0.643,18,21,9,14,5
-22017,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.002,44,0.104,0.35,0.158,0.0,0.05,0.0,0.0,0.15,0.184,20,7,3,19,16
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.667,82,0.21,1.185,0.627,0.217,0.17,0.199,0.071,0.563,0.66,448,531,192,306,114,2017-18,2017,2018
+22017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.615,78,0.206,1.165,0.519,0.293,0.104,0.274,0.037,0.585,0.538,164,191,54,104,50,2017-18,2017,2018
+22017,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.86,80,0.18,1.296,0.518,0.032,0.088,0.024,0.0,0.48,0.718,125,162,57,110,53,2017-18,2017,2018
+22017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.678,59,0.134,1.192,0.46,0.12,0.096,0.112,0.016,0.472,0.615,125,149,46,100,54,2017-18,2017,2018
+22017,203109,Jae Crowder,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.245,53,0.205,0.968,0.422,0.181,0.138,0.17,0.0,0.457,0.484,94,91,27,64,37,2017-18,2017,2018
+22017,2548,Dwyane Wade,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.191,46,0.166,0.928,0.473,0.134,0.144,0.134,0.041,0.443,0.493,97,90,35,74,39,2017-18,2017,2018
+22017,203903,Jordan Clarkson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.901,28,0.178,1.344,0.612,0.082,0.131,0.082,0.016,0.541,0.765,61,82,30,49,19,2017-18,2017,2018
+22017,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.232,73,0.131,0.959,0.371,0.014,0.137,0.014,0.0,0.329,0.54,73,70,23,62,39,2017-18,2017,2018
+22017,203918,Rodney Hood,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.745,21,0.218,1.229,0.535,0.104,0.0,0.063,0.0,0.583,0.605,48,59,23,43,20,2017-18,2017,2018
+22017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.903,53,0.11,1.353,0.759,0.118,0.118,0.118,0.088,0.647,0.759,34,46,22,29,7,2017-18,2017,2018
+22017,201588,George Hill,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.512,24,0.178,1.098,0.516,0.146,0.122,0.098,0.024,0.512,0.565,41,45,16,31,15,2017-18,2017,2018
+22017,201565,Derrick Rose,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.303,16,0.233,1.0,0.483,0.167,0.143,0.167,0.0,0.5,0.5,42,42,14,29,15,2017-18,2017,2018
+22017,101181,Jose Calderon,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.624,57,0.126,1.167,0.545,0.067,0.2,0.033,0.0,0.467,0.727,30,35,12,22,10,2017-18,2017,2018
+22017,202738,Isaiah Thomas,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.05,15,0.137,0.722,0.258,0.083,0.056,0.083,0.0,0.306,0.339,36,26,8,31,23,2017-18,2017,2018
+22017,1626204,Larry Nance Jr.,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.624,24,0.093,1.167,0.643,0.167,0.111,0.167,0.056,0.556,0.643,18,21,9,14,5,2017-18,2017,2018
+22017,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Transition,Offensive,0.002,44,0.104,0.35,0.158,0.0,0.05,0.0,0.0,0.15,0.184,20,7,3,19,16,2017-18,2017,2018

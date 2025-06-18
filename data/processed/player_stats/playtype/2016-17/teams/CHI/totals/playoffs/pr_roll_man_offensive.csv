@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.75,6,0.188,1.167,0.55,0.083,0.0,0.083,0.0,0.583,0.0055000000000000005,12,14,6,11,5
-42016,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.348,1.25,0.83,0.0,0.25,0.0,0.0,0.625,0.0083,8,10,5,6,1
-42016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,3,0.147,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.009000000000000001,5,9,3,5,2
-42016,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.179,1.0,0.43,0.0,0.0,0.0,0.0,0.429,0.005,7,7,3,7,4
-42016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,5,0.065,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1
-42016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.086,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3
-42016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.035,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.75,6,0.188,1.167,0.55,0.083,0.0,0.083,0.0,0.583,0.0055000000000000005,12,14,6,11,5,2016-17,2016,2017
+42016,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.348,1.25,0.83,0.0,0.25,0.0,0.0,0.625,0.0083,8,10,5,6,1,2016-17,2016,2017
+42016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,3,0.147,1.8,0.6,0.0,0.0,0.0,0.0,0.6,0.009000000000000001,5,9,3,5,2,2016-17,2016,2017
+42016,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.179,1.0,0.43,0.0,0.0,0.0,0.0,0.429,0.005,7,7,3,7,4,2016-17,2016,2017
+42016,1626170,Jerian Grant,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,5,0.065,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1,2016-17,2016,2017
+42016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.086,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3,2016-17,2016,2017
+42016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,PRRollMan,Offensive,0.0,6,0.035,0.4,0.0,0.2,0.2,0.2,0.0,0.2,0.0,5,2,0,3,3,2016-17,2016,2017

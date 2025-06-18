@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.76,75,0.187,0.969,0.476,0.149,0.1,0.109,0.029,0.486,0.476,350,339,130,273,143
-22017,202326,DeMarcus Cousins,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.534,48,0.166,0.882,0.478,0.226,0.198,0.212,0.057,0.467,0.478,212,187,64,134,70
-22017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.941,81,0.032,1.122,0.595,0.143,0.143,0.102,0.041,0.551,0.595,49,55,22,37,15
-22017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.059,30,0.11,0.563,0.294,0.125,0.208,0.063,0.042,0.292,0.294,48,27,10,34,24
-22017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.975,82,0.011,1.182,0.6,0.091,0.091,0.091,0.091,0.545,0.6,11,13,6,10,4
-22017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.414,52,0.052,0.833,0.556,0.0,0.25,0.0,0.0,0.417,0.556,12,10,5,9,4
-22017,2731,Emeka Okafor,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.064,26,0.119,0.571,0.364,0.0,0.214,0.0,0.0,0.286,0.364,14,8,4,11,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.76,75,0.187,0.969,0.476,0.149,0.1,0.109,0.029,0.486,0.476,350,339,130,273,143,2017-18,2017,2018
+22017,202326,DeMarcus Cousins,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.534,48,0.166,0.882,0.478,0.226,0.198,0.212,0.057,0.467,0.478,212,187,64,134,70,2017-18,2017,2018
+22017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.941,81,0.032,1.122,0.595,0.143,0.143,0.102,0.041,0.551,0.595,49,55,22,37,15,2017-18,2017,2018
+22017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.059,30,0.11,0.563,0.294,0.125,0.208,0.063,0.042,0.292,0.294,48,27,10,34,24,2017-18,2017,2018
+22017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.975,82,0.011,1.182,0.6,0.091,0.091,0.091,0.091,0.545,0.6,11,13,6,10,4,2017-18,2017,2018
+22017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.414,52,0.052,0.833,0.556,0.0,0.25,0.0,0.0,0.417,0.556,12,10,5,9,4,2017-18,2017,2018
+22017,2731,Emeka Okafor,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.064,26,0.119,0.571,0.364,0.0,0.214,0.0,0.0,0.286,0.364,14,8,4,11,7,2017-18,2017,2018

@@ -1,16 +1,16 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22021,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.751,59,0.048,0.662,0.44,0.235,0.441,0.103,0.04,0.34,0.0044,1.2,0.8,0.2,0.4,0.2
-22021,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.956,77,0.042,0.915,0.38,0.447,0.383,0.064,0.0,0.49,0.0038,0.6,0.6,0.0,0.1,0.1
-22021,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.919,55,0.046,0.838,0.31,0.243,0.324,0.0,0.0,0.38,0.0040999999999999995,0.7,0.6,0.1,0.3,0.2
-22021,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.728,51,0.046,0.647,0.33,0.206,0.441,0.088,0.0,0.32,0.0038,0.7,0.4,0.1,0.2,0.2
-22021,1628978,Donte DiVincenzo,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.99,25,0.049,1.143,0.5,0.571,0.286,0.0,0.0,0.64,0.005,0.6,0.6,0.0,0.1,0.0
-22021,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.44,45,0.081,0.469,0.5,0.219,0.656,0.063,0.0,0.28,0.005,0.7,0.3,0.0,0.1,0.0
-22021,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.413,75,0.033,0.455,0.18,0.212,0.455,0.03,0.0,0.27,0.0018,0.4,0.2,0.0,0.1,0.1
-22021,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.17,56,0.121,0.304,0.36,0.13,0.63,0.0,0.0,0.17,0.0036,0.8,0.3,0.1,0.2,0.1
-22021,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.581,15,0.074,0.571,0.5,0.19,0.619,0.0,0.0,0.29,0.0062,1.4,0.8,0.1,0.3,0.1
-22021,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.973,30,0.035,1.0,0.57,0.182,0.273,0.091,0.09,0.45,0.005699999999999999,0.4,0.4,0.1,0.2,0.1
-22021,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.567,61,0.029,0.563,0.25,0.313,0.438,0.063,0.0,0.31,0.0025,0.3,0.1,0.0,0.1,0.0
-22021,202684,Tristan Thompson,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.218,30,0.068,0.357,0.33,0.357,0.429,0.071,0.0,0.29,0.0033,0.5,0.2,0.0,0.1,0.1
-22021,203458,Alex Len,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.066,39,0.097,0.208,0.0,0.208,0.792,0.0,0.0,0.17,0.0,0.6,0.1,0.0,0.0,0.0
-22021,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.23,47,0.049,0.364,0.67,0.0,0.727,0.0,0.0,0.18,0.0067,0.2,0.1,0.0,0.1,0.0
-22021,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.23,30,0.039,0.364,0.5,0.182,0.636,0.0,0.0,0.27,0.005,0.4,0.1,0.0,0.1,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22021,1628368,De'Aaron Fox,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.751,59,0.048,0.662,0.44,0.235,0.441,0.103,0.04,0.34,0.0044,1.2,0.8,0.2,0.4,0.2,2021-22,2021,2022
+22021,203084,Harrison Barnes,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.956,77,0.042,0.915,0.38,0.447,0.383,0.064,0.0,0.49,0.0038,0.6,0.6,0.0,0.1,0.1,2021-22,2021,2022
+22021,1627741,Buddy Hield,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.919,55,0.046,0.838,0.31,0.243,0.324,0.0,0.0,0.38,0.0040999999999999995,0.7,0.6,0.1,0.3,0.2,2021-22,2021,2022
+22021,1630169,Tyrese Haliburton,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.728,51,0.046,0.647,0.33,0.206,0.441,0.088,0.0,0.32,0.0038,0.7,0.4,0.1,0.2,0.2,2021-22,2021,2022
+22021,1628978,Donte DiVincenzo,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.99,25,0.049,1.143,0.5,0.571,0.286,0.0,0.0,0.64,0.005,0.6,0.6,0.0,0.1,0.0,2021-22,2021,2022
+22021,1626158,Richaun Holmes,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.44,45,0.081,0.469,0.5,0.219,0.656,0.063,0.0,0.28,0.005,0.7,0.3,0.0,0.1,0.0,2021-22,2021,2022
+22021,1630558,Davion Mitchell,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.413,75,0.033,0.455,0.18,0.212,0.455,0.03,0.0,0.27,0.0018,0.4,0.2,0.0,0.1,0.1,2021-22,2021,2022
+22021,1627745,Damian Jones,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.17,56,0.121,0.304,0.36,0.13,0.63,0.0,0.0,0.17,0.0036,0.8,0.3,0.1,0.2,0.1,2021-22,2021,2022
+22021,1627734,Domantas Sabonis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.581,15,0.074,0.571,0.5,0.19,0.619,0.0,0.0,0.29,0.0062,1.4,0.8,0.1,0.3,0.1,2021-22,2021,2022
+22021,1629056,Terence Davis,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.973,30,0.035,1.0,0.57,0.182,0.273,0.091,0.09,0.45,0.005699999999999999,0.4,0.4,0.1,0.2,0.1,2021-22,2021,2022
+22021,1629002,Chimezie Metu,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.567,61,0.029,0.563,0.25,0.313,0.438,0.063,0.0,0.31,0.0025,0.3,0.1,0.0,0.1,0.0,2021-22,2021,2022
+22021,202684,Tristan Thompson,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.218,30,0.068,0.357,0.33,0.357,0.429,0.071,0.0,0.29,0.0033,0.5,0.2,0.0,0.1,0.1,2021-22,2021,2022
+22021,203458,Alex Len,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.066,39,0.097,0.208,0.0,0.208,0.792,0.0,0.0,0.17,0.0,0.6,0.1,0.0,0.0,0.0,2021-22,2021,2022
+22021,203090,Maurice Harkless,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.23,47,0.049,0.364,0.67,0.0,0.727,0.0,0.0,0.18,0.0067,0.2,0.1,0.0,0.1,0.0,2021-22,2021,2022
+22021,1628963,Marvin Bagley III,1610612758,SAC,Sacramento Kings,Misc,Offensive,0.23,30,0.039,0.364,0.5,0.182,0.636,0.0,0.0,0.27,0.005,0.4,0.1,0.0,0.1,0.0,2021-22,2021,2022

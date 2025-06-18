@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Postup,Offensive,0.323,11,0.106,0.75,0.429,0.0,0.125,0.0,0.0,0.375,0.429,16,12,6,14,8
-42016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Postup,Offensive,0.194,11,0.273,0.667,0.5,0.056,0.389,0.056,0.0,0.333,0.5,18,12,5,10,5
-42016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.033,1.0,0.6,0.125,0.25,0.125,0.0,0.5,0.6,8,8,3,5,2
-42016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.053,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,1,0,3,3
-42016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,9,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,203481,Jeff Withey,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,3,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.013,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Postup,Offensive,0.323,11,0.106,0.75,0.429,0.0,0.125,0.0,0.0,0.375,0.429,16,12,6,14,8,2016-17,2016,2017
+42016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Postup,Offensive,0.194,11,0.273,0.667,0.5,0.056,0.389,0.056,0.0,0.333,0.5,18,12,5,10,5,2016-17,2016,2017
+42016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.033,1.0,0.6,0.125,0.25,0.125,0.0,0.5,0.6,8,8,3,5,2,2016-17,2016,2017
+42016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.053,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,4,1,0,3,3,2016-17,2016,2017
+42016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,9,0.011,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,203481,Jeff Withey,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,3,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.013,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2016-17,2016,2017

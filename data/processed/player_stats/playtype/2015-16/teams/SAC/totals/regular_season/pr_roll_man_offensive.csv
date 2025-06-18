@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.452,65,0.148,0.982,0.465,0.169,0.083,0.165,0.032,0.489,0.486,278,273,101,217,116
-22015,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.47,78,0.21,0.991,0.5,0.097,0.044,0.088,0.027,0.496,0.5,113,112,50,100,50
-22015,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.804,66,0.142,1.143,0.574,0.111,0.063,0.111,0.032,0.571,0.574,63,72,31,54,23
-22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.151,70,0.049,0.823,0.357,0.065,0.032,0.065,0.0,0.387,0.393,62,51,20,56,36
-22015,203112,Quincy Acy,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.269,59,0.141,0.895,0.412,0.053,0.079,0.053,0.026,0.395,0.456,38,34,14,34,20
-22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.219,69,0.028,0.864,0.389,0.227,0.045,0.227,0.091,0.409,0.417,22,19,7,18,11
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.452,65,0.148,0.982,0.465,0.169,0.083,0.165,0.032,0.489,0.486,278,273,101,217,116,2015-16,2015,2016
+22015,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.47,78,0.21,0.991,0.5,0.097,0.044,0.088,0.027,0.496,0.5,113,112,50,100,50,2015-16,2015,2016
+22015,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.804,66,0.142,1.143,0.574,0.111,0.063,0.111,0.032,0.571,0.574,63,72,31,54,23,2015-16,2015,2016
+22015,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.151,70,0.049,0.823,0.357,0.065,0.032,0.065,0.0,0.387,0.393,62,51,20,56,36,2015-16,2015,2016
+22015,203112,Quincy Acy,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.269,59,0.141,0.895,0.412,0.053,0.079,0.053,0.026,0.395,0.456,38,34,14,34,20,2015-16,2015,2016
+22015,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.219,69,0.028,0.864,0.389,0.227,0.045,0.227,0.091,0.409,0.417,22,19,7,18,11,2015-16,2015,2016

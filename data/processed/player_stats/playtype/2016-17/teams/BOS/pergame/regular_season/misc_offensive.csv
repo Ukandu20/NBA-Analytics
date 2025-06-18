@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Misc,Offensive,0.954,76,0.045,0.954,0.36,0.425,0.322,0.023,0.0,0.517,0.00364,1.1,1.1,0.1,0.3,0.2
-22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Misc,Offensive,0.787,79,0.115,0.684,0.18,0.35,0.376,0.026,0.02,0.376,0.0020599999999999998,1.5,1.0,0.1,0.4,0.4
-22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Misc,Offensive,0.739,72,0.063,0.643,0.3,0.304,0.518,0.054,0.0,0.357,0.004,0.8,0.5,0.0,0.1,0.1
-22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Misc,Offensive,0.919,55,0.044,0.85,0.5,0.225,0.275,0.025,0.0,0.475,0.0055000000000000005,0.7,0.6,0.2,0.4,0.2
-22016,201143,Al Horford,1610612738,BOS,Boston Celtics,Misc,Offensive,0.547,68,0.052,0.52,0.67,0.2,0.68,0.0,0.0,0.28,0.006670000000000001,0.7,0.4,0.1,0.1,0.0
-22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Misc,Offensive,0.309,75,0.085,0.375,0.3,0.214,0.607,0.036,0.0,0.25,0.0034999999999999996,0.7,0.3,0.0,0.1,0.1
-22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Misc,Offensive,0.628,78,0.052,0.571,0.27,0.214,0.393,0.071,0.0,0.321,0.0027300000000000002,0.4,0.2,0.0,0.1,0.1
-22016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Misc,Offensive,0.418,78,0.075,0.458,0.2,0.208,0.583,0.0,0.0,0.25,0.002,0.3,0.1,0.0,0.1,0.1
-22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Misc,Offensive,0.241,74,0.054,0.346,0.0,0.231,0.5,0.0,0.0,0.231,0.0,0.4,0.1,0.0,0.1,0.1
-22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Misc,Offensive,0.057,80,0.103,0.176,0.67,0.098,0.843,0.0,0.0,0.118,0.006670000000000001,0.6,0.1,0.0,0.0,0.0
-22016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Misc,Offensive,0.076,51,0.077,0.2,0.0,0.133,0.733,0.0,0.0,0.133,0.0,0.3,0.1,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Misc,Offensive,0.954,76,0.045,0.954,0.36,0.425,0.322,0.023,0.0,0.517,0.00364,1.1,1.1,0.1,0.3,0.2,2016-17,2016,2017
+22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Misc,Offensive,0.787,79,0.115,0.684,0.18,0.35,0.376,0.026,0.02,0.376,0.0020599999999999998,1.5,1.0,0.1,0.4,0.4,2016-17,2016,2017
+22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Misc,Offensive,0.739,72,0.063,0.643,0.3,0.304,0.518,0.054,0.0,0.357,0.004,0.8,0.5,0.0,0.1,0.1,2016-17,2016,2017
+22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Misc,Offensive,0.919,55,0.044,0.85,0.5,0.225,0.275,0.025,0.0,0.475,0.0055000000000000005,0.7,0.6,0.2,0.4,0.2,2016-17,2016,2017
+22016,201143,Al Horford,1610612738,BOS,Boston Celtics,Misc,Offensive,0.547,68,0.052,0.52,0.67,0.2,0.68,0.0,0.0,0.28,0.006670000000000001,0.7,0.4,0.1,0.1,0.0,2016-17,2016,2017
+22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Misc,Offensive,0.309,75,0.085,0.375,0.3,0.214,0.607,0.036,0.0,0.25,0.0034999999999999996,0.7,0.3,0.0,0.1,0.1,2016-17,2016,2017
+22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Misc,Offensive,0.628,78,0.052,0.571,0.27,0.214,0.393,0.071,0.0,0.321,0.0027300000000000002,0.4,0.2,0.0,0.1,0.1,2016-17,2016,2017
+22016,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,Misc,Offensive,0.418,78,0.075,0.458,0.2,0.208,0.583,0.0,0.0,0.25,0.002,0.3,0.1,0.0,0.1,0.1,2016-17,2016,2017
+22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Misc,Offensive,0.241,74,0.054,0.346,0.0,0.231,0.5,0.0,0.0,0.231,0.0,0.4,0.1,0.0,0.1,0.1,2016-17,2016,2017
+22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Misc,Offensive,0.057,80,0.103,0.176,0.67,0.098,0.843,0.0,0.0,0.118,0.006670000000000001,0.6,0.1,0.0,0.0,0.0,2016-17,2016,2017
+22016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Misc,Offensive,0.076,51,0.077,0.2,0.0,0.133,0.733,0.0,0.0,0.133,0.0,0.3,0.1,0.0,0.0,0.0,2016-17,2016,2017

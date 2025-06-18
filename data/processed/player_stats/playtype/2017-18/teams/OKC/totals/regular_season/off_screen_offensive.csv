@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.711,79,0.141,1.091,0.424,0.095,0.066,0.086,0.004,0.449,0.544,243,265,87,205,118
-22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.899,78,0.026,1.257,0.471,0.029,0.0,0.029,0.0,0.486,0.618,35,44,16,34,18
-22017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.55,75,0.09,1.0,0.333,0.067,0.033,0.067,0.0,0.367,0.481,30,30,9,27,18
-22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.794,80,0.01,1.136,0.45,0.091,0.0,0.091,0.0,0.5,0.525,22,25,9,20,11
-22017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.097,82,0.028,0.667,0.25,0.056,0.056,0.056,0.0,0.278,0.313,18,12,4,16,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.711,79,0.141,1.091,0.424,0.095,0.066,0.086,0.004,0.449,0.544,243,265,87,205,118,2017-18,2017,2018
+22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.899,78,0.026,1.257,0.471,0.029,0.0,0.029,0.0,0.486,0.618,35,44,16,34,18,2017-18,2017,2018
+22017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.55,75,0.09,1.0,0.333,0.067,0.033,0.067,0.0,0.367,0.481,30,30,9,27,18,2017-18,2017,2018
+22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.794,80,0.01,1.136,0.45,0.091,0.0,0.091,0.0,0.5,0.525,22,25,9,20,11,2017-18,2017,2018
+22017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.097,82,0.028,0.667,0.25,0.056,0.056,0.056,0.0,0.278,0.313,18,12,4,16,12,2017-18,2017,2018

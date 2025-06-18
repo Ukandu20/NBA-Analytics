@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.493,81,0.367,0.981,0.359,0.072,0.044,0.067,0.014,0.375,0.485,360,353,116,323,207
-22017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.85,77,0.263,1.154,0.451,0.022,0.026,0.022,0.004,0.449,0.584,267,308,115,255,140
-22017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.824,82,0.098,1.134,0.444,0.045,0.034,0.039,0.022,0.441,0.568,179,203,75,169,94
-22017,203118,Mike Scott,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.912,76,0.254,1.205,0.477,0.012,0.05,0.012,0.0,0.46,0.632,161,194,72,151,79
-22017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.375,73,0.231,0.91,0.367,0.02,0.095,0.02,0.0,0.34,0.497,200,182,65,177,112
-22017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.901,73,0.274,1.199,0.458,0.05,0.028,0.028,0.007,0.468,0.599,141,169,60,131,71
-22017,201975,Jodie Meeks,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.565,77,0.287,1.007,0.364,0.067,0.037,0.067,0.0,0.393,0.496,135,136,44,121,77
-22017,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.591,41,0.117,1.018,0.362,0.028,0.018,0.028,0.009,0.367,0.505,109,111,38,105,67
-22017,204025,Tim Frazier,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.152,59,0.193,0.723,0.317,0.021,0.106,0.021,0.0,0.298,0.39,47,34,13,41,28
-22017,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.443,15,0.235,0.957,0.381,0.0,0.087,0.0,0.0,0.348,0.524,23,22,8,21,13
-22017,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.267,77,0.032,0.846,0.444,0.154,0.154,0.154,0.0,0.462,0.444,13,11,4,9,5
-22017,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.032,82,0.026,0.474,0.25,0.105,0.105,0.105,0.053,0.211,0.25,19,9,4,16,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.493,81,0.367,0.981,0.359,0.072,0.044,0.067,0.014,0.375,0.485,360,353,116,323,207,2017-18,2017,2018
+22017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.85,77,0.263,1.154,0.451,0.022,0.026,0.022,0.004,0.449,0.584,267,308,115,255,140,2017-18,2017,2018
+22017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.824,82,0.098,1.134,0.444,0.045,0.034,0.039,0.022,0.441,0.568,179,203,75,169,94,2017-18,2017,2018
+22017,203118,Mike Scott,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.912,76,0.254,1.205,0.477,0.012,0.05,0.012,0.0,0.46,0.632,161,194,72,151,79,2017-18,2017,2018
+22017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.375,73,0.231,0.91,0.367,0.02,0.095,0.02,0.0,0.34,0.497,200,182,65,177,112,2017-18,2017,2018
+22017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.901,73,0.274,1.199,0.458,0.05,0.028,0.028,0.007,0.468,0.599,141,169,60,131,71,2017-18,2017,2018
+22017,201975,Jodie Meeks,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.565,77,0.287,1.007,0.364,0.067,0.037,0.067,0.0,0.393,0.496,135,136,44,121,77,2017-18,2017,2018
+22017,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.591,41,0.117,1.018,0.362,0.028,0.018,0.028,0.009,0.367,0.505,109,111,38,105,67,2017-18,2017,2018
+22017,204025,Tim Frazier,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.152,59,0.193,0.723,0.317,0.021,0.106,0.021,0.0,0.298,0.39,47,34,13,41,28,2017-18,2017,2018
+22017,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.443,15,0.235,0.957,0.381,0.0,0.087,0.0,0.0,0.348,0.524,23,22,8,21,13,2017-18,2017,2018
+22017,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.267,77,0.032,0.846,0.444,0.154,0.154,0.154,0.0,0.462,0.444,13,11,4,9,5,2017-18,2017,2018
+22017,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.032,82,0.026,0.474,0.25,0.105,0.105,0.105,0.053,0.211,0.25,19,9,4,16,12,2017-18,2017,2018

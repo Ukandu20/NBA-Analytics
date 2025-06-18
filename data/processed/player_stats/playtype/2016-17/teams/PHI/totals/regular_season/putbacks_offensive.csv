@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.787,81,0.059,1.239,0.621,0.169,0.056,0.155,0.042,0.62,0.621,71,88,36,58,22
-22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.637,50,0.089,1.143,0.545,0.179,0.054,0.179,0.018,0.589,0.545,56,64,24,44,20
-22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.56,57,0.115,1.103,0.54,0.172,0.052,0.155,0.086,0.552,0.54,58,64,27,50,23
-22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.172,53,0.077,0.869,0.434,0.082,0.049,0.082,0.0,0.459,0.443,61,53,23,53,30
-22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.423,67,0.053,1.02,0.512,0.1,0.06,0.08,0.02,0.52,0.523,50,51,22,43,21
-22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.77,18,0.261,1.222,0.636,0.083,0.028,0.083,0.028,0.639,0.636,36,44,21,33,12
-22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.433,29,0.168,1.026,0.563,0.103,0.077,0.103,0.0,0.564,0.563,39,40,18,32,14
-22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.363,31,0.058,1.0,0.5,0.184,0.026,0.158,0.0,0.553,0.5,38,38,15,30,15
-22016,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.828,24,0.093,1.263,0.588,0.105,0.0,0.053,0.0,0.632,0.588,19,24,10,17,7
-22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.265,72,0.023,0.938,0.545,0.188,0.125,0.188,0.0,0.5,0.545,16,15,6,11,5
-22016,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.363,81,0.017,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.667,12,12,6,9,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.787,81,0.059,1.239,0.621,0.169,0.056,0.155,0.042,0.62,0.621,71,88,36,58,22,2016-17,2016,2017
+22016,1626143,Jahlil Okafor,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.637,50,0.089,1.143,0.545,0.179,0.054,0.179,0.018,0.589,0.545,56,64,24,44,20,2016-17,2016,2017
+22016,1626158,Richaun Holmes,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.56,57,0.115,1.103,0.54,0.172,0.052,0.155,0.086,0.552,0.54,58,64,27,50,23,2016-17,2016,2017
+22016,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.172,53,0.077,0.869,0.434,0.082,0.049,0.082,0.0,0.459,0.443,61,53,23,53,30,2016-17,2016,2017
+22016,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.423,67,0.053,1.02,0.512,0.1,0.06,0.08,0.02,0.52,0.523,50,51,22,43,21,2016-17,2016,2017
+22016,1627848,Shawn Long,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.77,18,0.261,1.222,0.636,0.083,0.028,0.083,0.028,0.639,0.636,36,44,21,33,12,2016-17,2016,2017
+22016,203457,Nerlens Noel,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.433,29,0.168,1.026,0.563,0.103,0.077,0.103,0.0,0.564,0.563,39,40,18,32,14,2016-17,2016,2017
+22016,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.363,31,0.058,1.0,0.5,0.184,0.026,0.158,0.0,0.553,0.5,38,38,15,30,15,2016-17,2016,2017
+22016,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.828,24,0.093,1.263,0.588,0.105,0.0,0.053,0.0,0.632,0.588,19,24,10,17,7,2016-17,2016,2017
+22016,201945,Gerald Henderson,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.265,72,0.023,0.938,0.545,0.188,0.125,0.188,0.0,0.5,0.545,16,15,6,11,5,2016-17,2016,2017
+22016,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,OffRebound,Offensive,0.363,81,0.017,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.667,12,12,6,9,3,2016-17,2016,2017

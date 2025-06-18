@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.758,47,0.185,1.032,0.47,0.045,0.108,0.045,0.006,0.439,0.563,157,162,63,134,71
-22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.729,82,0.061,1.008,0.452,0.148,0.123,0.139,0.033,0.459,0.527,122,123,42,93,51
-22016,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.375,75,0.038,0.833,0.414,0.083,0.139,0.083,0.028,0.389,0.448,36,30,12,29,17
-22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.817,78,0.022,1.063,0.545,0.125,0.188,0.125,0.0,0.5,0.636,16,17,6,11,5
-22016,1627739,Kris Dunn,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.354,78,0.026,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.409,11,9,4,11,7
-22016,201575,Brandon Rush,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,47,0.045,0.1,0.0,0.1,0.2,0.1,0.0,0.1,0.0,10,1,0,7,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.758,47,0.185,1.032,0.47,0.045,0.108,0.045,0.006,0.439,0.563,157,162,63,134,71,2016-17,2016,2017
+22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.729,82,0.061,1.008,0.452,0.148,0.123,0.139,0.033,0.459,0.527,122,123,42,93,51,2016-17,2016,2017
+22016,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.375,75,0.038,0.833,0.414,0.083,0.139,0.083,0.028,0.389,0.448,36,30,12,29,17,2016-17,2016,2017
+22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.817,78,0.022,1.063,0.545,0.125,0.188,0.125,0.0,0.5,0.636,16,17,6,11,5,2016-17,2016,2017
+22016,1627739,Kris Dunn,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.354,78,0.026,0.818,0.364,0.0,0.0,0.0,0.0,0.364,0.409,11,9,4,11,7,2016-17,2016,2017
+22016,201575,Brandon Rush,1610612750,MIN,Minnesota Timberwolves,Handoff,Offensive,0.0,47,0.045,0.1,0.0,0.1,0.2,0.1,0.0,0.1,0.0,10,1,0,7,7,2016-17,2016,2017

@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Handoff,Offensive,0.563,14,0.034,0.909,0.5,0.09,0.182,0.09,0.0,0.455,0.00563,11,10,4,8,4
-42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Handoff,Offensive,0.353,14,0.043,0.727,0.333,0.09,0.091,0.09,0.0,0.364,0.00333,11,8,3,9,6
-42015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.075,0.875,0.375,0.12,0.0,0.12,0.12,0.375,0.00375,8,7,3,8,5
-42015,2736,Luol Deng,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.006,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0
-42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.016,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,3,2,1,2,1
-42015,101123,Gerald Green,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,12,0.135,0.286,0.143,0.0,0.0,0.0,0.0,0.143,0.0014299999999999998,7,2,1,7,6
-42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,5,0.111,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,2,1,0,1,1
-42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,10,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Handoff,Offensive,0.563,14,0.034,0.909,0.5,0.09,0.182,0.09,0.0,0.455,0.00563,11,10,4,8,4,2015-16,2015,2016
+42015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Handoff,Offensive,0.353,14,0.043,0.727,0.333,0.09,0.091,0.09,0.0,0.364,0.00333,11,8,3,9,6,2015-16,2015,2016
+42015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.075,0.875,0.375,0.12,0.0,0.12,0.12,0.375,0.00375,8,7,3,8,5,2015-16,2015,2016
+42015,2736,Luol Deng,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.006,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,2,0,0,0,2015-16,2015,2016
+42015,2207,Joe Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,14,0.016,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,3,2,1,2,1,2015-16,2015,2016
+42015,101123,Gerald Green,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,12,0.135,0.286,0.143,0.0,0.0,0.0,0.0,0.143,0.0014299999999999998,7,2,1,7,6,2015-16,2015,2016
+42015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,5,0.111,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,2,1,0,1,1,2015-16,2015,2016
+42015,201177,Josh McRoberts,1610612748,MIA,Miami Heat,Handoff,Offensive,0.0,10,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2015-16,2015,2016

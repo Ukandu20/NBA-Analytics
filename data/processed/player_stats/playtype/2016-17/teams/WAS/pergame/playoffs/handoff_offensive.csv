@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.636,13,0.048,1.0,0.333,0.2,0.0,0.067,0.0,0.467,0.00333,1.2,1.1,0.3,0.9,0.6
-42016,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.013,1.0,0.2,0.0,0.0,0.0,0.0,0.2,0.003,0.4,0.2,0.1,0.4,0.3
-42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,7,0.091,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.3,0.1,0.1,0.0
-42016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3
-42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
-42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.636,13,0.048,1.0,0.333,0.2,0.0,0.067,0.0,0.467,0.00333,1.2,1.1,0.3,0.9,0.6,2016-17,2016,2017
+42016,202322,John Wall,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.013,1.0,0.2,0.0,0.0,0.0,0.0,0.2,0.003,0.4,0.2,0.1,0.4,0.3,2016-17,2016,2017
+42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,7,0.091,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.1,0.3,0.1,0.1,0.0,2016-17,2016,2017
+42016,203504,Trey Burke,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,3,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,2016-17,2016,2017
+42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,2016-17,2016,2017
+42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Handoff,Offensive,0.0,13,0.021,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,2016-17,2016,2017

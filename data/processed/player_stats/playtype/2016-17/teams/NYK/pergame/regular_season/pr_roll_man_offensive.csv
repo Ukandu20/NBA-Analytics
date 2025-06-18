@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.546,66,0.158,1.052,0.446,0.099,0.047,0.099,0.031,0.461,0.524,2.9,3.0,1.1,2.5,1.4
-22016,1626195,Willy Hernangomez,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.789,72,0.218,1.163,0.589,0.126,0.096,0.119,0.052,0.563,0.589,1.9,2.2,0.9,1.6,0.6
-22016,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.436,79,0.182,0.989,0.494,0.095,0.063,0.084,0.032,0.495,0.494,1.2,1.2,0.5,1.1,0.5
-22016,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.275,74,0.025,0.905,0.385,0.048,0.024,0.048,0.0,0.405,0.436,0.6,0.5,0.2,0.5,0.3
-22016,201149,Joakim Noah,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.312,47,0.135,0.925,0.577,0.25,0.15,0.25,0.05,0.525,0.577,0.9,0.8,0.3,0.6,0.2
-22016,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.11,46,0.055,0.75,0.231,0.188,0.0,0.188,0.0,0.375,0.231,0.3,0.3,0.1,0.3,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.546,66,0.158,1.052,0.446,0.099,0.047,0.099,0.031,0.461,0.524,2.9,3.0,1.1,2.5,1.4,2016-17,2016,2017
+22016,1626195,Willy Hernangomez,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.789,72,0.218,1.163,0.589,0.126,0.096,0.119,0.052,0.563,0.589,1.9,2.2,0.9,1.6,0.6,2016-17,2016,2017
+22016,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.436,79,0.182,0.989,0.494,0.095,0.063,0.084,0.032,0.495,0.494,1.2,1.2,0.5,1.1,0.5,2016-17,2016,2017
+22016,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.275,74,0.025,0.905,0.385,0.048,0.024,0.048,0.0,0.405,0.436,0.6,0.5,0.2,0.5,0.3,2016-17,2016,2017
+22016,201149,Joakim Noah,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.312,47,0.135,0.925,0.577,0.25,0.15,0.25,0.05,0.525,0.577,0.9,0.8,0.3,0.6,0.2,2016-17,2016,2017
+22016,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.11,46,0.055,0.75,0.231,0.188,0.0,0.188,0.0,0.375,0.231,0.3,0.3,0.1,0.3,0.2,2016-17,2016,2017

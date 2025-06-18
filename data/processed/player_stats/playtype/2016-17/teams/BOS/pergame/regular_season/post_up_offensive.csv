@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.679,68,0.282,0.934,0.482,0.132,0.121,0.117,0.051,0.458,0.482,4.0,3.8,1.5,3.2,1.7
-22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.811,79,0.096,0.99,0.527,0.143,0.143,0.133,0.041,0.5,0.527,1.2,1.2,0.5,0.9,0.4
-22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Postup,Offensive,0.8,75,0.11,0.986,0.596,0.151,0.219,0.096,0.014,0.521,0.596,1.0,1.0,0.4,0.6,0.3
-22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.774,78,0.07,0.974,0.484,0.158,0.079,0.158,0.053,0.474,0.484,0.5,0.5,0.2,0.4,0.2
-22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Postup,Offensive,0.668,72,0.034,0.933,0.429,0.233,0.133,0.233,0.067,0.467,0.429,0.4,0.4,0.1,0.3,0.2
-22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.324,80,0.067,0.818,0.414,0.061,0.061,0.061,0.0,0.424,0.414,0.4,0.3,0.2,0.4,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.679,68,0.282,0.934,0.482,0.132,0.121,0.117,0.051,0.458,0.482,4.0,3.8,1.5,3.2,1.7,2016-17,2016,2017
+22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.811,79,0.096,0.99,0.527,0.143,0.143,0.133,0.041,0.5,0.527,1.2,1.2,0.5,0.9,0.4,2016-17,2016,2017
+22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Postup,Offensive,0.8,75,0.11,0.986,0.596,0.151,0.219,0.096,0.014,0.521,0.596,1.0,1.0,0.4,0.6,0.3,2016-17,2016,2017
+22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.774,78,0.07,0.974,0.484,0.158,0.079,0.158,0.053,0.474,0.484,0.5,0.5,0.2,0.4,0.2,2016-17,2016,2017
+22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Postup,Offensive,0.668,72,0.034,0.933,0.429,0.233,0.133,0.233,0.067,0.467,0.429,0.4,0.4,0.1,0.3,0.2,2016-17,2016,2017
+22016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.324,80,0.067,0.818,0.414,0.061,0.061,0.061,0.0,0.424,0.414,0.4,0.3,0.2,0.4,0.2,2016-17,2016,2017

@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.753,10,0.397,1.16,0.435,0.04,0.04,0.04,0.0,0.44,0.005869999999999999,25,29,10,23,13
-42015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.265,10,0.262,0.784,0.294,0.054,0.054,0.027,0.027,0.297,0.0039700000000000004,37,29,10,34,24
-42015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,1.0,10,0.064,2.0,0.8,0.091,0.0,0.091,0.0,0.818,0.01,11,22,8,10,2
-42015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.918,10,0.28,1.5,0.583,0.0,0.143,0.0,0.0,0.5,0.00875,14,21,7,12,5
-42015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.34,10,0.224,0.842,0.353,0.0,0.105,0.0,0.0,0.316,0.00471,19,16,6,17,11
-42015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.133,10,0.128,0.625,0.316,0.083,0.167,0.083,0.042,0.292,0.00368,24,15,6,19,13
-42015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.092,10,0.171,0.583,0.25,0.0,0.0,0.0,0.0,0.25,0.00292,24,14,6,24,18
-42015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.102,10,0.153,0.6,0.235,0.05,0.1,0.05,0.0,0.25,0.0032400000000000003,20,12,4,17,13
-42015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,4,0.242,1.375,0.571,0.0,0.125,0.0,0.0,0.5,0.00786,8,11,4,7,3
-42015,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,9,0.25,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.00417,6,5,2,6,4
-42015,2550,Kirk Hinrich,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,6,0.286,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1
-42015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,4,0.273,1.0,0.5,0.333,0.333,0.333,0.333,0.333,0.005,3,3,1,2,1
-42015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,9,0.452,0.143,0.077,0.0,0.071,0.0,0.0,0.071,0.00077,14,2,1,13,12
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.753,10,0.397,1.16,0.435,0.04,0.04,0.04,0.0,0.44,0.005869999999999999,25,29,10,23,13,2015-16,2015,2016
+42015,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.265,10,0.262,0.784,0.294,0.054,0.054,0.027,0.027,0.297,0.0039700000000000004,37,29,10,34,24,2015-16,2015,2016
+42015,201952,Jeff Teague,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,1.0,10,0.064,2.0,0.8,0.091,0.0,0.091,0.0,0.818,0.01,11,22,8,10,2,2015-16,2015,2016
+42015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.918,10,0.28,1.5,0.583,0.0,0.143,0.0,0.0,0.5,0.00875,14,21,7,12,5,2015-16,2015,2016
+42015,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.34,10,0.224,0.842,0.353,0.0,0.105,0.0,0.0,0.316,0.00471,19,16,6,17,11,2015-16,2015,2016
+42015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.133,10,0.128,0.625,0.316,0.083,0.167,0.083,0.042,0.292,0.00368,24,15,6,19,13,2015-16,2015,2016
+42015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.092,10,0.171,0.583,0.25,0.0,0.0,0.0,0.0,0.25,0.00292,24,14,6,24,18,2015-16,2015,2016
+42015,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.102,10,0.153,0.6,0.235,0.05,0.1,0.05,0.0,0.25,0.0032400000000000003,20,12,4,17,13,2015-16,2015,2016
+42015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,4,0.242,1.375,0.571,0.0,0.125,0.0,0.0,0.5,0.00786,8,11,4,7,3,2015-16,2015,2016
+42015,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,9,0.25,0.833,0.333,0.0,0.0,0.0,0.0,0.333,0.00417,6,5,2,6,4,2015-16,2015,2016
+42015,2550,Kirk Hinrich,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,6,0.286,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,2,3,1,2,1,2015-16,2015,2016
+42015,203934,Lamar Patterson,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,4,0.273,1.0,0.5,0.333,0.333,0.333,0.333,0.333,0.005,3,3,1,2,1,2015-16,2015,2016
+42015,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Spotup,Offensive,0.0,9,0.452,0.143,0.077,0.0,0.071,0.0,0.0,0.071,0.00077,14,2,1,13,12,2015-16,2015,2016

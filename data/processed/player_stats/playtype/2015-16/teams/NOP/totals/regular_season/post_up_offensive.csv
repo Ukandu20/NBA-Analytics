@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.363,61,0.184,0.782,0.359,0.16,0.118,0.111,0.011,0.408,0.359,262,205,69,192,123
-22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.883,66,0.175,1.005,0.497,0.128,0.092,0.118,0.026,0.503,0.497,195,196,78,157,79
-22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.212,59,0.096,0.684,0.375,0.026,0.132,0.026,0.0,0.342,0.375,38,26,12,32,20
-22015,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.239,65,0.014,0.706,0.375,0.0,0.059,0.0,0.0,0.353,0.375,17,12,6,16,10
-22015,2570,Kendrick Perkins,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.072,38,0.18,0.478,0.357,0.043,0.348,0.0,0.0,0.261,0.357,23,11,5,14,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.363,61,0.184,0.782,0.359,0.16,0.118,0.111,0.011,0.408,0.359,262,205,69,192,123,2015-16,2015,2016
+22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.883,66,0.175,1.005,0.497,0.128,0.092,0.118,0.026,0.503,0.497,195,196,78,157,79,2015-16,2015,2016
+22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.212,59,0.096,0.684,0.375,0.026,0.132,0.026,0.0,0.342,0.375,38,26,12,32,20,2015-16,2015,2016
+22015,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.239,65,0.014,0.706,0.375,0.0,0.059,0.0,0.0,0.353,0.375,17,12,6,16,10,2015-16,2015,2016
+22015,2570,Kendrick Perkins,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.072,38,0.18,0.478,0.357,0.043,0.348,0.0,0.0,0.261,0.357,23,11,5,14,9,2015-16,2015,2016

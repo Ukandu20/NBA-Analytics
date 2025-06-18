@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.747,82,0.083,0.597,0.625,0.306,0.583,0.028,0.0,0.361,0.00625,0.9,0.5,0.1,0.1,0.0
-22024,1629660,Ty Jerome,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.879,70,0.042,0.719,0.5,0.188,0.438,0.031,0.0,0.375,0.005829999999999999,0.5,0.3,0.1,0.2,0.1
-22024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.814,50,0.045,0.65,0.2,0.35,0.45,0.05,0.05,0.35,0.002,0.4,0.3,0.0,0.1,0.1
-22024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.741,71,0.047,0.591,0.4,0.227,0.545,0.0,0.0,0.318,0.005,0.3,0.2,0.0,0.1,0.0
-22024,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.918,51,0.073,0.786,0.5,0.286,0.429,0.0,0.0,0.429,0.00625,0.3,0.2,0.0,0.1,0.0
-22024,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.41,51,0.049,0.4,0.0,0.3,0.6,0.0,0.0,0.3,0.0,0.4,0.2,0.0,0.0,0.0
-22024,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.376,55,0.042,0.385,0.25,0.231,0.462,0.0,0.0,0.231,0.0025,0.2,0.1,0.0,0.1,0.1
-22024,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.132,59,0.059,0.222,0.0,0.222,0.667,0.0,0.0,0.167,0.0,0.3,0.1,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22024,1628386,Jarrett Allen,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.747,82,0.083,0.597,0.625,0.306,0.583,0.028,0.0,0.361,0.00625,0.9,0.5,0.1,0.1,0.0,2024-25,2024,2025
+22024,1629660,Ty Jerome,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.879,70,0.042,0.719,0.5,0.188,0.438,0.031,0.0,0.375,0.005829999999999999,0.5,0.3,0.1,0.2,0.1,2024-25,2024,2025
+22024,1629622,Max Strus,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.814,50,0.045,0.65,0.2,0.35,0.45,0.05,0.05,0.35,0.002,0.4,0.3,0.0,0.1,0.1,2024-25,2024,2025
+22024,1630241,Sam Merrill,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.741,71,0.047,0.591,0.4,0.227,0.545,0.0,0.0,0.318,0.005,0.3,0.2,0.0,0.1,0.0,2024-25,2024,2025
+22024,1641854,Craig Porter Jr.,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.918,51,0.073,0.786,0.5,0.286,0.429,0.0,0.0,0.429,0.00625,0.3,0.2,0.0,0.1,0.0,2024-25,2024,2025
+22024,1627777,Georges Niang,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.41,51,0.049,0.4,0.0,0.3,0.6,0.0,0.0,0.3,0.0,0.4,0.2,0.0,0.0,0.0,2024-25,2024,2025
+22024,1630171,Isaac Okoro,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.376,55,0.042,0.385,0.25,0.231,0.462,0.0,0.0,0.231,0.0025,0.2,0.1,0.0,0.1,0.1,2024-25,2024,2025
+22024,1629731,Dean Wade,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.132,59,0.059,0.222,0.0,0.222,0.667,0.0,0.0,0.167,0.0,0.3,0.1,0.0,0.0,0.0,2024-25,2024,2025

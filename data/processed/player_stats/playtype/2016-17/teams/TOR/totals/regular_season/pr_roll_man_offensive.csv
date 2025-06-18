@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.922,80,0.207,1.282,0.653,0.144,0.085,0.133,0.027,0.638,0.653,188,241,98,150,52
-22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.894,57,0.284,1.246,0.711,0.2,0.154,0.2,0.046,0.646,0.711,65,81,32,45,13
-22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.335,23,0.243,0.938,0.419,0.025,0.062,0.012,0.0,0.407,0.493,81,76,31,74,43
-22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.502,65,0.137,1.032,0.426,0.097,0.065,0.097,0.032,0.419,0.537,62,64,23,54,31
-22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.61,54,0.235,1.075,0.545,0.1,0.075,0.1,0.0,0.55,0.545,40,43,18,33,15
-22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.189,55,0.083,0.857,0.444,0.095,0.048,0.095,0.0,0.476,0.444,21,18,8,18,10
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.765,60,0.011,1.154,0.455,0.077,0.077,0.0,0.0,0.462,0.636,13,15,5,11,6
-22016,203096,Jared Sullinger,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.032,11,0.364,0.55,0.25,0.0,0.0,0.0,0.0,0.25,0.275,20,11,5,20,15
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.922,80,0.207,1.282,0.653,0.144,0.085,0.133,0.027,0.638,0.653,188,241,98,150,52,2016-17,2016,2017
+22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.894,57,0.284,1.246,0.711,0.2,0.154,0.2,0.046,0.646,0.711,65,81,32,45,13,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.335,23,0.243,0.938,0.419,0.025,0.062,0.012,0.0,0.407,0.493,81,76,31,74,43,2016-17,2016,2017
+22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.502,65,0.137,1.032,0.426,0.097,0.065,0.097,0.032,0.419,0.537,62,64,23,54,31,2016-17,2016,2017
+22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.61,54,0.235,1.075,0.545,0.1,0.075,0.1,0.0,0.55,0.545,40,43,18,33,15,2016-17,2016,2017
+22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.189,55,0.083,0.857,0.444,0.095,0.048,0.095,0.0,0.476,0.444,21,18,8,18,10,2016-17,2016,2017
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.765,60,0.011,1.154,0.455,0.077,0.077,0.0,0.0,0.462,0.636,13,15,5,11,6,2016-17,2016,2017
+22016,203096,Jared Sullinger,1610612761,TOR,Toronto Raptors,PRRollMan,Offensive,0.032,11,0.364,0.55,0.25,0.0,0.0,0.0,0.0,0.25,0.275,20,11,5,20,15,2016-17,2016,2017

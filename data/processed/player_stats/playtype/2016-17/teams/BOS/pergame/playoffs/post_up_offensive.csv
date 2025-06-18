@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.419,18,0.223,0.846,0.476,0.038,0.154,0.038,0.0,0.423,0.476,2.9,2.0,1.1,2.3,1.2
-42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Postup,Offensive,0.387,18,0.101,0.813,0.5,0.125,0.188,0.125,0.063,0.438,0.5,0.9,1.0,0.3,0.7,0.3
-42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.034,1.25,0.667,0.25,0.0,0.125,0.0,0.75,0.667,0.4,1.0,0.2,0.3,0.1
-42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.055,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.0,0.1,0.3,0.2
-42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.083,0.25,0.0,0.25,0.25,0.188,0.0,0.188,0.0,0.9,0.0,0.0,0.4,0.4
-42016,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,2,0.333,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,1.0,1.0,0.5,0.5,0.0
-42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,11,0.121,0.5,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.4,0.0,0.0,0.3,0.3
-42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,14,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
-42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,13,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,201143,Al Horford,1610612738,BOS,Boston Celtics,Postup,Offensive,0.419,18,0.223,0.846,0.476,0.038,0.154,0.038,0.0,0.423,0.476,2.9,2.0,1.1,2.3,1.2,2016-17,2016,2017
+42016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Postup,Offensive,0.387,18,0.101,0.813,0.5,0.125,0.188,0.125,0.063,0.438,0.5,0.9,1.0,0.3,0.7,0.3,2016-17,2016,2017
+42016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.034,1.25,0.667,0.25,0.0,0.125,0.0,0.75,0.667,0.4,1.0,0.2,0.3,0.1,2016-17,2016,2017
+42016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,17,0.055,0.8,0.4,0.0,0.0,0.0,0.0,0.4,0.4,0.3,0.0,0.1,0.3,0.2,2016-17,2016,2017
+42016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,18,0.083,0.25,0.0,0.25,0.25,0.188,0.0,0.188,0.0,0.9,0.0,0.0,0.4,0.4,2016-17,2016,2017
+42016,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,2,0.333,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,1.0,1.0,0.5,0.5,0.0,2016-17,2016,2017
+42016,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,11,0.121,0.5,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.4,0.0,0.0,0.3,0.3,2016-17,2016,2017
+42016,101161,Amir Johnson,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,14,0.025,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,2016-17,2016,2017
+42016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Postup,Offensive,0.0,13,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.1,2016-17,2016,2017

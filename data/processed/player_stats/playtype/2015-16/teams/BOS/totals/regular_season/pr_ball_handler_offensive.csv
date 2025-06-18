@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.728,82,0.31,0.857,0.386,0.144,0.146,0.102,0.016,0.408,0.426,568,487,159,412,253
-22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.338,81,0.315,0.708,0.433,0.054,0.225,0.054,0.016,0.352,0.433,315,223,100,231,131
-22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.44,76,0.135,0.75,0.382,0.031,0.131,0.031,0.013,0.344,0.415,160,120,52,136,84
-22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.498,61,0.182,0.774,0.4,0.129,0.202,0.097,0.016,0.379,0.441,124,96,34,85,51
-22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.514,73,0.073,0.781,0.321,0.096,0.178,0.082,0.0,0.329,0.406,73,57,17,53,36
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.728,82,0.31,0.857,0.386,0.144,0.146,0.102,0.016,0.408,0.426,568,487,159,412,253,2015-16,2015,2016
+22015,202323,Evan Turner,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.338,81,0.315,0.708,0.433,0.054,0.225,0.054,0.016,0.352,0.433,315,223,100,231,131,2015-16,2015,2016
+22015,202340,Avery Bradley,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.44,76,0.135,0.75,0.382,0.031,0.131,0.031,0.013,0.344,0.415,160,120,52,136,84,2015-16,2015,2016
+22015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.498,61,0.182,0.774,0.4,0.129,0.202,0.097,0.016,0.379,0.441,124,96,34,85,51,2015-16,2015,2016
+22015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.514,73,0.073,0.781,0.321,0.096,0.178,0.082,0.0,0.329,0.406,73,57,17,53,36,2015-16,2015,2016

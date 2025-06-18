@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.701,72,0.047,0.613,0.25,0.2,0.35,0.025,0.0,0.313,0.0025,1.1,0.7,0.1,0.5,0.4
-22016,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.849,61,0.059,0.727,0.44,0.348,0.53,0.045,0.02,0.379,0.00444,1.1,0.8,0.1,0.1,0.1
-22016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.396,74,0.054,0.436,0.45,0.158,0.624,0.02,0.0,0.257,0.00477,1.4,0.6,0.1,0.3,0.2
-22016,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.412,78,0.1,0.45,0.4,0.283,0.467,0.017,0.0,0.283,0.004,0.8,0.3,0.1,0.2,0.1
-22016,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.566,76,0.049,0.533,0.29,0.267,0.5,0.067,0.0,0.3,0.0028599999999999997,0.4,0.2,0.0,0.1,0.1
-22016,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.276,74,0.064,0.359,0.43,0.128,0.692,0.0,0.0,0.205,0.0042899999999999995,0.5,0.2,0.0,0.1,0.1
-22016,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.744,41,0.052,0.65,0.3,0.15,0.35,0.0,0.0,0.3,0.004,0.5,0.3,0.1,0.2,0.2
-22016,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.151,79,0.093,0.268,0.12,0.195,0.61,0.049,0.0,0.146,0.00125,0.5,0.1,0.0,0.1,0.1
-22016,202732,DeAndre Liggins,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.678,61,0.078,0.6,0.33,0.267,0.4,0.133,0.07,0.333,0.00333,0.2,0.1,0.0,0.1,0.1
-22016,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.508,35,0.046,0.5,0.5,0.143,0.571,0.0,0.0,0.286,0.005,0.4,0.2,0.1,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.701,72,0.047,0.613,0.25,0.2,0.35,0.025,0.0,0.313,0.0025,1.1,0.7,0.1,0.5,0.4,2016-17,2016,2017
+22016,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.849,61,0.059,0.727,0.44,0.348,0.53,0.045,0.02,0.379,0.00444,1.1,0.8,0.1,0.1,0.1,2016-17,2016,2017
+22016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.396,74,0.054,0.436,0.45,0.158,0.624,0.02,0.0,0.257,0.00477,1.4,0.6,0.1,0.3,0.2,2016-17,2016,2017
+22016,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.412,78,0.1,0.45,0.4,0.283,0.467,0.017,0.0,0.283,0.004,0.8,0.3,0.1,0.2,0.1,2016-17,2016,2017
+22016,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.566,76,0.049,0.533,0.29,0.267,0.5,0.067,0.0,0.3,0.0028599999999999997,0.4,0.2,0.0,0.1,0.1,2016-17,2016,2017
+22016,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.276,74,0.064,0.359,0.43,0.128,0.692,0.0,0.0,0.205,0.0042899999999999995,0.5,0.2,0.0,0.1,0.1,2016-17,2016,2017
+22016,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.744,41,0.052,0.65,0.3,0.15,0.35,0.0,0.0,0.3,0.004,0.5,0.3,0.1,0.2,0.2,2016-17,2016,2017
+22016,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.151,79,0.093,0.268,0.12,0.195,0.61,0.049,0.0,0.146,0.00125,0.5,0.1,0.0,0.1,0.1,2016-17,2016,2017
+22016,202732,DeAndre Liggins,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.678,61,0.078,0.6,0.33,0.267,0.4,0.133,0.07,0.333,0.00333,0.2,0.1,0.0,0.1,0.1,2016-17,2016,2017
+22016,2594,Kyle Korver,1610612739,CLE,Cleveland Cavaliers,Misc,Offensive,0.508,35,0.046,0.5,0.5,0.143,0.571,0.0,0.0,0.286,0.005,0.4,0.2,0.1,0.1,0.1,2016-17,2016,2017

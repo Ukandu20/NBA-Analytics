@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201584,Courtney Lee,1610612752,NYK,New York Knicks,Handoff,Offensive,0.571,77,0.097,0.937,0.429,0.063,0.076,0.063,0.025,0.418,0.479,1.0,1.0,0.4,0.9,0.5
-22016,201565,Derrick Rose,1610612752,NYK,New York Knicks,Handoff,Offensive,0.8,64,0.045,1.054,0.565,0.089,0.125,0.089,0.036,0.518,0.565,0.9,1.0,0.4,0.7,0.3
-22016,203200,Justin Holiday,1610612752,NYK,New York Knicks,Handoff,Offensive,0.782,82,0.072,1.043,0.477,0.0,0.043,0.0,0.0,0.457,0.545,0.6,1.0,0.3,0.5,0.3
-22016,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Handoff,Offensive,0.146,74,0.03,0.647,0.325,0.078,0.176,0.078,0.039,0.294,0.338,0.7,0.0,0.2,0.5,0.4
-22016,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Handoff,Offensive,0.9,66,0.016,1.158,0.529,0.0,0.105,0.0,0.0,0.474,0.647,0.3,0.0,0.1,0.3,0.1
-22016,201943,Brandon Jennings,1610612752,NYK,New York Knicks,Handoff,Offensive,0.388,58,0.042,0.84,0.389,0.08,0.2,0.08,0.0,0.36,0.472,0.4,0.0,0.1,0.3,0.2
-22016,1627851,Mindaugas Kuzminskas,1610612752,NYK,New York Knicks,Handoff,Offensive,0.713,68,0.027,1.0,0.455,0.0,0.083,0.0,0.0,0.417,0.545,0.2,0.0,0.1,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201584,Courtney Lee,1610612752,NYK,New York Knicks,Handoff,Offensive,0.571,77,0.097,0.937,0.429,0.063,0.076,0.063,0.025,0.418,0.479,1.0,1.0,0.4,0.9,0.5,2016-17,2016,2017
+22016,201565,Derrick Rose,1610612752,NYK,New York Knicks,Handoff,Offensive,0.8,64,0.045,1.054,0.565,0.089,0.125,0.089,0.036,0.518,0.565,0.9,1.0,0.4,0.7,0.3,2016-17,2016,2017
+22016,203200,Justin Holiday,1610612752,NYK,New York Knicks,Handoff,Offensive,0.782,82,0.072,1.043,0.477,0.0,0.043,0.0,0.0,0.457,0.545,0.6,1.0,0.3,0.5,0.3,2016-17,2016,2017
+22016,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Handoff,Offensive,0.146,74,0.03,0.647,0.325,0.078,0.176,0.078,0.039,0.294,0.338,0.7,0.0,0.2,0.5,0.4,2016-17,2016,2017
+22016,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Handoff,Offensive,0.9,66,0.016,1.158,0.529,0.0,0.105,0.0,0.0,0.474,0.647,0.3,0.0,0.1,0.3,0.1,2016-17,2016,2017
+22016,201943,Brandon Jennings,1610612752,NYK,New York Knicks,Handoff,Offensive,0.388,58,0.042,0.84,0.389,0.08,0.2,0.08,0.0,0.36,0.472,0.4,0.0,0.1,0.3,0.2,2016-17,2016,2017
+22016,1627851,Mindaugas Kuzminskas,1610612752,NYK,New York Knicks,Handoff,Offensive,0.713,68,0.027,1.0,0.455,0.0,0.083,0.0,0.0,0.417,0.545,0.2,0.0,0.1,0.2,0.1,2016-17,2016,2017

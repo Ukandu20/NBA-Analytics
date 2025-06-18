@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.605,5,0.175,1.0,0.5,0.06,0.059,0.06,0.059,0.471,0.005,17,17,8,16,8
-42015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,4,0.24,1.333,0.667,0.5,0.167,0.5,0.167,0.667,0.006670000000000001,6,8,2,3,1
-42015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,5,0.2,0.714,0.333,0.14,0.0,0.14,0.0,0.429,0.00333,7,5,2,6,4
-42015,101135,David Lee,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,2,0.125,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42015,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,4,0.063,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.605,5,0.175,1.0,0.5,0.06,0.059,0.06,0.059,0.471,0.005,17,17,8,16,8,2015-16,2015,2016
+42015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,4,0.24,1.333,0.667,0.5,0.167,0.5,0.167,0.667,0.006670000000000001,6,8,2,3,1,2015-16,2015,2016
+42015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,5,0.2,0.714,0.333,0.14,0.0,0.14,0.0,0.429,0.00333,7,5,2,6,4,2015-16,2015,2016
+42015,101135,David Lee,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,2,0.125,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
+42015,1626257,Salah Mejri,1610612742,DAL,Dallas Mavericks,PRRollMan,Offensive,0.0,4,0.063,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,2015-16,2015,2016

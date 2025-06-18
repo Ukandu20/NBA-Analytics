@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Transition,Offensive,0.847,80,0.136,1.312,0.639,0.188,0.11,0.138,0.06,0.615,0.684,218,286,106,166,60
-22015,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Transition,Offensive,0.711,80,0.078,1.196,0.545,0.207,0.087,0.163,0.022,0.576,0.606,92,110,36,66,30
-22015,203504,Trey Burke,1610612762,UTA,Utah Jazz,Transition,Offensive,0.222,64,0.122,0.967,0.459,0.099,0.11,0.066,0.022,0.451,0.507,91,88,34,74,40
-22015,203526,Raul Neto,1610612762,UTA,Utah Jazz,Transition,Offensive,0.267,81,0.14,1.0,0.576,0.064,0.205,0.064,0.026,0.474,0.602,78,78,34,59,25
-22015,202692,Alec Burks,1610612762,UTA,Utah Jazz,Transition,Offensive,0.468,31,0.155,1.087,0.521,0.217,0.145,0.116,0.058,0.522,0.573,69,75,25,48,23
-22015,202344,Trevor Booker,1610612762,UTA,Utah Jazz,Transition,Offensive,0.477,79,0.129,1.09,0.653,0.119,0.149,0.104,0.0,0.567,0.663,67,73,32,49,17
-22015,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Transition,Offensive,0.505,28,0.135,1.105,0.641,0.088,0.246,0.088,0.018,0.509,0.705,57,63,25,39,14
-22015,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.428,80,0.096,1.077,0.553,0.077,0.192,0.058,0.0,0.481,0.658,52,56,21,38,17
-22015,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.603,81,0.108,1.154,0.606,0.051,0.128,0.077,0.051,0.513,0.652,39,45,20,33,13
-22015,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.499,61,0.066,1.1,0.75,0.325,0.175,0.275,0.025,0.6,0.75,40,44,15,20,5
-22015,203187,Chris Johnson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.443,70,0.15,1.079,0.593,0.158,0.184,0.132,0.053,0.526,0.63,38,41,16,27,11
-22015,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Transition,Offensive,0.368,62,0.036,1.054,0.533,0.162,0.108,0.135,0.081,0.514,0.533,37,39,16,30,14
-22015,203481,Jeff Withey,1610612762,UTA,Utah Jazz,Transition,Offensive,0.945,51,0.06,1.385,0.75,0.0,0.077,0.0,0.0,0.692,0.75,13,18,9,12,3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Transition,Offensive,0.847,80,0.136,1.312,0.639,0.188,0.11,0.138,0.06,0.615,0.684,218,286,106,166,60,2015-16,2015,2016
+22015,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Transition,Offensive,0.711,80,0.078,1.196,0.545,0.207,0.087,0.163,0.022,0.576,0.606,92,110,36,66,30,2015-16,2015,2016
+22015,203504,Trey Burke,1610612762,UTA,Utah Jazz,Transition,Offensive,0.222,64,0.122,0.967,0.459,0.099,0.11,0.066,0.022,0.451,0.507,91,88,34,74,40,2015-16,2015,2016
+22015,203526,Raul Neto,1610612762,UTA,Utah Jazz,Transition,Offensive,0.267,81,0.14,1.0,0.576,0.064,0.205,0.064,0.026,0.474,0.602,78,78,34,59,25,2015-16,2015,2016
+22015,202692,Alec Burks,1610612762,UTA,Utah Jazz,Transition,Offensive,0.468,31,0.155,1.087,0.521,0.217,0.145,0.116,0.058,0.522,0.573,69,75,25,48,23,2015-16,2015,2016
+22015,202344,Trevor Booker,1610612762,UTA,Utah Jazz,Transition,Offensive,0.477,79,0.129,1.09,0.653,0.119,0.149,0.104,0.0,0.567,0.663,67,73,32,49,17,2015-16,2015,2016
+22015,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Transition,Offensive,0.505,28,0.135,1.105,0.641,0.088,0.246,0.088,0.018,0.509,0.705,57,63,25,39,14,2015-16,2015,2016
+22015,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.428,80,0.096,1.077,0.553,0.077,0.192,0.058,0.0,0.481,0.658,52,56,21,38,17,2015-16,2015,2016
+22015,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Transition,Offensive,0.603,81,0.108,1.154,0.606,0.051,0.128,0.077,0.051,0.513,0.652,39,45,20,33,13,2015-16,2015,2016
+22015,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Transition,Offensive,0.499,61,0.066,1.1,0.75,0.325,0.175,0.275,0.025,0.6,0.75,40,44,15,20,5,2015-16,2015,2016
+22015,203187,Chris Johnson,1610612762,UTA,Utah Jazz,Transition,Offensive,0.443,70,0.15,1.079,0.593,0.158,0.184,0.132,0.053,0.526,0.63,38,41,16,27,11,2015-16,2015,2016
+22015,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Transition,Offensive,0.368,62,0.036,1.054,0.533,0.162,0.108,0.135,0.081,0.514,0.533,37,39,16,30,14,2015-16,2015,2016
+22015,203481,Jeff Withey,1610612762,UTA,Utah Jazz,Transition,Offensive,0.945,51,0.06,1.385,0.75,0.0,0.077,0.0,0.0,0.692,0.75,13,18,9,12,3,2015-16,2015,2016

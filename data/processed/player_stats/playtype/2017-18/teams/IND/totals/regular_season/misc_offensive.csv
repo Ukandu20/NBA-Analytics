@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Misc,Offensive,0.812,75,0.043,0.703,0.348,0.311,0.392,0.054,0.01,0.378,0.00391,74,52,8,23,15
-22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,Misc,Offensive,0.989,69,0.045,1.0,0.467,0.371,0.229,0.029,0.03,0.514,0.005,35,35,7,15,8
-22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Misc,Offensive,0.962,80,0.037,0.921,0.417,0.342,0.342,0.053,0.0,0.474,0.00417,38,35,5,12,7
-22017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.382,65,0.082,0.426,0.429,0.206,0.691,0.0,0.0,0.25,0.005,68,29,3,7,4
-22017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.379,74,0.068,0.426,0.6,0.197,0.721,0.033,0.0,0.23,0.006,61,26,3,5,2
-22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Misc,Offensive,0.541,82,0.061,0.533,0.294,0.222,0.422,0.022,0.02,0.311,0.0032400000000000003,45,24,5,17,12
-22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Misc,Offensive,0.213,82,0.05,0.333,0.15,0.156,0.4,0.022,0.0,0.2,0.0017499999999999998,45,15,3,20,17
-22017,1626202,Joe Young,1610612754,IND,Indiana Pacers,Misc,Offensive,0.761,53,0.054,0.667,0.375,0.083,0.25,0.0,0.0,0.333,0.00438,12,8,3,8,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203506,Victor Oladipo,1610612754,IND,Indiana Pacers,Misc,Offensive,0.812,75,0.043,0.703,0.348,0.311,0.392,0.054,0.01,0.378,0.00391,74,52,8,23,15,2017-18,2017,2018
+22017,201954,Darren Collison,1610612754,IND,Indiana Pacers,Misc,Offensive,0.989,69,0.045,1.0,0.467,0.371,0.229,0.029,0.03,0.514,0.005,35,35,7,15,8,2017-18,2017,2018
+22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,Misc,Offensive,0.962,80,0.037,0.921,0.417,0.342,0.342,0.053,0.0,0.474,0.00417,38,35,5,12,7,2017-18,2017,2018
+22017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Misc,Offensive,0.382,65,0.082,0.426,0.429,0.206,0.691,0.0,0.0,0.25,0.005,68,29,3,7,4,2017-18,2017,2018
+22017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,Misc,Offensive,0.379,74,0.068,0.426,0.6,0.197,0.721,0.033,0.0,0.23,0.006,61,26,3,5,2,2017-18,2017,2018
+22017,202709,Cory Joseph,1610612754,IND,Indiana Pacers,Misc,Offensive,0.541,82,0.061,0.533,0.294,0.222,0.422,0.022,0.02,0.311,0.0032400000000000003,45,24,5,17,12,2017-18,2017,2018
+22017,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,Misc,Offensive,0.213,82,0.05,0.333,0.15,0.156,0.4,0.022,0.0,0.2,0.0017499999999999998,45,15,3,20,17,2017-18,2017,2018
+22017,1626202,Joe Young,1610612754,IND,Indiana Pacers,Misc,Offensive,0.761,53,0.054,0.667,0.375,0.083,0.25,0.0,0.0,0.333,0.00438,12,8,3,8,5,2017-18,2017,2018

@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,201935,James Harden,1610612745,HOU,Houston Rockets,Transition,Offensive,0.476,17,0.112,1.071,0.52,0.089,0.161,0.089,0.0,0.482,0.00607,56,60,22,42,20
-42017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Transition,Offensive,0.188,17,0.354,0.862,0.35,0.121,0.086,0.103,0.0,0.397,0.00424,58,50,16,46,30
-42017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Transition,Offensive,0.176,17,0.192,0.846,0.34,0.154,0.077,0.154,0.019,0.385,0.0039000000000000003,52,44,14,41,27
-42017,203991,Clint Capela,1610612745,HOU,Houston Rockets,Transition,Offensive,1.0,17,0.124,1.609,0.82,0.304,0.043,0.217,0.087,0.783,0.008239999999999999,23,37,14,17,3
-42017,101108,Chris Paul,1610612745,HOU,Houston Rockets,Transition,Offensive,0.447,15,0.11,1.059,0.46,0.176,0.147,0.118,0.029,0.471,0.00563,34,36,11,24,13
-42017,101123,Gerald Green,1610612745,HOU,Houston Rockets,Transition,Offensive,0.412,17,0.243,1.038,0.43,0.077,0.115,0.0,0.0,0.423,0.00571,26,27,9,21,12
-42017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Transition,Offensive,0.506,17,0.169,1.091,0.44,0.091,0.091,0.091,0.0,0.455,0.005829999999999999,22,24,8,18,10
-42017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,9,0.111,2.0,0.8,0.4,0.0,0.4,0.4,0.8,0.009000000000000001,5,10,4,5,1
-42017,2403,Nene,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,11,0.156,1.6,1.0,0.2,0.2,0.2,0.2,0.8,0.01,5,8,4,4,0
-42017,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,11,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42017,2207,Joe Johnson,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,8,0.1,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,201935,James Harden,1610612745,HOU,Houston Rockets,Transition,Offensive,0.476,17,0.112,1.071,0.52,0.089,0.161,0.089,0.0,0.482,0.00607,56,60,22,42,20,2017-18,2017,2018
+42017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Transition,Offensive,0.188,17,0.354,0.862,0.35,0.121,0.086,0.103,0.0,0.397,0.00424,58,50,16,46,30,2017-18,2017,2018
+42017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Transition,Offensive,0.176,17,0.192,0.846,0.34,0.154,0.077,0.154,0.019,0.385,0.0039000000000000003,52,44,14,41,27,2017-18,2017,2018
+42017,203991,Clint Capela,1610612745,HOU,Houston Rockets,Transition,Offensive,1.0,17,0.124,1.609,0.82,0.304,0.043,0.217,0.087,0.783,0.008239999999999999,23,37,14,17,3,2017-18,2017,2018
+42017,101108,Chris Paul,1610612745,HOU,Houston Rockets,Transition,Offensive,0.447,15,0.11,1.059,0.46,0.176,0.147,0.118,0.029,0.471,0.00563,34,36,11,24,13,2017-18,2017,2018
+42017,101123,Gerald Green,1610612745,HOU,Houston Rockets,Transition,Offensive,0.412,17,0.243,1.038,0.43,0.077,0.115,0.0,0.0,0.423,0.00571,26,27,9,21,12,2017-18,2017,2018
+42017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Transition,Offensive,0.506,17,0.169,1.091,0.44,0.091,0.091,0.091,0.0,0.455,0.005829999999999999,22,24,8,18,10,2017-18,2017,2018
+42017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,9,0.111,2.0,0.8,0.4,0.0,0.4,0.4,0.8,0.009000000000000001,5,10,4,5,1,2017-18,2017,2018
+42017,2403,Nene,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,11,0.156,1.6,1.0,0.2,0.2,0.2,0.2,0.8,0.01,5,8,4,4,0,2017-18,2017,2018
+42017,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,11,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018
+42017,2207,Joe Johnson,1610612745,HOU,Houston Rockets,Transition,Offensive,0.0,8,0.1,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,2017-18,2017,2018

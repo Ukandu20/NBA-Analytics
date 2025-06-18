@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.89,75,0.172,1.012,0.404,0.171,0.055,0.153,0.024,0.462,0.46,327,331,105,260,155
-22015,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.638,80,0.114,0.867,0.419,0.046,0.082,0.031,0.01,0.405,0.459,195,169,72,172,100
-22015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.498,72,0.086,0.807,0.409,0.105,0.105,0.105,0.0,0.404,0.42,57,46,18,44,26
-22015,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.168,82,0.054,0.614,0.323,0.159,0.136,0.136,0.0,0.341,0.323,44,27,10,31,21
-22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.457,78,0.037,0.789,0.364,0.211,0.211,0.158,0.0,0.421,0.409,19,15,4,11,7
-22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.024,82,0.038,0.324,0.13,0.088,0.235,0.059,0.0,0.176,0.13,34,11,3,23,20
-22015,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.144,78,0.029,0.6,0.286,0.1,0.2,0.1,0.0,0.3,0.286,10,6,2,7,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.89,75,0.172,1.012,0.404,0.171,0.055,0.153,0.024,0.462,0.46,327,331,105,260,155,2015-16,2015,2016
+22015,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.638,80,0.114,0.867,0.419,0.046,0.082,0.031,0.01,0.405,0.459,195,169,72,172,100,2015-16,2015,2016
+22015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.498,72,0.086,0.807,0.409,0.105,0.105,0.105,0.0,0.404,0.42,57,46,18,44,26,2015-16,2015,2016
+22015,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.168,82,0.054,0.614,0.323,0.159,0.136,0.136,0.0,0.341,0.323,44,27,10,31,21,2015-16,2015,2016
+22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.457,78,0.037,0.789,0.364,0.211,0.211,0.158,0.0,0.421,0.409,19,15,4,11,7,2015-16,2015,2016
+22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.024,82,0.038,0.324,0.13,0.088,0.235,0.059,0.0,0.176,0.13,34,11,3,23,20,2015-16,2015,2016
+22015,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.144,78,0.029,0.6,0.286,0.1,0.2,0.1,0.0,0.3,0.286,10,6,2,7,5,2015-16,2015,2016

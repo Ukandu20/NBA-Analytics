@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.412,20,0.082,0.805,0.345,0.195,0.15,0.2,0.049,0.39,0.345,2.0,2.0,0.4,1.4,1.0
-42015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.706,12,0.194,0.933,0.545,0.067,0.2,0.03,0.0,0.47,0.545,2.5,2.0,0.8,1.8,1.0
-42015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.015,1.333,0.667,0.0,0.0,0.0,0.0,0.67,0.667,0.2,0.0,0.2,0.2,0.0
-42015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.005,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0
-42015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.016,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.0,0.1,0.1,0.0
-42015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.024,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.2,0.0,0.2,0.2,0.0
-42015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.009,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.2,0.0,0.2,0.2,0.0
-42015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,11,0.049,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.412,20,0.082,0.805,0.345,0.195,0.15,0.2,0.049,0.39,0.345,2.0,2.0,0.4,1.4,1.0,2015-16,2015,2016
+42015,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.706,12,0.194,0.933,0.545,0.067,0.2,0.03,0.0,0.47,0.545,2.5,2.0,0.8,1.8,1.0,2015-16,2015,2016
+42015,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.015,1.333,0.667,0.0,0.0,0.0,0.0,0.67,0.667,0.2,0.0,0.2,0.2,0.0,2015-16,2015,2016
+42015,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.005,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.1,0.0,0.1,0.1,0.0,2015-16,2015,2016
+42015,202687,Bismack Biyombo,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.016,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.1,0.0,0.1,0.1,0.0,2015-16,2015,2016
+42015,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.024,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.25,0.2,0.0,0.2,0.2,0.0,2015-16,2015,2016
+42015,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,20,0.009,0.25,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.2,0.0,0.2,0.2,0.0,2015-16,2015,2016
+42015,2449,Luis Scola,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.0,11,0.049,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.2,0.0,2015-16,2015,2016

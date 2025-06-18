@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.86,78,0.362,1.115,0.393,0.028,0.034,0.022,0.006,0.394,0.561,358,399,133,338,205
-22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.942,61,0.282,1.229,0.49,0.066,0.048,0.053,0.004,0.498,0.636,227,279,99,202,103
-22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.499,75,0.222,0.938,0.362,0.024,0.021,0.014,0.0,0.37,0.47,292,274,101,279,178
-22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.958,74,0.172,1.243,0.483,0.0,0.034,0.0,0.0,0.466,0.643,148,184,69,143,74
-22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.798,65,0.167,1.077,0.418,0.041,0.053,0.041,0.006,0.414,0.556,169,182,64,153,89
-22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.403,80,0.223,0.898,0.365,0.046,0.056,0.031,0.01,0.367,0.466,196,176,65,178,113
-22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.695,64,0.288,1.021,0.372,0.056,0.049,0.049,0.007,0.385,0.523,143,146,48,129,81
-22015,101111,Charlie Villanueva,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.182,62,0.377,0.755,0.297,0.014,0.065,0.014,0.0,0.288,0.391,139,105,38,128,90
-22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.54,55,0.322,0.959,0.385,0.068,0.068,0.068,0.027,0.384,0.485,73,70,25,65,40
-22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.163,76,0.091,0.738,0.34,0.169,0.046,0.169,0.031,0.4,0.34,65,48,18,53,35
-22015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.068,69,0.144,0.621,0.327,0.0,0.103,0.0,0.0,0.293,0.346,58,36,17,52,35
-22015,201580,JaVale McGee,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.643,34,0.058,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.86,78,0.362,1.115,0.393,0.028,0.034,0.022,0.006,0.394,0.561,358,399,133,338,205,2015-16,2015,2016
+22015,202718,Chandler Parsons,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.942,61,0.282,1.229,0.49,0.066,0.048,0.053,0.004,0.498,0.636,227,279,99,202,103,2015-16,2015,2016
+22015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.499,75,0.222,0.938,0.362,0.024,0.021,0.014,0.0,0.37,0.47,292,274,101,279,178,2015-16,2015,2016
+22015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.958,74,0.172,1.243,0.483,0.0,0.034,0.0,0.0,0.466,0.643,148,184,69,143,74,2015-16,2015,2016
+22015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.798,65,0.167,1.077,0.418,0.041,0.053,0.041,0.006,0.414,0.556,169,182,64,153,89,2015-16,2015,2016
+22015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.403,80,0.223,0.898,0.365,0.046,0.056,0.031,0.01,0.367,0.466,196,176,65,178,113,2015-16,2015,2016
+22015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.695,64,0.288,1.021,0.372,0.056,0.049,0.049,0.007,0.385,0.523,143,146,48,129,81,2015-16,2015,2016
+22015,101111,Charlie Villanueva,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.182,62,0.377,0.755,0.297,0.014,0.065,0.014,0.0,0.288,0.391,139,105,38,128,90,2015-16,2015,2016
+22015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.54,55,0.322,0.959,0.385,0.068,0.068,0.068,0.027,0.384,0.485,73,70,25,65,40,2015-16,2015,2016
+22015,2585,Zaza Pachulia,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.163,76,0.091,0.738,0.34,0.169,0.046,0.169,0.031,0.4,0.34,65,48,18,53,35,2015-16,2015,2016
+22015,203939,Dwight Powell,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.068,69,0.144,0.621,0.327,0.0,0.103,0.0,0.0,0.293,0.346,58,36,17,52,35,2015-16,2015,2016
+22015,201580,JaVale McGee,1610612742,DAL,Dallas Mavericks,Spotup,Offensive,0.643,34,0.058,1.0,0.556,0.0,0.1,0.0,0.0,0.5,0.556,10,10,5,9,4,2015-16,2015,2016

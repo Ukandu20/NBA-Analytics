@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.843,74,0.409,0.967,0.467,0.164,0.102,0.155,0.027,0.49,0.467,822,795,291,623,332
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.951,60,0.391,1.052,0.481,0.147,0.16,0.147,0.037,0.454,0.58,482,507,169,351,182
-22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.505,80,0.451,0.801,0.437,0.067,0.137,0.056,0.016,0.403,0.442,372,298,132,302,170
-22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.847,76,0.284,0.968,0.504,0.157,0.151,0.146,0.027,0.492,0.511,185,179,67,133,66
-22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.969,54,0.167,1.157,0.518,0.034,0.034,0.022,0.022,0.506,0.588,89,103,44,85,41
-22016,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.769,27,0.47,0.91,0.397,0.179,0.09,0.128,0.013,0.462,0.422,78,71,23,58,35
-22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.318,72,0.044,0.724,0.375,0.069,0.103,0.069,0.0,0.379,0.375,29,21,9,24,15
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.843,74,0.409,0.967,0.467,0.164,0.102,0.155,0.027,0.49,0.467,822,795,291,623,332,2016-17,2016,2017
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.951,60,0.391,1.052,0.481,0.147,0.16,0.147,0.037,0.454,0.58,482,507,169,351,182,2016-17,2016,2017
+22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.505,80,0.451,0.801,0.437,0.067,0.137,0.056,0.016,0.403,0.442,372,298,132,302,170,2016-17,2016,2017
+22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.847,76,0.284,0.968,0.504,0.157,0.151,0.146,0.027,0.492,0.511,185,179,67,133,66,2016-17,2016,2017
+22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.969,54,0.167,1.157,0.518,0.034,0.034,0.022,0.022,0.506,0.588,89,103,44,85,41,2016-17,2016,2017
+22016,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.769,27,0.47,0.91,0.397,0.179,0.09,0.128,0.013,0.462,0.422,78,71,23,58,35,2016-17,2016,2017
+22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.318,72,0.044,0.724,0.375,0.069,0.103,0.069,0.0,0.379,0.375,29,21,9,24,15,2016-17,2016,2017

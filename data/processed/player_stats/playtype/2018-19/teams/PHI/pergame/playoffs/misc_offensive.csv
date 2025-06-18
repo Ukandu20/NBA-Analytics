@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.714,11,0.088,0.857,0.333,0.57,0.286,0.0,0.0,0.524,0.00333,2.0,1.6,0.1,0.3,0.2
-42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.4,12,0.133,0.636,0.429,0.36,0.318,0.045,0.0,0.364,0.0042899999999999995,2.0,1.2,0.3,0.6,0.3
-42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.429,11,0.219,0.643,0.333,0.36,0.429,0.071,0.0,0.429,0.00333,1.0,0.8,0.1,0.3,0.2
-42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.515,12,0.053,0.667,0.5,0.17,0.5,0.0,0.0,0.333,0.00625,1.0,0.7,0.2,0.3,0.2
-42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,12,0.02,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,0.0,0.3,0.0,0.0,0.0
-42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,11,0.084,0.429,0.333,0.14,0.429,0.0,0.0,0.286,0.00333,1.0,0.3,0.1,0.3,0.2
-42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.088,12,0.085,0.231,0.0,0.15,0.615,0.0,0.0,0.154,0.0,1.0,0.3,0.0,0.3,0.3
-42018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,4,0.2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.036,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.042,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,7,0.079,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1
-42018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.097,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42018,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.714,11,0.088,0.857,0.333,0.57,0.286,0.0,0.0,0.524,0.00333,2.0,1.6,0.1,0.3,0.2,2018-19,2018,2019
+42018,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.4,12,0.133,0.636,0.429,0.36,0.318,0.045,0.0,0.364,0.0042899999999999995,2.0,1.2,0.3,0.6,0.3,2018-19,2018,2019
+42018,1626246,Boban Marjanović,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.429,11,0.219,0.643,0.333,0.36,0.429,0.071,0.0,0.429,0.00333,1.0,0.8,0.1,0.3,0.2,2018-19,2018,2019
+42018,202710,Jimmy Butler III,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.515,12,0.053,0.667,0.5,0.17,0.5,0.0,0.0,0.333,0.00625,1.0,0.7,0.2,0.3,0.2,2018-19,2018,2019
+42018,202699,Tobias Harris,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,12,0.02,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,0.0,0.3,0.0,0.0,0.0,2018-19,2018,2019
+42018,203516,James Ennis III,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,11,0.084,0.429,0.333,0.14,0.429,0.0,0.0,0.286,0.00333,1.0,0.3,0.1,0.3,0.2,2018-19,2018,2019
+42018,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.088,12,0.085,0.231,0.0,0.15,0.615,0.0,0.0,0.154,0.0,1.0,0.3,0.0,0.3,0.3,2018-19,2018,2019
+42018,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,4,0.2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019
+42018,203118,Mike Scott,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.036,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019
+42018,202328,Greg Monroe,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.042,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019
+42018,203613,Jonathon Simmons,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,7,0.079,0.0,0.0,0.0,0.667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,2018-19,2018,2019
+42018,1628413,Jonah Bolden,1610612755,PHI,Philadelphia 76ers,Misc,Offensive,0.0,10,0.097,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2018-19,2018,2019

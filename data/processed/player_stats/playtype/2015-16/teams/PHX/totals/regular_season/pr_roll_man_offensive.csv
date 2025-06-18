@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202720,Jon Leuer,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.854,67,0.235,1.182,0.551,0.073,0.08,0.058,0.015,0.526,0.623,137,162,65,118,53
-22015,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.799,66,0.18,1.138,0.547,0.276,0.034,0.276,0.057,0.609,0.547,87,99,35,64,29
-22015,203141,Mirza Teletovic,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.58,79,0.089,1.036,0.41,0.024,0.048,0.024,0.012,0.398,0.538,83,86,32,78,46
-22015,203458,Alex Len,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.224,78,0.113,0.869,0.438,0.141,0.071,0.141,0.03,0.465,0.438,99,86,35,80,45
-22015,202693,Markieff Morris,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.402,38,0.142,0.962,0.465,0.05,0.1,0.05,0.038,0.425,0.514,80,77,33,71,38
-22015,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.032,82,0.016,0.583,0.273,0.0,0.083,0.0,0.0,0.25,0.318,12,7,3,11,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202720,Jon Leuer,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.854,67,0.235,1.182,0.551,0.073,0.08,0.058,0.015,0.526,0.623,137,162,65,118,53,2015-16,2015,2016
+22015,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.799,66,0.18,1.138,0.547,0.276,0.034,0.276,0.057,0.609,0.547,87,99,35,64,29,2015-16,2015,2016
+22015,203141,Mirza Teletovic,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.58,79,0.089,1.036,0.41,0.024,0.048,0.024,0.012,0.398,0.538,83,86,32,78,46,2015-16,2015,2016
+22015,203458,Alex Len,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.224,78,0.113,0.869,0.438,0.141,0.071,0.141,0.03,0.465,0.438,99,86,35,80,45,2015-16,2015,2016
+22015,202693,Markieff Morris,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.402,38,0.142,0.962,0.465,0.05,0.1,0.05,0.038,0.425,0.514,80,77,33,71,38,2015-16,2015,2016
+22015,200782,P.J. Tucker,1610612756,PHX,Phoenix Suns,PRRollMan,Offensive,0.032,82,0.016,0.583,0.273,0.0,0.083,0.0,0.0,0.25,0.318,12,7,3,11,8,2015-16,2015,2016

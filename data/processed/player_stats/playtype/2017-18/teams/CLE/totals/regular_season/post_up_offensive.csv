@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.877,82,0.092,1.036,0.563,0.107,0.128,0.107,0.041,0.52,0.563,196,203,89,158,69
-22017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.789,59,0.194,0.983,0.477,0.182,0.11,0.127,0.017,0.508,0.477,181,178,62,130,68
-22017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.557,78,0.113,0.889,0.446,0.089,0.1,0.089,0.011,0.444,0.446,90,80,33,74,41
-22017,2548,Dwyane Wade,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.289,46,0.123,0.778,0.382,0.111,0.139,0.097,0.014,0.389,0.382,72,56,21,55,34
-22017,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,1.0,44,0.063,1.5,0.778,0.167,0.083,0.167,0.0,0.75,0.778,12,18,7,9,2
-22017,203109,Jae Crowder,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.153,53,0.039,0.667,0.385,0.111,0.167,0.111,0.0,0.333,0.385,18,12,5,13,8
-22017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.193,53,0.045,0.714,0.375,0.214,0.286,0.143,0.071,0.357,0.375,14,10,3,8,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.877,82,0.092,1.036,0.563,0.107,0.128,0.107,0.041,0.52,0.563,196,203,89,158,69,2017-18,2017,2018
+22017,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.789,59,0.194,0.983,0.477,0.182,0.11,0.127,0.017,0.508,0.477,181,178,62,130,68,2017-18,2017,2018
+22017,201145,Jeff Green,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.557,78,0.113,0.889,0.446,0.089,0.1,0.089,0.011,0.444,0.446,90,80,33,74,41,2017-18,2017,2018
+22017,2548,Dwyane Wade,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.289,46,0.123,0.778,0.382,0.111,0.139,0.097,0.014,0.389,0.382,72,56,21,55,34,2017-18,2017,2018
+22017,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,1.0,44,0.063,1.5,0.778,0.167,0.083,0.167,0.0,0.75,0.778,12,18,7,9,2,2017-18,2017,2018
+22017,203109,Jae Crowder,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.153,53,0.039,0.667,0.385,0.111,0.167,0.111,0.0,0.333,0.385,18,12,5,13,8,2017-18,2017,2018
+22017,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.193,53,0.045,0.714,0.375,0.214,0.286,0.143,0.071,0.357,0.375,14,10,3,8,5,2017-18,2017,2018

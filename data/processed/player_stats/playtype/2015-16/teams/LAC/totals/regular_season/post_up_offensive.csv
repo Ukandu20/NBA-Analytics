@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,Postup,Offensive,0.516,35,0.213,0.842,0.425,0.152,0.103,0.121,0.024,0.455,0.425,165,139,54,127,73
-22015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Postup,Offensive,0.359,77,0.072,0.781,0.465,0.234,0.125,0.219,0.031,0.438,0.465,64,50,20,43,23
-22015,201145,Jeff Green,1610612746,LAC,LA Clippers,Postup,Offensive,0.296,27,0.128,0.732,0.355,0.122,0.122,0.122,0.0,0.39,0.355,41,30,11,31,20
-22015,1718,Paul Pierce,1610612746,LAC,LA Clippers,Postup,Offensive,0.617,68,0.064,0.871,0.478,0.129,0.161,0.129,0.032,0.452,0.478,31,27,11,23,12
-22015,101108,Chris Paul,1610612746,LAC,LA Clippers,Postup,Offensive,0.986,75,0.014,1.2,0.529,0.15,0.0,0.15,0.0,0.6,0.529,20,24,9,17,8
-22015,2746,Josh Smith,1610612746,LAC,LA Clippers,Postup,Offensive,0.491,32,0.099,0.833,0.438,0.208,0.125,0.167,0.0,0.5,0.438,24,20,7,16,9
-22015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,Postup,Offensive,0.104,60,0.064,0.571,0.286,0.143,0.19,0.143,0.0,0.333,0.286,21,12,4,14,10
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,Postup,Offensive,0.516,35,0.213,0.842,0.425,0.152,0.103,0.121,0.024,0.455,0.425,165,139,54,127,73,2015-16,2015,2016
+22015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Postup,Offensive,0.359,77,0.072,0.781,0.465,0.234,0.125,0.219,0.031,0.438,0.465,64,50,20,43,23,2015-16,2015,2016
+22015,201145,Jeff Green,1610612746,LAC,LA Clippers,Postup,Offensive,0.296,27,0.128,0.732,0.355,0.122,0.122,0.122,0.0,0.39,0.355,41,30,11,31,20,2015-16,2015,2016
+22015,1718,Paul Pierce,1610612746,LAC,LA Clippers,Postup,Offensive,0.617,68,0.064,0.871,0.478,0.129,0.161,0.129,0.032,0.452,0.478,31,27,11,23,12,2015-16,2015,2016
+22015,101108,Chris Paul,1610612746,LAC,LA Clippers,Postup,Offensive,0.986,75,0.014,1.2,0.529,0.15,0.0,0.15,0.0,0.6,0.529,20,24,9,17,8,2015-16,2015,2016
+22015,2746,Josh Smith,1610612746,LAC,LA Clippers,Postup,Offensive,0.491,32,0.099,0.833,0.438,0.208,0.125,0.167,0.0,0.5,0.438,24,20,7,16,9,2015-16,2015,2016
+22015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,Postup,Offensive,0.104,60,0.064,0.571,0.286,0.143,0.19,0.143,0.0,0.333,0.286,21,12,4,14,10,2015-16,2015,2016

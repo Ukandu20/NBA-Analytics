@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.769,6,0.213,1.2,0.625,0.1,0.1,0.1,0.0,0.6,0.00625,10,12,5,8,3
-42015,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.094,1.4,0.6,0.0,0.0,0.0,0.0,0.6,0.006999999999999999,5,7,3,5,2
-42015,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,3,0.2,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.0075,4,6,3,4,1
-42015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.026,6,0.22,0.455,0.2,0.09,0.0,0.09,0.0,0.273,0.002,11,5,2,10,8
-42015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.071,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,6,4,2,6,4
-42015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,4,0.308,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.0025,4,2,1,4,3
-42015,202323,Evan Turner,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,101161,Amir Johnson,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.769,6,0.213,1.2,0.625,0.1,0.1,0.1,0.0,0.6,0.00625,10,12,5,8,3,2015-16,2015,2016
+42015,201973,Jonas Jerebko,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.094,1.4,0.6,0.0,0.0,0.0,0.0,0.6,0.006999999999999999,5,7,3,5,2,2015-16,2015,2016
+42015,203092,Tyler Zeller,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,3,0.2,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.0075,4,6,3,4,1,2015-16,2015,2016
+42015,203096,Jared Sullinger,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.026,6,0.22,0.455,0.2,0.09,0.0,0.09,0.0,0.273,0.002,11,5,2,10,8,2015-16,2015,2016
+42015,203109,Jae Crowder,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.071,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,6,4,2,6,4,2015-16,2015,2016
+42015,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,4,0.308,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.0025,4,2,1,4,3,2015-16,2015,2016
+42015,202323,Evan Turner,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.009,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,6,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,1626175,Jordan Mickey,1610612738,BOS,Boston Celtics,PRRollMan,Offensive,0.0,2,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016

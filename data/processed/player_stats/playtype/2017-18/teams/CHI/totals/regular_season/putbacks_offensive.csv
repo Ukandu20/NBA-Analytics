@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.247,73,0.128,0.96,0.495,0.096,0.08,0.096,0.064,0.472,0.495,125,120,55,111,56
-22017,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.514,64,0.111,1.103,0.561,0.046,0.046,0.046,0.034,0.54,0.561,87,96,46,82,36
-22017,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.568,68,0.052,1.135,0.511,0.154,0.019,0.115,0.038,0.558,0.511,52,59,23,45,22
-22017,1628021,David Nwaba,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.392,70,0.078,1.043,0.525,0.087,0.043,0.087,0.0,0.543,0.525,46,48,21,40,19
-22017,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.132,55,0.124,0.842,0.464,0.105,0.158,0.105,0.0,0.447,0.464,38,32,13,28,15
-22017,203943,Noah Vonleh,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.403,21,0.129,1.048,0.5,0.143,0.048,0.095,0.048,0.524,0.5,21,22,9,18,9
-22017,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.993,25,0.033,1.667,0.818,0.167,0.0,0.167,0.083,0.833,0.818,12,20,9,11,2
-22017,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.02,72,0.025,0.609,0.316,0.043,0.13,0.043,0.0,0.304,0.316,23,14,6,19,13
-22017,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.306,52,0.015,1.0,0.5,0.154,0.077,0.077,0.0,0.538,0.5,13,13,5,10,5
-22017,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,77,0.013,0.364,0.222,0.0,0.182,0.0,0.0,0.182,0.222,11,4,2,9,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.247,73,0.128,0.96,0.495,0.096,0.08,0.096,0.064,0.472,0.495,125,120,55,111,56,2017-18,2017,2018
+22017,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.514,64,0.111,1.103,0.561,0.046,0.046,0.046,0.034,0.54,0.561,87,96,46,82,36,2017-18,2017,2018
+22017,1628374,Lauri Markkanen,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.568,68,0.052,1.135,0.511,0.154,0.019,0.115,0.038,0.558,0.511,52,59,23,45,22,2017-18,2017,2018
+22017,1628021,David Nwaba,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.392,70,0.078,1.043,0.525,0.087,0.043,0.087,0.0,0.543,0.525,46,48,21,40,19,2017-18,2017,2018
+22017,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.132,55,0.124,0.842,0.464,0.105,0.158,0.105,0.0,0.447,0.464,38,32,13,28,15,2017-18,2017,2018
+22017,203943,Noah Vonleh,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.403,21,0.129,1.048,0.5,0.143,0.048,0.095,0.048,0.524,0.5,21,22,9,18,9,2017-18,2017,2018
+22017,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.993,25,0.033,1.667,0.818,0.167,0.0,0.167,0.083,0.833,0.818,12,20,9,11,2,2017-18,2017,2018
+22017,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.02,72,0.025,0.609,0.316,0.043,0.13,0.043,0.0,0.304,0.316,23,14,6,19,13,2017-18,2017,2018
+22017,1627739,Kris Dunn,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.306,52,0.015,1.0,0.5,0.154,0.077,0.077,0.0,0.538,0.5,13,13,5,10,5,2017-18,2017,2018
+22017,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,OffRebound,Offensive,0.0,77,0.013,0.364,0.222,0.0,0.182,0.0,0.0,0.182,0.222,11,4,2,9,7,2017-18,2017,2018

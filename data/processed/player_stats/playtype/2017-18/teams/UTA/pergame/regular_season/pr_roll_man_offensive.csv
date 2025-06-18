@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.58,77,0.273,1.1,0.564,0.191,0.083,0.187,0.054,0.564,0.005639999999999999,3.1,3.4,1.4,2.4,1.1
-22017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.87,56,0.238,1.28,0.658,0.273,0.093,0.261,0.075,0.652,0.00658,2.9,3.7,1.3,2.0,0.7
-22017,202327,Ekpe Udoh,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.068,63,0.28,0.783,0.385,0.13,0.087,0.13,0.065,0.391,0.00385,0.7,0.6,0.2,0.6,0.4
-22017,201973,Jonas Jerebko,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.106,74,0.081,0.844,0.321,0.063,0.063,0.063,0.0,0.344,0.00411,0.4,0.4,0.1,0.4,0.3
-22017,2207,Joe Johnson,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.188,32,0.041,0.909,0.364,0.0,0.0,0.0,0.0,0.364,0.00455,0.3,0.3,0.1,0.3,0.2
-22017,203918,Rodney Hood,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.024,39,0.015,0.6,0.25,0.1,0.1,0.1,0.0,0.3,0.0025,0.3,0.2,0.1,0.2,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.58,77,0.273,1.1,0.564,0.191,0.083,0.187,0.054,0.564,0.005639999999999999,3.1,3.4,1.4,2.4,1.1,2017-18,2017,2018
+22017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.87,56,0.238,1.28,0.658,0.273,0.093,0.261,0.075,0.652,0.00658,2.9,3.7,1.3,2.0,0.7,2017-18,2017,2018
+22017,202327,Ekpe Udoh,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.068,63,0.28,0.783,0.385,0.13,0.087,0.13,0.065,0.391,0.00385,0.7,0.6,0.2,0.6,0.4,2017-18,2017,2018
+22017,201973,Jonas Jerebko,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.106,74,0.081,0.844,0.321,0.063,0.063,0.063,0.0,0.344,0.00411,0.4,0.4,0.1,0.4,0.3,2017-18,2017,2018
+22017,2207,Joe Johnson,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.188,32,0.041,0.909,0.364,0.0,0.0,0.0,0.0,0.364,0.00455,0.3,0.3,0.1,0.3,0.2,2017-18,2017,2018
+22017,203918,Rodney Hood,1610612762,UTA,Utah Jazz,PRRollMan,Offensive,0.024,39,0.015,0.6,0.25,0.1,0.1,0.1,0.0,0.3,0.0025,0.3,0.2,0.1,0.2,0.2,2017-18,2017,2018

@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.889,4,0.265,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.00538,13,14,7,13,6
-42015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.541,4,0.219,0.875,0.438,0.0,0.0,0.0,0.0,0.438,0.00438,16,14,7,16,9
-42015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.389,4,0.262,0.818,0.5,0.0,0.273,0.0,0.0,0.364,0.00563,11,9,4,8,4
-42015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,2,0.286,1.0,0.5,0.5,0.0,0.5,0.0,0.75,0.005,4,4,1,2,1
-42015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.103,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,4,4,2,4,2
-42015,203798,PJ Hairston,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.034,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.091,0.0,0.0,0.333,0.0,0.333,0.0,0.0,0.0,3,0,0,2,2
-42015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.065,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,202362,Lance Stephenson,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.889,4,0.265,1.077,0.538,0.0,0.0,0.0,0.0,0.538,0.00538,13,14,7,13,6,2015-16,2015,2016
+42015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.541,4,0.219,0.875,0.438,0.0,0.0,0.0,0.0,0.438,0.00438,16,14,7,16,9,2015-16,2015,2016
+42015,200770,Jordan Farmar,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.389,4,0.262,0.818,0.5,0.0,0.273,0.0,0.0,0.364,0.00563,11,9,4,8,4,2015-16,2015,2016
+42015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,2,0.286,1.0,0.5,0.5,0.0,0.5,0.0,0.75,0.005,4,4,1,2,1,2015-16,2015,2016
+42015,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.103,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,4,4,2,4,2,2015-16,2015,2016
+42015,203798,PJ Hairston,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,2,0.125,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.048,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.034,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,204098,Xavier Munford,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.091,0.0,0.0,0.333,0.0,0.333,0.0,0.0,0.0,3,0,0,2,2,2015-16,2015,2016
+42015,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Isolation,Offensive,0.0,4,0.065,0.0,0.0,0.0,0.333,0.0,0.0,0.0,0.0,3,0,0,2,2,2015-16,2015,2016

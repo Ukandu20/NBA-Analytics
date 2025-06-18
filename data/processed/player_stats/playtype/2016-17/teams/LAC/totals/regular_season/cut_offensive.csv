@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Cut,Offensive,0.811,81,0.217,1.416,0.772,0.242,0.042,0.237,0.068,0.737,0.772,190,269,115,149,34
-22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Cut,Offensive,0.762,61,0.061,1.388,0.673,0.363,0.075,0.338,0.05,0.725,0.673,80,111,33,49,16
-22016,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,Cut,Offensive,0.337,80,0.152,1.143,0.648,0.157,0.114,0.157,0.043,0.6,0.648,70,80,35,54,19
-22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Cut,Offensive,0.7,82,0.059,1.35,0.7,0.2,0.05,0.225,0.025,0.7,0.7,40,54,21,30,9
-22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Cut,Offensive,0.917,52,0.13,1.515,0.741,0.273,0.061,0.273,0.152,0.727,0.741,33,50,20,27,7
-22016,203085,Austin Rivers,1610612746,LAC,LA Clippers,Cut,Offensive,0.264,74,0.019,1.111,0.545,0.333,0.111,0.167,0.056,0.611,0.545,18,20,6,11,5
-22016,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Cut,Offensive,0.337,68,0.063,1.143,0.583,0.071,0.071,0.071,0.0,0.571,0.583,14,16,7,12,5
-22016,200755,JJ Redick,1610612746,LAC,LA Clippers,Cut,Offensive,0.02,78,0.015,0.813,0.455,0.125,0.188,0.125,0.0,0.438,0.455,16,13,5,11,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Cut,Offensive,0.811,81,0.217,1.416,0.772,0.242,0.042,0.237,0.068,0.737,0.772,190,269,115,149,34,2016-17,2016,2017
+22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Cut,Offensive,0.762,61,0.061,1.388,0.673,0.363,0.075,0.338,0.05,0.725,0.673,80,111,33,49,16,2016-17,2016,2017
+22016,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,Cut,Offensive,0.337,80,0.152,1.143,0.648,0.157,0.114,0.157,0.043,0.6,0.648,70,80,35,54,19,2016-17,2016,2017
+22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Cut,Offensive,0.7,82,0.059,1.35,0.7,0.2,0.05,0.225,0.025,0.7,0.7,40,54,21,30,9,2016-17,2016,2017
+22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Cut,Offensive,0.917,52,0.13,1.515,0.741,0.273,0.061,0.273,0.152,0.727,0.741,33,50,20,27,7,2016-17,2016,2017
+22016,203085,Austin Rivers,1610612746,LAC,LA Clippers,Cut,Offensive,0.264,74,0.019,1.111,0.545,0.333,0.111,0.167,0.056,0.611,0.545,18,20,6,11,5,2016-17,2016,2017
+22016,202325,Wesley Johnson,1610612746,LAC,LA Clippers,Cut,Offensive,0.337,68,0.063,1.143,0.583,0.071,0.071,0.071,0.0,0.571,0.583,14,16,7,12,5,2016-17,2016,2017
+22016,200755,JJ Redick,1610612746,LAC,LA Clippers,Cut,Offensive,0.02,78,0.015,0.813,0.455,0.125,0.188,0.125,0.0,0.438,0.455,16,13,5,11,6,2016-17,2016,2017

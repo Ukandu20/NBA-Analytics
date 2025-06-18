@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.054,10,0.103,0.619,0.375,0.095,0.095,0.095,0.0,0.333,0.00375,21,13,6,16,10
-42015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.025,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,5,6,2,4,2
-42015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.074,0.444,0.2,0.111,0.333,0.111,0.0,0.222,0.002,9,4,1,5,4
-42015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.015,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,1,3,1,1,0
-42015,2564,Boris Diaw,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,9,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42015,2755,Kevin Martin,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,2561,David West,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,3,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
-42015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
-42015,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
-42015,1495,Tim Duncan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.054,10,0.103,0.619,0.375,0.095,0.095,0.095,0.0,0.333,0.00375,21,13,6,16,10,2015-16,2015,2016
+42015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.025,1.2,0.5,0.2,0.0,0.2,0.0,0.6,0.005,5,6,2,4,2,2015-16,2015,2016
+42015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.074,0.444,0.2,0.111,0.333,0.111,0.0,0.222,0.002,9,4,1,5,4,2015-16,2015,2016
+42015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.015,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,1,3,1,1,0,2015-16,2015,2016
+42015,2564,Boris Diaw,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,9,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
+42015,2755,Kevin Martin,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.037,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,2561,David West,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,3,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016
+42015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.027,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2015-16,2015,2016
+42015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.031,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2015-16,2015,2016
+42015,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2015-16,2015,2016
+42015,1495,Tim Duncan,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,10,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0,0,2,2,2015-16,2015,2016

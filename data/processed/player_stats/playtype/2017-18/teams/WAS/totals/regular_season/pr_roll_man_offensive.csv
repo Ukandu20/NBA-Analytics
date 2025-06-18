@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203118,Mike Scott,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.56,76,0.209,1.091,0.54,0.045,0.114,0.045,0.015,0.492,0.00602,132,144,61,113,52
-22017,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.135,82,0.209,0.877,0.455,0.136,0.117,0.13,0.039,0.455,0.00455,154,135,55,121,66
-22017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.362,73,0.151,1.015,0.482,0.069,0.092,0.061,0.031,0.458,0.0053100000000000005,131,133,55,114,59
-22017,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.111,77,0.154,0.855,0.484,0.258,0.258,0.242,0.016,0.484,0.00484,62,53,15,31,16
-22017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.246,77,0.04,0.951,0.405,0.049,0.049,0.024,0.0,0.39,0.005,41,39,15,37,22
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203118,Mike Scott,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.56,76,0.209,1.091,0.54,0.045,0.114,0.045,0.015,0.492,0.00602,132,144,61,113,52,2017-18,2017,2018
+22017,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.135,82,0.209,0.877,0.455,0.136,0.117,0.13,0.039,0.455,0.00455,154,135,55,121,66,2017-18,2017,2018
+22017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.362,73,0.151,1.015,0.482,0.069,0.092,0.061,0.031,0.458,0.0053100000000000005,131,133,55,114,59,2017-18,2017,2018
+22017,101133,Ian Mahinmi,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.111,77,0.154,0.855,0.484,0.258,0.258,0.242,0.016,0.484,0.00484,62,53,15,31,16,2017-18,2017,2018
+22017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.246,77,0.04,0.951,0.405,0.049,0.049,0.024,0.0,0.39,0.005,41,39,15,37,22,2017-18,2017,2018

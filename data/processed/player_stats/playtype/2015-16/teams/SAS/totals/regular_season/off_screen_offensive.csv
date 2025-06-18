@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.919,81,0.122,1.184,0.429,0.03,0.02,0.023,0.023,0.43,0.595,87,103,36,84,48
-22015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.878,72,0.066,1.149,0.48,0.09,0.05,0.08,0.0,0.51,0.567,87,100,36,75,39
-22015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.276,79,0.105,0.797,0.333,0.0,0.04,0.0,0.0,0.32,0.417,69,55,22,66,44
-22015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.272,72,0.07,0.797,0.415,0.06,0.12,0.047,0.016,0.39,0.415,64,51,22,53,31
-22015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.732,58,0.079,1.043,0.488,0.04,0.07,0.043,0.0,0.48,0.549,46,48,20,41,21
-22015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.159,74,0.027,0.686,0.355,0.03,0.09,0.0,0.0,0.34,0.355,35,24,11,31,20
-22015,2561,David West,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,1.0,78,0.02,1.727,0.818,0.09,0.0,0.091,0.091,0.82,0.818,11,19,9,11,2
-22015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.434,55,0.048,0.875,0.462,0.12,0.12,0.125,0.063,0.44,0.462,16,14,6,13,7
-22015,2755,Kevin Martin,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.256,16,0.164,0.778,0.357,0.11,0.11,0.111,0.0,0.39,0.429,18,14,5,14,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.919,81,0.122,1.184,0.429,0.03,0.02,0.023,0.023,0.43,0.595,87,103,36,84,48,2015-16,2015,2016
+22015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.878,72,0.066,1.149,0.48,0.09,0.05,0.08,0.0,0.51,0.567,87,100,36,75,39,2015-16,2015,2016
+22015,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.276,79,0.105,0.797,0.333,0.0,0.04,0.0,0.0,0.32,0.417,69,55,22,66,44,2015-16,2015,2016
+22015,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.272,72,0.07,0.797,0.415,0.06,0.12,0.047,0.016,0.39,0.415,64,51,22,53,31,2015-16,2015,2016
+22015,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.732,58,0.079,1.043,0.488,0.04,0.07,0.043,0.0,0.48,0.549,46,48,20,41,21,2015-16,2015,2016
+22015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.159,74,0.027,0.686,0.355,0.03,0.09,0.0,0.0,0.34,0.355,35,24,11,31,20,2015-16,2015,2016
+22015,2561,David West,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,1.0,78,0.02,1.727,0.818,0.09,0.0,0.091,0.091,0.82,0.818,11,19,9,11,2,2015-16,2015,2016
+22015,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.434,55,0.048,0.875,0.462,0.12,0.12,0.125,0.063,0.44,0.462,16,14,6,13,7,2015-16,2015,2016
+22015,2755,Kevin Martin,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.256,16,0.164,0.778,0.357,0.11,0.11,0.111,0.0,0.39,0.429,18,14,5,14,9,2015-16,2015,2016

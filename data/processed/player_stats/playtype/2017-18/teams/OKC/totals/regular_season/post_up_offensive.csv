@@ -1,7 +1,7 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.431,78,0.144,0.841,0.414,0.118,0.118,0.113,0.015,0.426,0.414,195,164,63,152,89
-22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.407,80,0.07,0.831,0.38,0.188,0.088,0.181,0.031,0.444,0.38,160,133,46,121,75
-22017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.907,76,0.112,1.083,0.607,0.174,0.119,0.11,0.064,0.532,0.607,109,118,51,84,33
-22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.897,81,0.079,1.061,0.656,0.224,0.163,0.184,0.041,0.551,0.656,49,52,21,32,11
-22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.294,79,0.024,0.78,0.406,0.098,0.122,0.098,0.0,0.415,0.406,41,32,13,32,19
-22017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.887,82,0.062,1.05,0.615,0.2,0.2,0.15,0.05,0.55,0.615,20,21,8,13,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.431,78,0.144,0.841,0.414,0.118,0.118,0.113,0.015,0.426,0.414,195,164,63,152,89,2017-18,2017,2018
+22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.407,80,0.07,0.831,0.38,0.188,0.088,0.181,0.031,0.444,0.38,160,133,46,121,75,2017-18,2017,2018
+22017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.907,76,0.112,1.083,0.607,0.174,0.119,0.11,0.064,0.532,0.607,109,118,51,84,33,2017-18,2017,2018
+22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.897,81,0.079,1.061,0.656,0.224,0.163,0.184,0.041,0.551,0.656,49,52,21,32,11,2017-18,2017,2018
+22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.294,79,0.024,0.78,0.406,0.098,0.122,0.098,0.0,0.415,0.406,41,32,13,32,19,2017-18,2017,2018
+22017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Postup,Offensive,0.887,82,0.062,1.05,0.615,0.2,0.2,0.15,0.05,0.55,0.615,20,21,8,13,5,2017-18,2017,2018

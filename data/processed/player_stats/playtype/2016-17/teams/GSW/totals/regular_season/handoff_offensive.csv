@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.858,79,0.039,1.099,0.5,0.042,0.141,0.028,0.0,0.451,0.638,71,78,29,58,29
-22016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.267,78,0.047,0.747,0.297,0.08,0.067,0.08,0.0,0.333,0.359,75,56,19,64,45
-22016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.875,62,0.03,1.125,0.593,0.1,0.25,0.1,0.025,0.475,0.704,40,45,16,27,11
-22016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.983,77,0.051,1.385,0.625,0.0,0.077,0.0,0.0,0.577,0.75,26,36,15,24,9
-22016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.523,76,0.058,0.913,0.474,0.087,0.087,0.043,0.0,0.478,0.474,23,21,9,19,10
-22016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.54,76,0.023,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.458,12,11,4,12,8
-22016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.329,71,0.034,0.8,0.25,0.2,0.1,0.2,0.1,0.3,0.313,10,8,2,8,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.858,79,0.039,1.099,0.5,0.042,0.141,0.028,0.0,0.451,0.638,71,78,29,58,29,2016-17,2016,2017
+22016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.267,78,0.047,0.747,0.297,0.08,0.067,0.08,0.0,0.333,0.359,75,56,19,64,45,2016-17,2016,2017
+22016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.875,62,0.03,1.125,0.593,0.1,0.25,0.1,0.025,0.475,0.704,40,45,16,27,11,2016-17,2016,2017
+22016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.983,77,0.051,1.385,0.625,0.0,0.077,0.0,0.0,0.577,0.75,26,36,15,24,9,2016-17,2016,2017
+22016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.523,76,0.058,0.913,0.474,0.087,0.087,0.043,0.0,0.478,0.474,23,21,9,19,10,2016-17,2016,2017
+22016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.54,76,0.023,0.917,0.333,0.0,0.0,0.0,0.0,0.333,0.458,12,11,4,12,8,2016-17,2016,2017
+22016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.329,71,0.034,0.8,0.25,0.2,0.1,0.2,0.1,0.3,0.313,10,8,2,8,6,2016-17,2016,2017

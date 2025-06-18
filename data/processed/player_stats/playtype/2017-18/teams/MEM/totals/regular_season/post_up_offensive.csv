@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.304,73,0.277,0.786,0.386,0.153,0.161,0.124,0.021,0.402,0.386,378,297,103,267,164
-22017,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.31,55,0.099,0.787,0.404,0.131,0.115,0.115,0.016,0.41,0.404,61,48,19,47,28
-22017,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.271,36,0.149,0.767,0.44,0.033,0.167,0.033,0.033,0.367,0.44,30,23,11,25,14
-22017,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.193,73,0.033,0.714,0.462,0.095,0.286,0.095,0.0,0.381,0.462,21,15,6,13,7
-22017,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.579,62,0.031,0.9,0.4,0.1,0.0,0.1,0.1,0.4,0.4,10,9,4,10,6
-22017,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.343,28,0.083,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,10,8,4,8,4
-22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.084,82,0.01,0.6,0.286,0.1,0.2,0.0,0.0,0.3,0.286,10,6,2,7,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.304,73,0.277,0.786,0.386,0.153,0.161,0.124,0.021,0.402,0.386,378,297,103,267,164,2017-18,2017,2018
+22017,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.31,55,0.099,0.787,0.404,0.131,0.115,0.115,0.016,0.41,0.404,61,48,19,47,28,2017-18,2017,2018
+22017,1628397,Ivan Rabb,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.271,36,0.149,0.767,0.44,0.033,0.167,0.033,0.033,0.367,0.44,30,23,11,25,14,2017-18,2017,2018
+22017,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.193,73,0.033,0.714,0.462,0.095,0.286,0.095,0.0,0.381,0.462,21,15,6,13,7,2017-18,2017,2018
+22017,1627738,Deyonta Davis,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.579,62,0.031,0.9,0.4,0.1,0.0,0.1,0.1,0.4,0.4,10,9,4,10,6,2017-18,2017,2018
+22017,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.343,28,0.083,0.8,0.5,0.0,0.2,0.0,0.0,0.4,0.5,10,8,4,8,4,2017-18,2017,2018
+22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.084,82,0.01,0.6,0.286,0.1,0.2,0.0,0.0,0.3,0.286,10,6,2,7,5,2017-18,2017,2018

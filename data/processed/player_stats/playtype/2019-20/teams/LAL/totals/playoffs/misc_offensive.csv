@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.839,21,0.065,0.906,0.8,0.34,0.5,0.0,0.0,0.469,0.008,32,29,4,5,1
-42019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.613,18,0.213,0.65,1.0,0.45,0.55,0.05,0.05,0.45,0.01,20,13,1,1,0
-42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.065,21,0.053,0.25,0.0,0.14,0.75,0.036,0.0,0.143,0.0,28,7,0,3,3
-42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.048,0.667,0.6,0.0,0.44,0.0,0.0,0.333,0.006,9,6,3,5,2
-42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.037,0.625,0.2,0.12,0.25,0.0,0.0,0.25,0.003,8,5,1,5,4
-42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.037,0.5,0.0,0.38,0.62,0.0,0.0,0.375,0.0,8,4,0,0,0
-42019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.1,21,0.082,0.308,0.2,0.08,0.54,0.0,0.0,0.154,0.002,13,4,1,5,4
-42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,16,0.091,0.2,0.0,0.13,0.73,0.0,0.0,0.133,0.0,15,3,0,2,2
-42019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.068,0.25,0.0,0.12,0.75,0.0,0.0,0.125,0.0,8,2,0,1,1
-42019,201162,Jared Dudley,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,5,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,13,0.071,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0
-42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,7,0.121,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42019,203076,Anthony Davis,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.839,21,0.065,0.906,0.8,0.34,0.5,0.0,0.0,0.469,0.008,32,29,4,5,1,2019-20,2019,2020
+42019,2730,Dwight Howard,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.613,18,0.213,0.65,1.0,0.45,0.55,0.05,0.05,0.45,0.01,20,13,1,1,0,2019-20,2019,2020
+42019,2544,LeBron James,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.065,21,0.053,0.25,0.0,0.14,0.75,0.036,0.0,0.143,0.0,28,7,0,3,3,2019-20,2019,2020
+42019,201980,Danny Green,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.048,0.667,0.6,0.0,0.44,0.0,0.0,0.333,0.006,9,6,3,5,2,2019-20,2019,2020
+42019,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.037,0.625,0.2,0.12,0.25,0.0,0.0,0.25,0.003,8,5,1,5,4,2019-20,2019,2020
+42019,203484,Kentavious Caldwell-Pope,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.037,0.5,0.0,0.38,0.62,0.0,0.0,0.375,0.0,8,4,0,0,0,2019-20,2019,2020
+42019,1627936,Alex Caruso,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.1,21,0.082,0.308,0.2,0.08,0.54,0.0,0.0,0.154,0.002,13,4,1,5,4,2019-20,2019,2020
+42019,200765,Rajon Rondo,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,16,0.091,0.2,0.0,0.13,0.73,0.0,0.0,0.133,0.0,15,3,0,2,2,2019-20,2019,2020
+42019,202693,Markieff Morris,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,21,0.068,0.25,0.0,0.12,0.75,0.0,0.0,0.125,0.0,8,2,0,1,1,2019-20,2019,2020
+42019,201162,Jared Dudley,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,5,0.167,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2019-20,2019,2020
+42019,201580,JaVale McGee,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,13,0.071,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,3,0,0,0,0,2019-20,2019,2020
+42019,2747,JR Smith,1610612747,LAL,Los Angeles Lakers,Misc,Offensive,0.0,7,0.121,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0,0,0,0,2019-20,2019,2020

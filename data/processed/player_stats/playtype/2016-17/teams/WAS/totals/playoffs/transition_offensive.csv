@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.667,13,0.236,1.17,0.593,0.239,0.17,0.205,0.08,0.557,0.00636,88,103,35,59,24
-42016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.947,13,0.272,1.541,0.69,0.216,0.054,0.189,0.054,0.703,0.00776,37,57,20,29,9
-42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.2,13,0.145,0.822,0.343,0.133,0.111,0.133,0.022,0.378,0.00414,45,37,12,35,23
-42016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.413,13,0.117,1.048,0.474,0.048,0.048,0.048,0.0,0.476,0.00526,21,22,9,19,10
-42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Transition,Offensive,0.264,13,0.204,0.909,0.368,0.136,0.045,0.091,0.045,0.409,0.00421,22,20,7,19,12
-42016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.365,12,0.211,1.0,0.5,0.067,0.133,0.067,0.0,0.467,0.00542,15,15,6,12,6
-42016,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.059,1.286,0.8,0.143,0.143,0.143,0.0,0.714,0.008,7,9,4,5,1
-42016,201160,Jason Smith,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.089,1.2,0.667,0.2,0.2,0.2,0.0,0.6,0.006670000000000001,5,6,2,3,1
-42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.188,0.667,0.429,0.0,0.222,0.0,0.0,0.333,0.0042899999999999995,9,6,3,7,4
-42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,7,0.182,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
-42016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,10,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,202322,John Wall,1610612764,WAS,Washington Wizards,Transition,Offensive,0.667,13,0.236,1.17,0.593,0.239,0.17,0.205,0.08,0.557,0.00636,88,103,35,59,24,2016-17,2016,2017
+42016,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.947,13,0.272,1.541,0.69,0.216,0.054,0.189,0.054,0.703,0.00776,37,57,20,29,9,2016-17,2016,2017
+42016,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Transition,Offensive,0.2,13,0.145,0.822,0.343,0.133,0.111,0.133,0.022,0.378,0.00414,45,37,12,35,23,2016-17,2016,2017
+42016,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Transition,Offensive,0.413,13,0.117,1.048,0.474,0.048,0.048,0.048,0.0,0.476,0.00526,21,22,9,19,10,2016-17,2016,2017
+42016,202711,Bojan Bogdanović,1610612764,WAS,Washington Wizards,Transition,Offensive,0.264,13,0.204,0.909,0.368,0.136,0.045,0.091,0.045,0.409,0.00421,22,20,7,19,12,2016-17,2016,2017
+42016,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Transition,Offensive,0.365,12,0.211,1.0,0.5,0.067,0.133,0.067,0.0,0.467,0.00542,15,15,6,12,6,2016-17,2016,2017
+42016,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.059,1.286,0.8,0.143,0.143,0.143,0.0,0.714,0.008,7,9,4,5,1,2016-17,2016,2017
+42016,201160,Jason Smith,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.089,1.2,0.667,0.2,0.2,0.2,0.0,0.6,0.006670000000000001,5,6,2,3,1,2016-17,2016,2017
+42016,201943,Brandon Jennings,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,13,0.188,0.667,0.429,0.0,0.222,0.0,0.0,0.333,0.0042899999999999995,9,6,3,7,4,2016-17,2016,2017
+42016,1627815,Sheldon Mac,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,7,0.182,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1,2016-17,2016,2017
+42016,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,Transition,Offensive,0.0,10,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2016-17,2016,2017

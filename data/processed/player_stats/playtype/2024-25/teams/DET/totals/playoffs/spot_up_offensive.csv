@@ -1,5 +1,5 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.955,6,0.289,1.542,0.522,0.042,0.0,0.042,0.0,0.542,0.00739,24,37,12,23,11
-42024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.634,6,0.241,1.1,0.368,0.1,0.0,0.1,0.05,0.4,0.005,20,22,7,19,12
-42024,203471,Dennis Schröder,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.991,6,0.147,1.8,0.7,0.0,0.0,0.0,0.0,0.7,0.009000000000000001,10,18,7,10,3
-42024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.117,6,0.244,0.714,0.25,0.0,0.048,0.0,0.0,0.238,0.00375,21,15,5,20,15
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42024,203501,Tim Hardaway Jr.,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.955,6,0.289,1.542,0.522,0.042,0.0,0.042,0.0,0.542,0.00739,24,37,12,23,11,2024-25,2024,2025
+42024,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.634,6,0.241,1.1,0.368,0.1,0.0,0.1,0.05,0.4,0.005,20,22,7,19,12,2024-25,2024,2025
+42024,203471,Dennis Schröder,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.991,6,0.147,1.8,0.7,0.0,0.0,0.0,0.0,0.7,0.009000000000000001,10,18,7,10,3,2024-25,2024,2025
+42024,1627736,Malik Beasley,1610612765,DET,Detroit Pistons,Spotup,Offensive,0.117,6,0.244,0.714,0.25,0.0,0.048,0.0,0.0,0.238,0.00375,21,15,5,20,15,2024-25,2024,2025

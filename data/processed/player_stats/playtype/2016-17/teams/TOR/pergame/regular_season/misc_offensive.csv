@@ -1,14 +1,14 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.892,60,0.048,0.797,0.59,0.254,0.492,0.051,0.03,0.373,0.0070599999999999994,1.0,0.8,0.2,0.3,0.1
-22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.868,74,0.026,0.75,0.25,0.346,0.269,0.077,0.0,0.423,0.0027500000000000003,0.7,0.5,0.1,0.3,0.2
-22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.782,80,0.048,0.675,0.42,0.25,0.45,0.025,0.0,0.375,0.00458,0.5,0.3,0.1,0.2,0.1
-22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.28,80,0.083,0.36,0.22,0.213,0.653,0.04,0.0,0.213,0.00222,0.9,0.3,0.0,0.1,0.1
-22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.906,76,0.035,0.826,0.44,0.261,0.348,0.043,0.0,0.391,0.005,0.3,0.3,0.1,0.1,0.1
-22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.739,72,0.043,0.643,0.38,0.25,0.464,0.107,0.0,0.357,0.00438,0.4,0.3,0.0,0.1,0.1
-22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.543,65,0.069,0.516,0.4,0.226,0.613,0.0,0.0,0.29,0.005,0.5,0.2,0.0,0.1,0.0
-22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.771,54,0.034,0.667,0.38,0.111,0.444,0.0,0.0,0.278,0.005,0.3,0.2,0.1,0.1,0.1
-22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.246,23,0.069,0.348,0.5,0.174,0.739,0.043,0.0,0.217,0.005,1.0,0.3,0.0,0.1,0.0
-22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.092,57,0.144,0.212,0.0,0.121,0.848,0.0,0.0,0.121,0.0,0.6,0.1,0.0,0.0,0.0
-22016,200782,P.J. Tucker,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.361,24,0.08,0.417,0.0,0.333,0.333,0.0,0.0,0.25,0.0,0.5,0.2,0.0,0.2,0.2
-22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.027,55,0.055,0.143,0.0,0.071,0.857,0.0,0.0,0.071,0.0,0.3,0.0,0.0,0.0,0.0
-22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,54,0.118,0.05,0.0,0.1,0.9,0.0,0.0,0.05,0.0,0.4,0.0,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.892,60,0.048,0.797,0.59,0.254,0.492,0.051,0.03,0.373,0.0070599999999999994,1.0,0.8,0.2,0.3,0.1,2016-17,2016,2017
+22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.868,74,0.026,0.75,0.25,0.346,0.269,0.077,0.0,0.423,0.0027500000000000003,0.7,0.5,0.1,0.3,0.2,2016-17,2016,2017
+22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.782,80,0.048,0.675,0.42,0.25,0.45,0.025,0.0,0.375,0.00458,0.5,0.3,0.1,0.2,0.1,2016-17,2016,2017
+22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.28,80,0.083,0.36,0.22,0.213,0.653,0.04,0.0,0.213,0.00222,0.9,0.3,0.0,0.1,0.1,2016-17,2016,2017
+22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.906,76,0.035,0.826,0.44,0.261,0.348,0.043,0.0,0.391,0.005,0.3,0.3,0.1,0.1,0.1,2016-17,2016,2017
+22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.739,72,0.043,0.643,0.38,0.25,0.464,0.107,0.0,0.357,0.00438,0.4,0.3,0.0,0.1,0.1,2016-17,2016,2017
+22016,202335,Patrick Patterson,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.543,65,0.069,0.516,0.4,0.226,0.613,0.0,0.0,0.29,0.005,0.5,0.2,0.0,0.1,0.0,2016-17,2016,2017
+22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.771,54,0.034,0.667,0.38,0.111,0.444,0.0,0.0,0.278,0.005,0.3,0.2,0.1,0.1,0.1,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.246,23,0.069,0.348,0.5,0.174,0.739,0.043,0.0,0.217,0.005,1.0,0.3,0.0,0.1,0.0,2016-17,2016,2017
+22016,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.092,57,0.144,0.212,0.0,0.121,0.848,0.0,0.0,0.121,0.0,0.6,0.1,0.0,0.0,0.0,2016-17,2016,2017
+22016,200782,P.J. Tucker,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.361,24,0.08,0.417,0.0,0.333,0.333,0.0,0.0,0.25,0.0,0.5,0.2,0.0,0.2,0.2,2016-17,2016,2017
+22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.027,55,0.055,0.143,0.0,0.071,0.857,0.0,0.0,0.071,0.0,0.3,0.0,0.0,0.0,0.0,2016-17,2016,2017
+22016,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Misc,Offensive,0.0,54,0.118,0.05,0.0,0.1,0.9,0.0,0.0,0.05,0.0,0.4,0.0,0.0,0.0,0.0,2016-17,2016,2017

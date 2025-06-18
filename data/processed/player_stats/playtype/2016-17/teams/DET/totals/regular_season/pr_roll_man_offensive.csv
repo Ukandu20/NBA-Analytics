@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203083,Andre Drummond,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.573,81,0.122,1.061,0.58,0.155,0.081,0.149,0.041,0.547,0.58,148,157,69,119,50
-22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.229,82,0.104,0.885,0.386,0.062,0.062,0.054,0.0,0.4,0.434,130,115,44,114,70
-22016,203382,Aron Baynes,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.771,75,0.239,1.156,0.571,0.167,0.056,0.167,0.0,0.611,0.571,90,104,40,70,30
-22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.138,75,0.149,0.788,0.382,0.027,0.071,0.027,0.0,0.363,0.417,113,89,39,102,63
-22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.261,79,0.057,0.896,0.418,0.104,0.09,0.104,0.015,0.433,0.445,67,60,23,55,32
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203083,Andre Drummond,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.573,81,0.122,1.061,0.58,0.155,0.081,0.149,0.041,0.547,0.58,148,157,69,119,50,2016-17,2016,2017
+22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.229,82,0.104,0.885,0.386,0.062,0.062,0.054,0.0,0.4,0.434,130,115,44,114,70,2016-17,2016,2017
+22016,203382,Aron Baynes,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.771,75,0.239,1.156,0.571,0.167,0.056,0.167,0.0,0.611,0.571,90,104,40,70,30,2016-17,2016,2017
+22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.138,75,0.149,0.788,0.382,0.027,0.071,0.027,0.0,0.363,0.417,113,89,39,102,63,2016-17,2016,2017
+22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,PRRollMan,Offensive,0.261,79,0.057,0.896,0.418,0.104,0.09,0.104,0.015,0.433,0.445,67,60,23,55,32,2016-17,2016,2017

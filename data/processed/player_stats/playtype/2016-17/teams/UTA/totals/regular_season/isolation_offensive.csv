@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.495,73,0.074,0.824,0.38,0.102,0.093,0.102,0.046,0.38,0.397,108,89,35,92,57
-22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.431,78,0.153,0.793,0.375,0.036,0.036,0.036,0.009,0.378,0.399,111,88,39,104,65
-22016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.424,59,0.114,0.787,0.316,0.101,0.067,0.09,0.022,0.348,0.362,89,70,24,76,52
-22016,201588,George Hill,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.563,49,0.078,0.867,0.358,0.1,0.033,0.1,0.017,0.4,0.406,60,52,19,53,34
-22016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.973,82,0.051,1.2,0.519,0.067,0.033,0.067,0.0,0.533,0.611,30,36,14,27,13
-22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.656,66,0.071,0.912,0.407,0.176,0.059,0.147,0.029,0.471,0.407,34,31,11,27,16
-22016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.173,55,0.06,0.6,0.348,0.033,0.2,0.033,0.0,0.3,0.37,30,18,8,23,15
-22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.735,81,0.018,0.944,0.429,0.389,0.222,0.333,0.0,0.556,0.429,18,17,3,7,4
-22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.473,73,0.049,0.81,0.4,0.048,0.048,0.048,0.048,0.381,0.4,21,17,8,20,12
-22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.194,42,0.083,0.615,0.235,0.269,0.115,0.231,0.038,0.385,0.235,26,16,4,17,13
-22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.236,71,0.028,0.667,0.3,0.2,0.133,0.133,0.0,0.4,0.35,15,10,3,10,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.495,73,0.074,0.824,0.38,0.102,0.093,0.102,0.046,0.38,0.397,108,89,35,92,57,2016-17,2016,2017
+22016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.431,78,0.153,0.793,0.375,0.036,0.036,0.036,0.009,0.378,0.399,111,88,39,104,65,2016-17,2016,2017
+22016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.424,59,0.114,0.787,0.316,0.101,0.067,0.09,0.022,0.348,0.362,89,70,24,76,52,2016-17,2016,2017
+22016,201588,George Hill,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.563,49,0.078,0.867,0.358,0.1,0.033,0.1,0.017,0.4,0.406,60,52,19,53,34,2016-17,2016,2017
+22016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.973,82,0.051,1.2,0.519,0.067,0.033,0.067,0.0,0.533,0.611,30,36,14,27,13,2016-17,2016,2017
+22016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.656,66,0.071,0.912,0.407,0.176,0.059,0.147,0.029,0.471,0.407,34,31,11,27,16,2016-17,2016,2017
+22016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.173,55,0.06,0.6,0.348,0.033,0.2,0.033,0.0,0.3,0.37,30,18,8,23,15,2016-17,2016,2017
+22016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.735,81,0.018,0.944,0.429,0.389,0.222,0.333,0.0,0.556,0.429,18,17,3,7,4,2016-17,2016,2017
+22016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.473,73,0.049,0.81,0.4,0.048,0.048,0.048,0.048,0.381,0.4,21,17,8,20,12,2016-17,2016,2017
+22016,202692,Alec Burks,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.194,42,0.083,0.615,0.235,0.269,0.115,0.231,0.038,0.385,0.235,26,16,4,17,13,2016-17,2016,2017
+22016,1626168,Trey Lyles,1610612762,UTA,Utah Jazz,Isolation,Offensive,0.236,71,0.028,0.667,0.3,0.2,0.133,0.133,0.0,0.4,0.35,15,10,3,10,7,2016-17,2016,2017

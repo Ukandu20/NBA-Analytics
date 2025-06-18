@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.864,74,0.171,1.023,0.469,0.157,0.061,0.149,0.017,0.507,0.478,343,351,128,273,145
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.837,60,0.11,1.007,0.437,0.162,0.11,0.154,0.029,0.463,0.471,136,137,45,103,58
-22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.912,80,0.084,1.058,0.509,0.174,0.087,0.174,0.058,0.522,0.509,69,73,28,55,27
-22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.553,76,0.075,0.857,0.368,0.163,0.082,0.163,0.02,0.429,0.368,49,42,14,38,24
-22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.939,54,0.06,1.094,0.464,0.094,0.031,0.094,0.0,0.5,0.536,32,35,13,28,15
-22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.885,80,0.029,1.038,0.5,0.154,0.077,0.115,0.0,0.538,0.5,26,27,10,20,10
-22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.826,23,0.054,1.0,0.538,0.111,0.167,0.111,0.0,0.5,0.538,18,18,7,13,6
-22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.299,72,0.036,0.708,0.2,0.25,0.125,0.208,0.0,0.375,0.2,24,17,3,15,12
-22016,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.418,27,0.084,0.786,0.455,0.071,0.214,0.071,0.071,0.357,0.5,14,11,5,11,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.864,74,0.171,1.023,0.469,0.157,0.061,0.149,0.017,0.507,0.478,343,351,128,273,145,2016-17,2016,2017
+22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.837,60,0.11,1.007,0.437,0.162,0.11,0.154,0.029,0.463,0.471,136,137,45,103,58,2016-17,2016,2017
+22016,202709,Cory Joseph,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.912,80,0.084,1.058,0.509,0.174,0.087,0.174,0.058,0.522,0.509,69,73,28,55,27,2016-17,2016,2017
+22016,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.553,76,0.075,0.857,0.368,0.163,0.082,0.163,0.02,0.429,0.368,49,42,14,38,24,2016-17,2016,2017
+22016,203082,Terrence Ross,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.939,54,0.06,1.094,0.464,0.094,0.031,0.094,0.0,0.5,0.536,32,35,13,28,15,2016-17,2016,2017
+22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.885,80,0.029,1.038,0.5,0.154,0.077,0.115,0.0,0.538,0.5,26,27,10,20,10,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.826,23,0.054,1.0,0.538,0.111,0.167,0.111,0.0,0.5,0.538,18,18,7,13,6,2016-17,2016,2017
+22016,201960,DeMarre Carroll,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.299,72,0.036,0.708,0.2,0.25,0.125,0.208,0.0,0.375,0.2,24,17,3,15,12,2016-17,2016,2017
+22016,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Isolation,Offensive,0.418,27,0.084,0.786,0.455,0.071,0.214,0.071,0.071,0.357,0.5,14,11,5,11,6,2016-17,2016,2017

@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.9,9,0.141,1.556,0.781,0.111,0.06,0.083,0.056,0.75,0.781,36,56,25,32,7
-42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,1.0,9,0.133,1.813,0.933,0.063,0.0,0.063,0.0,0.938,0.933,16,29,14,15,1
-42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,4,8,4,4,0
-42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.038,1.75,1.0,0.5,0.0,0.5,0.25,0.75,1.0,4,7,3,3,0
-42017,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.194,1.0,0.0,0.571,0.0,0.571,0.0,0.571,0.0,7,7,0,3,3
-42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.031,1.25,0.5,0.25,0.0,0.25,0.25,0.5,0.5,4,5,2,4,2
-42017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,7,0.308,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2
-42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.053,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2
-42017,2731,Emeka Okafor,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.9,9,0.141,1.556,0.781,0.111,0.06,0.083,0.056,0.75,0.781,36,56,25,32,7,2017-18,2017,2018
+42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,1.0,9,0.133,1.813,0.933,0.063,0.0,0.063,0.0,0.938,0.933,16,29,14,15,1,2017-18,2017,2018
+42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,4,8,4,4,0,2017-18,2017,2018
+42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.038,1.75,1.0,0.5,0.0,0.5,0.25,0.75,1.0,4,7,3,3,0,2017-18,2017,2018
+42017,203524,Solomon Hill,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.194,1.0,0.0,0.571,0.0,0.571,0.0,0.571,0.0,7,7,0,3,3,2017-18,2017,2018
+42017,200765,Rajon Rondo,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.031,1.25,0.5,0.25,0.0,0.25,0.25,0.5,0.5,4,5,2,4,2,2017-18,2017,2018
+42017,1627767,Cheick Diallo,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,7,0.308,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,2017-18,2017,2018
+42017,203546,Ian Clark,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,9,0.053,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,4,4,2,4,2,2017-18,2017,2018
+42017,2731,Emeka Okafor,1610612740,NOP,New Orleans Pelicans,Cut,Offensive,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018

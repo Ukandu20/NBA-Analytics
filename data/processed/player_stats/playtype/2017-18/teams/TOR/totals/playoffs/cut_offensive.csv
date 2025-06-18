@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.8,10,0.133,1.474,0.692,0.316,0.0,0.316,0.0,0.789,0.692,19,28,9,13,4
-42017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.5,10,0.309,1.294,0.667,0.235,0.0,0.235,0.118,0.647,0.667,17,22,10,15,5
-42017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.55,9,0.298,1.357,0.667,0.286,0.07,0.286,0.0,0.714,0.667,14,19,6,9,3
-42017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.725,10,0.177,1.455,0.8,0.0,0.09,0.0,0.0,0.727,0.8,11,16,8,10,2
-42017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.105,10,0.122,1.0,0.5,0.167,0.0,0.167,0.0,0.583,0.5,12,12,5,10,5
-42017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.049,1.0,0.8,0.0,0.38,0.0,0.0,0.5,0.8,8,8,4,5,1
-42017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.035,2.0,1.0,0.667,0.0,0.667,0.0,1.0,1.0,3,6,1,1,0
-42017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.021,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2
-42017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.024,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1
-42017,203485,Lorenzo Brown,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,4,0.083,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0
-42017,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,5,0.6,0.333,0.0,0.333,0.33,0.333,0.0,0.333,0.0,3,1,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.8,10,0.133,1.474,0.692,0.316,0.0,0.316,0.0,0.789,0.692,19,28,9,13,4,2017-18,2017,2018
+42017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.5,10,0.309,1.294,0.667,0.235,0.0,0.235,0.118,0.647,0.667,17,22,10,15,5,2017-18,2017,2018
+42017,1627751,Jakob Poeltl,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.55,9,0.298,1.357,0.667,0.286,0.07,0.286,0.0,0.714,0.667,14,19,6,9,3,2017-18,2017,2018
+42017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.725,10,0.177,1.455,0.8,0.0,0.09,0.0,0.0,0.727,0.8,11,16,8,10,2,2017-18,2017,2018
+42017,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.105,10,0.122,1.0,0.5,0.167,0.0,0.167,0.0,0.583,0.5,12,12,5,10,5,2017-18,2017,2018
+42017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.049,1.0,0.8,0.0,0.38,0.0,0.0,0.5,0.8,8,8,4,5,1,2017-18,2017,2018
+42017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.035,2.0,1.0,0.667,0.0,0.667,0.0,1.0,1.0,3,6,1,1,0,2017-18,2017,2018
+42017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.021,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.6,5,6,3,5,2,2017-18,2017,2018
+42017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,10,0.024,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,2017-18,2017,2018
+42017,203485,Lorenzo Brown,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,4,0.083,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,2017-18,2017,2018
+42017,203512,Lucas Nogueira,1610612761,TOR,Toronto Raptors,Cut,Offensive,0.0,5,0.6,0.333,0.0,0.333,0.33,0.333,0.0,0.333,0.0,3,1,0,1,1,2017-18,2017,2018

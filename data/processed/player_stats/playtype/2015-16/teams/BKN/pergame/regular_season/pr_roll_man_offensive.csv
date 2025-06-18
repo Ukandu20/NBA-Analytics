@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.466,73,0.212,0.987,0.491,0.107,0.063,0.107,0.038,0.489,0.491,4.4,4.3,1.9,3.8,1.9
-22015,201152,Thaddeus Young,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.612,73,0.181,1.042,0.559,0.047,0.085,0.047,0.009,0.519,0.562,2.9,3.0,1.4,2.5,1.1
-22015,200745,Andrea Bargnani,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.379,46,0.33,0.954,0.447,0.074,0.009,0.065,0.037,0.463,0.456,2.3,2.2,1.0,2.2,1.2
-22015,203080,Thomas Robinson,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.123,71,0.263,0.774,0.422,0.16,0.142,0.16,0.085,0.387,0.422,1.5,1.2,0.5,1.2,0.7
-22015,203186,Willie Reed,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.849,39,0.253,1.182,0.645,0.273,0.068,0.273,0.045,0.614,0.645,1.1,1.3,0.5,0.8,0.3
-22015,1626191,Chris McCullough,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.324,25,0.213,0.931,0.417,0.172,0.0,0.172,0.0,0.483,0.479,1.2,1.1,0.4,1.0,0.6
-22015,203156,Henry Sims,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.616,14,0.204,1.048,0.529,0.095,0.095,0.095,0.0,0.524,0.529,1.5,1.6,0.6,1.2,0.6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.466,73,0.212,0.987,0.491,0.107,0.063,0.107,0.038,0.489,0.491,4.4,4.3,1.9,3.8,1.9,2015-16,2015,2016
+22015,201152,Thaddeus Young,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.612,73,0.181,1.042,0.559,0.047,0.085,0.047,0.009,0.519,0.562,2.9,3.0,1.4,2.5,1.1,2015-16,2015,2016
+22015,200745,Andrea Bargnani,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.379,46,0.33,0.954,0.447,0.074,0.009,0.065,0.037,0.463,0.456,2.3,2.2,1.0,2.2,1.2,2015-16,2015,2016
+22015,203080,Thomas Robinson,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.123,71,0.263,0.774,0.422,0.16,0.142,0.16,0.085,0.387,0.422,1.5,1.2,0.5,1.2,0.7,2015-16,2015,2016
+22015,203186,Willie Reed,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.849,39,0.253,1.182,0.645,0.273,0.068,0.273,0.045,0.614,0.645,1.1,1.3,0.5,0.8,0.3,2015-16,2015,2016
+22015,1626191,Chris McCullough,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.324,25,0.213,0.931,0.417,0.172,0.0,0.172,0.0,0.483,0.479,1.2,1.1,0.4,1.0,0.6,2015-16,2015,2016
+22015,203156,Henry Sims,1610612751,BKN,Brooklyn Nets,PRRollMan,Offensive,0.616,14,0.204,1.048,0.529,0.095,0.095,0.095,0.0,0.524,0.529,1.5,1.6,0.6,1.2,0.6,2015-16,2015,2016

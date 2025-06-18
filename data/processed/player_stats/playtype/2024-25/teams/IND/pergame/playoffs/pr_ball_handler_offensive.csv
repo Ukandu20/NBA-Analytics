@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.678,21,0.426,1.019,0.486,0.013,0.125,0.013,0.0,0.431,0.576,7.6,7.8,3.2,6.6,3.4
-42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.576,21,0.457,0.956,0.535,0.078,0.144,0.044,0.011,0.489,0.535,4.3,4.1,1.8,3.4,1.6
-42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.644,21,0.31,0.988,0.5,0.099,0.16,0.099,0.049,0.444,0.563,3.9,3.8,1.5,3.0,1.5
-42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.864,20,0.233,1.159,0.486,0.136,0.045,0.114,0.023,0.523,0.541,2.2,2.6,0.9,1.9,1.0
-42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.211,21,0.036,0.714,0.222,0.286,0.143,0.286,0.071,0.357,0.222,0.7,0.5,0.1,0.4,0.3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.678,21,0.426,1.019,0.486,0.013,0.125,0.013,0.0,0.431,0.576,7.6,7.8,3.2,6.6,3.4,2024-25,2024,2025
+42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.576,21,0.457,0.956,0.535,0.078,0.144,0.044,0.011,0.489,0.535,4.3,4.1,1.8,3.4,1.6,2024-25,2024,2025
+42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.644,21,0.31,0.988,0.5,0.099,0.16,0.099,0.049,0.444,0.563,3.9,3.8,1.5,3.0,1.5,2024-25,2024,2025
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.864,20,0.233,1.159,0.486,0.136,0.045,0.114,0.023,0.523,0.541,2.2,2.6,0.9,1.9,1.0,2024-25,2024,2025
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.211,21,0.036,0.714,0.222,0.286,0.143,0.286,0.071,0.357,0.222,0.7,0.5,0.1,0.4,0.3,2024-25,2024,2025

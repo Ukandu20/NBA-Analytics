@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.802,72,0.048,0.724,0.54,0.264,0.471,0.115,0.011,0.379,0.00563,87,63,13,24,11
-22018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.654,78,0.048,0.617,0.57,0.15,0.533,0.067,0.033,0.3,0.00571,60,37,12,21,9
-22018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.706,77,0.03,0.643,0.31,0.214,0.405,0.0,0.0,0.333,0.00313,42,27,5,16,11
-22018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.645,67,0.078,0.611,0.29,0.25,0.556,0.0,0.0,0.306,0.00357,36,22,2,7,5
-22018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.495,64,0.036,0.531,0.3,0.188,0.5,0.031,0.0,0.281,0.0034999999999999996,32,17,3,10,7
-22018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.24,81,0.047,0.372,0.56,0.07,0.721,0.047,0.0,0.186,0.00611,43,16,5,9,4
-22018,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.997,74,0.036,1.071,0.6,0.357,0.286,0.071,0.0,0.571,0.006999999999999999,14,15,3,5,2
-22018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.574,14,0.089,0.571,0.0,0.286,0.357,0.071,0.0,0.286,0.0,14,8,0,5,5
-22018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.319,47,0.058,0.421,0.14,0.211,0.421,0.0,0.0,0.263,0.0014299999999999998,19,8,1,7,6
-22018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.068,58,0.05,0.211,0.22,0.0,0.526,0.0,0.0,0.105,0.00222,19,4,2,9,7
-22018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.01,48,0.066,0.1,0.0,0.15,0.8,0.0,0.0,0.1,0.0,20,2,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22018,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.802,72,0.048,0.724,0.54,0.264,0.471,0.115,0.011,0.379,0.00563,87,63,13,24,11,2018-19,2018,2019
+22018,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.654,78,0.048,0.617,0.57,0.15,0.533,0.067,0.033,0.3,0.00571,60,37,12,21,9,2018-19,2018,2019
+22018,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.706,77,0.03,0.643,0.31,0.214,0.405,0.0,0.0,0.333,0.00313,42,27,5,16,11,2018-19,2018,2019
+22018,101141,Ersan Ilyasova,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.645,67,0.078,0.611,0.29,0.25,0.556,0.0,0.0,0.306,0.00357,36,22,2,7,5,2018-19,2018,2019
+22018,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.495,64,0.036,0.531,0.3,0.188,0.5,0.031,0.0,0.281,0.0034999999999999996,32,17,3,10,7,2018-19,2018,2019
+22018,201572,Brook Lopez,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.24,81,0.047,0.372,0.56,0.07,0.721,0.047,0.0,0.186,0.00611,43,16,5,9,4,2018-19,2018,2019
+22018,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.997,74,0.036,1.071,0.6,0.357,0.286,0.071,0.0,0.571,0.006999999999999999,14,15,3,5,2,2018-19,2018,2019
+22018,202703,Nikola Mirotic,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.574,14,0.089,0.571,0.0,0.286,0.357,0.071,0.0,0.286,0.0,14,8,0,5,5,2018-19,2018,2019
+22018,201588,George Hill,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.319,47,0.058,0.421,0.14,0.211,0.421,0.0,0.0,0.263,0.0014299999999999998,19,8,1,7,6,2018-19,2018,2019
+22018,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.068,58,0.05,0.211,0.22,0.0,0.526,0.0,0.0,0.105,0.00222,19,4,2,9,7,2018-19,2018,2019
+22018,1628391,D.J. Wilson,1610612749,MIL,Milwaukee Bucks,Misc,Offensive,0.01,48,0.066,0.1,0.0,0.15,0.8,0.0,0.0,0.1,0.0,20,2,0,1,1,2018-19,2018,2019

@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.128,4,0.151,0.727,0.444,0.0,0.182,0.0,0.0,0.364,0.00444,11,8,4,9,5
-42015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.143,1.333,0.0,0.67,0.0,0.67,0.0,0.667,0.0,3,4,0,1,1
-42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.016,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0
-42015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.069,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1
-42015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,2,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42015,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.128,4,0.151,0.727,0.444,0.0,0.182,0.0,0.0,0.364,0.00444,11,8,4,9,5,2015-16,2015,2016
+42015,2365,Chris Andersen,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.143,1.333,0.0,0.67,0.0,0.67,0.0,0.667,0.0,3,4,0,1,1,2015-16,2015,2016
+42015,2440,Matt Barnes,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.016,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
+42015,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,4,0.069,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1,2015-16,2015,2016
+42015,1626185,Jarell Martin,1610612763,MEM,Memphis Grizzlies,PRRollMan,Offensive,0.0,2,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016

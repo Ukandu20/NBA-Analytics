@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.593,79,0.118,0.977,0.432,0.08,0.09,0.07,0.018,0.43,0.5,171,167,63,146,83
-22015,201573,Jerryd Bayless,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.931,52,0.086,1.234,0.543,0.06,0.19,0.043,0.0,0.47,0.757,47,58,19,35,16
-22015,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.227,70,0.133,0.75,0.353,0.02,0.12,0.0,0.0,0.32,0.412,40,30,12,34,22
-22015,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.643,76,0.024,1.0,0.5,0.04,0.04,0.037,0.037,0.48,0.519,27,27,13,26,13
-22015,201564,O.J. Mayo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.069,41,0.088,0.556,0.273,0.03,0.06,0.028,0.0,0.28,0.288,36,20,9,33,24
-22015,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.394,79,0.011,0.846,0.364,0.15,0.08,0.154,0.077,0.38,0.364,13,11,4,11,7
-22015,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.086,80,0.011,0.6,0.308,0.07,0.07,0.067,0.0,0.33,0.308,15,9,4,13,9
-22015,203487,Michael Carter-Williams,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.0,54,0.013,0.2,0.111,0.0,0.1,0.0,0.0,0.1,0.111,10,2,1,9,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.593,79,0.118,0.977,0.432,0.08,0.09,0.07,0.018,0.43,0.5,171,167,63,146,83,2015-16,2015,2016
+22015,201573,Jerryd Bayless,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.931,52,0.086,1.234,0.543,0.06,0.19,0.043,0.0,0.47,0.757,47,58,19,35,16,2015-16,2015,2016
+22015,1626173,Rashad Vaughn,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.227,70,0.133,0.75,0.353,0.02,0.12,0.0,0.0,0.32,0.412,40,30,12,34,22,2015-16,2015,2016
+22015,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.643,76,0.024,1.0,0.5,0.04,0.04,0.037,0.037,0.48,0.519,27,27,13,26,13,2015-16,2015,2016
+22015,201564,O.J. Mayo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.069,41,0.088,0.556,0.273,0.03,0.06,0.028,0.0,0.28,0.288,36,20,9,33,24,2015-16,2015,2016
+22015,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.394,79,0.011,0.846,0.364,0.15,0.08,0.154,0.077,0.38,0.364,13,11,4,11,7,2015-16,2015,2016
+22015,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.086,80,0.011,0.6,0.308,0.07,0.07,0.067,0.0,0.33,0.308,15,9,4,13,9,2015-16,2015,2016
+22015,203487,Michael Carter-Williams,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.0,54,0.013,0.2,0.111,0.0,0.1,0.0,0.0,0.1,0.111,10,2,1,9,8,2015-16,2015,2016

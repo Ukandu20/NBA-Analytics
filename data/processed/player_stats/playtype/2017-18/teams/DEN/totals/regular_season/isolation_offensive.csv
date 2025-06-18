@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.443,81,0.103,0.824,0.359,0.081,0.081,0.081,0.022,0.368,0.402,136,112,42,117,75
-22017,203115,Will Barton,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.145,81,0.098,0.637,0.273,0.105,0.121,0.105,0.024,0.298,0.298,124,79,27,99,72
-22017,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.965,75,0.04,1.241,0.585,0.148,0.111,0.074,0.019,0.574,0.659,54,67,24,41,17
-22017,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.287,74,0.104,0.738,0.387,0.1,0.125,0.1,0.0,0.375,0.395,80,59,24,62,38
-22017,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.387,38,0.088,0.804,0.439,0.098,0.098,0.078,0.0,0.431,0.439,51,41,18,41,23
-22017,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.34,73,0.061,0.78,0.25,0.268,0.049,0.244,0.0,0.39,0.268,41,32,7,28,21
-22017,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.351,67,0.034,0.784,0.273,0.135,0.027,0.135,0.054,0.324,0.318,37,29,9,33,24
-22017,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.642,42,0.056,0.917,0.391,0.042,0.0,0.0,0.0,0.417,0.435,24,22,9,23,14
-22017,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.138,74,0.035,0.632,0.385,0.211,0.158,0.211,0.053,0.316,0.385,19,12,5,13,8
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.443,81,0.103,0.824,0.359,0.081,0.081,0.081,0.022,0.368,0.402,136,112,42,117,75,2017-18,2017,2018
+22017,203115,Will Barton,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.145,81,0.098,0.637,0.273,0.105,0.121,0.105,0.024,0.298,0.298,124,79,27,99,72,2017-18,2017,2018
+22017,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.965,75,0.04,1.241,0.585,0.148,0.111,0.074,0.019,0.574,0.659,54,67,24,41,17,2017-18,2017,2018
+22017,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.287,74,0.104,0.738,0.387,0.1,0.125,0.1,0.0,0.375,0.395,80,59,24,62,38,2017-18,2017,2018
+22017,200794,Paul Millsap,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.387,38,0.088,0.804,0.439,0.098,0.098,0.078,0.0,0.431,0.439,51,41,18,41,23,2017-18,2017,2018
+22017,1626168,Trey Lyles,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.34,73,0.061,0.78,0.25,0.268,0.049,0.244,0.0,0.39,0.268,41,32,7,28,21,2017-18,2017,2018
+22017,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.351,67,0.034,0.784,0.273,0.135,0.027,0.135,0.054,0.324,0.318,37,29,9,33,24,2017-18,2017,2018
+22017,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.642,42,0.056,0.917,0.391,0.042,0.0,0.0,0.0,0.417,0.435,24,22,9,23,14,2017-18,2017,2018
+22017,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Isolation,Offensive,0.138,74,0.035,0.632,0.385,0.211,0.158,0.211,0.053,0.316,0.385,19,12,5,13,8,2017-18,2017,2018

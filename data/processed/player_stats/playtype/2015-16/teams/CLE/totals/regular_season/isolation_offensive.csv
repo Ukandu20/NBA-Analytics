@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.59,76,0.191,0.853,0.381,0.133,0.073,0.107,0.034,0.407,0.411,354,302,111,291,180
-22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.801,53,0.143,0.948,0.44,0.072,0.065,0.072,0.013,0.444,0.474,153,145,59,134,75
-22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.334,77,0.128,0.733,0.339,0.058,0.017,0.058,0.008,0.358,0.362,120,88,38,112,74
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.748,77,0.033,0.929,0.405,0.119,0.024,0.095,0.024,0.452,0.419,42,39,15,37,22
-22015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.276,54,0.078,0.7,0.308,0.133,0.067,0.1,0.067,0.333,0.308,30,21,8,26,18
-22015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.774,41,0.04,0.933,0.462,0.067,0.067,0.067,0.0,0.467,0.5,15,14,6,13,7
-22015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.134,76,0.034,0.591,0.222,0.091,0.091,0.045,0.0,0.273,0.278,22,13,4,18,14
-22015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.375,74,0.041,0.75,0.167,0.438,0.188,0.375,0.0,0.5,0.167,16,12,1,6,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.59,76,0.191,0.853,0.381,0.133,0.073,0.107,0.034,0.407,0.411,354,302,111,291,180,2015-16,2015,2016
+22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.801,53,0.143,0.948,0.44,0.072,0.065,0.072,0.013,0.444,0.474,153,145,59,134,75,2015-16,2015,2016
+22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.334,77,0.128,0.733,0.339,0.058,0.017,0.058,0.008,0.358,0.362,120,88,38,112,74,2015-16,2015,2016
+22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.748,77,0.033,0.929,0.405,0.119,0.024,0.095,0.024,0.452,0.419,42,39,15,37,22,2015-16,2015,2016
+22015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.276,54,0.078,0.7,0.308,0.133,0.067,0.1,0.067,0.333,0.308,30,21,8,26,18,2015-16,2015,2016
+22015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.774,41,0.04,0.933,0.462,0.067,0.067,0.067,0.0,0.467,0.5,15,14,6,13,7,2015-16,2015,2016
+22015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.134,76,0.034,0.591,0.222,0.091,0.091,0.045,0.0,0.273,0.278,22,13,4,18,14,2015-16,2015,2016
+22015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Isolation,Offensive,0.375,74,0.041,0.75,0.167,0.438,0.188,0.375,0.0,0.5,0.167,16,12,1,6,5,2015-16,2015,2016

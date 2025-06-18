@@ -1,18 +1,18 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203930,Sean Kilpatrick,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.66,70,0.173,1.167,0.504,0.22,0.119,0.19,0.06,0.524,0.562,168,196,61,121,60
-22016,202711,Bojan Bogdanović,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.477,55,0.188,1.083,0.479,0.09,0.11,0.083,0.021,0.462,0.576,145,157,57,119,62
-22016,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.239,78,0.21,0.945,0.509,0.202,0.172,0.184,0.025,0.491,0.519,163,154,54,106,52
-22016,1627785,Isaiah Whitehead,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.373,73,0.191,1.03,0.529,0.187,0.224,0.157,0.045,0.478,0.582,134,138,45,85,40
-22016,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.718,57,0.225,1.213,0.62,0.157,0.12,0.157,0.019,0.565,0.69,108,131,49,79,30
-22016,202344,Trevor Booker,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.31,71,0.172,0.985,0.576,0.121,0.189,0.121,0.061,0.485,0.581,132,130,57,99,42
-22016,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.765,75,0.063,1.253,0.543,0.105,0.084,0.105,0.042,0.516,0.667,95,119,44,81,37
-22016,202391,Jeremy Lin,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.449,36,0.154,1.071,0.49,0.214,0.19,0.167,0.012,0.488,0.618,84,90,25,51,26
-22016,200751,Randy Foye,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.231,69,0.157,0.941,0.426,0.103,0.206,0.103,0.0,0.397,0.543,68,64,20,47,27
-22016,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.488,59,0.131,1.088,0.5,0.193,0.14,0.158,0.035,0.509,0.575,57,62,20,40,20
-22016,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.134,52,0.166,0.849,0.377,0.055,0.123,0.027,0.014,0.356,0.484,73,62,23,61,38
-22016,203120,Justin Hamilton,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.885,64,0.104,1.326,0.615,0.109,0.065,0.109,0.022,0.609,0.679,46,61,24,39,15
-22016,203909,KJ McDaniels,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.934,20,0.128,1.412,0.643,0.235,0.059,0.235,0.118,0.647,0.679,17,24,9,14,5
-22016,203462,Archie Goodwin,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.761,12,0.18,1.25,0.455,0.375,0.0,0.375,0.063,0.625,0.455,16,20,5,11,6
-22016,2449,Luis Scola,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.423,36,0.09,1.056,0.615,0.222,0.111,0.222,0.056,0.556,0.615,18,19,8,13,5
-22016,203112,Quincy Acy,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.136,32,0.102,0.85,0.429,0.2,0.2,0.15,0.1,0.4,0.429,20,17,6,14,8
-22016,203461,Anthony Bennett,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.467,23,0.108,1.077,0.5,0.154,0.231,0.154,0.0,0.462,0.625,13,14,4,8,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203930,Sean Kilpatrick,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.66,70,0.173,1.167,0.504,0.22,0.119,0.19,0.06,0.524,0.562,168,196,61,121,60,2016-17,2016,2017
+22016,202711,Bojan Bogdanović,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.477,55,0.188,1.083,0.479,0.09,0.11,0.083,0.021,0.462,0.576,145,157,57,119,62,2016-17,2016,2017
+22016,1626178,Rondae Hollis-Jefferson,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.239,78,0.21,0.945,0.509,0.202,0.172,0.184,0.025,0.491,0.519,163,154,54,106,52,2016-17,2016,2017
+22016,1627785,Isaiah Whitehead,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.373,73,0.191,1.03,0.529,0.187,0.224,0.157,0.045,0.478,0.582,134,138,45,85,40,2016-17,2016,2017
+22016,1627747,Caris LeVert,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.718,57,0.225,1.213,0.62,0.157,0.12,0.157,0.019,0.565,0.69,108,131,49,79,30,2016-17,2016,2017
+22016,202344,Trevor Booker,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.31,71,0.172,0.985,0.576,0.121,0.189,0.121,0.061,0.485,0.581,132,130,57,99,42,2016-17,2016,2017
+22016,201572,Brook Lopez,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.765,75,0.063,1.253,0.543,0.105,0.084,0.105,0.042,0.516,0.667,95,119,44,81,37,2016-17,2016,2017
+22016,202391,Jeremy Lin,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.449,36,0.154,1.071,0.49,0.214,0.19,0.167,0.012,0.488,0.618,84,90,25,51,26,2016-17,2016,2017
+22016,200751,Randy Foye,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.231,69,0.157,0.941,0.426,0.103,0.206,0.103,0.0,0.397,0.543,68,64,20,47,27,2016-17,2016,2017
+22016,203915,Spencer Dinwiddie,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.488,59,0.131,1.088,0.5,0.193,0.14,0.158,0.035,0.509,0.575,57,62,20,40,20,2016-17,2016,2017
+22016,203925,Joe Harris,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.134,52,0.166,0.849,0.377,0.055,0.123,0.027,0.014,0.356,0.484,73,62,23,61,38,2016-17,2016,2017
+22016,203120,Justin Hamilton,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.885,64,0.104,1.326,0.615,0.109,0.065,0.109,0.022,0.609,0.679,46,61,24,39,15,2016-17,2016,2017
+22016,203909,KJ McDaniels,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.934,20,0.128,1.412,0.643,0.235,0.059,0.235,0.118,0.647,0.679,17,24,9,14,5,2016-17,2016,2017
+22016,203462,Archie Goodwin,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.761,12,0.18,1.25,0.455,0.375,0.0,0.375,0.063,0.625,0.455,16,20,5,11,6,2016-17,2016,2017
+22016,2449,Luis Scola,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.423,36,0.09,1.056,0.615,0.222,0.111,0.222,0.056,0.556,0.615,18,19,8,13,5,2016-17,2016,2017
+22016,203112,Quincy Acy,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.136,32,0.102,0.85,0.429,0.2,0.2,0.15,0.1,0.4,0.429,20,17,6,14,8,2016-17,2016,2017
+22016,203461,Anthony Bennett,1610612751,BKN,Brooklyn Nets,Transition,Offensive,0.467,23,0.108,1.077,0.5,0.154,0.231,0.154,0.0,0.462,0.625,13,14,4,8,4,2016-17,2016,2017

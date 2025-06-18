@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.348,49,0.169,1.011,0.441,0.043,0.059,0.043,0.011,0.43,0.00521,3.8,3.8,1.5,3.5,1.9
-22017,202683,Enes Freedom,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.44,71,0.186,1.047,0.566,0.106,0.118,0.088,0.024,0.535,0.005659999999999999,2.4,2.5,1.1,1.9,0.8
-22017,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.763,77,0.257,1.209,0.638,0.115,0.072,0.122,0.029,0.612,0.00638,1.8,2.2,1.0,1.5,0.5
-22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.633,74,0.126,1.142,0.581,0.079,0.126,0.079,0.031,0.528,0.00619,1.7,2.0,0.8,1.4,0.6
-22017,1628436,Luke Kornet,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.237,20,0.275,0.949,0.343,0.026,0.077,0.026,0.0,0.333,0.005,2.0,1.9,0.6,1.8,1.1
-22017,1628439,Isaiah Hicks,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.449,18,0.206,1.05,0.563,0.1,0.1,0.1,0.0,0.55,0.00563,1.1,1.2,0.5,0.9,0.4
-22017,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.318,73,0.054,1.0,0.273,0.333,0.111,0.333,0.056,0.444,0.00364,0.2,0.2,0.0,0.2,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.348,49,0.169,1.011,0.441,0.043,0.059,0.043,0.011,0.43,0.00521,3.8,3.8,1.5,3.5,1.9,2017-18,2017,2018
+22017,202683,Enes Freedom,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.44,71,0.186,1.047,0.566,0.106,0.118,0.088,0.024,0.535,0.005659999999999999,2.4,2.5,1.1,1.9,0.8,2017-18,2017,2018
+22017,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.763,77,0.257,1.209,0.638,0.115,0.072,0.122,0.029,0.612,0.00638,1.8,2.2,1.0,1.5,0.5,2017-18,2017,2018
+22017,201563,Michael Beasley,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.633,74,0.126,1.142,0.581,0.079,0.126,0.079,0.031,0.528,0.00619,1.7,2.0,0.8,1.4,0.6,2017-18,2017,2018
+22017,1628436,Luke Kornet,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.237,20,0.275,0.949,0.343,0.026,0.077,0.026,0.0,0.333,0.005,2.0,1.9,0.6,1.8,1.1,2017-18,2017,2018
+22017,1628439,Isaiah Hicks,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.449,18,0.206,1.05,0.563,0.1,0.1,0.1,0.0,0.55,0.00563,1.1,1.2,0.5,0.9,0.4,2017-18,2017,2018
+22017,202498,Lance Thomas,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.318,73,0.054,1.0,0.273,0.333,0.111,0.333,0.056,0.444,0.00364,0.2,0.2,0.0,0.2,0.1,2017-18,2017,2018

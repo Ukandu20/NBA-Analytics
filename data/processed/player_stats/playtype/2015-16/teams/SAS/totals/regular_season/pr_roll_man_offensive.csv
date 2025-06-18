@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.283,74,0.202,0.903,0.452,0.089,0.066,0.093,0.016,0.457,0.452,258,233,100,221,121
-22015,1495,Tim Duncan,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.42,61,0.242,0.965,0.47,0.163,0.05,0.149,0.043,0.496,0.47,141,136,55,117,62
-22015,2561,David West,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.274,78,0.194,0.896,0.457,0.066,0.075,0.066,0.028,0.443,0.457,106,95,43,94,51
-22015,2564,Boris Diaw,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.196,76,0.114,0.845,0.444,0.052,0.172,0.052,0.0,0.397,0.5,58,49,20,45,25
-22015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.872,72,0.011,1.214,0.615,0.071,0.0,0.071,0.0,0.571,0.654,14,17,8,13,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.283,74,0.202,0.903,0.452,0.089,0.066,0.093,0.016,0.457,0.452,258,233,100,221,121,2015-16,2015,2016
+22015,1495,Tim Duncan,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.42,61,0.242,0.965,0.47,0.163,0.05,0.149,0.043,0.496,0.47,141,136,55,117,62,2015-16,2015,2016
+22015,2561,David West,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.274,78,0.194,0.896,0.457,0.066,0.075,0.066,0.028,0.443,0.457,106,95,43,94,51,2015-16,2015,2016
+22015,2564,Boris Diaw,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.196,76,0.114,0.845,0.444,0.052,0.172,0.052,0.0,0.397,0.5,58,49,20,45,25,2015-16,2015,2016
+22015,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,PRRollMan,Offensive,0.872,72,0.011,1.214,0.615,0.071,0.0,0.071,0.0,0.571,0.654,14,17,8,13,5,2015-16,2015,2016

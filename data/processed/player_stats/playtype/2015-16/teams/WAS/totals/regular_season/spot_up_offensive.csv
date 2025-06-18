@@ -1,16 +1,16 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.848,81,0.433,1.11,0.472,0.045,0.098,0.042,0.011,0.443,0.603,264,293,108,229,121
-22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.576,75,0.289,0.971,0.396,0.025,0.062,0.025,0.0,0.387,0.509,243,236,88,222,134
-22015,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.662,77,0.128,1.009,0.363,0.048,0.043,0.048,0.026,0.361,0.505,230,232,78,215,137
-22015,202066,Garrett Temple,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.573,80,0.325,0.97,0.351,0.015,0.04,0.005,0.0,0.347,0.497,202,196,67,191,124
-22015,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.888,55,0.132,1.14,0.437,0.047,0.039,0.047,0.008,0.442,0.576,129,147,52,119,67
-22015,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.385,82,0.177,0.891,0.358,0.122,0.082,0.116,0.02,0.381,0.454,147,131,43,120,77
-22015,202390,Gary Neal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.368,40,0.253,0.884,0.382,0.011,0.053,0.011,0.0,0.368,0.461,95,84,34,89,55
-22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.529,27,0.246,0.954,0.397,0.057,0.115,0.057,0.011,0.379,0.521,87,83,29,73,44
-22015,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.291,63,0.313,0.831,0.319,0.036,0.096,0.036,0.0,0.313,0.451,83,69,23,72,49
-22015,2743,Kris Humphries,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.252,28,0.349,0.809,0.333,0.029,0.088,0.029,0.0,0.324,0.425,68,55,20,60,40
-22015,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.883,14,0.286,1.139,0.412,0.028,0.028,0.028,0.0,0.417,0.588,36,41,14,34,20
-22015,101187,Alan Anderson,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.981,13,0.364,1.333,0.455,0.167,0.0,0.167,0.083,0.5,0.614,24,32,10,22,12
-22015,2403,Nene,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.099,57,0.061,0.667,0.3,0.091,0.0,0.091,0.0,0.364,0.3,33,22,9,30,21
-22015,2400,Drew Gooden,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.054,30,0.264,0.594,0.207,0.063,0.031,0.063,0.0,0.25,0.276,32,19,6,29,23
-22015,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.497,75,0.016,0.938,0.438,0.063,0.0,0.063,0.063,0.438,0.438,16,15,7,16,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.848,81,0.433,1.11,0.472,0.045,0.098,0.042,0.011,0.443,0.603,264,293,108,229,121,2015-16,2015,2016
+22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.576,75,0.289,0.971,0.396,0.025,0.062,0.025,0.0,0.387,0.509,243,236,88,222,134,2015-16,2015,2016
+22015,202322,John Wall,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.662,77,0.128,1.009,0.363,0.048,0.043,0.048,0.026,0.361,0.505,230,232,78,215,137,2015-16,2015,2016
+22015,202066,Garrett Temple,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.573,80,0.325,0.97,0.351,0.015,0.04,0.005,0.0,0.347,0.497,202,196,67,191,124,2015-16,2015,2016
+22015,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.888,55,0.132,1.14,0.437,0.047,0.039,0.047,0.008,0.442,0.576,129,147,52,119,67,2015-16,2015,2016
+22015,201196,Ramon Sessions,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.385,82,0.177,0.891,0.358,0.122,0.082,0.116,0.02,0.381,0.454,147,131,43,120,77,2015-16,2015,2016
+22015,202390,Gary Neal,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.368,40,0.253,0.884,0.382,0.011,0.053,0.011,0.0,0.368,0.461,95,84,34,89,55,2015-16,2015,2016
+22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.529,27,0.246,0.954,0.397,0.057,0.115,0.057,0.011,0.379,0.521,87,83,29,73,44,2015-16,2015,2016
+22015,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.291,63,0.313,0.831,0.319,0.036,0.096,0.036,0.0,0.313,0.451,83,69,23,72,49,2015-16,2015,2016
+22015,2743,Kris Humphries,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.252,28,0.349,0.809,0.333,0.029,0.088,0.029,0.0,0.324,0.425,68,55,20,60,40,2015-16,2015,2016
+22015,201977,Marcus Thornton,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.883,14,0.286,1.139,0.412,0.028,0.028,0.028,0.0,0.417,0.588,36,41,14,34,20,2015-16,2015,2016
+22015,101187,Alan Anderson,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.981,13,0.364,1.333,0.455,0.167,0.0,0.167,0.083,0.5,0.614,24,32,10,22,12,2015-16,2015,2016
+22015,2403,Nene,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.099,57,0.061,0.667,0.3,0.091,0.0,0.091,0.0,0.364,0.3,33,22,9,30,21,2015-16,2015,2016
+22015,2400,Drew Gooden,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.054,30,0.264,0.594,0.207,0.063,0.031,0.063,0.0,0.25,0.276,32,19,6,29,23,2015-16,2015,2016
+22015,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,Spotup,Offensive,0.497,75,0.016,0.938,0.438,0.063,0.0,0.063,0.063,0.438,0.438,16,15,7,16,9,2015-16,2015,2016

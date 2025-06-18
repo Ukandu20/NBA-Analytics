@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.606,82,0.054,1.019,0.429,0.058,0.019,0.058,0.019,0.442,0.5,52,53,21,49,28
-22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.43,73,0.033,0.933,0.417,0.111,0.111,0.089,0.022,0.422,0.486,45,42,15,36,21
-22017,203463,Ben McLemore,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.085,56,0.13,0.65,0.283,0.033,0.083,0.017,0.0,0.283,0.33,60,39,15,53,38
-22017,201936,Tyreke Evans,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.98,52,0.026,1.462,0.583,0.038,0.038,0.038,0.0,0.577,0.75,26,38,14,24,10
-22017,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.618,35,0.077,1.037,0.435,0.037,0.111,0.037,0.0,0.407,0.587,27,28,10,23,13
-22017,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.138,66,0.045,0.75,0.318,0.107,0.107,0.107,0.0,0.357,0.364,28,21,7,22,15
-22017,1627988,Myke Henry,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.948,20,0.091,1.333,0.583,0.0,0.0,0.0,0.0,0.583,0.667,12,16,7,12,5
-22017,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.831,36,0.043,1.167,0.444,0.25,0.083,0.167,0.083,0.5,0.556,12,14,4,9,5
-22017,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.02,12,0.052,0.364,0.1,0.091,0.0,0.091,0.0,0.182,0.1,11,4,1,10,9
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1628415,Dillon Brooks,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.606,82,0.054,1.019,0.429,0.058,0.019,0.058,0.019,0.442,0.5,52,53,21,49,28,2017-18,2017,2018
+22017,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.43,73,0.033,0.933,0.417,0.111,0.111,0.089,0.022,0.422,0.486,45,42,15,36,21,2017-18,2017,2018
+22017,203463,Ben McLemore,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.085,56,0.13,0.65,0.283,0.033,0.083,0.017,0.0,0.283,0.33,60,39,15,53,38,2017-18,2017,2018
+22017,201936,Tyreke Evans,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.98,52,0.026,1.462,0.583,0.038,0.038,0.038,0.0,0.577,0.75,26,38,14,24,10,2017-18,2017,2018
+22017,1627782,Wayne Selden,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.618,35,0.077,1.037,0.435,0.037,0.111,0.037,0.0,0.407,0.587,27,28,10,23,13,2017-18,2017,2018
+22017,201596,Mario Chalmers,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.138,66,0.045,0.75,0.318,0.107,0.107,0.107,0.0,0.357,0.364,28,21,7,22,15,2017-18,2017,2018
+22017,1627988,Myke Henry,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.948,20,0.091,1.333,0.583,0.0,0.0,0.0,0.0,0.583,0.667,12,16,7,12,5,2017-18,2017,2018
+22017,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.831,36,0.043,1.167,0.444,0.25,0.083,0.167,0.083,0.5,0.556,12,14,4,9,5,2017-18,2017,2018
+22017,201144,Mike Conley,1610612763,MEM,Memphis Grizzlies,OffScreen,Offensive,0.02,12,0.052,0.364,0.1,0.091,0.0,0.091,0.0,0.182,0.1,11,4,1,10,9,2017-18,2017,2018

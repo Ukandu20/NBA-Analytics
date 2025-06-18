@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Cut,Offensive,0.439,9,0.404,1.194,0.643,0.222,0.056,0.222,0.056,0.639,0.643,36,43,18,28,10
-42016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Cut,Offensive,0.561,11,0.342,1.231,0.6,0.154,0.0,0.154,0.115,0.577,0.6,26,32,15,25,10
-42016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.038,1.333,0.75,0.0,0.111,0.0,0.0,0.667,0.75,9,12,6,8,2
-42016,201588,George Hill,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,8,0.049,1.5,0.667,0.333,0.0,0.333,0.333,0.667,0.667,6,9,4,6,2
-42016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.091,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,6,8,4,6,2
-42016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.02,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,6,3,3,0
-42016,203526,Raul Neto,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,9,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0
-42016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
-42016,1627762,Joel Bolomboy,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,2,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
-42016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.013,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0
-42016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.061,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1
-42016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,9,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Cut,Offensive,0.439,9,0.404,1.194,0.643,0.222,0.056,0.222,0.056,0.639,0.643,36,43,18,28,10,2016-17,2016,2017
+42016,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Cut,Offensive,0.561,11,0.342,1.231,0.6,0.154,0.0,0.154,0.115,0.577,0.6,26,32,15,25,10,2016-17,2016,2017
+42016,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.038,1.333,0.75,0.0,0.111,0.0,0.0,0.667,0.75,9,12,6,8,2,2016-17,2016,2017
+42016,201588,George Hill,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,8,0.049,1.5,0.667,0.333,0.0,0.333,0.333,0.667,0.667,6,9,4,6,2,2016-17,2016,2017
+42016,2564,Boris Diaw,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.091,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,6,8,4,6,2,2016-17,2016,2017
+42016,2207,Joe Johnson,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.02,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,3,6,3,3,0,2016-17,2016,2017
+42016,203526,Raul Neto,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,9,0.111,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,2016-17,2016,2017
+42016,203918,Rodney Hood,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.008,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,2016-17,2016,2017
+42016,1627762,Joel Bolomboy,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,2,0.333,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,2016-17,2016,2017
+42016,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,11,0.013,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,2016-17,2016,2017
+42016,203957,Danté Exum,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,7,0.061,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,2016-17,2016,2017
+42016,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,Cut,Offensive,0.0,9,0.015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017

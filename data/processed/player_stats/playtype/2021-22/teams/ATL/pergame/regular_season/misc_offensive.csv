@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.971,76,0.055,0.982,0.6,0.351,0.386,0.044,0.0,0.5,0.006500000000000001,1.5,1.5,0.2,0.4,0.2
-22021,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.963,54,0.054,0.929,0.75,0.357,0.452,0.024,0.0,0.48,0.0088,0.8,0.7,0.1,0.1,0.0
-22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.978,66,0.038,1.037,0.43,0.296,0.185,0.0,0.0,0.52,0.005,0.4,0.4,0.1,0.2,0.1
-22021,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.644,74,0.054,0.615,0.6,0.256,0.487,0.026,0.0,0.38,0.006,0.5,0.3,0.1,0.1,0.1
-22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.728,63,0.037,0.647,0.27,0.235,0.441,0.029,0.0,0.32,0.0032,0.5,0.3,0.0,0.2,0.1
-22021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.718,77,0.09,0.645,0.42,0.161,0.452,0.0,0.0,0.32,0.0046,0.4,0.3,0.1,0.2,0.1
-22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.581,53,0.039,0.571,0.29,0.321,0.464,0.107,0.04,0.36,0.0036,0.5,0.3,0.0,0.1,0.1
-22021,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.401,48,0.092,0.448,0.33,0.241,0.69,0.034,0.03,0.24,0.0033,0.6,0.3,0.0,0.1,0.0
-22021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.238,74,0.034,0.367,0.25,0.167,0.567,0.0,0.0,0.23,0.0025,0.4,0.1,0.0,0.1,0.1
-22021,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.567,34,0.038,0.563,0.14,0.188,0.375,0.0,0.0,0.25,0.0021,0.5,0.3,0.0,0.2,0.2
-22021,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.35,56,0.035,0.429,0.25,0.143,0.571,0.0,0.0,0.21,0.0025,0.3,0.1,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22021,1629027,Trae Young,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.971,76,0.055,0.982,0.6,0.351,0.386,0.044,0.0,0.5,0.006500000000000001,1.5,1.5,0.2,0.4,0.2,2021-22,2021,2022
+22021,1628381,John Collins,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.963,54,0.054,0.929,0.75,0.357,0.452,0.024,0.0,0.48,0.0088,0.8,0.7,0.1,0.1,0.0,2021-22,2021,2022
+22021,201568,Danilo Gallinari,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.978,66,0.038,1.037,0.43,0.296,0.185,0.0,0.0,0.52,0.005,0.4,0.4,0.1,0.2,0.1,2021-22,2021,2022
+22021,203991,Clint Capela,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.644,74,0.054,0.615,0.6,0.256,0.487,0.026,0.0,0.38,0.006,0.5,0.3,0.1,0.1,0.1,2021-22,2021,2022
+22021,203992,Bogdan Bogdanović,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.728,63,0.037,0.647,0.27,0.235,0.441,0.029,0.0,0.32,0.0032,0.5,0.3,0.0,0.2,0.1,2021-22,2021,2022
+22021,1626153,Delon Wright,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.718,77,0.09,0.645,0.42,0.161,0.452,0.0,0.0,0.32,0.0046,0.4,0.3,0.1,0.2,0.1,2021-22,2021,2022
+22021,1629631,De'Andre Hunter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.581,53,0.039,0.571,0.29,0.321,0.464,0.107,0.04,0.36,0.0036,0.5,0.3,0.0,0.1,0.1,2021-22,2021,2022
+22021,1630168,Onyeka Okongwu,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.401,48,0.092,0.448,0.33,0.241,0.69,0.034,0.03,0.24,0.0033,0.6,0.3,0.0,0.1,0.0,2021-22,2021,2022
+22021,1628989,Kevin Huerter,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.238,74,0.034,0.367,0.25,0.167,0.567,0.0,0.0,0.23,0.0025,0.4,0.1,0.0,0.1,0.1,2021-22,2021,2022
+22021,1629629,Cam Reddish,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.567,34,0.038,0.563,0.14,0.188,0.375,0.0,0.0,0.25,0.0021,0.5,0.3,0.0,0.2,0.2,2021-22,2021,2022
+22021,101150,Lou Williams,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.35,56,0.035,0.429,0.25,0.143,0.571,0.0,0.0,0.21,0.0025,0.3,0.1,0.0,0.1,0.1,2021-22,2021,2022

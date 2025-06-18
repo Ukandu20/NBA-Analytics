@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.577,76,0.217,1.295,0.694,0.152,0.067,0.143,0.033,0.662,0.694,2.8,3.6,1.6,2.2,0.7
-22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.782,81,0.102,1.381,0.689,0.302,0.063,0.286,0.079,0.714,0.689,0.8,1.1,0.4,0.6,0.2
-22017,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.453,39,0.297,1.242,0.667,0.032,0.065,0.032,0.016,0.613,0.667,1.6,2.0,1.0,1.5,0.5
-22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.613,79,0.021,1.306,0.677,0.139,0.083,0.139,0.083,0.639,0.677,0.5,0.6,0.3,0.4,0.1
-22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.58,80,0.012,1.296,0.682,0.111,0.074,0.111,0.0,0.667,0.682,0.3,0.4,0.2,0.3,0.1
-22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.942,78,0.013,1.556,0.824,0.0,0.056,0.0,0.0,0.778,0.824,0.2,0.4,0.2,0.2,0.0
-22017,203962,Josh Huestis,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.102,69,0.092,1.0,0.5,0.2,0.0,0.2,0.1,0.5,0.5,0.3,0.3,0.1,0.3,0.1
-22017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.075,82,0.044,0.929,0.4,0.214,0.071,0.214,0.0,0.5,0.4,0.2,0.2,0.0,0.1,0.1
-22017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.011,18,0.081,0.714,0.308,0.071,0.0,0.071,0.0,0.357,0.308,0.8,0.6,0.2,0.7,0.5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.577,76,0.217,1.295,0.694,0.152,0.067,0.143,0.033,0.662,0.694,2.8,3.6,1.6,2.2,0.7,2017-18,2017,2018
+22017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.782,81,0.102,1.381,0.689,0.302,0.063,0.286,0.079,0.714,0.689,0.8,1.1,0.4,0.6,0.2,2017-18,2017,2018
+22017,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.453,39,0.297,1.242,0.667,0.032,0.065,0.032,0.016,0.613,0.667,1.6,2.0,1.0,1.5,0.5,2017-18,2017,2018
+22017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.613,79,0.021,1.306,0.677,0.139,0.083,0.139,0.083,0.639,0.677,0.5,0.6,0.3,0.4,0.1,2017-18,2017,2018
+22017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.58,80,0.012,1.296,0.682,0.111,0.074,0.111,0.0,0.667,0.682,0.3,0.4,0.2,0.3,0.1,2017-18,2017,2018
+22017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.942,78,0.013,1.556,0.824,0.0,0.056,0.0,0.0,0.778,0.824,0.2,0.4,0.2,0.2,0.0,2017-18,2017,2018
+22017,203962,Josh Huestis,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.102,69,0.092,1.0,0.5,0.2,0.0,0.2,0.1,0.5,0.5,0.3,0.3,0.1,0.3,0.1,2017-18,2017,2018
+22017,202335,Patrick Patterson,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.075,82,0.044,0.929,0.4,0.214,0.071,0.214,0.0,0.5,0.4,0.2,0.2,0.0,0.1,0.1,2017-18,2017,2018
+22017,201147,Corey Brewer,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.011,18,0.081,0.714,0.308,0.071,0.0,0.071,0.0,0.357,0.308,0.8,0.6,0.2,0.7,0.5,2017-18,2017,2018

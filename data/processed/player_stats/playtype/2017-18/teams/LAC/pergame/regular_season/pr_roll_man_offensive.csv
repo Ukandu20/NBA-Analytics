@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.831,77,0.182,1.253,0.685,0.182,0.052,0.182,0.039,0.649,0.00685,2.0,2.5,1.1,1.6,0.5
-22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.947,76,0.158,1.396,0.711,0.207,0.054,0.207,0.072,0.685,0.00711,1.5,2.0,0.8,1.2,0.3
-22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.825,33,0.134,1.25,0.529,0.135,0.077,0.106,0.029,0.538,0.00635,3.2,3.9,1.4,2.6,1.2
-22017,203186,Willie Reed,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.675,39,0.238,1.154,0.692,0.231,0.154,0.231,0.051,0.615,0.006919999999999999,1.0,1.2,0.5,0.7,0.2
-22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.918,32,0.033,1.35,0.5,0.0,0.0,0.0,0.0,0.5,0.006750000000000001,0.6,0.8,0.3,0.6,0.3
-22017,203966,Jamil Wilson,1610612746,LAC,LA Clippers,PRRollMan,Offensive,1.0,15,0.132,2.083,0.727,0.083,0.0,0.083,0.0,0.75,0.01091,0.8,1.7,0.5,0.7,0.2
-22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.116,21,0.066,0.857,0.316,0.095,0.0,0.048,0.0,0.381,0.00368,1.0,0.9,0.3,0.9,0.6
-22017,1626155,Sam Dekker,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.063,73,0.054,0.765,0.353,0.0,0.0,0.0,0.0,0.353,0.00382,0.2,0.2,0.1,0.2,0.2
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.831,77,0.182,1.253,0.685,0.182,0.052,0.182,0.039,0.649,0.00685,2.0,2.5,1.1,1.6,0.5,2017-18,2017,2018
+22017,1626149,Montrezl Harrell,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.947,76,0.158,1.396,0.711,0.207,0.054,0.207,0.072,0.685,0.00711,1.5,2.0,0.8,1.2,0.3,2017-18,2017,2018
+22017,201933,Blake Griffin,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.825,33,0.134,1.25,0.529,0.135,0.077,0.106,0.029,0.538,0.00635,3.2,3.9,1.4,2.6,1.2,2017-18,2017,2018
+22017,203186,Willie Reed,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.675,39,0.238,1.154,0.692,0.231,0.154,0.231,0.051,0.615,0.006919999999999999,1.0,1.2,0.5,0.7,0.2,2017-18,2017,2018
+22017,202699,Tobias Harris,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.918,32,0.033,1.35,0.5,0.0,0.0,0.0,0.0,0.5,0.006750000000000001,0.6,0.8,0.3,0.6,0.3,2017-18,2017,2018
+22017,203966,Jamil Wilson,1610612746,LAC,LA Clippers,PRRollMan,Offensive,1.0,15,0.132,2.083,0.727,0.083,0.0,0.083,0.0,0.75,0.01091,0.8,1.7,0.5,0.7,0.2,2017-18,2017,2018
+22017,201568,Danilo Gallinari,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.116,21,0.066,0.857,0.316,0.095,0.0,0.048,0.0,0.381,0.00368,1.0,0.9,0.3,0.9,0.6,2017-18,2017,2018
+22017,1626155,Sam Dekker,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.063,73,0.054,0.765,0.353,0.0,0.0,0.0,0.0,0.353,0.00382,0.2,0.2,0.1,0.2,0.2,2017-18,2017,2018

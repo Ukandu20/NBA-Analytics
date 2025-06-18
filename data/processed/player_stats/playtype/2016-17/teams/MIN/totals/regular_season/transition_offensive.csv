@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.857,82,0.107,1.304,0.635,0.21,0.093,0.215,0.056,0.612,0.682,214,279,101,159,58
-22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.77,78,0.232,1.256,0.661,0.209,0.128,0.192,0.041,0.634,0.678,172,216,80,121,41
-22016,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.793,47,0.2,1.265,0.639,0.159,0.094,0.153,0.041,0.612,0.662,170,215,85,133,48
-22016,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.869,82,0.069,1.31,0.7,0.147,0.124,0.14,0.047,0.643,0.705,129,169,70,100,30
-22016,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.063,75,0.17,0.755,0.451,0.141,0.325,0.098,0.025,0.368,0.462,163,123,41,91,50
-22016,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.646,82,0.097,1.159,0.571,0.159,0.085,0.146,0.012,0.585,0.571,82,95,36,63,27
-22016,1627739,Kris Dunn,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.026,78,0.212,0.692,0.403,0.121,0.22,0.11,0.022,0.363,0.403,91,63,25,62,37
-22016,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.174,65,0.152,0.896,0.545,0.119,0.254,0.104,0.03,0.433,0.602,67,60,24,44,20
-22016,201575,Brandon Rush,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.394,47,0.206,1.043,0.462,0.087,0.065,0.087,0.0,0.478,0.538,46,48,18,39,21
-22016,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.362,60,0.197,1.021,0.5,0.128,0.149,0.128,0.021,0.468,0.559,47,48,17,34,17
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.857,82,0.107,1.304,0.635,0.21,0.093,0.215,0.056,0.612,0.682,214,279,101,159,58,2016-17,2016,2017
+22016,203498,Shabazz Muhammad,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.77,78,0.232,1.256,0.661,0.209,0.128,0.192,0.041,0.634,0.678,172,216,80,121,41,2016-17,2016,2017
+22016,203897,Zach LaVine,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.793,47,0.2,1.265,0.639,0.159,0.094,0.153,0.041,0.612,0.662,170,215,85,133,48,2016-17,2016,2017
+22016,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.869,82,0.069,1.31,0.7,0.147,0.124,0.14,0.047,0.643,0.705,129,169,70,100,30,2016-17,2016,2017
+22016,201937,Ricky Rubio,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.063,75,0.17,0.755,0.451,0.141,0.325,0.098,0.025,0.368,0.462,163,123,41,91,50,2016-17,2016,2017
+22016,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.646,82,0.097,1.159,0.571,0.159,0.085,0.146,0.012,0.585,0.571,82,95,36,63,27,2016-17,2016,2017
+22016,1627739,Kris Dunn,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.026,78,0.212,0.692,0.403,0.121,0.22,0.11,0.022,0.363,0.403,91,63,25,62,37,2016-17,2016,2017
+22016,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.174,65,0.152,0.896,0.545,0.119,0.254,0.104,0.03,0.433,0.602,67,60,24,44,20,2016-17,2016,2017
+22016,201575,Brandon Rush,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.394,47,0.206,1.043,0.462,0.087,0.065,0.087,0.0,0.478,0.538,46,48,18,39,21,2016-17,2016,2017
+22016,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Transition,Offensive,0.362,60,0.197,1.021,0.5,0.128,0.149,0.128,0.021,0.468,0.559,47,48,17,34,17,2016-17,2016,2017

@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.2,10,0.235,0.87,0.55,0.109,0.239,0.109,0.022,0.457,0.0054800000000000005,4.6,4.0,1.7,3.1,1.4
-42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.4,10,0.201,1.029,0.41,0.143,0.057,0.143,0.029,0.457,0.00517,3.5,3.6,1.2,2.9,1.7
-42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.976,10,0.128,1.524,0.52,0.048,0.0,0.048,0.048,0.524,0.00738,2.1,3.2,1.1,2.1,1.0
-42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.082,10,0.31,0.677,0.25,0.065,0.032,0.065,0.0,0.29,0.00321,3.1,2.1,0.7,2.8,2.1
-42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.165,8,0.118,0.826,0.35,0.13,0.174,0.087,0.043,0.348,0.0041199999999999995,2.9,2.4,0.8,2.1,1.4
-42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.35,10,0.176,1.0,0.47,0.167,0.056,0.167,0.056,0.5,0.005,1.8,1.8,0.7,1.5,0.8
-42017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.612,10,0.107,1.154,0.45,0.077,0.077,0.077,0.0,0.462,0.0059099999999999995,1.3,1.5,0.5,1.1,0.6
-42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.186,1.0,0.57,0.0,0.125,0.0,0.0,0.5,0.00571,0.8,0.8,0.4,0.7,0.3
-42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,8,0.115,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,0.4,0.5,0.3,0.3,0.0
-42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,3,0.2,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.7,0.3,0.0,0.3,0.3
-42017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42017,1627732,Ben Simmons,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.2,10,0.235,0.87,0.55,0.109,0.239,0.109,0.022,0.457,0.0054800000000000005,4.6,4.0,1.7,3.1,1.4,2017-18,2017,2018
+42017,203967,Dario Šarić,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.4,10,0.201,1.029,0.41,0.143,0.057,0.143,0.029,0.457,0.00517,3.5,3.6,1.2,2.9,1.7,2017-18,2017,2018
+42017,200755,JJ Redick,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.976,10,0.128,1.524,0.52,0.048,0.0,0.048,0.048,0.524,0.00738,2.1,3.2,1.1,2.1,1.0,2017-18,2017,2018
+42017,203496,Robert Covington,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.082,10,0.31,0.677,0.25,0.065,0.032,0.065,0.0,0.29,0.00321,3.1,2.1,0.7,2.8,2.1,2017-18,2017,2018
+42017,203954,Joel Embiid,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.165,8,0.118,0.826,0.35,0.13,0.174,0.087,0.043,0.348,0.0041199999999999995,2.9,2.4,0.8,2.1,1.4,2017-18,2017,2018
+42017,101141,Ersan Ilyasova,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.35,10,0.176,1.0,0.47,0.167,0.056,0.167,0.056,0.5,0.005,1.8,1.8,0.7,1.5,0.8,2017-18,2017,2018
+42017,201158,Marco Belinelli,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.612,10,0.107,1.154,0.45,0.077,0.077,0.077,0.0,0.462,0.0059099999999999995,1.3,1.5,0.5,1.1,0.6,2017-18,2017,2018
+42017,204456,T.J. McConnell,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,10,0.186,1.0,0.57,0.0,0.125,0.0,0.0,0.5,0.00571,0.8,0.8,0.4,0.7,0.3,2017-18,2017,2018
+42017,101161,Amir Johnson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,8,0.115,1.333,1.0,0.0,0.333,0.0,0.0,0.667,0.01,0.4,0.5,0.3,0.3,0.0,2017-18,2017,2018
+42017,1628365,Markelle Fultz,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,3,0.2,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.7,0.3,0.0,0.3,0.3,2017-18,2017,2018
+42017,1626147,Justin Anderson,1610612755,PHI,Philadelphia 76ers,Transition,Offensive,0.0,7,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,2017-18,2017,2018

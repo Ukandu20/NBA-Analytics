@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.22,75,0.233,0.877,0.426,0.056,0.053,0.053,0.007,0.432,0.445,285,250,109,256,147
-22016,201586,Serge Ibaka,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.384,56,0.208,0.958,0.427,0.042,0.06,0.042,0.036,0.405,0.494,168,161,67,157,90
-22016,202687,Bismack Biyombo,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.404,81,0.25,0.971,0.539,0.176,0.103,0.176,0.029,0.515,0.539,136,132,55,102,47
-22016,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.803,80,0.045,1.17,0.512,0.106,0.064,0.106,0.043,0.511,0.585,47,55,21,41,20
-22016,201145,Jeff Green,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.286,69,0.064,0.911,0.385,0.111,0.067,0.111,0.044,0.4,0.449,45,41,15,39,24
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202696,Nikola Vučević,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.22,75,0.233,0.877,0.426,0.056,0.053,0.053,0.007,0.432,0.445,285,250,109,256,147,2016-17,2016,2017
+22016,201586,Serge Ibaka,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.384,56,0.208,0.958,0.427,0.042,0.06,0.042,0.036,0.405,0.494,168,161,67,157,90,2016-17,2016,2017
+22016,202687,Bismack Biyombo,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.404,81,0.25,0.971,0.539,0.176,0.103,0.176,0.029,0.515,0.539,136,132,55,102,47,2016-17,2016,2017
+22016,203932,Aaron Gordon,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.803,80,0.045,1.17,0.512,0.106,0.064,0.106,0.043,0.511,0.585,47,55,21,41,20,2016-17,2016,2017
+22016,201145,Jeff Green,1610612753,ORL,Orlando Magic,PRRollMan,Offensive,0.286,69,0.064,0.911,0.385,0.111,0.067,0.111,0.044,0.4,0.449,45,41,15,39,24,2016-17,2016,2017

@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.914,69,0.058,0.842,0.41,0.342,0.382,0.066,0.01,0.447,0.00455,1.1,0.9,0.1,0.3,0.2
-22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.477,79,0.06,0.484,0.4,0.158,0.579,0.011,0.0,0.263,0.004,1.2,0.6,0.1,0.3,0.2
-22016,2730,Dwight Howard,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.264,74,0.104,0.356,0.78,0.198,0.713,0.0,0.0,0.238,0.0077800000000000005,1.4,0.5,0.1,0.1,0.0
-22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.693,79,0.046,0.608,0.27,0.216,0.373,0.039,0.02,0.314,0.00318,0.6,0.4,0.1,0.3,0.2
-22016,1627098,Malcolm Delaney,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.747,73,0.089,0.652,0.38,0.304,0.522,0.065,0.0,0.37,0.00375,0.6,0.4,0.0,0.1,0.1
-22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.651,73,0.05,0.587,0.38,0.217,0.435,0.043,0.0,0.304,0.00469,0.6,0.4,0.1,0.2,0.1
-22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.992,62,0.037,1.167,0.75,0.222,0.333,0.0,0.0,0.556,0.00813,0.3,0.3,0.1,0.1,0.0
-22016,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.883,56,0.096,0.778,0.33,0.444,0.444,0.0,0.0,0.481,0.00333,0.5,0.4,0.0,0.1,0.0
-22016,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.508,70,0.095,0.5,0.5,0.25,0.65,0.0,0.0,0.275,0.005,0.6,0.3,0.0,0.1,0.0
-22016,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.811,26,0.069,0.7,0.0,0.35,0.45,0.1,0.0,0.35,0.0,0.8,0.5,0.0,0.2,0.2
-22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.636,59,0.049,0.579,0.25,0.263,0.526,0.0,0.0,0.316,0.0025,0.3,0.2,0.0,0.1,0.1
-22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.508,32,0.062,0.5,1.0,0.167,0.778,0.0,0.0,0.222,0.015,0.6,0.3,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.914,69,0.058,0.842,0.41,0.342,0.382,0.066,0.01,0.447,0.00455,1.1,0.9,0.1,0.3,0.2,2016-17,2016,2017
+22016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.477,79,0.06,0.484,0.4,0.158,0.579,0.011,0.0,0.263,0.004,1.2,0.6,0.1,0.3,0.2,2016-17,2016,2017
+22016,2730,Dwight Howard,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.264,74,0.104,0.356,0.78,0.198,0.713,0.0,0.0,0.238,0.0077800000000000005,1.4,0.5,0.1,0.1,0.0,2016-17,2016,2017
+22016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.693,79,0.046,0.608,0.27,0.216,0.373,0.039,0.02,0.314,0.00318,0.6,0.4,0.1,0.3,0.2,2016-17,2016,2017
+22016,1627098,Malcolm Delaney,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.747,73,0.089,0.652,0.38,0.304,0.522,0.065,0.0,0.37,0.00375,0.6,0.4,0.0,0.1,0.1,2016-17,2016,2017
+22016,203145,Kent Bazemore,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.651,73,0.05,0.587,0.38,0.217,0.435,0.043,0.0,0.304,0.00469,0.6,0.4,0.1,0.2,0.1,2016-17,2016,2017
+22016,200757,Thabo Sefolosha,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.992,62,0.037,1.167,0.75,0.222,0.333,0.0,0.0,0.556,0.00813,0.3,0.3,0.1,0.1,0.0,2016-17,2016,2017
+22016,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.883,56,0.096,0.778,0.33,0.444,0.444,0.0,0.0,0.481,0.00333,0.5,0.4,0.0,0.1,0.0,2016-17,2016,2017
+22016,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.508,70,0.095,0.5,0.5,0.25,0.65,0.0,0.0,0.275,0.005,0.6,0.3,0.0,0.1,0.0,2016-17,2016,2017
+22016,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.811,26,0.069,0.7,0.0,0.35,0.45,0.1,0.0,0.35,0.0,0.8,0.5,0.0,0.2,0.2,2016-17,2016,2017
+22016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.636,59,0.049,0.579,0.25,0.263,0.526,0.0,0.0,0.316,0.0025,0.3,0.2,0.0,0.1,0.1,2016-17,2016,2017
+22016,2594,Kyle Korver,1610612737,ATL,Atlanta Hawks,Misc,Offensive,0.508,32,0.062,0.5,1.0,0.167,0.778,0.0,0.0,0.222,0.015,0.6,0.3,0.0,0.0,0.0,2016-17,2016,2017

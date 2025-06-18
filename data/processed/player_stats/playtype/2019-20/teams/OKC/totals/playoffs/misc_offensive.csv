@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.055,1.0,0.67,0.38,0.25,0.0,0.0,0.5,0.0067,8,8,2,3,1
-42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.059,0.75,0.5,0.25,0.5,0.125,0.0,0.375,0.005,8,6,1,2,1
-42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.056,0.667,1.0,0.17,0.67,0.0,0.0,0.333,0.01,6,4,1,1,0
-42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.194,7,0.145,0.364,0.0,0.27,0.64,0.0,0.0,0.273,0.0,11,4,0,1,1
-42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.167,0.75,0.5,0.25,0.25,0.0,0.0,0.5,0.005,4,3,1,2,1
-42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,6,0.04,0.5,1.0,0.0,0.75,0.0,0.0,0.25,0.01,4,2,1,1,0
-42019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,4,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0
-42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.017,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42019,101108,Chris Paul,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.055,1.0,0.67,0.38,0.25,0.0,0.0,0.5,0.0067,8,8,2,3,1,2019-20,2019,2020
+42019,203471,Dennis Schröder,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.059,0.75,0.5,0.25,0.5,0.125,0.0,0.375,0.005,8,6,1,2,1,2019-20,2019,2020
+42019,201568,Danilo Gallinari,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.056,0.667,1.0,0.17,0.67,0.0,0.0,0.333,0.01,6,4,1,1,0,2019-20,2019,2020
+42019,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.194,7,0.145,0.364,0.0,0.27,0.64,0.0,0.0,0.273,0.0,11,4,0,1,1,2019-20,2019,2020
+42019,203457,Nerlens Noel,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.167,0.75,0.5,0.25,0.25,0.0,0.0,0.5,0.005,4,3,1,2,1,2019-20,2019,2020
+42019,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,6,0.04,0.5,1.0,0.0,0.75,0.0,0.0,0.25,0.01,4,2,1,1,0,2019-20,2019,2020
+42019,1628390,Terrance Ferguson,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,4,0.083,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2019-20,2019,2020
+42019,1629647,Darius Bazley,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.024,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2019-20,2019,2020
+42019,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,Misc,Offensive,0.0,7,0.017,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,2019-20,2019,2020

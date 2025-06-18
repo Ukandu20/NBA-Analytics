@@ -1,13 +1,13 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.749,55,0.052,1.21,0.561,0.198,0.049,0.173,0.062,0.593,0.561,1.5,1.8,0.7,1.2,0.5
-22016,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.488,71,0.148,1.056,0.537,0.042,0.028,0.042,0.014,0.521,0.537,1.0,1.1,0.5,0.9,0.4
-22016,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.595,75,0.081,1.12,0.591,0.06,0.06,0.04,0.0,0.56,0.591,0.7,0.7,0.3,0.6,0.2
-22016,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.326,33,0.131,0.974,0.516,0.132,0.079,0.132,0.026,0.5,0.516,1.2,1.1,0.5,0.9,0.5
-22016,1627834,Georgios Papagiannis,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.945,22,0.158,1.429,0.714,0.0,0.0,0.0,0.0,0.714,0.714,1.0,1.4,0.7,1.0,0.3
-22016,2440,Matt Barnes,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.11,54,0.073,0.806,0.333,0.167,0.028,0.167,0.028,0.417,0.333,0.7,0.5,0.2,0.6,0.4
-22016,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.899,30,0.037,1.333,0.632,0.143,0.048,0.143,0.095,0.619,0.632,0.7,0.9,0.4,0.6,0.2
-22016,201951,Ty Lawson,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.5,69,0.023,1.059,0.462,0.176,0.059,0.118,0.0,0.529,0.462,0.2,0.3,0.1,0.2,0.1
-22016,201229,Anthony Tolliver,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.285,65,0.041,0.944,0.615,0.056,0.222,0.056,0.0,0.5,0.615,0.3,0.3,0.1,0.2,0.1
-22016,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.082,66,0.024,0.769,0.364,0.077,0.077,0.077,0.0,0.385,0.364,0.2,0.2,0.1,0.2,0.1
-22016,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.034,22,0.099,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,0.6,0.4,0.2,0.6,0.5
-22016,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.045,61,0.019,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,0.2,0.1,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,202326,DeMarcus Cousins,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.749,55,0.052,1.21,0.561,0.198,0.049,0.173,0.062,0.593,0.561,1.5,1.8,0.7,1.2,0.5,2016-17,2016,2017
+22016,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.488,71,0.148,1.056,0.537,0.042,0.028,0.042,0.014,0.521,0.537,1.0,1.1,0.5,0.9,0.4,2016-17,2016,2017
+22016,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.595,75,0.081,1.12,0.591,0.06,0.06,0.04,0.0,0.56,0.591,0.7,0.7,0.3,0.6,0.2,2016-17,2016,2017
+22016,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.326,33,0.131,0.974,0.516,0.132,0.079,0.132,0.026,0.5,0.516,1.2,1.1,0.5,0.9,0.5,2016-17,2016,2017
+22016,1627834,Georgios Papagiannis,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.945,22,0.158,1.429,0.714,0.0,0.0,0.0,0.0,0.714,0.714,1.0,1.4,0.7,1.0,0.3,2016-17,2016,2017
+22016,2440,Matt Barnes,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.11,54,0.073,0.806,0.333,0.167,0.028,0.167,0.028,0.417,0.333,0.7,0.5,0.2,0.6,0.4,2016-17,2016,2017
+22016,200752,Rudy Gay,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.899,30,0.037,1.333,0.632,0.143,0.048,0.143,0.095,0.619,0.632,0.7,0.9,0.4,0.6,0.2,2016-17,2016,2017
+22016,201951,Ty Lawson,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.5,69,0.023,1.059,0.462,0.176,0.059,0.118,0.0,0.529,0.462,0.2,0.3,0.1,0.2,0.1,2016-17,2016,2017
+22016,201229,Anthony Tolliver,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.285,65,0.041,0.944,0.615,0.056,0.222,0.056,0.0,0.5,0.615,0.3,0.3,0.1,0.2,0.1,2016-17,2016,2017
+22016,202066,Garrett Temple,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.082,66,0.024,0.769,0.364,0.077,0.077,0.077,0.0,0.385,0.364,0.2,0.2,0.1,0.2,0.1,2016-17,2016,2017
+22016,201956,Omri Casspi,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.034,22,0.099,0.571,0.286,0.0,0.0,0.0,0.0,0.286,0.286,0.6,0.4,0.2,0.6,0.5,2016-17,2016,2017
+22016,203463,Ben McLemore,1610612758,SAC,Sacramento Kings,OffRebound,Offensive,0.045,61,0.019,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.333,0.2,0.1,0.0,0.1,0.1,2016-17,2016,2017

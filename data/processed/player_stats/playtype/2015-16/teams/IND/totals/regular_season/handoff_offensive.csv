@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202331,Paul George,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.424,81,0.053,0.796,0.318,0.097,0.087,0.078,0.039,0.33,0.381,103,82,28,88,60
-22015,101139,CJ Miles,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.648,64,0.105,0.925,0.403,0.05,0.05,0.05,0.0,0.4,0.479,80,74,29,72,43
-22015,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.178,81,0.067,0.682,0.338,0.034,0.148,0.034,0.023,0.295,0.385,88,60,25,74,49
-22015,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.238,58,0.087,0.706,0.375,0.098,0.118,0.078,0.0,0.373,0.375,51,36,15,40,25
-22015,201588,George Hill,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.576,74,0.041,0.892,0.393,0.108,0.135,0.081,0.0,0.405,0.5,37,33,11,28,17
-22015,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.975,45,0.054,1.3,0.5,0.0,0.0,0.0,0.0,0.5,0.65,10,13,5,10,5
-22015,201978,Chase Budinger,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.613,49,0.045,0.909,0.429,0.182,0.182,0.182,0.0,0.455,0.429,11,10,3,7,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202331,Paul George,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.424,81,0.053,0.796,0.318,0.097,0.087,0.078,0.039,0.33,0.381,103,82,28,88,60,2015-16,2015,2016
+22015,101139,CJ Miles,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.648,64,0.105,0.925,0.403,0.05,0.05,0.05,0.0,0.4,0.479,80,74,29,72,43,2015-16,2015,2016
+22015,101145,Monta Ellis,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.178,81,0.067,0.682,0.338,0.034,0.148,0.034,0.023,0.295,0.385,88,60,25,74,49,2015-16,2015,2016
+22015,201155,Rodney Stuckey,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.238,58,0.087,0.706,0.375,0.098,0.118,0.078,0.0,0.373,0.375,51,36,15,40,25,2015-16,2015,2016
+22015,201588,George Hill,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.576,74,0.041,0.892,0.393,0.108,0.135,0.081,0.0,0.405,0.5,37,33,11,28,17,2015-16,2015,2016
+22015,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.975,45,0.054,1.3,0.5,0.0,0.0,0.0,0.0,0.5,0.65,10,13,5,10,5,2015-16,2015,2016
+22015,201978,Chase Budinger,1610612754,IND,Indiana Pacers,Handoff,Offensive,0.613,49,0.045,0.909,0.429,0.182,0.182,0.182,0.0,0.455,0.429,11,10,3,7,4,2015-16,2015,2016

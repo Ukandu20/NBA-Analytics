@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.202,82,0.081,0.8,0.385,0.054,0.123,0.054,0.015,0.362,0.436,130,104,42,109,67
-22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.976,75,0.012,1.435,0.526,0.13,0.043,0.13,0.0,0.565,0.684,23,33,10,19,9
-22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.278,75,0.071,0.824,0.406,0.029,0.029,0.029,0.0,0.412,0.422,34,28,13,32,19
-22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.153,48,0.061,0.757,0.281,0.108,0.054,0.027,0.027,0.324,0.328,37,28,9,32,23
-22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.305,71,0.016,0.857,0.467,0.095,0.286,0.095,0.095,0.333,0.533,21,18,7,15,8
-22017,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.55,53,0.062,1.0,0.467,0.0,0.0,0.0,0.0,0.467,0.5,15,15,7,15,8
-22017,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.415,51,0.077,0.929,0.417,0.0,0.143,0.0,0.0,0.357,0.542,14,13,5,12,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.202,82,0.081,0.8,0.385,0.054,0.123,0.054,0.015,0.362,0.436,130,104,42,109,67,2017-18,2017,2018
+22017,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.976,75,0.012,1.435,0.526,0.13,0.043,0.13,0.0,0.565,0.684,23,33,10,19,9,2017-18,2017,2018
+22017,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.278,75,0.071,0.824,0.406,0.029,0.029,0.029,0.0,0.412,0.422,34,28,13,32,19,2017-18,2017,2018
+22017,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.153,48,0.061,0.757,0.281,0.108,0.054,0.027,0.027,0.324,0.328,37,28,9,32,23,2017-18,2017,2018
+22017,202339,Eric Bledsoe,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.305,71,0.016,0.857,0.467,0.095,0.286,0.095,0.095,0.333,0.533,21,18,7,15,8,2017-18,2017,2018
+22017,1628425,Sterling Brown,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.55,53,0.062,1.0,0.467,0.0,0.0,0.0,0.0,0.467,0.5,15,15,7,15,8,2017-18,2017,2018
+22017,1891,Jason Terry,1610612749,MIL,Milwaukee Bucks,OffScreen,Offensive,0.415,51,0.077,0.929,0.417,0.0,0.143,0.0,0.0,0.357,0.542,14,13,5,12,7,2017-18,2017,2018

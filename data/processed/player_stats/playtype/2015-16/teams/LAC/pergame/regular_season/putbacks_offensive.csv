@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.337,77,0.174,0.961,0.5,0.168,0.039,0.161,0.026,0.516,0.5,2.0,1.9,0.8,1.6,0.8
-22015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.572,60,0.14,1.087,0.595,0.087,0.13,0.087,0.022,0.543,0.595,0.8,0.8,0.4,0.6,0.3
-22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.63,35,0.036,1.107,0.56,0.071,0.071,0.036,0.036,0.536,0.56,0.8,0.9,0.4,0.7,0.3
-22015,101108,Chris Paul,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.99,75,0.01,1.571,0.636,0.214,0.0,0.143,0.0,0.714,0.727,0.2,0.3,0.1,0.1,0.1
-22015,202362,Lance Stephenson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.929,43,0.053,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,0.3,0.4,0.2,0.3,0.1
-22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.871,79,0.009,1.273,0.636,0.0,0.0,0.0,0.0,0.636,0.636,0.1,0.2,0.1,0.1,0.1
-22015,201145,Jeff Green,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.871,27,0.034,1.273,0.636,0.0,0.0,0.0,0.0,0.636,0.636,0.4,0.5,0.3,0.4,0.1
-22015,2746,Josh Smith,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.724,32,0.05,1.167,0.6,0.167,0.0,0.083,0.0,0.667,0.6,0.4,0.4,0.2,0.3,0.1
-22015,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.024,75,0.083,0.636,0.316,0.091,0.045,0.045,0.0,0.364,0.316,0.3,0.2,0.1,0.3,0.2
-22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.051,80,0.022,0.692,0.273,0.154,0.077,0.154,0.077,0.308,0.273,0.2,0.1,0.0,0.1,0.1
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.337,77,0.174,0.961,0.5,0.168,0.039,0.161,0.026,0.516,0.5,2.0,1.9,0.8,1.6,0.8,2015-16,2015,2016
+22015,202332,Cole Aldrich,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.572,60,0.14,1.087,0.595,0.087,0.13,0.087,0.022,0.543,0.595,0.8,0.8,0.4,0.6,0.3,2015-16,2015,2016
+22015,201933,Blake Griffin,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.63,35,0.036,1.107,0.56,0.071,0.071,0.036,0.036,0.536,0.56,0.8,0.9,0.4,0.7,0.3,2015-16,2015,2016
+22015,101108,Chris Paul,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.99,75,0.01,1.571,0.636,0.214,0.0,0.143,0.0,0.714,0.727,0.2,0.3,0.1,0.1,0.1,2015-16,2015,2016
+22015,202362,Lance Stephenson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.929,43,0.053,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,0.3,0.4,0.2,0.3,0.1,2015-16,2015,2016
+22015,2037,Jamal Crawford,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.871,79,0.009,1.273,0.636,0.0,0.0,0.0,0.0,0.636,0.636,0.1,0.2,0.1,0.1,0.1,2015-16,2015,2016
+22015,201145,Jeff Green,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.871,27,0.034,1.273,0.636,0.0,0.0,0.0,0.0,0.636,0.636,0.4,0.5,0.3,0.4,0.1,2015-16,2015,2016
+22015,2746,Josh Smith,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.724,32,0.05,1.167,0.6,0.167,0.0,0.083,0.0,0.667,0.6,0.4,0.4,0.2,0.3,0.1,2015-16,2015,2016
+22015,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.024,75,0.083,0.636,0.316,0.091,0.045,0.045,0.0,0.364,0.316,0.3,0.2,0.1,0.3,0.2,2015-16,2015,2016
+22015,202325,Wesley Johnson,1610612746,LAC,LA Clippers,OffRebound,Offensive,0.051,80,0.022,0.692,0.273,0.154,0.077,0.154,0.077,0.308,0.273,0.2,0.1,0.0,0.1,0.1,2015-16,2015,2016

@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22022,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.391,79,0.183,1.061,0.494,0.081,0.03,0.081,0.02,0.513,0.00525,197,209,88,178,90
-22022,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.767,65,0.159,1.279,0.627,0.131,0.033,0.131,0.0,0.656,0.00637,61,78,32,51,19
-22022,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.586,39,0.259,1.167,0.556,0.273,0.076,0.242,0.03,0.606,0.00567,66,77,25,45,20
-22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.96,47,0.099,1.545,0.75,0.409,0.0,0.409,0.14,0.818,0.0075,22,34,12,16,4
-22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.633,77,0.022,1.188,0.545,0.188,0.125,0.188,0.0,0.563,0.00636,16,19,6,11,5
-22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.567,79,0.014,1.154,0.417,0.154,0.0,0.154,0.08,0.462,0.005,13,15,5,12,7
-22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.204,75,0.01,0.882,0.438,0.0,0.059,0.0,0.0,0.412,0.00469,17,15,7,16,9
-22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.752,45,0.01,1.273,0.6,0.091,0.091,0.091,0.09,0.545,0.006500000000000001,11,14,6,10,4
-22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.127,66,0.024,0.813,0.455,0.125,0.188,0.125,0.0,0.438,0.005,16,13,5,11,6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22022,202685,Jonas Valančiūnas,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.391,79,0.183,1.061,0.494,0.081,0.03,0.081,0.02,0.513,0.00525,197,209,88,178,90,2022-23,2022,2023
+22022,1626204,Larry Nance Jr.,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.767,65,0.159,1.279,0.627,0.131,0.033,0.131,0.0,0.656,0.00637,61,78,32,51,19,2022-23,2022,2023
+22022,1626195,Willy Hernangomez,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.586,39,0.259,1.167,0.556,0.273,0.076,0.242,0.03,0.606,0.00567,66,77,25,45,20,2022-23,2022,2023
+22022,1629637,Jaxson Hayes,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.96,47,0.099,1.545,0.75,0.409,0.0,0.409,0.14,0.818,0.0075,22,34,12,16,4,2022-23,2022,2023
+22022,1630230,Naji Marshall,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.633,77,0.022,1.188,0.545,0.188,0.125,0.188,0.0,0.563,0.00636,16,19,6,11,5,2022-23,2022,2023
+22022,1630530,Trey Murphy III,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.567,79,0.014,1.154,0.417,0.154,0.0,0.154,0.08,0.462,0.005,13,15,5,12,7,2022-23,2022,2023
+22022,203468,CJ McCollum,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.204,75,0.01,0.882,0.438,0.0,0.059,0.0,0.0,0.412,0.00469,17,15,7,16,9,2022-23,2022,2023
+22022,1627742,Brandon Ingram,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.752,45,0.01,1.273,0.6,0.091,0.091,0.091,0.09,0.545,0.006500000000000001,11,14,6,10,4,2022-23,2022,2023
+22022,1630529,Herbert Jones,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.127,66,0.024,0.813,0.455,0.125,0.188,0.125,0.0,0.438,0.005,16,13,5,11,6,2022-23,2022,2023

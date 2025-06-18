@@ -1,9 +1,9 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.78,80,0.41,0.917,0.427,0.163,0.106,0.151,0.028,0.457,0.442,744,682,241,565,324
-22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.729,78,0.265,0.895,0.381,0.123,0.166,0.098,0.015,0.382,0.468,325,291,90,236,146
-22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.581,76,0.328,0.839,0.401,0.078,0.152,0.069,0.023,0.373,0.459,217,182,69,172,103
-22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.752,69,0.35,0.903,0.438,0.148,0.158,0.128,0.041,0.429,0.465,196,177,63,144,81
-22017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.22,70,0.256,0.655,0.372,0.052,0.224,0.052,0.017,0.31,0.384,116,76,32,86,54
-22017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.863,70,0.051,0.971,0.481,0.029,0.176,0.029,0.0,0.412,0.593,34,33,13,27,14
-22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.28,81,0.017,0.7,0.375,0.1,0.2,0.1,0.1,0.3,0.375,10,7,3,8,5
-22017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.035,74,0.041,0.353,0.222,0.118,0.353,0.118,0.0,0.235,0.222,17,6,2,9,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.78,80,0.41,0.917,0.427,0.163,0.106,0.151,0.028,0.457,0.442,744,682,241,565,324,2017-18,2017,2018
+22017,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.729,78,0.265,0.895,0.381,0.123,0.166,0.098,0.015,0.382,0.468,325,291,90,236,146,2017-18,2017,2018
+22017,1627832,Fred VanVleet,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.581,76,0.328,0.839,0.401,0.078,0.152,0.069,0.023,0.373,0.459,217,182,69,172,103,2017-18,2017,2018
+22017,1626153,Delon Wright,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.752,69,0.35,0.903,0.438,0.148,0.158,0.128,0.041,0.429,0.465,196,177,63,144,81,2017-18,2017,2018
+22017,1626181,Norman Powell,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.22,70,0.256,0.655,0.372,0.052,0.224,0.052,0.017,0.31,0.384,116,76,32,86,54,2017-18,2017,2018
+22017,101139,CJ Miles,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.863,70,0.051,0.971,0.481,0.029,0.176,0.029,0.0,0.412,0.593,34,33,13,27,14,2017-18,2017,2018
+22017,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.28,81,0.017,0.7,0.375,0.1,0.2,0.1,0.1,0.3,0.375,10,7,3,8,5,2017-18,2017,2018
+22017,1628384,OG Anunoby,1610612761,TOR,Toronto Raptors,PRBallHandler,Offensive,0.035,74,0.041,0.353,0.222,0.118,0.353,0.118,0.0,0.235,0.222,17,6,2,9,7,2017-18,2017,2018

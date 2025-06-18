@@ -1,15 +1,15 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.608,54,0.282,0.848,0.417,0.106,0.193,0.09,0.021,0.384,0.468,7.2,6.1,2.1,5.1,3.0
-22017,1627755,Tyler Ulis,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.5,71,0.529,0.803,0.421,0.063,0.15,0.047,0.005,0.388,0.447,5.4,4.3,1.8,4.3,2.5
-22017,1628455,Mike James,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.553,32,0.539,0.823,0.42,0.07,0.153,0.065,0.009,0.386,0.456,6.7,5.5,2.2,5.3,3.1
-22017,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.679,65,0.14,0.875,0.428,0.125,0.068,0.114,0.017,0.443,0.428,2.7,2.4,1.0,2.2,1.3
-22017,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.268,77,0.18,0.694,0.339,0.106,0.102,0.097,0.0,0.37,0.348,2.8,1.9,0.8,2.2,1.5
-22017,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.627,19,0.495,0.856,0.462,0.144,0.173,0.137,0.065,0.417,0.471,7.3,6.3,2.5,5.5,2.9
-22017,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.369,19,0.429,0.741,0.327,0.136,0.272,0.099,0.012,0.321,0.378,4.3,3.2,0.8,2.6,1.7
-22017,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.436,79,0.076,0.78,0.316,0.06,0.18,0.04,0.0,0.3,0.421,0.6,0.5,0.2,0.5,0.3
-22017,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.99,3,0.411,1.261,0.526,0.217,0.087,0.174,0.13,0.522,0.579,7.7,9.7,3.3,6.3,3.0
-22017,1627885,Shaquille Harrison,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.125,23,0.215,0.571,0.273,0.114,0.257,0.114,0.0,0.286,0.273,1.5,0.9,0.3,1.0,0.7
-22017,1627982,Josh Gray,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.178,5,0.509,0.63,0.316,0.185,0.148,0.185,0.037,0.37,0.316,5.4,3.4,1.2,3.8,2.6
-22017,1627863,Danuel House Jr.,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.532,23,0.106,0.813,0.429,0.0,0.125,0.0,0.0,0.375,0.464,0.7,0.6,0.3,0.6,0.3
-22017,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.099,82,0.021,0.538,0.25,0.077,0.308,0.077,0.0,0.231,0.313,0.2,0.1,0.0,0.1,0.1
-22017,1628432,Davon Reed,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.051,21,0.161,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.7,0.3,0.1,0.7,0.6
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.608,54,0.282,0.848,0.417,0.106,0.193,0.09,0.021,0.384,0.468,7.2,6.1,2.1,5.1,3.0,2017-18,2017,2018
+22017,1627755,Tyler Ulis,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.5,71,0.529,0.803,0.421,0.063,0.15,0.047,0.005,0.388,0.447,5.4,4.3,1.8,4.3,2.5,2017-18,2017,2018
+22017,1628455,Mike James,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.553,32,0.539,0.823,0.42,0.07,0.153,0.065,0.009,0.386,0.456,6.7,5.5,2.2,5.3,3.1,2017-18,2017,2018
+22017,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.679,65,0.14,0.875,0.428,0.125,0.068,0.114,0.017,0.443,0.428,2.7,2.4,1.0,2.2,1.3,2017-18,2017,2018
+22017,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.268,77,0.18,0.694,0.339,0.106,0.102,0.097,0.0,0.37,0.348,2.8,1.9,0.8,2.2,1.5,2017-18,2017,2018
+22017,203901,Elfrid Payton,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.627,19,0.495,0.856,0.462,0.144,0.173,0.137,0.065,0.417,0.471,7.3,6.3,2.5,5.5,2.9,2017-18,2017,2018
+22017,203477,Isaiah Canaan,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.369,19,0.429,0.741,0.327,0.136,0.272,0.099,0.012,0.321,0.378,4.3,3.2,0.8,2.6,1.7,2017-18,2017,2018
+22017,203584,Troy Daniels,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.436,79,0.076,0.78,0.316,0.06,0.18,0.04,0.0,0.3,0.421,0.6,0.5,0.2,0.5,0.3,2017-18,2017,2018
+22017,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.99,3,0.411,1.261,0.526,0.217,0.087,0.174,0.13,0.522,0.579,7.7,9.7,3.3,6.3,3.0,2017-18,2017,2018
+22017,1627885,Shaquille Harrison,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.125,23,0.215,0.571,0.273,0.114,0.257,0.114,0.0,0.286,0.273,1.5,0.9,0.3,1.0,0.7,2017-18,2017,2018
+22017,1627982,Josh Gray,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.178,5,0.509,0.63,0.316,0.185,0.148,0.185,0.037,0.37,0.316,5.4,3.4,1.2,3.8,2.6,2017-18,2017,2018
+22017,1627863,Danuel House Jr.,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.532,23,0.106,0.813,0.429,0.0,0.125,0.0,0.0,0.375,0.464,0.7,0.6,0.3,0.6,0.3,2017-18,2017,2018
+22017,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.099,82,0.021,0.538,0.25,0.077,0.308,0.077,0.0,0.231,0.313,0.2,0.1,0.0,0.1,0.1,2017-18,2017,2018
+22017,1628432,Davon Reed,1610612756,PHX,Phoenix Suns,PRBallHandler,Offensive,0.051,21,0.161,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.2,0.7,0.3,0.1,0.7,0.6,2017-18,2017,2018

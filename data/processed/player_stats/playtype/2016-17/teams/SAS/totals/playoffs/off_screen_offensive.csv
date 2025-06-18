@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.8,12,0.063,1.294,0.6,0.0,0.118,0.0,0.0,0.529,0.00733,17,22,9,15,6
-42016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.68,16,0.101,1.118,0.375,0.059,0.0,0.059,0.0,0.412,0.005,17,19,6,16,10
-42016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.068,1.889,0.75,0.0,0.111,0.0,0.0,0.667,0.010629999999999999,9,17,6,8,2
-42016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.059,0.857,0.429,0.0,0.0,0.0,0.0,0.429,0.0042899999999999995,7,6,3,7,4
-42016,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,11,0.023,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1
-42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,15,0.013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,15,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,13,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1
-42016,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,6,0.154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,0,0,4,4
-42016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.017,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.8,12,0.063,1.294,0.6,0.0,0.118,0.0,0.0,0.529,0.00733,17,22,9,15,6,2016-17,2016,2017
+42016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.68,16,0.101,1.118,0.375,0.059,0.0,0.059,0.0,0.412,0.005,17,19,6,16,10,2016-17,2016,2017
+42016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.068,1.889,0.75,0.0,0.111,0.0,0.0,0.667,0.010629999999999999,9,17,6,8,2,2016-17,2016,2017
+42016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.059,0.857,0.429,0.0,0.0,0.0,0.0,0.429,0.0042899999999999995,7,6,3,7,4,2016-17,2016,2017
+42016,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,11,0.023,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,2,1,0,1,1,2016-17,2016,2017
+42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,15,0.013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,15,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,13,0.028,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
+42016,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,6,0.154,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,0,0,4,4,2016-17,2016,2017
+42016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.0,16,0.017,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,5,0,0,4,4,2016-17,2016,2017

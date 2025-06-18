@@ -1,12 +1,12 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22018,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.805,78,0.046,0.73,0.39,0.27,0.451,0.09,0.016,0.361,0.00458,1.6,1.1,0.2,0.5,0.3
-22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Misc,Offensive,0.832,59,0.063,0.75,0.37,0.317,0.383,0.017,0.017,0.417,0.00421,1.0,0.8,0.1,0.3,0.2
-22018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Misc,Offensive,0.354,82,0.077,0.447,0.0,0.34,0.596,0.0,0.0,0.277,0.0,0.6,0.3,0.0,0.0,0.0
-22018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Misc,Offensive,0.574,68,0.032,0.571,0.25,0.229,0.543,0.029,0.0,0.286,0.00375,0.5,0.3,0.0,0.1,0.1
-22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.208,67,0.05,0.362,0.67,0.213,0.745,0.021,0.021,0.213,0.006670000000000001,0.7,0.3,0.0,0.0,0.0
-22018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,Misc,Offensive,0.505,25,0.098,0.536,0.25,0.286,0.464,0.071,0.036,0.286,0.0025,1.1,0.6,0.1,0.3,0.2
-22018,2546,Carmelo Anthony,1610612745,HOU,Houston Rockets,Misc,Offensive,0.961,10,0.086,0.917,1.0,0.5,0.417,0.0,0.0,0.5,0.015,1.2,1.1,0.1,0.1,0.0
-22018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.234,73,0.041,0.37,0.25,0.111,0.593,0.0,0.0,0.185,0.00375,0.4,0.1,0.0,0.1,0.1
-22018,203516,James Ennis III,1610612745,HOU,Houston Rockets,Misc,Offensive,0.618,40,0.038,0.6,0.75,0.0,0.6,0.0,0.0,0.3,0.0075,0.3,0.2,0.1,0.1,0.0
-22018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Misc,Offensive,0.091,47,0.039,0.235,0.25,0.118,0.647,0.0,0.0,0.176,0.0025,0.4,0.1,0.0,0.1,0.1
-22018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Misc,Offensive,0.073,39,0.044,0.214,0.0,0.143,0.786,0.0,0.0,0.143,0.0,0.4,0.1,0.0,0.0,0.0
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22018,201935,James Harden,1610612745,HOU,Houston Rockets,Misc,Offensive,0.805,78,0.046,0.73,0.39,0.27,0.451,0.09,0.016,0.361,0.00458,1.6,1.1,0.2,0.5,0.3,2018-19,2018,2019
+22018,101108,Chris Paul,1610612745,HOU,Houston Rockets,Misc,Offensive,0.832,59,0.063,0.75,0.37,0.317,0.383,0.017,0.017,0.417,0.00421,1.0,0.8,0.1,0.3,0.2,2018-19,2018,2019
+22018,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,Misc,Offensive,0.354,82,0.077,0.447,0.0,0.34,0.596,0.0,0.0,0.277,0.0,0.6,0.3,0.0,0.0,0.0,2018-19,2018,2019
+22018,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Misc,Offensive,0.574,68,0.032,0.571,0.25,0.229,0.543,0.029,0.0,0.286,0.00375,0.5,0.3,0.0,0.1,0.1,2018-19,2018,2019
+22018,203991,Clint Capela,1610612745,HOU,Houston Rockets,Misc,Offensive,0.208,67,0.05,0.362,0.67,0.213,0.745,0.021,0.021,0.213,0.006670000000000001,0.7,0.3,0.0,0.0,0.0,2018-19,2018,2019
+22018,202702,Kenneth Faried,1610612745,HOU,Houston Rockets,Misc,Offensive,0.505,25,0.098,0.536,0.25,0.286,0.464,0.071,0.036,0.286,0.0025,1.1,0.6,0.1,0.3,0.2,2018-19,2018,2019
+22018,2546,Carmelo Anthony,1610612745,HOU,Houston Rockets,Misc,Offensive,0.961,10,0.086,0.917,1.0,0.5,0.417,0.0,0.0,0.5,0.015,1.2,1.1,0.1,0.1,0.0,2018-19,2018,2019
+22018,101123,Gerald Green,1610612745,HOU,Houston Rockets,Misc,Offensive,0.234,73,0.041,0.37,0.25,0.111,0.593,0.0,0.0,0.185,0.00375,0.4,0.1,0.0,0.1,0.1,2018-19,2018,2019
+22018,203516,James Ennis III,1610612745,HOU,Houston Rockets,Misc,Offensive,0.618,40,0.038,0.6,0.75,0.0,0.6,0.0,0.0,0.3,0.0075,0.3,0.2,0.1,0.1,0.0,2018-19,2018,2019
+22018,203085,Austin Rivers,1610612745,HOU,Houston Rockets,Misc,Offensive,0.091,47,0.039,0.235,0.25,0.118,0.647,0.0,0.0,0.176,0.0025,0.4,0.1,0.0,0.1,0.1,2018-19,2018,2019
+22018,1627863,Danuel House Jr.,1610612745,HOU,Houston Rockets,Misc,Offensive,0.073,39,0.044,0.214,0.0,0.143,0.786,0.0,0.0,0.143,0.0,0.4,0.1,0.0,0.0,0.0,2018-19,2018,2019

@@ -1,6 +1,6 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.28,73,0.216,0.967,0.483,0.136,0.061,0.121,0.019,0.5,0.00483,214,207,85,176,91
-22017,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.42,71,0.279,1.038,0.569,0.061,0.053,0.061,0.0,0.534,0.00569,131,136,66,116,50
-22017,2216,Zach Randolph,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.179,60,0.151,0.899,0.413,0.036,0.072,0.036,0.014,0.396,0.00468,139,125,52,126,74
-22017,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.198,60,0.181,0.924,0.435,0.086,0.057,0.086,0.019,0.448,0.00446,105,97,40,92,52
-22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.971,58,0.048,1.5,0.533,0.125,0.0,0.125,0.063,0.563,0.006999999999999999,16,24,8,15,7
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,1626161,Willie Cauley-Stein,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.28,73,0.216,0.967,0.483,0.136,0.061,0.121,0.019,0.5,0.00483,214,207,85,176,91,2017-18,2017,2018
+22017,201585,Kosta Koufos,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.42,71,0.279,1.038,0.569,0.061,0.053,0.061,0.0,0.534,0.00569,131,136,66,116,50,2017-18,2017,2018
+22017,2216,Zach Randolph,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.179,60,0.151,0.899,0.413,0.036,0.072,0.036,0.014,0.396,0.00468,139,125,52,126,74,2017-18,2017,2018
+22017,1627746,Skal Labissiere,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.198,60,0.181,0.924,0.435,0.086,0.057,0.086,0.019,0.448,0.00446,105,97,40,92,52,2017-18,2017,2018
+22017,1713,Vince Carter,1610612758,SAC,Sacramento Kings,PRRollMan,Offensive,0.971,58,0.048,1.5,0.533,0.125,0.0,0.125,0.063,0.563,0.006999999999999999,16,24,8,15,7,2017-18,2017,2018

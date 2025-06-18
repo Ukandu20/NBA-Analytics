@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.704,67,0.123,0.905,0.439,0.124,0.101,0.118,0.006,0.45,0.462,2.5,2.3,0.9,2.0,1.1
-22015,201565,Derrick Rose,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.533,66,0.097,0.817,0.427,0.071,0.127,0.063,0.016,0.405,0.432,1.9,1.6,0.7,1.6,0.9
-22015,2200,Pau Gasol,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.519,72,0.058,0.813,0.37,0.173,0.107,0.12,0.0,0.44,0.37,1.0,0.8,0.3,0.8,0.5
-22015,201166,Aaron Brooks,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.443,69,0.071,0.78,0.364,0.146,0.073,0.146,0.024,0.415,0.364,0.6,0.5,0.2,0.5,0.3
-22015,203503,Tony Snell,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.557,64,0.071,0.828,0.44,0.034,0.103,0.034,0.0,0.414,0.44,0.5,0.4,0.2,0.4,0.2
-22015,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.352,66,0.039,0.742,0.3,0.194,0.194,0.194,0.032,0.355,0.325,0.5,0.3,0.1,0.3,0.2
-22015,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.089,63,0.085,0.523,0.268,0.023,0.045,0.023,0.0,0.273,0.268,0.7,0.4,0.2,0.7,0.5
-22015,201959,Taj Gibson,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.99,73,0.017,1.364,0.7,0.273,0.0,0.182,0.182,0.636,0.7,0.2,0.2,0.1,0.1,0.0
-22015,202734,E'Twaun Moore,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.334,59,0.033,0.733,0.385,0.067,0.067,0.0,0.0,0.4,0.385,0.3,0.2,0.1,0.2,0.1
-22015,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.055,27,0.057,0.455,0.2,0.091,0.0,0.091,0.0,0.273,0.2,0.4,0.2,0.1,0.4,0.3
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.704,67,0.123,0.905,0.439,0.124,0.101,0.118,0.006,0.45,0.462,2.5,2.3,0.9,2.0,1.1,2015-16,2015,2016
+22015,201565,Derrick Rose,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.533,66,0.097,0.817,0.427,0.071,0.127,0.063,0.016,0.405,0.432,1.9,1.6,0.7,1.6,0.9,2015-16,2015,2016
+22015,2200,Pau Gasol,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.519,72,0.058,0.813,0.37,0.173,0.107,0.12,0.0,0.44,0.37,1.0,0.8,0.3,0.8,0.5,2015-16,2015,2016
+22015,201166,Aaron Brooks,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.443,69,0.071,0.78,0.364,0.146,0.073,0.146,0.024,0.415,0.364,0.6,0.5,0.2,0.5,0.3,2015-16,2015,2016
+22015,203503,Tony Snell,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.557,64,0.071,0.828,0.44,0.034,0.103,0.034,0.0,0.414,0.44,0.5,0.4,0.2,0.4,0.2,2015-16,2015,2016
+22015,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.352,66,0.039,0.742,0.3,0.194,0.194,0.194,0.032,0.355,0.325,0.5,0.3,0.1,0.3,0.2,2015-16,2015,2016
+22015,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.089,63,0.085,0.523,0.268,0.023,0.045,0.023,0.0,0.273,0.268,0.7,0.4,0.2,0.7,0.5,2015-16,2015,2016
+22015,201959,Taj Gibson,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.99,73,0.017,1.364,0.7,0.273,0.0,0.182,0.182,0.636,0.7,0.2,0.2,0.1,0.1,0.0,2015-16,2015,2016
+22015,202734,E'Twaun Moore,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.334,59,0.033,0.733,0.385,0.067,0.067,0.0,0.0,0.4,0.385,0.3,0.2,0.1,0.2,0.1,2015-16,2015,2016
+22015,203200,Justin Holiday,1610612741,CHI,Chicago Bulls,Isolation,Offensive,0.055,27,0.057,0.455,0.2,0.091,0.0,0.091,0.0,0.273,0.2,0.4,0.2,0.1,0.4,0.3,2015-16,2015,2016

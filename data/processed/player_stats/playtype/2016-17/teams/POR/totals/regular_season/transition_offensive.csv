@@ -1,11 +1,11 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22016,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.602,80,0.13,1.143,0.549,0.089,0.107,0.085,0.009,0.527,0.61,224,256,100,182,82
-22016,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.681,75,0.094,1.18,0.514,0.14,0.124,0.112,0.039,0.5,0.627,178,210,71,138,67
-22016,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.808,79,0.166,1.278,0.537,0.111,0.056,0.119,0.032,0.54,0.644,126,161,58,108,50
-22016,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.833,77,0.155,1.297,0.674,0.136,0.093,0.136,0.034,0.636,0.695,118,153,64,95,31
-22016,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.796,54,0.102,1.266,0.767,0.25,0.141,0.203,0.063,0.688,0.767,64,81,33,43,10
-22016,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.157,65,0.129,0.878,0.429,0.1,0.156,0.067,0.033,0.4,0.471,90,79,30,70,40
-22016,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.111,61,0.141,0.828,0.403,0.138,0.161,0.126,0.011,0.402,0.452,87,72,25,62,37
-22016,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.995,74,0.049,1.762,0.737,0.0,0.095,0.0,0.0,0.667,0.974,21,37,14,19,5
-22016,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.988,20,0.05,1.588,1.0,0.412,0.118,0.412,0.176,0.824,1.0,17,27,11,11,0
-22016,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.075,74,0.059,0.773,0.583,0.182,0.273,0.182,0.0,0.455,0.583,22,17,7,12,5
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22016,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.602,80,0.13,1.143,0.549,0.089,0.107,0.085,0.009,0.527,0.61,224,256,100,182,82,2016-17,2016,2017
+22016,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.681,75,0.094,1.18,0.514,0.14,0.124,0.112,0.039,0.5,0.627,178,210,71,138,67,2016-17,2016,2017
+22016,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.808,79,0.166,1.278,0.537,0.111,0.056,0.119,0.032,0.54,0.644,126,161,58,108,50,2016-17,2016,2017
+22016,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.833,77,0.155,1.297,0.674,0.136,0.093,0.136,0.034,0.636,0.695,118,153,64,95,31,2016-17,2016,2017
+22016,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.796,54,0.102,1.266,0.767,0.25,0.141,0.203,0.063,0.688,0.767,64,81,33,43,10,2016-17,2016,2017
+22016,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.157,65,0.129,0.878,0.429,0.1,0.156,0.067,0.033,0.4,0.471,90,79,30,70,40,2016-17,2016,2017
+22016,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.111,61,0.141,0.828,0.403,0.138,0.161,0.126,0.011,0.402,0.452,87,72,25,62,37,2016-17,2016,2017
+22016,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.995,74,0.049,1.762,0.737,0.0,0.095,0.0,0.0,0.667,0.974,21,37,14,19,5,2016-17,2016,2017
+22016,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.988,20,0.05,1.588,1.0,0.412,0.118,0.412,0.176,0.824,1.0,17,27,11,11,0,2016-17,2016,2017
+22016,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,Transition,Offensive,0.075,74,0.059,0.773,0.583,0.182,0.273,0.182,0.0,0.455,0.583,22,17,7,12,5,2016-17,2016,2017

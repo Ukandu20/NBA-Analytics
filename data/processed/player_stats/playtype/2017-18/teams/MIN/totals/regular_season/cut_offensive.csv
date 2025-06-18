@@ -1,8 +1,8 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.448,82,0.24,1.24,0.619,0.115,0.051,0.111,0.037,0.618,0.619,217,269,117,189,72
-22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.583,82,0.085,1.297,0.644,0.18,0.078,0.18,0.047,0.641,0.644,128,166,65,101,36
-22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.914,82,0.06,1.521,0.75,0.17,0.011,0.16,0.074,0.755,0.75,94,143,63,84,21
-22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.934,59,0.053,1.547,0.771,0.313,0.031,0.297,0.094,0.797,0.771,64,99,37,48,11
-22017,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.39,79,0.113,1.214,0.636,0.161,0.071,0.161,0.018,0.625,0.636,56,68,28,44,16
-22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.626,67,0.072,1.313,0.731,0.094,0.125,0.094,0.031,0.656,0.731,32,42,19,26,7
-22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.685,82,0.029,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,12,16,8,12,4
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.448,82,0.24,1.24,0.619,0.115,0.051,0.111,0.037,0.618,0.619,217,269,117,189,72,2017-18,2017,2018
+22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.583,82,0.085,1.297,0.644,0.18,0.078,0.18,0.047,0.641,0.644,128,166,65,101,36,2017-18,2017,2018
+22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.914,82,0.06,1.521,0.75,0.17,0.011,0.16,0.074,0.755,0.75,94,143,63,84,21,2017-18,2017,2018
+22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.934,59,0.053,1.547,0.771,0.313,0.031,0.297,0.094,0.797,0.771,64,99,37,48,11,2017-18,2017,2018
+22017,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.39,79,0.113,1.214,0.636,0.161,0.071,0.161,0.018,0.625,0.636,56,68,28,44,16,2017-18,2017,2018
+22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.626,67,0.072,1.313,0.731,0.094,0.125,0.094,0.031,0.656,0.731,32,42,19,26,7,2017-18,2017,2018
+22017,1626145,Tyus Jones,1610612750,MIN,Minnesota Timberwolves,Cut,Offensive,0.685,82,0.029,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,12,16,8,12,4,2017-18,2017,2018

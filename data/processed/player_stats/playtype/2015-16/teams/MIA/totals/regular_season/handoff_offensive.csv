@@ -1,10 +1,10 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx
-22015,101123,Gerald Green,1610612748,MIA,Miami Heat,Handoff,Offensive,0.428,69,0.118,0.797,0.38,0.025,0.089,0.025,0.013,0.354,0.437,79,63,27,71,44
-22015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Handoff,Offensive,0.396,74,0.044,0.783,0.375,0.101,0.101,0.087,0.014,0.391,0.375,69,54,21,56,35
-22015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Handoff,Offensive,0.309,72,0.058,0.742,0.382,0.076,0.106,0.076,0.015,0.379,0.382,66,49,21,55,34
-22015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.928,36,0.095,1.233,0.6,0.133,0.1,0.133,0.067,0.567,0.66,30,37,15,25,10
-22015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.987,53,0.039,1.385,0.6,0.231,0.0,0.231,0.0,0.692,0.65,13,18,6,10,4
-22015,2736,Luol Deng,1610612748,MIA,Miami Heat,Handoff,Offensive,0.831,74,0.019,1.059,0.533,0.059,0.118,0.059,0.059,0.471,0.567,17,18,8,15,7
-22015,2757,Beno Udrih,1610612748,MIA,Miami Heat,Handoff,Offensive,0.114,36,0.134,0.63,0.304,0.074,0.074,0.074,0.0,0.333,0.304,27,17,7,23,16
-22015,2547,Chris Bosh,1610612748,MIA,Miami Heat,Handoff,Offensive,0.957,53,0.012,1.25,0.5,0.25,0.0,0.25,0.083,0.583,0.55,12,15,5,10,5
-22015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Handoff,Offensive,0.047,78,0.043,0.423,0.211,0.154,0.115,0.154,0.0,0.231,0.211,26,11,4,19,15
+season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
+22015,101123,Gerald Green,1610612748,MIA,Miami Heat,Handoff,Offensive,0.428,69,0.118,0.797,0.38,0.025,0.089,0.025,0.013,0.354,0.437,79,63,27,71,44,2015-16,2015,2016
+22015,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Handoff,Offensive,0.396,74,0.044,0.783,0.375,0.101,0.101,0.087,0.014,0.391,0.375,69,54,21,56,35,2015-16,2015,2016
+22015,201609,Goran Dragic,1610612748,MIA,Miami Heat,Handoff,Offensive,0.309,72,0.058,0.742,0.382,0.076,0.106,0.076,0.015,0.379,0.382,66,49,21,55,34,2015-16,2015,2016
+22015,204020,Tyler Johnson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.928,36,0.095,1.233,0.6,0.133,0.1,0.133,0.067,0.567,0.66,30,37,15,25,10,2015-16,2015,2016
+22015,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Handoff,Offensive,0.987,53,0.039,1.385,0.6,0.231,0.0,0.231,0.0,0.692,0.65,13,18,6,10,4,2015-16,2015,2016
+22015,2736,Luol Deng,1610612748,MIA,Miami Heat,Handoff,Offensive,0.831,74,0.019,1.059,0.533,0.059,0.118,0.059,0.059,0.471,0.567,17,18,8,15,7,2015-16,2015,2016
+22015,2757,Beno Udrih,1610612748,MIA,Miami Heat,Handoff,Offensive,0.114,36,0.134,0.63,0.304,0.074,0.074,0.074,0.0,0.333,0.304,27,17,7,23,16,2015-16,2015,2016
+22015,2547,Chris Bosh,1610612748,MIA,Miami Heat,Handoff,Offensive,0.957,53,0.012,1.25,0.5,0.25,0.0,0.25,0.083,0.583,0.55,12,15,5,10,5,2015-16,2015,2016
+22015,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Handoff,Offensive,0.047,78,0.043,0.423,0.211,0.154,0.115,0.154,0.0,0.231,0.211,26,11,4,19,15,2015-16,2015,2016
