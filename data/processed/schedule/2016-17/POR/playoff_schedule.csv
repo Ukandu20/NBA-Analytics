@@ -1,0 +1,5 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41600141,2017-04-16,POR,GSW,109,121.0,rnd1,1
+41600142,2017-04-19,POR,GSW,81,110.0,rnd1,2
+41600143,2017-04-22,GSW,POR,113,119.0,rnd1,3
+41600144,2017-04-24,GSW,POR,103,128.0,rnd1,4

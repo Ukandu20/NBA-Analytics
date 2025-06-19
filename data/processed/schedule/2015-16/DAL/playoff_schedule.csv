@@ -1,0 +1,6 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41500161,2016-04-16,DAL,OKC,70,108.0,rnd1,1
+41500162,2016-04-18,DAL,OKC,85,84.0,rnd1,2
+41500163,2016-04-21,OKC,DAL,102,131.0,rnd1,3
+41500164,2016-04-23,OKC,DAL,108,119.0,rnd1,4
+41500165,2016-04-25,DAL,OKC,104,118.0,rnd1,5

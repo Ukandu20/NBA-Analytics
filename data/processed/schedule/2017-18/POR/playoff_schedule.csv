@@ -1,0 +1,5 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41700161,2018-04-14,NOP,POR,95,97.0,rnd1,1
+41700162,2018-04-17,NOP,POR,102,111.0,rnd1,2
+41700163,2018-04-19,POR,NOP,102,119.0,rnd1,3
+41700164,2018-04-21,POR,NOP,123,131.0,rnd1,4

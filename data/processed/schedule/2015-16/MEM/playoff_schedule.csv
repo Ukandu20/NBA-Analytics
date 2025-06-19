@@ -1,0 +1,5 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41500151,2016-04-17,MEM,SAS,74,106.0,rnd1,1
+41500152,2016-04-19,MEM,SAS,68,94.0,rnd1,2
+41500153,2016-04-22,SAS,MEM,87,96.0,rnd1,3
+41500154,2016-04-24,SAS,MEM,95,116.0,rnd1,4

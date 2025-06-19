@@ -1,0 +1,6 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41700151,2018-04-14,SAS,GSW,92,113.0,rnd1,1
+41700152,2018-04-16,SAS,GSW,101,116.0,rnd1,2
+41700153,2018-04-19,GSW,SAS,97,110.0,rnd1,3
+41700154,2018-04-22,GSW,SAS,103,90.0,rnd1,4
+41700155,2018-04-24,SAS,GSW,91,99.0,rnd1,5

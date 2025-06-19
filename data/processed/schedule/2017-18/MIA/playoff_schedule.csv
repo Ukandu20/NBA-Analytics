@@ -1,0 +1,6 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41700121,2018-04-14,MIA,PHI,103,130.0,rnd1,1
+41700122,2018-04-16,MIA,PHI,113,103.0,rnd1,2
+41700123,2018-04-19,PHI,MIA,108,128.0,rnd1,3
+41700124,2018-04-21,PHI,MIA,102,106.0,rnd1,4
+41700125,2018-04-24,MIA,PHI,91,104.0,rnd1,5

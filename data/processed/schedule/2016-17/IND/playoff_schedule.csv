@@ -1,0 +1,5 @@
+game_id,game_date,away_team,home_team,pf,opp_pf,round,game_no_in_series
+41600111,2017-04-15,IND,CLE,108,109.0,rnd1,1
+41600112,2017-04-17,IND,CLE,111,117.0,rnd1,2
+41600113,2017-04-20,CLE,IND,114,119.0,rnd1,3
+41600114,2017-04-23,CLE,IND,102,106.0,rnd1,4
