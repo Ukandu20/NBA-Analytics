@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Clean *all* player-stats CSVs under data/raw/player_stats/**  ➜  parquet.
+Clean *all* player-stats CSVs under data/raw/player_stats/**.
 
 Usage
 -----
@@ -110,7 +110,7 @@ def process_modules(target_modules: Optional[Iterable[str]] = None) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Clean all player-stats CSVs into parquet."
+        description="Clean all player-stats CSVs."
     )
     parser.add_argument(
         "--module", "-m",

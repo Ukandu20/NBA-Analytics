@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-clean_player_adv_boxscores.py · v7
+clean_player_shooting.py · v7
 ==================================
 
 Handles **both** raw season layouts:
 
-1) data/raw/player_stats/adv_boxscores/<SEASON>/<MODE>/<season_type?>/*.csv
-2) data/raw/player_stats/adv_boxscores/<SEASON>/*.csv   (flat)
+1) data/raw/player_stats/shooting/<SEASON>/<MODE>/<season_type?>/*.csv
+2) data/raw/player_stats/shooting/<SEASON>/*.csv   (flat)
 
 Writes league-wide + per-team CSVs into:
 
-data/processed/player_stats/adv_boxscores/<season>/
+data/processed/player_stats/shooting/<season>/
     ├─ <mode>/<season_type?>/*.csv
     └─ teams/<TEAM>/<mode>/<season_type?>/*.csv
 """
@@ -21,8 +21,8 @@ from pathlib import Path
 from typing import Iterable, List, Optional
 import pandas as pd, sys
 
-# ── CONFIG (edit if you rename folders) ────────────────────────────────────
-TABLE        = "shooting"                  # table name
+# ── CONFIG ────────────────────────────────────
+TABLE        = "shooting"                  
 CORE_MODES   = {"totals", "pergame"}
 FLAT_SYNONYM = {"per100poss": "per100possessions"}         # filename shorthands
 EXTRA_DROP   = {"group_set"}                               # always-delete cols
