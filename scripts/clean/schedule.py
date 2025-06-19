@@ -56,8 +56,10 @@ def add_points(df: pd.DataFrame) -> pd.DataFrame:
     df["opp_pf"] = (df["opponent_points"]
                     if "opponent_points" in df.columns
                     else df["pf"] - df["plus_minus"])
+    df["differential"] = df["plus_minus"] if "plus_minus" in df.columns else df["pf"] - df["opp_pf"]
     df["pf"] = df["pf"].astype("int64", errors="ignore")
     df["opp_pf"] = df["opp_pf"].astype("int64", errors="ignore")
+    df["differential"] = df["differential"].astype("int64", errors="ignore")
     return df
 
 
@@ -100,8 +102,9 @@ for season_dir in sorted(BOX_ROOT.iterdir()):
         sub["season"]  = season
         sub["game_no"] = sub.index + 1
         sub[["season","team_id","game_id","game_date","away_team","home_team",
-             "opponent_id","game_no","pf","opp_pf","wl"]] \
+             "opponent_id","game_no","pf","opp_pf","wl", "differential"]] \
           .to_csv(out_path(season, team, "regular_season_schedule.csv"), index=False)
+        sub.drop_duplicates()
 
     # league regular (team + game_week)
     league_rows = []
@@ -112,7 +115,8 @@ for season_dir in sorted(BOX_ROOT.iterdir()):
         sub["game_week"] = sub.index + 1
         league_rows.append(
             sub[["season","team_id","team","game_id","game_date","away_team","home_team",
-                 "opponent_id","game_week","pf","opp_pf","wl"]])
+                 "opponent_id","game_week","pf","opp_pf","wl", "differential"]])
+        sub.drop_duplicates()
     pd.concat(league_rows, ignore_index=True) \
       .to_csv(out_path(season, "league_regular_season_schedule.csv"), index=False)
 
@@ -135,16 +139,18 @@ for season_dir in sorted(BOX_ROOT.iterdir()):
         sub["round"] = (sub["series_id"].rank(method="dense").astype(int)
                         .map(lambda i: ROUND_LBL[i-1] if i<=len(ROUND_LBL) else f"rnd{i}"))
         sub["season"] = season
+        sub.drop_duplicates()
 
         # per-team playoff
         sub[["season","team_id","game_id","game_date","away_team","home_team",
-             "opponent_id","pf","opp_pf","wl","round","game_no_in_series"]] \
+             "opponent_id","pf","opp_pf","wl","differential","round","game_no_in_series"]] \
           .to_csv(out_path(season, team, "playoff_schedule.csv"), index=False)
 
         sub["team"] = team
         league_ply_rows.append(
             sub[["season","team_id","team","game_id","game_date","away_team","home_team",
-                 "opponent_id","pf","opp_pf","wl","round","game_no_in_series"]])
+                 "opponent_id","pf","opp_pf","wl","differential","round","game_no_in_series"]])
+        sub.drop_duplicates()
 
     if league_ply_rows:
         pd.concat(league_ply_rows, ignore_index=True) \
