@@ -38,8 +38,9 @@ def load_one(season_dir: Path) -> pd.DataFrame:
     # home flag → int8
     df["is_home"] = (df["team"] == df["home_team"]).astype("int8")
 
-    # MOV adjusted
-    df["mov_adj"] = df["pf"] - df["opp_pf"] - HCA * df["is_home"]
+
+    # margin of victory adjusted for symmetric home-court
+    df["mov_adj"] = df["pf"] - df["opp_pf"] - HCA * (2*df["is_home"] - 1)
 
     # keep abbr for later
     df = df.rename(columns={"team": "team"})
