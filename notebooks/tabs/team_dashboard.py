@@ -1,3 +1,4 @@
+from turtle import title
 import streamlit as st
 from pathlib import Path
 import pandas as pd
@@ -7,6 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import glob
+import plotly.graph_objects as go
 import plotly.express as px
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -72,12 +74,14 @@ df_all = df_all.merge(
 # ─────────────────────────────────────────────────────────────────────────────
 general_dir = (    TEAM_DIR    / "general"    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
 gen_trad = (general_dir / "traditional.csv")
+gen_adv = (general_dir / "advanced.csv")
 df_gen = pd.concat([
     pd.read_csv(f).assign(season=season)
     for f in general_dir.glob("*.csv")
 ], ignore_index=True)
 
 df_gen_trad = pd.read_csv(gen_trad)
+df_gen_adv = pd.read_csv(gen_adv)
 
 df_gen_trad = df_gen_trad.rename(columns=str.lower)
 df_gen_trad = df_gen_trad.drop(columns=["team"], errors="ignore")
@@ -85,6 +89,16 @@ df_gen_trad = df_gen_trad.merge(
     team_bios[["team_id","team","team_name","logo_url"]],
     on="team_id", how="left"
 )
+
+df_gen_adv = df_gen_adv.rename(columns=str.lower)
+df_gen_adv = df_gen_adv.drop(columns=["team"], errors="ignore")
+df_gen_adv = df_gen_adv.merge(
+    team_bios[["team_id","team","team_name","logo_url"]],
+    on="team_id", how="left"
+)
+
+
+
 df_gen = df_gen.drop(columns=["team", "team_name"], errors="ignore")
 df_gen = df_gen.merge(
     team_bios[["team_id","team","team_name","logo_url"]],
@@ -122,6 +136,8 @@ df_clutch_trad = df_clutch_trad.merge(
     on="team_id", how="left"
 )
 
+
+
 #Efficiency Benchmark metrics
 eff_benchmark_metrics = {
     "Net Rating":         "net_rating",
@@ -149,6 +165,7 @@ league_percentile = league.rank(pct=True).round(3)
 df_team_metric  = df_all[df_all["team_id"] == team_id]
 df_team_general = df_gen[df_gen["team_id"] == team_id]
 df_team_gen_trad = df_gen_trad[df_gen_trad["team_id"] == team_id]
+df_team_gen_adv = df_gen_adv[df_gen_adv["team_id"] == team_id]
 
 df_clutch = df_clutch[df_clutch["team_id"] == team_id]
 df_clutch_adv = df_clutch_adv[df_clutch_adv["team_id"] == team_id]
@@ -195,6 +212,17 @@ def rank_color(rank: int, total_teams: int = 30) -> str:
     if   rank <= third:     return "green"
     elif rank <= 2*third:   return "orange"
     else:                   return "red"
+
+def extract_opponent(matchup: str) -> str:
+    if "@" in matchup:
+        # road game: "MYTEAM @ OPP"
+        return matchup.split("@")[1].strip()
+    elif "vs" in matchup:
+        # home game: "MYTEAM vs OPP"
+        return matchup.split("vs")[1].strip()
+    else:
+        return ""
+
 
     # Games played
 games_played = df_team_metric["game_id"].nunique()
@@ -258,6 +286,30 @@ net_rating_rank = (
         else None
 )
 
+off_rating = (
+        df_team_gen_adv["off_rating"].iloc[0]
+        if "off_rating" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+)
+
+def_rating = (
+        df_team_gen_adv["def_rating"].iloc[0]
+        if "def_rating" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+    )
+
+off_rating_rank = (
+        df_team_gen_adv["off_rating_rank"].iloc[0]
+        if "off_rating_rank" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+    )
+
+def_rating_rank = (
+        df_team_gen_adv["def_rating_rank"].iloc[0]
+        if "def_rating_rank" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+    )
+
 ts_pct = (
         df_clutch_adv["ts_pct"].mean()
         if "ts_pct" in df_clutch_adv.columns and len(df_clutch_adv)>0
@@ -276,18 +328,76 @@ pts_sup  = to_superscript(pts_rank) if pts_rank is not None else ""
 trb_sup  = to_superscript(trb_rank) if trb_rank is not None else "" 
 ast_sup  = to_superscript(ast_rank) if ast_rank is not None else ""
 net_rating_sup = to_superscript(net_rating_rank) if net_rating_rank is not None else ""
+off_rating_sup = to_superscript(off_rating_rank) if off_rating_rank is not None else ""
+def_rating_sup = to_superscript(def_rating_rank) if def_rating_rank is not None else ""
 ts_pct_sup = to_superscript(ts_pct_rank) if ts_pct_rank is not None else ""
 win_loss_pct_color = rank_color(win_loss_pct_rank if win_loss_pct_rank is not None else 30, total_teams=30)
 pts_color = rank_color(pts_rank if pts_rank is not None else 30, total_teams=30)
 trb_color = rank_color(trb_rank if trb_rank is not None else 30, total_teams=30)
 ast_color = rank_color(ast_rank if ast_rank is not None else 30, total_teams=30)
 net_rating_color = rank_color(net_rating_rank if net_rating_rank is not None else 30, total_teams=30)
+off_rating_color = rank_color(off_rating_rank if off_rating_rank is not None else 30, total_teams=30)
+def_rating_color = rank_color(def_rating_rank if def_rating_rank is not None else 30, total_teams=30)
 ts_pct_color = rank_color(ts_pct_rank if ts_pct_rank is not None else 30, total_teams=30)
+
 
     # Wins & losses (one row per team in df_team_general)
 
 wins   = int(df_team_general["w"].iloc[0])
 losses = int(df_team_general["l"].iloc[0])
+
+largest_victory = (
+    df_team_metric["plus_minus"].max().astype(int)
+    if "plus_minus" in df_team_metric.columns and len(df_team_metric)>0
+    else 0
+)
+
+largest_victory_pts = (
+    df_team_metric.loc[df_team_metric["plus_minus"].idxmax(), "pts"].astype(int)
+    if {"plus_minus","pts"}.issubset(df_team_metric.columns) and len(df_team_metric)>0
+    else None
+)
+
+opp_points = (
+    int(largest_victory_pts) - int(largest_victory)
+    if largest_victory_pts is not None and isinstance(largest_victory_pts, (int, np.number)) and isinstance(largest_victory, (int, np.number))
+    else None
+)
+
+
+
+if "plus_minus" in df_team_metric.columns and len(df_team_metric) > 0:
+    # make a proper opponent column
+    df_team_metric = df_team_metric.copy()
+    df_team_metric["opp_team"] = df_team_metric["matchup"].apply(extract_opponent)
+
+    # now idxmax() really points at the largest margin and pulls the correct opponent
+    idx = df_team_metric["plus_minus"].idxmax()
+    largest_victory_opponent = df_team_metric.at[idx, "opp_team"]
+else:
+    largest_victory_opponent = ""
+
+
+biggest_defeat = (
+    df_team_metric["plus_minus"].min()
+    if "plus_minus" in df_team_metric.columns and len(df_team_metric)>0
+    else 0
+)
+
+biggest_defeat_opponent = df_team_metric.loc[
+    df_team_metric["plus_minus"].idxmin(), "opp_team"]
+# Rank superscripts and colors
+biggest_defeat_pts = (
+    df_team_metric.loc[df_team_metric["plus_minus"].idxmin(), "pts"].astype(int)
+    if {"plus_minus","pts"}.issubset(df_team_metric.columns) and len(df_team_metric)>0
+    else None
+)
+
+def_opp_points = (
+    int(biggest_defeat_pts) - int(biggest_defeat)
+    if biggest_defeat_pts is not None and isinstance(biggest_defeat_pts, (int, np.number)) and isinstance(biggest_defeat, (int, np.number))
+    else None
+)
 
 
 w_rank = (
@@ -317,7 +427,7 @@ with container:
         """,
         unsafe_allow_html=True
     )
-    col1, col2, col3 = container.columns(3)
+    col1, col2, col3, col4, col5, col6 = container.columns(6)
     col1.markdown(
         f"""
         <div>Win %</div>
@@ -333,15 +443,37 @@ with container:
         f"""
         <div>Net Rtg</div>
         <span style="font-size:2rem;">{net_rating}</span>
-        <sup style="color:{net_rating_color}; font-size:1rem;">{net_rating_sup}</sup>
-        
+        <sup style="color:{net_rating_color}; font-size:1rem;">{net_rating_sup}</sup>        
         </div>
         """,
         unsafe_allow_html=True,
     )
 
-    # True Shooting Percentage (TS%)
+    #offensive Rating
     col3.markdown(
+        f"""
+        <div>Off Rtg</div>
+        <span style="font-size:2rem;">{off_rating}</span>
+        <sup style="color:{off_rating_color}; font-size:1rem;">{off_rating_sup}</sup>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    #Defensive Rating
+    col4.markdown(
+        f"""
+        <div>Def Rtg</div>
+        <span style="font-size:2rem;">{def_rating}</span>
+        <sup style="color:{def_rating_color}; font-size:1rem;">{def_rating_sup}</sup>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    
+    # True Shooting Percentage (TS%)
+    col6.markdown(
         f"""
         <div style="font-size:0.8rem; color:gray;">TS%</div>
         <span style="font-size:2rem;">{ts_pct}</span>
@@ -350,26 +482,28 @@ with container:
         """,
         unsafe_allow_html=True,
     )
+
+
     # ─────────────────────────────────────────────────────────────────────────────
     # Additional team-level KPIs
     # ─────────────────────────────────────────────────────────────────────────────
     
 
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3, col4 = st.columns([2,2,1,1])
     col1.markdown(
         f"""
-        <div>Pace</div>
-        <span style="font-size:2rem;">{win_loss_pct:.3}</span>
-        <sup style="color:{win_loss_pct_color}; font-size:1rem;">{win_loss_pct_sup}</sup>        
+        <div>Largest Victory</div>
+        <span style="font-size:2rem;">        
+        <span style="color:green">{largest_victory_pts} - {opp_points}</span> vs {largest_victory_opponent}</span>       
         </div>
         """,
         unsafe_allow_html=True,
     )
     col2.markdown(
         f"""
-        <div>PPG</div>
-        <span style="font-size:2rem;">{points_per_game}</span>
-        <sup style="color:{pts_color}; font-size:1rem;">{pts_sup}</sup>        
+        <div>Biggest Defeat</div>
+        <span style="font-size:2rem;">
+        <span style="color:red">{biggest_defeat_pts} - {def_opp_points}</span> vs {biggest_defeat_opponent}</span>                
         </div>
         """,
         unsafe_allow_html=True,
@@ -394,150 +528,208 @@ with container:
         unsafe_allow_html=True,
     )
 
+
+    col1, col2 = st.columns([1,1])
+    # 3) Efficiency benchmarks → Radar (Spider) chart
+    with col1:
+        # 1) Prepare labels & keys
+        labels = list(eff_benchmark_metrics.keys())
+        cols   = list(eff_benchmark_metrics.values())
+
+        # 2) Pull percentiles for this team and the median (0.5)
+        team_pct = [ league_percentile.loc[team_id, c] for c in cols ]
+        med_pct  = [ 0.5 for _ in cols ]
+
+        import plotly.graph_objects as go
+
+        fig = go.Figure()
+
+        # 3) League‐median trace
+        fig.add_trace(go.Scatterpolar(
+            r=med_pct,
+            theta=labels,
+            fill="toself",
+            name="League Median",
+            marker=dict(symbol="circle", size=6),
+            line=dict(color="gray", dash="dash")
+        ))
+
+        # 4) Team trace
+        fig.add_trace(go.Scatterpolar(
+            r=team_pct,
+            theta=labels,
+            fill="toself",
+            name=team_name,
+            marker=dict(symbol="circle", size=6),
+            line=dict(color="green")
+        ))
+
+        # 5) Layout & styling
+        fig.update_layout(
+            polar=dict(
+                bgcolor= "rgba(0,0,0,0)",
+                radialaxis=dict(
+                    gridcolor="gray",
+                    visible=True,
+                    range=[0, 1],
+                    tick0=0,
+                    dtick=0.25
+                )
+            ),
+            showlegend=True,
+            legend=dict(
+                orientation="h",
+                x=0.5,
+                xanchor="center",
+                y=1.1
+            ),
+            title=f"Efficiency Radar Chart for {team_name}",
+            margin=dict(t=40, b=20, l=20, r=20)
+        )
+
+        st.plotly_chart(fig, use_container_width=True)
     # ─────────────────────────────────────────────────────────────────────────────
     # PPG per Month chart
     # ─────────────────────────────────────────────────────────────────────────────
-    chart_col1, chart_col2, chart_col3 = st.columns([1,1,1])
+    chart_col1, chart_col2= st.columns([1,1])
 
     # 1) PPG per Month
     with chart_col1:
         if "pts" in df_team_metric.columns:
-            
-            st.subheader("PPG per Month")
-            df_chart = df_team_metric.copy()
-            df_chart["game_date"] = pd.to_datetime(df_chart["game_date"], errors="coerce")
+            # 1) Prepare the monthly PPG series
+            df = df_team_metric.copy()
+            df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
             pts_by_month = (
-                df_chart
-                .groupby(df_chart["game_date"].dt.month)["pts"]
+                df
+                .groupby(df["game_date"].dt.month)["pts"]
                 .mean()
                 .round(2)
             )
+            # preserve season order (Oct→Apr)
             order = (
-                df_chart
-                .groupby(df_chart["game_date"].dt.month)["game_date"]
+                df
+                .groupby(df["game_date"].dt.month)["game_date"]
                 .min()
                 .sort_values()
                 .index
             )
-            season_month_names = [months[m] for m in order]
+            month_names = [months[m] for m in order]
             pts_by_month = pts_by_month.reindex(order).rename(index=months).dropna()
 
-            pts_by_month.index = pd.CategoricalIndex(
-                pts_by_month.index,
-                categories=season_month_names,
-                ordered=True
+            # 2) Build a Plotly bar chart
+            import plotly.express as px
+
+            fig = px.bar(
+                x=month_names,
+                y=pts_by_month.values,
+                labels={"x": "Month", "y": "PPG"},
+                title="Points Per Game by Month"
             )
-            st.bar_chart(pts_by_month)
+
+            # 3) (Optional) add a horizontal line at the league median PPG
+            median_ppg = df_gen["pts"].median()
+            fig.add_hline(
+                y=median_ppg,
+                line_dash="dash",
+                line_color="gray",
+                annotation_text=f"League Median: {median_ppg:.1f}",
+                annotation_position="bottom right"
+            )
+
+            # 4) Final layout tweaks
+            fig.update_layout(
+                xaxis=dict(tickmode="array", tickvals=month_names, ticktext=month_names),
+                margin=dict(t=40, b=30, l=40, r=20)
+            )
+
+            st.plotly_chart(fig, use_container_width=True)
+
 
     # 2) Net Rating per Month
     with chart_col2:
         if "net_rating" in df_team_metric.columns:
-            st.subheader("Net Rating per Month")
-            df_chart = df_team_metric.copy()
-            df_chart["game_date"] = pd.to_datetime(df_chart["game_date"], errors="coerce")            
-            
-            nr_by_month = (
-                df_chart
-                .groupby(df_chart["game_date"].dt.month)["net_rating"]
+            # 1) Prepare the monthly average series
+            df = df_team_metric.copy()
+            df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
+            monthly = (
+                df
+                .groupby(df["game_date"].dt.month)["net_rating"]
                 .mean()
                 .round(2)
             )
+            # order by first appearance in the season
             order = (
-                df_chart 
-                .groupby(df_chart["game_date"].dt.month)["game_date"]
+                df
+                .groupby(df["game_date"].dt.month)["game_date"]
                 .min()
                 .sort_values()
                 .index
             )
-            season_month_names = [months[m] for m in order]
-            nr_by_month = nr_by_month.reindex(order).rename(index=months).dropna()
-
-            nr_by_month.index = pd.CategoricalIndex(
-                nr_by_month.index,
-                categories=season_month_names,
-                ordered=True
-            )
+            month_names = [months[m] for m in order]
+            monthly = monthly.reindex(order).rename(index=months).dropna()
+            # extract numeric x positions
+            x_vals = list(range(len(monthly)))
+            y_vals = monthly.values.tolist()
 
             league_med = league_median["net_rating"]
-             # Now plot with matplotlib
-            # Prepare x positions
-            vals = nr_by_month.values
-            x = np.arange(len(vals))
 
-            fig, ax = plt.subplots(figsize=(8, 7))
 
-            # Plot each segment in its own color
-            for i in range(len(vals) - 1):
-                seg_x = x[i : i + 2]
-                seg_y = vals[i : i + 2]
-                # decide color by the midpoint of the segment
-                seg_color = "tab:green" if seg_y.mean() >= league_med else "tab:red"
-                ax.plot(seg_x, seg_y, color=seg_color, linewidth=2)
+            fig = go.Figure()
 
-            # Plot markers also colored
-            marker_cols = ["tab:green" if v >= league_med else "tab:red" for v in vals]
-            ax.scatter(x, vals, color=marker_cols, s=20, zorder=3)
+            # 2) add below‐median segments
+            for i in range(len(x_vals) - 1):
+                seg_x = x_vals[i : i + 2]
+                seg_y = y_vals[i : i + 2]
+                color = "green" if sum(seg_y)/2 >= league_med else "red"
+                fig.add_trace(go.Scatter(
+                    x=seg_x, y=seg_y,
+                    mode="lines",
+                    line=dict(color=color, width=3),
+                    showlegend=False
+                ))
 
-            # Dashed league-median line
-            ax.axhline(league_med, color="gray", linestyle="--", label="League Median")
+            # 3) add markers for each month
+            marker_colors = [
+                "green" if y >= league_med else "red"
+                for y in y_vals
+            ]
+            fig.add_trace(go.Scatter(
+                x=x_vals, y=y_vals,
+                mode="markers",
+                marker=dict(color=marker_colors, size=3),
+                name=team_name
+            ))
 
-            # Decorations
-            ax.set_xticks(x)
-            ax.set_xticklabels(nr_by_month.index)
-            ax.set_ylim(min(vals.min(), league_med) * 0.9,
-                        max(vals.max(), league_med) * 1.1)
-            ax.set_xlabel("Month")
-            ax.set_ylabel("Net Rating")
-            ax.legend(loc="upper right")
+            # 4) add horizontal median line
+            fig.add_hline(
+                y=league_med,
+                line=dict(color="gray", dash="dash"),
+                annotation_text=f"Med: {league_med:.2f}",
+                annotation_position="bottom right"
+            )
 
-            # 4) Render it
-            st.pyplot(fig)
+            # 5) layout tweaks
+            fig.update_layout(
+                xaxis=dict(
+                    tickmode="array",
+                    tickvals=x_vals,
+                    ticktext=month_names,
+                    title="Month"
+                ),
+                yaxis_title="Net Rating",
+                title=f"Net Rating per Month for {team_name}",
+                margin=dict(t=40, b=30, l=40, r=20)
+            )
 
-    # 3) Clutch‐benchmarks
-        # 3) Clutch-benchmarks radar
-    # 3) Efficiency benchmarks → Radar (Spider) chart
-    with chart_col3:
-        st.subheader("Efficiency")
+            st.plotly_chart(fig, use_container_width=True)
 
-        # 1) Labels and column keys
-        labels = list(eff_benchmark_metrics.keys())
-        cols   = list(eff_benchmark_metrics.values())
 
-        # 2) Build angles (one per axis) and close the loop
-        angles = np.linspace(0, 2*np.pi, len(labels), endpoint=False).tolist()
-        angles += angles[:1]
-
-        # 3) Pull out percentile values (0–1) for team & median
-        team_pct = [ league_percentile.loc[team_id, c] for c in cols ]
-        med_pct  = [ 0.5 for _ in cols ]   # 50th percentile = league median
-        team_pct += team_pct[:1]
-        med_pct  += med_pct[:1]
-
-        # 4) Make the polar plot
-        fig, ax = plt.subplots(figsize=(8,8), subplot_kw=dict(polar=True))
-
-        # league‐median polygon (light fill)
-        ax.plot(angles, med_pct,    marker="o", label="League")
-        ax.fill(angles, med_pct,    alpha=0.10)
-
-        # team polygon (darker fill)
-        ax.plot(angles, team_pct,   marker="o", label=team_name)
-        ax.fill(angles, team_pct,   alpha=0.25)
-
-        # 5) Decorations
-        ax.set_xticks(angles[:-1])
-        ax.set_xticklabels(labels, fontsize=9)
-        ax.set_ylim(0, 1)  # percentiles span exactly 0–1
-        ax.legend(loc="upper right", bbox_to_anchor=(1.3, 1.1))
-
-        # 6) Render in Streamlit
-        st.pyplot(fig)
-
+    
 
     # ────────────────────────────────────────────────────────────────────────────
     # Advanced Stats KPIs
     # ────────────────────────────────────────────────────────────────────────────
-    c9, c10, c11, c12 = st.columns(4)
+    c9, c10, c11= st.columns([1,1,2])
 
     #Shooting Efficiency Group bar Chart containing eFG%, TS%, FT% and 3PT%
     with c9:
@@ -588,23 +780,110 @@ with container:
             orientation="v",
             barmode="group",
             labels={"team": "Team", "Percentage": "Efficiency"},
-            title="Shooting Efficiency Metrics"
+            title="Shooting Efficiency"
         )
 
-        # — 4) Add dashed vertical lines for league medians —
-        n = len(metrics)
+        # constants that Plotly uses under the hood for grouped bars
+        n = len(metrics)          # number of bars in the group
+        group_width = 0.8         # default fraction of the category “slot” occupied by the entire group
+        bar_width   = group_width / n
+
         for idx, m in enumerate(metrics):
+            # 1) compute the league median for this metric
             med = median_vals[m]
-            # band is [idx/n, (idx+1)/n] in paper‐coords
-            y0, y1 = idx/n, (idx+1)/n
+
+            # 2) compute the center of this bar in paper-coords
+            offset_frac = ((idx - (n-1)/2) / n) * group_width
+            center_frac = 0.5 + offset_frac
+
+            # 3) compute the left/right edges of this bar in paper-coords
+            x0 = center_frac - bar_width/2
+            x1 = center_frac + bar_width/2
+
+            # 4) draw a horizontal dashed line at y=med, only from x0→x1
             fig.add_shape(
                 type="line",
-                y0=med, y1=med,
-                xref="paper", x0=y0, x1=y1,
+                xref="paper", x0=x0, x1=x1,
+                yref="y",     y0=med, y1=med,
                 line=dict(color="gray", dash="dot")
             )
+        st.plotly_chart(fig, use_container_width=True)
+
+    # ────────────────────────────────────────────────────────────────────────────
+    # Rebounding and Hustle Stats KPIs
+    with c10:
+        df_team_gen_adv = df_team_gen_adv.merge(
+            df_gen[["team_id","blka", "blk", "stl"]],
+            on="team_id", how="left"
+        )
+        df_team_gen_adv["blk_pct"] = (df_team_gen_adv["blk"] / df_team_gen_adv["blka"]).fillna(0)
+        df_hustle = df_team_gen_adv[["team", "team_id", "dreb_pct", "oreb_pct", "stl", "blk_pct"]]
+        df_hustle = df_hustle.melt(
+            id_vars=["team", "team_id"],
+            value_vars=["dreb_pct", "oreb_pct", "stl", "blk_pct"],
+            var_name="Hustle Metric",
+            value_name="Percentage"
+        )
+
+        fig = px.bar(
+            df_hustle,
+            y="Percentage",
+            x="team",
+            color="Hustle Metric",
+            orientation="v",
+            barmode="group",
+            labels={"team": "Team", "Percentage": "Percentage"},
+            title="Rebounding and Hustle"
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    
+        #Win loss timeline line chart
+    with c11:
+        df = df_team_metric.copy()
+        df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
+        df = df.sort_values("game_date")
+
+        median_mov = df["plus_minus"].median()
+        fig = go.Figure()
+
+        # split above/below so you can color both line segments and markers
+        df["above"] = df["plus_minus"].where(df["plus_minus"] >= median_mov)
+        df["below"] = df["plus_minus"].where(df["plus_minus"] <  median_mov)
+        x = df["game_date"]
+
+        # below‐median (red)
+        fig.add_trace(go.Scatter(
+            x=x, y=df["below"],
+            mode="lines+markers",
+            line=dict(color="red", width=2),
+            marker=dict(size=6),
+            name="Below Median"
+        ))
+        # above‐median (green)
+        fig.add_trace(go.Scatter(
+            x=x, y=df["above"],
+            mode="lines+markers",
+            line=dict(color="green", width=2),
+            marker=dict(size=6),
+            name="Above Median"
+        ))
+
+        # horizontal median line
+        fig.add_hline(
+            y=median_mov,
+            line=dict(color="gray", dash="dash"),
+            annotation_text=f"med: {median_mov:.1f}",
+            annotation_position="bottom right"
+        )
+
+        fig.update_layout(
+            xaxis_title="Game Date",
+            yaxis_title="Margin of Victory",
+            legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
+            title= "Margin of Victory timeline"
+        )
 
         st.plotly_chart(fig, use_container_width=True)
-        
-    
-    
+
+
+
