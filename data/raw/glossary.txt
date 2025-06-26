@@ -1,0 +1,2546 @@
+%3PA
+Name
+Percent of Team's 3 Point Field Goals Attempted
+Definition
+The percentage of a team's 3 point field goals attempted that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%3PM
+Name
+Percent of Team's 3 Point Field Goals Made
+Definition
+The percentage of a team's 3 point field goals that a player has made while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%AST
+Name
+Percent of Team's Assists
+Definition
+The percentage of a team's assists that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchTrackingPlayer
+%BLK
+Name
+Percent of Team's Blocks
+Definition
+The percentage of a team's blocks that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchDefensivePlayer
+%BLKA
+Name
+Percent of Team's Blocked Field Goal Attempts
+Definition
+The percentage of a team's own blocked field goal attempts that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%DREB
+Name
+Percent of Team's Defensive Rebounds
+Definition
+The percentage of a team's defensive rebounds that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchDefensivePlayer
+%FGA
+Name
+Percent of Team's Field Goals Attempted
+Definition
+The percentage of a team's field goals attempted that a player has attempted while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%FGA 2PT
+Name
+Percent of Field Goals Attempted (2 Pointers)
+Definition
+The percentage of field goals attempted by a player or team that are 2 pointers
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%FGA 3PT
+Name
+Percent of Field Goals Attempted (3 Pointers)
+Definition
+The percentage of field goals attempted by a player or team that are 3 pointers
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%FGM
+Name
+Percent of Team's Field Goals Made
+Definition
+The percentage of a team's made field goals that a player has made while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%FTA
+Name
+Percent of Team's Free Throws Attempted
+Definition
+The percentage of a team's free throws attempted that a player has attempted while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%FTM
+Name
+Percent of Team's Free Throws Made
+Definition
+The percentage of a team's made free throws that a player has made while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%OREB
+Name
+Percent of Team's Offensive Rebounds
+Definition
+The percentage of a team's offensive rebounds that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%PF
+Name
+Percent of Team's Personal Fouls
+Definition
+The percentage of a team's personal fouls that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchTrackingPlayer
+%PFD
+Name
+Percent of Team's Personal Fouls Drawn
+Definition
+The percentage of a team's personal fouls drawn that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchTrackingPlayer
+%PTS
+Name
+Percent of Team's Points
+Definition
+The percentage of a team's points that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%PTS 2PT
+Name
+Percent of Points (2-Point Field Goals)
+Definition
+The percentage of points scored by a player or team that are from 2 point field goals
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS 2PT MR
+Name
+Percent of Points (2-Point Field Goals: Mid Range)
+Definition
+The percentage of points scored by a player or team that are that are from mid-range field goals (2 point field goals from outside the paint)
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS 3PT
+Name
+Percent of Points (3-Point Field Goals)
+Definition
+The percentage of points scored by a player or team that are from 3 point field goals
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS FBPS
+Name
+Percent of Points (Fast Break Points)
+Definition
+The percentage of points scored by a player or team that are from fast break opportunities
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS FT
+Name
+Percent of Points (Free Throws)
+Definition
+The percentage of points scored by a player or team that are from free throws
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS OFF TO
+Name
+Percent of Points (Off Turnovers)
+Definition
+The percentage of points scored by a player or team that are scored on the possession after forcing an opponent turnover
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%PTS PITP
+Name
+Percent of Points (Points in the Paint)
+Definition
+The percentage of points scored by a player or team that are scored in the paint
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+%STL
+Name
+Percent of Team's Steals
+Definition
+The percentage of a team's steals that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchPlayer
+%TOV
+Name
+Percent of Team's Turnovers
+Definition
+The percentage of a team's turnovers that a player has while on the court
+Type
+Usage
+Contexts
+UsageClutchTrackingPlayer
+2FG FREQ
+Name
+2 Point Field Goal Frequency
+Definition
+The percentage of opponent field goal attempts that fit the specified criteria
+Formula
+(2FGA)/(FGA)
+Type
+Shooting
+Contexts
+ShootingDefensive Dashboard
+2FG%
+Name
+2 Point Field Goal Percentage
+Definition
+The percentage of 2 point field goal attempts of a specified criteria that a player or team makes
+Formula
+(2FGM)/(2FGA)
+Type
+Shooting
+Contexts
+ShootingDefensive Dashboard
+2FGA
+Name
+2 Point Field Goals Attempted
+Definition
+The number of 2 point field goals that a player or team has attempted that fit the specified criteria
+Type
+Shooting
+Contexts
+ShootingDefensive Dashboard
+2FGM
+Name
+2 Point Field Goals Made
+Definition
+The number of 2 point field goals that a player or team has made that fit the specified criteria
+Type
+Shooting
+Contexts
+ShootingDefensive Dashboard
+2FGM %AST
+Name
+2 Pointers Made (Percent Assisted)
+Definition
+The percentage of 2 point field goals made that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutch
+2FGM %AST
+Name
+Percent of 2 Point Field Goals Made Assisted
+Definition
+The percentage of 2 point field goals made by a player or team that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+2FGM %UAST
+Name
+2 Pointers Made (Percent Unassisted)
+Definition
+The percentage of 2 point field goals made that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutch
+2FGM %UAST
+Name
+Percent of 2 Point Field Goals Made Unassisted
+Definition
+The percentage of 2 point field goals made by a player or team that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+2nd PTS
+Name
+Second Chance Points
+Definition
+The percentage of isolation plays where a player or team shoots free throws as the result of a shooting foul
+Type
+Misc
+Contexts
+MiscPlayerTeam
+3FG FREQ
+Name
+3 Point Field Goal Frequency
+Definition
+The percentage of opponent field goal attempts of the specified criteria that are 3 point attempts
+Formula
+(3FGA)/(FGA)
+Type
+Shooting
+Contexts
+ShootingDefensive Dashboard
+3FGM %AST
+Name
+Percent of 3 Point Field Goals Made Assisted
+Definition
+The percentage of 3 point field goals made by a player or team that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+3FGM %AST
+Name
+3 Pointers Made (Percent Assisted)
+Definition
+The percentage of 3 point field goals made that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutch
+3FGM %UAST
+Name
+Percent of 3 Point Field Goals Made Unassisted
+Definition
+The percentage of 3 point field goals made by a player or team that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+3FGM %UAST
+Name
+3 Pointers Made (Percent Unassisted)
+Definition
+The percentage of 3 point field goals made that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutch
+3P%
+Name
+3 Point Field Goal Percentage
+Definition
+The percentage of 3 point field goal attempts that a player makes
+Formula
+(3PM)/(3PA)
+Type
+Traditional
+Contexts
+Box ScoreClutchShootingDefensive DashboardPlayer
+3PA
+Name
+3 Point Field Goals Attempted
+Definition
+The number of 3 point field goals that a player or team has attempted
+Type
+Traditional
+Contexts
+Box ScoreClutchShootingDefensive DashboardPlayer
+3PM
+Name
+3 Point Field Goals Made
+Definition
+The number of 3 point field goals that a player or team has made
+Type
+Traditional
+Contexts
+Box ScoreClutchShootingDefensive DashboardPlayer
++/-
+Name
+Plus-Minus
+Definition
+The point differential when a player or team is on the floor
+Type
+Traditional
+Contexts
+PlayerClutchBox Score
+Adjusted DREB Chance %
+Name
+Adjusted Defensive Rebound Chance Percentage
+Definition
+Percentage of rebounds gathered when given a rebound chance on defense; excludes all deferred rebounds
+Formula
+(DREB)/(DREB Chances - Deferred DREB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Adjusted OREB Chance %
+Name
+Adjusted Offensive Rebound Chance Percentage
+Definition
+Percentage of rebounds gathered when given a rebound chance on offense; excludes all deferred rebounds
+Formula
+(OREB)/(OREB Chances - Deferred OREB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Adjusted REB Chance %
+Name
+Adjusted Rebound Chance Percentage
+Definition
+Percentage of rebounds gathered when given a rebound chance; excludes all deferred rebounds
+Formula
+(REB)/(REB Chances - Deferred REB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+And One Freq
+Name
+And One Frequency
+Definition
+The percentage of plays where a player or team makes a field goal while also being awarded a free throw attempt due to a shooting foul
+Type
+Play Type
+Contexts
+Play TypesPlayerTeam
+AST
+Name
+Assists
+Definition
+The number of assists -- passes that lead directly to a made basket -- by a player
+Type
+Traditional
+Contexts
+PlayerClutchPlay TypePassingBox Score
+AST ADJ
+Name
+Assists Adjusted
+Definition
+The total sum of a player or team's assists, free throw assists, and secondary assists
+Type
+Tracking
+Contexts
+PlayerPassing
+AST Per 100 Events
+Definition
+Assists by the player off that event type divided by the number of events for that player, multiplied by 100
+Type
+Tracking
+AST PTS Created
+Name
+Assist Points Created
+Definition
+Points created by a player or team through their assists
+Type
+Tracking
+Contexts
+PlayerPassing
+AST Ratio
+Name
+Assist Ratio
+Definition
+Assist Ratio is the number of assists a player averages per 100 possessions used
+Formula
+(AST * 100) / (POSS)
+Type
+Advanced
+Contexts
+PlayerClutchPassing
+AST to PASS%
+Name
+Assist to Pass Percentage
+Definition
+The percentage of passes by a player or team that are assists
+Formula
+(Assists)/(Passes Made)
+Type
+Tracking
+Contexts
+PlayerPassing
+AST to PASS% ADJ
+Name
+Assist to Pass Percentage Adjusted
+Definition
+The percentage of passes by a player or team that are assists, free throw assists, or secondary assists
+Formula
+(Adjusted Assists)/(Passes Made)
+Type
+Tracking
+Contexts
+PlayerPassing
+AST%
+Name
+Assist Percentage
+Definition
+The percentage of teammate field goals a player assisted on while they were on the floor
+Formula
+AST / (TmFGM - FGM)
+Type
+Advanced
+Contexts
+PlayerClutchTeamPassing
+AST/TO
+Name
+Assist to Turnover Ratio
+Definition
+The number of assists for a player or team compared to the number of turnovers they have committed
+Type
+Advanced
+Contexts
+AdvancedClutch
+AVG DREB Distance
+Name
+Average Defensive Rebound Distance
+Definition
+The average distance of a defensive rebound
+Type
+Rebounding
+Contexts
+TrackingPlayer
+AVG DRIB PER TOUCH
+Name
+Average Dribbles per Touch
+Definition
+The average number of dribbles a player or team takes per touch
+Type
+Tracking
+Contexts
+TrackingPlayer
+AVG OREB Distance
+Name
+Average Offensive Rebound Distance
+Definition
+The average distance of an offensive rebound
+Type
+Rebounding
+Contexts
+TrackingPlayer
+AVG REB Distance
+Name
+Average Rebound Distance
+Definition
+The average distance of a rebound
+Type
+Rebounding
+Contexts
+TrackingPlayer
+AVG SEC PER TOUCH
+Name
+Average Seconds per Touch
+Definition
+The average number of seconds per touch by a player or team
+Type
+Tracking
+Contexts
+TrackingPlayer
+Avg Speed
+Name
+Average Speed
+Definition
+The average speed in miles per hour of all movements (sprinting, jogging, standing, walking) by a player or team while on the court
+Type
+Tracking
+Contexts
+TrackingPlayer
+Avg Speed Def
+Name
+Average Speed Defense
+Definition
+The average speed in miles per hour of all movements (sprinting, jogging, standing, walking) by a player or team while on defense
+Type
+Tracking
+Contexts
+TrackingPlayer
+Avg Speed Off
+Name
+Average Speed Offense
+Definition
+The average speed in miles per hour of all movements (sprinting, jogging, standing, walking) by a player or team while on offense
+Type
+Tracking
+Contexts
+TrackingPlayer
+BLK
+Name
+Blocks
+Definition
+A block occurs when an offensive player attempts a shot, and the defense player tips the ball, blocking their chance to score
+Type
+Traditional
+Contexts
+PlayerClutchMiscTrackingDefensive DashboardBox Score
+BLKA
+Name
+Blocks Against
+Definition
+The number of shots attempted by a player or team that are blocked by a defender
+Type
+Traditional
+Contexts
+PlayerClutchMisc
+BLKA
+Name
+Opponent Blocks
+Definition
+Number of times an opponent has registered a block on the shot of a player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Body Fat %
+Name
+Body Fat Percentage
+Definition
+Body Fat Percentage
+Type
+Combine
+Contexts
+Anthro
+Boxouts
+Name
+Boxouts
+Definition
+The number of times a player made physical contact with an opponent who was actively pursuing a rebound, showed visible progress or strong effort in disadvantaging the opponent, and successfully prevented that opponent from securing the rebound
+Type
+Hustle
+Contexts
+PlayerTeamBox Score
+Catch Shoot FG%
+Name
+Catch Shoot Field Goal Percentage
+Definition
+The field goal percentage by a player or team on Catch and Shoot shots
+Type
+Tracking
+Contexts
+TrackingShooting
+Catch Shoot PTS
+Name
+Catch Shoot Points
+Definition
+The number of points scored by a player or team on Catch and Shoot shots
+Type
+Tracking
+Contexts
+TrackingShooting
+Charges Drawn
+Name
+Charges Drawn
+Definition
+The number of times a defensive player or team draws a charge
+Type
+Hustle
+Contexts
+Hustle
+Close Touch
+Definition
+Any touch where the player receives the ball within 5 feet of the basket
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+College Break Left
+Name
+College Break Left
+Definition
+A player takes five shots from the left break area of the court. The shot is from the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+College Break Right
+Name
+College Break Right
+Definition
+A player takes five shots from the right break area of the court. The shot is from the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+College Corner Left
+Name
+College Corner Left
+Definition
+A player takes five shots from the left corner area of the court. The shot is from the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+College Corner Right
+Name
+College Corner Right
+Definition
+A player takes five shots from the right corner area of the court. The shot is from the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+College Top Key
+Name
+College Top Key
+Definition
+A player takes five shots from the top of the key. The shot is from the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+Contested 2PT Shots
+Name
+Contested 2PT Shots
+Definition
+The number of times a defensive player or team closes out and raises a hand to contest a 2 point shot prior to its release
+Type
+Hustle
+Contexts
+Hustle
+Contested 3PT Shots
+Name
+Contested 3PT Shots
+Definition
+The number of times a defensive player or team closes out and raises a hand to contest a 3 point shot prior to its release
+Type
+Hustle
+Contexts
+Hustle
+Contested DREB
+Name
+Contested Defensive Rebounds
+Definition
+A defensive rebound where an opponent is within 3.5 feet of the rebounder
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested DREB%
+Name
+Contested Defensive Rebound Percentage
+Definition
+The percentage of defensive rebounds the player collects while an opponent is within 3.5 feet of the rebounder
+Formula
+(Contested DREB)/(DREB)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested OREB
+Name
+Contested Offensive Rebounds
+Definition
+An offensive rebound where an opponent is within 3.5 feet of the rebounder
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested OREB%
+Name
+Contested Offensive Rebound Percentage
+Definition
+The percentage of offensive rebounds the player collects while an opponent is within 3.5 feet of the rebounder
+Formula
+(Contested OREB)/(OREB)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested REB
+Name
+Contested Rebounds
+Definition
+A rebound where an opponent is within 3.5 feet of the rebounder
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested REB%
+Name
+Contested Rebound Percentage
+Definition
+The percentage of rebounds the player collects while an opponent is within 3.5 feet of the rebounder
+Formula
+(Contested REB)/(REB)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Contested Shot
+Definition
+Any shot where the closest defender is within 3.5 feet
+Type
+Tracking
+Contested Shots
+Name
+Contested Shots
+Definition
+The number of times a defensive player or team closes out and raises a hand to contest a shot prior to its release
+Type
+Hustle
+Contexts
+Hustle
+CFG%
+Name
+Contested Field Goals Percentage
+Definition
+The percentage of field goals the opposing players made while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+CFGA
+Name
+Contested Field Goals Attempted
+Definition
+The number of field goals the opposing players attempted while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+CFGM
+Name
+Contested Field Goals Made
+Definition
+The number of field goals the opposing players made while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+C3P%
+Name
+Contested Three Pointers Percentage
+Definition
+The percentage of three-point field goals the opposing players made while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+C3PA
+Name
+Contested Three Pointers Attempted
+Definition
+The number of three-point field goals the opposing players took while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+C3PM
+Name
+Contested Three Pointers Made
+Definition
+The number of three-point field goals the opposing players made while a defensive player was contesting
+Type
+Play Type
+Contexts
+Defensive Box Score
+DD2
+Name
+Double Doubles
+Definition
+The number of double-doubles (double-digit number total in two of the five categories in a game) a player achieves
+Type
+Traditional
+Contexts
+PlayerClutch
+DEF FLS
+Name
+Defensive Fouls
+Definition
+The number of non-shooting defensive fouls a defensive player committed while guarding a specific offensive player
+Type
+Play Type
+Contexts
+Defensive Box Score
+DEF MU%
+Name
+Defensive Matchup Percentage
+Definition
+The percentage of a defensive player’s overall possessions where they were guarding a specific offensive player
+Type
+Play Type
+Contexts
+Defensive Box Score
+DEF WS
+Name
+Defensive Win Shares
+Definition
+Share of wins a player contributes to their team from defense
+Type
+Defense
+Contexts
+DefensivePlayer
+Deferred DREB Chances
+Name
+Deferred Defensive Rebound Chances
+Definition
+The number of times that a player has a defensive rebound chance, but defers the rebound to a teammate
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Deferred OREB Chances
+Name
+Deferred Offensive Rebound Chances
+Definition
+The number of times that a player has an offensive rebound chance, but defers the rebound to a teammate
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Deferred REB Chances
+Name
+Deferred Rebounds Chances
+Definition
+The number of times that a player has a rebound chance, but defers the rebound to a teammate
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Deflections
+Name
+Deflections
+Definition
+The number of times a defensive player or team gets their hand on the ball on a non-shot attempt
+Type
+Hustle
+Contexts
+Hustle
+DEFRTG
+Name
+Defensive Rating
+Definition
+The number of points allowed per 100 possessions by a team. For a player, it is the number of points per 100 possessions that the team allows while that individual player is on the court
+Formula
+100*((Opp Points)/(Opp POSS))
+Type
+Advanced
+Contexts
+PlayerClutchDefensiveTeam
+DET FACTOR
+Name
+Deterrent Factor
+Definition
+The percentage of a player’s season average FGA output per Possession that he shot in a specific matchup
+Formula
+((Matchup FGA)/Matchup Possessions)/(Player’s Season Average FGA per Possession)
+Type
+Matchups
+Contexts
+TeamPlayer
+DFG%
+Name
+Defended Field Goal Percentage
+Definition
+The opponents field goal percentage on shots when the player is defending the shot
+Formula
+(DFGM)/(DFGA)
+Type
+Defense
+Contexts
+Defensive
+DFG%
+Name
+Field Goals Defended at Rim Percent
+Definition
+Percentage of field goal attempts the opponent makes while the player or team was defending the rim
+Formula
+(DFGM)/(DFGA)
+Type
+Tracking
+Contexts
+TrackingDefensivePlayer
+DFGA
+Name
+Field Goals Defended at Rim Attempted
+Definition
+Field goals attempted by the opponent while the player or team was defending the rim
+Type
+Tracking
+Contexts
+TrackingDefensivePlayer
+DFGA
+Name
+Defended Field Goals Attempted
+Definition
+The number of opponents shots attempted when a player or team is defending the shot
+Type
+Defense
+Contexts
+Defensive
+DFGM
+Name
+Field Goals Defended at Rim Made
+Definition
+Field goals made by the opponent while the player or team was defending the rim
+Type
+Tracking
+Contexts
+TrackingDefensivePlayer
+DFGM
+Name
+Defended Field Goals Made
+Definition
+The number of opponents shots when a player or team is defending the shot
+Type
+Defense
+Contexts
+Defensive
+DIFF%
+Name
+Percentage Points Difference
+Definition
+The difference between the normal percentage of a shooter on shots throughout the season and the percentage on shots when the defensive player or team is guarding the shooter. A good defensive number will be negative because the defensive player holds their opponent to a lower percentage than normal
+Formula
+FG% - DFG%
+Type
+Defense
+Contexts
+DefensivePlayer
+Dist. Feet
+Name
+Distance Feet
+Definition
+Distance run by a player or team measured in feet
+Type
+Tracking
+Contexts
+TrackingPlayer
+Dist. Miles
+Name
+Distance Miles
+Definition
+Distance run by a player or team measured in miles
+Formula
+(Dist. Feet)/5280
+Type
+Tracking
+Contexts
+TrackingPlayer
+Dist. Miles Def
+Name
+Distance Miles Defense
+Definition
+Miles run by a player or team while on defense
+Type
+Tracking
+Contexts
+TrackingPlayer
+Dist. Miles Off
+Name
+Distance Miles Offense
+Definition
+Miles run by a player or team while on offense
+Type
+Tracking
+Contexts
+TrackingPlayer
+DREB
+Name
+Defensive Rebounds
+Definition
+The number of rebounds a player or team has collected while they were on defense
+Type
+Traditional
+Contexts
+GeneralClutchTrackingBox Score
+DREB Chance%
+Name
+Defensive Rebounds Chance Percentage
+Definition
+The percentage of defensive rebounds a player recovers compared to the number of defensive rebounding chances
+Formula
+(DREB)/(DREB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+DREB Chances
+Name
+Defensive Rebound Chances
+Definition
+When on defense, a player has a defensive rebound chance if they are the closest player to the ball at any point in time between when the ball has crossed below the rim to when it is fully rebounded
+Type
+Rebounding
+Contexts
+TrackingPlayer
+DREB%
+Name
+Defensive Rebounding Percentage
+Definition
+The percentage of available defensive rebounds a player or team obtains while on the floor.
+Type
+Advanced
+Contexts
+PlayerClutchDefensiveReboundingTeam
+Drive FG%
+Name
+Drive Field Goal Percentage
+Definition
+The field goal percentage of a player or team on drives to the basket
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Drive PTS
+Name
+Drive Points
+Definition
+The number of points scored by a player or team on drives to the basket
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Drives
+Name
+Drives
+Definition
+When a player attacks the basket off the dribble in the halfcourt offense. Does not include situations where the player starts close to the basket, catches on the move, or immediately gets cut off on the perimeter
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+eFG%
+Name
+Effective Field Goal Percentage
+Definition
+Measures field goal percentage adjusting for made 3-point field goals being 1.5 times more valuable than made 2-point field goals.
+Formula
+((FGM + (0.5 * 3PM)) / FGA
+Type
+Traditional
+Contexts
+PlayerClutchAdvancedFour-FactorsPlay TypeShootingDefensive DashboardTrackingOpponent
+Elbow Touch
+Definition
+Any touch where the player receives the ball near the free throw line
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Elbow Touch FG%
+Name
+Elbow Touch FG%
+Definition
+The field goal percentage by a player or team on touches at the elbow
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Elbow Touch PTS
+Name
+Elbow Touch Points
+Definition
+The number of points scored by a player or team on touches at the elbow
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+FBPS
+Name
+Fast Break Points
+Definition
+The number of points scored by a player or team while on a fast break
+Type
+Misc
+Contexts
+MiscClutchPlayer
+FG%
+Name
+Field Goal Percentage
+Definition
+The percentage of field goal attempts that a player makes
+Formula
+(FGM)/(FGA)
+Type
+Traditional
+Contexts
+PlayerClutchAdvancedFour-FactorsPlay TypeShootingOpponent TrackingBox ScoreDefensive Dashboard
+FGA
+Name
+Field Goals Attempted
+Definition
+The number of field goals that a player or team has attempted. This includes both 2 pointers and 3 pointers
+Type
+Traditional
+Contexts
+PlayerClutchAdvancedFour-FactorsPlay TypeShootingOpponent TrackingBox ScoreDefensive Dashboard
+FGA Per 100 Events
+Definition
+Field Goal Attempts by the player off that event type divided by the number of events for that player, multiplied by 100
+Type
+Tracking
+FGM
+Name
+Field Goals Made
+Definition
+The number of field goals that a player or team has made. This includes both 2 pointers and 3 pointers
+Type
+Traditional
+Contexts
+PlayerClutchAdvancedFour-FactorsPlay TypeShootingOpponent TrackingBox ScoreDefensive Dashboard
+FGM %AST
+Name
+Field Goals Made (Assisted)
+Definition
+The percentage of field goals made that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayer
+FGM %AST
+Name
+Percent of Field Goals Made Assisted
+Definition
+The percentage of total field goals made by a player or team that are assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+FGM %UAST
+Name
+Percent of Field Goals Made Unassisted
+Definition
+The percentage of total field goals made by a player or team that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayerTeam
+FGM %UAST
+Name
+Field Goals Made (Unassisted)
+Definition
+The percentage of field goals made that are not assisted by a teammate
+Type
+Scoring
+Contexts
+ScoringClutchPlayer
+Fifteen Break Left
+Name
+Fifteen Break Left
+Definition
+A player takes five shots from the left break and 15 feet away from the basket
+Type
+Combine
+Contexts
+Combine
+Fifteen Break Right
+Name
+Fifteen Break Right
+Definition
+A player takes five shots from the right break and 15 feet away from the basket
+Type
+Combine
+Contexts
+Combine
+Fifteen Corner Left
+Name
+Fifteen Corner Left
+Definition
+A player takes five shots from the left baseline and 15 feet away from the basket
+Type
+Combine
+Contexts
+Combine
+Fifteen Corner Right
+Name
+Fifteen Corner Right
+Definition
+A player takes five shots from the right baseline and 15 feet away from the basket
+Type
+Combine
+Contexts
+Combine
+Fifteen Top Key
+Name
+Fifteen Top Key
+Definition
+A player takes five shots from the top of the key and 15 feet away from the basket
+Type
+Combine
+Contexts
+Combine
+FP
+Name
+Fantasy Points
+Definition
+The number of fantasy points a player accumulates
+Formula
+Pts: 1 Rebs: 1.2 Ast: 1.5 Stl: 3 Blocks: 3 TO: -1
+Type
+Traditional
+Contexts
+PlayerFantasy
+Freq
+Name
+Frequency
+Definition
+The number of events that occur that fit the specified criteria based on the number of events overall
+Type
+Play Type
+Contexts
+Play TypeDefensiveShootingOpponent ShootingPlayer
+FRONT CT TOUCHES
+Name
+Front Court Touches
+Definition
+The number of touches made by a player or team in the front court
+Type
+Tracking
+Contexts
+TrackingPlayer
+FT Assists
+Name
+Free Throw Assists
+Definition
+A player is awarded a free throw assist if they passed the ball to a player who drew a shooting foul within one dribble of receiving the pass
+Type
+Tracking
+Contexts
+TrackingPlayer
+FT Freq
+Name
+Free Throw Frequency
+Definition
+The percentage of plays where a player or team shoots free throws as the result of a foul
+Type
+Play Type
+Contexts
+Play TypePlayer
+FT%
+Name
+Free Throw Percentage
+Definition
+The percentage of free throw attempts that a player or team has made
+Formula
+(FTM)/(FTA)
+Type
+Traditional
+Contexts
+PlayerClutchTrackingBox Score
+FTA
+Name
+Free Throws Attempted
+Definition
+The number of free throws that a player or team has attempted
+Type
+Traditional
+Contexts
+PlayerClutchTrackingBox Score
+FTA RATE
+Name
+Free Throw Attempt Rate
+Definition
+The number of free throw attempts a team shoots in comparison to the number of field goal attempts that team shoots
+Formula
+(FTA)/(FGA)
+Type
+Four Factors
+Contexts
+Four Factors
+FTM
+Name
+Free Throws Made
+Definition
+The number of free throws that a player or team has made
+Type
+Traditional
+Contexts
+PlayerClutchTrackingBox Score
+G
+Name
+Games
+Definition
+The number of games a player or team played where a specified criteria occured
+Type
+Traditional
+GP
+Name
+Games Played
+Definition
+The number of games played
+Type
+Traditional
+Hand Length (inches)
+Name
+Hand Length (inches)
+Definition
+Length of the Prospect's hand in inches. The measurement is taken from the bottom of the player's palm to the tip of their middle finger
+Type
+Combine
+Contexts
+Anthro
+Hand Width (inches)
+Name
+Hand Width (inches)
+Definition
+Width of the Prospects hand in inches. The measurement is taken from the player's outstretched hand from the tip of the thumb to tip of the pinky finger
+Type
+Combine
+Contexts
+Anthro
+Height W/ Shoes
+Name
+Height with Shoes
+Definition
+Height of the player while wearing shoes
+Type
+Combine
+Contexts
+Anthro
+Height W/O Shoes
+Name
+Height without Shoes
+Definition
+Height of the player without wearing shoes
+Type
+Combine
+Contexts
+Anthro
+HELP BLK
+Name
+Helped Blocks
+Definition
+The number of blocks a defensive player recorded on a different defensive player than the one they were matched up with
+Type
+Play Type
+Contexts
+Defensive Box Score
+HELP BLK REC
+Name
+Helped Blocks Received
+Definition
+The number of times an offensive player’s shot was blocked by a different defensive player than the one they were matched up with
+Type
+Play Type
+Contexts
+Defensive Box Score
+L
+Name
+Losses
+Definition
+The number of games lost by a player or team
+Type
+Traditional
+Lane Agility Time (seconds)
+Name
+Lane Agility (seconds)
+Definition
+The time result of the drill that measures lateral quickness and the player's agility
+Type
+Combine
+Contexts
+Combine
+Loose Balls Recovered
+Name
+Loose Balls Recovered
+Definition
+The number of times a player or team gains sole possession of a live ball that is not in the control of either team
+Type
+Hustle
+Contexts
+Hustle
+Max Bench Press (repetitions)
+Name
+Max Bench Press (repetitions)
+Definition
+The number of bench press repetitions at 185 lbs
+Type
+Combine
+Contexts
+Combine
+Max Vertical Leap (inches)
+Name
+Max Vertical Leap (inches)
+Definition
+The vertical leap of a player with a few steps to start and gather their leap
+Type
+Combine
+Contexts
+Combine
+MIN
+Name
+Minutes Played
+Definition
+The number of minutes played by a player or team
+Type
+Traditional
+Contexts
+All
+NBA Break Left
+Name
+NBA Break Left
+Definition
+A player takes five shots from the left break area of the court. The shot is from the distance of an NBA three pointer (23 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+NBA Break Right
+Name
+NBA Break Right
+Definition
+A player takes five shots from the right break area of the court. The shot is from the distance of an NBA three pointer (23 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+NBA Corner Left
+Name
+NBA Corner Left
+Definition
+A player takes five shots from the left corner area of the court. The shot is from the distance of an NBA three pointer (23 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+NBA Corner Right
+Name
+NBA Corner Right
+Definition
+A player takes five shots from the right corner area of the court. The shot is from the distance of an NBA three pointer (23 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+NBA Top Key
+Name
+NBA Top Key
+Definition
+A player takes five shots from top of the key. The shot is from the distance of an NBA three pointer (23 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+NetRtg
+Name
+Net Rating
+Definition
+Measures a team's point differential per 100 possessions. On player level this statistic is the team's point differential per 100 possessions while they are on court.
+Formula
+OFFRTG - DEFRTG
+Type
+Advanced
+Contexts
+PlayerClutchTeam
+Off Dribble College Break Left
+Name
+Off Dribble College Break Left
+Definition
+A player takes six shots coming off the dribble from the left break area of the court. The shot is from about the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+Off Dribble College Break Right
+Name
+Off Dribble College Break Right
+Definition
+A player takes six shots coming off the dribble from the right break area of the court. The shot is from about the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+Off Dribble College Top Key
+Name
+Off Dribble College Top Key
+Definition
+A player takes six shots coming off the dribble from the top of the key. The shot is from about the distance of a college three pointer (20 ft. 9 in.)
+Type
+Combine
+Contexts
+Combine
+Off Dribble Fifteen Break Left
+Name
+Off Dribble Fifteen Break Left
+Definition
+A player takes six shots coming off the dribble from 15 feet away from the basket on the left break area of the court
+Type
+Combine
+Contexts
+Combine
+Off Dribble Fifteen Break Right
+Name
+Off Dribble FIfteen Break Right
+Definition
+A player takes six shots coming off the dribble from 15 feet away from the basket on the right break area of the court
+Type
+Combine
+Contexts
+Combine
+Off Dribble Fifteen Top Key
+Name
+Off Dribble Fifteen Top Key
+Definition
+A player takes six shots coming off the dribble from 15 feet out at the top of the key
+Type
+Combine
+Contexts
+Combine
+OFF FLS
+Name
+Offensive Fouls
+Definition
+The number of offensive fouls an offensive player committed while being guarded by a specific defensive player
+Type
+Play Type
+Contexts
+Defensive Box Score
+OFF MU%
+Name
+Offensive Matchup Percentage
+Definition
+The percentage of an offensive player’s overall possessions where they were guarded by a specific defensive player
+Type
+Play Type
+Contexts
+Defensive Box Score
+OffRtg
+Name
+Offensive Rating
+Definition
+Measures a team's points scored per 100 possessions. On a player level this statistic is team points scored per 100 possessions while they are on court
+Formula
+100*((Points)/(POSS)
+Type
+Advanced
+Contexts
+PlayerClutchTeam
+On The Move College
+Name
+On The Move College
+Definition
+35 seconds to attempt as many shots as time allows from college 3-pt range (20 ft. 9 in.) while moving between spots (corners and elbows from both sides)
+Type
+Combine
+Contexts
+Combine
+On The Move Fifteen
+Name
+On The Move Fifteen
+Definition
+35 seconds to attempt as many shots as time allows from 15 feet while moving between spots (corners and elbows from both sides)
+Type
+Combine
+Contexts
+Combine
+OPP 2nd PTS
+Name
+Opponent Second Chance Points
+Definition
+The number of points an opposing player or team scores on a possession when the opposing team rebounds the ball on offense
+Type
+Misc
+Contexts
+MiscPlayerTeam
+OPP 2ND PTS
+Name
+Opponent 2nd Chance Points
+Definition
+The number of points an opposing player or team scores on possessions where the opposing team rebounds the ball on offense
+Type
+Misc
+Contexts
+MiscClutchTeam
+Opp 3P%
+Name
+Opponent Three Point Percentage
+Definition
+The percentage of 3 point attempts that are made by an opponent
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp 3PA
+Name
+Opponent Three Point Attempted
+Definition
+The number of 3 point field goals attempted by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp 3PM
+Name
+Opponent Three Point Made
+Definition
+The number of 3 point field goals made by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp AST
+Name
+Opponent Assists
+Definition
+Number of times an opponent has registered an assist
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+OPP BLK
+Name
+Opponent Blocked Shots
+Definition
+Number of times an opponent has registered a block on the shot of a player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp BLKA
+Name
+Opponent Blocks Against
+Definition
+An opponent's number of shot attempts that are blocked
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp DREB
+Name
+Opponent Defensive Rebounds
+Definition
+An opponent's number of defensive rebounds collected
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp EFG%
+Name
+Opponent Effective Field Goal Percentage
+Definition
+An opponent's field goal percentage that is adjusted for made 3 pointers being 1.5 times more valuable than a 2 point shot
+Formula
+((FGM + (0.5 * 3PM))/FGA
+Type
+Four Factors
+Contexts
+Four FactorsTeam
+OPP FBPs
+Name
+Opponent Fast Break Points
+Definition
+The number of points scored by an opposing player or team while on a fast break
+Type
+Misc
+Contexts
+MiscTeam
+Opp FG%
+Name
+Opponent Field Goal Percentage
+Definition
+The percentage of field goal attempts that are made by an opponent
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp FGA
+Name
+Opponent Field Goals Attempted
+Definition
+An opponent's number of field goals attempted
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp FGM
+Name
+Opponent Field Goals Made
+Definition
+An opponent's number of field goals made
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp FT%
+Name
+Opponent Free Throw Percentage
+Definition
+The percentage of free throw attempts that are made by an opponent
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp FTA
+Name
+Opponent Free Throw Attempted
+Definition
+An opponent's number of free throws attempted
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp FTA Rate
+Name
+Opponent Free Throw Attempt Rate
+Definition
+The number of free throw attempts a player or team allows in comparison to the number of shot attempts that player or team allows
+Formula
+(Opp FTA)/(Opp FGA)
+Type
+Four Factors
+Contexts
+Four FactorsTeam
+Opp FTM
+Name
+Opponent Free Throw Made
+Definition
+An opponent's number of free throws made
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp OREB
+Name
+Opponent Offensive Rebounds
+Definition
+The number of offensive rebounds obtained by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+OPP OREB%
+Name
+Opponent Offensive Rebounding Percentage
+Definition
+The percentage of available offensive rebounds an opponent obtains while a specific player is on the court
+Type
+Four Factors
+Contexts
+Four FactorsTeam
+Opp PF
+Name
+Opponent Personal Fouls
+Definition
+The number of personal fouls committed by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp PFD
+Name
+Opponent Personal Fouls Drawn
+Definition
+The number of personal fouls drawn by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+OPP PITP
+Name
+Opponent Points in the Paint
+Definition
+The number of points scored by an opposing player or team in the paint
+Type
+Misc
+Contexts
+MiscPlayerTeam
+Opp PTS
+Name
+Opponent Points
+Definition
+The number of points scored by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+OPP PTS OFF TO
+Name
+Opponent Points off Turnovers
+Definition
+The number of points scored by an opposing player or team following a turnover
+Type
+Misc
+Contexts
+MiscPlayerTeam
+Opp REB
+Name
+Opponent Total Rebounds
+Definition
+The number of total rebounds obtained by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp STL
+Name
+Opponent Steals
+Definition
+The number of steals obtained by an opposing player or team
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+Opp TOV
+Name
+Opponent Turnovers
+Definition
+The number of times an opponent on offense loses the ball to the defense
+Type
+Opponent
+Contexts
+OpponentPlayerTeam
+OPP TOV%
+Name
+Opponent Turnover Percentage
+Definition
+The number of turnovers an opponent averages per 100 of their own possessions
+Type
+Four Factors
+Contexts
+Four FactorsTeam
+OREB
+Name
+Offensive Rebounds
+Definition
+The number of rebounds a player or team has collected while they were on offense
+Type
+Traditional
+Contexts
+PlayerClutchTeamTrackingBox Score
+OREB Chance%
+Name
+Offensive Rebound Chance Percentage
+Definition
+The percentage of offensive rebounds a player or team recovers compared to the number of offensive rebounding chances
+Formula
+(OREB)/(OREB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+OREB Chances
+Name
+Offensive Rebound Chances
+Definition
+When on offense, a player has a offensive rebound chance if they are the closest player to the ball at any point in time between when the ball has crossed below the rim to when it is fully rebounded
+Type
+Rebounding
+Contexts
+TrackingPlayer
+OREB%
+Name
+Offensive Rebounding Percentage
+Definition
+The percentage of available offensive rebounds a player or team obtains while on the floor
+Type
+Advanced
+Contexts
+PlayerFour FactorsClutch TeamTracking
+PACE
+Name
+Pace
+Definition
+The number of possessions per 48 minutes for a team or player.
+Type
+Advanced
+Contexts
+PlayerTeam
+Paint Touch
+Definition
+Any touch were the player receives the ball inside the 3-second lane
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Paint Touch FG%
+Name
+Paint Touch Field Goal Percentage
+Definition
+The field goal percentage by a player or team on touches in the paint
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Paint Touch PTS
+Name
+Paint Touch Points
+Definition
+The number of points scored by a player or team on touches in the paint
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+PASS
+Name
+Passes
+Definition
+The number of passes made to or received from the given player or team
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+PASS%
+Name
+Pass Percentage
+Definition
+Percentage of times a player passes
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+Passes Made
+Name
+Passes Made
+Definition
+The number of total passes made by a player or team per game
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+Passes Received
+Name
+Passes Received
+Definition
+The number of total passes received by a player or team per game
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+PASS Per 100 Events
+Definition
+Passes by the player off that event type divided by the number of events for that player, multiplied by 100
+Type
+Tracking
+Percentile
+Name
+Percentile
+Definition
+A player or team's points per possession ranked against the rest of the league. The percentage value is the percent of eligible players with an inferior points per possession than the selected player or team. *10 Possession minimum
+Type
+Play Type
+Contexts
+Play TypePlayer
+PF
+Name
+Personal Fouls
+Definition
+The number of personal fouls a player or team committed
+Type
+Traditional
+Contexts
+PlayerTeamClutch MiscTrackingBox Score
+PFD
+Name
+Personal Fouls Drawn
+Definition
+The number of personal fouls that are drawn by a player or team
+Type
+Traditional
+Contexts
+PlayerTeamClutch Misc
+PIE
+Name
+Player Impact Estimate
+Definition
+PIE measures a player's overall statistical contribution against the total statistics in games they play in. PIE yields results which are comparable to other advanced statistics (e.g. PER) using a simple formula.
+Formula
+(PTS + FGM + FTM - FGA - FTA + DREB + (.5 * OREB) + AST + STL + (.5 * BLK) - PF - TO) / (GmPTS + GmFGM + GmFTM - GmFGA - GmFTA + GmDREB + (.5 * GmOREB) + GmAST + GmSTL + (.5 * GmBLK) - GmPF - GmTO)
+Type
+Advanced
+Contexts
+PlayerClutch
+PITP
+Name
+Points In The Paint
+Definition
+The number of points scored by a player or team in the paint
+Type
+Misc
+Contexts
+MiscClutchPlayerTeam
+Player Points per 100 Events
+Definition
+Points scored by the player off that event type divided by the number of events for that player, multiplied by 100
+Type
+Tracking
+Player PTS DIFF
+Name
+Player Points Difference
+Definition
+An offensive player’s Points per 100 Possessions in a specific matchup compared to their season average Points per 100 Possessions.
+Formula
+100*(Matchup Player Points/Matchup Possessions) – Player’s Season Average Points per 100 Possessions
+Type
+Matchups
+Contexts
+GamePlayerTeam
+Poss
+Name
+Possessions
+Definition
+The number of possessions played by a player or team. Please note: an Offensive Rebound does not create another possession, it simply makes the existing possession longer.
+Type
+Play Type
+Contexts
+Play TypePlayerTeam
+Post Touch FG%
+Name
+Post Touch Field Goal Percentage
+Definition
+The field goal percentage by a player or team on touches in the post
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Post Touch PTS
+Name
+Post Touch Points
+Definition
+The number of points scored by a player or team on touches in the post
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Post Touches
+Name
+Post Touches
+Definition
+The number of touches made by a player or team in the post
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+Potential AST
+Name
+Potential Assists
+Definition
+Any pass to a teammate who shoots within 1 dribble of receiving the ball
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+PPP
+Name
+Points Per Possession
+Definition
+The number of points a player or team scores per possession
+Type
+Play Type
+Contexts
+Play TypePlayerTeam
+PTS
+Name
+Points
+Definition
+The number of points scored
+Type
+Traditional
+Contexts
+PlayerClutchPlay TypeScoringBox ScoreDefensiveOpponent Tracking
+PTS OFF TO
+Name
+Points off Turnovers
+Definition
+The number of points scored by a player or team following an opponent's turnover
+Type
+Misc
+Contexts
+MiscClutchPlayerTeam
+PTS PER ELBOW TOUCH
+Name
+Points per Elbow Touch
+Definition
+The number of points scored by a player or team per elbow touch
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+PTS PER PAINT TOUCH
+Name
+Points per Paint Touch
+Definition
+The number of points scored by a player or team per paint touch
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+PTS PER POST TOUCH
+Name
+Points per Post Touch
+Definition
+The number of points scored by a player or team per post touch
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+PTS PER TOUCH
+Name
+Points per Touch
+Definition
+The number of points scored by a player or team per touch
+Type
+Tracking
+Contexts
+TrackingPlayerPlay Type
+PTS%
+Name
+Points Percentage
+Definition
+Percentage of points scored
+Type
+Tracking
+Contexts
+TrackingPlayer
+Pull Up FG%
+Name
+Pull Up Field Goal Percentage
+Definition
+The field goal percentage by a player or team on Pull Up shots
+Type
+Tracking
+Contexts
+TrackingPlayerShooting
+Pull Up PTS
+Name
+Pull Up Points
+Definition
+The number of points scored by a player or team on Pull Up shots
+Type
+Tracking
+Contexts
+TrackingPlayerShooting
+REB
+Name
+Rebounds
+Definition
+A rebound occurs when a player recovers the ball after a missed shot. This statistic is the number of total rebounds a player or team has collected on either offense or defense
+Type
+Traditional
+Contexts
+PlayerClutchTrackingTeamReboundingBox Score
+REB Chance%
+Name
+Rebound Chance Percentage
+Definition
+The percentage of rebounds a player or team recovers compared to the number of rebounding chances
+Formula
+(REB)/(REB Chances)
+Type
+Rebounding
+Contexts
+TrackingPlayer
+REB Chances
+Name
+Rebound Chances
+Definition
+A player has a rebound chance if they are the closest player to the ball at any point in time between when the ball has crossed below the rim to when it is fully rebounded
+Type
+Rebounding
+Contexts
+TrackingPlayer
+REB%
+Name
+Rebounding Percentage
+Definition
+The percentage of available rebounds a player or team grabbed while on the floor
+Type
+Advanced
+Contexts
+PlayerClutchTeamRebounding
+SAST
+Name
+Screen Assists
+Definition
+The number of times an offensive player or team sets a screen for a teammate that directly leads to a made field goal by that teammate
+Type
+Hustle
+Contexts
+Hustle
+Score Freq
+Name
+Score Frequency
+Definition
+The percentage of plays where a player or team scores at least 1 point
+Type
+Play Type
+Contexts
+Play TypePlayer
+Secondary Assist
+Name
+Secondary Assist
+Definition
+A player is awarded a secondary assist if they passed the ball to a player who recorded an assist within 1 second and without dribbling
+Type
+Tracking
+Contexts
+TrackingPlayerPassing
+Shot At Rim
+Definition
+Any shot with distance within 5 feet of the basket
+Type
+Tracking
+SF Freq
+Name
+Shooting Foul Frequency
+Definition
+The percentage of plays where a player or team shoots free throws as the result of a shooting foul
+Type
+Play Type
+Contexts
+Play TypePlayer
+SFL
+Name
+Shooting Fouls
+Definition
+The number of shooting fouls a defensive player committed against their matchups
+Type
+Play Type
+Contexts
+Defensive Box Score
+SFL Per 100 Events
+Definition
+Shooting Fouls Drawn by the player off that event type divided by the number of events for that player, multiplied by 100
+Type
+Tracking
+Shuttle Run (seconds)
+Name
+Shuttle Run (seconds)
+Definition
+The time result of the drill that measures a player's agility and ability to change directions
+Type
+Combine
+Contexts
+Combine
+Standing Reach
+Name
+Standing Reach
+Definition
+The reach of the player while standing still. The player reaches straight up to their highest point
+Type
+Combine
+Contexts
+Anthro
+Standing Vertical Leap (inches)
+Name
+Standing Vertical Leap (inches)
+Definition
+The vertical leap of a player with no running start
+Type
+Combine
+Contexts
+Anthro
+STL
+Name
+Steals
+Definition
+Number of times a defensive player or team takes the ball from a player on offense, causing a turnover
+Type
+Traditional
+Contexts
+PlayerClutchDefensiveTrackingTeamBox Score
+STL%
+Name
+Steals Percentage
+Definition
+The percentage of a team's steals that a player has while on the court
+Type
+Defense
+Contexts
+DefensivePlayer
+Team PTS DIFF
+Name
+Team Points Difference
+Definition
+An offensive player’s Team Points per 100 Possessions in a specific matchup compared to their season average Points per 100 Possessions.
+Formula
+100*(Matchup Team Points/Matchup Possessions) – Team’s Season Average Points per 100 Possessions
+Type
+Matchups
+Contexts
+GamePlayerTeam
+Team Pts Per 100 Possessions
+Name
+Team Points Per 100 Possessions (on an event)
+Definition
+Points scored by the team on possessions where there is an event for that player, divided by the number of unique possessions where there is an event for that player, multiplied by 100
+Type
+Tracking
+TD3
+Name
+Triple Doubles
+Definition
+The number of triple-doubles (double-digit number total in three of the five categories in a game) a player achieves
+Type
+Traditional
+Contexts
+Player
+Three Quarter Sprint (seconds)
+Name
+Three Quarter Sprint (seconds)
+Definition
+The time result of the drill where a player is timed in a sprint from the baseline to 3/4th the length of the court
+Type
+Combine
+Contexts
+Combine
+TIME OF POSS
+Name
+Time of Possession
+Definition
+The number of minutes that a player or team possesses the ball
+Type
+Tracking
+Contexts
+TrackingPlayerTeam
+TO Freq
+Name
+Turnover Frequency
+Definition
+The percentage of plays where a player or team commits a turnover
+Type
+Play Type
+Contexts
+Play TypePlayer
+TO Ratio
+Name
+Turnover Ratio
+Definition
+The number of turnovers a player or team averages per 100 possessions used
+Formula
+(TO * 100) / (POSS)
+Type
+Advanced
+Contexts
+PlayerClutch
+Touches
+Name
+Touches
+Definition
+The number of times a player or team touches and posseses the ball during the game
+Type
+Tracking
+Contexts
+TrackingPlayerTeam
+TOV
+Name
+Turnovers
+Definition
+A turnover occurs when the player or team on offense loses the ball to the defense
+Type
+Traditional
+Contexts
+PlayerClutchTrackingTeamBox Score
+TOV%
+Name
+Turnover Percentage
+Definition
+Percentage of plays that end in a player or team's turnover
+Type
+Advanced
+Contexts
+PlayerFour FactorsClutch
+Tracking eFG%
+Definition
+Effective Field Goal Percentage on shots off that event type
+Type
+Tracking
+Tracking Player Points
+Definition
+Points scored by the player off that event type
+Type
+Tracking
+TS%
+Name
+True Shooting Percentage
+Definition
+A shooting percentage that factors in the value of three-point field goals and free throws in addition to conventional two-point field goals
+Formula
+Points/ [2*(Field Goals Attempted+0.44*Free Throws Attempted)]
+Type
+Advanced
+Contexts
+PlayerClutch
+Uncontested DREB
+Name
+Uncontested Defensive Rebounds
+Definition
+The number of defensive rebounds gathered by a player or team while no opponent is within 3.5 feet
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Uncontested OREB
+Name
+Uncontested Offensive Rebounds
+Definition
+The number of offensive rebounds gathered by a player or team while no opponent is within 3.5 feet
+Type
+Rebounding
+Contexts
+TrackingPlayer
+Uncontested REB
+Name
+Uncontested Rebounds
+Definition
+The number of rebounds gathered by a player or team while no opponent is within 3.5 feet
+Type
+Rebounding
+Contexts
+TrackingPlayer
+USG%
+Name
+Usage Percentage
+Definition
+The percentage of team plays used by a player when they are on the floor
+Formula
+(FGA + Possession Ending FTA + TO) / POSS
+Type
+Advanced
+Contexts
+PlayerClutchUsage
+W
+Name
+Wins
+Definition
+The number of games won by a player or team
+Type
+Traditional
+Win%
+Name
+Win Percentage
+Definition
+The percentage of games played that a player or team has won
+Formula
+(W)/(GP)
+Type
+Traditional
+Contexts
+TeamClutchFour Factors
+Wingspan
+Name
+Wingspan
+Definition
+The player stretches their arms horizontally and a measure is made from the tip of their left hand to the tip of their right hand
+Type
+Combine
+Contexts
+Anthro

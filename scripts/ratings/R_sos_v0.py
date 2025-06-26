@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-build_schedule_features_v0.py
+r_sos_v0.py
 ─────────────────────────────
 Outputs, for every season S in data/processed/schedule/<S>/ :
 
@@ -16,6 +16,7 @@ team_rcp            previous-season road court performance (pts)
 win_pct             team win%
 opp_win_pct         mean win% of this season’s opponents
 opp_opp_win_pct     mean win% of opponents’ opponents
+sos_v0              previous-season strength of schedule (pts)
 
 Notes
 • HCA for the *first* season in your scrape falls back to the league-wide
@@ -29,8 +30,8 @@ import pandas as pd
 # ── paths ────────────────────────────────────────────────────────────────
 ROOT      = Path("data/processed/schedule")        # raw schedules by season
 OUT_BASE  = Path("data/processed/feature_store/r_schedule_feats_v0")
-HCA_FALLBACK = 3.0                                 # first season default
-RCP_FALLBACK = -3.0                                 # first season default
+DEFAULT_HCA = 3.0                                 # first season default
+DEFAULT_RCP = -3.0                                 # first season default
 
 # ── helpers ───────────────────────────────────────────────────────────────
 def team_hca(season_path: Path) -> pd.Series:
@@ -63,11 +64,11 @@ def load_games(season_path: Path, hca_prev: pd.Series, rcp_prev: pd.Series) -> p
     df["win_flag"] = (df["wl"].str.upper() == "W").astype("int8")
 
     # map per-team HCA, fallback to league mean, then to constant
-    league_hca = hca_prev.mean() if len(hca_prev) else HCA_FALLBACK
+    league_hca = hca_prev.mean() if len(hca_prev) else DEFAULT_HCA
     df["hca_team"] = df["team_id"].map(hca_prev).fillna(league_hca)
 
     # map per-team RCP, fallback to league mean
-    league_rcp = rcp_prev.mean() if len(rcp_prev) else RCP_FALLBACK
+    league_rcp = rcp_prev.mean() if len(rcp_prev) else DEFAULT_RCP
     df["rcp_team"] = df["team_id"].map(rcp_prev).fillna(league_rcp)
 
     # mov_adj = margin of victory adjusted for symmetric home-court

@@ -1,165 +1,136 @@
 #!/usr/bin/env python3
 """
-build_schedule_features_v0.py
-─────────────────────────────
-Outputs, for every season S in data/processed/schedule/<S>/ :
+r_sos_v1.py  • V1 SRS & scaled SOS (0 = easiest, 1 = hardest)
+------------------------------------------------------------------
+Reads raw schedule CSVs to compute:
+  • srs_v1      (pts, centered ⟨SRS⟩=0)
+  • sos_v1_raw  (mean opponent SRS, pts)
+  • sos_v1      (min-max scaled [0,1])
 
-    data/processed/feature_store/r_schedule_feats_v0/<S>/schedule_feats.csv
-
-columns
---------
-season              "2024-25"
-team_abbr           e.g. ATL
-team_id             1610612737
-team_hca            previous-season home-court advantage (pts)
-team_rcp            previous-season road court performance (pts)
-win_pct             team win%
-opp_win_pct         mean win% of this season’s opponents
-opp_opp_win_pct     mean win% of opponents’ opponents
-
-Notes
-• HCA for the *first* season in your scrape falls back to the league-wide
-  constant (3.0 pts).
-• Neutral-site games (team ≠ home_team) contribute 0 to team HCA.
+Outputs per-season:
+  data/processed/feature_store/srs_v1/<SEASON>/srs_sos_v1.csv
+Columns: season, team, team_id, srs_v1, sos_v1_raw, sos_v1
 """
-
 from pathlib import Path
 import pandas as pd
+import numpy as np
 
-# ── paths ────────────────────────────────────────────────────────────────
-ROOT      = Path("data/processed/schedule")        # raw schedules by season
-OUT_BASE  = Path("data/processed/feature_store/r_schedule_feats_v0")
-HCA_FALLBACK = 3.0                                 # first season default
-RCP_FALLBACK = -3.0                                 # first season default
+# ── CONFIG ───────────────────────────────────────────────────────────────
+ROOT = Path("data/processed/schedule")             # e.g. .../2024-25
+OUT_BASE   = Path("data/processed/feature_store/srs_v1")
+DEFAULT_HCA = 3.0                                        # first season default
+TOL         = 1e-3
+MAX_ITERS   = 500
 
-# ── helpers ───────────────────────────────────────────────────────────────
-def team_hca(season_path: Path) -> pd.Series:
-    """Per-team HCA (pts) from *that* season’s home games."""
-    df   = pd.read_csv(season_path / "league_regular_season_schedule.csv")
+# ── HELPERS ──────────────────────────────────────────────────────────────
+def estimate_league_hca(prev_path: Path) -> float:
+    """League‐wide HCA = mean(home MOV) in last season."""
+    df   = pd.read_csv(prev_path / "league_regular_season_schedule.csv")
     home = df[df["team"] == df["home_team"]]
-    hca  = (home["pf"] - home["opp_pf"]).groupby(home["team_id"]).mean()
-    return hca          # index: team_id, values: float pts
+    hca = (home["pf"] - home["opp_pf"]).mean()
+    return hca
 
-def team_rcp(season_path: Path) -> pd.Series:
-    """Per-team road court performance (pts) from *that* season’s away games."""
-    df   = pd.read_csv(season_path / "league_regular_season_schedule.csv")
-    away = df[df["team"] == df["away_team"]]
-    rcp  = (away["pf"] - away["opp_pf"]).groupby(away["team_id"]).mean()
-    return rcp          # index: team_id, values: float pts
 
-def load_games(season_path: Path, hca_prev: pd.Series, rcp_prev: pd.Series) -> pd.DataFrame:
-    """Return one DataFrame with mov_adj, win_flag, etc. for the season."""
+
+
+def load_games(season_path: Path, hca_prev: float) -> pd.DataFrame:
+    """Load schedule, cast IDs, derive symmetric neutral_mov."""
     df = pd.read_csv(season_path / "league_regular_season_schedule.csv")
-    df["season"] = season_path.name                       # e.g. 2024-25
-
-    
-
-    ints = ["team_id", "opponent_id", "pf", "opp_pf"]
-    df[ints] = df[ints].apply(pd.to_numeric, downcast="integer")
-    df[["team_id", "opponent_id"]] = df[["team_id", "opponent_id"]].astype("int64")
-
-    df["is_away"] = (df["team"] == df["away_team"]).astype("int8")
-    df["is_home"]  = (df["team"] == df["home_team"]).astype("int8")
-    df["win_flag"] = (df["wl"].str.upper() == "W").astype("int8")
-
-    # map per-team HCA, fallback to league mean, then to constant
-    league_hca = hca_prev.mean() if len(hca_prev) else HCA_FALLBACK
-    df["hca_team"] = df["team_id"].map(hca_prev).fillna(league_hca)
-
-    # map per-team RCP, fallback to league mean
-    league_rcp = rcp_prev.mean() if len(rcp_prev) else RCP_FALLBACK
-    df["rcp_team"] = df["team_id"].map(rcp_prev).fillna(league_rcp)
-
-    # mov_adj = margin of victory adjusted for symmetric home-court
-    df["mov_adj"] = (
-        df["pf"] - df["opp_pf"] -
-        df["hca_team"] * (2 * df["is_home"] - 1)
+    # ensure numeric IDs & scores
+    df[["team_id","opponent_id","pf","opp_pf"]] = (
+        df[["team_id","opponent_id","pf","opp_pf"]]
+        .apply(pd.to_numeric, downcast="integer")
     )
-
-    #mov_adj_away = margin of victory adjusted for away games
-    df["mov_adj_away"] = (
-        df["opp_pf"] - df["pf"] + 
-        df["rcp_team"] * (2 * df["is_away"] - 1)
-    )
-
+    df[["team_id","opponent_id"]] = df[["team_id","opponent_id"]].astype("int64")
+    # home flag
+    df["is_home"] = (df["team"] == df["home_team"]).astype("int8")
     
-    return df
+    # Neutralize MOV for SRS:
+    df["neutral_mov"] = df["pf"] - df["opp_pf"] - hca_prev * (2 * df["is_home"] - 1)
+    return df[["team_id","opponent_id","neutral_mov"]]
 
-
-# ── main build loop ──────────────────────────────────────────────────────
-def build_features() -> None:
-    seasons = sorted(p.name for p in ROOT.iterdir() if p.is_dir())
-
-    for idx, season in enumerate(seasons):
-        path       = ROOT / season
-        prev_path  = ROOT / seasons[idx - 1] if idx else None
-        hca_prev   = team_hca(prev_path) if prev_path else pd.Series(dtype=float)
-        rcp_prev   = team_rcp(prev_path) if prev_path else pd.Series(dtype=float)
-        games      = load_games(path, hca_prev, rcp_prev)
-
-        # team win %
-        gp_team = games.groupby("team_id")["win_flag"]
-        win_pct = (gp_team.sum() / gp_team.size()).rename("win_pct")
-
-        # 4a) opponent win %: map win_pct to each matchup
-        games = games.merge(win_pct, left_on="opponent_id", right_index=True)
-        opp_win_pct = games.groupby("team_id")["win_pct"].mean().rename("opp_win_pct")
-
-        # 4b) opponent-of-opponent win %: map opp_win_pct back through opponent_id
-        games = games.merge(opp_win_pct.rename("opp_wp"), left_on="opponent_id", right_index=True)
-        opp_opp_win_pct = games.groupby("team_id")["opp_wp"].mean().rename("opp_opp_win_pct")
-
-        # current-season team HCA (for reporting)
-        team_hca_curr = team_hca(path).rename("team_hca")
-
-        #current-season road court performance (for reporting)
-        team_rcp_curr = team_rcp(path).rename("team_rcp")
-
-        # ── compute v0 Strength-of-Schedule for this season ─────────────────
-        if prev_path:
-            # load last season’s games to get mov_adj
-            prev_games = load_games(prev_path, team_hca(prev_path), team_rcp(prev_path))
-            prev_mov   = prev_games.groupby("team_id")["mov_adj"] \
-                                .mean() \
-                                .rename("mov_prev")
-            # map each opponent → its previous‐season strength, then average
-            sos_v0 = (
-                games[["team_id","opponent_id"]]
-                .merge(prev_mov, left_on="opponent_id", right_index=True, how="left")["mov_prev"]
-                .groupby(games["team_id"])
+def solve_srs(df_games: pd.DataFrame, teams: pd.Index) -> pd.Series:
+    """Iteratively solve SRS until sup‐norm update < TOL."""
+    srs = pd.Series(0.0, index=teams)
+    for itr in range(MAX_ITERS):
+        # mean opponent SRS per team
+        opp = (
+            df_games
+                .merge(srs.rename("opp_srs"),
+                left_on="opponent_id", right_index=True)
+                .groupby("team_id")["opp_srs"]
                 .mean()
-                .rename("sos_v0")
-            )
-        else:
-            # first season: define SOS ≡ 0
-            sos_v0 = pd.Series(0.0, index=win_pct.index, name="sos_v0")
-        
-
-        # assemble
-        out = (
-            pd.DataFrame({"team_id": win_pct.index})
-                .merge(team_hca_curr, left_on="team_id", right_index=True, how="left")
-                .merge(team_rcp_curr, left_on="team_id", right_index=True, how="left")
-                .merge(win_pct,        left_on="team_id", right_index=True)
-                .merge(opp_win_pct,    left_on="team_id", right_index=True)
-                .merge(opp_opp_win_pct,left_on="team_id", right_index=True)
-                .merge(sos_v0.rename("sos_v0"), left_on="team_id", right_index=True, how="left")
-            )
-
-        out.insert(0, "season", season)
-        out = out.merge(
-            games[["team_id", "team"]].drop_duplicates(), on="team_id"
+                .reindex(teams)
         )
-        out = out[["season", "team", "team_id",
-                   "team_hca", "team_rcp", "win_pct", "opp_win_pct", "opp_opp_win_pct", "sos_v0"]]
-        out = out.round({"team_hca": 2, "team_rcp": 2,"win_pct": 3,
-                         "opp_win_pct": 3, "opp_opp_win_pct": 3, "sos_v0": 3})
+        mov = df_games.groupby("team_id")["neutral_mov"].mean().reindex(teams)
+        new = mov + opp
+        new -= new.mean()  # re-centre
+        delta = (new - srs).abs().max()
+        if delta < TOL:
+            print(f"    converged in {itr+1} iters (Δ={delta:.4f})")
+            return new
+        srs = new
+    raise RuntimeError("SRS solver did not converge")
 
-        # write
-        dest = OUT_BASE / season.replace("-", "_") / "schedule_feats.csv"
+# ── MAIN BUILD LOOP ──────────────────────────────────────────────────────
+def build_all():
+    seasons = sorted(p.name for p in ROOT.iterdir() if p.is_dir())
+    for prev, curr in zip(seasons[:-1], seasons[1:]):
+        print(f">>> Season {curr}")
+        prev_path = ROOT / prev
+        curr_path = ROOT / curr
+
+        # 1) league HCA from prior season
+        league_hca = estimate_league_hca(prev_path) if prev_path.exists() else DEFAULT_HCA
+
+        # 2) load games & neutral_mov
+        games = load_games(curr_path, league_hca)
+
+        # 3) solve SRS
+        # load team list + abbrev
+        teams_df = (
+            pd.read_csv(curr_path / "league_regular_season_schedule.csv")
+              [["team_id","team"]]
+              .drop_duplicates()
+              .set_index("team_id")
+        )
+        teams = teams_df.index
+        srs   = solve_srs(games, teams)
+
+        # 4) raw SOS = mean opponent SRS
+        sos_raw = (
+            games
+              .merge(srs.rename("opp_srs"),
+                     left_on="opponent_id", right_index=True)
+              .groupby("team_id")["opp_srs"]
+              .mean()
+              .reindex(teams)
+        )
+
+        # 5) 0–1 scaling per season
+        scaled = (sos_raw - sos_raw.min()) / (sos_raw.max() - sos_raw.min())
+
+        # 6) assemble output
+        out = pd.DataFrame({
+            "season"    : curr.replace("_","-"),
+            "team_id"   : teams,
+            "team"      : teams_df["team"].loc[teams],
+            "srs_v1"    : srs.round(3),
+            "sos_v1_raw": sos_raw.round(3),
+            "sos_v1"    : scaled.round(4),
+        }).sort_values("srs_v1", ascending=False)
+
+        out = out.round({
+            "srs_v1"    : 2,
+            "sos_v1_raw": 3,
+            "sos_v1"    : 3,
+        })
+        
+        # 7) write CSV
+        dest = OUT_BASE / curr.replace("-","_") / "srs_sos_v1.csv"
         dest.parent.mkdir(parents=True, exist_ok=True)
         out.to_csv(dest, index=False)
-        print("✔ wrote", dest)
+        print(f"    ✔ wrote {dest}")
 
 if __name__ == "__main__":
-    build_features()
+    build_all()
