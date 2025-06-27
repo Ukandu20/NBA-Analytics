@@ -52,22 +52,77 @@ DEFAULT_MEASURE     = "pergame"
 DEFAULT_SEASON_TYPE = "regular_season"
 DEFAULT_MODE = "advanced"
 
-# ─────────────────────────────────────────────────────────────────────────────
-# Load game-by-game data for this season
-# ─────────────────────────────────────────────────────────────────────────────
+#Base directory for team stats
 base_dir = (TEAM_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
-
 df_all = pd.concat([
     pd.read_csv(f).assign(season=season)
     for f in base_dir.glob("*.csv")
 ], ignore_index=True)
 
 # drop any stray 'team' col, then merge in canonical team info
-df_all = df_all.drop(columns=["team"], errors="ignore")
+df_all = df_all.drop(columns=["team", "team_name"], errors="ignore")
 df_all = df_all.merge(
     team_bios[["team_id","team","team_name","logo_url"]],
     on="team_id", how="left"
 )
+
+#st.write("📂 CSVs loaded for df_all:", list(base_dir.glob("*.csv")))
+#st.write("🧮 rows per file:",
+#         {f.name: len(pd.read_csv(f)) for f in base_dir.glob("*.csv")})
+
+#st.write("⚙️ teams_cleaned.csv has these team_id counts:",
+#         team_bios["team_id"].value_counts().head())
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Load advanced boxscores for this season
+# ─────────────────────────────────────────────────────────────────────────────
+
+boxscore_dir = (TEAM_DIR / "adv_boxscores" / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
+box_adv = (boxscore_dir / "advanced.csv")
+box_trad = (boxscore_dir / "traditional.csv")
+df_boxscore_adv = pd.read_csv(box_adv)
+df_boxscore_trad = pd.read_csv(box_trad)
+df_boxscore = pd.concat([
+    pd.read_csv(f).assign(season=season)
+    for f in boxscore_dir.glob("*.csv")
+], ignore_index=True)
+
+df_boxscore = df_boxscore.rename(columns=str.lower)
+df_boxscore = df_boxscore.drop(columns=["team", "team_name"], errors="ignore")
+df_boxscore = df_boxscore.merge(
+    team_bios[["team_id","team","team_name","logo_url"]],
+    on="team_id", how="left"
+)
+
+df_boxscore_adv = df_boxscore_adv.rename(columns=str.lower)
+df_boxscore_adv = df_boxscore_adv.drop(columns=["team", "team_name"], errors="ignore")
+df_boxscore_adv = df_boxscore_adv.merge(
+    team_bios[["team_id","team","team_name","logo_url"]],
+    on="team_id", how="left"
+)
+
+
+
+
+df_boxscore_trad = df_boxscore_trad.rename(columns=str.lower)
+df_boxscore_trad = df_boxscore_trad.drop(columns=["team", "team_name"], errors="ignore")
+df_boxscore_trad = df_boxscore_trad.merge(
+    team_bios[["team_id","team","team_name","logo_url"]],
+    on="team_id", how="left"
+)
+
+pm = (
+    df_boxscore_trad
+    .loc[:, ["game_id","matchup","plus_minus","pts"]]     
+)
+df_boxscore_adv = df_boxscore_adv.merge(
+    pm,
+    on=["game_id", "matchup"],
+    how="left"    
+)
+df_boxscore_adv = df_boxscore_adv.drop_duplicates(subset=["game_id", "matchup"])
+
+
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Load per-team summary ("general") data for this season
@@ -96,7 +151,12 @@ df_gen_adv = df_gen_adv.merge(
     team_bios[["team_id","team","team_name","logo_url"]],
     on="team_id", how="left"
 )
-
+# bring only the plus_minus column into your advanced‐summary table
+df_gen_adv = df_gen_adv.merge(
+    df_gen_trad[["team_id", "plus_minus"]],
+    on="team_id",
+    how="left"
+)
 
 
 df_gen = df_gen.drop(columns=["team", "team_name"], errors="ignore")
@@ -105,6 +165,7 @@ df_gen = df_gen.merge(
     on="team_id", how="left"
 )
 
+# Load clutch stats for this season
 clutch_dir = (TEAM_DIR / "clutch" / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
 clutch_adv = (clutch_dir / "advanced.csv")
 clutch_trad = (clutch_dir / "traditional.csv")
@@ -162,10 +223,12 @@ league_percentile = league.rank(pct=True).round(3)
 # ─────────────────────────────────────────────────────────────────────────────
 # Filter both tables to the selected team
 # ─────────────────────────────────────────────────────────────────────────────
-df_team_metric  = df_all[df_all["team_id"] == team_id]
+df_team_metric  = df_boxscore_adv[df_boxscore_adv["team_id"] == team_id]
+
 df_team_general = df_gen[df_gen["team_id"] == team_id]
 df_team_gen_trad = df_gen_trad[df_gen_trad["team_id"] == team_id]
 df_team_gen_adv = df_gen_adv[df_gen_adv["team_id"] == team_id]
+df_team_adv_box = df_boxscore_adv[df_boxscore_adv["team_id"] == team_id]
 
 df_clutch = df_clutch[df_clutch["team_id"] == team_id]
 df_clutch_adv = df_clutch_adv[df_clutch_adv["team_id"] == team_id]
@@ -213,16 +276,85 @@ def rank_color(rank: int, total_teams: int = 30) -> str:
     elif rank <= 2*third:   return "orange"
     else:                   return "red"
 
-def extract_opponent(matchup: str) -> str:
-    if "@" in matchup:
-        # road game: "MYTEAM @ OPP"
-        return matchup.split("@")[1].strip()
-    elif "vs" in matchup:
-        # home game: "MYTEAM vs OPP"
-        return matchup.split("vs")[1].strip()
+# 1) First, make sure every row has explicit home/away teams
+def parse_matchup(m: str) -> tuple[str,str]:
+    m = m.replace("vs.", "vs").replace(" @ ", "@").replace(" vs ", "vs").strip()
+    if "@" in m:
+        away, home = m.split("@")
     else:
-        return ""
+        home, away = m.split("vs")
+    return away.strip(), home.strip()
 
+def add_home_away(df: pd.DataFrame) -> pd.DataFrame:
+    
+    df_boxscore_adv[["away_team","home_team"]] = df_boxscore_adv["matchup"].apply(parse_matchup).tolist()
+
+    # add opp_team which is the opponent the team faced
+    # Opponent is the other side of the venue
+    df_boxscore_adv["opp_team"] = df_boxscore_adv.apply(
+        lambda r: r.away_team if r.home_team == r.team else r.home_team, axis=1
+    )
+    return df
+
+
+df_boxscore_adv = add_home_away(df_boxscore_adv)
+df_boxscore_adv
+
+df_boxscore_adv["wl"] = df_boxscore_adv["wl"].str.upper()  # normalize wins/losses
+
+# 2) Compute every team’s home W/L totals
+home = df_team_metric[df_team_metric["matchup"].str.contains("vs", case=False)]
+home_summary = (
+    home
+    .groupby("team_id")["wl"]
+    .value_counts()
+    .unstack(fill_value=0)
+    .rename(columns={"W":"home_w","L":"home_l"})
+)
+h_wins = home_summary["home_w"].sum()
+h_losses = home_summary["home_l"].sum()
+# 3) Compute every team’s away W/L totals
+away = df_team_metric[df_team_metric["matchup"].str.contains("@")]
+away_summary = (
+    away
+    .groupby("team_id")["wl"]
+    .value_counts()
+    .unstack(fill_value=0)
+    .rename(columns={"W":"away_w","L":"away_l"})
+)
+a_wins = away_summary["away_w"].sum()
+a_losses = away_summary["away_l"].sum()
+
+st.write(df_boxscore_adv.shape)
+
+# 4) Stitch together, compute percentages and ranks
+summary = (
+    home_summary
+    .join(away_summary, how="outer")
+    .fillna(0)
+    .astype(int)
+    .assign(
+        h_pct=lambda d: d.home_w.div(d.home_w + d.home_l).fillna(0),
+        a_pct=lambda d: d.away_w.div(d.away_w + d.away_l).fillna(0)
+    )
+)
+summary["h_rank"] = summary["h_pct"].rank(ascending=False, method="min").astype(int)
+summary["a_rank"] = summary["a_pct"].rank(ascending=False, method="min").astype(int)
+
+# 5) Merge those four new cols into your ADVANCED summary BEFORE filtering
+df_gen_adv = df_gen_adv.merge(
+    summary[["h_pct","h_rank","a_pct","a_rank"]],
+    left_on="team_id", right_index=True, how="left"
+)
+
+# 6) Now when you slice to your team, you still carry its league rank
+df_team_gen_adv = df_gen_adv[df_gen_adv["team_id"] == team_id]
+
+# and you can simply read off:
+home_pct      = df_team_gen_adv["h_pct"].iloc[0]
+home_pct_rank = df_team_gen_adv["h_rank"].iloc[0]
+away_pct      = df_team_gen_adv["a_pct"].iloc[0]
+away_pct_rank = df_team_gen_adv["a_rank"].iloc[0]
 
     # Games played
 games_played = df_team_metric["game_id"].nunique()
@@ -310,6 +442,19 @@ def_rating_rank = (
         else None
     )
 
+#Team Pace
+pace = (
+        df_team_gen_adv["pace"].iloc[0]
+        if "pace" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+    )
+
+pace_rank = (
+        df_team_gen_adv["pace_rank"].iloc[0]
+        if "pace_rank" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
+        else None
+    )
+
 ts_pct = (
         df_clutch_adv["ts_pct"].mean()
         if "ts_pct" in df_clutch_adv.columns and len(df_clutch_adv)>0
@@ -330,6 +475,7 @@ ast_sup  = to_superscript(ast_rank) if ast_rank is not None else ""
 net_rating_sup = to_superscript(net_rating_rank) if net_rating_rank is not None else ""
 off_rating_sup = to_superscript(off_rating_rank) if off_rating_rank is not None else ""
 def_rating_sup = to_superscript(def_rating_rank) if def_rating_rank is not None else ""
+pace_sup = to_superscript(pace_rank) if pace_rank is not None else ""
 ts_pct_sup = to_superscript(ts_pct_rank) if ts_pct_rank is not None else ""
 win_loss_pct_color = rank_color(win_loss_pct_rank if win_loss_pct_rank is not None else 30, total_teams=30)
 pts_color = rank_color(pts_rank if pts_rank is not None else 30, total_teams=30)
@@ -338,66 +484,49 @@ ast_color = rank_color(ast_rank if ast_rank is not None else 30, total_teams=30)
 net_rating_color = rank_color(net_rating_rank if net_rating_rank is not None else 30, total_teams=30)
 off_rating_color = rank_color(off_rating_rank if off_rating_rank is not None else 30, total_teams=30)
 def_rating_color = rank_color(def_rating_rank if def_rating_rank is not None else 30, total_teams=30)
+pace_color = rank_color(pace_rank if pace_rank is not None else 30, total_teams=30)
 ts_pct_color = rank_color(ts_pct_rank if ts_pct_rank is not None else 30, total_teams=30)
+
+# earlier in your pipeline
+df_boxscore_adv = add_home_away(df_boxscore_adv)         # gives you away_team & home_team
+df_team_metric = df_boxscore_adv[df_boxscore_adv.team_id==team_id].copy()
 
 
     # Wins & losses (one row per team in df_team_general)
-
 wins   = int(df_team_general["w"].iloc[0])
 losses = int(df_team_general["l"].iloc[0])
 
-largest_victory = (
-    df_team_metric["plus_minus"].max().astype(int)
-    if "plus_minus" in df_team_metric.columns and len(df_team_metric)>0
-    else 0
-)
-
-largest_victory_pts = (
-    df_team_metric.loc[df_team_metric["plus_minus"].idxmax(), "pts"].astype(int)
-    if {"plus_minus","pts"}.issubset(df_team_metric.columns) and len(df_team_metric)>0
-    else None
-)
-
-opp_points = (
-    int(largest_victory_pts) - int(largest_victory)
-    if largest_victory_pts is not None and isinstance(largest_victory_pts, (int, np.number)) and isinstance(largest_victory, (int, np.number))
-    else None
-)
 
 
+# Largest victory and biggest defeat
+if "plus_minus" in df_team_metric.columns and not df_team_metric.empty:
+    # Make sure we have away_team/home_team
+    # (skip re-parsing matchup if you've already called add_home_away)
+    df = df_team_metric.copy()
 
-if "plus_minus" in df_team_metric.columns and len(df_team_metric) > 0:
-    # make a proper opponent column
-    df_team_metric = df_team_metric.copy()
-    df_team_metric["opp_team"] = df_team_metric["matchup"].apply(extract_opponent)
+    idx_max = df["plus_minus"].idxmax()
+    largest_victory         = int(df.at[idx_max, "plus_minus"])
+    largest_victory_opponent = df.at[idx_max, "opp_team"]
+    largest_victory_pts     = int(df.at[idx_max, "pts"])
+    victory_opp_points      = largest_victory_pts - largest_victory
 
-    # now idxmax() really points at the largest margin and pulls the correct opponent
-    idx = df_team_metric["plus_minus"].idxmax()
-    largest_victory_opponent = df_team_metric.at[idx, "opp_team"]
+    # Biggest defeat
+    idx_min = df["plus_minus"].idxmin()
+    biggest_defeat          = int(df.at[idx_min, "plus_minus"])
+    biggest_defeat_opponent = df.at[idx_min, "opp_team"]
+    biggest_defeat_pts      = int(df.at[idx_min, "pts"])
+    defeat_opp_points       = biggest_defeat_pts - biggest_defeat
+
 else:
-    largest_victory_opponent = ""
+    # Fallback if no plus_minus column or empty
+    largest_victory, largest_victory_opponent = None, ""
+    biggest_defeat, biggest_defeat_opponent = None, ""
+    largest_victory_pts, victory_opp_points = 0, 0
+    biggest_defeat_pts, defeat_opp_points = 0, 0
 
 
-biggest_defeat = (
-    df_team_metric["plus_minus"].min()
-    if "plus_minus" in df_team_metric.columns and len(df_team_metric)>0
-    else 0
-)
 
-biggest_defeat_opponent = df_team_metric.loc[
-    df_team_metric["plus_minus"].idxmin(), "opp_team"]
-# Rank superscripts and colors
-biggest_defeat_pts = (
-    df_team_metric.loc[df_team_metric["plus_minus"].idxmin(), "pts"].astype(int)
-    if {"plus_minus","pts"}.issubset(df_team_metric.columns) and len(df_team_metric)>0
-    else None
-)
 
-def_opp_points = (
-    int(biggest_defeat_pts) - int(biggest_defeat)
-    if biggest_defeat_pts is not None and isinstance(biggest_defeat_pts, (int, np.number)) and isinstance(biggest_defeat, (int, np.number))
-    else None
-)
 
 
 w_rank = (
@@ -411,10 +540,16 @@ l_rank = (
         else None
 )
 
+
+
 w_sup   = to_superscript(w_rank) if w_rank is not None else ""
 l_sup   = to_superscript(l_rank) if l_rank is not None else ""
+h_sup  = to_superscript(home_pct_rank) if home_pct_rank is not None else ""
+a_sup  = to_superscript(away_pct_rank) if away_pct_rank is not None else ""
 w_color = rank_color(w_rank if w_rank is not None else 30, total_teams=30)
 l_color = rank_color(l_rank if l_rank is not None else 30, total_teams=30)
+a_color = rank_color(away_pct_rank if away_pct_rank is not None else 30, total_teams=30)
+h_color = rank_color(home_pct_rank if home_pct_rank is not None else 30, total_teams=30)
 
 container = st.container(border=True)
 with container:
@@ -471,6 +606,19 @@ with container:
         unsafe_allow_html=True,
     )
 
+    #Pace
+    col5.markdown(
+        f"""
+        <div>Pace</div>
+        <span style="font-size:2rem;">{pace}</span>
+        <sup style="color:{pace_color}; font-size:1rem;">{pace_sup}</sup>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    
+
     
     # True Shooting Percentage (TS%)
     col6.markdown(
@@ -494,7 +642,7 @@ with container:
         f"""
         <div>Largest Victory</div>
         <span style="font-size:2rem;">        
-        <span style="color:green">{largest_victory_pts} - {opp_points}</span> vs {largest_victory_opponent}</span>       
+        <span style="color:green">{largest_victory_pts} - {victory_opp_points}</span> vs. {largest_victory_opponent}</span>       
         </div>
         """,
         unsafe_allow_html=True,
@@ -503,16 +651,16 @@ with container:
         f"""
         <div>Biggest Defeat</div>
         <span style="font-size:2rem;">
-        <span style="color:red">{biggest_defeat_pts} - {def_opp_points}</span> vs {biggest_defeat_opponent}</span>                
+        <span style="color:red">{biggest_defeat_pts} - {defeat_opp_points}</span> vs. {biggest_defeat_opponent}</span>                
         </div>
         """,
         unsafe_allow_html=True,
     )
     col3.markdown(
         f"""
-        <div>RPG</div>
-        <span style="font-size:2rem;">{rebounds_per_game}</span>
-        <sup style="color:{trb_color}; font-size:1rem;">{trb_sup}</sup>
+        <div>Home Record</div>
+        <span style="font-size:2rem;">{h_wins}-{h_losses}</span>
+        <sup style="color:{h_color}; font-size:1rem;">{h_sup}</sup>
         
         </div>
         """,
@@ -520,9 +668,10 @@ with container:
     )
     col4.markdown(
         f"""
-        <div>AST</div>
-        <span style="font-size:2rem;">{assists_per_game}</span>
-        <sup style="color:{ast_color}; font-size:1rem;">{ast_sup}</sup>        
+        <div>Away Record</div>
+        <span style="font-size:2rem;">{a_wins}-{a_losses}</span>
+        <sup style="color:{a_color}; font-size:1rem;">{a_sup}</sup>
+        
         </div>
         """,
         unsafe_allow_html=True,
@@ -583,7 +732,7 @@ with container:
                 xanchor="center",
                 y=1.1
             ),
-            title=f"Efficiency Radar Chart for {team_name}",
+            title=f"Efficiency Radar",
             margin=dict(t=40, b=20, l=20, r=20)
         )
 
@@ -623,7 +772,7 @@ with container:
                 x=month_names,
                 y=pts_by_month.values,
                 labels={"x": "Month", "y": "PPG"},
-                title="Points Per Game by Month"
+                title="Monthly Points Per Game (PPG)",
             )
 
             # 3) (Optional) add a horizontal line at the league median PPG
@@ -717,7 +866,7 @@ with container:
                     title="Month"
                 ),
                 yaxis_title="Net Rating",
-                title=f"Net Rating per Month for {team_name}",
+                title=f"Monthly Net Rating",
                 margin=dict(t=40, b=30, l=40, r=20)
             )
 
