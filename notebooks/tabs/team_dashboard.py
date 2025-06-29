@@ -228,7 +228,7 @@ def render_tab(season_type: str):
             .merge(team_bios[["team_id","team","team_name"]], on="team_id")
         )
         prev_team_gen = df_prev_gen_trad[df_prev_gen_trad["team_id"] == team_id]
-        prev_win_pct = prev_team_gen["w_pct"].iloc[0] if not prev_team_gen.empty else None
+        prev_win_pct = round((prev_team_gen["w_pct"].iloc[0])*100, 3) if not prev_team_gen.empty else None
         
         df_prev_gen_adv = (
             pd.read_csv(prev_gen_dir / "advanced.csv")
@@ -285,7 +285,12 @@ def render_tab(season_type: str):
 
 
 
+        # … after computing `league` …
+    if team_id not in league.index:
+        st.warning(f"{team_name} didn’t make the {season} {season_type.replace('_',' ')}.")
+        return
     team_row = league.loc[team_id]
+
 
     # ─────────────────────────────────────────────────────────────────────────────
     # Add a 'month' column to the game-by-game table
@@ -358,6 +363,7 @@ def render_tab(season_type: str):
         .value_counts()
         .unstack(fill_value=0)
         .rename(columns={"W":"home_w","L":"home_l"})
+        .reindex(columns=["home_w","home_l"], fill_value=0)
     )
     h_wins = home_summary["home_w"].sum()
     h_losses = home_summary["home_l"].sum()
@@ -369,6 +375,7 @@ def render_tab(season_type: str):
         .value_counts()
         .unstack(fill_value=0)
         .rename(columns={"W":"away_w","L":"away_l"})
+        .reindex(columns=["away_w","away_l"], fill_value=0)
     )
     a_wins = away_summary["away_w"].sum()
     a_losses = away_summary["away_l"].sum()
@@ -412,6 +419,7 @@ def render_tab(season_type: str):
             if "w_pct" in df_team_general.columns and len(df_team_general)>0
             else 0.0
         )
+    win_loss_pct = round(win_loss_pct * 100, 3)
 
     win_loss_pct_rank = (
             df_team_gen_trad["w_rank"].iloc[0]
@@ -454,14 +462,14 @@ def render_tab(season_type: str):
         )
 
     net_rating = (
-            df_clutch_adv["net_rating"].iloc[0]
-            if "net_rating" in df_clutch_adv.columns and len(df_clutch_adv)>0
+            df_team_gen_adv["net_rating"].iloc[0]
+            if "net_rating" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
             else None
     )
 
     net_rating_rank = (
-            df_clutch_adv["net_rating_rank"].iloc[0]
-            if "net_rating_rank" in df_clutch_adv.columns and len(df_clutch_adv)>0
+            df_team_gen_adv["net_rating_rank"].iloc[0]
+            if "net_rating_rank" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
             else None
     )
 
@@ -503,14 +511,15 @@ def render_tab(season_type: str):
         )
 
     ts_pct = (
-            df_clutch_adv["ts_pct"].mean()
-            if "ts_pct" in df_clutch_adv.columns and len(df_clutch_adv)>0
+            round((df_team_gen_adv["ts_pct"].mean())* 100, 3)
+            if "ts_pct" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
             else 0.0
         )
+    
 
     ts_pct_rank = (
-            df_clutch_adv["ts_pct_rank"].iloc[0]
-            if "ts_pct_rank" in df_clutch_adv.columns and len(df_clutch_adv)>0
+            df_team_gen_adv["ts_pct_rank"].iloc[0]
+            if "ts_pct_rank" in df_team_gen_adv.columns and len(df_team_gen_adv)>0
             else None
         )
 
@@ -546,23 +555,32 @@ def render_tab(season_type: str):
 
 
     # Largest victory and biggest defeat
+    # Initialize prefixes with default values to avoid unbound errors
+    vic_prefix = ""
+    def_prefix = ""
+
     if "plus_minus" in df_team_metric.columns and not df_team_metric.empty:
         # Make sure we have away_team/home_team
         # (skip re-parsing matchup if you've already called add_home_away)
         df = df_team_metric.copy()
 
         idx_max = df["plus_minus"].idxmax()
+        vic_row = df.loc[idx_max]
         largest_victory         = int(df.at[idx_max, "plus_minus"])
         largest_victory_opponent = df.at[idx_max, "opp_team"]
         largest_victory_pts     = int(df.at[idx_max, "pts"])
         victory_opp_points      = largest_victory_pts - largest_victory
+        vic_prefix = "vs. " if vic_row["home_team"] == team_abbr else "@"
+        
 
         # Biggest defeat
         idx_min = df["plus_minus"].idxmin()
+        def_row = df.loc[idx_min]
         biggest_defeat          = int(df.at[idx_min, "plus_minus"])
         biggest_defeat_opponent = df.at[idx_min, "opp_team"]
         biggest_defeat_pts      = int(df.at[idx_min, "pts"])
         defeat_opp_points       = biggest_defeat_pts - biggest_defeat
+        def_prefix = "vs. " if def_row["home_team"] == team_abbr else "@"
 
     else:
         # Fallback if no plus_minus column or empty
@@ -570,6 +588,8 @@ def render_tab(season_type: str):
         biggest_defeat, biggest_defeat_opponent = None, ""
         largest_victory_pts, victory_opp_points = 0, 0
         biggest_defeat_pts, defeat_opp_points = 0, 0
+        vic_prefix = ""
+        def_prefix = ""
 
 
 
@@ -613,93 +633,224 @@ def render_tab(season_type: str):
     off_arrow, off_delta, off_color = make_delta(off_rating, prev_off_rating)
     def_arrow, def_delta, def_color = make_delta(def_rating, prev_def_rating)
 
+    total_teams = len(league)
+
     container = st.container(border=True)
     with container:
         container.markdown(
             f"""
             <div style="display: flex; align-items: center; justify-content: space-between;">
-            <h1 style="margin: 0;">{team_name} — {season}</h1>
+            <h1 style="margin: 0;">How good were the {team_name} in {season}?</h1>
             <img src="{logo_url}" alt="{team_abbr} logo" style="height:50px">
             </div>
             """,
             unsafe_allow_html=True
         )
         col1, col2, col3, col4, col5= container.columns(5)
-        col1.markdown(
-            f"""
-            <div>Win %</div>
-            <span style="font-size:2rem;">{win_loss_pct:.3}</span>
-            {'<sup style="color:'+win_color+'; font-size:0.8rem;">'
-            + f"{win_arrow}{win_delta} from {prev_season}" +
-            "</sup>" if win_delta else ""}        
+
+        delta_win = f"{win_arrow}{win_delta}% from {prev_season} and #{win_loss_pct_rank}" if win_delta or win_loss_pct_rank else None
+        info_win = "The percentage of games played that a team has won"
+        col1.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Win %
+                <span
+                title="{info_win}"
+                style="margin-left: 0.5rem; cursor: pointer; color: #888;"
+                >ℹ️</span>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 3rem; font-weight: bold; color: #0a7dfa; line-height: 1;">
+                {win_loss_pct:.1f}
+                </div>
+                <div style="font-size: 0.9rem; color: {win_color}; font-weight: 500; margin-top: 0.25rem;">
+                {win_arrow}{win_delta}% from {prev_season}, <span style="color: #28a745">#{win_loss_pct_rank} of {total_teams}</span>
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
 
         #Net Rating
-        col2.markdown(
-            f"""
-            <div>Net Rtg</div>
-            <span style="font-size:2rem;">{net_rating}</span>
-            {'<sup style="color:'+net_color+'; font-size:0.8rem;">'
-            + f"{net_arrow}{net_delta} from {prev_season}" +
-            "</sup>" if net_delta else ""}        
+        delta_text = f"{net_rating_rank} in the league" if net_rating_rank else None
+                #offensive Rating
+        delta_off = f"{off_delta} from {prev_season}" if off_delta else None
+        info_off = "The total number of points scored per 100 possessions"
+        col2.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Offensive Rating
+                <span
+                title="{info_off}"
+                style="margin-left: 0.5rem; cursor: pointer; color: #888;"
+                >ℹ️</span>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
 
-        #offensive Rating
-        col3.markdown(
-            f"""
-            <div>Off Rtg</div>
-            <span style="font-size:2rem;">{off_rating}</span>
-            {'<sup style="color:'+off_color+'; font-size:0.8rem;">'
-            + f"{off_arrow}{off_delta} from {prev_season}" +
-            "</sup>" if off_delta else ""}
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 3rem; font-weight: bold; color: #0a7dfa; line-height: 1;">
+                {off_rating:.1f}
+                </div>
+                <div style="font-size: 0.9rem; color: #28a745; font-weight: 500; margin-top: 0.25rem;">
+                #{off_rating_rank} of {total_teams} 
+                </div>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
+            </div>
+            """, unsafe_allow_html=True)
 
         #Defensive Rating
-        col4.markdown(
-            f"""
-            <div>Def Rtg</div>
-            <span style="font-size:2rem;">{def_rating}</span>
-            {'<sup style="color:'+def_color+'; font-size:0.8rem;">'
-            + f"{def_arrow}{def_delta} from {prev_season}" +
-            "</sup>" if def_delta else ""}
+        delta_def = f"{off_delta} from {prev_season}" if def_delta else None
+        info_def = "The total number of points allowed per 100 possessions"
+        col3.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Defensive Rating
+                <span
+                title="{info_def}"
+                style="margin-left: 0.5rem; cursor: pointer; color: #888;"
+                >ℹ️</span>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
 
-        #Pace
-        #col5.markdown(
-        #    f"""
-        #    <div>Pace</div>
-        #    <span style="font-size:2rem;">{pace}</span>
-        #    <sup style="color:{pace_color}; font-size:1rem;">{pace_sup}</sup>
-        #    </div>
-        #    """,
-        #    unsafe_allow_html=True,
-        #)
-        
-        
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 3rem; font-weight: bold; color: #0a7dfa; line-height: 1;">
+                {def_rating:.1f}
+                </div>
+                <div style="font-size: 0.9rem; color: #28a745; font-weight: 500; margin-top: 0.25rem;">
+                #{def_rating_rank} of {total_teams} 
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
+
+        info_net = "Team’s point differential per 100 possessions"
+        col4.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Net Rating
+                <span
+                title="{info_net}"
+                style="margin-left: 0.5rem; cursor: pointer; color: #888;"
+                >ℹ️</span>
+            </div>
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 3rem; font-weight: bold; color: #0a7dfa; line-height: 1;">
+                {net_rating:.1f}
+                </div>
+                <div style="font-size: 0.9rem; color: #28a745; font-weight: 500; margin-top: 0.25rem;">
+                #{net_rating_rank} of {total_teams} 
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
 
         
         # True Shooting Percentage (TS%)
-        col5.markdown(
-            f"""
-            <div style="font-size:0.8rem; color:gray;">TS%</div>
-            <span style="font-size:2rem;">{ts_pct}</span>
-            <sup style="color:{ts_pct_color}; font-size:1rem;">{ts_pct_sup}</sup>
+        info_ts = "An efficiency metric that weights three-point shots and free throws for their extra value, alongside traditional two-point field goals"
+        col5.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                True Shooting %
+                <span
+                title="{info_ts}"
+                style="margin-left: 0.5rem; cursor: pointer; color: #888;"
+                >ℹ️</span>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 3rem; font-weight: bold; color: #0a7dfa; line-height: 1;">
+                {ts_pct:.1f}
+                </div>
+                <div style="font-size: 0.9rem; color: #28a745; font-weight: 500; margin-top: 0.25rem;">
+                #{ts_pct_rank} of {total_teams} 
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
 
 
         # ─────────────────────────────────────────────────────────────────────────────
@@ -708,44 +859,133 @@ def render_tab(season_type: str):
         
 
         col1, col2, col3, col4 = st.columns([2,2,1,1])
-        col1.markdown(
-            f"""
-            <div>Largest Victory</div>
-            <span style="font-size:2rem;">        
-            <span style="color:green">{largest_victory_pts} - {victory_opp_points}</span> vs. {largest_victory_opponent}</span>       
+        col1.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                margin-top:1rem;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Biggest win
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
-        col2.markdown(
-            f"""
-            <div>Biggest Defeat</div>
-            <span style="font-size:2rem;">
-            <span style="color:red">{biggest_defeat_pts} - {defeat_opp_points}</span> vs. {biggest_defeat_opponent}</span>                
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 2rem; font-weight: bold; color: #ddd; line-height: 1;">
+                <span style="color:green">{largest_victory_pts} - {victory_opp_points}</span> {vic_prefix} {largest_victory_opponent}</span>
+                </div>
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
-        col3.markdown(
-            f"""
-            <div>Home Record</div>
-            <span style="font-size:2rem;">{h_wins}-{h_losses}</span>
-            <sup style="color:{h_color}; font-size:1rem;">{h_sup}</sup>
-            
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
-        col4.markdown(
-            f"""
-            <div>Away Record</div>
-            <span style="font-size:2rem;">{a_wins}-{a_losses}</span>
-            <sup style="color:{a_color}; font-size:1rem;">{a_sup}</sup>
-            
+            """, unsafe_allow_html=True)
+        
+        col2.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                margin-top:1rem;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Heaviest Defeat
             </div>
-            """,
-            unsafe_allow_html=True,
-        )
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 2rem; font-weight: bold; color: #ddd; line-height: 1;">
+                <span style="color:red">{biggest_defeat_pts} - {defeat_opp_points}</span> {def_prefix} {biggest_defeat_opponent}</span>
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
+
+        col3.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                margin-top:1rem;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Home Record
+            </div>
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 2rem; font-weight: bold; color: #ddd; line-height: 1;">
+                <span style="font-size:2rem;">{h_wins}-{h_losses}</span>
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
+
+        col4.markdown(f"""
+            <div style="
+                border: 1px solid #555;
+                border-radius: 8px;
+                padding: 0.8rem;
+                padding-left:1rem;
+                max-height: 124.5px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                margin-top:1rem;
+            ">
+            <!-- Title + info icon -->
+            <div style="
+                display: flex;
+                align-items: center;
+                font-size: clamp(0.75rem, 2.5vw, 0.9rem);
+                color: #ddd;
+                margin-bottom: 0.02rem;
+            ">
+                Away Record
+            </div>
+
+            <!-- Value + delta -->
+            <div>
+                <div style="font-size: 2rem; font-weight: bold; color: #ddd; line-height: 1;">
+                <span style="font-size:2rem;">{a_wins}-{a_losses}</span>
+                </div>
+            </div>
+            </div>
+            """, unsafe_allow_html=True)
 
 
         col1, col2 = st.columns([1,1])
