@@ -1,6 +1,6 @@
 season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.237,21,0.329,1.113,0.574,0.075,0.075,0.075,0.038,0.547,0.574,53,59,27,47,20,2024-25,2024,2025
-42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.579,21,0.129,1.268,0.667,0.146,0.073,0.146,0.024,0.659,0.667,41,52,22,33,11,2024-25,2024,2025
-42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.892,21,0.055,1.6,0.762,0.2,0.04,0.2,0.08,0.76,0.762,25,40,16,21,5,2024-25,2024,2025
-42024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.553,21,0.103,1.263,0.6,0.211,0.053,0.211,0.053,0.632,0.6,19,24,9,15,6,2024-25,2024,2025
-42024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.842,21,0.073,1.538,0.778,0.308,0.0,0.308,0.0,0.846,0.778,13,20,7,9,2,2024-25,2024,2025
+42024,1628392,Isaiah Hartenstein,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.237,23,0.322,1.125,0.58,0.071,0.071,0.071,0.036,0.554,0.58,56,63,29,50,21,2024-25,2024,2025
+42024,1631096,Chet Holmgren,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.579,23,0.129,1.273,0.667,0.136,0.068,0.136,0.023,0.659,0.667,44,56,24,36,12,2024-25,2024,2025
+42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.921,23,0.05,1.6,0.762,0.2,0.04,0.2,0.08,0.76,0.762,25,40,16,21,5,2024-25,2024,2025
+42024,1627936,Alex Caruso,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.342,23,0.111,1.182,0.556,0.182,0.045,0.182,0.045,0.591,0.556,22,26,10,18,8,2024-25,2024,2025
+42024,1629652,Luguentz Dort,1610612760,OKC,Oklahoma City Thunder,Cut,Offensive,0.868,23,0.072,1.571,0.8,0.286,0.0,0.286,0.0,0.857,0.8,14,22,8,10,2,2024-25,2024,2025

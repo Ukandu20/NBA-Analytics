@@ -1,6 +1,6 @@
 season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.933,20,0.232,1.153,0.445,0.04,0.046,0.032,0.004,0.444,0.591,504,581,206,463,257,2024-25,2024,2025
-42024,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.4,20,0.238,0.978,0.363,0.041,0.052,0.039,0.006,0.365,0.504,540,528,179,493,314,2024-25,2024,2025
+42024,1610612754,IND,Indiana Pacers,Spotup,Offensive,0.933,23,0.231,1.142,0.44,0.041,0.052,0.035,0.003,0.439,0.588,579,661,232,527,295,2024-25,2024,2025
+42024,1610612760,OKC,Oklahoma City Thunder,Spotup,Offensive,0.4,23,0.236,0.977,0.361,0.039,0.049,0.036,0.005,0.363,0.503,614,600,203,563,360,2024-25,2024,2025
 42024,1610612750,MIN,Minnesota Timberwolves,Spotup,Offensive,0.667,15,0.295,1.074,0.419,0.043,0.049,0.041,0.004,0.421,0.55,485,521,185,442,257,2024-25,2024,2025
 42024,1610612752,NYK,New York Knicks,Spotup,Offensive,0.467,18,0.19,1.011,0.379,0.047,0.047,0.045,0.005,0.384,0.516,380,384,131,346,215,2024-25,2024,2025
 42024,1610612744,GSW,Golden State Warriors,Spotup,Offensive,0.2,12,0.257,0.904,0.329,0.048,0.024,0.048,0.006,0.346,0.447,332,300,102,310,208,2024-25,2024,2025

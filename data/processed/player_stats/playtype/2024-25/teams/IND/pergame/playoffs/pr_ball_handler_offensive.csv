@@ -1,6 +1,6 @@
 season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.678,21,0.426,1.019,0.486,0.013,0.125,0.013,0.0,0.431,0.576,7.6,7.8,3.2,6.6,3.4,2024-25,2024,2025
-42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.576,21,0.457,0.956,0.535,0.078,0.144,0.044,0.011,0.489,0.535,4.3,4.1,1.8,3.4,1.6,2024-25,2024,2025
-42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.644,21,0.31,0.988,0.5,0.099,0.16,0.099,0.049,0.444,0.563,3.9,3.8,1.5,3.0,1.5,2024-25,2024,2025
-42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.864,20,0.233,1.159,0.486,0.136,0.045,0.114,0.023,0.523,0.541,2.2,2.6,0.9,1.9,1.0,2024-25,2024,2025
-42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.211,21,0.036,0.714,0.222,0.286,0.143,0.286,0.071,0.357,0.222,0.7,0.5,0.1,0.4,0.3,2024-25,2024,2025
+42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.678,23,0.415,1.012,0.479,0.012,0.122,0.012,0.0,0.427,0.57,7.1,7.2,3.0,6.2,3.2,2024-25,2024,2025
+42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.593,23,0.498,0.966,0.573,0.06,0.181,0.034,0.009,0.491,0.573,5.0,4.9,2.2,3.9,1.7,2024-25,2024,2025
+42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.655,23,0.304,1.0,0.5,0.103,0.161,0.103,0.046,0.448,0.566,3.8,3.8,1.5,3.0,1.5,2024-25,2024,2025
+42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.831,22,0.212,1.109,0.462,0.13,0.043,0.109,0.022,0.5,0.513,2.1,2.3,0.8,1.8,1.0,2024-25,2024,2025
+42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.119,23,0.038,0.625,0.182,0.25,0.125,0.25,0.063,0.313,0.182,0.7,0.4,0.1,0.5,0.4,2024-25,2024,2025

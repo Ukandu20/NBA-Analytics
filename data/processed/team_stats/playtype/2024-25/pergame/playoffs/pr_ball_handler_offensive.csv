@@ -1,6 +1,6 @@
 season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.867,20,0.192,1.032,0.491,0.133,0.11,0.115,0.028,0.491,0.523,21.8,22.5,8.4,17.1,8.7,2024-25,2024,2025
-42024,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.8,20,0.182,0.997,0.489,0.066,0.129,0.056,0.015,0.452,0.551,19.8,19.8,8.0,16.3,8.3,2024-25,2024,2025
+42024,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.867,23,0.195,1.02,0.48,0.141,0.106,0.124,0.026,0.487,0.51,22.1,22.6,8.3,17.2,9.0,2024-25,2024,2025
+42024,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.8,23,0.182,0.996,0.499,0.066,0.14,0.057,0.018,0.453,0.555,19.9,19.8,8.0,16.1,8.1,2024-25,2024,2025
 42024,1610612752,NYK,New York Knicks,PRBallHandler,Offensive,0.467,18,0.184,0.924,0.436,0.087,0.133,0.071,0.024,0.413,0.485,20.4,18.9,7.2,16.4,9.3,2024-25,2024,2025
 42024,1610612739,CLE,Cleveland Cavaliers,PRBallHandler,Offensive,0.933,9,0.257,1.047,0.466,0.143,0.109,0.128,0.043,0.469,0.539,28.7,30.0,10.6,22.7,12.1,2024-25,2024,2025
 42024,1610612743,DEN,Denver Nuggets,PRBallHandler,Offensive,0.667,14,0.144,0.969,0.461,0.116,0.147,0.107,0.004,0.449,0.527,16.1,15.6,5.5,11.9,6.4,2024-25,2024,2025

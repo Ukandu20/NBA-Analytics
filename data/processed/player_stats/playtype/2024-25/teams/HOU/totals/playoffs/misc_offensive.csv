@@ -1,2 +1,2 @@
 season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,203500,Steven Adams,1610612745,HOU,Houston Rockets,Misc,Offensive,0.771,7,0.4,0.813,0.0,0.75,0.25,0.0,0.0,0.563,0.0,16,13,0,0,0,2024-25,2024,2025
+42024,203500,Steven Adams,1610612745,HOU,Houston Rockets,Misc,Offensive,0.778,7,0.4,0.813,0.0,0.75,0.25,0.0,0.0,0.563,0.0,16,13,0,0,0,2024-25,2024,2025

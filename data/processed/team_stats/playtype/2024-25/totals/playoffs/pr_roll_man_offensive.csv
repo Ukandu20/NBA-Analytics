@@ -1,6 +1,6 @@
 season_id,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.267,20,0.084,1.005,0.44,0.093,0.049,0.082,0.016,0.456,0.5,182,183,70,159,89,2024-25,2024,2025
-42024,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.467,20,0.062,1.064,0.492,0.078,0.078,0.064,0.021,0.475,0.566,141,150,60,122,62,2024-25,2024,2025
+42024,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.467,23,0.083,1.029,0.448,0.106,0.043,0.096,0.019,0.466,0.514,208,214,81,181,100,2024-25,2024,2025
+42024,1610612760,OKC,Oklahoma City Thunder,PRRollMan,Offensive,0.267,23,0.064,1.006,0.458,0.084,0.072,0.072,0.024,0.446,0.531,166,167,66,144,78,2024-25,2024,2025
 42024,1610612739,CLE,Cleveland Cavaliers,PRRollMan,Offensive,0.6,9,0.077,1.195,0.551,0.065,0.052,0.065,0.013,0.545,0.623,77,92,38,69,31,2024-25,2024,2025
 42024,1610612752,NYK,New York Knicks,PRRollMan,Offensive,0.333,18,0.045,1.022,0.474,0.135,0.045,0.112,0.034,0.483,0.513,89,91,36,76,40,2024-25,2024,2025
 42024,1610612743,DEN,Denver Nuggets,PRRollMan,Offensive,0.533,14,0.045,1.129,0.532,0.043,0.071,0.029,0.0,0.514,0.605,70,79,33,62,29,2024-25,2024,2025
