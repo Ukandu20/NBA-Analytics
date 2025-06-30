@@ -10,6 +10,8 @@ import seaborn as sns
 import glob
 import plotly.graph_objects as go
 import plotly.express as px
+import altair as alt
+import math
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Data Paths and Directories
@@ -113,7 +115,7 @@ def render_tab(season_type: str):
 
     pm = (
         df_boxscore_trad
-        .loc[:, ["game_id","matchup","plus_minus","pts"]]     
+        .loc[:, ["game_id","matchup","plus_minus","pts", "ast", "reb"]]     
     )
     df_boxscore_adv = df_boxscore_adv.merge(
         pm,
@@ -130,6 +132,7 @@ def render_tab(season_type: str):
     general_dir = (    TEAM_DIR    / "general"    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
     gen_trad = (general_dir / "traditional.csv")
     gen_adv = (general_dir / "advanced.csv")
+    gen_score = (general_dir / "scoring.csv")
     df_gen = pd.concat([
         pd.read_csv(f).assign(season=season)
         for f in general_dir.glob("*.csv")
@@ -137,6 +140,7 @@ def render_tab(season_type: str):
 
     df_gen_trad = pd.read_csv(gen_trad)
     df_gen_adv = pd.read_csv(gen_adv)
+    df_gen_scoring = pd.read_csv(gen_score)
 
     df_gen_trad = df_gen_trad.rename(columns=str.lower)
     df_gen_trad = df_gen_trad.drop(columns=["team"], errors="ignore")
@@ -157,6 +161,18 @@ def render_tab(season_type: str):
         on="team_id",
         how="left"
     )
+
+    df_gen_scoring = df_gen_scoring.rename(columns=str.lower)
+    df_gen_scoring = df_gen_scoring.drop(columns=["team"], errors="ignore")
+    df_gen_scoring = df_gen_scoring.merge(
+        team_bios[["team_id","team","logo_url"]],
+        on="team_id", how="left"
+    )
+    df_gen_scoring = df_gen_scoring.merge(
+        df_gen_trad[["team_id", "pts"]],
+        on="team_id",
+        how="left"
+        )
 
 
     df_gen = df_gen.drop(columns=["team", "team_name"], errors="ignore")
@@ -218,6 +234,19 @@ def render_tab(season_type: str):
     league_median    = league.median()
     league_percentile = league.rank(pct=True).round(3)
 
+
+    pra_metrics = {
+            "pts": "pts",
+            "rebounds": "reb",
+            "assists": "ast"
+            }
+    league_pra = (
+        df_boxscore_adv
+        .set_index("team_id")[list(pra_metrics.values())]
+    )
+    pra_median = league_pra.median()
+    pra_percentile = league_pra.rank(pct=True).round(3)
+
     if prev_season:
         # a) Last season’s summary
         prev_gen_dir = TEAM_DIR / "general" / prev_season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE
@@ -277,6 +306,7 @@ def render_tab(season_type: str):
     df_team_gen_trad = df_gen_trad[df_gen_trad["team_id"] == team_id]
     df_team_gen_adv = df_gen_adv[df_gen_adv["team_id"] == team_id]
     df_team_adv_box = df_boxscore_adv[df_boxscore_adv["team_id"] == team_id]
+    df_team_gen_scoring = df_gen_scoring[df_gen_scoring["team_id"] == team_id]
 
     df_clutch = df_clutch[df_clutch["team_id"] == team_id]
     df_clutch_adv = df_clutch_adv[df_clutch_adv["team_id"] == team_id]
@@ -966,6 +996,7 @@ def render_tab(season_type: str):
                 flex-direction: column;
                 justify-content: space-between;
                 margin-top:1rem;
+                margin-bottom:2rem;
             ">
             <!-- Title + info icon -->
             <div style="
@@ -988,65 +1019,183 @@ def render_tab(season_type: str):
             """, unsafe_allow_html=True)
 
 
-        col1, col2 = st.columns([1,1])
-        # 3) Efficiency benchmarks → Radar (Spider) chart
+        col1, col2= st.columns([1,1])
         with col1:
-            if "pts" in df_team_metric.columns:
-                # 1) Prepare the monthly PPG series
+            if {"pts", "reb", "ast", "game_date"}.issubset(df_team_metric.columns):
+                # 1) Prepare the data
                 df = df_team_metric.copy()
                 df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
-                pts_by_month = (
+                df["month_num"]  = df["game_date"].dt.month
+
+                by_month = (
                     df
-                    .groupby(df["game_date"].dt.month)["pts"]
-                    .mean()
+                    .groupby("month_num")
+                    .agg(
+                        PPG=("pts", "mean"),
+                        RPG=("reb", "mean"),
+                        APG=("ast", "mean"),
+                    )
                     .round(2)
+                    .reset_index()  # month_num column retained
                 )
-                # preserve season order (Oct→Apr)
+
+                # Preserve season order via earliest date per month
                 order = (
                     df
-                    .groupby(df["game_date"].dt.month)["game_date"]
+                    .groupby("month_num")["game_date"]
                     .min()
                     .sort_values()
                     .index
-                )
-                month_names = [months[m] for m in order]
-                pts_by_month = pts_by_month.reindex(order).rename(index=months).dropna()
-
-                # 2) Build a Plotly bar chart
-                import plotly.express as px
-
-                fig = px.bar(
-                    x=month_names,
-                    y=pts_by_month.values,
-                    labels={"x": "Month", "y": "PPG"},
-                    title="Monthly Points Per Game (PPG)",
+                    .tolist()
                 )
 
-                # 3) (Optional) add a horizontal line at the Med PPG
-                median_ppg = df_gen["pts"].median()
-                fig.add_hline(
-                    y=median_ppg,
-                    line_dash="dash",
-                    line_color="gray",
-                    annotation_text=f"Med: {median_ppg:.1f}",
-                    annotation_position="bottom right"
+                # Map to labels and define x-axis domain
+                by_month["month"] = by_month["month_num"].map(months)
+                x_domain = [months[m] for m in order]
+
+                # Melt into long form for grouped bars
+                df_long = by_month.melt(
+                    id_vars=["month"],
+                    value_vars=["PPG", "RPG", "APG"],
+                    var_name="Metric",
+                    value_name="Value",
                 )
 
-                # 4) Final layout tweaks
-                fig.update_layout(
-                    xaxis=dict(tickmode="array", tickvals=month_names, ticktext=month_names),
-                    margin=dict(t=40, b=30, l=40, r=20)
+                # 2) Compute league-wide medians (replace df_gen if needed)
+                medians = {
+                    "PPG": df_gen["pts"].median(),
+                    "RPG": df_gen["reb"].median(),
+                    "APG": df_gen["ast"].median(),
+                }
+
+                df_plot = df_long.copy()
+                df_plot["median"] = df_plot["Metric"].map(medians)
+                df_plot["Diff"]   = df_plot["Value"] - df_plot["median"]
+
+                # flag the max/min Diff _within each_ Metric
+                df_plot["is_max"] = (
+                    df_plot.groupby("Metric")["Diff"]
+                        .transform("max") == df_plot["Diff"]
+                )
+                df_plot["is_min"] = (
+                    df_plot.groupby("Metric")["Diff"]
+                        .transform("min") == df_plot["Diff"]
                 )
 
-                st.plotly_chart(fig, use_container_width=True)
+
+                        # ——— 2) Compute best/worst PPG & league median ———
+                best_idx   = by_month["PPG"].idxmax()
+                worst_idx  = by_month["PPG"].idxmin()
+                best_row   = by_month.loc[best_idx]
+                worst_row  = by_month.loc[worst_idx]
+
+                best_month   = best_row["month"]
+                best_points  = best_row["PPG"]
+                worst_month  = worst_row["month"]
+                worst_points = worst_row["PPG"]
+
+                best_ast_idx   = by_month["APG"].idxmax()
+                worst_ast_idx  = by_month["APG"].idxmin()
+                best_ast_row   = by_month.loc[best_ast_idx]
+                worst_ast_row  = by_month.loc[worst_ast_idx]
+
+                best_ast_month   = best_ast_row["month"]
+                best_ast  = best_ast_row["APG"]
+                worst_ast_month  = worst_ast_row["month"]
+                worst_ast = worst_ast_row["APG"]
+
+                best_reb_idx   = by_month["RPG"].idxmax()
+                worst_reb_idx  = by_month["RPG"].idxmin()
+                best_reb_row   = by_month.loc[best_reb_idx]
+                worst_reb_row  = by_month.loc[worst_reb_idx]
+
+                best_reb_month   = best_reb_row["month"]
+                best_reb  = best_reb_row["RPG"]
+                worst_reb_month  = worst_reb_row["month"]
+                worst_reb = worst_reb_row["RPG"]
+
+                # 3) Build the bar chart
+                bars = alt.Chart(df_long).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain, title="Month"),
+                    xOffset="Metric:N",
+                    y=alt.Y("Value:Q", title="Avg per Game"),
+                    color=alt.Color(
+                        "Metric:N",
+                        scale=alt.Scale(
+                            domain=["PPG", "RPG", "APG"],
+                            range=["#83c9ff", "#ffb366", "#a3a3ff"]
+                        ),
+                        legend=alt.Legend(title="Metric")
+                    )
+                )
+
+                                # ——— 4) Highlight best/worst per metric ———
+                highlight_max = alt.Chart(df_plot[df_plot["is_max"]]).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain),
+                    xOffset="Metric:N",
+                    y="Value:Q",
+                    color=alt.value("#7defa1")
+                )
+                highlight_min = alt.Chart(df_plot[df_plot["is_min"]]).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain),
+                    xOffset="Metric:N",
+                    y="Value:Q",
+                    color=alt.value("#ff2b2b")
+                )
+
+                # 4) Create median reference lines + labels
+                rules = [
+                    alt.Chart(pd.DataFrame({"median": [med]}))
+                    .mark_rule(strokeDash=[4,4], stroke="gray")
+                    .encode(y="median:Q", detail="Metric:N")
+                    for m, med in medians.items()
+                ]
+                texts = [
+                    alt.Chart(pd.DataFrame({"median": [med]}))
+                    .mark_text(dx=3, dy=-5, color="gray")
+                    .encode(y="median:Q", text=alt.value(f"{m} med → {med:.1f}"))
+                    for m, med in medians.items()
+                ]
+
+                # 5) Layer everything and render
+                chart = alt.layer(bars, highlight_max, highlight_min, *rules, *texts).properties(
+                    title="Monthly PPG / RPG / APG"
+                )
+
+                st.altair_chart(chart, use_container_width=True) # type: ignore[arg-type]
+                st.markdown(
+                    f"""
+                    <div style="
+                        font-size: 0.875rem;
+                        color: #888;
+                        line-height: 1.4;
+                        margin-top: 0.2rem;
+                        padding: 0 0;
+                    ">
+                    The best month was <strong>{best_month}</strong> with <strong>{best_points}</strong> pts → (green bar).<br>
+                    The worst month was <strong>{worst_month}</strong> with <strong>{worst_points}</strong> pts → (red bar).<br>
+
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )
+
+
+
+
 
         #Point differential per month
         with col2:
             if "plus_minus" in df_team_metric.columns:
+                # 1) Prepare the data
                 df = df_team_metric.copy()
-                df["game_date"]= pd.to_datetime(df["game_date"], errors = "coerce")
-                pd_per_month = (
-                    df.groupby(df["game_date"].dt.month)["plus_minus"].mean().astype(int)
+                df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
+                diff_by_month = (
+                    df
+                    .groupby(df["game_date"].dt.month)["net_rating"]
+                    .mean()
+                    .round(1)
+                    .reset_index(name="Diff")
                 )
                 # preserve season order (Oct→Apr)
                 order = (
@@ -1056,344 +1205,403 @@ def render_tab(season_type: str):
                     .sort_values()
                     .index
                 )
-                month_names = [months[m] for m in order]
-                pd_per_month = pd_per_month.reindex(order).rename(index=months).dropna()
+                diff_by_month["month"] = diff_by_month["game_date"].map(lambda m: months[m])
+                x_domain = [months[m] for m in order]
 
-                # 2) Build a Plotly bar chart
-                import plotly.express as px
+                # identify best/worst
+                max_diff = diff_by_month["Diff"].max()
+                min_diff = diff_by_month["Diff"].min()
 
-                fig = px.bar(
-                    x=month_names,
-                    y=pd_per_month.values,
-                    labels={"x": "Month", "y": "PPG"},
-                    title="Monthly Points Differential",
+                best_idx = diff_by_month["Diff"].idxmax()
+                worst_idx = diff_by_month["Diff"].idxmin()
+                best_month = diff_by_month.loc[best_idx, "month"]
+                best_value = diff_by_month.loc[best_idx, "Diff"]
+                worst_month = diff_by_month.loc[worst_idx, "month"]
+                worst_value = diff_by_month.loc[worst_idx, "Diff"]
+
+                median_diff = df["net_rating"].median()
+
+                # 2) Base bars (light gray)
+                base = alt.Chart(diff_by_month).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain, title="Month"),
+                    y=alt.Y("Diff:Q", title="Avg Margin"),
+                    color=alt.value("#83c9ff")
+                )
+                # 3) Highlight best (green) & worst (red)
+                highlight_max = alt.Chart(diff_by_month[diff_by_month.Diff == max_diff]).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain),
+                    y="Diff:Q",
+                    color=alt.value("#7defa1")
+                )
+                highlight_min = alt.Chart(diff_by_month[diff_by_month.Diff == min_diff]).mark_bar().encode(
+                    x=alt.X("month:N", sort=x_domain),
+                    y="Diff:Q",
+                    color=alt.value("#ff2b2b")
+                )
+                # 4) Median rule + label
+                median_rule = alt.Chart(pd.DataFrame({"Diff":[median_diff]})).mark_rule(
+                    color="gray", strokeDash=[4,4]
+                ).encode(y="Diff:Q")
+                median_text = alt.Chart(pd.DataFrame({"Diff":[median_diff]})).mark_text(
+                    align="left", dx=3, dy=-5, color="gray"
+                ).encode(
+                    y="Diff:Q",
                 )
 
-                # 3) (Optional) add a horizontal line at the Med PPG
-                median_pd = df_team_metric["plus_minus"].median()
-                fig.add_hline(
-                    y=median_pd,
-                    line_dash="dash",
-                    line_color="gray",
-                    annotation_text=f"Med: {median_pd:.1f}",
-                    annotation_position="bottom right"
+                chart = (
+                    base
+                    + highlight_max
+                    + highlight_min
+                    + median_rule
+                    + median_text
+                ).properties(
+                    title="Monthly Net Rating",
+                    width="container"
                 )
 
-                # 4) Final layout tweaks
-                fig.update_layout(
-                    xaxis=dict(tickmode="array", tickvals=month_names, ticktext=month_names),
-                    margin=dict(t=40, b=30, l=40, r=20)
+                st.altair_chart(chart, use_container_width=True) # type: ignore[arg-type] 
+
+                # caption with real line breaks
+                st.markdown(
+                    f"""
+                    <div style="
+                        font-size: 0.875rem;
+                        color: #888;
+                        line-height: 1.4;
+                        margin-top: 0.2rem;
+                        margin-bottom: 2rem;
+                        padding: 0 0;
+                    ">
+                    The best month was <strong>{best_month}</strong> with <strong>{best_value}</strong> pts → (green bar).<br>
+                    The worst month was <strong>{worst_month}</strong> with <strong>{worst_value}</strong> pts → (red bar).<br>
+                    The league median is {median_diff:.1f}pts → (dashed line).
+                    </div>
+                    """,
+                    unsafe_allow_html=True
                 )
 
-                st.plotly_chart(fig, use_container_width=True)
-                    
         # ─────────────────────────────────────────────────────────────────────────────
         # PPG per Month chart
         # ─────────────────────────────────────────────────────────────────────────────
-        chart_col1, chart_col2= st.columns([1,1])
-
-        # 1) PPG per Month
-        with chart_col1:
-            # 1) Prepare labels & keys
-            labels = list(eff_benchmark_metrics.keys())
-            cols   = list(eff_benchmark_metrics.values())
-
-            # 2) Pull percentiles for this team and the median (0.5)
-            team_pct = [ league_percentile.loc[team_id, c] for c in cols ]
-            med_pct  = [ 0.5 for _ in cols ]
-
-            import plotly.graph_objects as go
-
-            fig = go.Figure()
-
-            # 3) League‐median trace
-            fig.add_trace(go.Scatterpolar(
-                r=med_pct,
-                theta=labels,
-                fill="toself",
-                name="Med",
-                marker=dict(symbol="circle", size=6),
-                line=dict(color="gray", dash="dash")
-            ))
-
-            # 4) Team trace
-            fig.add_trace(go.Scatterpolar(
-                r=team_pct,
-                theta=labels,
-                fill="toself",
-                name=team_abbr,
-                marker=dict(symbol="circle", size=6),
-                line=dict(color="green")
-            ))
-
-            # 5) Layout & styling
-            fig.update_layout(
-                polar=dict(
-                    bgcolor= "rgba(0,0,0,0)",
-                    radialaxis=dict(
-                        gridcolor="gray",
-                        visible=True,
-                        range=[0, 1],
-                        tick0=0,
-                        dtick=0.25
-                    )
-                ),
-                showlegend=True,
-                legend=dict(
-                    orientation="h",
-                    x=0.5,
-                    xanchor="center",
-                    y=1.1
-                ),
-                title=f"Efficiency Radar",
-                margin=dict(t=40, b=20, l=20, r=20)
-            )
-
-            st.plotly_chart(fig, use_container_width=True)
-
-            
-            
-
-
-        # 2) Net Rating per Month
-        with chart_col2:
-            if "net_rating" in df_team_metric.columns:
-                # 1) Prepare the monthly average series
-                df = df_team_metric.copy()
-                df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
-                monthly = (
-                    df
-                    .groupby(df["game_date"].dt.month)["net_rating"]
-                    .mean()
-                    .round(2)
-                )
-                # order by first appearance in the season
-                order = (
-                    df
-                    .groupby(df["game_date"].dt.month)["game_date"]
-                    .min()
-                    .sort_values()
-                    .index
-                )
-                month_names = [months[m] for m in order]
-                monthly = monthly.reindex(order).rename(index=months).dropna()
-                # extract numeric x positions
-                x_vals = list(range(len(monthly)))
-                y_vals = monthly.values.tolist()
-
-                league_med = league_median["net_rating"]
-
-
-                fig = go.Figure()
-
-                # 2) add below‐median segments
-                for i in range(len(x_vals) - 1):
-                    seg_x = x_vals[i : i + 2]
-                    seg_y = y_vals[i : i + 2]
-                    color = "green" if sum(seg_y)/2 >= league_med else "red"
-                    fig.add_trace(go.Scatter(
-                        x=seg_x, y=seg_y,
-                        mode="lines",
-                        line=dict(color=color, width=3),
-                        showlegend=False
-                    ))
-
-                # 3) add markers for each month
-                marker_colors = [
-                    "green" if y >= league_med else "red"
-                    for y in y_vals
-                ]
-                fig.add_trace(go.Scatter(
-                    x=x_vals, y=y_vals,
-                    mode="markers",
-                    marker=dict(color=marker_colors, size=3),
-                    name=team_abbr
-                ))
-
-                # 4) add horizontal median line
-                fig.add_hline(
-                    y=league_med,
-                    line=dict(color="gray", dash="dash"),
-                    annotation_text=f"Med: {league_med:.2f}",
-                    annotation_position="bottom right"
-                )
-
-                # 5) layout tweaks
-                fig.update_layout(
-                    xaxis=dict(
-                        tickmode="array",
-                        tickvals=x_vals,
-                        ticktext=month_names,
-                        title="Month"
-                    ),
-                    yaxis_title="Net Rating",
-                    title=f"Monthly Net Rating",
-                    margin=dict(t=40, b=30, l=40, r=20)
-                )
-
-                st.plotly_chart(fig, use_container_width=True)
-
-
-        
 
         # ────────────────────────────────────────────────────────────────────────────
         # Advanced Stats KPIs
         # ────────────────────────────────────────────────────────────────────────────
-        c9, c10, c11= st.columns([1,1,2])
+        c9, c10= st.columns([1,1])
 
         #Shooting Efficiency Group bar Chart containing eFG%, TS%, FT% and 3PT%
         with c9:
-
+            # 1) Read in and compute league‐wide medians
             df_trad_all = (
-            pd.read_csv(gen_trad)
-            .rename(columns=str.lower)
-            .drop(columns=["team"], errors="ignore")
+                pd.read_csv(gen_trad)
+                .rename(columns=str.lower)
+                .drop(columns=["team"], errors="ignore")
             )
-            # all-team advanced (for efg_pct, ts_pct)
             df_adv_all = (
                 pd.read_csv(clutch_adv)
                 .rename(columns=str.lower)
                 .drop(columns=["team"], errors="ignore")
             )
-
-            # compute Meds
             median_vals = {
                 "efg_pct": df_adv_all["efg_pct"].median(),
                 "ts_pct":  df_adv_all["ts_pct"].median(),
                 "ft_pct":  df_trad_all["ft_pct"].median(),
                 "fg3_pct": df_trad_all["fg3_pct"].median(),
             }
+
+            # 2) Pull your team’s shooting metrics and melt to long form
             shoot_eff = (
-                df_team_gen_trad[["team", "team_id", "ft_pct", "fg3_pct"]]
-                .merge(
-                    df_clutch_adv[["team_id", "efg_pct", "ts_pct"]],
-                    on="team_id",
-                    how="left"
-                )
+                df_team_gen_trad[["team","team_id","ft_pct","fg3_pct"]]
+                .merge(df_clutch_adv[["team_id","efg_pct","ts_pct"]], on="team_id")
             )
-
-            # 2) Melt to long format for grouped bars
-            metrics = ["efg_pct", "ts_pct", "ft_pct", "fg3_pct"]
+            metrics = ["efg_pct","ts_pct","ft_pct","fg3_pct"]
             df_long = shoot_eff.melt(
-                id_vars="team",
+                id_vars=["team"],
                 value_vars=metrics,
-                var_name="Shooting Metric",
-                value_name="Percentage"
+                var_name="Metric",
+                value_name="Pct"
             )
 
-            # 3) Create grouped horizontal bar chart
-            fig = px.bar(
-                df_long,
-                y="Percentage",
-                x="team",
-                color="Shooting Metric",
-                orientation="v",
-                barmode="group",
-                labels={"team": "Team", "Percentage": "Efficiency"},
-                title="Shooting Efficiency"
+            # 3) Build grouped bars with xOffset
+            color_scale = alt.Scale(
+                domain=metrics,
+                range=["#83c9ff","#ffb366","#7defa1","#ff7f7f"]
             )
-
-            # constants that Plotly uses under the hood for grouped bars
-            n = len(metrics)          # number of bars in the group
-            group_width = 0.8         # default fraction of the category “slot” occupied by the entire group
-            bar_width   = group_width / n
-
-            for idx, m in enumerate(metrics):
-                # 1) compute the Med for this metric
-                med = median_vals[m]
-
-                # 2) compute the center of this bar in paper-coords
-                offset_frac = ((idx - (n-1)/2) / n) * group_width
-                center_frac = 0.5 + offset_frac
-
-                # 3) compute the left/right edges of this bar in paper-coords
-                x0 = center_frac - bar_width/2
-                x1 = center_frac + bar_width/2
-
-                # 4) draw a horizontal dashed line at y=med, only from x0→x1
-                fig.add_shape(
-                    type="line",
-                    xref="paper", x0=x0, x1=x1,
-                    yref="y",     y0=med, y1=med,
-                    line=dict(color="gray", dash="dot")
+            bars = (
+                alt.Chart(df_long)
+                .mark_bar(size=40)
+                .encode(
+                    x=alt.X("team:N", title="Team"),
+                    xOffset="Metric:N",
+                    y=alt.Y("Pct:Q", title="Shooting %"),
+                    color=alt.Color("Metric:N", scale=color_scale, legend=alt.Legend(title="Metric"))
                 )
-            st.plotly_chart(fig, use_container_width=True)
+            )
+
+            # 4) Add dashed‐gray median lines & labels for each metric
+            rules = []
+            texts = []
+            for m in metrics:
+                med = median_vals[m]
+                df_med = pd.DataFrame({"median":[med]})
+                rules.append(
+                    alt.Chart(df_med)
+                    .mark_rule(color="gray", strokeDash=[4,4])
+                    .encode(y="median:Q")
+                )
+                texts.append(
+                    alt.Chart(df_med)
+                    .mark_text(dx=3, dy=-5, color="gray")
+                    .encode(
+                        y="median:Q",
+                        text=alt.value(f"{m} med → {med:.1f}%")
+                    )
+                )
+
+            chart = (bars).properties(
+                title="Shooting Efficiency by Metric",
+                width="container",
+            )
+
+            st.altair_chart(chart, use_container_width=True)
+
+            # 5) Caption explaining colors & medians
+            st.markdown(
+                """
+                <div style="
+                    font-size:0.875rem;
+                    color:#888;
+                    line-height:1.4;
+                    margin-top:0.5rem;
+                    margin-bottom:2rem;
+                ">
+                    <strong>Blue</strong> = eFG% • <strong>Orange</strong> = TS% • 
+                    <strong>Green</strong> = FT% • <strong>Red</strong> = 3P%<br>
+                    Dashed gray lines = league medians
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
         # ────────────────────────────────────────────────────────────────────────────
         # Rebounding and Hustle Stats KPIs
         with c10:
+            # ── Prep hustle metrics ────────────────────────────────
             df_team_gen_adv = df_team_gen_adv.merge(
-                df_gen[["team_id","blka", "blk", "stl"]],
+                df_team_gen_trad[["team_id","blka", "blk", "stl"]],
                 on="team_id", how="left"
             )
             df_team_gen_adv["blk_pct"] = (df_team_gen_adv["blk"] / df_team_gen_adv["blka"]).fillna(0)
-            df_hustle = df_team_gen_adv[["team", "team_id", "dreb_pct", "oreb_pct", "stl", "blk_pct"]]
-            df_hustle = df_hustle.melt(
-                id_vars=["team", "team_id"],
-                value_vars=["dreb_pct", "oreb_pct", "stl", "blk_pct"],
-                var_name="Hustle Metric",
-                value_name="Percentage"
+
+            # get medians
+            metrics = ["dreb_pct", "oreb_pct", "stl", "blk_pct"]
+            median_vals = {m: df_team_gen_adv[m].median() for m in metrics}
+
+            # melt into long form
+            df_hustle = (
+                df_team_gen_adv[["team"] + metrics]
+                .melt(id_vars="team",
+                    value_vars=metrics,
+                    var_name="Hustle Metric",
+                    value_name="Percentage")
             )
 
-            fig = px.bar(
-                df_hustle,
-                y="Percentage",
-                x="team",
-                color="Hustle Metric",
-                orientation="v",
-                barmode="group",
-                labels={"team": "Team", "Percentage": "Percentage"},
-                title="Rebounding and Hustle"
+            # ── Base bars ───────────────────────────────────────────
+            color_scale = alt.Scale(
+                domain=metrics,
+                range=["#83c9ff","#ffb366","#7defa1","#ff7f7f"]
             )
-            st.plotly_chart(fig, use_container_width=True)
-        
-            #Win loss timeline line chart
-        with c11:
-            df = df_team_metric.copy()
-            df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
-            df = df.sort_values("game_date")
+            bars = (
+                alt.Chart(df_hustle)
+                .mark_bar(size=40)
+                .encode(
+                    x=alt.X("team:N", title="Team"),
+                    xOffset=alt.XOffset("Hustle Metric:N"),
+                    y=alt.Y("Percentage:Q", title="Value"),
+                    color=alt.Color("Hustle Metric:N",
+                                    scale=color_scale,
+                                    legend=alt.Legend(title="Metric"))
+                )
+            )
 
-            median_mov = df["plus_minus"].median()
-            fig = go.Figure()
+            # ── Median lines & labels ───────────────────────────────
+            layers = [bars]
+            for m in metrics:
+                med = median_vals[m]
+                df_med = pd.DataFrame({"median":[med]})
+                # rule
+                layers.append(
+                    alt.Chart(df_med)
+                    .mark_rule(color="gray", strokeDash=[4,4])
+                    .encode(y="median:Q")
+                )
+                # label
+                layers.append(
+                    alt.Chart(df_med)
+                    .mark_text(dx=3, dy=-5, color="gray")
+                    .encode(
+                        y="median:Q",
+                        text=alt.value(f"{m} median → {med:.2f}")
+                    )
+                )
 
-            # split above/below so you can color both line segments and markers
-            df["above"] = df["plus_minus"].where(df["plus_minus"] >= median_mov)
-            df["below"] = df["plus_minus"].where(df["plus_minus"] <  median_mov)
-            x = df["game_date"]
+            # ── Compose & render ─────────────────────────────────────
+            chart = (
+                alt.layer(*layers)
+                .properties(
+                    title="Rebounding & Hustle Metrics",
+                    width="container",
+                )
+            )
 
-            # below‐median (red)
-            fig.add_trace(go.Scatter(
-                x=x, y=df["below"],
-                mode="lines+markers",
-                line=dict(color="red", width=2),
-                marker=dict(size=6),
-                name="Below Median"
+            st.altair_chart(chart, use_container_width=True) #type: ignore[arg-type]
+
+
+        radar1, radar2 = st.columns([1,1])
+        with radar2:
+            # 1) build df_eff
+            labels = list(eff_benchmark_metrics.keys())
+            cols   = list(eff_benchmark_metrics.values())
+            team_pct = [ league_percentile.loc[team_id, c] for c in cols ]
+            df_eff = pd.DataFrame({
+                "Metric": labels,
+                "Value":  [round(p * 100, 1) for p in team_pct]
+            })
+            median_val = 50
+            # add the combined text label
+            df_eff["label"] = df_eff.apply(lambda r: f"{r.Metric}: {r.Value:.1f}", axis=1)
+
+            scale = alt.Scale(domain=[0,100], rangeMin=20, rangeMax=120)
+
+            median_ring = (
+                alt.Chart(pd.DataFrame({"m":[median_val]}))
+                .mark_arc(stroke="gray", strokeDash=[4,4], fillOpacity=0)
+                .encode(
+                    theta=alt.value(2*math.pi),
+                    radius=alt.Radius("m:Q", scale=scale)
             ))
-            # above‐median (green)
-            fig.add_trace(go.Scatter(
-                x=x, y=df["above"],
-                mode="lines+markers",
-                line=dict(color="green", width=2),
-                marker=dict(size=6),
-                name="Above Median"
+            above = df_eff[df_eff.Value >= median_val]
+            below = df_eff[df_eff.Value <  median_val]
+
+            bars_above = (
+                alt.Chart(above)
+                .mark_arc(innerRadius=30, stroke="#fff")
+                .encode(
+                    theta=alt.Theta("Metric:N", sort=labels, title=None),
+                    radius=alt.Radius("Value:Q", scale=scale),
+                    color=alt.value("green")
+            ))
+            bars_below = (
+                alt.Chart(below)
+                .mark_arc(innerRadius=30, stroke="#fff")
+                .encode(
+                    theta=alt.Theta("Metric:N", sort=labels, title=None),
+                    radius=alt.Radius("Value:Q", scale=scale),
+                    color=alt.value("red")
+            ))
+            # now use the new label field
+            labels_layer = (
+                alt.Chart(df_eff)
+                .mark_text(radiusOffset=30, fontSize=12)
+                .encode(
+                    theta=alt.Theta("Metric:N", sort=labels),
+                    radius=alt.Radius("Value:Q", scale=scale),
+                    text=alt.Text("label:N"),
+                    color=alt.value("white")
             ))
 
-            # horizontal median line
-            fig.add_hline(
-                y=median_mov,
-                line=dict(color="gray", dash="dash"),
-                annotation_text=f"med: {median_mov:.1f}",
-                annotation_position="bottom right"
+            radar = alt.layer(
+                median_ring,
+                bars_below, bars_above,
+                labels_layer
+            ).properties(
+                width="container",
+                title=f"Efficiency Radar — {team_name}"
+            ).configure_view(stroke=None)
+
+            st.altair_chart(radar, use_container_width=True) #type: ignore[arg-type]
+            st.markdown(
+                """
+                <div style="
+                    font-size:0.875rem;
+                    color:#888;
+                    line-height:1.4;
+                    margin-top:0.5rem;
+                    margin-bottom:2rem;
+                ">
+                    <strong>Blue</strong> = eFG% • <strong>Orange</strong> = TS% • 
+                    <strong>Green</strong> = FT% • <strong>Red</strong> = 3P%<br>
+                    Dashed gray lines = league medians
+                </div>
+                """,
+                unsafe_allow_html=True,
             )
 
-            fig.update_layout(
-                xaxis_title="Game Date",
-                yaxis_title="Margin of Victory",
-                legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
-                title= "Margin of Victory timeline"
+
+        with radar1:
+
+            ft_pct = df_team_gen_scoring["pct_pts_ft"].iloc[0]
+            fg2_pct = df_team_gen_scoring["pct_pts_2pt"].iloc[0]
+            fg3_pct = df_team_gen_scoring["pct_pts_3pt"].iloc[0]
+            pts = df_team_gen_scoring["pts"].iloc[0]
+
+            ft_ppg  = round((ft_pct * pts), 1)
+            fg2_ppg = round((fg2_pct * pts), 1)
+            fg3_ppg = round((fg3_pct * pts), 1)
+
+            # 2) Build a DataFrame of shot-type → ppg → share
+            df_shot = pd.DataFrame({
+                "Shot Type": ["Free Throws", "Two-Pointers", "Three-Pointers"],
+                "PPG":        [ft_ppg, fg2_ppg, fg3_ppg],
+            })
+            #df_shot_share["Share"] = df_shot_share["PPG"] / df_shot_share["PPG"].sum()
+
+                    # 2) Build a little helper array for the θ‐ordering:
+            order = ["Free Throws", "Two-Pointers", "Three-Pointers"]
+
+             # define a common scale so arcs and text share the exact same colors
+            color_scale = alt.Scale(scheme="category10")
+
+            # 1) Arc layer
+            arcs = (
+                alt.Chart(df_shot)
+                .mark_arc(innerRadius=40, stroke="white")
+                .encode(
+                    theta=alt.Theta("Shot Type:N", sort=order, title=None),
+                    radius=alt.Radius("PPG:Q",
+                                    scale=alt.Scale(type="sqrt", zero=True, rangeMin=20),
+                                    title="PPG"),
+                    color=alt.Color("Shot Type:N",
+                                    scale=color_scale,
+                                    legend=alt.Legend(title="Shot Type")),
+                    tooltip=[
+                        alt.Tooltip("Shot Type:N", title="Shot Type"),
+                        alt.Tooltip("PPG:Q", format=".1f", title="PPG")
+                    ],
+                )
             )
 
-            st.plotly_chart(fig, use_container_width=True)
+            # 2) Text layer, color‐mapped by the same "Shot Type"
+            labels = (
+                alt.Chart(df_shot)
+                .mark_text(radiusOffset=20, fontSize=13)
+                .encode(
+                    theta=alt.Theta("Shot Type:N", sort=order),
+                    radius=alt.Radius("PPG:Q",
+                                    scale=alt.Scale(type="sqrt", zero=True, rangeMin=20)),
+                    text=alt.Text("PPG:Q", format=".1f"),
+                    color=alt.Color("Shot Type:N", scale=color_scale, legend=None)
+                )
+            )
+
+            # 3) layer them
+            chart = (arcs + labels).properties(
+                title=f"{team_abbr} Shot-Type Breakdown (PPG share)",
+                width="container"
+            )
+
+
+            st.altair_chart(chart, use_container_width=True) #type: ignore[arg-type]
 
 
 
