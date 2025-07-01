@@ -1,4 +1,3 @@
-from tokenize import Ignore
 import streamlit as st
 from pathlib import Path
 import pandas as pd
@@ -418,7 +417,8 @@ def render_tab(season_type: str):
         min_games: int | None = None,
         season_type: str = "regular",
     ) -> dict[str, pd.DataFrame]:
-        """Return top-3 PTS/REB/AST leaders for ``team_id``.
+        """Return top-3 PTS/REB/AST leaders for ``team_id`` along with league
+        ranks.
 
         Parameters
         ----------
@@ -427,47 +427,80 @@ def render_tab(season_type: str):
         team_id : int
             Identifier for the team to compute leaders for.
         min_games : int | None, optional
-            Minimum games played required to qualify. If ``None``, the
-            threshold defaults based on ``season_type``.
+            Minimum games played required to qualify. If ``None``, the threshold
+            defaults based on ``season_type``.
         season_type : str, optional
-            "regular" for regular-season data or "playoffs" for postseason
-            data. When ``min_games`` is ``None``, the default threshold is
-            ``50`` games for the regular season and ``2`` for the playoffs.
+            ``"regular"`` for regular-season data or ``"playoffs"`` for
+            postseason data. When ``min_games`` is ``None``, the default
+            threshold is ``50`` games for the regular season and ``2`` for the
+            playoffs.
+
+        Returns
+        -------
+        dict[str, pd.DataFrame]
+            Three tables keyed by ``"pts"``, ``"reb"`` and ``"ast"``. Each table
+            contains ``player``, ``headshot_url``, the per-game value, the
+            player’s league ``rank`` and ``total_players`` indicating how many
+            players met the game threshold.
         """
 
         if min_games is None:
-            min_games = 2 if season_type.lower() == "playoffs" else 50
-        # 1) restrict to this team
-        team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
+            min_games = 4 if season_type.lower() == "playoffs" else 50
 
-        # 2) count games per player
-        games_played = (
-            team_df
-            .groupby(["player_id","player"])["game_id"]
+        # ── Compute league-wide averages and ranks ────────────────────────
+        league_games = (
+            df_player_all
+            .groupby(["player_id", "player", "headshot_url"])["game_id"]
             .nunique()
             .reset_index(name="games")
         )
-
-        # 3) compute per-game averages
-        avg_stats = (
-            team_df
-            .groupby(["player_id","player"])[["pts","reb","ast"]]
+        league_avgs = (
+            df_player_all
+            .groupby(["player_id", "player", "headshot_url"])[["pts", "reb", "ast"]]
             .mean()
             .reset_index()
         )
+        league_df = league_avgs.merge(league_games, on=["player_id", "player", "headshot_url"])
+        league_df = league_df.loc[league_df["games"] >= min_games]
+        eligible_players = len(league_df)
+        for stat in ["pts", "reb", "ast"]:
+            league_df[f"{stat}_rank"] = league_df[stat].rank(method="min", ascending=False).astype(int)
 
-        # 4) merge and filter by min_games
-        merged = avg_stats.merge(games_played, on=["player_id","player"])
-        qualified = merged.loc[merged["games"] >= min_games]
+        # ── Compute team-only averages ────────────────────────────────────
+        team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
+        team_games = (
+            team_df
+            .groupby(["player_id", "player", "headshot_url"])["game_id"]
+            .nunique()
+            .reset_index(name="games")
+        )
+        team_avgs = (
+            team_df
+            .groupby(["player_id", "player", "headshot_url"])[["pts", "reb", "ast"]]
+            .mean()
+            .reset_index()
+        )
+        team_stats = team_avgs.merge(team_games, on=["player_id", "player", "headshot_url"])
+        team_stats = team_stats.loc[team_stats["games"] >= min_games]
 
-        # 5) pick top 3 for each stat
+        # attach league ranks
+        team_stats = team_stats.merge(
+            league_df[["player_id", "pts_rank", "reb_rank", "ast_rank"]],
+            on="player_id",
+            how="left",
+        )
+
+        # ── pick top 3 for each stat with rank ────────────────────────────
         leaders: dict[str, pd.DataFrame] = {}
-        for stat in ["pts","reb","ast"]:
+        for stat in ["pts", "reb", "ast"]:
+            cols = ["player", "headshot_url", stat, f"{stat}_rank"]
             top3 = (
-                qualified
-                .nlargest(3, stat)[["player", stat]]
+                team_stats
+                .nlargest(3, stat)[cols]
+                .rename(columns={f"{stat}_rank": "rank"})
                 .reset_index(drop=True)
             )
+            top3["total_players"] = eligible_players
             leaders[stat] = top3
 
         return leaders
@@ -494,13 +527,13 @@ def render_tab(season_type: str):
     # Stat Leaders (Per Game, min 50 games) – use the helper func
     # ─────────────────────────────────────────────────────────────
     leaders = get_team_leaders(
-        df_players_boxscore_trad,
+        df_player_all,
         team_id,
         season_type=season_type,
     )
-    top3_pts = leaders["pts"]   # DataFrame with columns ["player","pts"]
-    top3_reb = leaders["reb"]   # DataFrame with columns ["player","reb"]
-    top3_ast = leaders["ast"]   # DataFrame with columns ["player","ast"]
+    top3_pts = leaders["pts"]   # columns: ["player","headshot_url","pts","rank"]
+    top3_reb = leaders["reb"]   # columns: ["player","headshot_url","reb","rank"]
+    top3_ast = leaders["ast"]   # columns: ["player","headshot_url","ast","rank"]
 
     
     df_players_gen_adv = df_players_gen_adv[df_players_gen_adv["team_id"] == team_id]
@@ -889,90 +922,6 @@ def render_tab(season_type: str):
 
     total_teams = len(league)
 
-    # ─────────────────────────────────────────────────────────────
-    # Stat Leaders (Per Game, min 50 games)
-    # ─────────────────────────────────────────────────────────────
-    # 1) Filter to this team’s per-game data
-    team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
-
-    # 2) Count unique games per player
-    games_played = (
-    team_df
-    .groupby(["player_id", "player", "headshot_url"])["game_id"]
-    .nunique()
-    .reset_index(name="games")
-    )
-
-    # 3) Compute per-game PTS average
-    avg_pts = (
-        team_df
-        .groupby(["player_id", "player", "headshot_url"])["pts"]
-        .mean()
-        .reset_index(name="ppg")
-    )
-
-    # 4) Merge and enforce ≥ 50 games
-    qualified_pts = (
-        avg_pts
-        .merge(games_played, on=["player_id","player","headshot_url"])
-        .loc[lambda df: df["games"] >= 50]
-    )
-
-    # 5) Pick Top 3 by PPG
-    top3_pts = qualified_pts.nlargest(3, "ppg").reset_index(drop=True)
-
-    # 2) Count unique games per player
-    games_played = (
-    team_df
-    .groupby(["player_id", "player", "headshot_url"])["game_id"]
-    .nunique()
-    .reset_index(name="games")
-    )
-
-    # 3) Compute per-game PTS average
-    avg_reb = (
-        team_df
-        .groupby(["player_id", "player", "headshot_url"])["reb"]
-        .mean()
-        .reset_index(name="rpg")
-    )
-
-    # 4) Merge and enforce ≥ 50 games
-    qualified_reb = (
-        avg_reb
-        .merge(games_played, on=["player_id","player","headshot_url"])
-        .loc[lambda df: df["games"] >= 50]
-    )
-
-    # 5) Pick Top 3 by PPG
-    top3_reb = qualified_reb.nlargest(3, "rpg").reset_index(drop=True)
-
-    # 2) Count unique games per player
-    games_played = (
-    team_df
-    .groupby(["player_id", "player", "headshot_url"])["game_id"]
-    .nunique()
-    .reset_index(name="games")
-    )
-
-    # 3) Compute per-game PTS average
-    avg_ast = (
-        team_df
-        .groupby(["player_id", "player", "headshot_url"])["ast"]
-        .mean()
-        .reset_index(name="apg")
-    )
-
-    # 4) Merge and enforce ≥ 50 games
-    qualified_ast = (
-        avg_ast
-        .merge(games_played, on=["player_id","player","headshot_url"])
-        .loc[lambda df: df["games"] >= 50]
-    )
-
-    # 5) Pick Top 3 by PPG
-    top3_ast = qualified_ast.nlargest(3, "apg").reset_index(drop=True)
-
     
 
 
@@ -1334,14 +1283,14 @@ def render_tab(season_type: str):
 
         # scale headshots down 12× then 1.5×
         orig_w, orig_h = 1040, 760
-        new_w = round(orig_w / (12 * 1.5))
-        new_h = round(orig_h / (12 * 1.5))
+        new_w = round(orig_w / (15))
+        new_h = round(orig_h / (15))
 
         # define titles, suffixes and their dfs
         stat_info = [
-            ("Top 3 Scorers", "PPG", "ppg", top3_pts),
-            ("Rebound Leaders", "RPG", "rpg", top3_reb),
-            ("Assist Leaders", "APG", "apg", top3_ast),
+            ("Scoring Leaders", "PPG", "pts", top3_pts),
+            ("Rebound Leaders", "RPG", "reb", top3_reb),
+            ("Assist Leaders", "APG", "ast", top3_ast),
         ]
 
         cols = st.columns(3)
@@ -1360,6 +1309,11 @@ def render_tab(season_type: str):
                 '''
                 # each of the top 3 players
                 for i, row in df_lead.iterrows():
+                    rank_html = (
+                        "<span style='color:#daa520;font-weight:600;'>👑 led the league</span>"
+                        if row["rank"] == 1
+                        else f"<span style='color:#aaa;font-size:0.8rem;'>#{int(row['rank'])} of {int(row['total_players'])} players</span>"
+                    )
                     html += f'''
                 <div style="
                     display:flex;
@@ -1376,9 +1330,12 @@ def render_tab(season_type: str):
                             object-fit:cover;
                             margin-right:0.75rem;
                         ">
-                    <span style="font-weight:600; color:#fff;">
-                        {i+1}. {row['player']}
-                    </span>
+                    <div style="display:flex; flex-direction:column;">
+                        <span style="font-weight:600; color:#fff;">
+                        {row['player']}
+                        </span>
+                        {rank_html}
+                    </div>
                     </div>
                     <span style="font-weight:700; color:#0a7dfa;">
                     {row[colname]:.1f} {suffix}
