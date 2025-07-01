@@ -411,12 +411,32 @@ def render_tab(season_type: str):
 
 
     @st.cache_data
-    def get_team_leaders(df_player_all: pd.DataFrame, team_id: int, min_games: int = 50
+    def get_team_leaders(
+        df_player_all: pd.DataFrame,
+        team_id: int,
+        *,
+        min_games: int | None = None,
+        season_type: str = "regular",
     ) -> dict[str, pd.DataFrame]:
+        """Return top-3 PTS/REB/AST leaders for ``team_id``.
+
+        Parameters
+        ----------
+        df_player_all : pd.DataFrame
+            Per-game player box score data.
+        team_id : int
+            Identifier for the team to compute leaders for.
+        min_games : int | None, optional
+            Minimum games played required to qualify. If ``None``, the
+            threshold defaults based on ``season_type``.
+        season_type : str, optional
+            "regular" for regular-season data or "playoffs" for postseason
+            data. When ``min_games`` is ``None``, the default threshold is
+            ``50`` games for the regular season and ``2`` for the playoffs.
         """
-        From a per-game `df_player_all` (with columns: game_id, player_id, player, team_id, pts, reb, ast, …),
-        compute top-3 per-game PTS, REB, AST for that team, requiring min_games.
-        """
+
+        if min_games is None:
+            min_games = 2 if season_type.lower() == "playoffs" else 50
         # 1) restrict to this team
         team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
 
@@ -473,7 +493,11 @@ def render_tab(season_type: str):
     # ─────────────────────────────────────────────────────────────
     # Stat Leaders (Per Game, min 50 games) – use the helper func
     # ─────────────────────────────────────────────────────────────
-    leaders = get_team_leaders(df_players_boxscore_trad, team_id, min_games=50)
+    leaders = get_team_leaders(
+        df_players_boxscore_trad,
+        team_id,
+        season_type=season_type,
+    )
     top3_pts = leaders["pts"]   # DataFrame with columns ["player","pts"]
     top3_reb = leaders["reb"]   # DataFrame with columns ["player","reb"]
     top3_ast = leaders["ast"]   # DataFrame with columns ["player","ast"]
