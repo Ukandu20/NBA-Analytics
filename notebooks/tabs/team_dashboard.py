@@ -58,55 +58,6 @@ player_info = player_bios.loc[player_bios["team"] == team_abbr].iloc[0]
 player_id = int(player_info["player_id"])
 player_name = player_info["player"]
 
-@st.cache_data
-def get_team_leaders(
-    df_player_all: pd.DataFrame,
-    team_id: int,
-    min_games: int = 50
-) -> dict[str, pd.DataFrame]:
-    """
-    From a per-game `df_player_all` (with columns: game_id, player_id, player, team_id, pts, reb, ast, …),
-    compute top-3 per-game PTS, REB, AST for that team, requiring min_games.
-    """
-    # 1) restrict to this team
-    team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
-
-    # 2) count games per player
-    games_played = (
-        team_df
-        .groupby(["player_id","player"])["game_id"]
-        .nunique()
-        .reset_index(name="games")
-    )
-
-    # 3) compute per-game averages
-    avg_stats = (
-        team_df
-        .groupby(["player_id","player"])[["pts","reb","ast"]]
-        .mean()
-        .reset_index()
-    )
-
-    # 4) merge and filter by min_games
-    merged = avg_stats.merge(games_played, on=["player_id","player"])
-    qualified = merged.loc[merged["games"] >= min_games]
-
-    # 5) pick top 3 for each stat
-    leaders: dict[str, pd.DataFrame] = {}
-    for stat in ["pts","reb","ast"]:
-        top3 = (
-            qualified
-            .nlargest(3, stat)[["player", stat]]
-            .reset_index(drop=True)
-        )
-        leaders[stat] = top3
-
-    return leaders
-
-
-
-
-
 def render_tab(season_type: str):
 
 
@@ -115,11 +66,11 @@ def render_tab(season_type: str):
     # ─────────────────────────────────────────────────────────────────────────────
     DEFAULT_METRIC      = "adv_boxscores"
     DEFAULT_MEASURE     = "pergame"
-    DEFAULT_SEASON_TYPE = season_type
+    SEASON_TYPE = season_type
     DEFAULT_MODE = "advanced"
 
     #Base directory for team stats
-    base_dir = (TEAM_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+    base_dir = (TEAM_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / SEASON_TYPE)
     df_all = pd.concat([
         pd.read_csv(f).assign(season=season)
         for f in base_dir.glob("*.csv")
@@ -135,7 +86,7 @@ def render_tab(season_type: str):
     # Load advanced boxscores for this season
     # ─────────────────────────────────────────────────────────────────────────────
 
-    boxscore_dir = (TEAM_DIR / DEFAULT_METRIC / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
+    boxscore_dir = (TEAM_DIR / DEFAULT_METRIC / season / DEFAULT_MEASURE / SEASON_TYPE)
     box_adv = (boxscore_dir / "advanced.csv")
     box_trad = (boxscore_dir / "traditional.csv")
     df_boxscore_adv = pd.read_csv(box_adv)
@@ -185,7 +136,7 @@ def render_tab(season_type: str):
     # ─────────────────────────────────────────────────────────────────────────────
     # Load per-team summary ("general") data for this season
     # ─────────────────────────────────────────────────────────────────────────────
-    general_dir = (    TEAM_DIR    / "general"    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+    general_dir = (    TEAM_DIR    / "general"    / season    / DEFAULT_MEASURE    / SEASON_TYPE)
     gen_trad = (general_dir / "traditional.csv")
     gen_adv = (general_dir / "advanced.csv")
     gen_score = (general_dir / "scoring.csv")
@@ -238,7 +189,7 @@ def render_tab(season_type: str):
     )
 
     # Load clutch stats for this season
-    clutch_dir = (TEAM_DIR / "clutch" / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
+    clutch_dir = (TEAM_DIR / "clutch" / season / DEFAULT_MEASURE / SEASON_TYPE)
     clutch_adv = (clutch_dir / "advanced.csv")
     clutch_trad = (clutch_dir / "traditional.csv")
     df_clutch_adv = pd.read_csv(clutch_adv)
@@ -271,7 +222,7 @@ def render_tab(season_type: str):
 
 
     #base dir for player Data
-    player_dir = (PLAYER_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+    player_dir = (PLAYER_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / SEASON_TYPE)
 
     df_player_all = pd.concat([
         pd.read_csv(f).assign(season=season)
@@ -290,9 +241,9 @@ def render_tab(season_type: str):
     # Load advanced boxscores for this season
     # ─────────────────────────────────────────────────────────────────────────────
 
-    players_boxscore_dir = (PLAYER_DIR / DEFAULT_METRIC / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
-    players_box_adv = (players_boxscore_dir / f"{season_type}_advanced.csv")
-    players_box_trad = (players_boxscore_dir / f"{season_type}_traditional.csv")
+    players_boxscore_dir = (PLAYER_DIR / DEFAULT_METRIC / season / DEFAULT_MEASURE / SEASON_TYPE)
+    players_box_adv = (players_boxscore_dir / "advanced.csv")
+    players_box_trad = (players_boxscore_dir / "traditional.csv")
     df_players_boxscore_adv = pd.read_csv(players_box_adv)
     df_players_boxscore_trad = pd.read_csv(players_box_trad)
     df_players_boxscore = pd.concat([
@@ -332,7 +283,7 @@ def render_tab(season_type: str):
     )
     df_players_boxscore_adv = df_players_boxscore_adv.drop_duplicates(subset=["game_id", "matchup"])
 
-    players_general_dir = (    PLAYER_DIR    / "general"    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+    players_general_dir = (    PLAYER_DIR    / "general"    / season    / DEFAULT_MEASURE    / SEASON_TYPE)
     players_gen_trad = (players_general_dir / "traditional.csv")
     players_gen_adv = (players_general_dir / "advanced.csv")
     players_gen_score = (players_general_dir / "scoring.csv")
@@ -419,7 +370,7 @@ def render_tab(season_type: str):
 
     if prev_season:
         # a) Last season’s summary
-        prev_gen_dir = TEAM_DIR / "general" / prev_season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE
+        prev_gen_dir = TEAM_DIR / "general" / prev_season / DEFAULT_MEASURE / SEASON_TYPE
         df_prev_gen_trad = (
             pd.read_csv(prev_gen_dir / "traditional.csv")
             .rename(columns=str.lower)
@@ -437,7 +388,7 @@ def render_tab(season_type: str):
         )
         prev_team_gen_adv = df_prev_gen_adv[df_prev_gen_adv["team_id"] == team_id]
         # b) Last season’s clutch adv for net rating
-        prev_clutch_dir = TEAM_DIR / "clutch" / prev_season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE
+        prev_clutch_dir = TEAM_DIR / "clutch" / prev_season / DEFAULT_MEASURE / SEASON_TYPE
         df_prev_clutch_adv = (
             pd.read_csv(prev_clutch_dir / "advanced.csv")
             .rename(columns=str.lower)
@@ -465,7 +416,47 @@ def render_tab(season_type: str):
         prev_win_pct = prev_net_rating = prev_off_rating = prev_def_rating = None
 
 
+    @st.cache_data
+    def get_team_leaders(df_player_all: pd.DataFrame, team_id: int, min_games: int = 50
+    ) -> dict[str, pd.DataFrame]:
+        """
+        From a per-game `df_player_all` (with columns: game_id, player_id, player, team_id, pts, reb, ast, …),
+        compute top-3 per-game PTS, REB, AST for that team, requiring min_games.
+        """
+        # 1) restrict to this team
+        team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
 
+        # 2) count games per player
+        games_played = (
+            team_df
+            .groupby(["player_id","player"])["game_id"]
+            .nunique()
+            .reset_index(name="games")
+        )
+
+        # 3) compute per-game averages
+        avg_stats = (
+            team_df
+            .groupby(["player_id","player"])[["pts","reb","ast"]]
+            .mean()
+            .reset_index()
+        )
+
+        # 4) merge and filter by min_games
+        merged = avg_stats.merge(games_played, on=["player_id","player"])
+        qualified = merged.loc[merged["games"] >= min_games]
+
+        # 5) pick top 3 for each stat
+        leaders: dict[str, pd.DataFrame] = {}
+        for stat in ["pts","reb","ast"]:
+            top3 = (
+                qualified
+                .nlargest(3, stat)[["player", stat]]
+                .reset_index(drop=True)
+            )
+            leaders[stat] = top3
+
+        return leaders
 
     # ─────────────────────────────────────────────────────────────────────────────
     # Filter both tables to the selected team
