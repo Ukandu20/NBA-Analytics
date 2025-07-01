@@ -1,13 +1,7 @@
 from tokenize import Ignore
-from turtle import title
 import streamlit as st
 from pathlib import Path
 import pandas as pd
-from io import BytesIO
-from PIL import Image
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import glob
 import plotly.graph_objects as go
 import plotly.express as px
