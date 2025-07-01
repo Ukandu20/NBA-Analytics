@@ -1,3 +1,4 @@
+from tokenize import Ignore
 from turtle import title
 import streamlit as st
 from pathlib import Path
@@ -19,6 +20,8 @@ import math
 DATA_DIR   = Path(__file__).resolve().parents[2] / "data" / "processed"
 TEAM_DIR   = DATA_DIR / "team_stats"
 TEAM_DATA  = DATA_DIR / "teams_cleaned.csv"
+PLAYER_DIR = DATA_DIR / "player_stats"
+PLAYER_DATA = DATA_DIR / "all_players_cleaned.csv"
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Page configuration
@@ -49,6 +52,59 @@ team_abbr = st.sidebar.selectbox("Team", team_codes, index=0)
 team_info = team_bios.loc[team_bios["team"] == team_abbr].iloc[0]
 team_id   = int(team_info["team_id"])
 team_name = team_info["team_name"]
+
+player_bios = pd.read_csv(PLAYER_DATA).rename(columns=str.lower).drop(columns=["player_id"]).rename(columns={"pid": "player_id"}, errors="ignore")
+player_info = player_bios.loc[player_bios["team"] == team_abbr].iloc[0]
+player_id = int(player_info["player_id"])
+player_name = player_info["player"]
+
+@st.cache_data
+def get_team_leaders(
+    df_player_all: pd.DataFrame,
+    team_id: int,
+    min_games: int = 50
+) -> dict[str, pd.DataFrame]:
+    """
+    From a per-game `df_player_all` (with columns: game_id, player_id, player, team_id, pts, reb, ast, …),
+    compute top-3 per-game PTS, REB, AST for that team, requiring min_games.
+    """
+    # 1) restrict to this team
+    team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
+
+    # 2) count games per player
+    games_played = (
+        team_df
+        .groupby(["player_id","player"])["game_id"]
+        .nunique()
+        .reset_index(name="games")
+    )
+
+    # 3) compute per-game averages
+    avg_stats = (
+        team_df
+        .groupby(["player_id","player"])[["pts","reb","ast"]]
+        .mean()
+        .reset_index()
+    )
+
+    # 4) merge and filter by min_games
+    merged = avg_stats.merge(games_played, on=["player_id","player"])
+    qualified = merged.loc[merged["games"] >= min_games]
+
+    # 5) pick top 3 for each stat
+    leaders: dict[str, pd.DataFrame] = {}
+    for stat in ["pts","reb","ast"]:
+        top3 = (
+            qualified
+            .nlargest(3, stat)[["player", stat]]
+            .reset_index(drop=True)
+        )
+        leaders[stat] = top3
+
+    return leaders
+
+
+
 
 
 def render_tab(season_type: str):
@@ -214,6 +270,120 @@ def render_tab(season_type: str):
     )
 
 
+    #base dir for player Data
+    player_dir = (PLAYER_DIR    / DEFAULT_METRIC    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+
+    df_player_all = pd.concat([
+        pd.read_csv(f).assign(season=season)
+        for f in player_dir.glob("*.csv")
+    ], ignore_index=True)
+
+
+    # drop any stray 'team' col, then merge in canonical team info
+    df_player_all = df_player_all.drop(columns=["team"], errors="ignore")
+    df_player_all = df_player_all.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
+    # ─────────────────────────────────────────────────────────────────────────────
+    # Load advanced boxscores for this season
+    # ─────────────────────────────────────────────────────────────────────────────
+
+    players_boxscore_dir = (PLAYER_DIR / DEFAULT_METRIC / season / DEFAULT_MEASURE / DEFAULT_SEASON_TYPE)
+    players_box_adv = (players_boxscore_dir / f"{season_type}_advanced.csv")
+    players_box_trad = (players_boxscore_dir / f"{season_type}_traditional.csv")
+    df_players_boxscore_adv = pd.read_csv(players_box_adv)
+    df_players_boxscore_trad = pd.read_csv(players_box_trad)
+    df_players_boxscore = pd.concat([
+        pd.read_csv(f).assign(season=season)
+        for f in players_boxscore_dir.glob("*.csv")
+    ], ignore_index=True)
+
+    df_players_boxscore = df_players_boxscore.rename(columns=str.lower)
+    df_players_boxscore = df_players_boxscore.drop(columns=["team"], errors="ignore")
+    df_players_boxscore = df_players_boxscore.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
+    df_players_boxscore_adv = df_players_boxscore_adv.rename(columns=str.lower)
+    df_players_boxscore_adv = df_players_boxscore_adv.drop(columns=["team"], errors="ignore")
+    df_players_boxscore_adv = df_players_boxscore_adv.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
+    df_players_boxscore_trad = df_players_boxscore_trad.rename(columns=str.lower)
+    df_players_boxscore_trad = df_players_boxscore_trad.drop(columns=["team"], errors="ignore")
+    df_players_boxscore_trad = df_players_boxscore_trad.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
+    pm = (
+        df_players_boxscore_trad
+        .loc[:, ["game_id","matchup","plus_minus","pts", "ast", "reb"]]     
+    )
+    df_players_boxscore_adv = df_players_boxscore_adv.merge(
+        pm,
+        on=["game_id", "matchup"],
+        how="left"    
+    )
+    df_players_boxscore_adv = df_players_boxscore_adv.drop_duplicates(subset=["game_id", "matchup"])
+
+    players_general_dir = (    PLAYER_DIR    / "general"    / season    / DEFAULT_MEASURE    / DEFAULT_SEASON_TYPE)
+    players_gen_trad = (players_general_dir / "traditional.csv")
+    players_gen_adv = (players_general_dir / "advanced.csv")
+    players_gen_score = (players_general_dir / "scoring.csv")
+    df_players_gen = pd.concat([
+        pd.read_csv(f).assign(season=season)
+        for f in players_general_dir.glob("*.csv")
+    ], ignore_index=True)
+
+    df_players_gen_trad = pd.read_csv(players_gen_trad)
+    df_players_gen_adv = pd.read_csv(players_gen_adv)
+    df_players_gen_scoring = pd.read_csv(players_gen_score)
+
+    df_players_gen_trad = df_players_gen_trad.rename(columns=str.lower)
+    df_players_gen_trad = df_players_gen_trad.drop(columns=["team"], errors="ignore")
+    df_players_gen_trad = df_players_gen_trad.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
+    df_players_gen_adv = df_players_gen_adv.rename(columns=str.lower)
+    df_players_gen_adv = df_players_gen_adv.drop(columns=["team"], errors="ignore")
+    df_players_gen_adv = df_players_gen_adv.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+    # bring only the plus_minus column into your advanced‐summary table
+    df_players_gen_adv = df_players_gen_adv.merge(
+        df_players_gen_trad[["player_id", "plus_minus"]],
+        on="player_id",
+        how="left"
+    )
+
+    df_players_gen_scoring = df_players_gen_scoring.rename(columns=str.lower)
+    df_players_gen_scoring = df_players_gen_scoring.drop(columns=["team"], errors="ignore")
+    df_players_gen_scoring = df_players_gen_scoring.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+    df_players_gen_scoring = df_players_gen_scoring.merge(
+        df_players_gen_trad[["player_id", "pts"]],
+        on="player_id",
+        how="left"
+        )
+
+
+    df_players_gen = df_players_gen.drop(columns=["team", "team_name"], errors="ignore")
+    df_players_gen = df_players_gen.merge(
+        player_bios[["player_id","team","headshot_url", "country","birthdate", "position_primary","position_alt", "experience", "draft_year", "draft_round", "draft_pick", "is_active", "is_free_agent","is_retired"]],
+        on="player_id", how="left"
+    )
+
 
     #Efficiency Benchmark metrics
     eff_benchmark_metrics = {
@@ -312,8 +482,27 @@ def render_tab(season_type: str):
     df_clutch_adv = df_clutch_adv[df_clutch_adv["team_id"] == team_id]
     df_clutch_trad = df_clutch_trad[df_clutch_trad["team_id"] == team_id]
 
+    df_players_boxscore_adv = df_players_boxscore_adv[df_players_boxscore_adv["team_id"] == team_id]
+    df_players_boxscore_trad = df_players_boxscore_trad[df_players_boxscore_trad["team_id"] == team_id]
+
+    # ─────────────────────────────────────────────────────────────
+    # Stat Leaders (Per Game, min 50 games) – use the helper func
+    # ─────────────────────────────────────────────────────────────
+    leaders = get_team_leaders(df_players_boxscore_trad, team_id, min_games=50)
+    top3_pts = leaders["pts"]   # DataFrame with columns ["player","pts"]
+    top3_reb = leaders["reb"]   # DataFrame with columns ["player","reb"]
+    top3_ast = leaders["ast"]   # DataFrame with columns ["player","ast"]
+
+    
+    df_players_gen_adv = df_players_gen_adv[df_players_gen_adv["team_id"] == team_id]
+    df_players_gen_trad = df_players_gen_trad[df_players_gen_trad["team_id"] == team_id]
+    df_players_gen_scoring = df_players_gen_scoring[df_players_gen_scoring["team_id"] == team_id]
 
 
+    
+
+
+    
 
         # … after computing `league` …
     if team_id not in league.index:
@@ -347,12 +536,15 @@ def render_tab(season_type: str):
     # Header and basic KPIs
     # ─────────────────────────────────────────────────────────────────────────────
     logo_url = team_info["logo_url"]
+    headshot_url = player_info["headshot_url"]
 
     # Helpers (as before)
     _SUP_MAP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+    @st.cache_data
     def to_superscript(n: int) -> str:
         return str(n).translate(_SUP_MAP)
 
+    @st.cache_data
     def rank_color(rank: int, total_teams: int = 30) -> str:
         third = total_teams // 3
         if   rank <= third:     return "green"
@@ -360,6 +552,7 @@ def render_tab(season_type: str):
         else:                   return "red"
 
     # 1) First, make sure every row has explicit home/away teams
+    @st.cache_data
     def parse_matchup(m: str) -> tuple[str,str]:
         m = m.replace("vs.", "vs").replace(" @ ", "@").replace(" vs ", "vs").strip()
         if "@" in m:
@@ -368,6 +561,7 @@ def render_tab(season_type: str):
             home, away = m.split("vs")
         return away.strip(), home.strip()
 
+    @st.cache_data
     def add_home_away(df: pd.DataFrame) -> pd.DataFrame:
         
         df_boxscore_adv[["away_team","home_team"]] = df_boxscore_adv["matchup"].apply(parse_matchup).tolist()
@@ -463,6 +657,12 @@ def render_tab(season_type: str):
             if "pts" in df_team_general.columns and len(df_team_general)>0
             else 0.0
         )
+
+    player_ppg = (
+        df_players_gen["pts"].mean()
+        if "pts" in df_players_gen.columns and len(df_players_gen)>0
+        else 0.0
+        )
     pts_rank = (
             df_team_gen_trad["pts_rank"].iloc[0]
             if "pts_rank" in df_team_gen_trad.columns and len(df_team_gen_trad)>0
@@ -474,6 +674,12 @@ def render_tab(season_type: str):
             if "reb" in df_team_general.columns and len(df_team_general)>0
             else 0.0
         )
+
+    player_reb = (
+        df_players_gen["reb"].mean()
+        if "reb" in df_players_gen.columns and len(df_players_gen)>0
+        else 0.0
+        )
     trb_rank = (
             df_team_gen_trad["reb_rank"].iloc[0]
             if "reb_rank" in df_team_gen_trad.columns and len(df_team_gen_trad)>0
@@ -483,6 +689,12 @@ def render_tab(season_type: str):
             df_team_general["ast"].mean()
             if "ast" in df_team_general.columns and len(df_team_general)>0
             else 0.0
+        )
+
+    player_ast = (
+        df_players_gen["ast"].mean()
+        if "ast" in df_players_gen.columns and len(df_players_gen)>0
+        else 0.0
         )
 
     ast_rank = (
@@ -665,6 +877,96 @@ def render_tab(season_type: str):
 
     total_teams = len(league)
 
+    # ─────────────────────────────────────────────────────────────
+    # Stat Leaders (Per Game, min 50 games)
+    # ─────────────────────────────────────────────────────────────
+    # 1) Filter to this team’s per-game data
+    team_df = df_player_all.loc[df_player_all["team_id"] == team_id]
+
+    # 2) Count unique games per player
+    games_played = (
+    team_df
+    .groupby(["player_id", "player", "headshot_url"])["game_id"]
+    .nunique()
+    .reset_index(name="games")
+    )
+
+    # 3) Compute per-game PTS average
+    avg_pts = (
+        team_df
+        .groupby(["player_id", "player", "headshot_url"])["pts"]
+        .mean()
+        .reset_index(name="ppg")
+    )
+
+    # 4) Merge and enforce ≥ 50 games
+    qualified_pts = (
+        avg_pts
+        .merge(games_played, on=["player_id","player","headshot_url"])
+        .loc[lambda df: df["games"] >= 50]
+    )
+
+    # 5) Pick Top 3 by PPG
+    top3_pts = qualified_pts.nlargest(3, "ppg").reset_index(drop=True)
+
+    # 2) Count unique games per player
+    games_played = (
+    team_df
+    .groupby(["player_id", "player", "headshot_url"])["game_id"]
+    .nunique()
+    .reset_index(name="games")
+    )
+
+    # 3) Compute per-game PTS average
+    avg_reb = (
+        team_df
+        .groupby(["player_id", "player", "headshot_url"])["reb"]
+        .mean()
+        .reset_index(name="rpg")
+    )
+
+    # 4) Merge and enforce ≥ 50 games
+    qualified_reb = (
+        avg_reb
+        .merge(games_played, on=["player_id","player","headshot_url"])
+        .loc[lambda df: df["games"] >= 50]
+    )
+
+    # 5) Pick Top 3 by PPG
+    top3_reb = qualified_reb.nlargest(3, "rpg").reset_index(drop=True)
+
+    # 2) Count unique games per player
+    games_played = (
+    team_df
+    .groupby(["player_id", "player", "headshot_url"])["game_id"]
+    .nunique()
+    .reset_index(name="games")
+    )
+
+    # 3) Compute per-game PTS average
+    avg_ast = (
+        team_df
+        .groupby(["player_id", "player", "headshot_url"])["ast"]
+        .mean()
+        .reset_index(name="apg")
+    )
+
+    # 4) Merge and enforce ≥ 50 games
+    qualified_ast = (
+        avg_ast
+        .merge(games_played, on=["player_id","player","headshot_url"])
+        .loc[lambda df: df["games"] >= 50]
+    )
+
+    # 5) Pick Top 3 by PPG
+    top3_ast = qualified_ast.nlargest(3, "apg").reset_index(drop=True)
+
+    
+
+
+
+    
+
     container = st.container(border=True)
     with container:
         container.markdown(
@@ -762,7 +1064,7 @@ def render_tab(season_type: str):
             """, unsafe_allow_html=True)
 
         #Defensive Rating
-        delta_def = f"{off_delta} from {prev_season}" if def_delta else None
+        delta_def = f"{def_delta} from {prev_season}" if def_delta else None
         info_def = "The total number of points allowed per 100 possessions"
         col3.markdown(f"""
             <div style="
@@ -996,7 +1298,7 @@ def render_tab(season_type: str):
                 flex-direction: column;
                 justify-content: space-between;
                 margin-top:1rem;
-                margin-bottom:2rem;
+                margin-bottom:1rem;
             ">
             <!-- Title + info icon -->
             <div style="
@@ -1017,6 +1319,65 @@ def render_tab(season_type: str):
             </div>
             </div>
             """, unsafe_allow_html=True)
+
+        # scale headshots down 12× then 1.5×
+        orig_w, orig_h = 1040, 760
+        new_w = round(orig_w / (12 * 1.5))
+        new_h = round(orig_h / (12 * 1.5))
+
+        # define titles, suffixes and their dfs
+        stat_info = [
+            ("Top 3 Scorers", "PPG", "ppg", top3_pts),
+            ("Rebound Leaders", "RPG", "rpg", top3_reb),
+            ("Assist Leaders", "APG", "apg", top3_ast),
+        ]
+
+        cols = st.columns(3)
+        for col, (title, suffix, colname, df_lead) in zip(cols, stat_info):
+            with col:
+                # outer KPI-style box
+                html = f'''
+                <div style="
+                    border:1px solid #555;
+                    border-radius:8px;
+                    padding:1rem;
+                    box-sizing:border-box;
+                    margin-bottom:1rem;
+                ">
+                <h4 style="margin:0 0 0.75rem 0; color:#fff;">{title}</h4>
+                '''
+                # each of the top 3 players
+                for i, row in df_lead.iterrows():
+                    html += f'''
+                <div style="
+                    display:flex;
+                    align-items:center;
+                    justify-content:space-between;
+                    margin-bottom:0.75rem;
+                ">
+                    <div style="display:flex; align-items:center;">
+                    <img src="{row['headshot_url']}"
+                        style="
+                            border-radius:50%;
+                            width:{new_w}px;
+                            height:{new_h}px;
+                            object-fit:cover;
+                            margin-right:0.75rem;
+                        ">
+                    <span style="font-weight:600; color:#fff;">
+                        {i+1}. {row['player']}
+                    </span>
+                    </div>
+                    <span style="font-weight:700; color:#0a7dfa;">
+                    {row[colname]:.1f} {suffix}
+                    </span>
+                </div>
+                '''
+                html += "</div>"
+                st.markdown(html, unsafe_allow_html=True)
+
+                
+                
 
 
         col1, col2= st.columns([1,1])
