@@ -549,12 +549,15 @@ def render_tab(season_type: str):
     @st.cache_data
     def add_home_away(df: pd.DataFrame) -> pd.DataFrame:
         
-        df_boxscore_adv[["away_team","home_team"]] = df_boxscore_adv["matchup"].apply(parse_matchup).tolist()
+        """Add away_team, home_team and opp_team columns to ``df``."""
+
+        df[["away_team", "home_team"]] = df["matchup"].apply(parse_matchup).tolist()
 
         # add opp_team which is the opponent the team faced
         # Opponent is the other side of the venue
-        df_boxscore_adv["opp_team"] = df_boxscore_adv.apply(
-            lambda r: r.away_team if r.home_team == r.team else r.home_team, axis=1
+        df["opp_team"] = df.apply(
+            lambda r: r.away_team if r.home_team == r.team else r.home_team,
+            axis=1,
         )
         return df
 
