@@ -1,5 +1,4 @@
 import pandas as pd
-import math
 from pathlib import Path
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -59,6 +58,9 @@ def compute_kpis(
     prev_win_pct = prev_net = prev_off = prev_def = None
     if prev_season:
         prev_dir = lambda sub: TEAM_DIR / sub / prev_season / DEFAULT_MEASURE / season_type
+        def prev_dir(sub: str) -> Path:
+            """Return the path to previous season data for a subdirectory."""
+            return TEAM_DIR / sub / prev_season / DEFAULT_MEASURE / season_type
         # load trad general
         p1 = pd.read_csv(prev_dir("general")/"traditional.csv").rename(columns=str.lower)
         prev = p1.loc[p1.team_id==team_id]
@@ -126,10 +128,17 @@ def compute_kpis(
     # ── Season-over-season deltas ────────────────────────────────────
     def make_delta(curr, prev):
         if prev is None: return "","",""
+    def make_delta(curr: float | int | None, prev: float | int | None):
+        """Return arrow, value string and color for metric change."""
+        if prev is None:
+            return "", "", ""
         d = curr - prev
         arrow = "↑" if d>0 else ("↓" if d<0 else "→")
         val = f"{abs(d)*100:.1f}%" if 0<=curr<=1 else f"{abs(d):.1f}"
         color = "green" if d>0 else ("red" if d<0 else "gray")
+        arrow = "↑" if d > 0 else ("↓" if d < 0 else "→")
+        val = f"{abs(d) * 100:.1f}%" if 0 <= curr <= 1 else f"{abs(d):.1f}"
+        color = "green" if d > 0 else ("red" if d < 0 else "gray")
         return arrow, val, color
 
     win_arr, win_d, win_col = make_delta(win_pct, prev_win_pct)
@@ -155,36 +164,4 @@ def compute_kpis(
         "prev_net_rating": prev_net,
         "prev_off_rating": prev_off,
         "prev_def_rating": prev_def,
-        # team KPIs
-        "games_played": games_played,
-        "win_pct": win_pct,
-        "win_rank": win_rank,
-        "pts_rank": pts_rank,
-        "reb_rank": reb_rank,
-        "ast_rank": ast_rank,
-        "net_rating": net,
-        "net_rank": net_rank,
-        "off_rating": off,
-        "off_rank": off_rank,
-        "def_rating": deff,
-        "def_rank": deff_rank,
-        "pace": pace,
-        "pace_rank": pace_rank,
-        "ts_pct": ts_pct,
-        "ts_rank": ts_rank,
-        # deltas
-        "win_delta": win_d,
-        "win_arrow": win_arr,
-        "win_color": win_col,
-        "net_delta": net_d,
-        "net_arrow": net_arr,
-        "net_color": net_col,
-        "off_delta": off_d,
-        "off_arrow": off_arr,
-        "off_color": off_col,
-        "def_delta": def_d,
-        "def_arrow": def_arr,
-        "def_color": def_col,
-        # player leaders
-        "leaders": leaders
     }
