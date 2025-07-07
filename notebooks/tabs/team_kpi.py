@@ -8,6 +8,63 @@ DATA_DIR = Path(__file__).resolve().parents[2] / "data" / "processed"
 TEAM_DIR = DATA_DIR / "team_stats"
 DEFAULT_MEASURE = "pergame"
 
+def get_team_leaders(
+    df_player_all: pd.DataFrame,
+    team_id: int,
+    *,
+    min_games: int | None = None,
+    season_type: str = "regular",
+) -> dict[str, pd.DataFrame]:
+    """Return top-3 team leaders in PTS/REB/AST with league ranks."""
+    if min_games is None:
+        min_games = 4 if season_type == "playoffs" else 50
+
+    league_games = (
+        df_player_all
+        .groupby(["player_id", "player", "headshot_url"])["game_id"]
+        .nunique()
+        .reset_index(name="games")
+    )
+    league_avgs = (
+        df_player_all
+        .groupby(["player_id", "player", "headshot_url"])[["pts", "reb", "ast"]]
+        .mean()
+        .reset_index()
+    )
+    league_df = (
+        league_avgs.merge(league_games, on=["player_id", "player", "headshot_url"])
+        .query("games >= @min_games")
+    )
+    for stat in ["pts", "reb", "ast"]:
+        league_df[f"{stat}_rank"] = league_df[stat].rank(method="min", ascending=False).astype(int)
+
+    eligible = len(league_df)
+
+    team_df = df_player_all[df_player_all.team_id == team_id]
+    games = (
+        team_df.groupby(["player_id", "player", "headshot_url"])["game_id"].nunique().reset_index(name="games")
+    )
+    avgs = (
+        team_df.groupby(["player_id", "player", "headshot_url"])[["pts", "reb", "ast"]].mean().reset_index()
+    )
+    team_stats = (
+        avgs.merge(games, on=["player_id", "player", "headshot_url"])
+        .query("games >= @min_games")
+        .merge(league_df[["player_id", "pts_rank", "reb_rank", "ast_rank"]], on="player_id", how="left")
+    )
+
+    leaders: dict[str, pd.DataFrame] = {}
+    for stat in ["pts", "reb", "ast"]:
+        cols = ["player", "headshot_url", stat, f"{stat}_rank"]
+        df3 = (
+            team_stats.nlargest(3, stat)[cols]
+            .rename(columns={f"{stat}_rank": "rank"})
+            .reset_index(drop=True)
+        )
+        df3["total_players"] = eligible
+        leaders[stat] = df3
+    return leaders
+
 
 def compute_kpis(
     dfs: dict[str, pd.DataFrame],
@@ -74,35 +131,44 @@ def compute_kpis(
         prev_net = p3.loc[p3.team_id==team_id, "net_rating"].iloc[0] if team_id in p3.team_id.values else None
 
     # ── Team slices ───────────────────────────────────────────────────
-    df_team_bs = df_box_adv[df_box_adv.team_id==team_id]
-    df_team_gen = df_gen[df_gen.team_id==team_id]
-    df_team_gt  = df_gen_trad[df_gen_trad.team_id==team_id]
-    df_team_ga  = df_gen_adv[df_gen_adv.team_id==team_id]
-    df_team_sc  = df_gen_sc[df_gen_sc.team_id==team_id]
+    df_team_bs  = df_box_adv[df_box_adv.team_id == team_id]
+    df_team_gen = df_gen[df_gen.team_id == team_id]
+    df_team_gt  = df_gen_trad[df_gen_trad.team_id == team_id]
+    df_team_ga  = df_gen_adv[df_gen_adv.team_id == team_id]
+    df_team_sc  = df_gen_sc[df_gen_sc.team_id == team_id]
 
     # ── Home/Away summary ────────────────────────────────────────────
     df_team_bs["wl"] = df_team_bs.wl.str.upper()
-    home = df_team_bs[df_team_bs.matchup.str.contains("vs",case=False)]
+    home = df_team_bs[df_team_bs.matchup.str.contains("vs", case=False)]
     away = df_team_bs[df_team_bs.matchup.str.contains("@")]
-    h = (home.groupby("team_id").wl.value_counts().unstack(fill_value=0)
-         .rename(columns={"W":"home_w","L":"home_l"}))
-    a = (away.groupby("team_id").wl.value_counts().unstack(fill_value=0)
-         .rename(columns={"W":"away_w","L":"away_l"}))
-    summ = (h.join(a,how="outer").fillna(0).astype(int)
-            .assign(
-                h_pct=lambda d: d.home_w/(d.home_w+d.home_l),
-                a_pct=lambda d: d.away_w/(d.away_w+d.away_l)
-            ))
-    summ["h_rank"] = summ.h_pct.rank(method="min",ascending=False).astype(int)
-    summ["a_rank"] = summ.a_pct.rank(method="min",ascending=False).astype(int)
+    h = (
+        home.groupby("team_id").wl.value_counts()
+            .unstack(fill_value=0)
+            .rename(columns={"W":"home_w","L":"home_l"})
+    )
+    a = (
+        away.groupby("team_id").wl.value_counts()
+            .unstack(fill_value=0)
+            .rename(columns={"W":"away_w","L":"away_l"})
+    )
+    summ = (
+        h.join(a, how="outer")
+         .fillna(0).astype(int)
+         .assign(
+            h_pct=lambda d: d.home_w/(d.home_w+d.home_l),
+            a_pct=lambda d: d.away_w/(d.away_w+d.away_l)
+         )
+    )
+    summ["h_rank"] = summ.h_pct.rank(method="min", ascending=False).astype(int)
+    summ["a_rank"] = summ.a_pct.rank(method="min", ascending=False).astype(int)
 
-    # merge into df_team_ga
+    # merge splits into your df_team_ga
     df_team_ga = df_team_ga.merge(
         summ[["h_pct","h_rank","a_pct","a_rank"]],
         left_on="team_id", right_index=True, how="left"
     )
 
-    # ── Core KPIs ─────────────────────────────────────────────────────
+        # ── Core KPIs ─────────────────────────────────────────────────────
     games_played = df_team_bs.game_id.nunique()
 
     win_pct = round(df_team_gen.w_pct.iloc[0]*100,3) if not df_team_gen.empty else 0
@@ -126,18 +192,13 @@ def compute_kpis(
     ts_rank   = df_team_ga.ts_pct_rank.iloc[0]     if not df_team_ga.empty else None
 
     # ── Season-over-season deltas ────────────────────────────────────
-    def make_delta(curr, prev):
-        if prev is None: return "","",""
     def make_delta(curr: float | int | None, prev: float | int | None):
         """Return arrow, value string and color for metric change."""
         if prev is None:
             return "", "", ""
         d = curr - prev
-        arrow = "↑" if d>0 else ("↓" if d<0 else "→")
-        val = f"{abs(d)*100:.1f}%" if 0<=curr<=1 else f"{abs(d):.1f}"
-        color = "green" if d>0 else ("red" if d<0 else "gray")
         arrow = "↑" if d > 0 else ("↓" if d < 0 else "→")
-        val = f"{abs(d) * 100:.1f}%" if 0 <= curr <= 1 else f"{abs(d):.1f}"
+        val = f"{abs(d) * 100:.1f}%" if isinstance(curr, float) and 0 <= curr <= 1 else f"{abs(d):.1f}"
         color = "green" if d > 0 else ("red" if d < 0 else "gray")
         return arrow, val, color
 
@@ -147,21 +208,46 @@ def compute_kpis(
     def_arr, def_d, def_col = make_delta(deff, prev_def)
 
     # ── Player leaders ───────────────────────────────────────────────
-    from team_charts import get_team_leaders
     leaders = get_team_leaders(
         dfs["df_player_all"], team_id, season_type=season_type
     )
 
-    # ── Package everything ─────────────────────────────────────────────
+    # ── Package everything ───────────────────────────────────────────
     return {
         # league stats
         "league_median": league_median,
         "league_percentile": league_percentile,
         "pra_median": pra_median,
         "pra_percentile": pra_percentile,
-        # previous season
+            # previous season values
         "prev_win_pct": prev_win_pct,
         "prev_net_rating": prev_net,
         "prev_off_rating": prev_off,
         "prev_def_rating": prev_def,
+        # core team KPIs
+        "games_played": games_played,
+        "win_pct": win_pct,
+        "win_rank": win_rank,
+        "win_arrow": win_arr,
+        "win_delta": win_d,
+        "win_color": win_col,
+        "off_rating": off,
+        "off_rank": off_rank,
+        "off_arrow": off_arr,
+        "off_delta": off_d,
+        "off_color": off_col,
+        "def_rating": deff,
+        "def_rank": deff_rank,
+        "def_arrow": def_arr,
+        "def_delta": def_d,
+        "def_color": def_col,
+        "net_rating": net,
+        "net_rank": net_rank,
+        "net_arrow": net_arr,
+        "net_delta": net_d,
+        "net_color": net_col,
+        "ts_pct": ts_pct,
+        "ts_rank": ts_rank,
+        # player leaders
+        "leaders": leaders,
     }

@@ -1,10 +1,8 @@
 import streamlit as st
 from pathlib import Path
 import pandas as pd
-import glob
-import plotly.graph_objects as go
-import plotly.express as px
 import altair as alt
+import numpy as np
 import math
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -1351,6 +1349,9 @@ def render_tab(season_type: str):
 
         col1, col2= st.columns([1,1])
         with col1:
+            months_renamed = {
+                "JAN": "January", "FEB": "February", "MAR": "March", "APR": "April", "MAY": "May", "JUN": "June", "JUL": "July", "AUG": "August", "SEP": "September", "OCT": "October", "NOV": "November", "DEC": "December"
+                }
             if {"pts", "reb", "ast", "game_date"}.issubset(df_team_metric.columns):
                 # 1) Prepare the data
                 df = df_team_metric.copy()
@@ -1381,6 +1382,9 @@ def render_tab(season_type: str):
 
                 # Map to labels and define x-axis domain
                 by_month["month"] = by_month["month_num"].map(months)
+
+                                #Rename the months
+                by_month["month_full"] = by_month["month"].map(lambda m: months_renamed[m])
                 x_domain = [months[m] for m in order]
 
                 # Melt into long form for grouped bars
@@ -1397,6 +1401,8 @@ def render_tab(season_type: str):
                     "RPG": df_gen["reb"].median(),
                     "APG": df_gen["ast"].median(),
                 }
+
+                medians = {k: round(v, 3) for k, v in medians.items()}
 
                 df_plot = df_long.copy()
                 df_plot["median"] = df_plot["Metric"].map(medians)
@@ -1419,9 +1425,9 @@ def render_tab(season_type: str):
                 best_row   = by_month.loc[best_idx]
                 worst_row  = by_month.loc[worst_idx]
 
-                best_month   = best_row["month"]
+                best_month   = best_row["month_full"]
                 best_points  = best_row["PPG"]
-                worst_month  = worst_row["month"]
+                worst_month  = worst_row["month_full"]
                 worst_points = worst_row["PPG"]
 
                 best_ast_idx   = by_month["APG"].idxmax()
@@ -1444,54 +1450,76 @@ def render_tab(season_type: str):
                 worst_reb_month  = worst_reb_row["month"]
                 worst_reb = worst_reb_row["RPG"]
 
-                # 3) Build the bar chart
-                bars = alt.Chart(df_long).mark_bar().encode(
-                    x=alt.X("month:N", sort=x_domain, title="Month"),
-                    xOffset="Metric:N",
-                    y=alt.Y("Value:Q", title="Avg per Game"),
-                    color=alt.Color(
-                        "Metric:N",
-                        scale=alt.Scale(
-                            domain=["PPG", "RPG", "APG"],
-                            range=["#83c9ff", "#ffb366", "#a3a3ff"]
-                        ),
-                        legend=alt.Legend(title="Metric")
+
+                # 0) one multi‐selection for both legend & bar‐clicks
+                sel = alt.selection_multi(
+                    fields=["Metric"],
+                    bind="legend",    # clicking legend toggles
+                    on="click",       # clicking marks toggles
+                    empty="all"       # when nothing’s selected, show everything
+                )
+
+                # 3) Build bars with that single sel
+                bars = (
+                    alt.Chart(df_long)
+                    .mark_bar()
+                    .add_selection(sel)
+                    .encode(
+                        x=alt.X("month:N", sort=x_domain, title="Month"),
+                        xOffset="Metric:N",
+                        y=alt.Y("Value:Q", title="Avg per Game"),
+                        color=alt.Color("Metric:N", legend=alt.Legend(title="Metric")),
+                        opacity=alt.condition(sel, alt.value(1.0), alt.value(0.05))
                     )
                 )
 
-                                # ——— 4) Highlight best/worst per metric ———
-                highlight_max = alt.Chart(df_plot[df_plot["is_max"]]).mark_bar().encode(
-                    x=alt.X("month:N", sort=x_domain),
-                    xOffset="Metric:N",
-                    y="Value:Q",
-                    color=alt.value("#7defa1")
+                # 4) Highlights also use sel
+                highlight_max = (
+                    alt.Chart(df_plot[df_plot["is_max"]])
+                    .mark_bar()
+                    .add_selection(sel)
+                    .encode(
+                        x=alt.X("month:N", sort=x_domain),
+                        xOffset="Metric:N",
+                        y="Value:Q",
+                        color=alt.value("#7defa1"),
+                        opacity=alt.condition(sel, alt.value(1.0), alt.value(0.05))
+                    )
                 )
-                highlight_min = alt.Chart(df_plot[df_plot["is_min"]]).mark_bar().encode(
-                    x=alt.X("month:N", sort=x_domain),
-                    xOffset="Metric:N",
-                    y="Value:Q",
-                    color=alt.value("#ff2b2b")
+                highlight_min = (
+                    alt.Chart(df_plot[df_plot["is_min"]])
+                    .mark_bar()
+                    .add_selection(sel)
+                    .encode(
+                        x=alt.X("month:N", sort=x_domain),
+                        xOffset="Metric:N",
+                        y="Value:Q",
+                        color=alt.value("#ff2b2b"),
+                        opacity=alt.condition(sel, alt.value(1.0), alt.value(0.05))
+                    )
                 )
 
-                # 4) Create median reference lines + labels
-                rules = [
-                    alt.Chart(pd.DataFrame({"median": [med]}))
-                    .mark_rule(strokeDash=[4,4], stroke="gray")
-                    .encode(y="median:Q", detail="Metric:N")
-                    for m, med in medians.items()
-                ]
-                texts = [
-                    alt.Chart(pd.DataFrame({"median": [med]}))
-                    .mark_text(dx=3, dy=-5, color="gray")
-                    .encode(y="median:Q", text=alt.value(f"{m} med → {med:.1f}"))
-                    for m, med in medians.items()
-                ]
+                # 5) Median lines only show for the currently selected metric
+                df_medians = pd.DataFrame({
+                    "Metric": list(medians.keys()),
+                    "median": list(medians.values())
+                })
+                rules = (
+                    alt.Chart(df_medians)
+                    .mark_rule(color="gray", strokeDash=[4,4])
+                    .add_selection(sel)
+                    .encode(
+                        y="median:Q",
+                        detail="Metric:N",
+                        opacity=alt.condition(sel, alt.value(1), alt.value(0))
+                    )
+                )
 
-                # 5) Layer everything and render
-                chart = alt.layer(bars, highlight_max, highlight_min, *rules, *texts).properties(
+
+                # 6) Layer and render
+                chart = alt.layer(bars, highlight_max, highlight_min, rules).properties(
                     title="Monthly PPG / RPG / APG"
                 )
-
                 st.altair_chart(chart, use_container_width=True) # type: ignore[arg-type]
                 st.markdown(
                     f"""
@@ -1500,10 +1528,12 @@ def render_tab(season_type: str):
                         color: #888;
                         line-height: 1.4;
                         margin-top: 0.2rem;
+                        margin-bottom: 2rem;
                         padding: 0 0;
                     ">
-                    The best month was <strong>{best_month}</strong> with <strong>{best_points}</strong> pts → (green bar).<br>
-                    The worst month was <strong>{worst_month}</strong> with <strong>{worst_points}</strong> pts → (red bar).<br>
+                    This shows the points, rebounds and assists on a monthly average. <br>
+                    
+                    league Medians: {medians}
 
                     </div>
                     """,
@@ -1516,6 +1546,9 @@ def render_tab(season_type: str):
 
         #Point differential per month
         with col2:
+            months_renamed = {
+                "JAN": "January", "FEB": "February", "MAR": "March", "APR": "April", "MAY": "May", "JUN": "June", "JUL": "July", "AUG": "August", "SEP": "September", "OCT": "October", "NOV": "November", "DEC": "December"
+                }
             if "plus_minus" in df_team_metric.columns:
                 # 1) Prepare the data
                 df = df_team_metric.copy()
@@ -1536,6 +1569,9 @@ def render_tab(season_type: str):
                     .index
                 )
                 diff_by_month["month"] = diff_by_month["game_date"].map(lambda m: months[m])
+
+                #Rename the months
+                diff_by_month["month_full"] = diff_by_month["month"].map(lambda m: months_renamed[m])
                 x_domain = [months[m] for m in order]
 
                 # identify best/worst
@@ -1544,12 +1580,12 @@ def render_tab(season_type: str):
 
                 best_idx = diff_by_month["Diff"].idxmax()
                 worst_idx = diff_by_month["Diff"].idxmin()
-                best_month = diff_by_month.loc[best_idx, "month"]
+                best_month = diff_by_month.loc[best_idx, "month_full"]
                 best_value = diff_by_month.loc[best_idx, "Diff"]
-                worst_month = diff_by_month.loc[worst_idx, "month"]
+                worst_month = diff_by_month.loc[worst_idx, "month_full"]
                 worst_value = diff_by_month.loc[worst_idx, "Diff"]
 
-                median_diff = df["net_rating"].median()
+                median_diff = df_gen["net_rating"].median()
 
                 # 2) Base bars (light gray)
                 base = alt.Chart(diff_by_month).mark_bar().encode(
@@ -1602,8 +1638,7 @@ def render_tab(season_type: str):
                         margin-bottom: 2rem;
                         padding: 0 0;
                     ">
-                    The best month was <strong>{best_month}</strong> with <strong>{best_value}</strong> pts → (green bar).<br>
-                    The worst month was <strong>{worst_month}</strong> with <strong>{worst_value}</strong> pts → (red bar).<br>
+                    This shows the teams net rating on a monthly average. <br>
                     The league median is {median_diff:.1f}pts → (dashed line).
                     </div>
                     """,
@@ -1688,31 +1723,58 @@ def render_tab(season_type: str):
                     )
                 )
 
-            chart = (bars).properties(
-                title="Shooting Efficiency by Metric",
+            chart = alt.layer(bars, *rules).properties(
+                title="Shooting Efficiency",
                 width="container",
             )
 
-            st.altair_chart(chart, use_container_width=True)
+            st.altair_chart(chart, use_container_width=True)  # type: ignore[arg-type] 
 
-            # 5) Caption explaining colors & medians
+            # 2) Friendly labels for each metric
+            metric_info = {
+                "efg_pct": ("effective field goal",   "shots"),
+                "ts_pct":  ("true shooting",           "looks"),
+                "ft_pct":  ("free throw",              "free throws"),
+                "fg3_pct": ("three-point",             "threes"),
+            }
+
+            # 3) Build a casual sentence for each
+            blurb_lines = []
+            for m in metrics:
+                tv = shoot_eff[m].iloc[0] * 100        # team value
+                mv = median_vals[m]  * 100                  # league median
+                label, noun = metric_info[m]
+
+                if tv > mv:
+                    blurb = (
+                        f"{team_name} were awesome {label} shooters, "
+                        f"hitting {tv:.1f}% of their {noun}, "
+                        f"above the league median of {mv:.1f}%."
+                    )
+                else:
+                    blurb = (
+                        f"{team_name} struggled a bit from {label}, "
+                        f"making {tv:.1f}% versus the league median of {mv:.1f}%."
+                    )
+
+                blurb_lines.append(blurb)
+
+            summary_text = " ".join(blurb_lines)
+
+            # 4) Plug that into your legend block
             st.markdown(
-                """
+                f"""
                 <div style="
-                    font-size:0.875rem;
-                    color:#888;
-                    line-height:1.4;
-                    margin-top:0.5rem;
-                    margin-bottom:2rem;
+                    font-size:0.9rem;
+                    color:#555;
+                    line-height:1.5;
+                    margin:1rem 0;
                 ">
-                    <strong>Blue</strong> = eFG% • <strong>Orange</strong> = TS% • 
-                    <strong>Green</strong> = FT% • <strong>Red</strong> = 3P%<br>
-                    Dashed gray lines = league medians
+                {summary_text}<br><br>
                 </div>
                 """,
                 unsafe_allow_html=True,
             )
-
         # ────────────────────────────────────────────────────────────────────────────
         # Rebounding and Hustle Stats KPIs
         with c10:
@@ -1795,13 +1857,13 @@ def render_tab(season_type: str):
             team_pct = [ league_percentile.loc[team_id, c] for c in cols ]
             df_eff = pd.DataFrame({
                 "Metric": labels,
-                "Value":  [round(p * 100, 1) for p in team_pct]
+                "Value":  [round(p * 100, 1) for p in team_pct] 
             })
             median_val = 50
             # add the combined text label
             df_eff["label"] = df_eff.apply(lambda r: f"{r.Metric}: {r.Value:.1f}", axis=1)
 
-            scale = alt.Scale(domain=[0,100], rangeMin=20, rangeMax=120)
+            scale = alt.Scale(domain=[0,100], rangeMin=0, rangeMax=120)
 
             median_ring = (
                 alt.Chart(pd.DataFrame({"m":[median_val]}))
@@ -1850,18 +1912,34 @@ def render_tab(season_type: str):
             ).configure_view(stroke=None)
 
             st.altair_chart(radar, use_container_width=True) #type: ignore[arg-type]
+                    # --- NEW: build a casual radar summary ---
+            above = df_eff[df_eff.Value >= median_val]
+            below = df_eff[df_eff.Value <  median_val]
+
+            # format lists like "eFG% (52.3%)"
+            above_list = [f"{r.Metric} ({r.Value:.1f}%)" for _, r in above.iterrows()]
+            below_list = [f"{r.Metric} ({r.Value:.1f}%)" for _, r in below.iterrows()]
+
+            if above_list and below_list:
+                summary2 = (
+                    f"{team_name} crushed it in {', '.join(above_list)}, "
+                    f"but fell behind in {', '.join(below_list)}."
+                )
+            elif above_list:
+                summary2 = f"{team_name} were on fire across the board: {', '.join(above_list)}."
+            else:
+                summary2 = f"{team_name} need to pick it up: all metrics dipped below median ({', '.join(below_list)})."
+
+            # --- NEW: render that Quick Take + your legend ---
             st.markdown(
-                """
+                f"""
                 <div style="
-                    font-size:0.875rem;
-                    color:#888;
+                    font-size:0.9rem;
+                    color:#555;
                     line-height:1.4;
-                    margin-top:0.5rem;
-                    margin-bottom:2rem;
+                    margin:1rem 0 2rem;
                 ">
-                    <strong>Blue</strong> = eFG% • <strong>Orange</strong> = TS% • 
-                    <strong>Green</strong> = FT% • <strong>Red</strong> = 3P%<br>
-                    Dashed gray lines = league medians
+                {summary2}<br>
                 </div>
                 """,
                 unsafe_allow_html=True,
@@ -1932,7 +2010,31 @@ def render_tab(season_type: str):
 
 
             st.altair_chart(chart, use_container_width=True) #type: ignore[arg-type]
+                    # --- NEW: shot‐type breakdown summary ---
+            df_shot_sorted = df_shot.sort_values("PPG", ascending=False)
+            top = df_shot_sorted.iloc[0]
+            rest = df_shot_sorted.iloc[1:]
+            rest_list = [f"{r['Shot Type']} ({r.PPG:.1f} PPG)" for _, r in rest.iterrows()]
 
+            summary1 = (
+                f"{team_name} got most of their points from {top['Shot Type']} "
+                f"({top.PPG:.1f} PPG), then {', '.join(rest_list)}."
+            )
+
+            # --- NEW: render that Quick Take below the chart ---
+            st.markdown(
+                f"""
+                <div style="
+                    font-size:0.9rem;
+                    color:#555;
+                    line-height:1.4;
+                    margin:1rem 0 2rem;
+                ">
+                {summary1}
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
 
 tab_reg, tab_play = st.tabs(["Regular Season","Playoffs"])

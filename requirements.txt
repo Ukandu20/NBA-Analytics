@@ -6,5 +6,10 @@ scikit-learn
 scipy
 streamlit
 plotly
-pyaml
+altair
+requests
+beautifulsoup4
+selenium
+nba_api
+pyyaml
 pillow
