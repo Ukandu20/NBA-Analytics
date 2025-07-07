@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.897,17,0.295,1.082,0.511,0.082,0.197,0.066,0.016,0.443,0.00617,7.2,8.0,2.3,5.3,3.0,2016-17,2016,2017
-42016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.914,15,0.169,1.085,0.513,0.169,0.169,0.169,0.017,0.492,0.00603,3.9,4.0,1.6,2.6,1.0,2016-17,2016,2017
-42016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.737,17,0.059,1.0,0.462,0.063,0.125,0.063,0.0,0.438,0.00577,0.9,1.0,0.8,0.8,0.0,2016-17,2016,2017
-42016,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.0,14,0.127,1.111,0.625,0.0,0.111,0.0,0.0,0.556,0.00625,0.6,1.0,0.6,0.6,0.0,2016-17,2016,2017
-42016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.034,16,0.156,0.467,0.167,0.067,0.133,0.0,0.0,0.2,0.00208,0.9,0.0,-0.3,0.8,1.0,2016-17,2016,2017
-42016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.0,15,0.105,0.833,0.4,0.0,0.167,0.0,0.0,0.333,0.005,0.4,0.0,0.3,0.3,0.0,2016-17,2016,2017
-42016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.0,16,0.062,0.25,0.167,0.0,0.25,0.0,0.0,0.125,0.00167,0.5,0.0,0.4,0.4,0.0,2016-17,2016,2017
-42016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,PRBallHandler,Offensive,0.0,17,0.004,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.1,0.0,2016-17,2016,2017

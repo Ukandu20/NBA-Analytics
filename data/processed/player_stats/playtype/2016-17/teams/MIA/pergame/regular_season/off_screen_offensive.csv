@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201961,Wayne Ellington,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.675,62,0.255,1.0,0.414,0.0,0.052,0.0,0.0,0.392,0.528,2.5,2.5,1.0,2.3,1.4,2016-17,2016,2017
-22016,204020,Tyler Johnson,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.818,73,0.069,1.114,0.516,0.086,0.057,0.086,0.029,0.5,0.581,1.0,1.1,0.4,0.8,0.4,2016-17,2016,2017
-22016,201949,James Johnson,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.988,76,0.031,1.438,0.63,0.125,0.094,0.125,0.063,0.594,0.778,0.4,0.6,0.2,0.4,0.1,2016-17,2016,2017
-22016,1626196,Josh Richardson,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.917,53,0.053,1.188,0.467,0.094,0.0,0.063,0.031,0.5,0.567,0.6,0.7,0.3,0.6,0.3,2016-17,2016,2017
-22016,203079,Dion Waiters,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.534,46,0.045,0.946,0.419,0.054,0.108,0.054,0.0,0.405,0.532,0.8,0.8,0.3,0.7,0.4,2016-17,2016,2017
-22016,201609,Goran Dragic,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.508,73,0.02,0.933,0.48,0.033,0.133,0.033,0.0,0.433,0.54,0.4,0.4,0.2,0.3,0.2,2016-17,2016,2017
-22016,203585,Rodney McGruder,1610612748,MIA,Miami Heat,OffScreen,Offensive,0.202,78,0.063,0.706,0.357,0.0,0.176,0.0,0.0,0.294,0.429,0.4,0.3,0.1,0.4,0.2,2016-17,2016,2017

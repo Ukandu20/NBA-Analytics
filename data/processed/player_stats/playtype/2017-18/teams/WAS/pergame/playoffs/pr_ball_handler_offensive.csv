@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,202322,John Wall,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.6,6,0.4,0.9,0.481,0.114,0.157,0.114,0.014,0.457,0.00481,11.7,10.5,4.2,8.7,4.5,2017-18,2017,2018
-42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.351,6,0.23,0.742,0.346,0.065,0.097,0.065,0.0,0.355,0.00365,5.2,3.8,1.5,4.3,2.8,2017-18,2017,2018
-42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,6,0.07,1.5,0.5,0.5,0.0,0.5,0.0,0.75,0.005,0.7,1.0,0.2,0.3,0.2,2017-18,2017,2018
-42017,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,5,0.15,0.857,0.5,0.0,0.143,0.0,0.0,0.429,0.005,1.4,1.2,0.6,1.2,0.6,2017-18,2017,2018
-42017,203107,Tomas Satoransky,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,6,0.22,0.5,0.333,0.0,0.25,0.0,0.0,0.25,0.00333,0.7,0.3,0.2,0.5,0.3,2017-18,2017,2018
-42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,PRBallHandler,Offensive,0.0,5,0.28,0.222,0.0,0.111,0.111,0.0,0.0,0.111,0.0,1.8,0.4,0.0,1.4,1.4,2017-18,2017,2018

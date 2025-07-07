@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42015,101109,Raymond Felton,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.235,5,0.116,0.6,0.333,0.0,0.1,0.0,0.0,0.3,0.00333,10,6,3,9,6,2015-16,2015,2016
-42015,2734,Devin Harris,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,5,0.027,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2015-16,2015,2016
-42015,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,5,0.028,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1,2015-16,2015,2016
-42015,200826,J.J. Barea,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,4,0.043,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,2,2,1,2,1,2015-16,2015,2016
-42015,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,3,0.12,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,3,2,1,3,2,2015-16,2015,2016
-42015,1626147,Justin Anderson,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,5,0.061,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.005,3,2,1,2,1,2015-16,2015,2016
-42015,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Handoff,Offensive,0.0,5,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2015-16,2015,2016

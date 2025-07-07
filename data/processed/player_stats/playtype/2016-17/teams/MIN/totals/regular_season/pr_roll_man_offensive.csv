@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.881,82,0.194,1.229,0.575,0.157,0.105,0.149,0.033,0.562,0.645,363,446,161,280,119,2016-17,2016,2017
-22016,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.56,82,0.187,1.057,0.525,0.152,0.095,0.146,0.019,0.538,0.525,158,167,64,122,58,2016-17,2016,2017
-22016,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.372,65,0.102,0.956,0.4,0.044,0.067,0.044,0.0,0.4,0.488,45,43,16,40,24,2016-17,2016,2017
-22016,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.78,82,0.013,1.16,0.524,0.16,0.0,0.12,0.0,0.56,0.548,25,29,11,21,10,2016-17,2016,2017

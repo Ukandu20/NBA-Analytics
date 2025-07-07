@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.809,77,0.166,1.077,0.429,0.02,0.04,0.019,0.006,0.42,0.554,2.0,2.2,0.8,1.9,1.1,2015-16,2015,2016
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.699,77,0.046,1.034,0.46,0.05,0.09,0.052,0.0,0.45,0.55,0.8,0.8,0.3,0.6,0.4,2015-16,2015,2016
-22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.679,53,0.043,1.022,0.425,0.04,0.09,0.022,0.0,0.41,0.538,0.9,0.9,0.3,0.8,0.4,2015-16,2015,2016
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.5,76,0.021,0.923,0.405,0.0,0.05,0.0,0.0,0.38,0.486,0.5,0.5,0.2,0.5,0.3,2015-16,2015,2016
-22015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.785,41,0.043,1.063,0.533,0.0,0.06,0.0,0.0,0.5,0.567,0.4,0.4,0.2,0.4,0.2,2015-16,2015,2016
-22015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.463,74,0.049,0.895,0.412,0.11,0.05,0.053,0.053,0.37,0.471,0.3,0.2,0.1,0.2,0.1,2015-16,2015,2016
-22015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.38,54,0.049,0.842,0.4,0.11,0.11,0.105,0.0,0.42,0.433,0.4,0.3,0.1,0.3,0.2,2015-16,2015,2016
-22015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,OffScreen,Offensive,0.643,76,0.02,1.0,0.385,0.0,0.0,0.0,0.0,0.38,0.5,0.2,0.2,0.1,0.2,0.1,2015-16,2015,2016

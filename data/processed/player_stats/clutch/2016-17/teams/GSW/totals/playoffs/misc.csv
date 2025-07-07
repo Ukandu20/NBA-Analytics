@@ -1,9 +1,0 @@
-player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
-2738,Andre Iguodala,Andre,1610612744,GSW,33.0,3,3,0,1.0,7.041666666666667,2,0,2,2,0,0,0,0,1,0,0,0,7.7,60,14,1,1,76,14,34,8,27,1,1,1,1,3,1,1,64,55
-203110,Draymond Green,Draymond,1610612744,GSW,27.0,4,4,0,1.0,13.425,0,2,0,4,4,3,0,6,0,0,2,1,11.9,32,7,1,1,40,36,12,18,12,86,70,1,61,21,1,95,34,37
-201580,JaVale McGee,JaVale,1610612744,GSW,29.0,3,3,0,1.0,2.1416666666666666,0,0,0,0,0,0,0,0,0,0,1,0,0.0,60,14,1,1,105,36,34,18,53,1,1,1,1,21,1,60,64,107
-201142,Kevin Durant,Kevin,1610612744,GSW,28.0,3,3,0,1.0,11.5,0,0,2,2,4,3,0,6,1,0,0,3,25.0,60,14,1,1,49,36,34,8,27,86,70,1,61,3,1,1,13,10
-202691,Klay Thompson,Klay,1610612744,GSW,27.0,4,4,0,1.0,13.425,0,0,3,0,4,3,0,6,1,0,3,0,9.7,32,7,1,1,40,36,34,4,53,86,70,1,61,3,1,122,64,46
-1627775,Patrick McCaw,Patrick,1610612744,GSW,21.0,1,1,0,1.0,0.9416666666666668,0,0,0,0,0,0,0,0,0,0,0,0,1.2,105,62,1,1,121,36,34,18,53,1,1,1,1,21,1,1,64,100
-2733,Shaun Livingston,Shaun,1610612744,GSW,31.0,1,1,0,1.0,5.233333333333333,0,0,0,2,4,3,0,6,0,0,0,1,4.7,105,62,1,1,82,36,34,18,27,86,70,1,61,21,1,1,34,70
-201939,Stephen Curry,Stephen,1610612744,GSW,29.0,4,4,0,1.0,13.416666666666666,2,6,0,6,4,3,0,6,0,0,1,3,26.1,32,7,1,1,42,14,2,18,5,86,70,1,61,21,1,60,13,8

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.808,76,0.111,1.056,0.47,0.162,0.157,0.148,0.019,0.472,0.517,216,228,71,151,80,2016-17,2016,2017
-22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.383,55,0.145,0.84,0.429,0.023,0.122,0.023,0.008,0.382,0.473,131,110,48,112,64,2016-17,2016,2017
-22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.471,72,0.065,0.897,0.346,0.034,0.086,0.034,0.017,0.328,0.471,58,52,18,52,34,2016-17,2016,2017
-22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.138,79,0.063,0.641,0.259,0.078,0.094,0.078,0.016,0.281,0.315,64,41,14,54,40,2016-17,2016,2017
-22016,101123,Gerald Green,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.992,47,0.077,1.476,0.667,0.095,0.095,0.095,0.048,0.619,0.778,21,31,12,18,6,2016-17,2016,2017
-22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.405,74,0.072,0.857,0.355,0.0,0.114,0.0,0.0,0.314,0.484,35,30,11,31,20,2016-17,2016,2017
-22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.104,78,0.035,0.579,0.333,0.053,0.158,0.053,0.0,0.316,0.333,19,11,5,15,10,2016-17,2016,2017
-22016,203482,Kelly Olynyk,1610612738,BOS,Boston Celtics,Handoff,Offensive,0.059,75,0.021,0.5,0.167,0.071,0.071,0.071,0.0,0.214,0.208,14,7,2,12,10,2016-17,2016,2017

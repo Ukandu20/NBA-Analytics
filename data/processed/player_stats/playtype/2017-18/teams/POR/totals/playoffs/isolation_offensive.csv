@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.917,4,0.161,1.133,0.545,0.2,0.2,0.2,0.133,0.467,0.00636,15,17,6,11,5,2017-18,2017,2018
-42017,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.469,4,0.165,0.867,0.462,0.0,0.133,0.0,0.0,0.4,0.005,15,13,6,13,7,2017-18,2017,2018
-42017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.0,3,0.175,1.143,0.6,0.14,0.143,0.143,0.0,0.571,0.006,7,8,3,5,2,2017-18,2017,2018
-42017,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.0,4,0.068,1.5,0.75,0.0,0.0,0.0,0.0,0.75,0.0075,4,6,3,4,1,2017-18,2017,2018
-42017,203894,Shabazz Napier,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.0,2,0.056,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1,1,0,0,0,2017-18,2017,2018
-42017,1626192,Pat Connaughton,1610612757,POR,Portland Trail Blazers,Isolation,Offensive,0.0,4,0.059,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018

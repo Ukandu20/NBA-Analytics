@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.943,73,0.474,1.046,0.441,0.125,0.113,0.1,0.022,0.446,0.526,11.9,12.4,4.1,9.3,5.2,2017-18,2017,2018
-22017,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.79,81,0.331,0.919,0.443,0.05,0.098,0.043,0.014,0.42,0.487,7.2,6.6,2.8,6.2,3.5,2017-18,2017,2018
-22017,203894,Shabazz Napier,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.662,74,0.378,0.871,0.42,0.122,0.157,0.114,0.016,0.412,0.457,3.4,3.0,1.1,2.5,1.5,2017-18,2017,2018
-22017,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.589,79,0.201,0.841,0.445,0.069,0.124,0.041,0.014,0.421,0.45,1.8,1.5,0.7,1.5,0.8,2017-18,2017,2018
-22017,1626192,Pat Connaughton,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.446,82,0.093,0.786,0.382,0.048,0.143,0.048,0.0,0.357,0.441,0.5,0.4,0.2,0.4,0.3,2017-18,2017,2018
-22017,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,PRBallHandler,Offensive,0.016,69,0.016,0.273,0.1,0.0,0.091,0.0,0.0,0.091,0.15,0.2,0.0,0.0,0.1,0.1,2017-18,2017,2018

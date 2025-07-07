@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.281,9,0.152,0.795,0.419,0.128,0.128,0.077,0.051,0.41,0.419,39,31,13,31,18,2017-18,2017,2018
-42017,202703,Nikola Mirotic,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.25,9,0.117,0.786,0.417,0.071,0.143,0.071,0.071,0.357,0.417,14,11,5,12,7,2017-18,2017,2018
-42017,201950,Jrue Holiday,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.0,9,0.01,2.0,1.0,0.5,0.0,0.5,0.5,1.0,1.0,2,4,2,2,0,2017-18,2017,2018
-42017,202734,E'Twaun Moore,1610612740,NOP,New Orleans Pelicans,Postup,Offensive,0.0,9,0.019,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0,2017-18,2017,2018

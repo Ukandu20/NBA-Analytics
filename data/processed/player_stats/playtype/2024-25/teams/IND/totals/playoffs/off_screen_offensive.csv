@@ -1,3 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.778,23,0.059,1.2,0.462,0.067,0.067,0.067,0.0,0.467,0.654,15,18,6,13,7,2024-25,2024,2025
-42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,OffScreen,Offensive,0.667,23,0.033,1.154,0.462,0.0,0.0,0.0,0.0,0.462,0.577,13,15,6,13,7,2024-25,2024,2025

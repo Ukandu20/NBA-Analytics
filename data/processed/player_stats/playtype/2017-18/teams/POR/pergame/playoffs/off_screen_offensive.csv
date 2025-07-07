@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.926,4,0.143,1.385,0.636,0.154,0.077,0.154,0.077,0.615,0.0068200000000000005,3.3,4.0,1.8,2.8,1.0,2017-18,2017,2018
-42017,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,4,0.097,1.0,0.375,0.111,0.0,0.111,0.0,0.444,0.00438,2.3,2.0,0.8,2.0,1.3,2017-18,2017,2018
-42017,1627735,Wade Baldwin IV,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,4,0.25,1.5,0.5,0.0,0.0,0.0,0.0,0.5,0.0075,0.5,1.0,0.3,0.5,0.3,2017-18,2017,2018
-42017,1626192,Pat Connaughton,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,4,0.059,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.3,0.0,0.3,0.3,0.0,2017-18,2017,2018
-42017,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,4,0.017,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,2017-18,2017,2018
-42017,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,2,0.071,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.5,2017-18,2017,2018
-42017,203894,Shabazz Napier,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.0,2,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2017-18,2017,2018

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201188,Marc Gasol,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.7,74,0.32,0.938,0.466,0.154,0.109,0.136,0.028,0.478,0.466,469,440,166,356,190,2016-17,2016,2017
-22016,2216,Zach Randolph,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.342,73,0.323,0.822,0.433,0.089,0.113,0.073,0.008,0.429,0.433,371,305,129,298,169,2016-17,2016,2017
-22016,203210,JaMychal Green,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.647,77,0.079,0.925,0.541,0.132,0.189,0.151,0.038,0.472,0.541,53,49,20,37,17,2016-17,2016,2017
-22016,1713,Vince Carter,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.853,73,0.071,1.024,0.469,0.214,0.024,0.214,0.0,0.524,0.469,42,43,15,32,17,2016-17,2016,2017
-22016,202718,Chandler Parsons,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.705,34,0.064,0.941,0.438,0.059,0.0,0.059,0.0,0.471,0.438,17,16,7,16,9,2016-17,2016,2017
-22016,2754,Tony Allen,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.211,71,0.028,0.762,0.5,0.048,0.19,0.048,0.0,0.381,0.5,21,16,8,16,8,2016-17,2016,2017
-22016,201148,Brandan Wright,1610612763,MEM,Memphis Grizzlies,Postup,Offensive,0.571,28,0.063,0.9,0.333,0.3,0.0,0.3,0.2,0.4,0.333,10,9,3,9,6,2016-17,2016,2017

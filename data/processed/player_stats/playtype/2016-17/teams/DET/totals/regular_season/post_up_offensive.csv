@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203083,Andre Drummond,1610612765,DET,Detroit Pistons,Postup,Offensive,0.195,81,0.275,0.734,0.419,0.093,0.099,0.09,0.018,0.379,0.419,335,246,116,277,161,2016-17,2016,2017
-22016,202699,Tobias Harris,1610612765,DET,Detroit Pistons,Postup,Offensive,0.858,82,0.091,1.026,0.505,0.149,0.079,0.105,0.026,0.526,0.505,114,117,46,91,45,2016-17,2016,2017
-22016,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Postup,Offensive,0.274,79,0.088,0.798,0.375,0.096,0.058,0.067,0.0,0.413,0.375,104,83,33,88,55,2016-17,2016,2017
-22016,202720,Jon Leuer,1610612765,DET,Detroit Pistons,Postup,Offensive,0.825,75,0.087,1.0,0.492,0.03,0.015,0.03,0.0,0.5,0.492,66,66,31,63,32,2016-17,2016,2017
-22016,203382,Aron Baynes,1610612765,DET,Detroit Pistons,Postup,Offensive,0.353,75,0.125,0.83,0.4,0.17,0.149,0.17,0.064,0.404,0.4,47,39,14,35,21,2016-17,2016,2017

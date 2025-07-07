@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201935,James Harden,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.763,81,0.237,0.973,0.373,0.147,0.103,0.141,0.014,0.411,0.455,552,537,157,421,264,2016-17,2016,2017
-22016,201569,Eric Gordon,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.854,75,0.082,1.02,0.44,0.101,0.081,0.091,0.03,0.444,0.506,99,101,37,84,47,2016-17,2016,2017
-22016,201976,Patrick Beverley,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.285,67,0.077,0.698,0.342,0.113,0.17,0.113,0.0,0.34,0.368,53,37,13,38,25,2016-17,2016,2017
-22016,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.993,72,0.026,1.391,0.6,0.304,0.043,0.261,0.0,0.696,0.667,23,32,9,15,6,2016-17,2016,2017
-22016,101150,Lou Williams,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.922,23,0.077,1.074,0.429,0.148,0.074,0.148,0.0,0.481,0.476,27,29,9,21,12,2016-17,2016,2017
-22016,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.408,80,0.039,0.778,0.323,0.111,0.056,0.111,0.028,0.361,0.355,36,28,10,31,21,2016-17,2016,2017
-22016,2403,Nene,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.305,67,0.056,0.71,0.346,0.129,0.065,0.097,0.032,0.387,0.346,31,22,9,26,17,2016-17,2016,2017
-22016,203991,Clint Capela,1610612745,HOU,Houston Rockets,Isolation,Offensive,0.034,65,0.022,0.375,0.231,0.0,0.188,0.0,0.0,0.188,0.231,16,6,3,13,10,2016-17,2016,2017

@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,201572,Brook Lopez,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.551,74,0.182,1.087,0.467,0.081,0.064,0.081,0.023,0.462,0.00563,173,188,71,152,81,2017-18,2017,2018
-22017,203944,Julius Randle,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.686,82,0.118,1.157,0.627,0.163,0.118,0.157,0.052,0.582,0.00631,153,177,74,118,44,2017-18,2017,2018
-22017,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.295,77,0.065,0.988,0.415,0.11,0.11,0.11,0.012,0.402,0.00523,82,81,27,65,38,2017-18,2017,2018
-22017,1626204,Larry Nance Jr.,1610612747,LAL,Los Angeles Lakers,PRRollMan,Offensive,0.401,42,0.192,1.031,0.569,0.125,0.063,0.094,0.0,0.563,0.00569,64,66,29,51,22,2017-18,2017,2018

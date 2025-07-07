@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.411,78,0.119,0.887,0.372,0.095,0.086,0.072,0.009,0.385,0.454,221,196,68,183,115,2016-17,2016,2017
-22016,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.617,67,0.094,0.989,0.467,0.102,0.057,0.091,0.011,0.489,0.473,88,87,35,75,40,2016-17,2016,2017
-22016,201162,Jared Dudley,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.379,64,0.114,0.863,0.333,0.078,0.039,0.078,0.0,0.373,0.433,51,44,15,45,30,2016-17,2016,2017
-22016,2571,Leandro Barbosa,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.675,67,0.061,1.0,0.407,0.036,0.0,0.036,0.0,0.429,0.481,28,28,11,27,16,2016-17,2016,2017
-22016,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.273,66,0.016,0.783,0.368,0.043,0.13,0.043,0.0,0.348,0.421,23,18,7,19,12,2016-17,2016,2017
-22016,202688,Brandon Knight,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.174,54,0.028,0.684,0.25,0.158,0.053,0.158,0.053,0.316,0.281,19,13,4,16,12,2016-17,2016,2017
-22016,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,OffScreen,Offensive,0.139,82,0.02,0.625,0.308,0.0,0.188,0.0,0.0,0.25,0.385,16,10,4,13,9,2016-17,2016,2017

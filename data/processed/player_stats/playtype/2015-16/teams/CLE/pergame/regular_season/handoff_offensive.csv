@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.886,77,0.046,1.14,0.45,0.047,0.023,0.047,0.0,0.465,0.575,0.6,0.6,0.2,0.5,0.3,2015-16,2015,2016
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.962,76,0.019,1.257,0.563,0.057,0.057,0.057,0.029,0.543,0.641,0.5,0.6,0.2,0.4,0.2,2015-16,2015,2016
-22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.246,53,0.043,0.717,0.297,0.087,0.109,0.065,0.0,0.326,0.324,0.9,0.6,0.2,0.7,0.5,2015-16,2015,2016
-22015,2210,Richard Jefferson,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.797,74,0.079,1.032,0.407,0.097,0.032,0.097,0.0,0.452,0.481,0.4,0.4,0.1,0.4,0.2,2015-16,2015,2016
-22015,203521,Matthew Dellavedova,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.47,76,0.06,0.821,0.379,0.051,0.205,0.026,0.0,0.333,0.5,0.5,0.4,0.1,0.4,0.2,2015-16,2015,2016
-22015,2590,Mo Williams,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.716,41,0.069,0.962,0.391,0.038,0.077,0.038,0.0,0.385,0.5,0.6,0.6,0.2,0.6,0.3,2015-16,2015,2016
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.289,77,0.015,0.737,0.235,0.053,0.053,0.053,0.0,0.263,0.353,0.2,0.2,0.1,0.2,0.2,2015-16,2015,2016
-22015,202697,Iman Shumpert,1610612739,CLE,Cleveland Cavaliers,Handoff,Offensive,0.038,54,0.034,0.385,0.154,0.0,0.0,0.0,0.0,0.154,0.192,0.2,0.1,0.0,0.2,0.2,2015-16,2015,2016

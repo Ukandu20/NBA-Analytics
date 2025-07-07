@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.625,18,0.161,1.082,0.5,0.047,0.082,0.047,0.0,0.482,0.00561,4.7,5.1,2.1,4.1,2.1,2015-16,2015,2016
-42015,201586,Serge Ibaka,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,18,0.039,1.571,0.571,0.0,0.0,0.0,0.0,0.571,0.00786,0.4,0.6,0.2,0.4,0.2,2015-16,2015,2016
-42015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,14,0.156,1.6,0.5,0.2,0.0,0.2,0.0,0.6,0.00625,0.4,0.6,0.1,0.3,0.1,2015-16,2015,2016
-42015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,18,0.012,2.0,1.0,1.0,0.0,1.0,0.5,1.0,0.01,0.1,0.2,0.1,0.1,0.0,2015-16,2015,2016
-42015,200751,Randy Foye,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,16,0.056,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.00333,0.2,0.1,0.1,0.2,0.1,2015-16,2015,2016
-42015,202713,Kyle Singler,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,6,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2015-16,2015,2016
-42015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffScreen,Offensive,0.0,18,0.007,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2015-16,2015,2016

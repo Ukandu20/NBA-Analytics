@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.524,80,0.08,0.934,0.4,0.02,0.07,0.015,0.007,0.38,0.492,137,128,50,125,75,2015-16,2015,2016
-22015,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.52,81,0.163,0.93,0.398,0.08,0.09,0.07,0.008,0.41,0.444,128,119,43,108,65,2015-16,2015,2016
-22015,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.643,75,0.056,1.0,0.394,0.07,0.06,0.047,0.009,0.41,0.5,106,106,37,94,57,2015-16,2015,2016
-22015,201945,Gerald Henderson,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.354,72,0.083,0.836,0.4,0.04,0.05,0.036,0.0,0.4,0.42,55,46,20,50,30,2015-16,2015,2016
-22015,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.418,82,0.05,0.867,0.4,0.0,0.11,0.0,0.0,0.36,0.488,45,39,16,40,24,2015-16,2015,2016
-22015,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.434,78,0.046,0.875,0.444,0.04,0.21,0.042,0.0,0.38,0.528,24,21,8,18,10,2015-16,2015,2016
-22015,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,OffScreen,Offensive,0.951,61,0.024,1.308,0.583,0.0,0.08,0.0,0.0,0.54,0.708,13,17,7,12,5,2015-16,2015,2016

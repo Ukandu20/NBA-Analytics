@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.027,2.5,1.0,0.0,0.0,0.0,0.0,1.0,0.0125,0.4,1.0,0.4,0.4,0.0,2017-18,2017,2018
-42017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.045,1.667,0.667,0.0,0.0,0.0,0.0,0.67,0.008329999999999999,0.6,1.0,0.4,0.6,0.2,2017-18,2017,2018
-42017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.009,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.2,0.4,0.0,0.0,0.0,2017-18,2017,2018
-42017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.061,0.333,0.0,0.33,0.33,0.33,0.0,0.33,0.0,0.6,0.2,0.0,0.2,0.2,2017-18,2017,2018
-42017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,4,0.053,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,2017-18,2017,2018
-42017,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.023,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2017-18,2017,2018
-42017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.0,5,0.063,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.2,2017-18,2017,2018

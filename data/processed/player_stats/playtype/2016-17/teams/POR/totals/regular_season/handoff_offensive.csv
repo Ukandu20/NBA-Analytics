@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203468,CJ McCollum,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.871,80,0.092,1.113,0.508,0.107,0.107,0.101,0.019,0.497,0.57,159,177,65,128,63,2016-17,2016,2017
-22016,203081,Damian Lillard,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.633,75,0.095,0.956,0.423,0.099,0.127,0.088,0.011,0.42,0.5,181,173,60,142,82,2016-17,2016,2017
-22016,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.458,79,0.096,0.89,0.362,0.151,0.11,0.123,0.055,0.384,0.414,73,65,21,58,37,2016-17,2016,2017
-22016,202323,Evan Turner,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.314,65,0.06,0.786,0.417,0.048,0.119,0.048,0.024,0.381,0.417,42,33,15,36,21,2016-17,2016,2017
-22016,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.259,77,0.025,0.737,0.357,0.158,0.211,0.158,0.105,0.316,0.357,19,14,5,14,9,2016-17,2016,2017
-22016,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,Handoff,Offensive,0.017,61,0.028,0.353,0.154,0.118,0.118,0.118,0.0,0.176,0.192,17,6,2,13,11,2016-17,2016,2017

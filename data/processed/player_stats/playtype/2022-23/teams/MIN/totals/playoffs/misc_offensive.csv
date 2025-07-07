@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42022,201144,Mike Conley,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.055,1.0,0.0,0.667,0.333,0.0,0.0,0.667,0.0,3,3,0,0,0,2022-23,2022,2023
-42022,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.043,0.333,0.25,0.0,0.333,0.0,0.0,0.167,0.0025,6,2,1,4,3,2022-23,2022,2023
-42022,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.05,0.5,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,1,0,0,0,2022-23,2022,2023
-42022,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.09,0.167,0.0,0.167,0.667,0.0,0.0,0.167,0.0,6,1,0,1,1,2022-23,2022,2023
-42022,1631169,Josh Minott,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,1,0.5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,0,0,0,0,2022-23,2022,2023
-42022,203937,Kyle Anderson,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,4,0.054,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2,0,0,0,0,2022-23,2022,2023
-42022,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.0,5,0.041,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,4,0,0,0,0,2022-23,2022,2023

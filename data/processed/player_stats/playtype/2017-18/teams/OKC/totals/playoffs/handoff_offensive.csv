@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.65,6,0.063,0.9,0.3,0.1,0.0,0.1,0.1,0.3,0.0045000000000000005,10,9,3,10,7,2017-18,2017,2018
-42017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.0,6,0.024,1.4,0.5,0.2,0.0,0.0,0.0,0.6,0.0075,5,7,2,4,2,2017-18,2017,2018
-42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.0,6,0.012,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2017-18,2017,2018
-42017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,Handoff,Offensive,0.0,6,0.091,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,2017-18,2017,2018

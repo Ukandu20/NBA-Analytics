@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.25,5,0.268,0.737,0.34,0.105,0.07,0.105,0.0,0.386,0.0035099999999999997,11.4,8.4,3.2,9.4,6.2,2016-17,2016,2017
-42016,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,5,0.054,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,0.4,0.4,0.2,0.4,0.2,2016-17,2016,2017
-42016,202708,Norris Cole,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,4,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,2016-17,2016,2017
-42016,201959,Taj Gibson,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,5,0.043,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,2016-17,2016,2017
-42016,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,5,0.032,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,2016-17,2016,2017
-42016,203506,Victor Oladipo,1610612760,OKC,Oklahoma City Thunder,Isolation,Offensive,0.0,5,0.087,0.0,0.0,0.0,0.167,0.0,0.0,0.0,0.0,1.2,0.0,0.0,1.0,1.0,2016-17,2016,2017

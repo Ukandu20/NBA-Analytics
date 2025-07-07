@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.83,77,0.246,0.981,0.482,0.197,0.126,0.155,0.032,0.503,0.482,4.0,3.9,1.4,2.9,1.5,2015-16,2015,2016
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.677,76,0.106,0.893,0.478,0.112,0.127,0.086,0.036,0.452,0.478,2.6,2.3,1.0,2.1,1.1,2015-16,2015,2016
-22015,202389,Timofey Mozgov,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.323,76,0.18,0.741,0.406,0.071,0.153,0.059,0.035,0.365,0.406,1.1,0.8,0.4,0.9,0.5,2015-16,2015,2016
-22015,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.462,82,0.058,0.824,0.464,0.088,0.088,0.059,0.0,0.412,0.464,0.4,0.3,0.2,0.3,0.2,2015-16,2015,2016
-22015,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.978,26,0.094,1.176,0.563,0.118,0.059,0.118,0.118,0.529,0.563,0.7,0.8,0.3,0.6,0.3,2015-16,2015,2016
-22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.425,53,0.019,0.8,0.333,0.1,0.0,0.1,0.0,0.4,0.333,0.4,0.3,0.1,0.3,0.2,2015-16,2015,2016
-22015,2747,JR Smith,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.045,77,0.013,0.417,0.222,0.083,0.167,0.083,0.0,0.25,0.222,0.2,0.1,0.0,0.1,0.1,2015-16,2015,2016
-22015,2760,Anderson Varejao,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.0,31,0.098,0.1,0.0,0.1,0.3,0.1,0.0,0.1,0.0,0.3,0.0,0.0,0.2,0.2,2015-16,2015,2016

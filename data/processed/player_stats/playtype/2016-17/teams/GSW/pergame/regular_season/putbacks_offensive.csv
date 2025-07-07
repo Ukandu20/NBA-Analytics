@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,2585,Zaza Pachulia,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.206,70,0.131,0.898,0.429,0.119,0.085,0.119,0.034,0.441,0.429,0.8,0.8,0.3,0.7,0.4,2016-17,2016,2017
-22016,203110,Draymond Green,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.12,76,0.06,0.821,0.392,0.071,0.018,0.089,0.018,0.411,0.392,0.7,0.6,0.3,0.7,0.4,2016-17,2016,2017
-22016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.99,62,0.018,1.583,0.75,0.208,0.042,0.208,0.083,0.75,0.775,0.4,0.6,0.2,0.3,0.1,2016-17,2016,2017
-22016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.45,79,0.016,1.034,0.52,0.069,0.103,0.069,0.034,0.483,0.54,0.4,0.4,0.2,0.3,0.2,2016-17,2016,2017
-22016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.302,78,0.018,0.964,0.417,0.107,0.071,0.107,0.036,0.429,0.458,0.4,0.3,0.1,0.3,0.2,2016-17,2016,2017
-22016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.899,76,0.029,1.333,0.769,0.067,0.133,0.067,0.067,0.667,0.769,0.2,0.3,0.1,0.2,0.0,2016-17,2016,2017
-22016,2561,David West,1610612744,GSW,Golden State Warriors,OffRebound,Offensive,0.363,68,0.048,1.0,0.538,0.176,0.118,0.176,0.059,0.529,0.538,0.3,0.3,0.1,0.2,0.1,2016-17,2016,2017

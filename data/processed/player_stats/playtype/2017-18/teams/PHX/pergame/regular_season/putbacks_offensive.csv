@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,203458,Alex Len,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.459,69,0.22,1.073,0.526,0.179,0.057,0.171,0.024,0.553,0.526,1.8,1.9,0.7,1.4,0.7,2017-18,2017,2018
-22017,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.534,65,0.083,1.115,0.546,0.067,0.019,0.058,0.019,0.548,0.546,1.6,1.8,0.8,1.5,0.7,2017-18,2017,2018
-22017,2199,Tyson Chandler,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.578,46,0.274,1.139,0.582,0.101,0.051,0.089,0.0,0.595,0.582,1.7,2.0,0.8,1.5,0.6,2017-18,2017,2018
-22017,1628367,Josh Jackson,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.306,77,0.055,1.0,0.525,0.076,0.045,0.061,0.015,0.515,0.525,0.9,0.9,0.4,0.8,0.4,2017-18,2017,2018
-22017,202328,Greg Monroe,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.929,20,0.172,1.405,0.793,0.162,0.108,0.162,0.054,0.676,0.793,1.9,2.6,1.1,1.4,0.3,2017-18,2017,2018
-22017,1627737,Marquese Chriss,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.527,72,0.069,1.111,0.636,0.222,0.111,0.222,0.067,0.6,0.636,0.6,0.7,0.3,0.5,0.2,2017-18,2017,2018
-22017,1627733,Dragan Bender,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.574,82,0.036,1.136,0.611,0.136,0.091,0.091,0.045,0.591,0.611,0.3,0.3,0.1,0.2,0.1,2017-18,2017,2018
-22017,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,OffRebound,Offensive,0.943,54,0.01,1.429,0.714,0.0,0.0,0.0,0.0,0.714,0.714,0.3,0.4,0.2,0.3,0.1,2017-18,2017,2018

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,203076,Anthony Davis,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.63,61,0.247,1.06,0.503,0.134,0.045,0.131,0.02,0.52,0.522,352,373,149,296,147,2015-16,2015,2016
-22015,201583,Ryan Anderson,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.635,66,0.151,1.065,0.421,0.131,0.06,0.125,0.024,0.458,0.514,168,179,59,140,81,2015-16,2015,2016
-22015,201582,Alexis Ajinca,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.347,59,0.275,0.945,0.489,0.11,0.101,0.11,0.018,0.486,0.489,109,103,43,88,45,2015-16,2015,2016
-22015,201600,Omer Asik,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.461,68,0.213,0.985,0.548,0.227,0.152,0.197,0.015,0.545,0.548,66,65,23,42,19,2015-16,2015,2016
-22015,2570,Kendrick Perkins,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.507,38,0.242,1.0,0.591,0.129,0.194,0.129,0.032,0.516,0.591,31,31,13,22,9,2015-16,2015,2016
-22015,201967,Dante Cunningham,1610612740,NOP,New Orleans Pelicans,PRRollMan,Offensive,0.932,80,0.045,1.318,0.6,0.091,0.045,0.091,0.045,0.591,0.65,22,29,12,20,8,2015-16,2015,2016

@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,16,0.031,1.0,0.667,0.25,0.25,0.25,0.25,0.5,0.006670000000000001,0.3,0.3,0.1,0.2,0.1,2016-17,2016,2017
-42016,201142,Kevin Durant,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,15,0.014,1.0,0.5,0.0,0.2,0.0,0.0,0.4,0.005,0.3,0.3,0.1,0.3,0.1,2016-17,2016,2017
-42016,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,17,0.019,0.0,0.143,0.0,0.125,0.0,0.0,0.125,0.00214,0.5,0.2,0.1,0.4,0.4,2016-17,2016,2017
-42016,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,17,0.037,0.0,0.111,0.0,0.1,0.0,0.0,0.1,0.00167,0.6,0.2,0.1,0.5,0.5,2016-17,2016,2017
-42016,1627775,Patrick McCaw,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,15,0.053,0.0,0.0,0.333,0.0,0.333,0.0,0.333,0.0,0.2,0.1,0.0,0.1,0.1,2016-17,2016,2017
-42016,2440,Matt Barnes,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,12,0.111,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.2,2016-17,2016,2017
-42016,203546,Ian Clark,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.0,16,0.042,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.2,0.2,2016-17,2016,2017

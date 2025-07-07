@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.125,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.006,1.0,1.0,0.6,1.0,0.4,2017-18,2017,2018
-42017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.102,5,0.147,0.455,0.222,0.09,0.091,0.091,0.0,0.273,0.00222,2.2,1.0,0.4,1.8,1.4,2017-18,2017,2018
-42017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.09,0.667,0.4,0.0,0.167,0.0,0.0,0.333,0.004,1.2,1.0,0.4,1.0,0.6,2017-18,2017,2018
-42017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,4,0.053,2.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.3,0.0,0.0,0.0,0.0,2017-18,2017,2018
-42017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.038,0.5,0.25,0.0,0.0,0.0,0.0,0.25,0.0025,0.8,0.0,0.2,0.8,0.6,2017-18,2017,2018
-42017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.102,0.4,0.2,0.0,0.0,0.0,0.0,0.2,0.002,1.0,0.0,0.2,1.0,0.8,2017-18,2017,2018
-42017,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.045,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.4,0.0,0.0,0.2,0.2,2017-18,2017,2018
-42017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Isolation,Offensive,0.0,5,0.031,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,2017-18,2017,2018

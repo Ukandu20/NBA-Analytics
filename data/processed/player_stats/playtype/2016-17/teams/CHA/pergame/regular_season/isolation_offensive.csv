@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,202689,Kemba Walker,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.386,79,0.062,0.764,0.347,0.073,0.055,0.073,0.018,0.364,0.362,1.4,1.1,0.4,1.2,0.8,2016-17,2016,2017
-22016,201587,Nicolas Batum,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.826,77,0.051,1.0,0.439,0.092,0.031,0.108,0.015,0.462,0.482,0.8,0.8,0.3,0.7,0.4,2016-17,2016,2017
-22016,203087,Jeremy Lamb,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.868,62,0.066,1.026,0.429,0.184,0.079,0.184,0.0,0.5,0.482,0.6,0.6,0.2,0.5,0.3,2016-17,2016,2017
-22016,1626163,Frank Kaminsky,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.539,75,0.042,0.85,0.419,0.15,0.15,0.15,0.075,0.4,0.419,0.5,0.5,0.2,0.4,0.2,2016-17,2016,2017
-22016,203469,Cody Zeller,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.826,62,0.025,1.0,0.429,0.133,0.0,0.133,0.067,0.467,0.429,0.2,0.2,0.1,0.2,0.1,2016-17,2016,2017
-22016,203077,Michael Kidd-Gilchrist,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.041,81,0.039,0.4,0.207,0.033,0.033,0.033,0.033,0.2,0.207,0.4,0.1,0.1,0.4,0.3,2016-17,2016,2017
-22016,203148,Brian Roberts,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.027,41,0.115,0.316,0.143,0.053,0.211,0.0,0.0,0.158,0.143,0.5,0.1,0.0,0.3,0.3,2016-17,2016,2017
-22016,201158,Marco Belinelli,1610612766,CHA,Charlotte Hornets,Isolation,Offensive,0.044,74,0.016,0.417,0.182,0.0,0.083,0.0,0.0,0.167,0.227,0.2,0.1,0.0,0.1,0.1,2016-17,2016,2017

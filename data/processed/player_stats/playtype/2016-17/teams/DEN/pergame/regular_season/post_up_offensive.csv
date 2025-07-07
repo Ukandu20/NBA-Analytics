@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203999,Nikola Jokić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.947,73,0.208,1.116,0.579,0.142,0.121,0.125,0.03,0.556,0.579,3.2,3.5,1.4,2.4,1.0,2016-17,2016,2017
-22016,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.984,63,0.115,1.2,0.519,0.287,0.07,0.243,0.043,0.591,0.519,1.8,2.2,0.7,1.3,0.6,2016-17,2016,2017
-22016,203994,Jusuf Nurkić,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.174,45,0.355,0.714,0.411,0.149,0.162,0.149,0.006,0.403,0.411,3.4,2.4,1.0,2.4,1.4,2016-17,2016,2017
-22016,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.842,71,0.055,1.016,0.556,0.194,0.161,0.145,0.081,0.5,0.556,0.9,0.9,0.4,0.6,0.3,2016-17,2016,2017
-22016,202702,Kenneth Faried,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.232,61,0.113,0.774,0.412,0.065,0.113,0.032,0.0,0.403,0.412,1.0,0.8,0.3,0.8,0.5,2016-17,2016,2017
-22016,203486,Mason Plumlee,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.179,27,0.176,0.717,0.333,0.217,0.174,0.174,0.043,0.348,0.333,1.7,1.2,0.4,1.1,0.7,2016-17,2016,2017
-22016,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Postup,Offensive,0.503,56,0.021,0.875,0.545,0.063,0.25,0.063,0.0,0.438,0.545,0.3,0.3,0.1,0.2,0.1,2016-17,2016,2017

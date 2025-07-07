@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,202738,Isaiah Thomas,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.941,76,0.344,1.042,0.446,0.149,0.121,0.133,0.021,0.462,0.525,671,699,224,502,278,2016-17,2016,2017
-22016,202340,Avery Bradley,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.61,55,0.192,0.832,0.441,0.012,0.168,0.012,0.006,0.37,0.497,173,144,63,143,80,2016-17,2016,2017
-22016,203935,Marcus Smart,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.25,79,0.191,0.667,0.364,0.087,0.246,0.077,0.01,0.323,0.379,195,130,48,132,84,2016-17,2016,2017
-22016,1626179,Terry Rozier,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.481,74,0.229,0.793,0.358,0.09,0.081,0.081,0.027,0.369,0.384,111,88,34,95,61,2016-17,2016,2017
-22016,203109,Jae Crowder,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.682,72,0.054,0.875,0.343,0.125,0.167,0.125,0.021,0.333,0.457,48,42,12,35,23,2016-17,2016,2017
-22016,101123,Gerald Green,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.231,47,0.151,0.659,0.357,0.049,0.268,0.049,0.0,0.293,0.411,41,27,10,28,18,2016-17,2016,2017
-22016,1627759,Jaylen Brown,1610612738,BOS,Boston Celtics,PRBallHandler,Offensive,0.224,78,0.054,0.655,0.389,0.138,0.276,0.103,0.034,0.345,0.389,29,19,7,18,11,2016-17,2016,2017

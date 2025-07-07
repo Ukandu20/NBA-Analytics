@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,201577,Robin Lopez,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,6,0.094,1.667,0.833,0.0,0.0,0.0,0.0,0.833,0.833,6,10,5,6,1,2016-17,2016,2017
-42016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,6,0.035,1.2,0.5,0.4,0.0,0.4,0.2,0.6,0.5,5,6,2,4,2,2016-17,2016,2017
-42016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,6,0.019,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,2,4,2,2,0,2016-17,2016,2017
-42016,1626171,Bobby Portis,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,6,0.026,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,2016-17,2016,2017
-42016,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,4,0.125,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,1,2,1,1,0,2016-17,2016,2017
-42016,203530,Joffrey Lauvergne,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,3,0.125,1.0,1.0,0.0,0.5,0.0,0.0,0.5,1.0,2,2,1,1,0,2016-17,2016,2017
-42016,201627,Anthony Morrow,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,3,0.2,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,2,2,1,2,1,2016-17,2016,2017
-42016,1626245,Cristiano Felicio,1610612741,CHI,Chicago Bulls,Cut,Offensive,0.0,6,0.13,0.667,0.5,0.0,0.333,0.0,0.0,0.333,0.5,3,2,1,2,1,2016-17,2016,2017

@@ -1,7 +1,0 @@
-player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
-203078,Bradley Beal,Bradley,1610612764,WAS,28.0,2,1,1,0.5,5.605,0.0,0.0,0.0,0.0,8.6,17.1,0.0,34.3,0.0,0.0,0.0,8.6,42.8,75,54,23,52,79,21,26,9,47,70,99,1,62,20,1,1,25,49
-1629655,Daniel Gafford,Daniel,1610612764,WAS,22.0,2,1,1,0.5,5.605,0.0,8.6,0.0,17.1,8.6,17.1,0.0,34.3,0.0,0.0,8.6,17.1,36.0,75,54,23,52,79,21,15,9,16,70,99,1,62,20,1,100,11,60
-202722,Dāvis Bertāns,Dāvis,1610612764,WAS,28.0,1,0,1,0.0,1.285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.4,0.0,97,100,23,100,106,21,26,9,47,1,1,1,107,20,1,1,5,106
-203526,Raul Neto,Raul,1610612764,WAS,29.0,1,1,0,1.0,4.32,22.2,0.0,0.0,22.2,11.1,22.2,0.0,44.4,0.0,0.0,22.2,0.0,35.6,97,54,1,1,88,2,26,9,11,80,112,1,43,20,1,123,63,61
-1629060,Rui Hachimura,Rui,1610612764,WAS,23.0,2,1,1,0.5,5.605,0.0,0.0,17.1,17.1,8.6,17.1,0.0,34.3,0.0,8.6,8.6,0.0,42.8,75,54,23,52,79,21,26,1,16,70,99,1,62,20,130,100,63,49
-201566,Russell Westbrook,Russell,1610612764,WAS,32.0,2,1,1,0.5,5.605,0.0,0.0,0.0,0.0,8.6,17.1,0.0,34.3,0.0,0.0,25.7,0.0,37.7,75,54,23,52,79,21,26,9,47,70,99,1,62,20,1,125,63,57

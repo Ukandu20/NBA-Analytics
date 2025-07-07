@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,101162,Marcin Gortat,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.863,75,0.231,1.212,0.615,0.128,0.053,0.124,0.044,0.602,0.615,226,274,120,195,75,2015-16,2015,2016
-22015,2403,Nene,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.393,57,0.169,0.957,0.507,0.12,0.098,0.12,0.011,0.511,0.507,92,88,37,73,36,2015-16,2015,2016
-22015,201162,Jared Dudley,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.361,81,0.135,0.951,0.429,0.073,0.073,0.073,0.0,0.439,0.486,82,78,30,70,40,2015-16,2015,2016
-22015,202693,Markieff Morris,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.694,27,0.159,1.089,0.538,0.036,0.036,0.036,0.0,0.536,0.558,56,61,28,52,24,2015-16,2015,2016
-22015,2743,Kris Humphries,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.761,28,0.256,1.12,0.449,0.04,0.0,0.04,0.02,0.46,0.541,50,56,22,49,27,2015-16,2015,2016
-22015,203490,Otto Porter Jr.,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.904,75,0.026,1.273,0.6,0.045,0.045,0.045,0.0,0.591,0.65,22,28,12,20,8,2015-16,2015,2016
-22015,2400,Drew Gooden,1610612764,WAS,Washington Wizards,PRRollMan,Offensive,0.014,30,0.264,0.469,0.24,0.031,0.188,0.031,0.0,0.219,0.26,32,15,6,25,19,2015-16,2015,2016

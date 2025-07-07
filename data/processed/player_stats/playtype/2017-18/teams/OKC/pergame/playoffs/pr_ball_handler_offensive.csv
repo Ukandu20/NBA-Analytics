@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,202331,Paul George,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.719,6,0.37,0.949,0.442,0.102,0.186,0.085,0.017,0.407,0.00547,9.8,9.3,3.2,7.2,4.0,2017-18,2017,2018
-42017,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.175,6,0.4,0.6,0.309,0.035,0.165,0.024,0.0,0.282,0.00338,14.2,8.5,3.5,11.3,7.8,2017-18,2017,2018
-42017,2546,Carmelo Anthony,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,6,0.1,1.333,0.571,0.222,0.0,0.222,0.0,0.667,0.00643,1.5,2.0,0.7,1.2,0.5,2017-18,2017,2018
-42017,101109,Raymond Felton,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.125,6,0.43,0.563,0.286,0.063,0.063,0.063,0.0,0.25,0.00321,2.7,1.5,0.7,2.3,1.7,2017-18,2017,2018
-42017,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,6,0.14,1.667,0.667,0.0,0.0,0.0,0.0,0.667,0.008329999999999999,0.5,0.8,0.3,0.5,0.2,2017-18,2017,2018
-42017,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,6,0.04,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.2,0.2,2017-18,2017,2018

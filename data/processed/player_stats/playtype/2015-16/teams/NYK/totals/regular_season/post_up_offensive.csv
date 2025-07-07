@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,2546,Carmelo Anthony,1610612752,NYK,New York Knicks,Postup,Offensive,0.744,72,0.222,0.921,0.43,0.187,0.095,0.154,0.033,0.477,0.43,369,340,119,277,158,2015-16,2015,2016
-22015,201577,Robin Lopez,1610612752,NYK,New York Knicks,Postup,Offensive,0.682,82,0.292,0.894,0.5,0.106,0.177,0.079,0.024,0.453,0.5,254,227,94,188,94,2015-16,2015,2016
-22015,201167,Arron Afflalo,1610612752,NYK,New York Knicks,Postup,Offensive,0.901,71,0.169,1.025,0.531,0.12,0.114,0.108,0.057,0.5,0.531,158,162,69,130,61,2015-16,2015,2016
-22015,204001,Kristaps Porziņģis,1610612752,NYK,New York Knicks,Postup,Offensive,0.448,72,0.15,0.821,0.405,0.113,0.125,0.083,0.018,0.411,0.405,168,138,53,131,78,2015-16,2015,2016
-22015,202338,Kevin Seraphin,1610612752,NYK,New York Knicks,Postup,Offensive,0.157,49,0.434,0.625,0.356,0.036,0.161,0.018,0.0,0.321,0.356,112,70,32,90,58,2015-16,2015,2016
-22015,202682,Derrick Williams,1610612752,NYK,New York Knicks,Postup,Offensive,0.762,80,0.096,0.93,0.389,0.239,0.056,0.239,0.056,0.479,0.389,71,66,21,54,33,2015-16,2015,2016
-22015,203124,Kyle O'Quinn,1610612752,NYK,New York Knicks,Postup,Offensive,0.281,65,0.183,0.727,0.447,0.076,0.242,0.045,0.03,0.364,0.447,66,48,21,47,26,2015-16,2015,2016
-22015,202498,Lance Thomas,1610612752,NYK,New York Knicks,Postup,Offensive,0.991,59,0.053,1.231,0.611,0.308,0.154,0.308,0.154,0.577,0.611,26,32,11,18,7,2015-16,2015,2016

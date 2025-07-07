@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.696,82,0.209,1.162,0.52,0.175,0.079,0.178,0.057,0.53,0.00567,315,366,131,252,121,2017-18,2017,2018
-22017,201959,Taj Gibson,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.604,82,0.142,1.124,0.558,0.155,0.078,0.14,0.039,0.558,0.00563,129,145,58,104,46,2017-18,2017,2018
-22017,203476,Gorgui Dieng,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.174,79,0.24,0.899,0.429,0.16,0.092,0.143,0.017,0.471,0.00434,119,107,39,91,52,2017-18,2017,2018
-22017,202357,Nemanja Bjelica,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.907,67,0.054,1.333,0.524,0.083,0.042,0.083,0.0,0.542,0.0069,24,32,11,21,10,2017-18,2017,2018
-22017,203952,Andrew Wiggins,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.262,82,0.015,0.958,0.524,0.042,0.083,0.042,0.0,0.5,0.00524,24,23,11,21,10,2017-18,2017,2018
-22017,202710,Jimmy Butler III,1610612750,MIN,Minnesota Timberwolves,PRRollMan,Offensive,0.644,59,0.012,1.143,0.556,0.286,0.071,0.143,0.0,0.571,0.00611,14,16,5,9,4,2017-18,2017,2018

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.71,16,0.39,0.982,0.484,0.114,0.088,0.096,0.035,0.482,0.484,114,112,46,95,49,2016-17,2016,2017
-42016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.968,12,0.048,1.462,0.6,0.308,0.0,0.154,0.077,0.692,0.6,13,19,6,10,4,2016-17,2016,2017
-42016,2200,Pau Gasol,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.129,16,0.196,0.571,0.364,0.036,0.179,0.036,0.0,0.286,0.364,28,16,8,22,14,2016-17,2016,2017
-42016,101135,David Lee,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,15,0.148,0.889,0.375,0.222,0.0,0.222,0.111,0.444,0.375,9,8,3,8,5,2016-17,2016,2017
-42016,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,13,0.056,1.0,0.0,0.5,0.5,0.0,0.0,0.5,0.0,2,2,0,0,0,2016-17,2016,2017
-42016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,15,0.006,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
-42016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,15,0.013,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,1,1,2016-17,2016,2017
-42016,203473,Dewayne Dedmon,1610612759,SAS,San Antonio Spurs,Postup,Offensive,0.0,12,0.042,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,2,0,0,1,1,2016-17,2016,2017

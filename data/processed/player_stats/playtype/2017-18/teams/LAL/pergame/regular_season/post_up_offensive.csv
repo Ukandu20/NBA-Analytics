@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,203944,Julius Randle,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.549,82,0.209,0.886,0.46,0.188,0.158,0.158,0.04,0.456,0.46,3.3,2.9,1.1,2.3,1.2,2017-18,2017,2018
-22017,201572,Brook Lopez,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.721,74,0.255,0.955,0.505,0.119,0.099,0.099,0.041,0.477,0.505,3.3,3.1,1.4,2.7,1.3,2017-18,2017,2018
-22017,1628398,Kyle Kuzma,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.853,77,0.055,1.014,0.58,0.145,0.159,0.145,0.029,0.522,0.58,0.9,0.9,0.4,0.6,0.3,2017-18,2017,2018
-22017,1627742,Brandon Ingram,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.299,59,0.036,0.784,0.394,0.054,0.054,0.027,0.0,0.405,0.394,0.6,0.5,0.2,0.6,0.3,2017-18,2017,2018
-22017,1626204,Larry Nance Jr.,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.507,42,0.072,0.875,0.471,0.125,0.167,0.083,0.0,0.458,0.471,0.6,0.5,0.2,0.4,0.2,2017-18,2017,2018
-22017,101112,Channing Frye,1610612747,LAL,Los Angeles Lakers,Postup,Offensive,0.99,9,0.208,1.3,0.667,0.1,0.1,0.1,0.1,0.6,0.667,1.1,1.4,0.7,1.0,0.3,2017-18,2017,2018

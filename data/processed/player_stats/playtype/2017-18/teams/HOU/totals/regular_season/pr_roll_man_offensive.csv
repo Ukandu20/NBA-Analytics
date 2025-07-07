@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,203991,Clint Capela,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.913,74,0.321,1.336,0.695,0.217,0.042,0.217,0.073,0.675,0.00695,286,382,162,233,71,2017-18,2017,2018
-22017,2403,Nene,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.454,52,0.366,1.05,0.526,0.168,0.076,0.16,0.042,0.538,0.00526,119,125,50,95,45,2017-18,2017,2018
-22017,201583,Ryan Anderson,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.217,66,0.182,0.941,0.348,0.088,0.049,0.088,0.01,0.382,0.00461,102,96,31,89,58,2017-18,2017,2018
-22017,204028,Tarik Black,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.787,51,0.353,1.227,0.698,0.197,0.106,0.197,0.106,0.621,0.006979999999999999,66,81,37,53,16,2017-18,2017,2018
-22017,201601,Luc Mbah a Moute,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.657,61,0.087,1.15,0.545,0.1,0.1,0.1,0.025,0.5,0.00636,40,46,18,33,15,2017-18,2017,2018
-22017,200782,P.J. Tucker,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.014,82,0.101,0.545,0.283,0.0,0.164,0.0,0.0,0.236,0.0032600000000000003,55,30,13,46,33,2017-18,2017,2018
-22017,2772,Trevor Ariza,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.072,67,0.04,0.793,0.321,0.0,0.034,0.0,0.0,0.31,0.00411,29,23,9,28,19,2017-18,2017,2018
-22017,201569,Eric Gordon,1610612745,HOU,Houston Rockets,PRRollMan,Offensive,0.85,69,0.009,1.273,0.556,0.0,0.182,0.0,0.0,0.455,0.0077800000000000005,11,14,5,9,4,2017-18,2017,2018

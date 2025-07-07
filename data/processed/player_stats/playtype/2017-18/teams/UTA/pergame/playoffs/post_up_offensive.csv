@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,202324,Derrick Favors,1610612762,UTA,Utah Jazz,Postup,Offensive,0.438,11,0.138,0.846,0.5,0.077,0.154,0.077,0.0,0.462,0.5,1.2,1.0,0.5,0.9,0.5,2017-18,2017,2018
-42017,203497,Rudy Gobert,1610612762,UTA,Utah Jazz,Postup,Offensive,0.188,11,0.082,0.727,0.6,0.273,0.273,0.273,0.091,0.455,0.6,1.0,0.7,0.3,0.5,0.2,2017-18,2017,2018
-42017,204060,Joe Ingles,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.006,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.0,0.0,2017-18,2017,2018
-42017,203109,Jae Crowder,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,11,0.015,0.5,0.0,0.5,0.0,0.5,0.0,0.5,0.0,0.2,0.1,0.0,0.1,0.1,2017-18,2017,2018
-42017,202327,Ekpe Udoh,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,6,0.333,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,2017-18,2017,2018
-42017,1628396,Tony Bradley,1610612762,UTA,Utah Jazz,Postup,Offensive,0.0,1,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,2017-18,2017,2018

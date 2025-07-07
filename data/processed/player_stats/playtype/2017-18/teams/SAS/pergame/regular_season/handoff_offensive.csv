@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.556,82,0.092,0.922,0.387,0.078,0.117,0.078,0.0,0.39,0.476,0.9,0.9,0.3,0.8,0.5,2017-18,2017,2018
-22017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.439,79,0.112,0.857,0.383,0.032,0.032,0.016,0.016,0.365,0.442,0.8,0.7,0.3,0.8,0.5,2017-18,2017,2018
-22017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.86,70,0.065,1.116,0.486,0.093,0.093,0.093,0.047,0.465,0.595,0.6,0.7,0.3,0.5,0.3,2017-18,2017,2018
-22017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.389,65,0.077,0.833,0.464,0.167,0.271,0.146,0.021,0.417,0.5,0.7,0.6,0.2,0.4,0.2,2017-18,2017,2018
-22017,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.856,74,0.048,1.103,0.538,0.069,0.069,0.069,0.034,0.517,0.558,0.4,0.4,0.2,0.4,0.2,2017-18,2017,2018
-22017,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.891,55,0.055,1.148,0.583,0.148,0.0,0.111,0.037,0.593,0.583,0.5,0.6,0.3,0.4,0.2,2017-18,2017,2018
-22017,1627749,Dejounte Murray,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.599,81,0.022,0.944,0.4,0.167,0.056,0.167,0.056,0.444,0.4,0.2,0.2,0.1,0.2,0.1,2017-18,2017,2018
-22017,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.484,77,0.038,0.875,0.357,0.0,0.125,0.0,0.0,0.313,0.5,0.2,0.2,0.1,0.2,0.1,2017-18,2017,2018

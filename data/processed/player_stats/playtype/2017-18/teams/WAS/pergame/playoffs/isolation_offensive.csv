@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42017,202322,John Wall,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.674,6,0.229,1.0,0.485,0.12,0.05,0.075,0.0,0.525,0.00485,6.7,7.0,2.7,5.5,2.8,2017-18,2017,2018
-42017,203078,Bradley Beal,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.0,6,0.068,0.556,0.333,0.0,0.333,0.0,0.0,0.222,0.00417,1.5,1.0,0.3,1.0,0.7,2017-18,2017,2018
-42017,1626162,Kelly Oubre Jr.,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.0,6,0.016,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.2,0.0,0.2,0.2,0.0,2017-18,2017,2018
-42017,202693,Markieff Morris,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.0,6,0.018,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,0.2,0.0,0.2,0.2,0.0,2017-18,2017,2018
-42017,201951,Ty Lawson,1610612764,WAS,Washington Wizards,Isolation,Offensive,0.0,5,0.063,1.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.4,0.0,0.0,0.2,0.2,2017-18,2017,2018

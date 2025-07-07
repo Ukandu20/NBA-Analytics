@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201942,DeMar DeRozan,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.968,74,0.09,1.133,0.521,0.206,0.061,0.206,0.044,0.567,0.521,180,204,73,140,67,2016-17,2016,2017
-22016,202685,Jonas Valančiūnas,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.558,80,0.242,0.895,0.471,0.114,0.123,0.118,0.032,0.45,0.471,220,197,82,174,92,2016-17,2016,2017
-22016,201586,Serge Ibaka,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.402,23,0.138,0.848,0.436,0.065,0.087,0.022,0.0,0.435,0.436,46,39,17,39,22,2016-17,2016,2017
-22016,1627783,Pascal Siakam,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.458,55,0.059,0.867,0.462,0.067,0.067,0.067,0.0,0.467,0.462,15,13,6,13,7,2016-17,2016,2017
-22016,200768,Kyle Lowry,1610612761,TOR,Toronto Raptors,Postup,Offensive,0.217,60,0.011,0.769,0.417,0.0,0.077,0.0,0.0,0.385,0.417,13,10,5,12,7,2016-17,2016,2017

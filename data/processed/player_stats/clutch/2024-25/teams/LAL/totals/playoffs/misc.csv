@@ -1,8 +1,0 @@
-player_id,player,nickname,team_id,team,age,gp,w,l,w_pct,min,pts_off_tov,pts_2nd_chance,pts_fb,pts_paint,opp_pts_off_tov,opp_pts_2nd_chance,opp_pts_fb,opp_pts_paint,blk,blka,pf,pfd,nba_fantasy_pts,gp_rank,w_rank,l_rank,w_pct_rank,min_rank,pts_off_tov_rank,pts_2nd_chance_rank,pts_fb_rank,pts_paint_rank,opp_pts_off_tov_rank,opp_pts_2nd_chance_rank,opp_pts_fb_rank,opp_pts_paint_rank,blk_rank,blka_rank,pf_rank,pfd_rank,nba_fantasy_pts_rank
-1630559,Austin Reaves,Austin,1610612747,LAL,27.0,3,0,3,0.0,10.5,0,0,0,0,4,2,2,12,0,0,1,1,8.1,56,84,90,84,45,30,32,18,50,87,48,64,89,29,1,56,40,49
-1627827,Dorian Finney-Smith,Dorian,1610612747,LAL,32.0,2,0,2,0.0,7.333333333333333,0,0,0,0,2,0,0,6,0,0,0,0,4.2,76,84,62,84,60,30,32,18,50,56,1,1,61,29,1,1,60,66
-1629216,Gabe Vincent,Gabe,1610612747,LAL,29.0,1,0,1,0.0,1.4166666666666667,0,0,0,0,0,0,2,4,0,0,0,0,0.0,100,84,9,84,111,30,32,18,50,1,1,64,46,29,1,1,60,107
-2544,LeBron James,LeBron,1610612747,LAL,40.0,3,0,3,0.0,10.5,0,0,0,0,4,2,2,12,2,0,1,1,9.5,56,84,90,84,45,30,32,18,50,87,48,64,89,2,1,56,40,44
-1629029,Luka Dončić,Luka,1610612747,LAL,26.0,3,0,3,0.0,10.5,0,0,0,2,4,2,2,12,0,0,1,1,6.2,56,84,90,84,45,30,32,18,33,87,48,64,89,29,1,56,40,54
-1628467,Maxi Kleber,Maxi,1610612747,LAL,33.0,1,0,1,0.0,1.75,0,0,0,0,2,2,0,2,0,0,0,1,-1.0,100,84,9,84,108,30,32,18,50,56,48,1,22,29,1,1,40,128
-1629060,Rui Hachimura,Rui,1610612747,LAL,27.0,3,0,3,0.0,10.5,0,0,0,0,4,2,2,12,0,0,3,0,4.2,56,84,90,84,45,30,32,18,50,87,48,64,89,29,1,115,60,66

@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42023,1626157,Karl-Anthony Towns,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.84,16,0.052,0.933,0.75,0.333,0.4,0.133,0.0,0.533,0.0075,15,14,3,4,1,2023-24,2023,2024
-42023,1630162,Anthony Edwards,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.542,16,0.026,0.636,0.25,0.182,0.455,0.0,0.0,0.273,0.00375,11,7,1,4,3,2023-24,2023,2024
-42023,203497,Rudy Gobert,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.4,15,0.062,0.6,1.0,0.3,0.6,0.0,0.0,0.4,0.01,10,6,1,1,0,2023-24,2023,2024
-42023,1629638,Nickeil Alexander-Walker,1610612750,MIN,Minnesota Timberwolves,Misc,Offensive,0.08,16,0.076,0.2,0.0,0.1,0.8,0.0,0.0,0.1,0.0,10,2,0,1,1,2023-24,2023,2024

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,202330,Gordon Hayward,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.638,80,0.244,0.824,0.38,0.158,0.173,0.125,0.023,0.398,0.417,392,323,103,271,168,2015-16,2015,2016
-22015,203918,Rodney Hood,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.769,80,0.293,0.876,0.403,0.11,0.133,0.104,0.014,0.406,0.448,347,304,108,268,160,2015-16,2015,2016
-22015,203504,Trey Burke,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.679,64,0.347,0.842,0.435,0.089,0.135,0.069,0.023,0.409,0.444,259,218,90,207,117,2015-16,2015,2016
-22015,202692,Alec Burks,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.626,31,0.315,0.821,0.426,0.093,0.143,0.086,0.021,0.386,0.458,140,115,46,108,62,2015-16,2015,2016
-22015,202714,Shelvin Mack,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.272,28,0.356,0.673,0.382,0.06,0.227,0.047,0.02,0.32,0.405,150,101,42,110,68,2015-16,2015,2016
-22015,203526,Raul Neto,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.197,81,0.278,0.626,0.375,0.09,0.297,0.052,0.006,0.31,0.396,155,97,36,96,60,2015-16,2015,2016
-22015,204060,Joe Ingles,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.131,81,0.155,0.571,0.325,0.018,0.25,0.0,0.0,0.25,0.375,56,32,13,40,27,2015-16,2015,2016
-22015,203187,Chris Johnson,1610612762,UTA,Utah Jazz,PRBallHandler,Offensive,0.169,70,0.071,0.611,0.286,0.056,0.167,0.056,0.0,0.278,0.357,18,11,4,14,10,2015-16,2015,2016

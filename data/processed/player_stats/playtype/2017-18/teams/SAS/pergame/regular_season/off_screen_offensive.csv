@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.699,82,0.076,1.079,0.367,0.048,0.016,0.048,0.016,0.381,0.517,0.8,0.8,0.3,0.7,0.5,2017-18,2017,2018
-22017,1627854,Bryn Forbes,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.794,79,0.078,1.136,0.419,0.068,0.0,0.045,0.045,0.432,0.535,0.6,0.6,0.2,0.5,0.3,2017-18,2017,2018
-22017,201980,Danny Green,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.293,70,0.056,0.838,0.313,0.054,0.081,0.054,0.0,0.324,0.438,0.5,0.4,0.1,0.5,0.3,2017-18,2017,2018
-22017,200746,LaMarcus Aldridge,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.254,75,0.023,0.811,0.364,0.108,0.054,0.081,0.054,0.378,0.364,0.5,0.4,0.2,0.4,0.3,2017-18,2017,2018
-22017,202722,Dāvis Bertāns,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.996,77,0.033,1.571,0.538,0.071,0.0,0.071,0.0,0.571,0.731,0.2,0.3,0.1,0.2,0.1,2017-18,2017,2018
-22017,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.032,65,0.047,0.517,0.231,0.034,0.069,0.034,0.0,0.241,0.25,0.4,0.2,0.1,0.4,0.3,2017-18,2017,2018
-22017,200752,Rudy Gay,1610612759,SAS,San Antonio Spurs,OffScreen,Offensive,0.069,57,0.024,0.625,0.231,0.125,0.063,0.125,0.0,0.313,0.231,0.3,0.2,0.1,0.2,0.2,2017-18,2017,2018

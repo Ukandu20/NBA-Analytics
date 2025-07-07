@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.983,4,0.567,1.176,0.542,0.206,0.147,0.235,0.088,0.5,0.00625,8.5,10.0,3.0,6.0,3.0,2016-17,2016,2017
-42016,202331,Paul George,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,1.0,4,0.149,1.235,0.417,0.235,0.059,0.235,0.0,0.529,0.00542,4.3,5.0,1.0,3.0,2.0,2016-17,2016,2017
-42016,202362,Lance Stephenson,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.517,4,0.362,0.857,0.4,0.048,0.048,0.048,0.048,0.381,0.00425,5.3,4.0,2.0,5.0,3.0,2016-17,2016,2017
-42016,101145,Monta Ellis,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.0,4,0.259,0.714,0.4,0.143,0.143,0.143,0.0,0.429,0.004,1.8,1.0,0.3,1.3,1.0,2016-17,2016,2017
-42016,201166,Aaron Brooks,1610612754,IND,Indiana Pacers,PRBallHandler,Offensive,0.0,1,0.25,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1.0,2.0,1.0,1.0,0.0,2016-17,2016,2017

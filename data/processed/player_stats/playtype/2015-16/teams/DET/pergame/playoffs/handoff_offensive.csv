@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42015,202694,Marcus Morris Sr.,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.0,4,0.016,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,0.3,0.8,0.3,0.3,0.0,2015-16,2015,2016
-42015,203484,Kentavious Caldwell-Pope,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.0,4,0.018,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.3,0.3,2015-16,2015,2016
-42015,1626169,Stanley Johnson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.0,4,0.037,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,2015-16,2015,2016
-42015,202704,Reggie Jackson,1610612765,DET,Detroit Pistons,Handoff,Offensive,0.0,4,0.031,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.3,0.3,2015-16,2015,2016

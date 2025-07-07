@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203084,Harrison Barnes,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.816,79,0.178,0.993,0.476,0.116,0.056,0.101,0.026,0.496,0.476,3.4,3.4,1.4,2.9,1.5,2016-17,2016,2017
-22016,1717,Dirk Nowitzki,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.732,54,0.213,0.945,0.433,0.128,0.037,0.098,0.03,0.47,0.433,3.0,2.9,1.1,2.6,1.5,2016-17,2016,2017
-22016,202083,Wesley Matthews,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.226,73,0.082,0.774,0.431,0.107,0.214,0.107,0.012,0.393,0.431,1.2,0.9,0.3,0.8,0.5,2016-17,2016,2017
-22016,101114,Deron Williams,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.868,40,0.05,1.034,0.529,0.276,0.172,0.276,0.034,0.517,0.529,0.7,0.8,0.2,0.4,0.2,2016-17,2016,2017
-22016,101106,Andrew Bogut,1610612742,DAL,Dallas Mavericks,Postup,Offensive,0.37,26,0.094,0.833,0.455,0.0,0.083,0.0,0.0,0.417,0.455,0.5,0.4,0.2,0.4,0.2,2016-17,2016,2017

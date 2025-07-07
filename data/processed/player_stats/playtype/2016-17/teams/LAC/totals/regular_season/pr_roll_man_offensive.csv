@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.991,81,0.195,1.52,0.86,0.222,0.058,0.228,0.082,0.778,0.86,171,260,117,136,19,2016-17,2016,2017
-22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.44,61,0.148,0.99,0.439,0.161,0.047,0.151,0.026,0.484,0.471,192,190,69,157,88,2016-17,2016,2017
-22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.431,82,0.256,0.988,0.382,0.087,0.029,0.081,0.023,0.41,0.478,173,171,60,157,97,2016-17,2016,2017
-22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.848,52,0.257,1.2,0.574,0.231,0.092,0.231,0.046,0.6,0.574,65,78,27,47,20,2016-17,2016,2017
-22016,202325,Wesley Johnson,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.812,68,0.103,1.174,0.522,0.0,0.0,0.0,0.0,0.522,0.587,23,27,12,23,11,2016-17,2016,2017
-22016,201601,Luc Mbah a Moute,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.532,80,0.05,1.043,0.526,0.13,0.087,0.13,0.043,0.522,0.526,23,24,10,19,9,2016-17,2016,2017
-22016,1718,Paul Pierce,1610612746,LAC,LA Clippers,PRRollMan,Offensive,0.737,25,0.154,1.143,0.462,0.071,0.071,0.071,0.071,0.429,0.615,14,16,6,13,7,2016-17,2016,2017

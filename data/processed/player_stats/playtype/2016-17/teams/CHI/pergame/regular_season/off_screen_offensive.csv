@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203926,Doug McDermott,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.743,44,0.204,1.034,0.407,0.102,0.034,0.102,0.057,0.42,0.481,2.0,2.1,0.8,1.8,1.1,2016-17,2016,2017
-22016,202710,Jimmy Butler III,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.862,76,0.043,1.151,0.433,0.11,0.014,0.096,0.041,0.466,0.537,1.0,1.1,0.4,0.9,0.5,2016-17,2016,2017
-22016,2548,Dwyane Wade,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.389,60,0.039,0.875,0.39,0.083,0.042,0.104,0.0,0.396,0.439,0.8,0.7,0.3,0.7,0.4,2016-17,2016,2017
-22016,202703,Nikola Mirotic,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.055,70,0.065,0.531,0.195,0.041,0.122,0.041,0.0,0.204,0.28,0.7,0.4,0.1,0.6,0.5,2016-17,2016,2017
-22016,1627756,Denzel Valentine,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.438,57,0.029,0.9,0.429,0.0,0.3,0.0,0.0,0.3,0.643,0.2,0.2,0.1,0.1,0.1,2016-17,2016,2017
-22016,203487,Michael Carter-Williams,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.438,45,0.025,0.9,0.4,0.1,0.0,0.1,0.1,0.4,0.4,0.2,0.2,0.1,0.2,0.1,2016-17,2016,2017
-22016,203477,Isaiah Canaan,1610612741,CHI,Chicago Bulls,OffScreen,Offensive,0.087,40,0.058,0.583,0.1,0.167,0.0,0.167,0.0,0.25,0.1,0.3,0.2,0.0,0.3,0.2,2016-17,2016,2017

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.202,69,0.234,0.86,0.4,0.11,0.104,0.101,0.026,0.399,0.442,308,265,100,250,150,2016-17,2016,2017
-22016,2730,Dwight Howard,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.834,74,0.101,1.184,0.658,0.184,0.102,0.173,0.031,0.633,0.658,98,116,48,73,25,2016-17,2016,2017
-22016,203488,Mike Muscala,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.555,70,0.212,1.056,0.52,0.067,0.101,0.045,0.011,0.494,0.567,89,94,39,75,36,2016-17,2016,2017
-22016,101141,Ersan Ilyasova,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.183,26,0.19,0.855,0.375,0.073,0.073,0.073,0.018,0.382,0.438,55,47,18,48,30,2016-17,2016,2017
-22016,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.092,56,0.21,0.712,0.32,0.085,0.068,0.085,0.0,0.339,0.35,59,42,16,50,34,2016-17,2016,2017
-22016,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.041,18,0.169,0.583,0.273,0.0,0.083,0.0,0.0,0.25,0.318,12,7,3,11,8,2016-17,2016,2017

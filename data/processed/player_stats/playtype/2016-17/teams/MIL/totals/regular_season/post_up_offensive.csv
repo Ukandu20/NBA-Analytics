@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.563,81,0.306,0.899,0.471,0.132,0.149,0.132,0.041,0.446,0.471,296,266,106,225,119,2016-17,2016,2017
-22016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.684,80,0.086,0.934,0.5,0.171,0.151,0.145,0.033,0.48,0.5,152,142,54,108,54,2016-17,2016,2017
-22016,203953,Jabari Parker,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.874,51,0.055,1.036,0.524,0.2,0.109,0.2,0.073,0.527,0.524,55,57,22,42,20,2016-17,2016,2017
-22016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.942,56,0.087,1.111,0.576,0.178,0.111,0.178,0.022,0.578,0.576,45,50,19,33,14,2016-17,2016,2017
-22016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.532,29,0.118,0.882,0.488,0.039,0.137,0.02,0.02,0.431,0.488,51,45,21,43,22,2016-17,2016,2017
-22016,203089,John Henson,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.668,58,0.11,0.933,0.452,0.222,0.111,0.111,0.022,0.489,0.452,45,42,14,31,17,2016-17,2016,2017
-22016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Postup,Offensive,0.434,75,0.017,0.857,0.455,0.071,0.143,0.071,0.0,0.429,0.455,14,12,5,11,6,2016-17,2016,2017

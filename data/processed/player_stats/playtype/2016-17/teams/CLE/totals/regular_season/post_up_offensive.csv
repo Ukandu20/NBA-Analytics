@@ -1,5 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.447,61,0.232,0.865,0.395,0.212,0.135,0.17,0.031,0.448,0.395,259,224,70,177,107,2016-17,2016,2017
-22016,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.716,74,0.113,0.943,0.509,0.148,0.134,0.124,0.057,0.474,0.509,209,197,82,161,79,2016-17,2016,2017
-22016,101112,Channing Frye,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.737,74,0.078,0.957,0.455,0.191,0.149,0.17,0.043,0.468,0.455,47,45,15,33,18,2016-17,2016,2017
-22016,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,Postup,Offensive,0.784,72,0.025,0.977,0.486,0.07,0.07,0.07,0.0,0.488,0.486,43,42,18,37,19,2016-17,2016,2017

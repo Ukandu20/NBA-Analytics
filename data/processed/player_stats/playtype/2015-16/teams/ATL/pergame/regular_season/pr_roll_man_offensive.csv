@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,201143,Al Horford,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.785,82,0.247,1.13,0.542,0.063,0.04,0.06,0.017,0.538,0.571,3.7,4.1,1.8,3.4,1.5,2015-16,2015,2016
-22015,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.438,81,0.18,0.973,0.431,0.124,0.093,0.105,0.027,0.438,0.502,3.2,3.1,1.1,2.6,1.5,2015-16,2015,2016
-22015,203118,Mike Scott,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.739,75,0.188,1.107,0.443,0.048,0.036,0.036,0.024,0.44,0.551,1.1,1.2,0.5,1.1,0.6,2015-16,2015,2016
-22015,201168,Tiago Splitter,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.111,36,0.159,0.75,0.423,0.031,0.156,0.031,0.0,0.375,0.423,0.9,0.7,0.3,0.7,0.4,2015-16,2015,2016
-22015,2743,Kris Humphries,1610612737,ATL,Atlanta Hawks,PRRollMan,Offensive,0.105,21,0.197,0.741,0.333,0.037,0.074,0.037,0.0,0.296,0.417,1.3,1.0,0.4,1.1,0.8,2015-16,2015,2016

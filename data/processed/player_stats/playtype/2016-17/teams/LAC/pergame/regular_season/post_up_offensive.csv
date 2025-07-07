@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,201933,Blake Griffin,1610612746,LAC,LA Clippers,Postup,Offensive,0.653,61,0.188,0.927,0.471,0.147,0.11,0.127,0.033,0.469,0.471,4.0,3.7,1.5,3.1,1.6,2016-17,2016,2017
-22016,201599,DeAndre Jordan,1610612746,LAC,LA Clippers,Postup,Offensive,0.526,81,0.106,0.882,0.508,0.204,0.172,0.183,0.032,0.484,0.508,1.1,1.0,0.4,0.8,0.4,2016-17,2016,2017
-22016,101138,Brandon Bass,1610612746,LAC,LA Clippers,Postup,Offensive,0.963,52,0.213,1.13,0.641,0.13,0.167,0.111,0.019,0.574,0.641,1.0,1.2,0.5,0.8,0.3,2016-17,2016,2017
-22016,201578,Marreese Speights,1610612746,LAC,LA Clippers,Postup,Offensive,0.767,82,0.093,0.968,0.469,0.127,0.095,0.127,0.0,0.492,0.469,0.8,0.7,0.3,0.6,0.3,2016-17,2016,2017
-22016,101108,Chris Paul,1610612746,LAC,LA Clippers,Postup,Offensive,0.958,61,0.03,1.129,0.593,0.065,0.065,0.065,0.0,0.581,0.593,0.5,0.6,0.3,0.4,0.2,2016-17,2016,2017

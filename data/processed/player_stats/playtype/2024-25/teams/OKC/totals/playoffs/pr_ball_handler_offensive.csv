@@ -1,4 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1628983,Shai Gilgeous-Alexander,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.712,23,0.425,1.036,0.479,0.143,0.1,0.121,0.025,0.493,0.514,280,290,105,219,114,2024-25,2024,2025
-42024,1631114,Jalen Williams,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.78,23,0.33,1.098,0.52,0.146,0.098,0.14,0.018,0.53,0.547,164,180,66,127,61,2024-25,2024,2025
-42024,1630598,Aaron Wiggins,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,22,0.112,0.313,0.1,0.125,0.25,0.125,0.0,0.188,0.1,16,5,1,10,9,2024-25,2024,2025

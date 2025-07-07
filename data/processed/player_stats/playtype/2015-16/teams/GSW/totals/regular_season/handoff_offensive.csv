@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,201939,Stephen Curry,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.903,79,0.047,1.179,0.514,0.084,0.158,0.021,0.0,0.474,0.66,95,112,37,72,35,2015-16,2015,2016
-22015,202691,Klay Thompson,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.911,80,0.036,1.207,0.5,0.121,0.086,0.121,0.0,0.517,0.62,58,70,23,46,23,2015-16,2015,2016
-22015,2571,Leandro Barbosa,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.706,68,0.053,0.958,0.5,0.125,0.167,0.125,0.042,0.458,0.556,24,23,9,18,9,2015-16,2015,2016
-22015,203110,Draymond Green,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.957,81,0.013,1.25,0.615,0.063,0.188,0.063,0.063,0.5,0.769,16,20,8,13,5,2015-16,2015,2016
-22015,2738,Andre Iguodala,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.992,65,0.023,1.455,0.727,0.0,0.0,0.0,0.0,0.727,0.727,11,16,8,11,3,2015-16,2015,2016
-22015,2733,Shaun Livingston,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.089,78,0.04,0.55,0.222,0.1,0.05,0.1,0.05,0.25,0.222,20,11,4,18,14,2015-16,2015,2016
-22015,203084,Harrison Barnes,1610612744,GSW,Golden State Warriors,Handoff,Offensive,0.438,66,0.013,0.8,0.25,0.2,0.0,0.2,0.0,0.4,0.313,10,8,2,8,6,2015-16,2015,2016

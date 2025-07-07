@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,1626164,Devin Booker,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.113,78,0.047,0.598,0.258,0.092,0.161,0.069,0.011,0.276,0.295,87,52,17,66,49,2016-17,2016,2017
-22016,202339,Eric Bledsoe,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.346,66,0.03,0.814,0.406,0.093,0.186,0.093,0.023,0.372,0.438,43,35,13,32,19,2016-17,2016,2017
-22016,202688,Brandon Knight,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.254,54,0.05,0.735,0.393,0.029,0.147,0.029,0.0,0.353,0.429,34,25,11,28,17,2016-17,2016,2017
-22016,2571,Leandro Barbosa,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.508,67,0.048,0.909,0.421,0.045,0.091,0.045,0.0,0.409,0.474,22,20,8,19,11,2016-17,2016,2017
-22016,203933,T.J. Warren,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.158,67,0.031,0.655,0.346,0.034,0.069,0.0,0.0,0.345,0.346,29,19,9,26,17,2016-17,2016,2017
-22016,1627755,Tyler Ulis,1610612756,PHX,Phoenix Suns,Handoff,Offensive,0.165,61,0.022,0.667,0.444,0.0,0.25,0.0,0.0,0.333,0.444,12,8,4,9,5,2016-17,2016,2017

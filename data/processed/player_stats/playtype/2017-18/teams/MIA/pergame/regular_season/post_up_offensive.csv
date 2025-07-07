@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,202355,Hassan Whiteside,1610612748,MIA,Miami Heat,Postup,Offensive,0.657,54,0.21,0.929,0.472,0.141,0.122,0.135,0.051,0.455,0.472,2.9,2.7,1.1,2.3,1.2,2017-18,2017,2018
-22017,203482,Kelly Olynyk,1610612748,MIA,Miami Heat,Postup,Offensive,0.5,76,0.092,0.873,0.543,0.165,0.266,0.127,0.013,0.468,0.543,1.0,0.9,0.3,0.6,0.3,2017-18,2017,2018
-22017,1628389,Bam Adebayo,1610612748,MIA,Miami Heat,Postup,Offensive,0.142,69,0.113,0.655,0.314,0.2,0.182,0.182,0.036,0.345,0.314,0.8,0.5,0.2,0.5,0.3,2017-18,2017,2018
-22017,201949,James Johnson,1610612748,MIA,Miami Heat,Postup,Offensive,0.542,73,0.041,0.882,0.5,0.118,0.206,0.088,0.029,0.441,0.5,0.5,0.4,0.2,0.3,0.2,2017-18,2017,2018
-22017,2548,Dwyane Wade,1610612748,MIA,Miami Heat,Postup,Offensive,0.114,21,0.104,0.636,0.345,0.03,0.121,0.03,0.03,0.303,0.345,1.6,1.0,0.5,1.4,0.9,2017-18,2017,2018
-22017,201609,Goran Dragic,1610612748,MIA,Miami Heat,Postup,Offensive,0.652,75,0.01,0.929,0.455,0.143,0.071,0.143,0.0,0.5,0.455,0.2,0.2,0.1,0.1,0.1,2017-18,2017,2018
-22017,1626196,Josh Richardson,1610612748,MIA,Miami Heat,Postup,Offensive,0.211,81,0.01,0.727,0.3,0.091,0.0,0.091,0.0,0.364,0.3,0.1,0.1,0.0,0.1,0.1,2017-18,2017,2018
-22017,1626159,Justise Winslow,1610612748,MIA,Miami Heat,Postup,Offensive,0.0,68,0.026,0.25,0.143,0.063,0.125,0.063,0.063,0.125,0.143,0.2,0.1,0.0,0.2,0.2,2017-18,2017,2018

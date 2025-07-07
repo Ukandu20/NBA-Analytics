@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,203501,Tim Hardaway Jr.,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.4,6,0.13,0.923,0.273,0.154,0.0,0.154,0.0,0.385,0.00364,13,12,3,11,8,2016-17,2016,2017
-42016,200794,Paul Millsap,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.048,1.429,0.6,0.143,0.143,0.143,0.0,0.571,0.006999999999999999,7,10,3,5,2,2016-17,2016,2017
-42016,2399,Mike Dunleavy,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.133,3.0,1.0,0.0,0.0,0.0,0.0,1.0,0.015,2,6,2,2,0,2016-17,2016,2017
-42016,1627752,Taurean Prince,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.082,1.2,0.6,0.0,0.0,0.0,0.0,0.6,0.006,5,6,3,5,2,2016-17,2016,2017
-42016,203471,Dennis Schröder,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.059,0.625,0.143,0.125,0.0,0.0,0.0,0.25,0.00214,8,5,1,7,6,2016-17,2016,2017
-42016,101181,Jose Calderon,1610612737,ATL,Atlanta Hawks,OffScreen,Offensive,0.0,6,0.148,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,4,0,0,3,3,2016-17,2016,2017

@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,1626167,Myles Turner,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.866,81,0.07,1.312,0.623,0.156,0.0,0.143,0.052,0.649,0.623,77,101,43,69,26,2016-17,2016,2017
-22016,2744,Al Jefferson,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.5,66,0.094,1.059,0.511,0.118,0.0,0.118,0.0,0.549,0.511,51,54,23,45,22,2016-17,2016,2017
-22016,202730,Lavoy Allen,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.23,61,0.211,0.911,0.514,0.111,0.156,0.089,0.044,0.444,0.514,45,41,18,35,17,2016-17,2016,2017
-22016,101139,CJ Miles,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.997,76,0.027,1.684,0.938,0.053,0.158,0.053,0.053,0.789,0.969,19,32,15,16,1,2016-17,2016,2017
-22016,202338,Kevin Seraphin,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.664,49,0.11,1.154,0.625,0.0,0.077,0.0,0.0,0.577,0.625,26,30,15,24,9,2016-17,2016,2017
-22016,202331,Paul George,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.307,75,0.017,0.966,0.5,0.138,0.207,0.138,0.034,0.448,0.525,29,28,10,20,10,2016-17,2016,2017
-22016,203922,Glenn Robinson III,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.238,69,0.056,0.913,0.444,0.174,0.087,0.13,0.043,0.478,0.444,23,21,8,18,10,2016-17,2016,2017
-22016,201952,Jeff Teague,1610612754,IND,Indiana Pacers,OffRebound,Offensive,0.363,82,0.014,1.0,0.583,0.167,0.222,0.167,0.056,0.5,0.583,18,18,7,12,5,2016-17,2016,2017

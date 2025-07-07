@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,203500,Steven Adams,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.167,1.667,1.0,0.0,0.167,0.0,0.0,0.833,0.01,6,10,5,5,0,2016-17,2016,2017
-42016,203460,Andre Roberson,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.127,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.005,8,8,4,8,4,2016-17,2016,2017
-42016,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.009,2.0,1.0,0.5,0.0,0.5,0.5,1.0,0.01,2,4,2,2,0,2016-17,2016,2017
-42016,201959,Taj Gibson,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.043,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,2,4,2,2,0,2016-17,2016,2017
-42016,202683,Enes Freedom,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.1,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.006670000000000001,3,4,2,3,1,2016-17,2016,2017
-42016,203924,Jerami Grant,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.108,1.0,0.667,0.0,0.25,0.0,0.0,0.5,0.006670000000000001,4,4,2,3,1,2016-17,2016,2017
-42016,203518,Alex Abrines,1610612760,OKC,Oklahoma City Thunder,OffRebound,Offensive,0.0,5,0.04,2.0,1.0,0.0,0.0,0.0,0.0,1.0,0.01,1,2,1,1,0,2016-17,2016,2017

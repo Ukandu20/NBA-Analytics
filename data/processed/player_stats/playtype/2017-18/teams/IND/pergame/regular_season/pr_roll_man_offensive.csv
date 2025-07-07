@@ -1,6 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22017,1627734,Domantas Sabonis,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.3,74,0.421,0.989,0.505,0.151,0.106,0.146,0.05,0.489,0.0051,5.1,5.1,2.0,4.0,2.0,2017-18,2017,2018
-22017,1626167,Myles Turner,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.406,65,0.386,1.031,0.465,0.107,0.069,0.103,0.025,0.47,0.00517,4.9,5.1,1.9,4.2,2.2,2017-18,2017,2018
-22017,2744,Al Jefferson,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.507,36,0.233,1.071,0.54,0.089,0.071,0.071,0.054,0.518,0.0054,1.6,1.7,0.8,1.4,0.6,2017-18,2017,2018
-22017,202344,Trevor Booker,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.589,17,0.265,1.115,0.522,0.077,0.038,0.077,0.0,0.538,0.00565,1.5,1.7,0.7,1.4,0.6,2017-18,2017,2018
-22017,202711,Bojan Bogdanović,1610612754,IND,Indiana Pacers,PRRollMan,Offensive,0.594,80,0.016,1.118,0.5,0.176,0.118,0.176,0.0,0.529,0.00625,0.2,0.2,0.1,0.2,0.1,2017-18,2017,2018

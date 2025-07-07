@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22015,202684,Tristan Thompson,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.478,82,0.235,1.043,0.528,0.201,0.065,0.173,0.043,0.547,0.528,1.7,1.8,0.7,1.3,0.6,2015-16,2015,2016
-22015,2544,LeBron James,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.909,76,0.036,1.299,0.623,0.119,0.015,0.104,0.045,0.642,0.623,0.9,1.1,0.5,0.8,0.3,2015-16,2015,2016
-22015,201567,Kevin Love,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.199,77,0.056,0.887,0.382,0.169,0.07,0.155,0.014,0.437,0.382,0.9,0.8,0.3,0.7,0.4,2015-16,2015,2016
-22015,202389,Timofey Mozgov,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.448,76,0.087,1.024,0.571,0.049,0.122,0.049,0.024,0.512,0.571,0.5,0.6,0.3,0.5,0.2,2015-16,2015,2016
-22015,202681,Kyrie Irving,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.037,53,0.014,0.667,0.286,0.2,0.333,0.133,0.0,0.333,0.357,0.3,0.2,0.0,0.1,0.1,2015-16,2015,2016
-22015,2760,Anderson Varejao,1610612739,CLE,Cleveland Cavaliers,OffRebound,Offensive,0.064,31,0.108,0.727,0.364,0.0,0.0,0.0,0.0,0.364,0.364,0.4,0.3,0.1,0.4,0.2,2015-16,2015,2016

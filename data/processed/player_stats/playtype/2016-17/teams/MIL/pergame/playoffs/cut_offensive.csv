@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42016,202328,Greg Monroe,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.756,6,0.286,1.364,0.667,0.182,0.091,0.136,0.091,0.636,0.667,3.7,5.0,2.0,3.0,1.0,2016-17,2016,2017
-42016,203507,Giannis Antetokounmpo,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.175,6,0.111,1.059,0.563,0.059,0.0,0.059,0.0,0.529,0.563,2.8,3.0,1.5,2.7,1.2,2016-17,2016,2017
-42016,1627763,Malcolm Brogdon,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,6,0.03,2.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.3,0.7,0.3,0.3,0.0,2016-17,2016,2017
-42016,203114,Khris Middleton,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,6,0.031,1.333,0.667,0.0,0.0,0.0,0.0,0.667,0.667,0.5,0.7,0.3,0.5,0.2,2016-17,2016,2017
-42016,203089,John Henson,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,2,0.6,1.0,0.5,0.333,0.333,0.333,0.333,0.333,0.5,1.5,1.5,0.5,1.0,0.5,2016-17,2016,2017
-42016,203503,Tony Snell,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,6,0.043,1.0,0.5,0.0,0.0,0.0,0.0,0.5,0.5,0.3,0.3,0.2,0.3,0.2,2016-17,2016,2017
-42016,201563,Michael Beasley,1610612749,MIL,Milwaukee Bucks,Cut,Offensive,0.0,4,0.125,0.667,0.333,0.0,0.0,0.0,0.0,0.333,0.333,0.8,0.5,0.3,0.8,0.5,2016-17,2016,2017

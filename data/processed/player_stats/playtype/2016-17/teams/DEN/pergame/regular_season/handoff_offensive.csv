@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,1627750,Jamal Murray,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.738,82,0.102,1.011,0.472,0.121,0.11,0.11,0.022,0.473,0.528,1.1,1.0,0.4,0.9,0.5,2016-17,2016,2017
-22016,203914,Gary Harris,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.3,57,0.143,0.773,0.363,0.082,0.118,0.082,0.027,0.336,0.412,1.9,1.0,0.6,1.6,1.0,2016-17,2016,2017
-22016,2749,Jameer Nelson,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.85,75,0.096,1.096,0.484,0.068,0.082,0.041,0.014,0.466,0.589,1.0,1.0,0.4,0.8,0.4,2016-17,2016,2017
-22016,201568,Danilo Gallinari,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.619,63,0.08,0.95,0.429,0.1,0.125,0.05,0.013,0.425,0.5,1.3,1.0,0.4,1.0,0.6,2016-17,2016,2017
-22016,201163,Wilson Chandler,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.754,71,0.06,1.029,0.467,0.088,0.059,0.088,0.029,0.471,0.525,1.0,1.0,0.4,0.8,0.5,2016-17,2016,2017
-22016,1626144,Emmanuel Mudiay,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.421,56,0.087,0.862,0.362,0.062,0.062,0.062,0.015,0.354,0.44,1.2,1.0,0.4,1.0,0.7,2016-17,2016,2017
-22016,203115,Will Barton,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.492,61,0.061,0.902,0.375,0.078,0.137,0.078,0.0,0.353,0.5,0.8,1.0,0.2,0.7,0.4,2016-17,2016,2017
-22016,1627823,Juancho Hernangomez,1610612743,DEN,Denver Nuggets,Handoff,Offensive,0.042,62,0.045,0.462,0.167,0.0,0.077,0.0,0.0,0.154,0.25,0.2,0.0,0.0,0.2,0.2,2016-17,2016,2017

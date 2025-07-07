@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42024,1627783,Pascal Siakam,1610612754,IND,Indiana Pacers,Transition,Offensive,0.849,23,0.226,1.375,0.676,0.229,0.073,0.208,0.042,0.677,0.718,96,132,48,71,23,2024-25,2024,2025
-42024,1629614,Andrew Nembhard,1610612754,IND,Indiana Pacers,Transition,Offensive,0.698,23,0.189,1.259,0.639,0.148,0.185,0.111,0.0,0.574,0.75,54,68,23,36,13,2024-25,2024,2025
-42024,1630174,Aaron Nesmith,1610612754,IND,Indiana Pacers,Transition,Offensive,0.86,23,0.185,1.404,0.558,0.021,0.064,0.021,0.0,0.532,0.744,47,66,24,43,19,2024-25,2024,2025
-42024,1631097,Bennedict Mathurin,1610612754,IND,Indiana Pacers,Transition,Offensive,0.663,22,0.244,1.245,0.581,0.358,0.094,0.34,0.038,0.623,0.629,53,66,18,31,13,2024-25,2024,2025
-42024,1630169,Tyrese Haliburton,1610612754,IND,Indiana Pacers,Transition,Offensive,0.384,23,0.132,1.058,0.543,0.154,0.231,0.115,0.058,0.462,0.614,52,55,19,35,16,2024-25,2024,2025
-42024,1630167,Obi Toppin,1610612754,IND,Indiana Pacers,Transition,Offensive,0.412,23,0.213,1.067,0.594,0.156,0.156,0.156,0.022,0.556,0.609,45,48,19,32,13,2024-25,2024,2025
-42024,204456,T.J. McConnell,1610612754,IND,Indiana Pacers,Transition,Offensive,0.233,23,0.159,0.919,0.556,0.081,0.189,0.081,0.0,0.459,0.556,37,34,15,27,12,2024-25,2024,2025
-42024,1626167,Myles Turner,1610612754,IND,Indiana Pacers,Transition,Offensive,0.779,23,0.073,1.318,0.632,0.091,0.091,0.091,0.045,0.591,0.711,22,29,12,19,7,2024-25,2024,2025

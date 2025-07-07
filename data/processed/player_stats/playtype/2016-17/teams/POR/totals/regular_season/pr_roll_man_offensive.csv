@@ -1,9 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,203486,Mason Plumlee,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.239,54,0.185,0.888,0.458,0.216,0.112,0.233,0.06,0.474,0.458,116,103,38,83,45,2016-17,2016,2017
-22016,203086,Meyers Leonard,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.167,74,0.271,0.846,0.348,0.0,0.043,0.0,0.0,0.333,0.442,117,99,39,112,73,2016-17,2016,2017
-22016,203994,Jusuf Nurkić,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.417,20,0.294,0.98,0.513,0.17,0.11,0.17,0.06,0.48,0.513,100,98,40,78,38,2016-17,2016,2017
-22016,202334,Ed Davis,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.245,46,0.247,0.889,0.487,0.148,0.13,0.111,0.0,0.463,0.487,54,48,19,39,20,2016-17,2016,2017
-22016,203943,Noah Vonleh,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.817,74,0.106,1.175,0.586,0.225,0.125,0.225,0.075,0.575,0.603,40,47,17,29,12,2016-17,2016,2017
-22016,202329,Al-Farouq Aminu,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.128,61,0.075,0.783,0.324,0.109,0.152,0.109,0.0,0.348,0.412,46,36,11,34,23,2016-17,2016,2017
-22016,203090,Maurice Harkless,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.697,77,0.041,1.129,0.6,0.065,0.129,0.065,0.0,0.516,0.66,31,35,15,25,10,2016-17,2016,2017
-22016,203459,Allen Crabbe,1610612757,POR,Portland Trail Blazers,PRRollMan,Offensive,0.936,79,0.017,1.308,0.5,0.0,0.077,0.0,0.0,0.462,0.708,13,17,6,12,6,2016-17,2016,2017

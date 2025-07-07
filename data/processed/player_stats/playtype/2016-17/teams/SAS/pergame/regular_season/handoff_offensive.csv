@@ -1,8 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-22016,202695,Kawhi Leonard,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.792,74,0.063,1.047,0.494,0.121,0.103,0.103,0.037,0.486,0.517,1.4,2.0,0.6,1.2,0.6,2016-17,2016,2017
-22016,201988,Patty Mills,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.64,80,0.097,0.959,0.443,0.068,0.082,0.068,0.0,0.438,0.5,0.9,1.0,0.3,0.8,0.4,2016-17,2016,2017
-22016,1938,Manu Ginobili,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.742,69,0.087,1.02,0.444,0.14,0.16,0.1,0.02,0.42,0.569,0.7,1.0,0.2,0.5,0.3,2016-17,2016,2017
-22016,203613,Jonathon Simmons,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.454,78,0.078,0.886,0.395,0.114,0.045,0.091,0.023,0.432,0.421,0.6,0.0,0.2,0.5,0.3,2016-17,2016,2017
-22016,2225,Tony Parker,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.133,63,0.073,0.635,0.326,0.038,0.077,0.038,0.0,0.327,0.326,0.8,1.0,0.2,0.7,0.5,2016-17,2016,2017
-22016,201980,Danny Green,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.242,68,0.047,0.72,0.3,0.04,0.16,0.04,0.0,0.28,0.4,0.4,0.0,0.1,0.3,0.2,2016-17,2016,2017
-22016,203937,Kyle Anderson,1610612759,SAS,San Antonio Spurs,Handoff,Offensive,0.274,72,0.058,0.75,0.5,0.0,0.25,0.0,0.0,0.375,0.5,0.2,0.0,0.1,0.2,0.1,2016-17,2016,2017

@@ -1,7 +1,0 @@
-season_id,player_id,player,team_id,team,team_name,play_type,type_grouping,percentile,gp,poss_pct,ppp,fg_pct,ft_poss_pct,tov_poss_pct,sf_poss_pct,plusone_poss_pct,score_poss_pct,efg_pct,poss,pts,fgm,fga,fgmx,season,season_start,season_end
-42015,201566,Russell Westbrook,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.148,18,0.316,0.627,0.28,0.101,0.172,0.089,0.012,0.296,0.00308,169,106,35,125,90,2015-16,2015,2016
-42015,201142,Kevin Durant,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.508,18,0.157,0.867,0.39,0.157,0.181,0.145,0.048,0.386,0.00415,83,72,23,59,36,2015-16,2015,2016
-42015,203079,Dion Waiters,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.41,18,0.285,0.809,0.419,0.191,0.17,0.191,0.043,0.383,0.00452,47,38,13,31,18,2015-16,2015,2016
-42015,1626166,Cameron Payne,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.131,10,0.389,0.571,0.3,0.071,0.214,0.071,0.0,0.286,0.003,14,8,3,10,7,2015-16,2015,2016
-42015,201627,Anthony Morrow,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,14,0.094,1.667,0.5,0.333,0.0,0.333,0.0,0.667,0.005,3,5,1,2,1,2015-16,2015,2016
-42015,200751,Randy Foye,1610612760,OKC,Oklahoma City Thunder,PRBallHandler,Offensive,0.0,16,0.148,0.0,0.0,0.0,0.125,0.0,0.0,0.0,0.0,8,0,0,7,7,2015-16,2015,2016
